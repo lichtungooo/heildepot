@@ -1,4 +1,4 @@
-const API = 'https://heildepot-server.onrender.com/api'
+const API = '/api'
 
 function getToken() {
   return localStorage.getItem('heildepot_token')
