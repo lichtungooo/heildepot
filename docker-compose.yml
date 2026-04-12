@@ -15,10 +15,10 @@ services:
       - MAIL_FROM=${MAIL_FROM}
       - ADMIN_EMAIL=${ADMIN_EMAIL}
       - ADMIN_PASS=${ADMIN_PASS}
-      - FRONTEND_URL=https://heildepot.eli.eco
+      - FRONTEND_URL=https://heildepot.wir.ooo
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.heildepot.rule=Host(`heildepot.eli.eco`)"
+      - "traefik.http.routers.heildepot.rule=Host(`heildepot.wir.ooo`)"
       - "traefik.http.routers.heildepot.entrypoints=websecure"
       - "traefik.http.routers.heildepot.tls.certresolver=letsencrypt"
       - "traefik.http.services.heildepot.loadbalancer.server.port=3001"
