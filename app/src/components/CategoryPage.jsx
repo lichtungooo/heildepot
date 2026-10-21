@@ -457,51 +457,55 @@ function HexenwissenPage({ onSearch }) {
   // Build grouped navigation: Überkategorien with sub-sections
   const navGroups = useMemo(() => {
     const groups = []
+    const hr = (cat) => HEXENREZEPTE?.filter(r => r.kategorie === cat) || []
 
-    // 1. Teemischungen
-    if (KRAEUTERMISCHUNGEN?.length) groups.push({ id: 'teemischungen', label: 'Teemischungen', sections: [
-      { id: 'teemischungen', label: 'Teemischungen', items: KRAEUTERMISCHUNGEN },
-    ]})
+    // ─── ZUBEREITUNGEN ───────────────────────────
+    // 1. Teemischungen & Traenke
+    const teeSections = []
+    if (KRAEUTERMISCHUNGEN?.length) teeSections.push({ id: 'teemischungen', label: 'Teemischungen', items: KRAEUTERMISCHUNGEN })
+    if (hr('Kater-Killer').length) teeSections.push({ id: 'hr-kater', label: 'Kater-Killer', items: hr('Kater-Killer') })
+    if (hr('Regeneration & Detox').length) teeSections.push({ id: 'hr-detox', label: 'Regeneration & Detox', items: hr('Regeneration & Detox') })
+    if (hr('Energie & Power').length) teeSections.push({ id: 'hr-energie', label: 'Energie & Power', items: hr('Energie & Power') })
+    if (teeSections.length) groups.push({ id: 'tees', label: 'Tees & Traenke', sections: teeSections })
 
     // 2. Salben & Balsame
     if (SALBEN_REZEPTE?.length) groups.push({ id: 'salben', label: 'Salben & Balsame', sections: [
       { id: 'salben', label: 'Salben & Balsame', items: SALBEN_REZEPTE },
     ]})
 
-    // 3. Tinkturen
-    if (TINKTUREN_REZEPTE?.length) groups.push({ id: 'tinkturen', label: 'Tinkturen', sections: [
-      { id: 'tinkturen', label: 'Tinkturen', items: TINKTUREN_REZEPTE },
-    ]})
+    // 3. Tinkturen & Elixiere
+    const tinkSections = []
+    if (TINKTUREN_REZEPTE?.length) tinkSections.push({ id: 'tinkturen', label: 'Tinkturen', items: TINKTUREN_REZEPTE })
+    if (hr('Liebestraenke').length) tinkSections.push({ id: 'hr-liebe', label: 'Liebestraenke', items: hr('Liebestraenke') })
+    if (tinkSections.length) groups.push({ id: 'tinkturen-elixiere', label: 'Tinkturen & Elixiere', sections: tinkSections })
 
-    // 4. Traenke & Rezepte (Hexenrezepte grouped)
-    if (HEXENREZEPTE?.length) {
-      const cats = [...new Set(HEXENREZEPTE.map(r => r.kategorie))]
-      groups.push({ id: 'traenke', label: 'Traenke & Rezepte', sections:
-        cats.map(cat => ({ id: 'hr-' + cat, label: cat, items: HEXENREZEPTE.filter(r => r.kategorie === cat) }))
-      })
-    }
+    // ─── KOERPER & SEELE ─────────────────────────
+    // 4. Frau, Mann & Kind
+    const fmkSections = []
+    if (hr('Frauen-Heilkunde').length) fmkSections.push({ id: 'hr-frauen', label: 'Frauen-Heilkunde', items: hr('Frauen-Heilkunde') })
+    if (hr('Maenner-Kraft').length) fmkSections.push({ id: 'hr-maenner', label: 'Maenner-Kraft', items: hr('Maenner-Kraft') })
+    if (hr('Kinder-Zauber').length) fmkSections.push({ id: 'hr-kinder', label: 'Kinder-Zauber', items: hr('Kinder-Zauber') })
+    if (hr('Schoenheit & Jugend').length) fmkSections.push({ id: 'hr-schoenheit', label: 'Schoenheit & Jugend', items: hr('Schoenheit & Jugend') })
+    if (fmkSections.length) groups.push({ id: 'koerper', label: 'Koerper & Schoenheit', sections: fmkSections })
 
-    // 5. Alchemie & Spagyrik
-    const alchemieSections = []
-    if (ALCHEMIE?.length) alchemieSections.push({ id: 'alchemie-basis', label: 'Grundlagen', items: ALCHEMIE, renderer: 'abschnitte' })
-    if (ALCHEMIE_DEEP?.length) {
-      const cats = [...new Set(ALCHEMIE_DEEP.map(r => r.kategorie))]
-      cats.forEach(cat => alchemieSections.push({ id: 'ad-' + cat, label: cat, items: ALCHEMIE_DEEP.filter(r => r.kategorie === cat) }))
-    }
-    if (alchemieSections.length) groups.push({ id: 'alchemie', label: 'Alchemie & Spagyrik', sections: alchemieSections })
+    // 5. Schutz & Reinigung
+    const schutzSections = []
+    if (hr('Schutz & Reinigung').length) schutzSections.push({ id: 'hr-schutz', label: 'Schutz & Reinigung', items: hr('Schutz & Reinigung') })
+    if (hr('Erste Hilfe -- Natuerlich').length) schutzSections.push({ id: 'hr-erstehilfe', label: 'Erste Hilfe', items: hr('Erste Hilfe -- Natuerlich') })
+    if (schutzSections.length) groups.push({ id: 'schutz', label: 'Schutz & Erste Hilfe', sections: schutzSections })
 
-    // 6. Klostermedizin
-    if (KLOSTERMEDIZIN?.length) {
-      const cats = [...new Set(KLOSTERMEDIZIN.map(r => r.kategorie))]
-      groups.push({ id: 'kloster', label: 'Klostermedizin', sections:
-        cats.map(cat => ({ id: 'km-' + cat, label: cat, items: KLOSTERMEDIZIN.filter(r => r.kategorie === cat) }))
-      })
-    }
+    // 6. Natur & Jahreskreis
+    const naturSections = []
+    if (hr('Jahreskreis-Rezepte').length) naturSections.push({ id: 'hr-jahreskreis', label: 'Jahreskreis', items: hr('Jahreskreis-Rezepte') })
+    if (hr('Wald-Apotheke').length) naturSections.push({ id: 'hr-wald', label: 'Wald-Apotheke', items: hr('Wald-Apotheke') })
+    if (naturSections.length) groups.push({ id: 'natur', label: 'Natur & Jahreskreis', sections: naturSections })
 
+    // ─── GEIST & BEWUSSTSEIN ─────────────────────
     // 7. Bewusstseins-Pflanzen
-    if (BEWUSSTSEINS_PFLANZEN?.length) groups.push({ id: 'bewusstsein', label: 'Bewusstseins-Pflanzen', sections: [
-      { id: 'bewusstsein', label: 'Bewusstseins-Pflanzen', items: BEWUSSTSEINS_PFLANZEN },
-    ]})
+    const bewSections = []
+    if (BEWUSSTSEINS_PFLANZEN?.length) bewSections.push({ id: 'bewusstsein', label: 'Bewusstseins-Pflanzen', items: BEWUSSTSEINS_PFLANZEN })
+    if (hr('Geist-Oeffner & Klarheit').length) bewSections.push({ id: 'hr-geist', label: 'Geist-Oeffner & Klarheit', items: hr('Geist-Oeffner & Klarheit') })
+    if (bewSections.length) groups.push({ id: 'bewusstsein-all', label: 'Geist & Bewusstsein', sections: bewSections })
 
     // 8. Zirbeldruese
     const zirbelSections = []
@@ -509,15 +513,37 @@ function HexenwissenPage({ onSearch }) {
     if (ZIRBELDRUESE_REZEPTE?.length) zirbelSections.push({ id: 'zirbel-rezepte', label: 'Rezepte', items: ZIRBELDRUESE_REZEPTE })
     if (zirbelSections.length) groups.push({ id: 'zirbel', label: 'Zirbeldruese', sections: zirbelSections })
 
-    // 9. Grimoire & Volksmagie
-    if (GRIMOIRE_REZEPTE?.length) {
-      const cats = [...new Set(GRIMOIRE_REZEPTE.map(r => r.kategorie))]
-      groups.push({ id: 'grimoire', label: 'Grimoire & Magie', sections:
-        cats.map(cat => ({ id: 'gr-' + cat, label: cat, items: GRIMOIRE_REZEPTE.filter(r => r.kategorie === cat), renderer: 'grimoire' }))
+    // ─── ALTES WISSEN ────────────────────────────
+    // 9. Alchemie & Spagyrik
+    const alchemieSections = []
+    if (ALCHEMIE?.length) alchemieSections.push({ id: 'alchemie-basis', label: 'Grundlagen', items: ALCHEMIE, renderer: 'abschnitte' })
+    if (ALCHEMIE_DEEP?.length) {
+      ;['Spagyrik', 'Paracelsus', 'Quintessenz', 'Alchemie'].forEach(cat => {
+        const items = ALCHEMIE_DEEP.filter(r => r.kategorie === cat)
+        if (items.length) alchemieSections.push({ id: 'ad-' + cat, label: cat, items })
+      })
+    }
+    if (alchemieSections.length) groups.push({ id: 'alchemie', label: 'Alchemie & Spagyrik', sections: alchemieSections })
+
+    // 10. Klostermedizin & Hildegard
+    if (KLOSTERMEDIZIN?.length) {
+      groups.push({ id: 'kloster', label: 'Klostermedizin', sections:
+        ['Hildegard', 'Klosterapotheke', 'Volksheilkunde', 'Historisch']
+          .map(cat => ({ id: 'km-' + cat, label: cat, items: KLOSTERMEDIZIN.filter(r => r.kategorie === cat) }))
+          .filter(s => s.items.length)
       })
     }
 
-    // 10. Anleitungen
+    // 11. Grimoire & Volksmagie
+    if (GRIMOIRE_REZEPTE?.length) {
+      groups.push({ id: 'grimoire', label: 'Grimoire & Magie', sections:
+        ['Flugsalbe', 'Liebesmagie', 'Schutzmagie', 'Giftkunst', 'Volksmagie']
+          .map(cat => ({ id: 'gr-' + cat, label: cat, items: GRIMOIRE_REZEPTE.filter(r => r.kategorie === cat), renderer: 'grimoire' }))
+          .filter(s => s.items.length)
+      })
+    }
+
+    // 12. Anleitungen & Grundlagen
     if (HEXENWISSEN_ANLEITUNGEN?.length) groups.push({ id: 'anleitungen', label: 'Anleitungen', sections: [
       { id: 'anleitungen', label: 'Anleitungen & Grundlagen', items: HEXENWISSEN_ANLEITUNGEN, renderer: 'abschnitte' },
     ]})
