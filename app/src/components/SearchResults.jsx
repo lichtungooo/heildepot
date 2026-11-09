@@ -1,5 +1,6 @@
 import { ProductCard } from './ProductCard'
 import { Accordion } from './Accordion'
+import { NetzAngebote } from './NetzAngebote'
 import { Hash, Leaf, Utensils, Clock, ChevronRight, BookOpen, FlaskConical, HeartHandshake } from 'lucide-react'
 import { Fragment } from 'react'
 import { getHerbDeep, ALL_CONDITIONS, falte } from '../data'
@@ -345,6 +346,7 @@ export function SearchResults({ query, condResults, prodResults, herbResults, fa
                       ))}
                     </div>
                   )}
+                  <NetzAngebote krautId={h.id} />
                 </Accordion>
                 )
               })}

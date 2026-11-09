@@ -74,6 +74,15 @@ export default function App() {
         setQuery('')
       }
     }
+    // Ein Link wie heildepot.wir.ooo/#results/Kamille öffnet gleich die Suche (Katalog, Forge 101k)
+    const treffer = /^#results\/(.+)$/.exec(window.location.hash)
+    if (treffer) {
+      const q = decodeURIComponent(treffer[1])
+      setQuery(q)
+      setView('results')
+      doSearchSilent(q)
+      window.history.replaceState({ view: 'results', query: q }, '', window.location.href)
+    }
     window.addEventListener('popstate', handlePopState)
     return () => window.removeEventListener('popstate', handlePopState)
   }, [])

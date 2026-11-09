@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Erzeugt vor jedem Bau aus den Kräutern (scripts/katalog.mjs)
+public/katalog.json

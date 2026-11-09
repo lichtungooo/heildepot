@@ -64,7 +64,7 @@ export function SearchBox({ wert = '', onSearch, groesse = 'klein', autoFocus = 
           onFocus={() => eingabe.trim() && setOffen(true)}
           onBlur={() => setTimeout(() => setOffen(false), 150)}
           onKeyDown={taste}
-          placeholder={gross ? 'Beschwerde, Kraut oder Thema …' : 'Suchen …'}
+          placeholder={gross ? 'Kraut oder Beschwerde …' : 'Suchen …'}
           aria-label="Im Heildepot suchen"
           aria-autocomplete="list"
           aria-controls={listId}
