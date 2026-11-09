@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "wissen": "node scripts/wissen.mjs",
+    "test": "node --test scripts/wissen.test.mjs && node scripts/wissen.mjs --pruefen"
   },
   "dependencies": {
     "lucide-react": "^1.7.0",
