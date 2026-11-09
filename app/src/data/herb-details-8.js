@@ -11,28 +11,28 @@ export const HERB_DEEP_8 = {
   'Liebstöckel': {
     vollname: 'Liebstöckel (Levisticum officinale)',
     familie: 'Doldenblütler (Apiaceae)',
-    beschreibung: `Liebstöckel ist eine mächtige, bis zu zwei Meter hohe Staude mit einem durchdringend würzigen Aroma, das an Maggi erinnert -- weshalb die Pflanze im Volksmund auch "Maggikraut" heisst. Ihre Heilkraft ist ebenso kräftig wie ihr Geruch: Liebstöckel treibt Wasser aus dem Körper, löst Krämpfe und fördert die Verdauung.
+    beschreibung: `Liebstöckel ist eine mächtige, bis zu zwei Meter hohe Staude mit einem durchdringend würzigen Aroma, das an Maggi erinnert, weshalb die Pflanze im Volksmund auch "Maggikraut" heißt. Ihre Heilkraft ist ebenso kräftig wie ihr Geruch: Liebstöckel treibt Wasser aus dem Körper, löst Krämpfe und fördert die Verdauung.
 
-Die dicke, fleischige Wurzel enthält die höchste Konzentration an ätherischen Ölen mit Phthaliden und Terpenen, die stark harntreibend und krampflösend wirken. In der Volksmedizin galt Liebstöckel als "Nierenkraut" erster Güte -- er spült Harnwege und Nieren durch und beugt der Bildung von Nierensteinen vor.
+Die dicke, fleischige Wurzel enthält die höchste Konzentration an ätherischen Ölen mit Phthaliden und Terpenen, die stark harntreibend und krampflösend wirken. In der Volksmedizin galt Liebstöckel als "Nierenkraut" erster Güte, er spült Harnwege und Nieren durch und beugt der Bildung von Nierensteinen vor.
 
 Auch für die Verdauung ist Liebstöckel ein Segen. Er regt die Produktion von Magensaft und Galle an, löst Blähungen und lindert Völlegefühl. In der Küche macht er schwere Speisen bekömmlicher und verleiht Suppen und Eintöpfen eine unverwechselbare Tiefe.`,
-    geschichte: `Liebstöckel stammt ursprünglich aus dem Iran und gelangte durch die Römer nach Mitteleuropa. Die Benediktinermönche kultivierten ihn in ihren Klostergärten als eines der wichtigsten Heilkräuter, und Karl der Grosse nahm ihn in sein Capitulare de villis auf.
+    geschichte: `Liebstöckel stammt ursprünglich aus dem Iran und gelangte durch die Römer nach Mitteleuropa. Die Benediktinermönche kultivierten ihn in ihren Klostergärten als eines der wichtigsten Heilkräuter, und Karl der Große nahm ihn in sein Capitulare de villis auf.
 
-Im Mittelalter galt Liebstöckel als Liebestrank-Zutat -- sein Name leitet sich möglicherweise vom lateinischen "Ligusticum" ab, wurde aber im Volksmund zu "Liebes-Stöckel" umgedeutet. Junge Frauen nähten Liebstöckelblätter in ihre Kleidung ein, um die Zuneigung des Liebsten zu gewinnen.`,
+Im Mittelalter galt Liebstöckel als Liebestrank-Zutat, sein Name leitet sich möglicherweise vom lateinischen "Ligusticum" ab, wurde aber im Volksmund zu "Liebes-Stöckel" umgedeutet. Junge Frauen nähten Liebstöckelblätter in ihre Kleidung ein, um die Zuneigung des Liebsten zu gewinnen.`,
     wirkungen: {
       hauptwirkungen: ['Harntreibend', 'Krampflösend', 'Verdauungsfördernd', 'Blähungswidrig', 'Durchblutungsfördernd', 'Appetitanregend'],
       inhaltsstoffe: ['Ätherisches Öl (Phthalide, Ligustilid)', 'Cumarine', 'Furanocumarine', 'Bitterstoffe', 'Gerbstoffe', 'Vitamin C', 'Kampferöl', 'Harze'],
     },
     ernte: {
       zeit: 'Blätter: Mai bis September fortlaufend. Wurzeln: Herbst des zweiten oder dritten Jahres.',
-      teile: 'Blätter, Samen und Wurzeln -- alle drei Pflanzenteile sind heilkräftig.',
+      teile: 'Blätter, Samen und Wurzeln, alle drei Pflanzenteile sind heilkräftig.',
       tipps: 'Die Blätter jung ernten, dann sind sie am aromatischsten. Die Wurzel im Herbst ausgraben, waschen, in Scheiben schneiden und bei maximal 40 Grad trocknen.',
       mond: 'Blätter bei zunehmendem Mond, Wurzeln bei abnehmendem Mond an Wurzeltagen ernten.',
     },
     zubereitungen: [
       {
         name: 'Liebstöckel-Wurzeltee (Nieren-Durchspülung)',
-        anleitung: '1-2 TL getrocknete und zerkleinerte Liebstöckelwurzel mit 250ml kochendem Wasser übergiessen, 15 Minuten ziehen lassen. 2-3 Tassen täglich trinken, dazu viel Wasser.',
+        anleitung: '1-2 TL getrocknete und zerkleinerte Liebstöckelwurzel mit 250ml kochendem Wasser übergießen, 15 Minuten ziehen lassen. 2-3 Tassen täglich trinken, dazu viel Wasser.',
         wirkung: 'Spült die Harnwege durch, beugt Harnwegsinfekten und Nierensteinen vor.',
       },
       {
@@ -49,7 +49,7 @@ Im Mittelalter galt Liebstöckel als Liebestrank-Zutat -- sein Name leitet sich 
     mischungen: ['Blasen-Nieren-Tee (mit Goldrute und Birkenblättern)', 'Verdauungstee (mit Fenchel und Kümmel)', 'Durchspülungstee (mit Schachtelhalm und Brennnessel)'],
     tcm: 'Liebstöckel bewegt das Qi, wärmt die Mitte und leitet Feuchtigkeit aus. Er stärkt das Milz-Qi und reguliert den unteren Erwärmer.',
     ayurveda: 'Liebstöckel reduziert Kapha und Vata, kann aber Pitta erhöhen. Er stärkt Agni (Verdauungsfeuer) und wirkt als Dipana (appetitanregend).',
-    volksmedizin: 'Bäuerinnen legten Liebstöckelblätter in die Schuhe gegen müde Füsse und in den Badezuber gegen Rheuma. Das Kauen der Wurzel galt als Mittel gegen Mundgeruch und sollte Liebeskummer heilen.',
+    volksmedizin: 'Bäuerinnen legten Liebstöckelblätter in die Schuhe gegen müde Füße und in den Badezuber gegen Rheuma. Das Kauen der Wurzel galt als Mittel gegen Mundgeruch und sollte Liebeskummer heilen.',
     besonders_bei: ['blase', 'nieren', 'verdauung', 'blaehungen', 'wassereinlagerungen', 'appetitlosigkeit'],
   },
 
@@ -59,7 +59,7 @@ Im Mittelalter galt Liebstöckel als Liebestrank-Zutat -- sein Name leitet sich 
   'Lungenkraut': {
     vollname: 'Geflecktes Lungenkraut (Pulmonaria officinalis)',
     familie: 'Raublattgewächse (Boraginaceae)',
-    beschreibung: `Das Lungenkraut ist ein wunderbares Beispiel für die Signaturenlehre -- seine gefleckten Blätter erinnern an Lungengewebe, und tatsächlich ist es eines der wirksamsten Heilkräuter für die Atemwege. Es wächst bevorzugt in schattigen Laubwäldern und zeigt im Frühling ein faszinierendes Farbenspiel: Die Blüten öffnen sich rosa und färben sich dann blau.
+    beschreibung: `Das Lungenkraut ist ein wunderbares Beispiel für die Signaturenlehre, seine gefleckten Blätter erinnern an Lungengewebe, und tatsächlich ist es eines der wirksamsten Heilkräuter für die Atemwege. Es wächst bevorzugt in schattigen Laubwäldern und zeigt im Frühling ein faszinierendes Farbenspiel: Die Blüten öffnen sich rosa und färben sich dann blau.
 
 Dieser Farbwechsel beruht auf einer Veränderung des pH-Werts im Zellsaft und zeigt den hohen Gehalt an Anthocyanen an. Zusammen mit Schleimstoffen, Kieselsäure, Gerbstoffen und Allantoin ergibt sich ein Wirkstoffprofil, das gereizte Atemwege beruhigt, festsitzenden Schleim löst und entzündetes Lungengewebe heilt.
 
@@ -73,31 +73,31 @@ In der Volksmedizin der Alpenländer galt Lungenkraut als "Brustpflaster" und wu
     },
     ernte: {
       zeit: 'Blühendes Kraut: März bis Mai. Blätter: April bis Juni.',
-      teile: 'Das ganze oberirdische Kraut -- Blätter und Blüten gemeinsam ernten.',
+      teile: 'Das ganze oberirdische Kraut: Blätter und Blüten gemeinsam ernten.',
       tipps: 'Während der Blütezeit ernten, wenn der Wirkstoffgehalt am höchsten ist. Schonend bei maximal 35 Grad trocknen, um die Schleimstoffe zu erhalten.',
       mond: 'Bei zunehmendem Mond an Blütentagen ernten.',
     },
     zubereitungen: [
       {
         name: 'Lungenkraut-Tee',
-        anleitung: '2 TL getrocknetes Lungenkraut mit 250ml heissem (nicht kochendem) Wasser übergiessen, 10 Minuten ziehen lassen. Mit etwas Honig süssen. 3-4 Tassen täglich.',
+        anleitung: '2 TL getrocknetes Lungenkraut mit 250ml heißem (nicht kochendem) Wasser übergießen, 10 Minuten ziehen lassen. Mit etwas Honig süßen. 3-4 Tassen täglich.',
         wirkung: 'Löst festsitzenden Schleim, beruhigt den Hustenreiz und stärkt die Lunge.',
       },
       {
         name: 'Lungenkraut-Sirup',
         anleitung: 'Eine Handvoll frisches Lungenkraut in 500ml Wasser 15 Minuten köcheln lassen, abseihen. Mit der gleichen Menge Honig verrühren und in Flaschen füllen. Im Kühlschrank aufbewahren. 3x täglich 1 EL.',
-        wirkung: 'Angenehm süsses Hustenmittel, besonders für Kinder geeignet.',
+        wirkung: 'Angenehm süßes Hustenmittel, besonders für Kinder geeignet.',
       },
       {
         name: 'Lungenkraut-Kaltauszug',
         anleitung: '3 TL Lungenkraut in 250ml kaltes Wasser einlegen und 6-8 Stunden ziehen lassen. Abseihen und leicht erwärmen. Schleimstoffreichste Zubereitung.',
-        wirkung: 'Maximaler Schleimstoffgehalt -- besonders lindernd bei trockenem Reizhusten.',
+        wirkung: 'Maximaler Schleimstoffgehalt, besonders lindernd bei trockenem Reizhusten.',
       },
     ],
-    mischungen: ['Lungentee (mit Spitzwegerich und Thymian)', 'Bronchialtee (mit Königskerze und Malve)', 'Atemwegstee (mit Huflattich und Süssholz)'],
+    mischungen: ['Lungentee (mit Spitzwegerich und Thymian)', 'Bronchialtee (mit Königskerze und Malve)', 'Atemwegstee (mit Huflattich und Süßholz)'],
     tcm: 'Lungenkraut nährt das Lungen-Yin, befeuchtet die Lunge und transformiert Schleim. Es wird bei trockenem Husten und Lungen-Yin-Mangel eingesetzt.',
     ayurveda: 'Lungenkraut beruhigt Vata und Pitta in den Atemwegen. Es wirkt als Snigdha (befeuchtend) und Brumhana (aufbauend) für das Lungengewebe.',
-    volksmedizin: 'Im Alpenraum bereiteten die Sennerinnen aus frischem Lungenkraut einen "Brusttee" gegen die Erkältungen der langen Winter. Die Pflanze wurde auch äusserlich als Umschlag auf Wunden gelegt, da ihr Allantoin-Gehalt die Zellregeneration fördert.',
+    volksmedizin: 'Im Alpenraum bereiteten die Sennerinnen aus frischem Lungenkraut einen "Brusttee" gegen die Erkältungen der langen Winter. Die Pflanze wurde auch äußerlich als Umschlag auf Wunden gelegt, da ihr Allantoin-Gehalt die Zellregeneration fördert.',
     besonders_bei: ['husten', 'bronchitis', 'atemwege', 'lunge', 'heiserkeit', 'schleimhaut'],
   },
 
@@ -107,11 +107,11 @@ In der Volksmedizin der Alpenländer galt Lungenkraut als "Brustpflaster" und wu
   'Labkraut': {
     vollname: 'Echtes Labkraut (Galium verum)',
     familie: 'Rötegewächse (Rubiaceae)',
-    beschreibung: `Das Echte Labkraut ist eine zarte, aber wirkungsvolle Heilpflanze mit goldgelben, honigduftenden Blütenrispen. Seinen Namen verdankt es seiner traditionellen Verwendung als pflanzliches Lab bei der Käseherstellung -- die Pflanze enthält Enzyme, die Milch zum Gerinnen bringen.
+    beschreibung: `Das Echte Labkraut ist eine zarte, aber wirkungsvolle Heilpflanze mit goldgelben, honigduftenden Blütenrispen. Seinen Namen verdankt es seiner traditionellen Verwendung als pflanzliches Lab bei der Käseherstellung, die Pflanze enthält Enzyme, die Milch zum Gerinnen bringen.
 
 Heilkundlich ist Labkraut vor allem als Lymphmittel von Bedeutung. Es regt den Lymphfluss an, unterstützt die Entgiftung und wirkt harntreibend. Maria Treben, die berühmte Kräuterfrau, betrachtete Labkraut als eines der wichtigsten Krebsheilkräuter und empfahl es als Tee bei Lymphknotenschwellungen und Tumoren.
 
-Die Pflanze enthält Iridoide, Flavonoide und Gerbstoffe, die zusammen entzündungshemmend und leicht krampflösend wirken. Labkraut ist besonders sanft und eignet sich gut für eine Langzeitanwendung als Entgiftungstee -- es überlastet die Nieren nicht und arbeitet behutsam.`,
+Die Pflanze enthält Iridoide, Flavonoide und Gerbstoffe, die zusammen entzündungshemmend und leicht krampflösend wirken. Labkraut ist besonders sanft und eignet sich gut für eine Langzeitanwendung als Entgiftungstee, es überlastet die Nieren nicht und arbeitet behutsam.`,
     geschichte: `In der keltischen Heilkunde hatte Labkraut eine sakrale Bedeutung und wurde der Göttin Freya zugeordnet. Es war eine der heiligen Pflanzen des Johannisfeuers und wurde in Kräuterbuschen zum Schutz des Hauses aufgehängt.
 
 Paracelsus und Hieronymus Bock empfahlen Labkraut bei Geschwülsten und "stockenden Säften". Maria Treben machte die Pflanze im 20. Jahrhundert wieder bekannt und berichtete von erstaunlichen Heilungserfolgen bei Lymphstauungen und Hauterkrankungen.`,
@@ -121,24 +121,24 @@ Paracelsus und Hieronymus Bock empfahlen Labkraut bei Geschwülsten und "stocken
     },
     ernte: {
       zeit: 'Blühendes Kraut: Juni bis September, zur Mittagszeit bei Sonnenschein.',
-      teile: 'Das ganze blühende Kraut -- oberirdische Teile abschneiden.',
-      tipps: 'In kleinen Sträusschen kopfüber zum Trocknen aufhängen. Die goldgelben Blüten behalten beim Trocknen ihre Farbe gut. Dunkel und trocken lagern.',
+      teile: 'Das ganze blühende Kraut, oberirdische Teile abschneiden.',
+      tipps: 'In kleinen Sträußchen kopfüber zum Trocknen aufhängen. Die goldgelben Blüten behalten beim Trocknen ihre Farbe gut. Dunkel und trocken lagern.',
       mond: 'Bei zunehmendem Mond an Blütentagen ernten für beste Wirksamkeit.',
     },
     zubereitungen: [
       {
         name: 'Labkraut-Tee',
-        anleitung: '2 TL getrocknetes Labkraut mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. 3 Tassen täglich über einen längeren Zeitraum trinken.',
+        anleitung: '2 TL getrocknetes Labkraut mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 3 Tassen täglich über einen längeren Zeitraum trinken.',
         wirkung: 'Regt den Lymphfluss an, unterstützt die Entgiftung und stärkt das Immunsystem.',
       },
       {
         name: 'Labkraut-Presssaft',
-        anleitung: 'Frisches blühendes Labkraut durch einen Entsafter geben. Den Saft mit etwas Wasser verdünnt trinken -- 2-3 EL pro Tag.',
+        anleitung: 'Frisches blühendes Labkraut durch einen Entsafter geben. Den Saft mit etwas Wasser verdünnt trinken, 2-3 EL pro Tag.',
         wirkung: 'Intensivste Form der Lymphanregung, gut bei Lymphknotenschwellungen.',
       },
       {
-        name: 'Labkraut-Fussbad',
-        anleitung: 'Eine grosse Handvoll frisches oder getrocknetes Labkraut in 2 Liter heisses Wasser geben und 15 Minuten ziehen lassen. Als warmes Fussbad 20 Minuten anwenden.',
+        name: 'Labkraut-Fußbad',
+        anleitung: 'Eine große Handvoll frisches oder getrocknetes Labkraut in 2 Liter heißes Wasser geben und 15 Minuten ziehen lassen. Als warmes Fußbad 20 Minuten anwenden.',
         wirkung: 'Fördert die Durchblutung und den Lymphabfluss in den Beinen.',
       },
     ],
@@ -155,21 +155,21 @@ Paracelsus und Hieronymus Bock empfahlen Labkraut bei Geschwülsten und "stocken
   'Malve': {
     vollname: 'Wilde Malve (Malva sylvestris)',
     familie: 'Malvengewächse (Malvaceae)',
-    beschreibung: `Die Malve gehört zu den ältesten Heilpflanzen Europas und war bereits in der Antike hochgeschätzt. Pythagoras nannte sie die "heiligste aller Pflanzen", und Karl der Grosse ordnete ihren Anbau in allen Klostergärten an. Ihre grossen, violett gestreiften Blüten und die runden Blätter sind ein vertrauter Anblick an Wegrändern und in Bauerngärten.
+    beschreibung: `Die Malve gehört zu den ältesten Heilpflanzen Europas und war bereits in der Antike hochgeschätzt. Pythagoras nannte sie die "heiligste aller Pflanzen", und Karl der Große ordnete ihren Anbau in allen Klostergärten an. Ihre großen, violett gestreiften Blüten und die runden Blätter sind ein vertrauter Anblick an Wegrändern und in Bauerngärten.
 
-Der Schlüssel zur Heilkraft der Malve liegt in ihren reichhaltigen Schleimstoffen. Diese natürlichen Polysaccharide bilden beim Kontakt mit Wasser einen samtigen, schützenden Film über gereizte Schleimhäute -- im Rachen, in den Bronchien, im Magen und im Darm. Überall dort, wo Schleimhaut entzündet oder gereizt ist, bringt die Malve sanfte Linderung.
+Der Schlüssel zur Heilkraft der Malve liegt in ihren reichhaltigen Schleimstoffen. Diese natürlichen Polysaccharide bilden beim Kontakt mit Wasser einen samtigen, schützenden Film über gereizte Schleimhäute, im Rachen, in den Bronchien, im Magen und im Darm. Überall dort, wo Schleimhaut entzündet oder gereizt ist, bringt die Malve sanfte Linderung.
 
 Der leuchtend blaue Malventee ist auch ein Fest für die Augen: Gibt man einen Spritzer Zitronensaft hinzu, färbt er sich sofort leuchtend pink. Malvenblüten sind essbar und schmücken Salate, Desserts und Kräuterbutter mit ihrer edlen Farbe.`,
     geschichte: `Horaz, der römische Dichter, berichtete, er lebe von "Oliven, Zichorien und Malven". Im antiken Griechenland wurde die Malve als Gemüsepflanze ebenso geschätzt wie als Heilmittel. Die arabische Medizin übernahm die Malve als "Khubbaza" und integrierte sie als Nahrungsmittel und Heilpflanze.
 
-Hildegard von Bingen verordnete Malventee bei Fieber und Magen-Darm-Entzündungen. In der Klostermedizin war die Malve ein unverzichtbares Mittel bei allen Schleimhautleiden. Die ursprüngliche Marshmallow-Süssigkeit wurde aus Eibischwurzel hergestellt -- einem nahen Verwandten der wilden Malve.`,
+Hildegard von Bingen verordnete Malventee bei Fieber und Magen-Darm-Entzündungen. In der Klostermedizin war die Malve ein unverzichtbares Mittel bei allen Schleimhautleiden. Die ursprüngliche Marshmallow-Süßigkeit wurde aus Eibischwurzel hergestellt, einem nahen Verwandten der wilden Malve.`,
     wirkungen: {
       hauptwirkungen: ['Schleimhautschützend', 'Reizlindernd', 'Entzündungshemmend', 'Hustenlindernd', 'Wundheilend', 'Kühlend'],
       inhaltsstoffe: ['Schleimstoffe (Polysaccharide)', 'Anthocyane (Malvin)', 'Gerbstoffe', 'Flavonoide', 'Vitamin C', 'Vitamin E', 'Ätherisches Öl'],
     },
     ernte: {
       zeit: 'Blüten: Juni bis September, bei trockenem Wetter am Vormittag. Blätter: Mai bis August.',
-      teile: 'Blüten und Blätter -- beide enthalten reichlich Schleimstoffe.',
+      teile: 'Blüten und Blätter, beide enthalten reichlich Schleimstoffe.',
       tipps: 'Blüten einzeln pflücken und sofort flach zum Trocknen auslegen, nicht übereinander schichten. Getrocknete Blüten dunkel lagern, da Licht die Anthocyane zerstört.',
       mond: 'Bei zunehmendem Mond an Blütentagen ernten.',
     },
@@ -177,7 +177,7 @@ Hildegard von Bingen verordnete Malventee bei Fieber und Magen-Darm-Entzündunge
       {
         name: 'Malven-Kaltauszug',
         anleitung: '2-3 TL Malvenblüten und -blätter in 250ml kaltes Wasser geben und 6-8 Stunden (über Nacht) ziehen lassen. Sanft erwärmen, aber keinesfalls kochen. 3 Tassen täglich.',
-        wirkung: 'Höchster Schleimstoffgehalt -- ideal bei trockenem Husten, Heiserkeit und Magenschleimhaut-Reizung.',
+        wirkung: 'Höchster Schleimstoffgehalt, ideal bei trockenem Husten, Heiserkeit und Magenschleimhaut-Reizung.',
       },
       {
         name: 'Malven-Gurgelwasser',
@@ -190,7 +190,7 @@ Hildegard von Bingen verordnete Malventee bei Fieber und Magen-Darm-Entzündunge
         wirkung: 'Kühlt, lindert Hautentzündungen und unterstützt die Wundheilung.',
       },
     ],
-    mischungen: ['Hustentee (mit Spitzwegerich und Thymian)', 'Magentee (mit Kamille und Süssholz)', 'Halstee (mit Salbei und Eibisch)'],
+    mischungen: ['Hustentee (mit Spitzwegerich und Thymian)', 'Magentee (mit Kamille und Süßholz)', 'Halstee (mit Salbei und Eibisch)'],
     tcm: 'Malve befeuchtet die Lunge, kühlt Hitze und transformiert trockenen Schleim. Sie wird bei Lungen-Yin-Mangel und trockenem Husten eingesetzt.',
     ayurveda: 'Malve beruhigt Pitta und Vata und nährt das Rasa-Dhatu (Plasma und Lymphe). Sie wirkt als Snigdha (befeuchtend) und Stambhana (festigend).',
     volksmedizin: 'Malventee war das traditionelle Hausmittel bei Halsschmerzen und Husten. Bäuerinnen wickelten gekochte Malvenblätter um entzündete Finger und legten sie auf Geschwüre, um die Heilung zu beschleunigen.',
@@ -203,12 +203,12 @@ Hildegard von Bingen verordnete Malventee bei Fieber und Magen-Darm-Entzündunge
   'Meerrettich': {
     vollname: 'Meerrettich (Armoracia rusticana)',
     familie: 'Kreuzblütler (Brassicaceae)',
-    beschreibung: `Meerrettich ist die schärfste Heilpflanze Europas und ein natürliches Antibiotikum von erstaunlicher Breite. Wenn man die frische Wurzel reibt, entsteht durch enzymatische Spaltung Allylsenföl -- jene Substanz, die in die Nase steigt, die Augen zum Tränen bringt und gleichzeitig Bakterien, Viren und Pilze vernichtet.
+    beschreibung: `Meerrettich ist die schärfste Heilpflanze Europas und ein natürliches Antibiotikum von erstaunlicher Breite. Wenn man die frische Wurzel reibt, entsteht durch enzymatische Spaltung Allylsenföl, jene Substanz, die in die Nase steigt, die Augen zum Tränen bringt und gleichzeitig Bakterien, Viren und Pilze vernichtet.
 
-Die Senfölglykoside im Meerrettich werden im Körper zu Isothiocyanaten umgewandelt, die über die Atemwege und die Harnwege ausgeschieden werden. Genau dort entfalten sie ihre keimtötende Wirkung -- was Meerrettich zu einem gezielten Antibiotikum für Bronchien und Blase macht. Studien zeigen, dass Meerrettich-Extrakt gegen multiresistente Keime wirksam sein kann.
+Die Senfölglykoside im Meerrettich werden im Körper zu Isothiocyanaten umgewandelt, die über die Atemwege und die Harnwege ausgeschieden werden. Genau dort entfalten sie ihre keimtötende Wirkung, was Meerrettich zu einem gezielten Antibiotikum für Bronchien und Blase macht. Studien zeigen, dass Meerrettich-Extrakt gegen multiresistente Keime wirksam sein kann.
 
-Darüber hinaus enthält die Wurzel doppelt so viel Vitamin C wie Zitronen, reichlich Kalium und Eisen. In der traditionellen Küche Osteuropas ist Meerrettich nicht nur Gewürz, sondern Medizin -- die scharfe Wurzel hält gesund und vertreibt winterliche Infekte.`,
-    geschichte: `Die alten Ägypter kannten Meerrettich bereits um 1500 v. Chr. Die Griechen schätzten ihn als Medizin mehr als als Gewürz -- das Orakel von Delphi soll verkündet haben, Meerrettich sei sein Gewicht in Gold wert.
+Darüber hinaus enthält die Wurzel doppelt so viel Vitamin C wie Zitronen, reichlich Kalium und Eisen. In der traditionellen Küche Osteuropas ist Meerrettich nicht nur Gewürz, sondern Medizin, die scharfe Wurzel hält gesund und vertreibt winterliche Infekte.`,
+    geschichte: `Die alten Ägypter kannten Meerrettich bereits um 1500 v. Chr. Die Griechen schätzten ihn als Medizin mehr als als Gewürz, das Orakel von Delphi soll verkündet haben, Meerrettich sei sein Gewicht in Gold wert.
 
 In Mittel- und Osteuropa war Meerrettich über Jahrhunderte das "Penicillin der Bauern". Er wurde bei jeder Erkältung, bei Blasenentzündung und bei Verdauungsschwäche gerieben und frisch eingenommen. Jüdische Gemeinden verwenden Meerrettich (Maror) bis heute traditionell beim Pessach-Seder als "bitteres Kraut".`,
     wirkungen: {
@@ -216,8 +216,8 @@ In Mittel- und Osteuropa war Meerrettich über Jahrhunderte das "Penicillin der 
       inhaltsstoffe: ['Senfölglykoside (Sinigrin)', 'Allylsenföl', 'Vitamin C', 'Kalium', 'Eisen', 'Asparagin', 'Flavonoide', 'Peroxidase-Enzyme'],
     },
     ernte: {
-      zeit: 'Oktober bis März -- die Wurzel wird nach den ersten Frösten am schärfsten.',
-      teile: 'Hauptsächlich die Wurzel -- aber auch die jungen Blätter im Frühling sind essbar und würzig.',
+      zeit: 'Oktober bis März, die Wurzel wird nach den ersten Frösten am schärfsten.',
+      teile: 'Hauptsächlich die Wurzel, aber auch die jungen Blätter im Frühling sind essbar und würzig.',
       tipps: 'Die Wurzel immer frisch verarbeiten, da die Senfölglykoside beim Trocknen stark an Wirksamkeit verlieren. Geraspelten Meerrettich sofort mit etwas Zitronensaft beträufeln, um Oxidation zu verhindern.',
       mond: 'Bei abnehmendem Mond an Wurzeltagen ernten. Erdzeichen (Stier, Jungfrau, Steinbock) bevorzugen.',
     },
@@ -240,8 +240,8 @@ In Mittel- und Osteuropa war Meerrettich über Jahrhunderte das "Penicillin der 
     ],
     mischungen: ['Infektionsmittel (mit Kapuzinerkresse)', 'Winterelixier (mit Ingwer und Zitrone)', 'Durchblutungsmittel (mit Rosmarin und Arnika)'],
     tcm: 'Meerrettich zerstreut Kälte, öffnet die Oberfläche und transformiert Schleim. Er wärmt die Lunge und vertreibt Wind-Kälte.',
-    ayurveda: 'Meerrettich ist extrem Pitta-erhöhend und reduziert Kapha stark. Er entfacht Agni (Verdauungsfeuer) und wirkt als Katu (scharf) und Ushna (heiss). Bei Pitta-Konstitution nur vorsichtig dosieren.',
-    volksmedizin: 'In Osteuropa rieben Grossmütter bei jeder Erkältung frischen Meerrettich und gaben ihn mit Honig. Meerrettich-Umschläge auf dem Nacken waren ein bewährtes Mittel gegen Kopfschmerzen und Nebenhöhlenentzündung.',
+    ayurveda: 'Meerrettich ist extrem Pitta-erhöhend und reduziert Kapha stark. Er entfacht Agni (Verdauungsfeuer) und wirkt als Katu (scharf) und Ushna (heiß). Bei Pitta-Konstitution nur vorsichtig dosieren.',
+    volksmedizin: 'In Osteuropa rieben Großmütter bei jeder Erkältung frischen Meerrettich und gaben ihn mit Honig. Meerrettich-Umschläge auf dem Nacken waren ein bewährtes Mittel gegen Kopfschmerzen und Nebenhöhlenentzündung.',
     besonders_bei: ['erkaeltung', 'bronchitis', 'blasenentzuendung', 'immunschwaeche', 'nebenhoehlenentzuendung', 'verdauung'],
   },
 
@@ -251,11 +251,11 @@ In Mittel- und Osteuropa war Meerrettich über Jahrhunderte das "Penicillin der 
   'Meisterwurz': {
     vollname: 'Meisterwurz (Peucedanum ostruthium)',
     familie: 'Doldenblütler (Apiaceae)',
-    beschreibung: `Die Meisterwurz ist die "Königin der Alpenkräuter" und galt in der alten Volksmedizin als eine der mächtigsten Heilpflanzen überhaupt. Paracelsus nannte sie "Magistrantia" -- die Meisterin -- und stellte sie über fast alle anderen Heilkräuter. Sie wächst in den Hochalpen auf feuchten Bergwiesen und an Bachufern.
+    beschreibung: `Die Meisterwurz ist die "Königin der Alpenkräuter" und galt in der alten Volksmedizin als eine der mächtigsten Heilpflanzen überhaupt. Paracelsus nannte sie "Magistrantia", die Meisterin, und stellte sie über fast alle anderen Heilkräuter. Sie wächst in den Hochalpen auf feuchten Bergwiesen und an Bachufern.
 
 Die dicke, fleischige Wurzel verströmt beim Anschneiden einen intensiven, harzigen Duft und schmeckt brennend scharf. Sie enthält Furanocumarine, ätherische Öle und Bitterstoffe, die zusammen stark immunstimulierend, fiebersenkend und verdauungsanregend wirken.
 
-Meisterwurz ist ein echtes Notfallkraut: Bei plötzlicher Erkältung, Fieber oder Magen-Darm-Infekten kann die gekaute Wurzel innerhalb von Stunden Linderung bringen. In den Alpen trugen Hirten und Senner immer ein Stück Meisterwurz bei sich -- als universelles Heilmittel für jede Situation.`,
+Meisterwurz ist ein echtes Notfallkraut: Bei plötzlicher Erkältung, Fieber oder Magen-Darm-Infekten kann die gekaute Wurzel innerhalb von Stunden Linderung bringen. In den Alpen trugen Hirten und Senner immer ein Stück Meisterwurz bei sich, als universelles Heilmittel für jede Situation.`,
     geschichte: `Paracelsus schrieb über die Meisterwurz: "Ich kann ihre Kraft und Tugend nicht genug beschreiben und loben. Wer Meisterwurz im Hause hat, der hat gleichsam eine Apotheke." Er setzte sie bei Pest, Fieber, Vergiftungen und inneren Entzündungen ein.
 
 Die Sennhirten der Alpen kauten die Wurzel als Schutz vor Krankheit und Kälte. Bei Viehkrankheiten wurde Meisterwurz dem Futter beigemischt. Noch heute ist sie ein unverzichtbarer Bestandteil der alpinen Kräutermedizin und wird in manchen Bergregionen als "Bergpenicillin" bezeichnet.`,
@@ -265,7 +265,7 @@ Die Sennhirten der Alpen kauten die Wurzel als Schutz vor Krankheit und Kälte. 
     },
     ernte: {
       zeit: 'Wurzeln: September bis Oktober oder im zeitigen Frühjahr (März).',
-      teile: 'Hauptsächlich die Wurzel -- sie enthält die höchste Wirkstoffkonzentration.',
+      teile: 'Hauptsächlich die Wurzel, sie enthält die höchste Wirkstoffkonzentration.',
       tipps: 'Die Wurzel nach dem Graben waschen, in Scheiben schneiden und schonend trocknen. Die getrocknete Wurzel behält ihre Wirkung 2-3 Jahre. Wildsammlung nur mit gutem Bestimmungswissen, da Verwechslung mit giftigen Doldenblütlern möglich ist.',
       mond: 'Bei abnehmendem Mond an Wurzeltagen ernten.',
     },
@@ -273,23 +273,23 @@ Die Sennhirten der Alpen kauten die Wurzel als Schutz vor Krankheit und Kälte. 
       {
         name: 'Meisterwurz-Tinktur',
         anleitung: 'Frische oder getrocknete Meisterwurz klein schneiden und mit 50%igem Alkohol im Verhältnis 1:5 ansetzen. 4-6 Wochen ziehen lassen, abseihen. Bei Infekten 3x täglich 20-30 Tropfen.',
-        wirkung: 'Das stärkste Zubereitungsform -- wirkt bei Erkältungen, Fieber und Verdauungsbeschwerden.',
+        wirkung: 'Das stärkste Zubereitungsform, wirkt bei Erkältungen, Fieber und Verdauungsbeschwerden.',
       },
       {
         name: 'Meisterwurz-Kauen',
-        anleitung: 'Ein haselnussgrosses Stück frische oder getrocknete Meisterwurz langsam kauen und den Saft schlucken. Bei den ersten Anzeichen einer Erkältung anwenden.',
+        anleitung: 'Ein haselnussgroßes Stück frische oder getrocknete Meisterwurz langsam kauen und den Saft schlucken. Bei den ersten Anzeichen einer Erkältung anwenden.',
         wirkung: 'Sofortige Immunstimulation, wärmt durch und vertreibt Kältegefühl.',
       },
       {
         name: 'Meisterwurz-Tee',
-        anleitung: '1 TL zerkleinerte Meisterwurz mit 250ml kochendem Wasser übergiessen, 10 Minuten zugedeckt ziehen lassen. 2-3 Tassen täglich.',
+        anleitung: '1 TL zerkleinerte Meisterwurz mit 250ml kochendem Wasser übergießen, 10 Minuten zugedeckt ziehen lassen. 2-3 Tassen täglich.',
         wirkung: 'Stärkt die Verdauung, löst Blähungen und unterstützt die Immunabwehr.',
       },
     ],
     mischungen: ['Alpiner Erkältungstee (mit Thymian und Holunder)', 'Bitterkräuter-Tinktur (mit Enzian und Wermut)', 'Immunstärkung (mit Echinacea und Taigawurzel)'],
     tcm: 'Meisterwurz wärmt die Mitte, vertreibt Kälte und stärkt das Wei-Qi. Sie bewegt Qi und Blut und löst Blockaden in der Mitte.',
     ayurveda: 'Meisterwurz reduziert Kapha und Vata stark und kann Pitta erhöhen. Sie stärkt Agni (Verdauungsfeuer) und wirkt als Deepana (verdauungsanregend) und Pachana (verdauungsfördernd).',
-    volksmedizin: 'In den Alpen trugen Senner ein Stück Meisterwurz immer am Körper -- es sollte vor Krankheit, Unwetter und bösen Geistern schützen. Bei Zahnschmerzen wurde die Wurzel auf den schmerzenden Zahn gelegt, bei Muskelkater als wärmende Auflage verwendet.',
+    volksmedizin: 'In den Alpen trugen Senner ein Stück Meisterwurz immer am Körper, es sollte vor Krankheit, Unwetter und bösen Geistern schützen. Bei Zahnschmerzen wurde die Wurzel auf den schmerzenden Zahn gelegt, bei Muskelkater als wärmende Auflage verwendet.',
     besonders_bei: ['erkaeltung', 'fieber', 'immunschwaeche', 'verdauung', 'blaehungen', 'erschoepfung'],
   },
 
@@ -301,7 +301,7 @@ Die Sennhirten der Alpen kauten die Wurzel als Schutz vor Krankheit und Kälte. 
     familie: 'Korbblütler (Asteraceae)',
     beschreibung: `Mutterkraut ist eine der am besten erforschten Heilpflanzen gegen Migräne und wird in England seit den 1970er Jahren intensiv wissenschaftlich untersucht. Die kleinen, gänseblümchenartigen Blüten und die stark aromatischen, gefiederten Blätter machen die Pflanze leicht erkennbar.
 
-Der Hauptwirkstoff Parthenolid hemmt die Freisetzung von Serotonin aus den Blutplättchen -- genau jenen Prozess, der am Beginn einer Migräneattacke steht. Regelmässig eingenommen kann Mutterkraut die Häufigkeit und Schwere von Migräneanfällen deutlich reduzieren. Studien zeigen eine Reduktion um bis zu 70 Prozent.
+Der Hauptwirkstoff Parthenolid hemmt die Freisetzung von Serotonin aus den Blutplättchen, genau jenen Prozess, der am Beginn einer Migräneattacke steht. Regelmäßig eingenommen kann Mutterkraut die Häufigkeit und Schwere von Migräneanfällen deutlich reduzieren. Studien zeigen eine Reduktion um bis zu 70 Prozent.
 
 Der Name "Mutterkraut" verweist auf die traditionelle Verwendung als Frauenheilkraut: Es fördert die Menstruation, lindert Regelkrämpfe und hilft bei PMS-bedingten Kopfschmerzen. Die Pflanze ist ein Paradebeispiel dafür, wie die Volksmedizin Wissen bewahrt hat, das die Wissenschaft erst Jahrhunderte später bestätigt.`,
     geschichte: `Bereits der griechische Arzt Dioskurides empfahl Mutterkraut bei "Kopfschmerzen mit Schwindel". Im Mittelalter war die Pflanze ein fester Bestandteil jedes Kräutergartens und wurde bei Fieber, Kopfschmerzen und Frauenleiden eingesetzt.
@@ -313,7 +313,7 @@ In den 1970er Jahren berichtete eine britische Bergarbeiterfrau, dass ihre jahre
     },
     ernte: {
       zeit: 'Blühendes Kraut: Juni bis August, am besten bei voller Blüte.',
-      teile: 'Blätter und blühende Triebe -- die Blätter enthalten die höchste Parthenolid-Konzentration.',
+      teile: 'Blätter und blühende Triebe, die Blätter enthalten die höchste Parthenolid-Konzentration.',
       tipps: 'Die frischen Blätter können direkt gekaut werden (2-3 pro Tag). Zum Trocknen die blühenden Triebspitzen abschneiden und an einem schattigen, luftigen Ort trocknen.',
       mond: 'Bei zunehmendem Mond an Blütentagen ernten.',
     },
@@ -321,7 +321,7 @@ In den 1970er Jahren berichtete eine britische Bergarbeiterfrau, dass ihre jahre
       {
         name: 'Mutterkraut-Blätter kauen (Migräne-Prophylaxe)',
         anleitung: 'Täglich 2-3 frische Mutterkrautblätter langsam kauen und schlucken. Am besten zusammen mit etwas Brot, da die Blätter bitter sind und die Mundschleimhaut reizen können. Mindestens 3 Monate durchhalten.',
-        wirkung: 'Nachgewiesene Vorbeugung gegen Migräne bei regelmässiger Einnahme.',
+        wirkung: 'Nachgewiesene Vorbeugung gegen Migräne bei regelmäßiger Einnahme.',
       },
       {
         name: 'Mutterkraut-Tinktur',
@@ -330,14 +330,14 @@ In den 1970er Jahren berichtete eine britische Bergarbeiterfrau, dass ihre jahre
       },
       {
         name: 'Mutterkraut-Tee',
-        anleitung: '1-2 TL getrocknetes Mutterkraut mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. 2 Tassen täglich.',
+        anleitung: '1-2 TL getrocknetes Mutterkraut mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 2 Tassen täglich.',
         wirkung: 'Lindert Regelkrämpfe, senkt leichtes Fieber und unterstützt die Migräneprophylaxe.',
       },
     ],
     mischungen: ['Migränetee (mit Pestwurz und Weidenrinde)', 'Frauentee (mit Frauenmantel und Schafgarbe)', 'Entspannungstee (mit Lavendel und Melisse)'],
     tcm: 'Mutterkraut kühlt Leber-Feuer, bewegt stagniertes Leber-Qi und beruhigt aufsteigendes Yang. Es wird bei Kopfschmerzen durch Leber-Yang-Aufsteigen eingesetzt.',
     ayurveda: 'Mutterkraut reduziert Pitta und Kapha. Es wirkt als Vedanasthapana (schmerzlindernd) und Artavajanana (menstruationsfördernd). Bei Vata-Kopfschmerzen mit wärmenden Kräutern kombinieren.',
-    volksmedizin: 'In England pflanzten Bauern Mutterkraut um ihre Häuser -- der durchdringende Geruch sollte Krankheiten fernhalten. Kräuterfrauen gaben den Tee bei schwerer Geburt und zur Förderung des Wochenflusses.',
+    volksmedizin: 'In England pflanzten Bauern Mutterkraut um ihre Häuser, der durchdringende Geruch sollte Krankheiten fernhalten. Kräuterfrauen gaben den Tee bei schwerer Geburt und zur Förderung des Wochenflusses.',
     besonders_bei: ['migraene', 'kopfschmerzen', 'regelschmerzen', 'fieber', 'entzuendungen', 'pms'],
   },
 
@@ -347,14 +347,14 @@ In den 1970er Jahren berichtete eine britische Bergarbeiterfrau, dass ihre jahre
   'Nachtkerze': {
     vollname: 'Gemeine Nachtkerze (Oenothera biennis)',
     familie: 'Nachtkerzengewächse (Onagraceae)',
-    beschreibung: `Die Nachtkerze öffnet ihre leuchtend gelben Blüten erst in der Abenddämmerung -- ein faszinierendes Schauspiel, das man im Zeitraffer beobachten kann. Innerhalb weniger Minuten entfalten sich die Blütenblätter und verströmen einen süssen Duft, der Nachtfalter anlockt.
+    beschreibung: `Die Nachtkerze öffnet ihre leuchtend gelben Blüten erst in der Abenddämmerung, ein faszinierendes Schauspiel, das man im Zeitraffer beobachten kann. Innerhalb weniger Minuten entfalten sich die Blütenblätter und verströmen einen süßen Duft, der Nachtfalter anlockt.
 
-Der grösste Schatz der Nachtkerze verbirgt sich in ihren winzigen Samen: Das daraus gewonnene Nachtkerzenöl enthält bis zu 10 Prozent Gamma-Linolensäure (GLA) -- eine seltene Omega-6-Fettsäure, die der Körper für die Produktion entzündungshemmender Prostaglandine benötigt. GLA ist besonders wertvoll bei Neurodermitis, hormonellen Beschwerden und PMS.
+Der größte Schatz der Nachtkerze verbirgt sich in ihren winzigen Samen: Das daraus gewonnene Nachtkerzenöl enthält bis zu 10 Prozent Gamma-Linolensäure (GLA), eine seltene Omega-6-Fettsäure, die der Körper für die Produktion entzündungshemmender Prostaglandine benötigt. GLA ist besonders wertvoll bei Neurodermitis, hormonellen Beschwerden und PMS.
 
 Nachtkerzenöl gehört zu den am besten erforschten pflanzlichen Ölen in der Dermatologie. Es stärkt die Hautbarriere von innen heraus, reduziert den Wasserverlust der Haut und lindert Juckreiz und Entzündungen bei atopischen Hauterkrankungen.`,
     geschichte: `Die Nachtkerze stammt aus Nordamerika, wo die indigenen Völker die Wurzeln als Nahrung nutzten und Umschläge aus dem Kraut auf Wunden legten. Im 17. Jahrhundert gelangte sie als Zierpflanze nach Europa und verwilderte schnell.
 
-Erst in den 1980er Jahren entdeckte die Forschung den aussergewöhnlichen GLA-Gehalt der Samen und löste einen regelrechten Boom aus. Nachtkerzenöl wurde zum meistverkauften pflanzlichen Nahrungsergänzungsmittel in England. Heute wird die Nachtkerze weltweit auf grossen Flächen angebaut.`,
+Erst in den 1980er Jahren entdeckte die Forschung den außergewöhnlichen GLA-Gehalt der Samen und löste einen regelrechten Boom aus. Nachtkerzenöl wurde zum meistverkauften pflanzlichen Nahrungsergänzungsmittel in England. Heute wird die Nachtkerze weltweit auf großen Flächen angebaut.`,
     wirkungen: {
       hauptwirkungen: ['Entzündungshemmend (Haut)', 'Hormonregulierend', 'Hautbarriere stärkend', 'Juckreizlindernd', 'PMS-lindernd', 'Nervenschützend'],
       inhaltsstoffe: ['Gamma-Linolensäure (GLA)', 'Linolsäure', 'Ölsäure', 'Vitamin E', 'Phytosterole', 'Polyphenole', 'Tryptophan (Wurzel)', 'Gerbstoffe'],
@@ -372,13 +372,13 @@ Erst in den 1980er Jahren entdeckte die Forschung den aussergewöhnlichen GLA-Ge
         wirkung: 'Verbessert das Hautbild bei Neurodermitis, lindert PMS-Beschwerden und stärkt die Hautbarriere.',
       },
       {
-        name: 'Nachtkerzenöl äusserlich',
+        name: 'Nachtkerzenöl äußerlich',
         anleitung: 'Reines Nachtkerzenöl direkt auf betroffene Hautstellen auftragen und sanft einmassieren. 2x täglich anwenden.',
         wirkung: 'Pflegt trockene, juckende und entzündete Haut, besonders bei Neurodermitis und Ekzemen.',
       },
       {
         name: 'Nachtkerzen-Tee (Blätter)',
-        anleitung: '2 TL getrocknete Nachtkerzenblätter mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. 2 Tassen täglich.',
+        anleitung: '2 TL getrocknete Nachtkerzenblätter mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 2 Tassen täglich.',
         wirkung: 'Leicht krampflösend und beruhigend, unterstützend bei Husten und Magen-Darm-Beschwerden.',
       },
     ],
@@ -395,21 +395,21 @@ Erst in den 1980er Jahren entdeckte die Forschung den aussergewöhnlichen GLA-Ge
   'Neem': {
     vollname: 'Neembaum (Azadirachta indica)',
     familie: 'Mahagonigewächse (Meliaceae)',
-    beschreibung: `Der Neembaum wird in Indien seit über 5000 Jahren als "Dorfapotheke" verehrt -- jeder Teil dieses mächtigen Baumes ist heilkräftig. Rinde, Blätter, Samen, Blüten und sogar das Holz werden medizinisch genutzt. In der ayurvedischen Medizin gilt Neem als eines der wichtigsten Reinigungsmittel für Blut und Haut.
+    beschreibung: `Der Neembaum wird in Indien seit über 5000 Jahren als "Dorfapotheke" verehrt, jeder Teil dieses mächtigen Baumes ist heilkräftig. Rinde, Blätter, Samen, Blüten und sogar das Holz werden medizinisch genutzt. In der ayurvedischen Medizin gilt Neem als eines der wichtigsten Reinigungsmittel für Blut und Haut.
 
-Der Hauptwirkstoff Azadirachtin ist eine der komplexesten organischen Verbindungen der Natur. Zusammen mit über 100 weiteren bioaktiven Substanzen wirkt Neem antibakteriell, antiviral, antimykotisch und antiparasitär. Besonders bei Hautproblemen ist Neem unschlagbar -- von Akne über Ekzeme bis hin zu Pilzinfektionen.
+Der Hauptwirkstoff Azadirachtin ist eine der komplexesten organischen Verbindungen der Natur. Zusammen mit über 100 weiteren bioaktiven Substanzen wirkt Neem antibakteriell, antiviral, antimykotisch und antiparasitär. Besonders bei Hautproblemen ist Neem unschlagbar, von Akne über Ekzeme bis hin zu Pilzinfektionen.
 
 Neemöl aus den Samen ist ein natürliches Insektizid und wird im biologischen Landbau weltweit eingesetzt. Für die Haut ist es ein kraftvolles Pflegemittel, das Entzündungen hemmt, Keime abtötet und die Regeneration fördert.`,
-    geschichte: `In der vedischen Literatur wird Neem als "Sarva Roga Nivarini" beschrieben -- "die alle Krankheiten heilt". Die traditionelle indische Zahnpflege besteht seit Jahrtausenden aus dem Kauen von Neem-Zweigen. Mahatma Gandhi trank täglich Neem-Tee als Teil seiner Gesundheitsroutine.
+    geschichte: `In der vedischen Literatur wird Neem als "Sarva Roga Nivarini" beschrieben, "die alle Krankheiten heilt". Die traditionelle indische Zahnpflege besteht seit Jahrtausenden aus dem Kauen von Neem-Zweigen. Mahatma Gandhi trank täglich Neem-Tee als Teil seiner Gesundheitsroutine.
 
 Die Vereinten Nationen bezeichneten den Neembaum als "Baum des 21. Jahrhunderts" wegen seines enormen Potenzials für nachhaltige Landwirtschaft und Medizin. In vielen afrikanischen Ländern werden Neembäume gezielt als Medizin- und Schattenspender gepflanzt.`,
     wirkungen: {
       hauptwirkungen: ['Antibakteriell', 'Antimykotisch', 'Antiparasitär', 'Blutreinigend', 'Entzündungshemmend', 'Hautpflegend'],
-      inhaltsstoffe: ['Azadirachtin', 'Nimbin', 'Nimbidin', 'Quercetin', 'Gedunin', 'Salanin', 'Catechin', 'Kaempferol'],
+      inhaltsstoffe: ['Azadirachtin', 'Nimbin', 'Nimbidin', 'Quercetin', 'Gedunin', 'Salanin', 'Catechin', 'Kämpferol'],
     },
     ernte: {
       zeit: 'Blätter: Ganzjährig in tropischen Klimazonen. Samen: Nach der Reifung der Früchte.',
-      teile: 'Blätter, Rinde, Samen (für Neemöl), Blüten -- alle Teile sind heilkräftig.',
+      teile: 'Blätter, Rinde, Samen (für Neemöl), Blüten, alle Teile sind heilkräftig.',
       tipps: 'In unseren Breitengraden ist Neem nicht winterhart. Am besten getrocknete Blätter oder fertiges Neemöl aus Bioqualität beziehen.',
       mond: 'Blätter bei zunehmendem Mond, Rinde und Samen bei abnehmendem Mond ernten.',
     },
@@ -421,7 +421,7 @@ Die Vereinten Nationen bezeichneten den Neembaum als "Baum des 21. Jahrhunderts"
       },
       {
         name: 'Neem-Tee',
-        anleitung: '1 TL getrocknete Neemblätter mit 250ml heissem Wasser übergiessen, 5-8 Minuten ziehen lassen. Der Tee ist sehr bitter -- mit Honig und Zitrone verbessern. 1-2 Tassen täglich, nicht länger als 2 Wochen am Stück.',
+        anleitung: '1 TL getrocknete Neemblätter mit 250ml heißem Wasser übergießen, 5-8 Minuten ziehen lassen. Der Tee ist sehr bitter, mit Honig und Zitrone verbessern. 1-2 Tassen täglich, nicht länger als 2 Wochen am Stück.',
         wirkung: 'Reinigt das Blut, unterstützt die Leber und wirkt gegen innere Parasiten.',
       },
       {
@@ -443,11 +443,11 @@ Die Vereinten Nationen bezeichneten den Neembaum als "Baum des 21. Jahrhunderts"
   'Nelkenwurz': {
     vollname: 'Echte Nelkenwurz (Geum urbanum)',
     familie: 'Rosengewächse (Rosaceae)',
-    beschreibung: `Die Nelkenwurz ist eine bescheidene, oft übersehene Heilpflanze, die an Waldrändern und in Hecken wächst. Ihr Name verrät ihr Geheimnis: Die frisch gegrabene Wurzel verströmt einen deutlichen Nelkenduft, der vom enthaltenen Eugenol stammt -- demselben Wirkstoff, der auch die Gewürznelke so wertvoll macht.
+    beschreibung: `Die Nelkenwurz ist eine bescheidene, oft übersehene Heilpflanze, die an Waldrändern und in Hecken wächst. Ihr Name verrät ihr Geheimnis: Die frisch gegrabene Wurzel verströmt einen deutlichen Nelkenduft, der vom enthaltenen Eugenol stammt, demselben Wirkstoff, der auch die Gewürznelke so wertvoll macht.
 
 Eugenol wirkt stark schmerzlindernd, entzündungshemmend und keimtötend. Zusammen mit den reichlich vorhandenen Gerbstoffen ergibt sich ein Wirkstoffprofil, das die Nelkenwurz zu einem ausgezeichneten Mittel bei Zahnfleischentzündungen, Durchfall und Magen-Darm-Entzündungen macht.
 
-Die adstringierende Wirkung der Gerbstoffe zieht entzündete Schleimhäute zusammen, stillt leichte Blutungen und hemmt die Vermehrung von Krankheitserregern. Die Nelkenwurz vereint so die Kräfte der Gewürznelke mit denen der Gerbstoffdrogen -- eine seltene und wertvolle Kombination.`,
+Die adstringierende Wirkung der Gerbstoffe zieht entzündete Schleimhäute zusammen, stillt leichte Blutungen und hemmt die Vermehrung von Krankheitserregern. Die Nelkenwurz vereint so die Kräfte der Gewürznelke mit denen der Gerbstoffdrogen, eine seltene und wertvolle Kombination.`,
     geschichte: `Im Mittelalter war die Nelkenwurz als "Benediktenkraut" hoch geschätzt und wurde als Schutzpflanze gegen böse Geister und Schlangenbisse betrachtet. Die Wurzel wurde als Talisman getragen und ins Badewasser gegeben.
 
 Hildegard von Bingen und die Kräuterärzte der Klostermedizin nutzten die Nelkenwurz bei Fieber, Mundkrankheiten und Verdauungsbeschwerden. In armen Zeiten diente die duftende Wurzel als preiswerter Nelkenersatz zum Würzen von Wein und Speisen.`,
@@ -456,8 +456,8 @@ Hildegard von Bingen und die Kräuterärzte der Klostermedizin nutzten die Nelke
       inhaltsstoffe: ['Eugenol', 'Gerbstoffe (Gallotannine)', 'Bitterstoffe', 'Flavonoide', 'Ätherisches Öl', 'Harze', 'Stärke', 'Catechin'],
     },
     ernte: {
-      zeit: 'Wurzeln: Frühling (März/April) oder Herbst (September/Oktober) -- dann ist der Eugenol-Gehalt am höchsten.',
-      teile: 'Hauptsächlich die Wurzel -- frisch gegraben duftet sie am intensivsten nach Nelke.',
+      zeit: 'Wurzeln: Frühling (März/April) oder Herbst (September/Oktober), dann ist der Eugenol-Gehalt am höchsten.',
+      teile: 'Hauptsächlich die Wurzel, frisch gegraben duftet sie am intensivsten nach Nelke.',
       tipps: 'Die Wurzel sofort nach der Ernte verarbeiten oder trocknen, da das Eugenol sich verflüchtigt. Bei niedriger Temperatur trocknen und in gut verschlossenen Gläsern aufbewahren.',
       mond: 'Bei abnehmendem Mond an Wurzeltagen ernten.',
     },
@@ -474,14 +474,14 @@ Hildegard von Bingen und die Kräuterärzte der Klostermedizin nutzten die Nelke
       },
       {
         name: 'Nelkenwurz-Tee',
-        anleitung: '1-2 TL getrocknete Nelkenwurz mit 250ml kochendem Wasser übergiessen, 10-15 Minuten ziehen lassen. 2-3 Tassen täglich bei Durchfall oder Magenverstimmung.',
+        anleitung: '1-2 TL getrocknete Nelkenwurz mit 250ml kochendem Wasser übergießen, 10-15 Minuten ziehen lassen. 2-3 Tassen täglich bei Durchfall oder Magenverstimmung.',
         wirkung: 'Beruhigt den Magen-Darm-Trakt, stoppt Durchfall und hemmt Entzündungen.',
       },
     ],
     mischungen: ['Mundpflegetee (mit Salbei und Thymian)', 'Durchfalltee (mit Blutwurz und Heidelbeerblättern)', 'Magentee (mit Kamille und Pfefferminze)'],
     tcm: 'Nelkenwurz trocknet Feuchtigkeit, stoppt Durchfall und wärmt die Mitte. Sie wird bei Milz-Qi-Mangel mit Durchfall eingesetzt.',
     ayurveda: 'Nelkenwurz reduziert Kapha und wirkt als Grahi (absorptionsstärkend). Das enthaltene Eugenol wirkt als Vedanasthapana (schmerzlindernd) und Krimighna (antimikrobiell).',
-    volksmedizin: 'Bauern legten frische Nelkenwurz ins Bier, um es vor dem Sauerwerden zu schützen und ihm ein angenehmes Aroma zu verleihen. Bei Zahnschmerzen wurde ein Stück Wurzel direkt auf den schmerzenden Zahn gelegt -- die betäubende Wirkung setzt sofort ein.',
+    volksmedizin: 'Bauern legten frische Nelkenwurz ins Bier, um es vor dem Sauerwerden zu schützen und ihm ein angenehmes Aroma zu verleihen. Bei Zahnschmerzen wurde ein Stück Wurzel direkt auf den schmerzenden Zahn gelegt, die betäubende Wirkung setzt sofort ein.',
     besonders_bei: ['zahnschmerzen', 'zahnfleisch', 'durchfall', 'magen', 'mundgeruch', 'entzuendungen'],
   },
 
@@ -495,7 +495,7 @@ Hildegard von Bingen und die Kräuterärzte der Klostermedizin nutzten die Nelke
 
 Die Kombination aus Gerbstoffen, Bitterstoffen und Flavonoiden macht Odermennig zu einem hervorragenden Mittel für Leber, Galle und Verdauung. Er reguliert die Gallenproduktion, stärkt die Leberfunktion und lindert Sodbrennen und Völlegefühl. Gleichzeitig wirkt er adstringierend auf die Schleimhäute im gesamten Verdauungstrakt.
 
-Äusserlich ist Odermennig ein unterschätztes Wundheilkraut. Die Gerbstoffe ziehen Wundränder zusammen, hemmen Entzündungen und beschleunigen die Heilung. In der englischen Volksmedizin wird er als "Church Steeples" (Kirchtürme) bezeichnet -- seine aufrechte Blütenähre erinnert an einen Kirchturm.`,
+Äußerlich ist Odermennig ein unterschätztes Wundheilkraut. Die Gerbstoffe ziehen Wundränder zusammen, hemmen Entzündungen und beschleunigen die Heilung. In der englischen Volksmedizin wird er als "Church Steeples" (Kirchtürme) bezeichnet, seine aufrechte Blütenähre erinnert an einen Kirchturm.`,
     geschichte: `In der Antike galt Odermennig als eines der wichtigsten Wundkräuter auf dem Schlachtfeld. Die angelsächsische Medizin des Mittelalters zählte ihn zu den "heiligen Kräutern" und verwendete ihn in magischen Heilritualen.
 
 In der europäischen Volksmedizin war Odermennig über Jahrhunderte das Hauptmittel bei Leberleiden und Gallensteinen. Der Schweizer Kräuterpfarrer Johann Künzle nannte ihn "das Sängerkraut", weil Gurgeln mit Odermenningtee die Stimme klärt und heisere Stimmbänder heilt.`,
@@ -505,14 +505,14 @@ In der europäischen Volksmedizin war Odermennig über Jahrhunderte das Hauptmit
     },
     ernte: {
       zeit: 'Blühendes Kraut: Juni bis August, bei schönem Wetter.',
-      teile: 'Das ganze blühende Kraut -- die oberen zwei Drittel der Pflanze abschneiden.',
-      tipps: 'In lockeren Sträusschen kopfüber zum Trocknen aufhängen. Die Pflanze trocknet gut und behält ihr Aroma. Dunkel und trocken lagern.',
+      teile: 'Das ganze blühende Kraut, die oberen zwei Drittel der Pflanze abschneiden.',
+      tipps: 'In lockeren Sträußchen kopfüber zum Trocknen aufhängen. Die Pflanze trocknet gut und behält ihr Aroma. Dunkel und trocken lagern.',
       mond: 'Bei zunehmendem Mond an Blütentagen ernten.',
     },
     zubereitungen: [
       {
         name: 'Odermennig-Tee (Leber und Galle)',
-        anleitung: '2 TL getrocknetes Odermennigkraut mit 250ml kochendem Wasser übergiessen, 10-15 Minuten ziehen lassen. 3 Tassen täglich zwischen den Mahlzeiten.',
+        anleitung: '2 TL getrocknetes Odermennigkraut mit 250ml kochendem Wasser übergießen, 10-15 Minuten ziehen lassen. 3 Tassen täglich zwischen den Mahlzeiten.',
         wirkung: 'Stärkt die Leber, reguliert die Gallenproduktion, lindert Sodbrennen und Verdauungsbeschwerden.',
       },
       {
@@ -539,14 +539,14 @@ In der europäischen Volksmedizin war Odermennig über Jahrhunderte das Hauptmit
   'Wegwarte': {
     vollname: 'Gemeine Wegwarte (Cichorium intybus)',
     familie: 'Korbblütler (Asteraceae)',
-    beschreibung: `Die Wegwarte ist eine der schönsten Wildblumen Mitteleuropas -- ihre himmelblauen Blüten öffnen sich nur am Morgen und schliessen sich um die Mittagszeit wieder. Sie wächst an Wegrändern und auf Schuttplätzen, oft in rauem, steinigem Boden, und treibt dabei eine bis zu zwei Meter tiefe Pfahlwurzel.
+    beschreibung: `Die Wegwarte ist eine der schönsten Wildblumen Mitteleuropas, ihre himmelblauen Blüten öffnen sich nur am Morgen und schließen sich um die Mittagszeit wieder. Sie wächst an Wegrändern und auf Schuttplätzen, oft in rauem, steinigem Boden, und treibt dabei eine bis zu zwei Meter tiefe Pfahlwurzel.
 
-Heilkundlich ist die Wegwarte ein klassisches Leber- und Gallenmittel. Ihre Bitterstoffe (Lactucopikrin, Intybin) regen die Gallenproduktion an, stärken die Leber und fördern die Verdauung. Die Wurzel enthält zudem viel Inulin -- einen prebiotischen Ballaststoff, der die Darmflora nährt und die Verdauung reguliert.
+Heilkundlich ist die Wegwarte ein klassisches Leber- und Gallenmittel. Ihre Bitterstoffe (Lactucopikrin, Intybin) regen die Gallenproduktion an, stärken die Leber und fördern die Verdauung. Die Wurzel enthält zudem viel Inulin, einen prebiotischen Ballaststoff, der die Darmflora nährt und die Verdauung reguliert.
 
-Die geröstete Wegwartenwurzel ist als "Zichorienkaffee" bekannt -- ein koffeinfreier Kaffeeersatz mit eigenem, malzig-bitterem Charakter. Was als Notgetränk in Kriegszeiten begann, wird heute als gesundheitsfördernde Alternative geschätzt.`,
+Die geröstete Wegwartenwurzel ist als "Zichorienkaffee" bekannt, ein koffeinfreier Kaffeeersatz mit eigenem, malzig-bitterem Charakter. Was als Notgetränk in Kriegszeiten begann, wird heute als gesundheitsfördernde Alternative geschätzt.`,
     geschichte: `In der griechischen Mythologie war die Wegwarte ein verwandeltes Mädchen, das am Wegrand auf seinen in den Krieg gezogenen Geliebten wartete. Dieser poetische Ursprungsmythos gab der Pflanze ihren deutschen Namen.
 
-Paracelsus empfahl die Wegwarte als eines der stärksten Lebermittel. In der Signaturenlehre deutete man die blaue Blütenfarbe als Hinweis auf die Leber (die "blaue" Ader). Im 18. Jahrhundert begann Friedrich der Grosse, den Anbau der Wegwarte als Kaffeeersatz zu fördern -- der Beginn einer ganzen Industrie.`,
+Paracelsus empfahl die Wegwarte als eines der stärksten Lebermittel. In der Signaturenlehre deutete man die blaue Blütenfarbe als Hinweis auf die Leber (die "blaue" Ader). Im 18. Jahrhundert begann Friedrich der Große, den Anbau der Wegwarte als Kaffeeersatz zu fördern, der Beginn einer ganzen Industrie.`,
     wirkungen: {
       hauptwirkungen: ['Leberanregend', 'Gallenflussfördernd', 'Verdauungsstärkend', 'Prebiotisch', 'Appetitanregend', 'Blutzuckerregulierend'],
       inhaltsstoffe: ['Inulin', 'Bitterstoffe (Lactucopikrin, Intybin)', 'Sesquiterpenlactone', 'Gerbstoffe', 'Cumarine', 'Flavonoide', 'Mineralstoffe', 'Vitamine (A, B, C)'],
@@ -577,7 +577,7 @@ Paracelsus empfahl die Wegwarte als eines der stärksten Lebermittel. In der Sig
     mischungen: ['Leberkur-Tee (mit Mariendistel und Artischocke)', 'Verdauungsbitter (mit Enzian und Wermut)', 'Entgiftungstee (mit Löwenzahn und Brennnessel)'],
     tcm: 'Wegwarte klärt Leber-Hitze, bewegt stagniertes Leber-Qi und fördert den Gallenfluss. Sie kühlt und entgiftet die Leber.',
     ayurveda: 'Wegwarte reduziert Pitta und Kapha durch ihren bitteren Geschmack. Sie stärkt die Leber (Yakrit) und wirkt als Rechana (abführend) und Deepana (verdauungsanregend).',
-    volksmedizin: 'In der bäuerlichen Heilkunde galt die Wegwarte als "Sonnenwende-Kraut" -- am Johannistag gepflückt sollte sie besonders heilkräftig sein. Augenkranke wuschen ihre Augen mit Wegwartenwasser, und bei Leberleiden trank man wochen lang den Tee als Frühjahrskur.',
+    volksmedizin: 'In der bäuerlichen Heilkunde galt die Wegwarte als "Sonnenwende-Kraut", am Johannistag gepflückt sollte sie besonders heilkräftig sein. Augenkranke wuschen ihre Augen mit Wegwartenwasser, und bei Leberleiden trank man wochen lang den Tee als Frühjahrskur.',
     besonders_bei: ['leber', 'galle', 'verdauung', 'appetitlosigkeit', 'darmflora', 'blutzucker'],
   },
 
@@ -587,22 +587,22 @@ Paracelsus empfahl die Wegwarte als eines der stärksten Lebermittel. In der Sig
   'Weide': {
     vollname: 'Silberweide (Salix alba)',
     familie: 'Weidengewächse (Salicaceae)',
-    beschreibung: `Die Weide ist der natürliche Ursprung des Aspirins -- aus ihrer Rinde wurde im 19. Jahrhundert die Salicylsäure isoliert, die zur Entwicklung des weltweit meistverbrauchten Medikaments führte. Doch die Weidenrinde kann mehr als ihr synthetisches Derivat: Sie wirkt schmerzlindernd, fiebersenkend und entzündungshemmend, dabei aber wesentlich magenfreundlicher als Aspirin.
+    beschreibung: `Die Weide ist der natürliche Ursprung des Aspirins, aus ihrer Rinde wurde im 19. Jahrhundert die Salicylsäure isoliert, die zur Entwicklung des weltweit meistverbrauchten Medikaments führte. Doch die Weidenrinde kann mehr als ihr synthetisches Derivat: Sie wirkt schmerzlindernd, fiebersenkend und entzündungshemmend, dabei aber wesentlich magenfreundlicher als Aspirin.
 
-Der Grund liegt in der komplexen Zusammensetzung: Neben Salicin enthält die Rinde Flavonoide und Gerbstoffe, die synergistisch wirken und die Magenschleimhaut schützen statt sie anzugreifen. Salicin wird im Darm und in der Leber langsam zu Salicylsäure umgewandelt -- dadurch setzt die Wirkung zwar später ein, hält aber länger an als bei Aspirin.
+Der Grund liegt in der komplexen Zusammensetzung: Neben Salicin enthält die Rinde Flavonoide und Gerbstoffe, die synergistisch wirken und die Magenschleimhaut schützen statt sie anzugreifen. Salicin wird im Darm und in der Leber langsam zu Salicylsäure umgewandelt, dadurch setzt die Wirkung zwar später ein, hält aber länger an als bei Aspirin.
 
 Die majestätische Silberweide mit ihren silbrig schimmernden Blättern wächst bevorzugt an Flussufern und feuchten Standorten. Ihre biegsamen Zweige werden seit Jahrtausenden zum Korbflechten verwendet.`,
     geschichte: `Hippokrates beschrieb um 400 v. Chr. die schmerzlindernde Wirkung von Weidenrindentee. Die alten Ägypter verwendeten Weidenextrakte bei Fieber und Schmerzen, wie der Papyrus Ebers belegt.
 
-Im Jahr 1828 isolierte der Münchner Pharmazeut Johann Buchner erstmals Salicin aus der Weidenrinde. Felix Hoffmann synthetisierte daraus 1897 bei der Firma Bayer die Acetylsalicylsäure -- Aspirin war geboren. Die Weidenrinde blieb in der Phytotherapie erhalten und erlebt seit den 1990er Jahren eine Renaissance.`,
+Im Jahr 1828 isolierte der Münchner Pharmazeut Johann Buchner erstmals Salicin aus der Weidenrinde. Felix Hoffmann synthetisierte daraus 1897 bei der Firma Bayer die Acetylsalicylsäure: Aspirin war geboren. Die Weidenrinde blieb in der Phytotherapie erhalten und erlebt seit den 1990er Jahren eine Renaissance.`,
     wirkungen: {
       hauptwirkungen: ['Schmerzlindernd', 'Fiebersenkend', 'Entzündungshemmend', 'Antirheumatisch', 'Durchblutungsfördernd', 'Magenfreundlich'],
       inhaltsstoffe: ['Salicin', 'Salicortin', 'Tremulacin', 'Flavonoide', 'Gerbstoffe (Catechine)', 'Phenolglykosiden', 'Vitamin C', 'Mineralstoffe'],
     },
     ernte: {
       zeit: 'Rinde: Frühling (März/April), wenn die Rinde sich leicht vom Holz löst.',
-      teile: 'Rinde junger Zweige (2-3 Jahre alt) -- sie enthält die höchste Salicin-Konzentration.',
-      tipps: 'Nur Rinde von jungen Zweigen abschälen, nicht den Hauptstamm verletzen. Die Rinde in Streifen trocknen. Am besten von Kopfweiden ernten, die regelmässig geschnitten werden.',
+      teile: 'Rinde junger Zweige (2-3 Jahre alt), sie enthält die höchste Salicin-Konzentration.',
+      tipps: 'Nur Rinde von jungen Zweigen abschälen, nicht den Hauptstamm verletzen. Die Rinde in Streifen trocknen. Am besten von Kopfweiden ernten, die regelmäßig geschnitten werden.',
       mond: 'Bei abnehmendem Mond ernten für höchsten Wirkstoffgehalt.',
     },
     zubereitungen: [
@@ -622,7 +622,7 @@ Im Jahr 1828 isolierte der Münchner Pharmazeut Johann Buchner erstmals Salicin 
         wirkung: 'Lindert Gelenkschmerzen, Rheuma und Muskelkater. Die Wirkstoffe werden auch über die Haut aufgenommen.',
       },
     ],
-    mischungen: ['Schmerzentee (mit Mädesüss und Teufelskralle)', 'Rheumabad (mit Rosmarin und Wacholder)', 'Fiebertee (mit Holunder und Linde)'],
+    mischungen: ['Schmerzentee (mit Mädesüß und Teufelskralle)', 'Rheumabad (mit Rosmarin und Wacholder)', 'Fiebertee (mit Holunder und Linde)'],
     tcm: 'Weidenrinde klärt Wind-Hitze, kühlt das Blut und stillt Schmerzen. Sie wird bei Bi-Syndromen (schmerzhafte Obstruktionen) durch Wind-Feuchtigkeit-Hitze eingesetzt.',
     ayurveda: 'Weidenrinde reduziert Pitta und packt die Vata-Pitta-Schmerzen. Sie wirkt als Vedanasthapana (schmerzstillend) und Jwaraghna (fiebersenkend). Bei Vata-dominierten Schmerzen mit wärmenden Mitteln kombinieren.',
     volksmedizin: 'In der Volksmedizin wurde Weidenrinde als "Kopfwehtee" und "Fieberrinde" getrunken. Fischer und Holzarbeiter, die ständig im Wasser standen, kauten Weidenrinde gegen ihre Gelenkschmerzen. Auch bei Warzen wurde Weidenrinden-Extrakt aufgetragen.',
@@ -637,9 +637,9 @@ Im Jahr 1828 isolierte der Münchner Pharmazeut Johann Buchner erstmals Salicin 
     familie: 'Nachtkerzengewächse (Onagraceae)',
     beschreibung: `Das Kleinblütige Weidenröschen ist eine unscheinbare Pflanze mit zarten, rosa Blüten, die an feuchten Standorten, Waldlichtungen und Wegrändern wächst. Seine Heilkraft bei Prostatabeschwerden wurde durch die österreichische Kräuterfrau Maria Treben in den 1980er Jahren weithin bekannt.
 
-Die Pflanze enthält Oenothein B -- ein Polyphenol, das die 5-Alpha-Reduktase hemmt. Dieses Enzym wandelt Testosteron in Dihydrotestosteron um, jenes Hormon, das massgeblich für die gutartige Vergrösserung der Prostata verantwortlich ist. Weidenröschen-Tee kann so das Wachstum der Prostata bremsen und die typischen Beschwerden wie häufigen Harndrang und nächtliches Wasserlassen lindern.
+Die Pflanze enthält Oenothein B, ein Polyphenol, das die 5-Alpha-Reduktase hemmt. Dieses Enzym wandelt Testosteron in Dihydrotestosteron um, jenes Hormon, das maßgeblich für die gutartige Vergrößerung der Prostata verantwortlich ist. Weidenröschen-Tee kann so das Wachstum der Prostata bremsen und die typischen Beschwerden wie häufigen Harndrang und nächtliches Wasserlassen lindern.
 
-Wichtig ist die richtige Art: Es muss das Kleinblütige Weidenröschen (Epilobium parviflorum) oder das Bergweidenröschen (E. montanum) sein -- nicht das grosse, prächtige Schmalblättrige Weidenröschen (E. angustifolium), das zwar schön blüht, aber weniger wirksam ist.`,
+Wichtig ist die richtige Art: Es muss das Kleinblütige Weidenröschen (Epilobium parviflorum) oder das Bergweidenröschen (E. montanum) sein, nicht das große, prächtige Schmalblättrige Weidenröschen (E. angustifolium), das zwar schön blüht, aber weniger wirksam ist.`,
     geschichte: `Maria Treben schrieb in ihrem Bestseller "Gesundheit aus der Apotheke Gottes" ausführlich über das Weidenröschen und berichtete von zahlreichen Männern, die durch den täglichen Tee ihre Prostataprobleme überwanden. Ihr Buch wurde in 27 Sprachen übersetzt und machte die Pflanze weltweit bekannt.
 
 In der traditionellen Volksmedizin der Alpenländer war Weidenröschen als Wundheilkraut und Mittel bei Blasenleiden bekannt. Die neuere Forschung bestätigt die prostataschützende Wirkung und untersucht zusätzlich antioxidative und entzündungshemmende Eigenschaften.`,
@@ -649,14 +649,14 @@ In der traditionellen Volksmedizin der Alpenländer war Weidenröschen als Wundh
     },
     ernte: {
       zeit: 'Blühendes Kraut: Juni bis August, bei trockenem Wetter.',
-      teile: 'Das ganze blühende Kraut ohne die Wurzel -- die oberen zwei Drittel abschneiden.',
+      teile: 'Das ganze blühende Kraut ohne die Wurzel, die oberen zwei Drittel abschneiden.',
       tipps: 'Unbedingt die Art genau bestimmen: Kleinblütige Art mit zarten, rosa Blüten und behaarten Stängeln. Schonend bei niedriger Temperatur trocknen.',
       mond: 'Bei zunehmendem Mond an Blütentagen ernten.',
     },
     zubereitungen: [
       {
         name: 'Weidenröschen-Tee (Prostata)',
-        anleitung: '1-2 TL getrocknetes Kleinblütiges Weidenröschen mit 250ml kochendem Wasser übergiessen, 10-15 Minuten ziehen lassen. 2 Tassen täglich -- morgens und abends. Über mehrere Monate trinken.',
+        anleitung: '1-2 TL getrocknetes Kleinblütiges Weidenröschen mit 250ml kochendem Wasser übergießen, 10-15 Minuten ziehen lassen. 2 Tassen täglich, morgens und abends. Über mehrere Monate trinken.',
         wirkung: 'Lindert Prostatabeschwerden, reduziert nächtlichen Harndrang und hemmt das Prostatawachstum.',
       },
       {
@@ -683,7 +683,7 @@ In der traditionellen Volksmedizin der Alpenländer war Weidenröschen als Wundh
   'Wolfstrapp': {
     vollname: 'Europäischer Wolfstrapp (Lycopus europaeus)',
     familie: 'Lippenblütler (Lamiaceae)',
-    beschreibung: `Der Wolfstrapp ist eine der wenigen Heilpflanzen, die direkt auf die Schilddrüse wirken. Er wächst an feuchten Standorten, an Bachufern und Gräben, und erinnert mit seinen gezähnten Blättern an einen Wolfsfuss -- daher sein Name. Die unscheinbaren weissen Blüten verraten wenig über seine bemerkenswerte Heilkraft.
+    beschreibung: `Der Wolfstrapp ist eine der wenigen Heilpflanzen, die direkt auf die Schilddrüse wirken. Er wächst an feuchten Standorten, an Bachufern und Gräben, und erinnert mit seinen gezähnten Blättern an einen Wolfsfuß, daher sein Name. Die unscheinbaren weißen Blüten verraten wenig über seine bemerkenswerte Heilkraft.
 
 Die Pflanze enthält Lithospermsäure und Rosmarinsäure, die die Bindung von TSH (Thyreoidea-stimulierendes Hormon) an die Schilddrüsenzellen hemmen und die Umwandlung von T4 in das aktivere T3 verlangsamen. Dadurch wirkt Wolfstrapp beruhigend bei einer Schilddrüsenüberfunktion (Hyperthyreose) und lindert deren Symptome wie Herzrasen, Nervosität, Zittern und Schwitzen.
 
@@ -692,19 +692,19 @@ Wolfstrapp ist eines der wenigen pflanzlichen Thyreosatatika und kann bei leicht
 
 Die moderne Forschung hat die thyreosatatische Wirkung des Wolfstrapps in zahlreichen Studien bestätigt. In der anthroposophischen Medizin und der Phytotherapie wird er als sanfte Alternative zu synthetischen Schilddrüsenmedikamenten geschätzt.`,
     wirkungen: {
-      hauptwirkungen: ['Schilddrüsenhemmend', 'Herzberuhigend', 'Nervenstärkend', 'Antioxidativ', 'Schweisshemmend', 'Leicht zusammenziehend'],
+      hauptwirkungen: ['Schilddrüsenhemmend', 'Herzberuhigend', 'Nervenstärkend', 'Antioxidativ', 'Schweißhemmend', 'Leicht zusammenziehend'],
       inhaltsstoffe: ['Lithospermsäure', 'Rosmarinsäure', 'Flavonoide (Luteolin)', 'Hydroxyzimtsäuren', 'Gerbstoffe', 'Ätherisches Öl', 'Kaffeesäure-Derivate', 'Iridoide'],
     },
     ernte: {
       zeit: 'Blühendes Kraut: Juli bis September.',
-      teile: 'Das ganze blühende Kraut -- oberirdische Teile während der Blüte abschneiden.',
+      teile: 'Das ganze blühende Kraut, oberirdische Teile während der Blüte abschneiden.',
       tipps: 'Schonend bei niedriger Temperatur trocknen, um die empfindlichen Phenolsäuren zu erhalten. Nur unter fachkundiger Anleitung anwenden, da eine Schilddrüsenunterfunktion vorliegen könnte.',
       mond: 'Bei zunehmendem Mond an Blatttagen ernten.',
     },
     zubereitungen: [
       {
         name: 'Wolfstrapp-Tee',
-        anleitung: '1-2 TL getrocknetes Wolfstrappkraut mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. 2 Tassen täglich. Die Dosierung langsam steigern und mit einem Arzt abstimmen.',
+        anleitung: '1-2 TL getrocknetes Wolfstrappkraut mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 2 Tassen täglich. Die Dosierung langsam steigern und mit einem Arzt abstimmen.',
         wirkung: 'Beruhigt eine überaktive Schilddrüse, lindert Herzrasen und Nervosität.',
       },
       {
@@ -718,7 +718,7 @@ Die moderne Forschung hat die thyreosatatische Wirkung des Wolfstrapps in zahlre
         wirkung: 'Besonders milde Zubereitung, die die empfindlichen Wirkstoffe optimal erhält.',
       },
     ],
-    mischungen: ['Schilddrüsentee (mit Herzgespann und Melisse)', 'Beruhigungstee (mit Baldrian und Passionsblume)', 'Herztee (mit Weissdorn und Melisse)'],
+    mischungen: ['Schilddrüsentee (mit Herzgespann und Melisse)', 'Beruhigungstee (mit Baldrian und Passionsblume)', 'Herztee (mit Weißdorn und Melisse)'],
     tcm: 'Wolfstrapp kühlt Herz-Feuer und beruhigt den Geist (Shen). Er senkt aufsteigendes Leber-Yang und reguliert das Qi des Herzens.',
     ayurveda: 'Wolfstrapp reduziert Pitta im Schilddrüsenbereich (Vishudda-Chakra). Er wirkt als Hridya (herzstärkend) und Medhya (geistberuhigend). Nicht bei Kapha-dominierter Schilddrüsenunterfunktion einsetzen.',
     volksmedizin: 'Kräuterkundige Frauen erkannten den Zusammenhang zwischen "Herzjagen" und der Schilddrüse lange bevor die moderne Medizin dies beschrieb. Der Wolfstrapp-Tee war ihr Mittel der Wahl bei nervösen, unruhigen Patienten mit Herzrasen und Gewichtsverlust.',
@@ -731,21 +731,21 @@ Die moderne Forschung hat die thyreosatatische Wirkung des Wolfstrapps in zahlre
   'Yamswurzel': {
     vollname: 'Wilde Yamswurzel (Dioscorea villosa)',
     familie: 'Yamswurzelgewächse (Dioscoreaceae)',
-    beschreibung: `Die Wilde Yamswurzel ist eine Kletterpflanze aus Nordamerika, deren Wurzelknollen einen besonderen Schatz enthalten: Diosgenin -- ein pflanzliches Steroid, das dem menschlichen Progesteron strukturell ähnelt. Diese Entdeckung revolutionierte die Hormonforschung und führte in den 1940er Jahren zur Entwicklung der Antibabypille.
+    beschreibung: `Die Wilde Yamswurzel ist eine Kletterpflanze aus Nordamerika, deren Wurzelknollen einen besonderen Schatz enthalten: Diosgenin, ein pflanzliches Steroid, das dem menschlichen Progesteron strukturell ähnelt. Diese Entdeckung revolutionierte die Hormonforschung und führte in den 1940er Jahren zur Entwicklung der Antibabypille.
 
-In der Naturheilkunde wird die Wilde Yamswurzel als pflanzliche Hormonunterstützung bei Wechseljahresbeschwerden eingesetzt. Diosgenin wird im Körper nicht direkt in Progesteron umgewandelt, wie manchmal behauptet -- aber die Pflanze enthält weitere Substanzen, die den Hormonhaushalt sanft regulieren und Wechseljahressymptome wie Hitzewallungen, Stimmungsschwankungen und Schlafstörungen lindern können.
+In der Naturheilkunde wird die Wilde Yamswurzel als pflanzliche Hormonunterstützung bei Wechseljahresbeschwerden eingesetzt. Diosgenin wird im Körper nicht direkt in Progesteron umgewandelt, wie manchmal behauptet, aber die Pflanze enthält weitere Substanzen, die den Hormonhaushalt sanft regulieren und Wechseljahressymptome wie Hitzewallungen, Stimmungsschwankungen und Schlafstörungen lindern können.
 
 Darüber hinaus wirkt die Yamswurzel krampflösend auf die glatte Muskulatur, was sie zu einem wertvollen Mittel bei Menstruationskrämpfen, Magen-Darm-Krämpfen und Gallenkoliken macht.`,
-    geschichte: `Die indigenen Völker Nordamerikas -- insbesondere die Maya und Azteken -- nutzten die Wilde Yamswurzel seit Jahrhunderten bei Frauenbeschwerden und Rheuma. Der Name "Dioscorea" ehrt den griechischen Arzt Dioskurides.
+    geschichte: `Die indigenen Völker Nordamerikas, insbesondere die Maya und Azteken, nutzten die Wilde Yamswurzel seit Jahrhunderten bei Frauenbeschwerden und Rheuma. Der Name "Dioscorea" ehrt den griechischen Arzt Dioskurides.
 
 In den 1940er Jahren isolierte der Chemiker Russell Marker Diosgenin aus der mexikanischen Yamswurzel und synthetisierte daraus Progesteron. Dies war die Geburtsstunde der Steroidhormon-Industrie und letztlich der hormonellen Verhütung. Die Pflanze hat damit die Geschichte der modernen Medizin entscheidend geprägt.`,
     wirkungen: {
-      hauptwirkungen: ['Hormonregulierend', 'Krampflösend', 'Entzündungshemmend', 'Phytoöstrogen', 'Schweisslindernd', 'Gallenanregend'],
+      hauptwirkungen: ['Hormonregulierend', 'Krampflösend', 'Entzündungshemmend', 'Phytoöstrogen', 'Schweißlindernd', 'Gallenanregend'],
       inhaltsstoffe: ['Diosgenin', 'Steroidsaponine', 'Phytosterole', 'Gerbstoffe', 'Stärke', 'Alkaloide (Dioscorin)', 'Flavonoide', 'Selen'],
     },
     ernte: {
       zeit: 'Wurzelknollen: Herbst nach dem Absterben der oberirdischen Teile.',
-      teile: 'Die Wurzelknollen -- sie enthalten die höchste Diosgenin-Konzentration.',
+      teile: 'Die Wurzelknollen, sie enthalten die höchste Diosgenin-Konzentration.',
       tipps: 'In Mitteleuropa nur bedingt kultivierbar. Am besten als standardisierten Extrakt oder getrocknete Wurzel aus zuverlässiger Quelle beziehen. Auf Wildsammlung verzichten.',
       mond: 'Bei abnehmendem Mond an Wurzeltagen ernten.',
     },
@@ -758,10 +758,10 @@ In den 1940er Jahren isolierte der Chemiker Russell Marker Diosgenin aus der mex
       {
         name: 'Yamswurzel-Tinktur',
         anleitung: 'Getrocknete Yamswurzel mit 45%igem Alkohol im Verhältnis 1:5 ansetzen. 6 Wochen ziehen lassen. 2-3x täglich 20-30 Tropfen.',
-        wirkung: 'Hormonregulierende Wirkung bei regelmässiger Einnahme über mehrere Monate.',
+        wirkung: 'Hormonregulierende Wirkung bei regelmäßiger Einnahme über mehrere Monate.',
       },
       {
-        name: 'Yamswurzel-Creme (äusserlich)',
+        name: 'Yamswurzel-Creme (äußerlich)',
         anleitung: 'Yamswurzel-Extrakt in eine neutrale Basiscreme einarbeiten (ca. 10% Konzentration). Morgens und abends dünn auf die Innenseiten der Unterarme oder den Bauch auftragen.',
         wirkung: 'Unterstützt den Hormonhaushalt über die Haut, besonders bei Wechseljahresbeschwerden und PMS.',
       },
@@ -779,28 +779,28 @@ In den 1940er Jahren isolierte der Chemiker Russell Marker Diosgenin aus der mex
   'Zwiebel': {
     vollname: 'Küchenzwiebel (Allium cepa)',
     familie: 'Lauchgewächse (Alliaceae)',
-    beschreibung: `Die Zwiebel ist das älteste und am weitesten verbreitete Hausmittel der Welt. In jeder Küche vorhanden, wird sie oft nur als Gemüse wahrgenommen -- dabei ist sie eine Medizin von erstaunlicher Vielseitigkeit. Ihre Schwefelverbindungen, die beim Schneiden die Augen zum Tränen bringen, sind zugleich potente Heilstoffe.
+    beschreibung: `Die Zwiebel ist das älteste und am weitesten verbreitete Hausmittel der Welt. In jeder Küche vorhanden, wird sie oft nur als Gemüse wahrgenommen, dabei ist sie eine Medizin von erstaunlicher Vielseitigkeit. Ihre Schwefelverbindungen, die beim Schneiden die Augen zum Tränen bringen, sind zugleich potente Heilstoffe.
 
-Zwiebelsaft wirkt antibakteriell, schleimlösend und entzündungshemmend. Bei Husten und Erkältung ist der selbstgemachte Zwiebelsirup mit Honig ein bewährtes Hausmittel, das besonders für Kinder geeignet ist. Äusserlich als Zwiebelauflage angewendet, zieht die Zwiebel Entzündungen aus dem Gewebe -- ein klassisches Mittel bei Ohrenschmerzen und Insektenstichen.
+Zwiebelsaft wirkt antibakteriell, schleimlösend und entzündungshemmend. Bei Husten und Erkältung ist der selbstgemachte Zwiebelsirup mit Honig ein bewährtes Hausmittel, das besonders für Kinder geeignet ist. Äußerlich als Zwiebelauflage angewendet, zieht die Zwiebel Entzündungen aus dem Gewebe, ein klassisches Mittel bei Ohrenschmerzen und Insektenstichen.
 
-Die Zwiebel enthält zudem Quercetin -- eines der stärksten natürlichen Antihistaminika. Regelmässiger Zwiebelverzehr kann allergische Reaktionen mildern und wirkt vorbeugend gegen Heuschnupfen und andere Allergien.`,
+Die Zwiebel enthält zudem Quercetin, eines der stärksten natürlichen Antihistaminika. Regelmäßiger Zwiebelverzehr kann allergische Reaktionen mildern und wirkt vorbeugend gegen Heuschnupfen und andere Allergien.`,
     geschichte: `Im alten Ägypten war die Zwiebel so heilig, dass die Arbeiter an den Pyramiden sie als Lohn erhielten. Man schwor Eide auf die Zwiebel, und sie wurde als Grabbeigabe in die Sarkophage gelegt. Die konzentrische Schichtung der Zwiebelschalen galt als Symbol der Ewigkeit.
 
-Alexander der Grosse gab seinen Soldaten Zwiebeln zur Stärkung und Krankheitsvorbeugung. Im Mittelalter war die Zwiebel das wichtigste Hausmittel der einfachen Leute -- sie half bei Erkältungen, Wunden, Ohrenschmerzen und sogar bei der Pest.`,
+Alexander der Große gab seinen Soldaten Zwiebeln zur Stärkung und Krankheitsvorbeugung. Im Mittelalter war die Zwiebel das wichtigste Hausmittel der einfachen Leute, sie half bei Erkältungen, Wunden, Ohrenschmerzen und sogar bei der Pest.`,
     wirkungen: {
       hauptwirkungen: ['Antibakteriell', 'Schleimlösend', 'Entzündungshemmend', 'Antihistaminisch', 'Durchblutungsfördernd', 'Immunstärkend'],
       inhaltsstoffe: ['Quercetin', 'Schwefelverbindungen (Allicin)', 'Flavonoide', 'Vitamin C', 'Selen', 'Fructane (Prebiotika)', 'Phenolsäuren', 'Kalium'],
     },
     ernte: {
       zeit: 'August bis September, wenn das Laub umknickt und vergilbt.',
-      teile: 'Die Zwiebel (Knolle) -- das Laub kann als Schnittlauchersatz verwendet werden.',
+      teile: 'Die Zwiebel (Knolle), das Laub kann als Schnittlauchersatz verwendet werden.',
       tipps: 'Nach der Ernte an einem trockenen, luftigen Ort 2-3 Wochen nachtrocknen lassen. In Zöpfe flechten und aufhängen oder in Netzen lagern.',
       mond: 'Bei abnehmendem Mond ernten für beste Lagerfähigkeit.',
     },
     zubereitungen: [
       {
         name: 'Zwiebelsirup (Hustenmittel)',
-        anleitung: 'Eine grosse Zwiebel in Scheiben schneiden, abwechselnd mit Honig oder braunem Zucker in ein Glas schichten. 6-8 Stunden ziehen lassen, bis sich Saft bildet. 3-5x täglich 1 TL einnehmen.',
+        anleitung: 'Eine große Zwiebel in Scheiben schneiden, abwechselnd mit Honig oder braunem Zucker in ein Glas schichten. 6-8 Stunden ziehen lassen, bis sich Saft bildet. 3-5x täglich 1 TL einnehmen.',
         wirkung: 'Klassisches Hausmittel bei Husten, löst Schleim und beruhigt den Hustenreiz.',
       },
       {
@@ -817,7 +817,7 @@ Alexander der Grosse gab seinen Soldaten Zwiebeln zur Stärkung und Krankheitsvo
     mischungen: ['Erkältungssuppe (mit Knoblauch und Ingwer)', 'Hustensaft (mit Thymian und Honig)', 'Ohrwickel-Kur (mit Kamille)'],
     tcm: 'Die Zwiebel wärmt die Lunge, zerstreut Kälte und öffnet die Oberfläche. Sie vertreibt Wind-Kälte und wird bei Erkältung mit Frösteln eingesetzt.',
     ayurveda: 'Die Zwiebel reduziert Kapha und Vata, kann aber Pitta erhöhen. Sie stärkt Agni und wirkt als Krimighna (keimtötend) und Kaphahara (schleimlösend). In der sattvischen Ernährung wird sie gemieden, in der rajasischen geschätzt.',
-    volksmedizin: 'Grossmütter legten bei Erkältung eine aufgeschnittene Zwiebel neben das Bett des Kranken. Bei Fieber wurden Zwiebelscheiben in die Socken gelegt. Das Einatmen von Zwiebeldämpfen galt als Mittel gegen verstopfte Nase -- und jede Erkältung begann mit dem Zwiebelsirup.',
+    volksmedizin: 'Großmütter legten bei Erkältung eine aufgeschnittene Zwiebel neben das Bett des Kranken. Bei Fieber wurden Zwiebelscheiben in die Socken gelegt. Das Einatmen von Zwiebeldämpfen galt als Mittel gegen verstopfte Nase, und jede Erkältung begann mit dem Zwiebelsirup.',
     besonders_bei: ['husten', 'erkaeltung', 'ohrenschmerzen', 'insektenstiche', 'allergie', 'immunschwaeche'],
   },
 
@@ -829,14 +829,14 @@ Alexander der Grosse gab seinen Soldaten Zwiebeln zur Stärkung und Krankheitsvo
     familie: 'Zypressengewächse (Cupressaceae)',
     beschreibung: `Die Zypresse ist der majestätische Säulenbaum des Mittelmeerraums und ein uraltes Symbol für Ewigkeit und Wandlung. Ihr ätherisches Öl, gewonnen aus Zweigen und Zapfen, ist eines der besten natürlichen Venenmittel und wirkt stark zusammenziehend auf das Gewebe.
 
-Die Hauptwirkstoffe -- Alpha-Pinen, Delta-3-Caren und Cedrol -- stärken die Venenwände, fördern den Rückfluss des Blutes zum Herzen und verringern Wassereinlagerungen. Zypressen-Öl ist daher ein hervorragendes Mittel bei Krampfadern, Besenreisern, schweren Beinen und Hämorrhoiden.
+Die Hauptwirkstoffe: Alpha-Pinen, Delta-3-Caren und Cedrol, stärken die Venenwände, fördern den Rückfluss des Blutes zum Herzen und verringern Wassereinlagerungen. Zypressen-Öl ist daher ein hervorragendes Mittel bei Krampfadern, Besenreisern, schweren Beinen und Hämorrhoiden.
 
-Innerlich als Tee aus den Zapfen wirkt die Zypresse zusammenziehend auf die Schleimhäute. Sie kann starke Menstruationsblutungen eindämmen, Durchfall stoppen und übermässiges Schwitzen reduzieren. Der herbe, holzig-frische Duft des Zypressen-Öls klärt den Geist und hilft bei Trauer und Abschied.`,
-    geschichte: `Im antiken Griechenland war die Zypresse Hades geweiht, dem Gott der Unterwelt. Auf Friedhöfen gepflanzt, symbolisierte sie den Übergang vom Leben zum Tod und die Unsterblichkeit der Seele. Das Holz galt als unverwüstlich -- die Tore von Konstantinopel waren aus Zypressenholz gefertigt.
+Innerlich als Tee aus den Zapfen wirkt die Zypresse zusammenziehend auf die Schleimhäute. Sie kann starke Menstruationsblutungen eindämmen, Durchfall stoppen und übermäßiges Schwitzen reduzieren. Der herbe, holzig-frische Duft des Zypressen-Öls klärt den Geist und hilft bei Trauer und Abschied.`,
+    geschichte: `Im antiken Griechenland war die Zypresse Hades geweiht, dem Gott der Unterwelt. Auf Friedhöfen gepflanzt, symbolisierte sie den Übergang vom Leben zum Tod und die Unsterblichkeit der Seele. Das Holz galt als unverwüstlich, die Tore von Konstantinopel waren aus Zypressenholz gefertigt.
 
-Hippokrates empfahl Zypressenbäder bei Krampfadern und Hämorrhoiden. In der ägyptischen Medizin wurde Zypressenöl bei Erkrankungen der Atemwege eingesetzt. Die klösterliche Heilkunde übernahm die Zypresse als Mittel bei venösen Leiden und übermässigen Blutungen.`,
+Hippokrates empfahl Zypressenbäder bei Krampfadern und Hämorrhoiden. In der ägyptischen Medizin wurde Zypressenöl bei Erkrankungen der Atemwege eingesetzt. Die klösterliche Heilkunde übernahm die Zypresse als Mittel bei venösen Leiden und übermäßigen Blutungen.`,
     wirkungen: {
-      hauptwirkungen: ['Venenstärkend', 'Zusammenziehend', 'Durchblutungsregulierend', 'Hustenstillend', 'Schweisshemmend', 'Adstringierend'],
+      hauptwirkungen: ['Venenstärkend', 'Zusammenziehend', 'Durchblutungsregulierend', 'Hustenstillend', 'Schweißhemmend', 'Adstringierend'],
       inhaltsstoffe: ['Ätherisches Öl (Alpha-Pinen, Cedrol)', 'Delta-3-Caren', 'Gerbstoffe', 'Flavonoide (Amentoflavon)', 'Diterpene', 'Catechin', 'Proanthocyanidine', 'Harz'],
     },
     ernte: {
@@ -848,22 +848,22 @@ Hippokrates empfahl Zypressenbäder bei Krampfadern und Hämorrhoiden. In der ä
     zubereitungen: [
       {
         name: 'Zypressen-Beinöl (bei Krampfadern)',
-        anleitung: '10 Tropfen ätherisches Zypressenöl in 50ml Jojobaöl mischen. Morgens und abends die Beine von den Füssen zum Herzen hin sanft einreiben.',
+        anleitung: '10 Tropfen ätherisches Zypressenöl in 50ml Jojobaöl mischen. Morgens und abends die Beine von den Füßen zum Herzen hin sanft einreiben.',
         wirkung: 'Stärkt die Venenwände, lindert schwere Beine und Schwellungen, mindert Besenreiser.',
       },
       {
         name: 'Zypressen-Sitzbad (bei Hämorrhoiden)',
         anleitung: '5-8 Tropfen ätherisches Zypressenöl in 1 EL Sahne oder Salz emulgieren und ins Sitzbadwasser geben. 15 Minuten baden. 1-2x täglich.',
-        wirkung: 'Zusammenziehend und entzündungshemmend -- lindert Hämorrhoiden und Beschwerden im Analbereich.',
+        wirkung: 'Zusammenziehend und entzündungshemmend, lindert Hämorrhoiden und Beschwerden im Analbereich.',
       },
       {
         name: 'Zypressen-Zapfen-Tee',
-        anleitung: '1 TL zerkleinerte Zypressenzapfen mit 250ml kochendem Wasser übergiessen, 15 Minuten ziehen lassen. 2-3 Tassen täglich bei venösen Beschwerden oder starker Menstruation.',
-        wirkung: 'Stärkt die Venen von innen, reguliert übermässige Blutungen und wirkt zusammenziehend.',
+        anleitung: '1 TL zerkleinerte Zypressenzapfen mit 250ml kochendem Wasser übergießen, 15 Minuten ziehen lassen. 2-3 Tassen täglich bei venösen Beschwerden oder starker Menstruation.',
+        wirkung: 'Stärkt die Venen von innen, reguliert übermäßige Blutungen und wirkt zusammenziehend.',
       },
     ],
     mischungen: ['Venenöl (mit Rosskastanie und Hamamelis)', 'Atemwegseinreibung (mit Eukalyptus und Thymian)', 'Trauerduft (mit Weihrauch und Sandelholz)'],
-    tcm: 'Zypresse adstringiert die Lunge und die Leber-Leitbahn. Sie stoppt übermässige Blutungen und festigt das Qi. Bei Lungen-Qi-Schwäche mit chronischem Husten einsetzbar.',
+    tcm: 'Zypresse adstringiert die Lunge und die Leber-Leitbahn. Sie stoppt übermäßige Blutungen und festigt das Qi. Bei Lungen-Qi-Schwäche mit chronischem Husten einsetzbar.',
     ayurveda: 'Zypresse reduziert Kapha und beruhigt Vata. Das ätherische Öl wirkt als Stambhana (festigend) und Raktastambhana (blutungsstillend). Es stärkt das Medas-Dhatu (Fettgewebe) und reguliert den Wasserhaushalt.',
     volksmedizin: 'Im Mittelmeerraum kauten Männer Zypressenzapfen gegen Hämorrhoiden und Krampfadern. Frauen tranken Zypressentee bei zu starker Regelblutung. Das ätherische Öl wurde verbrannt, um Krankenzimmer zu desinfizieren und bei Trauerfeiern den Abschied zu erleichtern.',
     besonders_bei: ['krampfadern', 'venen', 'haemorrhoiden', 'schwere_beine', 'starke_blutung', 'schwitzen'],
@@ -875,14 +875,14 @@ Hippokrates empfahl Zypressenbäder bei Krampfadern und Hämorrhoiden. In der ä
   'Wacholder': {
     vollname: 'Gemeiner Wacholder (Juniperus communis)',
     familie: 'Zypressengewächse (Cupressaceae)',
-    beschreibung: `Der Wacholder ist ein knorriger, widerstandsfähiger Strauch, der auf mageren Böden und Heideflächen wächst und ein Alter von mehreren hundert Jahren erreichen kann. Seine blauschwarzen Beerenzapfen -- botanisch gesehen keine echten Beeren, sondern fleischige Zapfen -- sind eines der vielseitigsten Heilmittel der europäischen Pflanzenheilkunde.
+    beschreibung: `Der Wacholder ist ein knorriger, widerstandsfähiger Strauch, der auf mageren Böden und Heideflächen wächst und ein Alter von mehreren hundert Jahren erreichen kann. Seine blauschwarzen Beerenzapfen, botanisch gesehen keine echten Beeren, sondern fleischige Zapfen, sind eines der vielseitigsten Heilmittel der europäischen Pflanzenheilkunde.
 
 Wacholderbeeren enthalten ein komplexes ätherisches Öl mit über 170 Verbindungen. Die Hauptwirkstoffe Terpinen-4-ol und Alpha-Pinen wirken stark harntreibend, desinfizierend und entzündungshemmend auf die Harnwege. Wacholder ist daher ein klassisches Nierenmittel, das den gesamten Wasserhaushalt reguliert und die Entgiftung fördert.
 
-Gleichzeitig wärmt Wacholder den Verdauungstrakt, löst Blähungen und regt die Verdauung an. Sein würzig-harziger Geschmack macht ihn zu einem geschätzten Gewürz in der Küche -- besonders zu Wildgerichten und Sauerkraut.`,
+Gleichzeitig wärmt Wacholder den Verdauungstrakt, löst Blähungen und regt die Verdauung an. Sein würzig-harziger Geschmack macht ihn zu einem geschätzten Gewürz in der Küche, besonders zu Wildgerichten und Sauerkraut.`,
     geschichte: `Wacholder war die heilige Pflanze der Kelten und Germanen. Sie verbrannten Wacholderzweige als Räuchermittel, um Krankheiten und böse Geister zu vertreiben. Noch heute wird in manchen Alpenregionen zu Silvester mit Wacholder geräuchert.
 
-In Pestzeiten wurden Wacholderzweige auf öffentlichen Plätzen verbrannt, und Pestärzte trugen Wacholderbeeren in ihren Schnabelmasken. Paracelsus bezeichnete den Wacholder als "Bauern-Theriak" -- als Allheilmittel des einfachen Volkes. Kneipp empfahl regelmässige Wacholderkuren zur Entgiftung.`,
+In Pestzeiten wurden Wacholderzweige auf öffentlichen Plätzen verbrannt, und Pestärzte trugen Wacholderbeeren in ihren Schnabelmasken. Paracelsus bezeichnete den Wacholder als "Bauern-Theriak", als Allheilmittel des einfachen Volkes. Kneipp empfahl regelmäßige Wacholderkuren zur Entgiftung.`,
     wirkungen: {
       hauptwirkungen: ['Harntreibend', 'Desinfizierend (Harnwege)', 'Verdauungsfördernd', 'Blähungswidrig', 'Entgiftend', 'Rheuma lindernd'],
       inhaltsstoffe: ['Ätherisches Öl (Terpinen-4-ol, Alpha-Pinen)', 'Flavonoide', 'Gerbstoffe', 'Bitterstoffe', 'Harz', 'Inulin', 'Vitamin C', 'Juniperin'],
@@ -901,7 +901,7 @@ In Pestzeiten wurden Wacholderzweige auf öffentlichen Plätzen verbrannt, und P
       },
       {
         name: 'Wacholderbeer-Tee',
-        anleitung: '1 TL leicht zerdrückte Wacholderbeeren mit 250ml kochendem Wasser übergiessen, 10-15 Minuten zugedeckt ziehen lassen. 2-3 Tassen täglich, nicht länger als 6 Wochen am Stück.',
+        anleitung: '1 TL leicht zerdrückte Wacholderbeeren mit 250ml kochendem Wasser übergießen, 10-15 Minuten zugedeckt ziehen lassen. 2-3 Tassen täglich, nicht länger als 6 Wochen am Stück.',
         wirkung: 'Fördert die Harnausscheidung, desinfiziert die Harnwege und lindert Blähungen.',
       },
       {
@@ -910,7 +910,7 @@ In Pestzeiten wurden Wacholderzweige auf öffentlichen Plätzen verbrannt, und P
         wirkung: 'Fördert die Durchblutung, wärmt schmerzende Gelenke und löst Verspannungen.',
       },
     ],
-    mischungen: ['Nierentee (mit Goldrute und Birke)', 'Rheumatee (mit Weidenrinde und Teufelskralle)', 'Räuchermischung (mit Salbei und Beifuss)'],
+    mischungen: ['Nierentee (mit Goldrute und Birke)', 'Rheumatee (mit Weidenrinde und Teufelskralle)', 'Räuchermischung (mit Salbei und Beifuß)'],
     tcm: 'Wacholder wärmt die Nieren, trocknet Feuchtigkeit und bewegt Qi. Er wird bei Kälte-Feuchtigkeit in den Gelenken und bei Nieren-Yang-Mangel eingesetzt.',
     ayurveda: 'Wacholder reduziert Kapha und Vata stark und kann Pitta erhöhen. Er wirkt als Mutrala (harntreibend) und Shothaghna (abschwellend). Bei Ama (Schlacken) in den Gelenken besonders wertvoll.',
     volksmedizin: 'Wacholderräucherung war das verbreitetste Desinfektionsmittel in Krankenstuben. Bauern hängten Wacholderzweige in Ställe zur Gesunderhaltung des Viehs. Bei Zahnschmerzen wurde eine Wacholderbeere auf den Zahn gebissen, und der Schnaps ("Gin") war ursprünglich eine Medizin.',
@@ -923,11 +923,11 @@ In Pestzeiten wurden Wacholderzweige auf öffentlichen Plätzen verbrannt, und P
   'Tausendgüldenkraut': {
     vollname: 'Echtes Tausendgüldenkraut (Centaurium erythraea)',
     familie: 'Enziangewächse (Gentianaceae)',
-    beschreibung: `Das Tausendgüldenkraut ist eine der bittersten Heilpflanzen Europas -- und gerade darin liegt sein Gold. Der Name "Tausend Gulden" drückt aus, wie wertvoll diese unscheinbare Pflanze für die Gesundheit ist. Ihre kleinen, sternförmigen, rosa Blüten öffnen sich nur bei Sonnenschein und bilden zarte Doldenrispen.
+    beschreibung: `Das Tausendgüldenkraut ist eine der bittersten Heilpflanzen Europas, und gerade darin liegt sein Gold. Der Name "Tausend Gulden" drückt aus, wie wertvoll diese unscheinbare Pflanze für die Gesundheit ist. Ihre kleinen, sternförmigen, rosa Blüten öffnen sich nur bei Sonnenschein und bilden zarte Doldenrispen.
 
-Als Mitglied der Enzianfamilie enthält Tausendgüldenkraut die intensiven Bitterstoffe Swertiamarin, Gentiopikrin und Amarogentin. Diese Bitterstoffe entfalten ihre Wirkung bereits auf der Zunge: Sie regen über den Geschmacksnerv reflexartig die gesamte Verdauung an -- Speichelfluss, Magensaft, Gallen- und Pankreassekret.
+Als Mitglied der Enzianfamilie enthält Tausendgüldenkraut die intensiven Bitterstoffe Swertiamarin, Gentiopikrin und Amarogentin. Diese Bitterstoffe entfalten ihre Wirkung bereits auf der Zunge: Sie regen über den Geschmacksnerv reflexartig die gesamte Verdauung an: Speichelfluss, Magensaft, Gallen- und Pankreassekret.
 
-Tausendgüldenkraut ist das Mittel der Wahl bei Appetitlosigkeit, Völlegefühl und allgemeiner Verdauungsschwäche. In Kombination mit seiner leicht fiebersenkenden und stärkenden Wirkung ergibt sich ein Heilmittel, das den ganzen Organismus kräftigt -- daher der alte Name "Centaurium", zu Ehren des heilkundigen Zentauren Chiron.`,
+Tausendgüldenkraut ist das Mittel der Wahl bei Appetitlosigkeit, Völlegefühl und allgemeiner Verdauungsschwäche. In Kombination mit seiner leicht fiebersenkenden und stärkenden Wirkung ergibt sich ein Heilmittel, das den ganzen Organismus kräftigt, daher der alte Name "Centaurium", zu Ehren des heilkundigen Zentauren Chiron.`,
     geschichte: `Der mythologische Zentaur Chiron soll sich mit Tausendgüldenkraut von einer Wunde geheilt haben, die ihm Herakles' vergifteter Pfeil zugefügt hatte. Dioskurides und Plinius priesen die Pflanze als eines der wirksamsten Heilkräuter.
 
 Hildegard von Bingen empfahl Tausendgüldenkraut bei Magenleiden und Fieber. Sebastian Kneipp nannte es "das Hauptmittel gegen Magenschwäche" und setzte es bei allen Verdauungsproblemen ein. Noch heute ist es Bestandteil vieler Magenbitter und Kräuterliköre.`,
@@ -937,14 +937,14 @@ Hildegard von Bingen empfahl Tausendgüldenkraut bei Magenleiden und Fieber. Seb
     },
     ernte: {
       zeit: 'Blühendes Kraut: Juli bis August, zur Mittagszeit bei Sonnenschein.',
-      teile: 'Das ganze blühende Kraut -- bodennah abschneiden.',
+      teile: 'Das ganze blühende Kraut, bodennah abschneiden.',
       tipps: 'Tausendgüldenkraut steht in vielen Regionen unter Naturschutz. Nur aus eigenem Anbau oder aus zugelassenen Quellen beziehen. Schnell und schonend trocknen, damit die rosa Blütenfarbe erhalten bleibt.',
       mond: 'Bei zunehmendem Mond an Blütentagen ernten.',
     },
     zubereitungen: [
       {
         name: 'Tausendgüldenkraut-Tee (Magenstärkung)',
-        anleitung: '1-2 TL getrocknetes Tausendgüldenkraut mit 250ml kochendem Wasser übergiessen, 10-15 Minuten ziehen lassen. Ungesüsst 30 Minuten vor den Mahlzeiten trinken. 2-3 Tassen täglich.',
+        anleitung: '1-2 TL getrocknetes Tausendgüldenkraut mit 250ml kochendem Wasser übergießen, 10-15 Minuten ziehen lassen. Ungesüsst 30 Minuten vor den Mahlzeiten trinken. 2-3 Tassen täglich.',
         wirkung: 'Regt die gesamte Verdauung an, stärkt den Magen und fördert den Appetit. Die Bitterkeit ist Teil der Wirkung.',
       },
       {
@@ -955,7 +955,7 @@ Hildegard von Bingen empfahl Tausendgüldenkraut bei Magenleiden und Fieber. Seb
       {
         name: 'Schwedenbitter nach Maria Treben',
         anleitung: 'Tausendgüldenkraut ist ein wichtiger Bestandteil der klassischen Schwedenbitter-Mischung. Die fertige Mischung mit Alkohol ansetzen und 14 Tage in der Sonne ziehen lassen.',
-        wirkung: 'Traditionelles Allheilmittel -- innerlich bei Verdauungsbeschwerden, äusserlich als Wickel bei vielen Beschwerden.',
+        wirkung: 'Traditionelles Allheilmittel, innerlich bei Verdauungsbeschwerden, äußerlich als Wickel bei vielen Beschwerden.',
       },
     ],
     mischungen: ['Magenbitter (mit Enzian und Wermut)', 'Appetittee (mit Schafgarbe und Löwenzahn)', 'Verdauungslikör (mit Angelika und Kalmus)'],
@@ -971,12 +971,12 @@ Hildegard von Bingen empfahl Tausendgüldenkraut bei Magenleiden und Fieber. Seb
   'Blutwurz': {
     vollname: 'Blutwurz (Potentilla erecta)',
     familie: 'Rosengewächse (Rosaceae)',
-    beschreibung: `Die Blutwurz verdankt ihren Namen der Tatsache, dass sich ihre frisch angeschnittene Wurzel binnen Sekunden blutrot verfärbt -- ein eindrucksvolles Phänomen, das durch die Oxidation der enthaltenen Gerbstoffe entsteht. Diese kleine, zarte Pflanze mit den gelben, vierblättrigen Blüten ist eine der gerbstoffreichsten Heilpflanzen Europas.
+    beschreibung: `Die Blutwurz verdankt ihren Namen der Tatsache, dass sich ihre frisch angeschnittene Wurzel binnen Sekunden blutrot verfärbt, ein eindrucksvolles Phänomen, das durch die Oxidation der enthaltenen Gerbstoffe entsteht. Diese kleine, zarte Pflanze mit den gelben, vierblättrigen Blüten ist eine der gerbstoffreichsten Heilpflanzen Europas.
 
-Mit einem Gerbstoffgehalt von bis zu 22 Prozent -- überwiegend Catechingerbstoffe und Ellagitannine -- ist die Blutwurz ein aussergewöhnlich starkes adstringierendes Mittel. Die Gerbstoffe fällen Eiweisse an der Oberfläche von Schleimhäuten und Wunden, bilden eine schützende Schicht und entziehen Bakterien den Nährboden.
+Mit einem Gerbstoffgehalt von bis zu 22 Prozent, überwiegend Catechingerbstoffe und Ellagitannine, ist die Blutwurz ein außergewöhnlich starkes adstringierendes Mittel. Die Gerbstoffe fällen Eiweiße an der Oberfläche von Schleimhäuten und Wunden, bilden eine schützende Schicht und entziehen Bakterien den Nährboden.
 
-Blutwurz ist das Mittel der Wahl bei Durchfall, Darmentzündungen und Zahnfleischentzündungen. Auch bei Blutungen wirkt sie stillen -- sowohl bei Schleimhautblutungen als auch bei äusseren Wunden. Die Volksmedizin nennt sie nicht umsonst "Ruhrwurz" -- sie war das wichtigste Mittel bei der gefürchteten Ruhr.`,
-    geschichte: `In der mittelalterlichen Medizin war die Blutwurz aufgrund ihrer Signatur -- der blutroten Wurzel -- ein geschätztes "Blutkraut". Die Signaturenlehre sah in der Rotfärbung ein Zeichen, dass die Pflanze bei Blutungen und Blutkrankheiten helfe.
+Blutwurz ist das Mittel der Wahl bei Durchfall, Darmentzündungen und Zahnfleischentzündungen. Auch bei Blutungen wirkt sie stillen, sowohl bei Schleimhautblutungen als auch bei äußeren Wunden. Die Volksmedizin nennt sie nicht umsonst "Ruhrwurz", sie war das wichtigste Mittel bei der gefürchteten Ruhr.`,
+    geschichte: `In der mittelalterlichen Medizin war die Blutwurz aufgrund ihrer Signatur, der blutroten Wurzel, ein geschätztes "Blutkraut". Die Signaturenlehre sah in der Rotfärbung ein Zeichen, dass die Pflanze bei Blutungen und Blutkrankheiten helfe.
 
 Hieronymus Bock und Leonhart Fuchs beschrieben die Blutwurz als Hauptmittel bei "Bauchflüssen" (Durchfall und Ruhr). Sebastian Kneipp empfahl Blutwurz-Tinktur als "das beste Durchfallmittel, das die Natur hervorgebracht hat". In den Alpen wird traditionell ein Blutwurz-Schnaps als Magenmedizin gebrannt.`,
     wirkungen: {
@@ -985,7 +985,7 @@ Hieronymus Bock und Leonhart Fuchs beschrieben die Blutwurz als Hauptmittel bei 
     },
     ernte: {
       zeit: 'Wurzelstock: Frühling (März/April) oder Herbst (September/Oktober).',
-      teile: 'Der Wurzelstock (Rhizom) -- er enthält die höchste Gerbstoffkonzentration.',
+      teile: 'Der Wurzelstock (Rhizom), er enthält die höchste Gerbstoffkonzentration.',
       tipps: 'Den Wurzelstock waschen, in Scheiben schneiden und bei maximal 40 Grad trocknen. Die Rotfärbung beim Anschneiden ist das sicherste Erkennungsmerkmal. Nicht mit Fingerkraut verwechseln, das fünf Blütenblätter hat (Blutwurz hat vier).',
       mond: 'Bei abnehmendem Mond an Wurzeltagen ernten.',
     },
@@ -1002,14 +1002,14 @@ Hieronymus Bock und Leonhart Fuchs beschrieben die Blutwurz als Hauptmittel bei 
       },
       {
         name: 'Blutwurz-Tee',
-        anleitung: '1 TL zerkleinerten Blutwurz-Wurzelstock mit 250ml kochendem Wasser übergiessen, 15 Minuten ziehen lassen. 3 Tassen täglich bei Durchfall.',
+        anleitung: '1 TL zerkleinerten Blutwurz-Wurzelstock mit 250ml kochendem Wasser übergießen, 15 Minuten ziehen lassen. 3 Tassen täglich bei Durchfall.',
         wirkung: 'Mildere Alternative zur Tinktur, besonders bei leichtem Durchfall und Darmentzündung.',
       },
     ],
     mischungen: ['Durchfalltee (mit Heidelbeerblättern und Kamille)', 'Mundpflegespülung (mit Salbei und Myrrhe)', 'Magentee (mit Nelkenwurz und Kamille)'],
     tcm: 'Blutwurz adstringiert den Darm, stoppt Durchfall und kühlt feuchte Hitze im Darm. Sie wird bei Milz-Qi-Mangel mit chronischem Durchfall eingesetzt.',
     ayurveda: 'Blutwurz wirkt als starkes Grahi (absorptionsstärkend) und Stambhana (festigend). Sie reduziert Pitta-bedingten Durchfall und stärkt die Darmschleimhaut. In hohen Dosen kann sie Vata erhöhen.',
-    volksmedizin: 'In den Alpen wird seit Jahrhunderten ein "Blutwurz-Schnaps" gebrannt -- der stärkste Magenschnaps der Bergbauern. Bei Durchfall war Blutwurz das erste Mittel, das hervorgeholt wurde. Kinder bekamen verdünnten Blutwurz-Tee mit Honig.',
+    volksmedizin: 'In den Alpen wird seit Jahrhunderten ein "Blutwurz-Schnaps" gebrannt, der stärkste Magenschnaps der Bergbauern. Bei Durchfall war Blutwurz das erste Mittel, das hervorgeholt wurde. Kinder bekamen verdünnten Blutwurz-Tee mit Honig.',
     besonders_bei: ['durchfall', 'darmentzuendung', 'zahnfleisch', 'blutungen', 'mundschleimhaut', 'wundheilung'],
   },
 
@@ -1021,12 +1021,12 @@ Hieronymus Bock und Leonhart Fuchs beschrieben die Blutwurz als Hauptmittel bei 
     familie: 'Braunwurzgewächse (Scrophulariaceae)',
     beschreibung: `Die Knotige Braunwurz ist eine stattliche, bis zu einem Meter hohe Wildpflanze mit vierkantigen Stängeln und unscheinbaren, braunroten Blüten. Ihren Namen verdankt sie den knotigen Verdickungen an der Wurzel, die in der Signaturenlehre als Hinweis auf ihre Heilkraft bei Lymphknotenschwellungen und Skrofulose (Halsdrüsen-Tuberkulose) gedeutet wurden.
 
-Die Braunwurz enthält Iridoide -- insbesondere Harpagosid und Aucubin -- die stark entzündungshemmend und schmerzlindernd wirken. Dieselben Substanzen finden sich auch in der Teufelskralle. Darüber hinaus wirkt die Braunwurz lymphanregend und blutreinigend, was sie zu einem wertvollen Mittel bei geschwollenen Lymphknoten, Hauterkrankungen und chronischen Entzündungen macht.
+Die Braunwurz enthält Iridoide, insbesondere Harpagosid und Aucubin, die stark entzündungshemmend und schmerzlindernd wirken. Dieselben Substanzen finden sich auch in der Teufelskralle. Darüber hinaus wirkt die Braunwurz lymphanregend und blutreinigend, was sie zu einem wertvollen Mittel bei geschwollenen Lymphknoten, Hauterkrankungen und chronischen Entzündungen macht.
 
 In der modernen Phytotherapie gewinnt die Braunwurz wieder an Bedeutung als sanftes Lymphmittel und als heimische Alternative zur afrikanischen Teufelskralle bei Gelenkschmerzen und Rheuma.`,
-    geschichte: `Der botanische Gattungsname "Scrophularia" verweist auf die Skrofulose -- eine Lymphdrüsen-Tuberkulose, die im Mittelalter weit verbreitet war. Die knotige Wurzel erinnerte die Heiler an die geschwollenen Lymphknoten der Kranken, und tatsächlich zeigte die Pflanze Wirkung.
+    geschichte: `Der botanische Gattungsname "Scrophularia" verweist auf die Skrofulose, eine Lymphdrüsen-Tuberkulose, die im Mittelalter weit verbreitet war. Die knotige Wurzel erinnerte die Heiler an die geschwollenen Lymphknoten der Kranken, und tatsächlich zeigte die Pflanze Wirkung.
 
-Hieronymus Bock und andere Kräuterväter empfahlen die Braunwurz bei "bösen Geschwülsten" und verhärteten Drüsen. In der englischen Volksmedizin heisst sie "Figwort" (Feigwarzenkraut) und wurde bei Hämorrhoiden und Hautwucherungen eingesetzt. Die anthroposophische Medizin schätzt sie als Lymphmittel.`,
+Hieronymus Bock und andere Kräuterväter empfahlen die Braunwurz bei "bösen Geschwülsten" und verhärteten Drüsen. In der englischen Volksmedizin heißt sie "Figwort" (Feigwarzenkraut) und wurde bei Hämorrhoiden und Hautwucherungen eingesetzt. Die anthroposophische Medizin schätzt sie als Lymphmittel.`,
     wirkungen: {
       hauptwirkungen: ['Lymphanregend', 'Entzündungshemmend', 'Schmerzlindernd', 'Blutreinigend', 'Wundheilend', 'Leicht harntreibend'],
       inhaltsstoffe: ['Iridoide (Harpagosid, Aucubin)', 'Saponine', 'Flavonoide', 'Phenolsäuren', 'Asparagin', 'Gerbstoffe', 'Alkaloide (in Spuren)', 'Mineralstoffe'],
@@ -1044,17 +1044,17 @@ Hieronymus Bock und andere Kräuterväter empfahlen die Braunwurz bei "bösen Ge
         wirkung: 'Regt den Lymphfluss an, reduziert Schwellungen und unterstützt die Entgiftung.',
       },
       {
-        name: 'Braunwurz-Salbe (äusserlich)',
+        name: 'Braunwurz-Salbe (äußerlich)',
         anleitung: 'Braunwurzkraut in Olivenöl 3 Wochen ausziehen lassen. Abseihen und mit Bienenwachs (1:5) zu einer Salbe eindicken. Auf geschwollene Lymphknoten, Hämorrhoiden oder Hautprobleme auftragen.',
         wirkung: 'Lindert Schwellungen, fördert den Lymphabfluss und heilt Hautveränderungen.',
       },
       {
         name: 'Braunwurz-Tee',
-        anleitung: '1-2 TL getrocknetes Braunwurzkraut mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. 2 Tassen täglich.',
+        anleitung: '1-2 TL getrocknetes Braunwurzkraut mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 2 Tassen täglich.',
         wirkung: 'Milde Lymphanregung und Blutreinigung, unterstützend bei Hauterkrankungen.',
       },
     ],
-    mischungen: ['Lymphtee (mit Labkraut und Ringelblume)', 'Hauttee (mit Stiefmütterchen und Klette)', 'Gelenkstee (mit Weidenrinde und Mädesüss)'],
+    mischungen: ['Lymphtee (mit Labkraut und Ringelblume)', 'Hauttee (mit Stiefmütterchen und Klette)', 'Gelenkstee (mit Weidenrinde und Mädesüß)'],
     tcm: 'Braunwurz kühlt das Blut, löst Stagnation und zerstreut Knoten (Tan). Sie wird bei Lymphknotenschwellungen und Blutstagnation eingesetzt.',
     ayurveda: 'Braunwurz reduziert Kapha-bedingte Schwellungen und klärt Ama aus den Geweben. Sie wirkt als Shothaghna (abschwellend) und Raktashodhaka (blutreinigend).',
     volksmedizin: 'Kräuterfrauen legten zerdrückte Braunwurzblätter auf geschwollene Drüsen und Geschwüre. In England wurde eine Braunwurz-Salbe als "Piles-Salbe" (Hämorrhoiden-Salbe) gehandelt. Die Pflanze galt als Schutz gegen Hexerei, wenn man sie am Johannistag pflückte.',
@@ -1067,16 +1067,16 @@ Hieronymus Bock und andere Kräuterväter empfahlen die Braunwurz bei "bösen Ge
   'Cranberry': {
     vollname: 'Grossfrüchtige Moosbeere (Vaccinium macrocarpon)',
     familie: 'Heidekrautgewächse (Ericaceae)',
-    beschreibung: `Die Cranberry ist eine niedrig wachsende Moorpflanze aus Nordamerika, deren leuchtend rote Beeren zu den wirksamsten natürlichen Mitteln gegen Harnwegsinfekte gehören. Ihre besondere Kraft liegt in den Proanthocyanidinen vom A-Typ (PAC-A) -- Substanzen, die verhindern, dass sich E. coli-Bakterien an der Blasenwand festsetzen können.
+    beschreibung: `Die Cranberry ist eine niedrig wachsende Moorpflanze aus Nordamerika, deren leuchtend rote Beeren zu den wirksamsten natürlichen Mitteln gegen Harnwegsinfekte gehören. Ihre besondere Kraft liegt in den Proanthocyanidinen vom A-Typ (PAC-A): Substanzen, die verhindern, dass sich E. coli-Bakterien an der Blasenwand festsetzen können.
 
-Dieser Anti-Adhäsions-Effekt ist einzigartig in der Pflanzenwelt und durch zahlreiche Studien belegt. Die Bakterien werden sozusagen "glitschig" gemacht und können sich nicht mehr an den Schleimhäuten festkrallen -- sie werden einfach mit dem Urin ausgespült. Cranberry wirkt dabei nicht antibiotisch, sondern rein mechanisch-physikalisch.
+Dieser Anti-Adhäsions-Effekt ist einzigartig in der Pflanzenwelt und durch zahlreiche Studien belegt. Die Bakterien werden sozusagen "glitschig" gemacht und können sich nicht mehr an den Schleimhäuten festkrallen, sie werden einfach mit dem Urin ausgespült. Cranberry wirkt dabei nicht antibiotisch, sondern rein mechanisch-physikalisch.
 
-Darüber hinaus sind Cranberries reich an Antioxidantien, Vitamin C und Benzoesäure. Sie schützen die Gefässe, stärken das Immunsystem und haben sich in Studien als förderlich für die Magen- und Mundgesundheit erwiesen.`,
-    geschichte: `Die nordamerikanischen Ureinwohner -- insbesondere die Wampanoag und Leni Lenape -- nutzten Cranberries seit Jahrtausenden als Nahrung und Medizin. Sie mischten getrocknete Cranberries mit Trockenfleisch und Fett zu Pemmikan, einer haltbaren Reisenahrung. Bei Wunden legten sie zerdrückte Beeren als Umschlag auf.
+Darüber hinaus sind Cranberries reich an Antioxidantien, Vitamin C und Benzoesäure. Sie schützen die Gefäße, stärken das Immunsystem und haben sich in Studien als förderlich für die Magen- und Mundgesundheit erwiesen.`,
+    geschichte: `Die nordamerikanischen Ureinwohner, insbesondere die Wampanoag und Leni Lenape, nutzten Cranberries seit Jahrtausenden als Nahrung und Medizin. Sie mischten getrocknete Cranberries mit Trockenfleisch und Fett zu Pemmikan, einer haltbaren Reisenahrung. Bei Wunden legten sie zerdrückte Beeren als Umschlag auf.
 
 Die Pilgerväter lernten die Cranberry von den Ureinwohnern kennen. Sie wurde schnell zum wichtigsten Vitamin-C-Lieferanten der Seeleute und half gegen Skorbut. Der Name "Cranberry" kommt von "Crane-Berry" (Kranichbeere), da die Blüte an einen Kranichschnabel erinnert.`,
     wirkungen: {
-      hauptwirkungen: ['Anti-Adhäsion (Blasenschutz)', 'Antioxidativ', 'Entzündungshemmend', 'Immunstärkend', 'Gefässschützend', 'Magenprotektiv'],
+      hauptwirkungen: ['Anti-Adhäsion (Blasenschutz)', 'Antioxidativ', 'Entzündungshemmend', 'Immunstärkend', 'Gefäßschützend', 'Magenprotektiv'],
       inhaltsstoffe: ['Proanthocyanidine Typ A (PAC-A)', 'Anthocyane', 'Flavonoide', 'Vitamin C', 'Benzoesäure', 'Chinasäure', 'Ursonsäure', 'Quercetin'],
     },
     ernte: {
@@ -1105,7 +1105,7 @@ Die Pilgerväter lernten die Cranberry von den Ureinwohnern kennen. Sie wurde sc
     mischungen: ['Blasentee (mit Bärentraube und Goldrute)', 'Immun-Smoothie (mit Aronia und Hagebutte)', 'Frauen-Kur (mit Kapuzinerkresse und Meerrettich)'],
     tcm: 'Cranberry klärt feuchte Hitze aus der Blase und dem unteren Erwärmer. Sie stärkt das Nieren-Qi und verhindert das Eintreten pathogener Faktoren in die Blase.',
     ayurveda: 'Cranberry reduziert Pitta im Harntrakt und wirkt als Mutravirechaniya (harntraktklärend). Der saure Geschmack (Amla Rasa) stärkt Agni und das Immunsystem. In moderaten Mengen für alle Konstitutionen geeignet.',
-    volksmedizin: 'Die Ureinwohner Nordamerikas legten zerdrückte Cranberries auf Pfeilwunden, um Infektionen zu verhindern -- die Benzoesäure wirkt als natürliches Konservierungsmittel. Frauen tranken Cranberry-Aufgüsse vorbeugend gegen Blasenleiden. Seeleute nahmen Fässer mit Cranberries auf ihre Reisen als Skorbut-Schutz.',
+    volksmedizin: 'Die Ureinwohner Nordamerikas legten zerdrückte Cranberries auf Pfeilwunden, um Infektionen zu verhindern, die Benzoesäure wirkt als natürliches Konservierungsmittel. Frauen tranken Cranberry-Aufgüsse vorbeugend gegen Blasenleiden. Seeleute nahmen Fässer mit Cranberries auf ihre Reisen als Skorbut-Schutz.',
     besonders_bei: ['blasenentzuendung', 'harnwegsinfekt', 'immunschwaeche', 'blase', 'nieren', 'frauengesundheit'],
   },
 
@@ -1114,17 +1114,17 @@ Die Pilgerväter lernten die Cranberry von den Ureinwohnern kennen. Sie wurde sc
   // ═══════════════════════════════════════════════════════════════════════════
   'Traubensilberkerze': {
     vollname: 'Traubensilberkerze (Actaea racemosa)',
-    familie: 'Hahnenfussgewächse (Ranunculaceae)',
-    beschreibung: `Die Traubensilberkerze ist ein imposantes Waldkraut aus Nordamerika, dessen weisse, kerzenförmige Blütentrauben einen süsslich-herben Duft verströmen. Der englische Name "Black Cohosh" verweist auf die dunkle, knorrige Wurzel, die den eigentlichen Heilschatz birgt.
+    familie: 'Hahnenfußgewächse (Ranunculaceae)',
+    beschreibung: `Die Traubensilberkerze ist ein imposantes Waldkraut aus Nordamerika, dessen weiße, kerzenförmige Blütentrauben einen süßlich-herben Duft verströmen. Der englische Name "Black Cohosh" verweist auf die dunkle, knorrige Wurzel, die den eigentlichen Heilschatz birgt.
 
-Die Traubensilberkerze ist das am besten erforschte pflanzliche Mittel gegen Wechseljahresbeschwerden. Ihre Triterpenglykoside -- insbesondere Actein und Cimicifugosid -- wirken auf die Östrogenrezeptoren im Gehirn und regulieren die hormonelle Umstellung sanft. Studien zeigen, dass sie Hitzewallungen um bis zu 80 Prozent reduzieren kann.
+Die Traubensilberkerze ist das am besten erforschte pflanzliche Mittel gegen Wechseljahresbeschwerden. Ihre Triterpenglykoside, insbesondere Actein und Cimicifugosid, wirken auf die Östrogenrezeptoren im Gehirn und regulieren die hormonelle Umstellung sanft. Studien zeigen, dass sie Hitzewallungen um bis zu 80 Prozent reduzieren kann.
 
-Anders als synthetische Hormone bindet die Traubensilberkerze nicht an Östrogenrezeptoren in Brust und Gebärmutter. Das macht sie zu einer sicheren Alternative zur Hormonersatztherapie -- auch für Frauen, die aufgrund eines Brustkrebsrisikos keine Hormone einnehmen dürfen.`,
-    geschichte: `Die nordamerikanischen Ureinwohner -- insbesondere die Cherokee und Irokesen -- nannten die Pflanze "Squaw Root" und nutzten sie bei Frauenleiden, Rheuma und Schlangenbissen. Der Wurzelsud wurde auch als Mittel bei Depressionen und Nervenleiden getrunken.
+Anders als synthetische Hormone bindet die Traubensilberkerze nicht an Östrogenrezeptoren in Brust und Gebärmutter. Das macht sie zu einer sicheren Alternative zur Hormonersatztherapie, auch für Frauen, die aufgrund eines Brustkrebsrisikos keine Hormone einnehmen dürfen.`,
+    geschichte: `Die nordamerikanischen Ureinwohner, insbesondere die Cherokee und Irokesen, nannten die Pflanze "Squaw Root" und nutzten sie bei Frauenleiden, Rheuma und Schlangenbissen. Der Wurzelsud wurde auch als Mittel bei Depressionen und Nervenleiden getrunken.
 
 In den 1950er Jahren begann die deutsche Firma Schaper und Brümmer mit der wissenschaftlichen Erforschung und brachte das Präparat "Remifemin" auf den Markt. Seitdem ist die Traubensilberkerze Gegenstand von über 100 klinischen Studien und gilt als das bestuntersuchte Phytotherapeutikum für die Wechseljahre.`,
     wirkungen: {
-      hauptwirkungen: ['Hormonausgleichend', 'Hitzewallungen lindernd', 'Stimmungsaufhellend', 'Schweissreduzierend', 'Schlafverbessernd', 'Entzündungshemmend'],
+      hauptwirkungen: ['Hormonausgleichend', 'Hitzewallungen lindernd', 'Stimmungsaufhellend', 'Schweißreduzierend', 'Schlafverbessernd', 'Entzündungshemmend'],
       inhaltsstoffe: ['Triterpenglykoside (Actein, Cimicifugosid)', 'Isoflavone (Formononetin)', 'Phenolsäuren', 'Kaffeesäure-Derivate', 'Fukinolsäure', 'Isoferulasäure', 'Gerbstoffe', 'Harz'],
     },
     ernte: {
@@ -1136,8 +1136,8 @@ In den 1950er Jahren begann die deutsche Firma Schaper und Brümmer mit der wiss
     zubereitungen: [
       {
         name: 'Traubensilberkerzen-Tinktur',
-        anleitung: 'Getrockneten Wurzelstock mit 60%igem Alkohol im Verhältnis 1:5 ansetzen. 6 Wochen ziehen lassen, regelmässig schütteln. 2x täglich 20-40 Tropfen in Wasser. Mindestens 3 Monate einnehmen.',
-        wirkung: 'Lindert Hitzewallungen, Schweissausbrüche und Stimmungsschwankungen in den Wechseljahren.',
+        anleitung: 'Getrockneten Wurzelstock mit 60%igem Alkohol im Verhältnis 1:5 ansetzen. 6 Wochen ziehen lassen, regelmäßig schütteln. 2x täglich 20-40 Tropfen in Wasser. Mindestens 3 Monate einnehmen.',
+        wirkung: 'Lindert Hitzewallungen, Schweißausbrüche und Stimmungsschwankungen in den Wechseljahren.',
       },
       {
         name: 'Traubensilberkerzen-Tee',
@@ -1147,7 +1147,7 @@ In den 1950er Jahren begann die deutsche Firma Schaper und Brümmer mit der wiss
       {
         name: 'Standardisierter Extrakt (Kapseln)',
         anleitung: 'Kapseln mit standardisiertem Extrakt (2,5% Triterpenglykoside) nach Herstellerangabe einnehmen. Übliche Dosis: 20-40mg Extrakt täglich.',
-        wirkung: 'Die am besten untersuchte Darreichungsform -- die meisten klinischen Studien basieren auf standardisierten Extrakten.',
+        wirkung: 'Die am besten untersuchte Darreichungsform, die meisten klinischen Studien basieren auf standardisierten Extrakten.',
       },
     ],
     mischungen: ['Wechseljahretee (mit Salbei und Frauenmantel)', 'Hormonausgleich (mit Yamswurzel und Mönchspfeffer)', 'Schlaftee (mit Hopfen und Baldrian)'],
@@ -1163,14 +1163,14 @@ In den 1950er Jahren begann die deutsche Firma Schaper und Brümmer mit der wiss
   'Königskerze': {
     vollname: 'Grossblütige Königskerze (Verbascum densiflorum)',
     familie: 'Braunwurzgewächse (Scrophulariaceae)',
-    beschreibung: `Die Königskerze ist eine majestätische Pflanze, die im zweiten Jahr einen bis zu zwei Meter hohen Blütenschaft mit leuchtend gelben Blüten emporschickt -- wie ein goldenes Zepter, das der Pflanze ihren königlichen Namen gab. Die samtweichen, graufilzigen Blätter und die Blüten bergen ein sanftes, aber wirkungsvolles Heilmittel für die Atemwege.
+    beschreibung: `Die Königskerze ist eine majestätische Pflanze, die im zweiten Jahr einen bis zu zwei Meter hohen Blütenschaft mit leuchtend gelben Blüten emporschickt, wie ein goldenes Zepter, das der Pflanze ihren königlichen Namen gab. Die samtweichen, graufilzigen Blätter und die Blüten bergen ein sanftes, aber wirkungsvolles Heilmittel für die Atemwege.
 
 Die Blüten enthalten reichlich Schleimstoffe, Saponine und Flavonoide, die gemeinsam eine einzigartige Doppelwirkung entfalten: Die Schleimstoffe legen sich schützend über gereizte Schleimhäute und stillen den Hustenreiz, während die Saponine gleichzeitig festsitzenden Schleim verflüssigen und das Abhusten erleichtern.
 
-Besonders geschätzt ist das Königskerzenblütenöl ("Mullein Oil") bei Ohrenschmerzen. In die Ohren geträufelt, lindert es Entzündungen und Schmerzen -- ein seit Jahrhunderten bewährtes Hausmittel, das besonders bei Kindern sanft und zuverlässig wirkt.`,
-    geschichte: `In der Antike tränkte man die getrockneten Blütenstände der Königskerze in Pech oder Talg und verwendete sie als Fackeln -- daher der alte Name "Fackelkraut" oder "Wollblume". Odysseus soll sich mit Königskerze gegen die Zauberei der Circe geschützt haben.
+Besonders geschätzt ist das Königskerzenblütenöl ("Mullein Oil") bei Ohrenschmerzen. In die Ohren geträufelt, lindert es Entzündungen und Schmerzen, ein seit Jahrhunderten bewährtes Hausmittel, das besonders bei Kindern sanft und zuverlässig wirkt.`,
+    geschichte: `In der Antike tränkte man die getrockneten Blütenstände der Königskerze in Pech oder Talg und verwendete sie als Fackeln, daher der alte Name "Fackelkraut" oder "Wollblume". Odysseus soll sich mit Königskerze gegen die Zauberei der Circe geschützt haben.
 
-Hildegard von Bingen nannte die Königskerze "Wullena" und empfahl sie bei Heiserkeit und "traurigem Herzen". In der Volksmedizin war sie als "Wetterkerze" bekannt -- angeblich zeigte die Richtung, in die sich der Blütenschaft neigte, das kommende Wetter an. Kneipp schätzte sie als mildes Brustmittel für ältere Menschen und Kinder.`,
+Hildegard von Bingen nannte die Königskerze "Wullena" und empfahl sie bei Heiserkeit und "traurigem Herzen". In der Volksmedizin war sie als "Wetterkerze" bekannt, angeblich zeigte die Richtung, in die sich der Blütenschaft neigte, das kommende Wetter an. Kneipp schätzte sie als mildes Brustmittel für ältere Menschen und Kinder.`,
     wirkungen: {
       hauptwirkungen: ['Schleimlösend', 'Hustenlindernd', 'Schleimhautschützend', 'Entzündungshemmend', 'Schmerzlindernd (Ohr)', 'Wundheilend'],
       inhaltsstoffe: ['Schleimstoffe', 'Saponine (Verbascosaponin)', 'Flavonoide (Hesperidin, Rutin)', 'Iridoide (Aucubin)', 'Ätherisches Öl', 'Phytosterole', 'Carotinoide', 'Phenolcarbonsäuren'],
@@ -1178,13 +1178,13 @@ Hildegard von Bingen nannte die Königskerze "Wullena" und empfahl sie bei Heise
     ernte: {
       zeit: 'Blüten: Juni bis August, täglich frisch geöffnete Blüten pflücken.',
       teile: 'Hauptsächlich die Blüten (Blütenkronen ohne Kelch). Auch die Blätter sind verwendbar.',
-      tipps: 'Nur die einzelnen Blüten pflücken, am besten morgens nach dem Abtrocknen des Taus. Sofort flach auf Papier ausbreiten und an einem warmen, schattigen Ort trocknen. Die Blüten müssen ihre goldgelbe Farbe behalten -- braune Blüten sind wertlos.',
+      tipps: 'Nur die einzelnen Blüten pflücken, am besten morgens nach dem Abtrocknen des Taus. Sofort flach auf Papier ausbreiten und an einem warmen, schattigen Ort trocknen. Die Blüten müssen ihre goldgelbe Farbe behalten, braune Blüten sind wertlos.',
       mond: 'Bei zunehmendem Mond an Blütentagen ernten, idealerweise an sonnigen Löwetagen.',
     },
     zubereitungen: [
       {
         name: 'Königskerzen-Blütentee',
-        anleitung: '2 TL getrocknete Königskerzenblüten mit 250ml heissem (nicht kochendem) Wasser übergiessen, 10-15 Minuten ziehen lassen und gut durch ein feines Tuch abseihen (die feinen Härchen können die Schleimhaut reizen). 3-4 Tassen täglich.',
+        anleitung: '2 TL getrocknete Königskerzenblüten mit 250ml heißem (nicht kochendem) Wasser übergießen, 10-15 Minuten ziehen lassen und gut durch ein feines Tuch abseihen (die feinen Härchen können die Schleimhaut reizen). 3-4 Tassen täglich.',
         wirkung: 'Löst Schleim in den Bronchien, lindert Hustenreiz und beruhigt entzündete Atemwege.',
       },
       {
@@ -1195,13 +1195,13 @@ Hildegard von Bingen nannte die Königskerze "Wullena" und empfahl sie bei Heise
       {
         name: 'Königskerzen-Sirup',
         anleitung: 'Eine Handvoll frischer Blüten mit 300ml Wasser 15 Minuten köcheln lassen, abseihen. Mit 250g Honig verrühren und in Flaschen abfüllen. Kühl lagern. 3x täglich 1 EL.',
-        wirkung: 'Angenehm süsser Hustensaft, besonders für Kinder geeignet.',
+        wirkung: 'Angenehm süßer Hustensaft, besonders für Kinder geeignet.',
       },
     ],
-    mischungen: ['Brusttee (mit Thymian und Spitzwegerich)', 'Atemwegstee (mit Lungenkraut und Malve)', 'Kinderhustentee (mit Süssholz und Kamille)'],
+    mischungen: ['Brusttee (mit Thymian und Spitzwegerich)', 'Atemwegstee (mit Lungenkraut und Malve)', 'Kinderhustentee (mit Süßholz und Kamille)'],
     tcm: 'Königskerze befeuchtet die Lunge, löst Schleim und senkt rebellierendes Lungen-Qi. Sie wird bei trockenem Husten und Lungen-Yin-Mangel eingesetzt.',
     ayurveda: 'Königskerze beruhigt Vata und Pitta in den Atemwegen. Die Schleimstoffe wirken als Snigdha (befeuchtend) und die Saponine als Chedana (schleimlösend). Ideal für alle Konstitutionstypen bei Atemwegserkrankungen.',
-    volksmedizin: 'Grossmütter trockneten die Königskerzenblüten den ganzen Sommer über als Wintervorrat gegen Husten. Das Blütenöl war in jedem Bauernhaushalt als "Ohrenweh-Tropfen" vorhanden. Räucherungen mit getrockneten Königskerzenblättern sollten Husten und Asthma lindern.',
+    volksmedizin: 'Großmütter trockneten die Königskerzenblüten den ganzen Sommer über als Wintervorrat gegen Husten. Das Blütenöl war in jedem Bauernhaushalt als "Ohrenweh-Tropfen" vorhanden. Räucherungen mit getrockneten Königskerzenblättern sollten Husten und Asthma lindern.',
     besonders_bei: ['husten', 'bronchitis', 'ohrenschmerzen', 'atemwege', 'heiserkeit', 'lunge'],
   },
 

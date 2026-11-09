@@ -1,4 +1,5 @@
 import { useState, useMemo } from 'react'
+import { KATEGORIEN, bildPfad, bildSrcSet } from '../data/kategorien'
 import { ArrowLeft, Clock, Zap, Search, AlertTriangle, Heart, Sparkles, ListChecks, ChevronRight, Leaf, FlaskConical, BookOpen, Flame, Eye, Moon, Skull, Crown } from 'lucide-react'
 import { Accordion } from './Accordion'
 import {
@@ -94,7 +95,7 @@ function SectionHeading({ icon: Icon, children }) {
 // ═══════════════════════════════════════════════════════════════════
 function FastenPage({ onSearch }) {
   const grouped = useMemo(() => {
-    const order = ['Grosse Fastenformen', 'Rhythmisches Fasten', 'Reinigungstechniken', 'Spirituelles Fasten']
+    const order = ['Große Fastenformen', 'Rhythmisches Fasten', 'Reinigungstechniken', 'Spirituelles Fasten']
     const map = {}
     order.forEach(k => { map[k] = [] })
     FASTING_METHODS.forEach(m => {
@@ -192,12 +193,12 @@ function FastenPage({ onSearch }) {
 }
 
 // ═══════════════════════════════════════════════════════════════════
-// ERNAEHRUNG PAGE
+// ERNÄHRUNG PAGE
 // ═══════════════════════════════════════════════════════════════════
 function ErnaehrungPage({ onSearch }) {
   return (
     <div className="space-y-6">
-      <SectionHeading icon={Leaf}>Ernaehrungsstile</SectionHeading>
+      <SectionHeading icon={Leaf}>Ernährungsstile</SectionHeading>
       <div className="space-y-3">
         {NUTRITION_STYLES.map(style => (
           <Accordion key={style.id} title={style.name}>
@@ -330,7 +331,7 @@ function HexenwissenPage({ onSearch }) {
             <span className="text-green-main shrink-0 font-mono">{z.menge}</span>
             <span className="text-text-medium">
               {z.name}
-              {z.wirkung && <span className="text-text-muted italic"> -- {z.wirkung}</span>}
+              {z.wirkung && <span className="text-text-muted italic"> · {z.wirkung}</span>}
             </span>
           </div>
         ))}
@@ -457,67 +458,93 @@ function HexenwissenPage({ onSearch }) {
   // Build grouped navigation: Überkategorien with sub-sections
   const navGroups = useMemo(() => {
     const groups = []
+    const hr = (cat) => HEXENREZEPTE?.filter(r => r.kategorie === cat) || []
 
-    // 1. Teemischungen
-    if (KRAEUTERMISCHUNGEN?.length) groups.push({ id: 'teemischungen', label: 'Teemischungen', sections: [
-      { id: 'teemischungen', label: 'Teemischungen', items: KRAEUTERMISCHUNGEN },
-    ]})
+    // ─── ZUBEREITUNGEN ───────────────────────────
+    // 1. Teemischungen & Tränke
+    const teeSections = []
+    if (KRAEUTERMISCHUNGEN?.length) teeSections.push({ id: 'teemischungen', label: 'Teemischungen', items: KRAEUTERMISCHUNGEN })
+    if (hr('Kater-Killer').length) teeSections.push({ id: 'hr-kater', label: 'Kater-Killer', items: hr('Kater-Killer') })
+    if (hr('Regeneration & Detox').length) teeSections.push({ id: 'hr-detox', label: 'Regeneration & Detox', items: hr('Regeneration & Detox') })
+    if (hr('Energie & Power').length) teeSections.push({ id: 'hr-energie', label: 'Energie & Power', items: hr('Energie & Power') })
+    if (teeSections.length) groups.push({ id: 'tees', label: 'Tees & Tränke', sections: teeSections })
 
     // 2. Salben & Balsame
     if (SALBEN_REZEPTE?.length) groups.push({ id: 'salben', label: 'Salben & Balsame', sections: [
       { id: 'salben', label: 'Salben & Balsame', items: SALBEN_REZEPTE },
     ]})
 
-    // 3. Tinkturen
-    if (TINKTUREN_REZEPTE?.length) groups.push({ id: 'tinkturen', label: 'Tinkturen', sections: [
-      { id: 'tinkturen', label: 'Tinkturen', items: TINKTUREN_REZEPTE },
-    ]})
+    // 3. Tinkturen & Elixiere
+    const tinkSections = []
+    if (TINKTUREN_REZEPTE?.length) tinkSections.push({ id: 'tinkturen', label: 'Tinkturen', items: TINKTUREN_REZEPTE })
+    if (hr('Liebestränke').length) tinkSections.push({ id: 'hr-liebe', label: 'Liebestränke', items: hr('Liebestränke') })
+    if (tinkSections.length) groups.push({ id: 'tinkturen-elixiere', label: 'Tinkturen & Elixiere', sections: tinkSections })
 
-    // 4. Traenke & Rezepte (Hexenrezepte grouped)
-    if (HEXENREZEPTE?.length) {
-      const cats = [...new Set(HEXENREZEPTE.map(r => r.kategorie))]
-      groups.push({ id: 'traenke', label: 'Traenke & Rezepte', sections:
-        cats.map(cat => ({ id: 'hr-' + cat, label: cat, items: HEXENREZEPTE.filter(r => r.kategorie === cat) }))
-      })
-    }
+    // ─── KÖRPER & SEELE ─────────────────────────
+    // 4. Frau, Mann & Kind
+    const fmkSections = []
+    if (hr('Frauen-Heilkunde').length) fmkSections.push({ id: 'hr-frauen', label: 'Frauen-Heilkunde', items: hr('Frauen-Heilkunde') })
+    if (hr('Männer-Kraft').length) fmkSections.push({ id: 'hr-maenner', label: 'Männer-Kraft', items: hr('Männer-Kraft') })
+    if (hr('Kinder-Zauber').length) fmkSections.push({ id: 'hr-kinder', label: 'Kinder-Zauber', items: hr('Kinder-Zauber') })
+    if (hr('Schönheit & Jugend').length) fmkSections.push({ id: 'hr-schoenheit', label: 'Schönheit & Jugend', items: hr('Schönheit & Jugend') })
+    if (fmkSections.length) groups.push({ id: 'koerper', label: 'Körper & Schönheit', sections: fmkSections })
 
-    // 5. Alchemie & Spagyrik
-    const alchemieSections = []
-    if (ALCHEMIE?.length) alchemieSections.push({ id: 'alchemie-basis', label: 'Grundlagen', items: ALCHEMIE, renderer: 'abschnitte' })
-    if (ALCHEMIE_DEEP?.length) {
-      const cats = [...new Set(ALCHEMIE_DEEP.map(r => r.kategorie))]
-      cats.forEach(cat => alchemieSections.push({ id: 'ad-' + cat, label: cat, items: ALCHEMIE_DEEP.filter(r => r.kategorie === cat) }))
-    }
-    if (alchemieSections.length) groups.push({ id: 'alchemie', label: 'Alchemie & Spagyrik', sections: alchemieSections })
+    // 5. Schutz & Reinigung
+    const schutzSections = []
+    if (hr('Schutz & Reinigung').length) schutzSections.push({ id: 'hr-schutz', label: 'Schutz & Reinigung', items: hr('Schutz & Reinigung') })
+    if (hr('Erste Hilfe: Natürlich').length) schutzSections.push({ id: 'hr-erstehilfe', label: 'Erste Hilfe', items: hr('Erste Hilfe: Natürlich') })
+    if (schutzSections.length) groups.push({ id: 'schutz', label: 'Schutz & Erste Hilfe', sections: schutzSections })
 
-    // 6. Klostermedizin
-    if (KLOSTERMEDIZIN?.length) {
-      const cats = [...new Set(KLOSTERMEDIZIN.map(r => r.kategorie))]
-      groups.push({ id: 'kloster', label: 'Klostermedizin', sections:
-        cats.map(cat => ({ id: 'km-' + cat, label: cat, items: KLOSTERMEDIZIN.filter(r => r.kategorie === cat) }))
-      })
-    }
+    // 6. Natur & Jahreskreis
+    const naturSections = []
+    if (hr('Jahreskreis-Rezepte').length) naturSections.push({ id: 'hr-jahreskreis', label: 'Jahreskreis', items: hr('Jahreskreis-Rezepte') })
+    if (hr('Wald-Apotheke').length) naturSections.push({ id: 'hr-wald', label: 'Wald-Apotheke', items: hr('Wald-Apotheke') })
+    if (naturSections.length) groups.push({ id: 'natur', label: 'Natur & Jahreskreis', sections: naturSections })
 
+    // ─── GEIST & BEWUSSTSEIN ─────────────────────
     // 7. Bewusstseins-Pflanzen
-    if (BEWUSSTSEINS_PFLANZEN?.length) groups.push({ id: 'bewusstsein', label: 'Bewusstseins-Pflanzen', sections: [
-      { id: 'bewusstsein', label: 'Bewusstseins-Pflanzen', items: BEWUSSTSEINS_PFLANZEN },
-    ]})
+    const bewSections = []
+    if (BEWUSSTSEINS_PFLANZEN?.length) bewSections.push({ id: 'bewusstsein', label: 'Bewusstseins-Pflanzen', items: BEWUSSTSEINS_PFLANZEN })
+    if (hr('Geist-Öffner & Klarheit').length) bewSections.push({ id: 'hr-geist', label: 'Geist-Öffner & Klarheit', items: hr('Geist-Öffner & Klarheit') })
+    if (bewSections.length) groups.push({ id: 'bewusstsein-all', label: 'Geist & Bewusstsein', sections: bewSections })
 
-    // 8. Zirbeldruese
+    // 8. Zirbeldrüse
     const zirbelSections = []
     if (ZIRBELDRUESE_WISSEN?.length) zirbelSections.push({ id: 'zirbel-wissen', label: 'Wissen', items: ZIRBELDRUESE_WISSEN, renderer: 'zirbel' })
     if (ZIRBELDRUESE_REZEPTE?.length) zirbelSections.push({ id: 'zirbel-rezepte', label: 'Rezepte', items: ZIRBELDRUESE_REZEPTE })
-    if (zirbelSections.length) groups.push({ id: 'zirbel', label: 'Zirbeldruese', sections: zirbelSections })
+    if (zirbelSections.length) groups.push({ id: 'zirbel', label: 'Zirbeldrüse', sections: zirbelSections })
 
-    // 9. Grimoire & Volksmagie
-    if (GRIMOIRE_REZEPTE?.length) {
-      const cats = [...new Set(GRIMOIRE_REZEPTE.map(r => r.kategorie))]
-      groups.push({ id: 'grimoire', label: 'Grimoire & Magie', sections:
-        cats.map(cat => ({ id: 'gr-' + cat, label: cat, items: GRIMOIRE_REZEPTE.filter(r => r.kategorie === cat), renderer: 'grimoire' }))
+    // ─── ALTES WISSEN ────────────────────────────
+    // 9. Alchemie & Spagyrik
+    const alchemieSections = []
+    if (ALCHEMIE?.length) alchemieSections.push({ id: 'alchemie-basis', label: 'Grundlagen', items: ALCHEMIE, renderer: 'abschnitte' })
+    if (ALCHEMIE_DEEP?.length) {
+      ;['Spagyrik', 'Paracelsus', 'Quintessenz', 'Alchemie'].forEach(cat => {
+        const items = ALCHEMIE_DEEP.filter(r => r.kategorie === cat)
+        if (items.length) alchemieSections.push({ id: 'ad-' + cat, label: cat, items })
+      })
+    }
+    if (alchemieSections.length) groups.push({ id: 'alchemie', label: 'Alchemie & Spagyrik', sections: alchemieSections })
+
+    // 10. Klostermedizin & Hildegard
+    if (KLOSTERMEDIZIN?.length) {
+      groups.push({ id: 'kloster', label: 'Klostermedizin', sections:
+        ['Hildegard', 'Klosterapotheke', 'Volksheilkunde', 'Historisch']
+          .map(cat => ({ id: 'km-' + cat, label: cat, items: KLOSTERMEDIZIN.filter(r => r.kategorie === cat) }))
+          .filter(s => s.items.length)
       })
     }
 
-    // 10. Anleitungen
+    // 11. Grimoire & Volksmagie
+    if (GRIMOIRE_REZEPTE?.length) {
+      groups.push({ id: 'grimoire', label: 'Grimoire & Magie', sections:
+        ['Flugsalbe', 'Liebesmagie', 'Schutzmagie', 'Giftkunst', 'Volksmagie']
+          .map(cat => ({ id: 'gr-' + cat, label: cat, items: GRIMOIRE_REZEPTE.filter(r => r.kategorie === cat), renderer: 'grimoire' }))
+          .filter(s => s.items.length)
+      })
+    }
+
+    // 12. Anleitungen & Grundlagen
     if (HEXENWISSEN_ANLEITUNGEN?.length) groups.push({ id: 'anleitungen', label: 'Anleitungen', sections: [
       { id: 'anleitungen', label: 'Anleitungen & Grundlagen', items: HEXENWISSEN_ANLEITUNGEN, renderer: 'abschnitte' },
     ]})
@@ -691,7 +718,7 @@ function SuchtPage({ onSearch }) {
               {s.beschreibung && <p className="text-sm text-text-medium leading-relaxed">{s.beschreibung}</p>}
 
               {s.koerper && (
-                <InfoBox variant="default" label="Koerper">
+                <InfoBox variant="default" label="Körper">
                   {s.koerper}
                 </InfoBox>
               )}
@@ -775,7 +802,7 @@ function SuchtPage({ onSearch }) {
       {/* Heilansaetze */}
       {HEILANSAETZE_SUCHT && HEILANSAETZE_SUCHT.length > 0 && (
         <>
-          <SectionHeading icon={Sparkles}>Heilansaetze im Detail</SectionHeading>
+          <SectionHeading icon={Sparkles}>Heilansätze im Detail</SectionHeading>
           <div className="space-y-3">
             {HEILANSAETZE_SUCHT.map(h => (
               <Accordion key={h.id} title={h.name} variant="gold">
@@ -812,7 +839,8 @@ function KrauterPage({ onSearch, onSelectCondition }) {
   const grouped = useMemo(() => {
     const map = {}
     HERBS.forEach(h => {
-      const letter = h.name.charAt(0).toUpperCase()
+      const roh = h.name.charAt(0).toUpperCase()
+      const letter = ({ Ä: 'A', Ö: 'O', Ü: 'U' })[roh] || roh
       if (!map[letter]) map[letter] = []
       map[letter].push(h)
     })
@@ -828,7 +856,7 @@ function KrauterPage({ onSearch, onSelectCondition }) {
   return (
     <div className="space-y-4">
       {/* A-Z Navigation */}
-      <div className="flex flex-wrap gap-1 sticky top-16 bg-white/95 backdrop-blur-sm py-2 z-10 -mx-1 px-1">
+      <div className="flex flex-wrap gap-1 sticky top-16 bg-bg/95 backdrop-blur-sm py-2 z-10 -mx-1 px-1">
         <button
           onClick={() => setActiveLetter(null)}
           className={`w-8 h-8 rounded-lg text-xs font-bold flex items-center justify-center transition-all ${
@@ -859,7 +887,7 @@ function KrauterPage({ onSearch, onSelectCondition }) {
         <div key={letter}>
           <div className="flex items-center gap-2 mb-3 mt-4">
             <span className="w-8 h-8 rounded-lg bg-green-main/10 text-green-dark text-lg font-bold flex items-center justify-center">{letter}</span>
-            <span className="text-xs text-text-muted">{grouped[letter]?.length || 0} Kraeuter</span>
+            <span className="text-xs text-text-muted">{grouped[letter]?.length || 0} Kräuter</span>
           </div>
           <div className="space-y-2">
             {(grouped[letter] || []).map(herb => (
@@ -875,7 +903,7 @@ function KrauterPage({ onSearch, onSelectCondition }) {
                 <div className="space-y-3">
                   {/* Tiefe Beschreibung wenn vorhanden */}
                   {deep?.vollname && (
-                    <p className="text-xs text-text-muted italic">{deep.vollname} -- {deep.familie || herb.familie}</p>
+                    <p className="text-xs text-text-muted italic">{deep.vollname} · {deep.familie || herb.familie}</p>
                   )}
                   {!deep?.vollname && herb.familie && (
                     <p className="text-xs text-text-muted">Familie: {herb.familie}</p>
@@ -1025,17 +1053,19 @@ function KrauterPage({ onSearch, onSelectCondition }) {
 function KrankheitsbilderPage({ onSearch, onSelectCondition }) {
   const grouped = {}
   ALL_CONDITIONS.forEach(c => {
-    const letter = c.name.charAt(0).toUpperCase()
+    const roh = c.name.charAt(0).toUpperCase()
+    const letter = ({ Ä: 'A', Ö: 'O', Ü: 'U' })[roh] || roh
     if (!grouped[letter]) grouped[letter] = []
     grouped[letter].push(c)
   })
+  Object.values(grouped).forEach(arr => arr.sort((a, b) => a.name.localeCompare(b.name, 'de')))
   const letters = Object.keys(grouped).sort((a, b) => a.localeCompare(b, 'de'))
   const [activeLetter, setActiveLetter] = useState(null)
 
   return (
     <div>
       {/* A-Z nav */}
-      <div className="flex flex-wrap gap-1 mb-6 sticky top-16 bg-white/95 backdrop-blur-sm py-2 z-10 -mx-1 px-1">
+      <div className="flex flex-wrap gap-1 mb-6 sticky top-16 bg-bg/95 backdrop-blur-sm py-2 z-10 -mx-1 px-1">
         <button
           onClick={() => setActiveLetter(null)}
           className={`px-2.5 py-1 rounded-lg text-xs font-medium transition-all ${!activeLetter ? 'bg-green-main text-white' : 'bg-green-pale/50 text-text-medium hover:bg-green-pale'}`}
@@ -1085,7 +1115,7 @@ const CATEGORY_CONFIG = {
     component: FastenPage,
   },
   ernaehrung: {
-    title: 'Ernaehrungsformen',
+    title: 'Ernährungsformen',
     icon: Leaf,
     component: ErnaehrungPage,
   },
@@ -1100,7 +1130,7 @@ const CATEGORY_CONFIG = {
     component: SuchtPage,
   },
   krauter: {
-    title: 'Heilkraeuter-Lexikon',
+    title: 'Heilkräuter-Lexikon',
     icon: Leaf,
     component: KrauterPage,
   },
@@ -1113,31 +1143,49 @@ export function CategoryPage({ category, onSearch, onBack, onSelectCondition }) 
     return (
       <div className="p-4 text-center text-text-muted">
         Kategorie nicht gefunden.
-        <button onClick={onBack} className="block mx-auto mt-4 text-green-main hover:underline">Zurueck</button>
+        <button onClick={onBack} className="block mx-auto mt-4 text-green-main hover:underline">Zurück</button>
       </div>
     )
   }
 
-  const { title, icon: Icon, component: PageComponent } = config
+  const { title, component: PageComponent } = config
+  const kat = KATEGORIEN.find(k => k.id === category)
+  const anzahl = kat?.anzahl()
 
   return (
-    <div className="max-w-5xl mx-auto px-4 pb-24 pt-16">
-      {/* Back button + Title */}
-      <div className="flex items-center gap-3 py-3 sticky top-16 bg-white/95 backdrop-blur-sm z-20 border-b border-green-pale/50 mb-4 -mx-1 px-1">
-        <button
-          onClick={onBack}
-          className="w-9 h-9 rounded-xl bg-green-pale/60 flex items-center justify-center hover:bg-green-pale transition-colors shrink-0"
-        >
-          <ArrowLeft size={18} className="text-green-dark" />
-        </button>
-        <div className="flex items-center gap-2 min-w-0">
-          <Icon size={20} className="text-green-main shrink-0" />
-          <h1 className="text-xl font-bold text-text-dark truncate">{title}</h1>
+    <div className="pb-24">
+      <section className="relative isolate overflow-hidden bg-green-dark">
+        {kat && (
+          <img
+            src={bildPfad(kat.bild, 1600)}
+            srcSet={bildSrcSet(kat.bild)}
+            sizes="100vw"
+            alt=""
+            className="absolute inset-0 w-full h-full object-cover -z-20"
+          />
+        )}
+        <div className="absolute inset-0 -z-10 bg-gradient-to-t from-black/80 via-black/45 to-black/40" />
+        <div className="max-w-5xl mx-auto px-4 pt-24 pb-8 sm:pt-32 sm:pb-12">
+          <button
+            onClick={onBack}
+            className="inline-flex items-center gap-1.5 text-sm text-white/80 hover:text-white transition-colors mb-6"
+          >
+            <ArrowLeft size={16} /> Zurück
+          </button>
+          {anzahl > 0 && (
+            <p className="text-gold-light text-xs font-semibold uppercase mb-2" style={{ letterSpacing: '0.16em' }}>
+              {anzahl} {kat.einheit}
+            </p>
+          )}
+          <h1 className="text-white text-4xl sm:text-6xl leading-tight">{title}</h1>
+          {kat?.text && <p className="text-white/80 mt-3 max-w-xl sm:text-lg">{kat.text}</p>}
         </div>
-      </div>
+      </section>
 
+      <div className="max-w-5xl mx-auto px-4 pt-8">
       {/* Page content */}
       <PageComponent onSearch={onSearch} onSelectCondition={onSelectCondition} />
+      </div>
     </div>
   )
 }

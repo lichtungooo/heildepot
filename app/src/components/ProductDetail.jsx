@@ -98,7 +98,7 @@ export function ProductDetail({ product, allProducts, allConditions, onAddToCart
             >
               {variants.map(v => (
                 <option key={v.id} value={v.id}>
-                  {v.menge}{v.preis != null ? ` — ${v.preis},-` : ''}
+                  {v.menge}{v.preis != null ? ` · ${v.preis},-` : ''}
                 </option>
               ))}
             </select>

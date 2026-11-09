@@ -1,5 +1,6 @@
 import { useState, useMemo } from 'react'
 import { ArrowLeft, ShoppingCart, Check, Heart } from 'lucide-react'
+import { bildPfad, bildSrcSet } from '../data/kategorien'
 
 // Try to import PRODUCT_GROUPS — may not exist yet
 let PRODUCT_GROUPS = null
@@ -92,19 +93,23 @@ export function ProduktePage({ products, onAddToCart, favorites = [], onToggleFa
   }
 
   return (
-    <div className="pt-20 max-w-7xl mx-auto px-4 pb-16">
-      {/* Back button only */}
-      <div className="flex items-center gap-3 mb-6">
-        <button
-          onClick={onBack}
-          className="w-9 h-9 rounded-xl bg-green-pale/60 flex items-center justify-center text-text-medium hover:bg-green-light hover:text-white transition-all shrink-0"
-        >
-          <ArrowLeft size={18} />
-        </button>
-      </div>
+    <div className="pb-16">
+      <section className="relative isolate overflow-hidden bg-green-dark">
+        <img src={bildPfad('produkte', 1600)} srcSet={bildSrcSet('produkte')} sizes="100vw" alt="" className="absolute inset-0 w-full h-full object-cover -z-20" />
+        <div className="absolute inset-0 -z-10 bg-gradient-to-t from-black/80 via-black/45 to-black/40" />
+        <div className="max-w-7xl mx-auto px-4 pt-24 pb-8 sm:pt-32 sm:pb-12">
+          <button onClick={onBack} className="inline-flex items-center gap-1.5 text-sm text-white/80 hover:text-white transition-colors mb-6">
+            <ArrowLeft size={16} /> Zurück
+          </button>
+          <p className="text-gold-light text-xs font-semibold uppercase mb-2" style={{ letterSpacing: '0.16em' }}>{products.length} Produkte</p>
+          <h1 className="text-white text-4xl sm:text-6xl leading-tight">Aus dem Depot</h1>
+          <p className="text-white/80 mt-3 max-w-xl sm:text-lg">CBD, Zeolith, Borax, Kräuter und Öle, geteilt unter Freunden. Du stellst eine Anfrage, der Kreis meldet sich.</p>
+        </div>
+      </section>
+      <div className="max-w-7xl mx-auto px-4 pt-8">
 
       {/* Mobile: horizontal category bar */}
-      <div className="lg:hidden sticky top-16 z-10 bg-white/90 backdrop-blur-sm -mx-4 px-4 py-3 mb-4 border-b border-green-pale/50">
+      <div className="lg:hidden sticky top-16 z-10 bg-bg/95 backdrop-blur-sm -mx-4 px-4 py-3 mb-4 border-b border-green-pale/50">
         <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-hide">
           <button
             onClick={() => setActiveKategorie(null)}
@@ -247,7 +252,7 @@ export function ProduktePage({ products, onAddToCart, favorites = [], onToggleFa
                       >
                         {item.variants.map(v => (
                           <option key={v.id} value={v.id}>
-                            {v.menge || v.name}{v.preis != null ? ` — ${v.preis},-` : ''}
+                            {v.menge || v.name}{v.preis != null ? ` · ${v.preis},-` : ''}
                           </option>
                         ))}
                       </select>
@@ -298,6 +303,7 @@ export function ProduktePage({ products, onAddToCart, favorites = [], onToggleFa
             </div>
           )}
         </div>
+      </div>
       </div>
     </div>
   )

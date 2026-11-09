@@ -1,705 +1,705 @@
-// Tiefe psychosomatische Betrachtungen fuer die wichtigsten Beschwerdebilder
+// Tiefe psychosomatische Betrachtungen für die wichtigsten Beschwerdebilder
 // Referenzen: Dahlke, Hay, Dethlefsen, Hamer
 // Alle Texte in deutscher Sprache
 
 export const PSYCHOSOMATIK_DEEP = {
 
   'erkaeltung': {
-    kurzfassung: "Die Nase voll haben -- ein Ruf nach Innehalten und innerem Rueckzug.",
-    tiefe_betrachtung: `Eine Erkaeltung ist selten nur ein Virus. Sie ist ein Signal des Koerpers, dass etwas uebergelaufen ist -- emotional, mental, energetisch. Der Koerper erzwingt, was der Geist nicht freiwillig tut: Rueckzug, Verlangsamung, Stille. Die verstopfte Nase sagt: "Ich kann nicht mehr riechen, was um mich herum passiert." Die laufende Nase laesst fliessen, was an Traenen zurueckgehalten wurde.
+    kurzfassung: "Die Nase voll haben, ein Ruf nach Innehalten und innerem Rückzug.",
+    tiefe_betrachtung: `Eine Erkältung ist selten nur ein Virus. Sie ist ein Signal des Körpers, dass etwas übergelaufen ist, emotional, mental, energetisch. Der Körper erzwingt, was der Geist nicht freiwillig tut: Rückzug, Verlangsamung, Stille. Die verstopfte Nase sagt: "Ich kann nicht mehr riechen, was um mich herum passiert." Die laufende Nase lässt fließen, was an Tränen zurückgehalten wurde.
 
-Haeufig tritt eine Erkaeltung in Uebergangsphasen auf -- nach einer anstrengenden Projektphase, nach einem Streit, nach einer Phase des Funktionierens ohne Pause. Der Koerper wartet geduldig, bis ein kleiner Freiraum entsteht, und nutzt ihn dann, um aufzuraeumen. Die Erkaeltung ist im Grunde ein Reinigungsprozess, koerperlich wie seelisch.
+Häufig tritt eine Erkältung in Übergangsphasen auf, nach einer anstrengenden Projektphase, nach einem Streit, nach einer Phase des Funktionierens ohne Pause. Der Körper wartet geduldig, bis ein kleiner Freiraum entsteht, und nutzt ihn dann, um aufzuraeumen. Die Erkältung ist im Grunde ein Reinigungsprozess, körperlich wie seelisch.
 
-Wer immer wieder erkaeltet ist, darf sich fragen: Wo lebe ich chronisch ueber meine Grenzen? Wo sage ich Ja, obwohl mein Koerper laengst Nein sagt? Die Erkaeltung ist eine Einladung, sich selbst die Erlaubnis zum Rueckzug zu geben -- nicht erst, wenn der Koerper es erzwingt, sondern bewusst und liebevoll.
+Wer immer wieder erkältet ist, darf sich fragen: Wo lebe ich chronisch über meine Grenzen? Wo sage ich Ja, obwohl mein Körper längst Nein sagt? Die Erkältung ist eine Einladung, sich selbst die Erlaubnis zum Rückzug zu geben, nicht erst, wenn der Körper es erzwingt, sondern bewusst und liebevoll.
 
-In vielen Faellen steckt auch eine emotionale Ueberlastung dahinter. Ungelebte Trauer, unausgesprochene Worte, zurueckgehaltene Traenen -- all das sucht sich seinen Weg nach aussen. Der Koerper weint dann durch die Nase, was die Augen nicht weinen durften.`,
-    koerpersymbolik: "Die Nase steht fuer Selbsterkennung und Intuition -- 'eine gute Nase haben'. Die Atemwege symbolisieren Kommunikation und Lebensenergie. Wenn sie blockiert sind, ist der freie Fluss des Lebens ins Stocken geraten.",
+In vielen Fällen steckt auch eine emotionale Überlastung dahinter. Ungelebte Trauer, unausgesprochene Worte, zurückgehaltene Tränen, all das sucht sich seinen Weg nach außen. Der Körper weint dann durch die Nase, was die Augen nicht weinen durften.`,
+    koerpersymbolik: "Die Nase steht für Selbsterkennung und Intuition, 'eine gute Nase haben'. Die Atemwege symbolisieren Kommunikation und Lebensenergie. Wenn sie blockiert sind, ist der freie Fluss des Lebens ins Stocken geraten.",
     kernfragen: [
       "Was ist mir zu viel geworden in letzter Zeit?",
-      "Wo brauche ich dringend Rueckzug und Stille?",
-      "Welche Traenen halte ich zurueck?",
+      "Wo brauche ich dringend Rückzug und Stille?",
+      "Welche Tränen halte ich zurück?",
       "Was stinkt mir, und ich sage nichts dazu?",
       "Erlaube ich mir Pause nur, wenn ich krank bin?",
     ],
-    hamer_konflikt: "Nach Hamer handelt es sich um einen Stink-Konflikt -- etwas stinkt einem gewaltig, eine Situation ist unertraeglich und man will sie nicht mehr 'riechen'. Die Nasenschleimhaut reagiert in der Heilungsphase mit Schwellung und Sekretion.",
-    dahlke: "Dahlke sieht die Erkaeltung als koerperlichen Ausdruck einer seelischen Krise -- die Nase voll haben, dicke Luft, nicht mehr durchatmen koennen. Der Koerper inszeniert den Rueckzug, den die Seele braucht.",
+    hamer_konflikt: "Nach Hamer handelt es sich um einen Stink-Konflikt, etwas stinkt einem gewaltig, eine Situation ist unerträglich und man will sie nicht mehr 'riechen'. Die Nasenschleimhaut reagiert in der Heilungsphase mit Schwellung und Sekretion.",
+    dahlke: "Dahlke sieht die Erkältung als körperlichen Ausdruck einer seelischen Krise, die Nase voll haben, dicke Luft, nicht mehr durchatmen können. Der Körper inszeniert den Rückzug, den die Seele braucht.",
     hay: "Louise Hay beschreibt das mentale Muster als: Zu viel auf einmal, Verwirrung, kleine Verletzungen. Das neue Denkmuster lautet: Ich erlaube meinem Geist, sich zu entspannen und Frieden zu finden.",
-    heilweg: "Nimm die Erkaeltung als Geschenk an. Dein Koerper bittet dich um Stille, Waerme und Rueckzug -- gib ihm das freiwillig. Frage dich ehrlich, was dir 'gestunken' hat und wo du Grenzen setzen darfst. Lass die Traenen fliessen, die vielleicht hinter dem Schnupfen stecken.",
+    heilweg: "Nimm die Erkältung als Geschenk an. Dein Körper bittet dich um Stille, Wärme und Rückzug, gib ihm das freiwillig. Frage dich ehrlich, was dir 'gestunken' hat und wo du Grenzen setzen darfst. Lass die Tränen fließen, die vielleicht hinter dem Schnupfen stecken.",
   },
 
   'grippe': {
-    kurzfassung: "Die Grippe ist ein radikaler Reset -- der Koerper erzwingt die Kapitulation, die der Geist verweigert.",
-    tiefe_betrachtung: `Wo die Erkaeltung ein sanftes Klopfen ist, ist die Grippe ein lautes Donnern. Der Koerper sagt nicht mehr hoeflich Bitte, sondern legt den gesamten Organismus lahm. Hohes Fieber, Gliederschmerzen, voellige Erschoepfung -- nichts geht mehr. Und genau das ist die Botschaft: Es darf gerade nichts mehr gehen.
+    kurzfassung: "Die Grippe ist ein radikaler Reset, der Körper erzwingt die Kapitulation, die der Geist verweigert.",
+    tiefe_betrachtung: `Wo die Erkältung ein sanftes Klopfen ist, ist die Grippe ein lautes Donnern. Der Körper sagt nicht mehr höflich Bitte, sondern legt den gesamten Organismus lahm. Hohes Fieber, Gliederschmerzen, völlige Erschöpfung, nichts geht mehr. Und genau das ist die Botschaft: Es darf gerade nichts mehr gehen.
 
-Die Grippe tritt haeufig auf, wenn jemand ueber laengere Zeit gegen seine eigenen Beduerfnisse gelebt hat. Das Fieber ist dabei kein Feind, sondern ein tiefgreifender Reinigungsprozess. Es verbrennt nicht nur Erreger, sondern symbolisch auch alte Muster, ueberholte Ueberzeugungen, angestaute Emotionen. Wer eine Grippe durchfiebert, steht danach oft innerlich veraendert auf.
+Die Grippe tritt häufig auf, wenn jemand über längere Zeit gegen seine eigenen Bedürfnisse gelebt hat. Das Fieber ist dabei kein Feind, sondern ein tiefgreifender Reinigungsprozess. Es verbrennt nicht nur Erreger, sondern symbolisch auch alte Muster, überholte Überzeugungen, angestaute Emotionen. Wer eine Grippe durchfiebert, steht danach oft innerlich verändert auf.
 
-Die Gliederschmerzen zeigen, dass das gesamte Geruest -- die Struktur des Lebens -- unter Spannung steht. Alles tut weh, weil man sich in allen Bereichen verausgabt hat. Die Mattigkeit zwingt zur Hingabe: Du kannst jetzt nichts tun, ausser dich dem Prozess zu ueberlassen.
+Die Gliederschmerzen zeigen, dass das gesamte Gerüst, die Struktur des Lebens, unter Spannung steht. Alles tut weh, weil man sich in allen Bereichen verausgabt hat. Die Mattigkeit zwingt zur Hingabe: Du kannst jetzt nichts tun, außer dich dem Prozess zu überlassen.
 
-Besonders aufschlussreich ist der Zeitpunkt der Grippe. Oft kommt sie genau dann, wenn eine stressige Phase vorbei ist -- der Koerper hat durchgehalten und bricht nun zusammen, sobald die Anspannung nachlaebt. Das zeigt, wie lange man bereits ueber seine Grenzen gelebt hat.`,
-    koerpersymbolik: "Der gesamte Koerper ist betroffen -- das zeigt, dass die Ueberlastung nicht lokal, sondern systemisch ist. Fieber symbolisiert innere Wut oder Transformation. Gliederschmerzen weisen auf Ueberlastung der gesamten Lebensstruktur hin.",
+Besonders aufschlussreich ist der Zeitpunkt der Grippe. Oft kommt sie genau dann, wenn eine stressige Phase vorbei ist, der Körper hat durchgehalten und bricht nun zusammen, sobald die Anspannung nachläbt. Das zeigt, wie lange man bereits über seine Grenzen gelebt hat.`,
+    koerpersymbolik: "Der gesamte Körper ist betroffen, das zeigt, dass die Überlastung nicht lokal, sondern systemisch ist. Fieber symbolisiert innere Wut oder Transformation. Gliederschmerzen weisen auf Überlastung der gesamten Lebensstruktur hin.",
     kernfragen: [
-      "Wo habe ich zu lange funktioniert, ohne auf mich zu hoeren?",
+      "Wo habe ich zu lange funktioniert, ohne auf mich zu hören?",
       "Was muss in meinem Leben grundlegend 'ausgebrannt' werden?",
       "Welche alte Struktur darf jetzt zusammenbrechen?",
-      "Erlaube ich mir nur dann Schwaeche, wenn ich wirklich nicht mehr kann?",
-      "Was wuerde sich veraendern, wenn ich oefter Nein sage?",
+      "Erlaube ich mir nur dann Schwäche, wenn ich wirklich nicht mehr kann?",
+      "Was würde sich verändern, wenn ich öfter Nein sage?",
     ],
-    hamer_konflikt: "Nach Hamer eine Kombination mehrerer biologischer Konflikte gleichzeitig -- oft Stink-Konflikt (Nase), Revierkonflikt (Bronchien) und Selbstwerteinbruch (Knochen/Muskeln). Die Grippe tritt in der Heilungsphase auf, wenn die Konflikte geloest werden.",
-    dahlke: "Dahlke beschreibt die Grippe als erzwungene Kapitulation. Der Koerper holt sich mit Gewalt, was der Mensch sich selbst verweigert: voellige Hingabe, Rueckzug, Loslassen der Kontrolle.",
-    hay: "Louise Hay sieht die Grippe als Reaktion auf Massenhypnose, Glaubenssysteme und Negativitaet. Das heilende Denkmuster: Ich bin jenseits von Gruppenglauben. Ich bin frei von Ueberlastung und Stauung.",
-    heilweg: "Erlaube dir die voellige Hingabe. Kaempfe nicht gegen die Grippe, sondern nutze sie als tiefen Reset. Frage dich: Was will in mir sterben, damit Neues geboren werden kann? Gib deinem Koerper alle Zeit, die er braucht -- und ueberlege, wie du kuenftig frueher auf die leisen Signale hoerst.",
+    hamer_konflikt: "Nach Hamer eine Kombination mehrerer biologischer Konflikte gleichzeitig, oft Stink-Konflikt (Nase), Revierkonflikt (Bronchien) und Selbstwerteinbruch (Knochen/Muskeln). Die Grippe tritt in der Heilungsphase auf, wenn die Konflikte gelöst werden.",
+    dahlke: "Dahlke beschreibt die Grippe als erzwungene Kapitulation. Der Körper holt sich mit Gewalt, was der Mensch sich selbst verweigert: völlige Hingabe, Rückzug, Loslassen der Kontrolle.",
+    hay: "Louise Hay sieht die Grippe als Reaktion auf Massenhypnose, Glaubenssysteme und Negativität. Das heilende Denkmuster: Ich bin jenseits von Gruppenglauben. Ich bin frei von Überlastung und Stauung.",
+    heilweg: "Erlaube dir die völlige Hingabe. Kämpfe nicht gegen die Grippe, sondern nutze sie als tiefen Reset. Frage dich: Was will in mir sterben, damit Neues geboren werden kann? Gib deinem Körper alle Zeit, die er braucht, und überlege, wie du künftig früher auf die leisen Signale hörst.",
   },
 
   'kopfschmerzen': {
-    kurzfassung: "Kopfschmerzen sind Druck von innen -- zu viel Denken, zu wenig Fuehlen.",
-    tiefe_betrachtung: `Der Kopf ist das Zentrum des Denkens, Kontrollierens, Analysierens. Wenn er schmerzt, ist dort oben zu viel los -- zu viele Gedanken, zu viel Gruebelei, zu viel Wollen und Planen. Kopfschmerzen sind eine Einladung, vom Kopf ins Herz zu rutschen, vom Denken ins Fuehlen.
+    kurzfassung: "Kopfschmerzen sind Druck von innen, zu viel Denken, zu wenig Fühlen.",
+    tiefe_betrachtung: `Der Kopf ist das Zentrum des Denkens, Kontrollierens, Analysierens. Wenn er schmerzt, ist dort oben zu viel los, zu viele Gedanken, zu viel Grübelei, zu viel Wollen und Planen. Kopfschmerzen sind eine Einladung, vom Kopf ins Herz zu rutschen, vom Denken ins Fühlen.
 
-Haeufig steckt hinter Kopfschmerzen ein innerer Machtkampf: Der Verstand will die Kontrolle behalten, aber die Seele draengt in eine andere Richtung. Dieser Konflikt erzeugt enormen Druck. Der Kopfschmerz sagt: Du versuchst, alles mit dem Kopf zu loesen -- aber manche Dinge loesen sich nur durch Loslassen, Fuehlen, Vertrauen.
+Häufig steckt hinter Kopfschmerzen ein innerer Machtkampf: Der Verstand will die Kontrolle behalten, aber die Seele drängt in eine andere Richtung. Dieser Konflikt erzeugt enormen Druck. Der Kopfschmerz sagt: Du versuchst, alles mit dem Kopf zu lösen, aber manche Dinge lösen sich nur durch Loslassen, Fühlen, Vertrauen.
 
-Auch unterdrueckte Wut kann sich als Kopfschmerz aeussern. Wut, die nicht ausgedrueckt wird, steigt nach oben und erzeugt Druck. Ebenso Perfektionismus und der Anspruch, alles richtig machen zu muessen. Der Kopf wird zum Druckkessel fuer all die Emotionen, die nicht sein duerfen.
+Auch unterdrückte Wut kann sich als Kopfschmerz aeussern. Wut, die nicht ausgedrückt wird, steigt nach oben und erzeugt Druck. Ebenso Perfektionismus und der Anspruch, alles richtig machen zu müssen. Der Kopf wird zum Druckkessel für all die Emotionen, die nicht sein dürfen.
 
-Spannungskopfschmerzen zeigen oft, dass man sich selbst unter enormen Druck setzt oder sich von aussen unter Druck setzen laesst. Die Verspannung der Nacken- und Kopfmuskulatur spiegelt die innere Anspannung wider. Wo bin ich hart und unnachgiebig -- vor allem mir selbst gegenueber?`,
-    koerpersymbolik: "Der Kopf symbolisiert Kontrolle, Verstand und Autoritaet. Er repraesentiert das Bild, das wir der Welt zeigen. Kopfschmerzen weisen auf einen Konflikt zwischen Denken und Fuehlen hin, zwischen Kontrolle und Hingabe.",
+Spannungskopfschmerzen zeigen oft, dass man sich selbst unter enormen Druck setzt oder sich von außen unter Druck setzen lässt. Die Verspannung der Nacken- und Kopfmuskulatur spiegelt die innere Anspannung wider. Wo bin ich hart und unnachgiebig, vor allem mir selbst gegenüber?`,
+    koerpersymbolik: "Der Kopf symbolisiert Kontrolle, Verstand und Autorität. Er repräsentiert das Bild, das wir der Welt zeigen. Kopfschmerzen weisen auf einen Konflikt zwischen Denken und Fühlen hin, zwischen Kontrolle und Hingabe.",
     kernfragen: [
-      "Wo mache ich mir zu viel Kopf ueber Dinge, die ich nicht kontrollieren kann?",
-      "Welche unterdrueckte Wut oder Frustration erzeugt Druck in mir?",
-      "Bin ich bereit, die Kontrolle loszulassen und meinem Gefuehl zu vertrauen?",
+      "Wo mache ich mir zu viel Kopf über Dinge, die ich nicht kontrollieren kann?",
+      "Welche unterdrückte Wut oder Frustration erzeugt Druck in mir?",
+      "Bin ich bereit, die Kontrolle loszulassen und meinem Gefühl zu vertrauen?",
       "Welchen Anspruch an Perfektion darf ich loslassen?",
-      "Was wuerde passieren, wenn ich aufhoere, alles verstehen zu wollen?",
+      "Was würde passieren, wenn ich aufhöre, alles verstehen zu wollen?",
     ],
-    hamer_konflikt: "Nach Hamer haengen Kopfschmerzen mit intellektuellen Selbstwert-Konflikten zusammen -- sich dumm fuehlen, eine Situation gedanklich nicht loesen koennen, oder einem Revierkonflikt, bei dem die Kontrolle verloren geht.",
-    dahlke: "Dahlke sieht Kopfschmerzen als Zeichen von Sturheit und dem Versuch, das Leben mit dem Kopf zu erzwingen. Der Schmerz macht darauf aufmerksam, dass eine andere Ebene -- das Herz, die Intuition -- gehoert werden will.",
+    hamer_konflikt: "Nach Hamer hängen Kopfschmerzen mit intellektuellen Selbstwert-Konflikten zusammen, sich dumm fühlen, eine Situation gedanklich nicht lösen können, oder einem Revierkonflikt, bei dem die Kontrolle verloren geht.",
+    dahlke: "Dahlke sieht Kopfschmerzen als Zeichen von Sturheit und dem Versuch, das Leben mit dem Kopf zu erzwingen. Der Schmerz macht darauf aufmerksam, dass eine andere Ebene, das Herz, die Intuition, gehört werden will.",
     hay: "Louise Hay beschreibt das mentale Muster als Selbstkritik und Angst. Die neue Affirmation: Ich liebe und akzeptiere mich. Ich betrachte mich und das, was ich tue, mit Augen der Liebe.",
-    heilweg: "Komm aus dem Kopf ins Herz. Lege eine Hand auf dein Herz und atme bewusst dorthin. Frage nicht 'Was denke ich darueber?', sondern 'Was fuehle ich dabei?' Gib dir Erlaubnis, nicht alles verstehen und kontrollieren zu muessen. Manchmal ist Nichtwissen der groesste Frieden.",
+    heilweg: "Komm aus dem Kopf ins Herz. Lege eine Hand auf dein Herz und atme bewusst dorthin. Frage nicht 'Was denke ich darüber?', sondern 'Was fühle ich dabei?' Gib dir Erlaubnis, nicht alles verstehen und kontrollieren zu müssen. Manchmal ist Nichtwissen der größte Frieden.",
   },
 
   'rueckenschmerzen': {
-    kurzfassung: "Der Ruecken traegt die Last des Lebens -- Rueckenschmerzen fragen: Was traegst du, das nicht deins ist?",
-    tiefe_betrachtung: `Der Ruecken ist die Saeule, die uns aufrecht haelt. Er traegt -- im woertlichen wie im uebertragenen Sinne. Wenn er schmerzt, traegt jemand zu viel: zu viel Verantwortung, zu viele Erwartungen anderer, zu viele Lasten, die gar nicht die eigenen sind. Rueckenschmerzen sind ein Hilferuf der Seele: Ich kann nicht mehr tragen.
+    kurzfassung: "Der Rücken trägt die Last des Lebens: Rückenschmerzen fragen: Was trägst du, das nicht deins ist?",
+    tiefe_betrachtung: `Der Rücken ist die Säule, die uns aufrecht hält. Er trägt, im wörtlichen wie im übertragenen Sinne. Wenn er schmerzt, trägt jemand zu viel: zu viel Verantwortung, zu viele Erwartungen anderer, zu viele Lasten, die gar nicht die eigenen sind. Rückenschmerzen sind ein Hilferuf der Seele: Ich kann nicht mehr tragen.
 
-Die Stelle des Schmerzes ist dabei hoechst aufschlussreich. Der obere Ruecken (Brustwirbelsaeule) steht fuer emotionale Lasten -- ungelebte Liebe, zurueckgehaltene Gefuehle, fehlende emotionale Unterstuetzung. Der mittlere Ruecken steht fuer Schuldgefuehle und die Last der Vergangenheit. Der untere Ruecken (Lendenwirbelsaeule) haengt mit existenziellen Aengsten zusammen -- Geld, Sicherheit, materielle Grundlage.
+Die Stelle des Schmerzes ist dabei hoechst aufschlussreich. Der obere Rücken (Brustwirbelsäule) steht für emotionale Lasten, ungelebte Liebe, zurückgehaltene Gefühle, fehlende emotionale Unterstützung. Der mittlere Rücken steht für Schuldgefühle und die Last der Vergangenheit. Der untere Rücken (Lendenwirbelsäule) hängt mit existenziellen Ängsten zusammen: Geld, Sicherheit, materielle Grundlage.
 
-Haeufig betroffen sind Menschen, die es allen recht machen wollen, die sich fuer andere aufopfern, die glauben, sie muessten alles alleine schaffen. Der Ruecken sagt dann: Du brauchst Unterstuetzung. Du darfst um Hilfe bitten. Du darfst Last ablegen. Interessanterweise sagt man im Deutschen 'jemandem den Ruecken staerken' -- und genau das fehlt vielen Betroffenen.
+Häufig betroffen sind Menschen, die es allen recht machen wollen, die sich für andere aufopfern, die glauben, sie müssten alles alleine schaffen. Der Rücken sagt dann: Du brauchst Unterstützung. Du darfst um Hilfe bitten. Du darfst Last ablegen. Interessanterweise sagt man im Deutschen 'jemandem den Rücken stärken', und genau das fehlt vielen Betroffenen.
 
-Auch Wut spielt eine Rolle. Der Ruecken ist die Seite, die wir nicht sehen, die im Schatten liegt. Unterdrueckte Aggression, die nicht nach aussen darf, verkrampft sich in der Rueckenmuskulatur. Der Koerper haelt fest, was der Mensch nicht loslassen kann oder will.`,
-    koerpersymbolik: "Der Ruecken symbolisiert Halt, Unterstuetzung und die Faehigkeit, aufrecht durchs Leben zu gehen. Die Wirbelsaeule ist die zentrale Achse -- sie repraesentiert Stabilitaet, Flexibilitaet und den Fluss der Lebensenergie. Rueckenschmerzen zeigen, dass dieses Fundament ueberlastet oder instabil geworden ist.",
+Auch Wut spielt eine Rolle. Der Rücken ist die Seite, die wir nicht sehen, die im Schatten liegt. Unterdrückte Aggression, die nicht nach außen darf, verkrampft sich in der Rückenmuskulatur. Der Körper hält fest, was der Mensch nicht loslassen kann oder will.`,
+    koerpersymbolik: "Der Rücken symbolisiert Halt, Unterstützung und die Fähigkeit, aufrecht durchs Leben zu gehen. Die Wirbelsäule ist die zentrale Achse, sie repräsentiert Stabilität, Flexibilität und den Fluss der Lebensenergie. Rückenschmerzen zeigen, dass dieses Fundament überlastet oder instabil geworden ist.",
     kernfragen: [
       "Welche Last trage ich, die eigentlich nicht meine ist?",
-      "Wo fehlt mir Unterstuetzung, und warum bitte ich nicht darum?",
-      "Welche Angst steckt hinter meinem Festhalten -- existenziell, emotional?",
-      "Was wuerde passieren, wenn ich etwas ablege?",
+      "Wo fehlt mir Unterstützung, und warum bitte ich nicht darum?",
+      "Welche Angst steckt hinter meinem Festhalten, existenziell, emotional?",
+      "Was würde passieren, wenn ich etwas ablege?",
       "Wo verbiege ich mich, um es anderen recht zu machen?",
-      "Wer oder was staerkt mir den Ruecken?",
+      "Wer oder was stärkt mir den Rücken?",
     ],
-    hamer_konflikt: "Nach Hamer steht die Wirbelsaeule fuer den zentralen Selbstwert-Konflikt. Je nach Region: LWS -- sich als Mensch entwertet fuehlen, BWS -- Partner/Kinder betreffend, HWS -- intellektuelle Selbstentwertung. Der Schmerz tritt in der Heilungsphase auf.",
-    dahlke: "Dahlke beschreibt Rueckenschmerzen als die koerperliche Antwort auf seelische Ueberlastung. Der Mensch versucht aufrecht zu bleiben, waehrend er unter unsichtbaren Lasten fast zusammenbricht.",
-    hay: "Louise Hay ordnet dem unteren Ruecken Angst um Geld und fehlende Unterstuetzung zu, dem mittleren Schuldgefuehle, dem oberen fehlende emotionale Naehe. Das neue Denkmuster: Das Leben unterstuetzt mich. Ich vertraue dem Prozess.",
-    heilweg: "Frage dich ehrlich: Was darf ich ablegen? Beginne damit, eine Last bewusst loszulassen -- vielleicht eine Verantwortung, die nie deine war. Bitte um Unterstuetzung, auch wenn es sich ungewohnt anfuehlt. Und erlaube deinem Ruecken, gehalten zu werden -- durch Massage, Waerme, liebevolle Beruehrung.",
+    hamer_konflikt: "Nach Hamer steht die Wirbelsäule für den zentralen Selbstwert-Konflikt. Je nach Region: LWS, sich als Mensch entwertet fühlen, BWS: Partner/Kinder betreffend, HWS, intellektuelle Selbstentwertung. Der Schmerz tritt in der Heilungsphase auf.",
+    dahlke: "Dahlke beschreibt Rückenschmerzen als die körperliche Antwort auf seelische Überlastung. Der Mensch versucht aufrecht zu bleiben, während er unter unsichtbaren Lasten fast zusammenbricht.",
+    hay: "Louise Hay ordnet dem unteren Rücken Angst um Geld und fehlende Unterstützung zu, dem mittleren Schuldgefühle, dem oberen fehlende emotionale Nähe. Das neue Denkmuster: Das Leben unterstützt mich. Ich vertraue dem Prozess.",
+    heilweg: "Frage dich ehrlich: Was darf ich ablegen? Beginne damit, eine Last bewusst loszulassen, vielleicht eine Verantwortung, die nie deine war. Bitte um Unterstützung, auch wenn es sich ungewohnt anfühlt. Und erlaube deinem Rücken, gehalten zu werden, durch Massage, Wärme, liebevolle Berührung.",
   },
 
   'arthrose': {
-    kurzfassung: "Arthrose ist geronnene Unbeweglichkeit -- Gelenke erstarren, wenn das Leben erstarrt.",
-    tiefe_betrachtung: `Gelenke stehen fuer Beweglichkeit, Flexibilitaet und die Faehigkeit, die Richtung zu wechseln. Wenn sie verschleissen und steif werden, spiegelt das eine innere Erstarrung wider. Arthrose fragt: Wo bin ich innerlich unbeweglich geworden? Wo halte ich an alten Mustern fest, die laengst nicht mehr passen?
+    kurzfassung: "Arthrose ist geronnene Unbeweglichkeit: Gelenke erstarren, wenn das Leben erstarrt.",
+    tiefe_betrachtung: `Gelenke stehen für Beweglichkeit, Flexibilität und die Fähigkeit, die Richtung zu wechseln. Wenn sie verschleißen und steif werden, spiegelt das eine innere Erstarrung wider. Arthrose fragt: Wo bin ich innerlich unbeweglich geworden? Wo halte ich an alten Mustern fest, die längst nicht mehr passen?
 
-Die betroffenen Gelenke geben praezise Hinweise. Kniearthrose steht fuer mangelnde Demut und Flexibilitaet -- die Weigerung, sich zu beugen, nachzugeben, einen anderen Weg zu akzeptieren. Hueftarthrose betrifft die Faehigkeit, vorwaerts zu gehen, grosse Schritte ins Neue zu wagen. Fingerarthrose haengt mit dem Festhalten an Details, Kontrolle im Alltag und dem Greifen nach Sicherheit zusammen.
+Die betroffenen Gelenke geben präzise Hinweise. Kniearthrose steht für mangelnde Demut und Flexibilität, die Weigerung, sich zu beugen, nachzugeben, einen anderen Weg zu akzeptieren. Hüftarthrose betrifft die Fähigkeit, vorwärts zu gehen, große Schritte ins Neue zu wagen. Fingerarthrose hängt mit dem Festhalten an Details, Kontrolle im Alltag und dem Greifen nach Sicherheit zusammen.
 
-Hinter Arthrose steckt oft ein langer Prozess der inneren Verhärtung. Bitterkeit, unterdrueckte Kritik, das Gefuehl 'es aendert sich ja doch nichts' -- all das laesst die Gelenke steif werden. Es ist, als wuerde der Koerper die innere Starre materialisieren. Wer sich weigert, sich im Leben zu bewegen, dessen Koerper verliert die Faehigkeit zur Bewegung.
+Hinter Arthrose steckt oft ein langer Prozess der inneren Verhärtung. Bitterkeit, unterdrückte Kritik, das Gefühl 'es ändert sich ja doch nichts', all das lässt die Gelenke steif werden. Es ist, als würde der Körper die innere Starre materialisieren. Wer sich weigert, sich im Leben zu bewegen, dessen Körper verliert die Fähigkeit zur Bewegung.
 
-Arthrose entwickelt sich langsam, ueber Jahre -- genau wie die seelischen Muster dahinter. Es sind keine ploetzlichen Konflikte, sondern chronische Haltungen: jahrelanges Schlucken von Aerger, dauerhaftes Festhalten an Gewohnheiten, chronischer Widerstand gegen Veraenderung.`,
-    koerpersymbolik: "Gelenke symbolisieren Flexibilitaet, Anpassungsfaehigkeit und die Faehigkeit, das Leben leicht und geschmeidig zu durchschreiten. Sie sind die Drehpunkte des Koerpers -- wo Richtungswechsel moeglich werden. Wenn sie erstarren, erstarrt auch die Faehigkeit, im Leben neue Wege einzuschlagen.",
+Arthrose entwickelt sich langsam, über Jahre, genau wie die seelischen Muster dahinter. Es sind keine plötzlichen Konflikte, sondern chronische Haltungen: jahrelanges Schlucken von Ärger, dauerhaftes Festhalten an Gewohnheiten, chronischer Widerstand gegen Veränderung.`,
+    koerpersymbolik: "Gelenke symbolisieren Flexibilität, Anpassungsfähigkeit und die Fähigkeit, das Leben leicht und geschmeidig zu durchschreiten. Sie sind die Drehpunkte des Körpers, wo Richtungswechsel möglich werden. Wenn sie erstarren, erstarrt auch die Fähigkeit, im Leben neue Wege einzuschlagen.",
     kernfragen: [
       "Wo bin ich innerlich starr und unbeweglich geworden?",
-      "An welchen Mustern, Ueberzeugungen oder Gewohnheiten halte ich verbissen fest?",
+      "An welchen Mustern, Überzeugungen oder Gewohnheiten halte ich verbissen fest?",
       "Wo weigere ich mich, mich zu beugen oder nachzugeben?",
-      "Welche Bitterkeit hat sich ueber Jahre in mir angestaut?",
-      "Was wuerde sich veraendern, wenn ich geschmeidiger durchs Leben gehen wuerde?",
+      "Welche Bitterkeit hat sich über Jahre in mir angestaut?",
+      "Was würde sich verändern, wenn ich geschmeidiger durchs Leben gehen würde?",
     ],
-    hamer_konflikt: "Nach Hamer ein Selbstwert-Einbruch bezogen auf die betroffene Koerperregion -- die Gelenke bauen in der konfliktaktiven Phase Substanz ab, was sich als Verschleiss zeigt. Der biologische Sinn liegt im Umbau der Struktur.",
-    dahlke: "Dahlke sieht Arthrose als koerperlichen Ausdruck von Unbeweglichkeit und Erstarrung. Die Gelenke kristallisieren aus, was seelisch bereits fest und unbeweglich geworden ist.",
-    hay: "Louise Hay beschreibt das Muster als das Gefuehl, nicht geliebt zu werden, Kritik und Groll. Die neue Botschaft: Ich bin Liebe. Ich entscheide mich, mich selbst zu lieben und anzunehmen. Ich betrachte andere mit Liebe.",
-    heilweg: "Bringe Bewegung in dein Leben -- nicht nur koerperlich, sondern vor allem innerlich. Wo kannst du eine alte Ueberzeugung loslassen? Wo kannst du nachgeben, ohne dich zu verlieren? Uebe dich in Geschmeidigkeit -- im Denken, Fuehlen und Handeln. Jede neue Perspektive, die du zulaesst, ist wie Oel fuer deine Gelenke.",
+    hamer_konflikt: "Nach Hamer ein Selbstwert-Einbruch bezogen auf die betroffene Körperregion, die Gelenke bauen in der konfliktaktiven Phase Substanz ab, was sich als Verschleiß zeigt. Der biologische Sinn liegt im Umbau der Struktur.",
+    dahlke: "Dahlke sieht Arthrose als körperlichen Ausdruck von Unbeweglichkeit und Erstarrung. Die Gelenke kristallisieren aus, was seelisch bereits fest und unbeweglich geworden ist.",
+    hay: "Louise Hay beschreibt das Muster als das Gefühl, nicht geliebt zu werden, Kritik und Groll. Die neue Botschaft: Ich bin Liebe. Ich entscheide mich, mich selbst zu lieben und anzunehmen. Ich betrachte andere mit Liebe.",
+    heilweg: "Bringe Bewegung in dein Leben, nicht nur körperlich, sondern vor allem innerlich. Wo kannst du eine alte Überzeugung loslassen? Wo kannst du nachgeben, ohne dich zu verlieren? Übe dich in Geschmeidigkeit, im Denken, Fühlen und Handeln. Jede neue Perspektive, die du zulässt, ist wie Öl für deine Gelenke.",
   },
 
   'schlaf': {
-    kurzfassung: "Schlafprobleme zeigen: Du kannst nicht loslassen -- weder den Tag, noch die Kontrolle, noch die Angst.",
-    tiefe_betrachtung: `Einschlafen bedeutet Loslassen. Loslassen der Kontrolle, des Denkens, des Tagesgeschehens. Wer nicht schlafen kann, kann nicht loslassen. Der Geist kreist, gruebelnd, planend, sorgend -- und haelt damit den Koerper wach, der laengst muede ist.
+    kurzfassung: "Schlafprobleme zeigen: Du kannst nicht loslassen, weder den Tag, noch die Kontrolle, noch die Angst.",
+    tiefe_betrachtung: `Einschlafen bedeutet Loslassen. Loslassen der Kontrolle, des Denkens, des Tagesgeschehens. Wer nicht schlafen kann, kann nicht loslassen. Der Geist kreist, grübelnd, planend, sorgend, und hält damit den Körper wach, der längst müde ist.
 
-Schlaflosigkeit ist oft ein Vertrauensproblem. Wer nicht vertrauen kann, dass die Welt auch ohne seine Kontrolle weiterlaeuft, kann sich nicht dem Schlaf hingeben. Denn Schlaf ist ein kleiner Tod -- man gibt die Wachheit auf, ueberlaesst sich dem Unbekannten, dem Traum, dem Unbewussten. Fuer kontrollbetonte Menschen ist das zutiefst bedrohlich.
+Schlaflosigkeit ist oft ein Vertrauensproblem. Wer nicht vertrauen kann, dass die Welt auch ohne seine Kontrolle weiterläuft, kann sich nicht dem Schlaf hingeben. Denn Schlaf ist ein kleiner Tod, man gibt die Wachheit auf, überlässt sich dem Unbekannten, dem Traum, dem Unbewussten. Für kontrollbetonte Menschen ist das zutiefst bedrohlich.
 
-Auch unangeschaute Gefuehle stoeren den Schlaf. Tagsüber abgelenkt und beschaeftigt, kommen nachts die Dinge hoch, die vermieden wurden: Aengste, Sorgen, Trauer, ungeloeste Konflikte. Der Koerper liegt still, und ploetzlich ist alles da, was am Tag weggeschoben wurde. Schlafstörungen sagen: Es gibt etwas, das gesehen werden will.
+Auch unangeschaute Gefühle stören den Schlaf. Tagsüber abgelenkt und beschäftigt, kommen nachts die Dinge hoch, die vermieden wurden: Ängste, Sorgen, Trauer, ungelöste Konflikte. Der Körper liegt still, und plötzlich ist alles da, was am Tag weggeschoben wurde. Schlafstörungen sagen: Es gibt etwas, das gesehen werden will.
 
-Wer regelmaessig um 3 Uhr nachts aufwacht, befindet sich nach der Organuhr in der Leberzeit -- und die Leber ist das Organ des Zorns und der Zukunftsplanung. Aufwachen um diese Zeit kann auf unterdrueckte Wut oder uebermaessiges Planen und Gruebelei hinweisen.`,
-    koerpersymbolik: "Schlaf symbolisiert Vertrauen, Hingabe und die Faehigkeit, die Kontrolle abzugeben. Er ist der Uebergang vom Bewussten ins Unbewusste, vom Tun ins Sein. Schlafprobleme zeigen einen Bruch in diesem natuerlichen Rhythmus von Aktivitaet und Ruhe, von Kontrolle und Hingabe.",
+Wer regelmäßig um 3 Uhr nachts aufwacht, befindet sich nach der Organuhr in der Leberzeit, und die Leber ist das Organ des Zorns und der Zukunftsplanung. Aufwachen um diese Zeit kann auf unterdrückte Wut oder übermäßiges Planen und Grübelei hinweisen.`,
+    koerpersymbolik: "Schlaf symbolisiert Vertrauen, Hingabe und die Fähigkeit, die Kontrolle abzugeben. Er ist der Übergang vom Bewussten ins Unbewusste, vom Tun ins Sein. Schlafprobleme zeigen einen Bruch in diesem natürlichen Rhythmus von Aktivität und Ruhe, von Kontrolle und Hingabe.",
     kernfragen: [
-      "Was kann ich nicht loslassen -- Gedanken, Sorgen, Kontrolle?",
+      "Was kann ich nicht loslassen: Gedanken, Sorgen, Kontrolle?",
       "Vertraue ich dem Leben genug, um mich fallen zu lassen?",
-      "Welche Gefuehle kommen nachts hoch, die ich tagsüber vermeide?",
-      "Was muesste ich klaeren oder ausdruecken, damit mein Geist Ruhe findet?",
+      "Welche Gefühle kommen nachts hoch, die ich tagsüber vermeide?",
+      "Was müsste ich klären oder ausdrücken, damit mein Geist Ruhe findet?",
       "Erlaube ich mir, auch mal nicht produktiv zu sein?",
-      "Welcher ungeloeste Konflikt haelt mich wach?",
+      "Welcher ungelöste Konflikt hält mich wach?",
     ],
-    hamer_konflikt: "Nach Hamer haengen Schlafstörungen oft mit aktiven biologischen Konflikten zusammen -- der Koerper bleibt in Alarmbereitschaft, weil ein Konflikt noch nicht geloest ist. Sympathikotonie (Stress-Modus) verhindert das Einschlafen.",
-    dahlke: "Dahlke sieht Schlaflosigkeit als Weigerung, sich dem Unbewussten zu ueberlassen. Wer nicht schlafen kann, traut sich nicht, die Kontrolle abzugeben -- weder an die Nacht noch an die tieferen Schichten der eigenen Psyche.",
-    hay: "Louise Hay beschreibt Schlaflosigkeit als Angst, Schuldgefuehle und mangelndes Vertrauen in den Lebensprozess. Die neue Botschaft: Ich lasse den Tag liebevoll los und gleite in friedlichen Schlaf. Morgen sorgt fuer sich selbst.",
-    heilweg: "Schaffe ein abendliches Ritual des bewussten Loslassens. Schreibe vor dem Schlafengehen auf, was dich beschaeftigt -- uebergib es dem Papier. Atme bewusst und sage innerlich: 'Ich darf jetzt loslassen.' Vertraue darauf, dass die Nacht fuer dich arbeitet, waehrend du ruhst.",
+    hamer_konflikt: "Nach Hamer hängen Schlafstörungen oft mit aktiven biologischen Konflikten zusammen, der Körper bleibt in Alarmbereitschaft, weil ein Konflikt noch nicht gelöst ist. Sympathikotonie (Stress-Modus) verhindert das Einschlafen.",
+    dahlke: "Dahlke sieht Schlaflosigkeit als Weigerung, sich dem Unbewussten zu überlassen. Wer nicht schlafen kann, traut sich nicht, die Kontrolle abzugeben, weder an die Nacht noch an die tieferen Schichten der eigenen Psyche.",
+    hay: "Louise Hay beschreibt Schlaflosigkeit als Angst, Schuldgefühle und mangelndes Vertrauen in den Lebensprozess. Die neue Botschaft: Ich lasse den Tag liebevoll los und gleite in friedlichen Schlaf. Morgen sorgt für sich selbst.",
+    heilweg: "Schaffe ein abendliches Ritual des bewussten Loslassens. Schreibe vor dem Schlafengehen auf, was dich beschäftigt, übergib es dem Papier. Atme bewusst und sage innerlich: 'Ich darf jetzt loslassen.' Vertraue darauf, dass die Nacht für dich arbeitet, während du ruhst.",
   },
 
   'stress': {
     kurzfassung: "Chronischer Stress ist die Weigerung, im Einklang mit dem eigenen Rhythmus zu leben.",
-    tiefe_betrachtung: `Stress an sich ist nicht das Problem -- er ist eine natuerliche Reaktion auf Herausforderungen. Chronischer Stress aber zeigt, dass jemand dauerhaft gegen den eigenen Fluss lebt. Der Koerper befindet sich im Dauerkampfmodus, als waere ueberall Gefahr -- obwohl die 'Gefahr' oft nur ein voller Terminkalender ist.
+    tiefe_betrachtung: `Stress an sich ist nicht das Problem, er ist eine natürliche Reaktion auf Herausforderungen. Chronischer Stress aber zeigt, dass jemand dauerhaft gegen den eigenen Fluss lebt. Der Körper befindet sich im Dauerkampfmodus, als wäre überall Gefahr, obwohl die 'Gefahr' oft nur ein voller Terminkalender ist.
 
-Hinter chronischem Stress steckt fast immer ein Glaubenssatz: 'Ich muss', 'Es reicht nicht', 'Wenn ich nichts tue, bricht alles zusammen.' Diese innere Peitsche treibt an, selbst wenn der Koerper laengst um Gnade fleht. Stress ist dann nicht das, was von aussen kommt, sondern das, was man sich von innen auferlegt.
+Hinter chronischem Stress steckt fast immer ein Glaubenssatz: 'Ich muss', 'Es reicht nicht', 'Wenn ich nichts tue, bricht alles zusammen.' Diese innere Peitsche treibt an, selbst wenn der Körper längst um Gnade fleht. Stress ist dann nicht das, was von außen kommt, sondern das, was man sich von innen auferlegt.
 
-Ein Mensch unter Dauerstress hat oft verlernt, sich selbst zu spueren. Er funktioniert, statt zu leben. Er reagiert, statt bewusst zu handeln. Der Koerper sendet zunaechst leise Signale -- Verspannungen, Verdauungsprobleme, Schlafstörungen. Wenn diese ignoriert werden, wird er lauter: Bluthochdruck, Herzprobleme, Burnout.
+Ein Mensch unter Dauerstress hat oft verlernt, sich selbst zu spüren. Er funktioniert, statt zu leben. Er reagiert, statt bewusst zu handeln. Der Körper sendet zunächst leise Signale: Verspannungen, Verdauungsprobleme, Schlafstörungen. Wenn diese ignoriert werden, wird er lauter: Bluthochdruck, Herzprobleme, Burnout.
 
-Die tiefere Frage hinter Stress lautet: Wessen Leben lebe ich? Wer bestimmt mein Tempo? Haeufig zeigt sich, dass Menschen, die unter Stress leiden, nach den Erwartungen anderer leben -- der Eltern, des Partners, der Gesellschaft -- statt nach dem eigenen inneren Kompass.`,
-    koerpersymbolik: "Stress betrifft das gesamte Nervensystem, insbesondere die Nebennieren, die Kampf-oder-Flucht-Hormone produzieren. Dauerhaft erhoehtes Cortisol symbolisiert ein Leben im Alarmmodus. Der Koerper lebt, als waere er staendig bedroht -- weil die Seele sich staendig bedroht fuehlt.",
+Die tiefere Frage hinter Stress lautet: Wessen Leben lebe ich? Wer bestimmt mein Tempo? Häufig zeigt sich, dass Menschen, die unter Stress leiden, nach den Erwartungen anderer leben, der Eltern, des Partners, der Gesellschaft, statt nach dem eigenen inneren Kompass.`,
+    koerpersymbolik: "Stress betrifft das gesamte Nervensystem, insbesondere die Nebennieren, die Kampf-oder-Flucht-Hormone produzieren. Dauerhaft erhöhtes Cortisol symbolisiert ein Leben im Alarmmodus. Der Körper lebt, als wäre er ständig bedroht, weil die Seele sich ständig bedroht fühlt.",
     kernfragen: [
       "Welcher innere Glaubenssatz treibt mich an, ohne Pause zu funktionieren?",
-      "Wessen Erwartungen versuche ich zu erfuellen?",
-      "Was wuerde passieren, wenn ich einen Gang zurueckschalte?",
-      "Kenne ich ueberhaupt noch meinen eigenen Rhythmus?",
-      "Was waere, wenn 'genug' tatsaechlich genug ist?",
+      "Wessen Erwartungen versuche ich zu erfüllen?",
+      "Was würde passieren, wenn ich einen Gang zurückschalte?",
+      "Kenne ich überhaupt noch meinen eigenen Rhythmus?",
+      "Was wäre, wenn 'genug' tatsächlich genug ist?",
     ],
-    hamer_konflikt: "Nach Hamer entsteht Dauerstress durch einen oder mehrere aktive biologische Konflikte, die nicht geloest werden koennen. Der Organismus bleibt in der sympathikotonen Phase (Dauerstress), weil der Konflikt praesent bleibt.",
-    dahlke: "Dahlke sieht chronischen Stress als Ausdruck eines Lebens gegen die eigene Natur. Der Mensch hat sich vom Rhythmus der Natur abgekoppelt und versucht, durch staendige Aktivitaet eine innere Leere zu füllen.",
+    hamer_konflikt: "Nach Hamer entsteht Dauerstress durch einen oder mehrere aktive biologische Konflikte, die nicht gelöst werden können. Der Organismus bleibt in der sympathikotonen Phase (Dauerstress), weil der Konflikt präsent bleibt.",
+    dahlke: "Dahlke sieht chronischen Stress als Ausdruck eines Lebens gegen die eigene Natur. Der Mensch hat sich vom Rhythmus der Natur abgekoppelt und versucht, durch ständige Aktivität eine innere Leere zu füllen.",
     hay: "Louise Hay ordnet Stress mangelndem Vertrauen ins Leben zu. Die neue Botschaft: Ich vertraue dem Prozess des Lebens. Alles, was ich brauchen werde, wird mir zur richtigen Zeit gegeben.",
-    heilweg: "Beginne damit, deinen eigenen Rhythmus wiederzuentdecken. Was tut dir wirklich gut? Was naehrt dich? Identifiziere die Glaubenssaetze, die dich antreiben, und pruefe sie liebevoll: Stimmt das wirklich? Erlaube dir Pausen ohne Produktivitaet -- einfach Sein, ohne Tun.",
+    heilweg: "Beginne damit, deinen eigenen Rhythmus wiederzuentdecken. Was tut dir wirklich gut? Was nährt dich? Identifiziere die Glaubenssätze, die dich antreiben, und prüfe sie liebevoll: Stimmt das wirklich? Erlaube dir Pausen ohne Produktivität, einfach Sein, ohne Tun.",
   },
 
   'verdauung': {
-    kurzfassung: "Verdauungsprobleme zeigen: Etwas im Leben kann nicht verdaut werden -- eine Situation, ein Erlebnis, eine Emotion.",
-    tiefe_betrachtung: `Der Verdauungstrakt ist das groesste emotionale Organ des Koerpers. Nicht umsonst spricht man von Bauchgefuehl, von etwas, das einem auf den Magen schlaegt, oder dass man etwas nicht schlucken kann. Der Darm verarbeitet nicht nur Nahrung, sondern auch Erlebnisse und Emotionen.
+    kurzfassung: "Verdauungsprobleme zeigen: Etwas im Leben kann nicht verdaut werden, eine Situation, ein Erlebnis, eine Emotion.",
+    tiefe_betrachtung: `Der Verdauungstrakt ist das größte emotionale Organ des Körpers. Nicht umsonst spricht man von Bauchgefühl, von etwas, das einem auf den Magen schlägt, oder dass man etwas nicht schlucken kann. Der Darm verarbeitet nicht nur Nahrung, sondern auch Erlebnisse und Emotionen.
 
-Verstopfung zeigt, dass jemand festhalt -- an Altem, an Kontrolle, an materiellen Dingen. Es faellt schwer, loszulassen, abzugeben, fliessen zu lassen. Durchfall hingegen zeigt, dass etwas zu schnell durchlaeuft, nicht richtig verarbeitet wird, dass man Angst hat und alles so schnell wie moeglich loswerden will. Blaehungen deuten auf aufgeblasene Aengste hin, auf Dinge, die gaeren und drücken, aber nicht ausgesprochen werden.
+Verstopfung zeigt, dass jemand festhalt, an Altem, an Kontrolle, an materiellen Dingen. Es fällt schwer, loszulassen, abzugeben, fließen zu lassen. Durchfall hingegen zeigt, dass etwas zu schnell durchläuft, nicht richtig verarbeitet wird, dass man Angst hat und alles so schnell wie möglich loswerden will. Blähungen deuten auf aufgeblasene Ängste hin, auf Dinge, die gären und drücken, aber nicht ausgesprochen werden.
 
-Der Magen steht fuer die Aufnahme und das erste Verarbeiten -- hier wird entschieden, was angenommen und was abgelehnt wird. Magenprobleme zeigen oft, dass man Dinge schluckt, die einem nicht bekommen: Demuetigungen, Aerger, Situationen, die man eigentlich zurueckweisen sollte.
+Der Magen steht für die Aufnahme und das erste Verarbeiten, hier wird entschieden, was angenommen und was abgelehnt wird. Magenprobleme zeigen oft, dass man Dinge schluckt, die einem nicht bekommen: Demütigungen, Ärger, Situationen, die man eigentlich zurückweisen sollte.
 
-Der Darm ist das Organ der tieferen Verarbeitung und des Loslassens. Er ist auch Sitz eines grossen Teils des Immunsystems und der Serotoninproduktion. Chronische Darmprobleme weisen auf eine tiefe Verarbeitungsstörung hin -- nicht nur koerperlich, sondern emotional und seelisch. Etwas wurde nicht zu Ende verdaut und haelt den gesamten Prozess auf.`,
-    koerpersymbolik: "Der Verdauungstrakt symbolisiert die Faehigkeit, das Leben aufzunehmen, zu verarbeiten und Unnoetiges loszulassen. Der Magen steht fuer Aufnahme und Akzeptanz, der Duenndarm fuer die Verarbeitung und Sortierung, der Dickdarm fuer das Loslassen und Abschliessen.",
+Der Darm ist das Organ der tieferen Verarbeitung und des Loslassens. Er ist auch Sitz eines großen Teils des Immunsystems und der Serotoninproduktion. Chronische Darmprobleme weisen auf eine tiefe Verarbeitungsstörung hin, nicht nur körperlich, sondern emotional und seelisch. Etwas wurde nicht zu Ende verdaut und hält den gesamten Prozess auf.`,
+    koerpersymbolik: "Der Verdauungstrakt symbolisiert die Fähigkeit, das Leben aufzunehmen, zu verarbeiten und Unnötiges loszulassen. Der Magen steht für Aufnahme und Akzeptanz, der Dünndarm für die Verarbeitung und Sortierung, der Dickdarm für das Loslassen und Abschließen.",
     kernfragen: [
       "Was liegt mir unverdaut im Magen?",
       "Welche Situation oder welches Erlebnis kann ich nicht verarbeiten?",
-      "Halte ich an etwas fest, das laengst losgelassen werden darf?",
+      "Halte ich an etwas fest, das längst losgelassen werden darf?",
       "Was schlucke ich herunter, statt es anzusprechen?",
-      "Wo ist mein Bauchgefuehl, und hoere ich darauf?",
-      "Was gaert in mir und darf endlich ausgesprochen werden?",
+      "Wo ist mein Bauchgefühl, und höre ich darauf?",
+      "Was gärt in mir und darf endlich ausgesprochen werden?",
     ],
-    hamer_konflikt: "Nach Hamer haengen Magenprobleme mit Revieraerger-Konflikten zusammen (etwas liegt einem im Magen). Darmprobleme betreffen einen 'unverdaulichen Aerger' -- ein Brocken, der nicht verdaut werden kann. Die Loesung des Konflikts bringt die Heilungsphase.",
-    dahlke: "Dahlke sieht den Verdauungstrakt als Spiegel unserer Faehigkeit, das Leben zu verarbeiten. Wer koerperlich nicht verdauen kann, hat auch seelisch etwas, das nicht verarbeitet worden ist.",
-    hay: "Louise Hay beschreibt Magenprobleme als Angst vor Neuem und Unfaehigkeit, das Neue zu assimilieren. Die neue Botschaft: Das Leben stimmt mit mir ueberein. Ich nehme jeden Moment des Tages auf und verarbeite ihn mit Leichtigkeit.",
-    heilweg: "Hoere auf dein Bauchgefuehl -- wörtlich. Frage deinen Bauch, was er dir sagen will. Achte bewusst auf das, was du 'schluckst' -- und erlaube dir, Nein zu sagen. Iss langsam und bewusst, denn wie du isst, so lebst du. Und erlaube dir, Altes loszulassen -- koerperlich wie seelisch.",
+    hamer_konflikt: "Nach Hamer hängen Magenprobleme mit Revierärger-Konflikten zusammen (etwas liegt einem im Magen). Darmprobleme betreffen einen 'unverdaulichen Ärger', ein Brocken, der nicht verdaut werden kann. Die Lösung des Konflikts bringt die Heilungsphase.",
+    dahlke: "Dahlke sieht den Verdauungstrakt als Spiegel unserer Fähigkeit, das Leben zu verarbeiten. Wer körperlich nicht verdauen kann, hat auch seelisch etwas, das nicht verarbeitet worden ist.",
+    hay: "Louise Hay beschreibt Magenprobleme als Angst vor Neuem und Unfähigkeit, das Neue zu assimilieren. Die neue Botschaft: Das Leben stimmt mit mir überein. Ich nehme jeden Moment des Tages auf und verarbeite ihn mit Leichtigkeit.",
+    heilweg: "Höre auf dein Bauchgefühl, wörtlich. Frage deinen Bauch, was er dir sagen will. Achte bewusst auf das, was du 'schluckst', und erlaube dir, Nein zu sagen. Iss langsam und bewusst, denn wie du isst, so lebst du. Und erlaube dir, Altes loszulassen, körperlich wie seelisch.",
   },
 
   'haut': {
-    kurzfassung: "Die Haut ist die Grenze zwischen Ich und Welt -- Hautprobleme zeigen Grenzkonflikte.",
-    tiefe_betrachtung: `Die Haut ist unser groesstes Organ und unsere aeusserste Grenze. Sie schützt uns, sie zeigt uns, sie ist unsere Visitenkarte. Wenn die Haut erkrankt, ist immer die Frage der Grenze beruehrt: Wo sind meine Grenzen? Werden sie verletzt? Kann ich mich abgrenzen? Oder schotte ich mich zu sehr ab?
+    kurzfassung: "Die Haut ist die Grenze zwischen Ich und Welt: Hautprobleme zeigen Grenzkonflikte.",
+    tiefe_betrachtung: `Die Haut ist unser größtes Organ und unsere aeusserste Grenze. Sie schützt uns, sie zeigt uns, sie ist unsere Visitenkarte. Wenn die Haut erkrankt, ist immer die Frage der Grenze berührt: Wo sind meine Grenzen? Werden sie verletzt? Kann ich mich abgrenzen? Oder schotte ich mich zu sehr ab?
 
-Hautprobleme machen sichtbar, was eigentlich innen ist. Sie bringen buchstaeblich an die Oberflaeche, was unter der Oberflaeche brodelt. Wer Hautprobleme hat, kann etwas nicht mehr unter der Haut halten -- Emotionen, Konflikte, unterdrueckte Wut oder Scham draengen nach aussen.
+Hautprobleme machen sichtbar, was eigentlich innen ist. Sie bringen buchstäblich an die Oberfläche, was unter der Oberfläche brodelt. Wer Hautprobleme hat, kann etwas nicht mehr unter der Haut halten: Emotionen, Konflikte, unterdrückte Wut oder Scham drängen nach außen.
 
-Juckreiz zeigt, dass etwas unter die Haut geht, dass etwas reizt und nervt. Trockene Haut deutet auf emotionale Austrocknung hin, auf fehlende Naehe und Beruehrung. Feuchte, naessende Haut zeigt unterdrueckte Traenen. Roetungen weisen auf Scham, Wut oder Ueberhitzung hin.
+Juckreiz zeigt, dass etwas unter die Haut geht, dass etwas reizt und nervt. Trockene Haut deutet auf emotionale Austrocknung hin, auf fehlende Nähe und Berührung. Feuchte, nässende Haut zeigt unterdrückte Tränen. Rötungen weisen auf Scham, Wut oder Überhitzung hin.
 
-Es ist kein Zufall, dass Hauterkrankungen so oft im Kindesalter beginnen. Kinder koennen ihre Grenzen noch nicht verbal verteidigen, und so spricht die Haut fuer sie. Die Haut sagt: 'Komm mir nicht zu nah!' oder 'Bitte beruehre mich!' -- je nachdem, was fehlt.`,
-    koerpersymbolik: "Die Haut symbolisiert Kontakt, Grenze und Identitaet. Sie ist die Schnittstelle zwischen Innen und Aussen, zwischen Selbst und Welt. Hauterkrankungen zeigen, dass an dieser Schnittstelle etwas aus dem Gleichgewicht geraten ist -- zu viel Naehe, zu wenig Naehe, verletzte Grenzen.",
+Es ist kein Zufall, dass Hauterkrankungen so oft im Kindesalter beginnen. Kinder können ihre Grenzen noch nicht verbal verteidigen, und so spricht die Haut für sie. Die Haut sagt: 'Komm mir nicht zu nah!' oder 'Bitte berühre mich!', je nachdem, was fehlt.`,
+    koerpersymbolik: "Die Haut symbolisiert Kontakt, Grenze und Identität. Sie ist die Schnittstelle zwischen Innen und Außen, zwischen Selbst und Welt. Hauterkrankungen zeigen, dass an dieser Schnittstelle etwas aus dem Gleichgewicht geraten ist, zu viel Nähe, zu wenig Nähe, verletzte Grenzen.",
     kernfragen: [
       "Wo werden meine Grenzen verletzt, und wo verteidige ich sie nicht?",
       "Was geht mir unter die Haut?",
-      "Welche Emotionen versuche ich zu verbergen, die jetzt an die Oberflaeche kommen?",
-      "Fehlt mir Naehe und Beruehrung -- oder ist mir alles zu nah?",
-      "Was wuerde ich gerne zeigen, was ich bisher verstecke?",
+      "Welche Emotionen versuche ich zu verbergen, die jetzt an die Oberfläche kommen?",
+      "Fehlt mir Nähe und Berührung, oder ist mir alles zu nah?",
+      "Was würde ich gerne zeigen, was ich bisher verstecke?",
     ],
-    hamer_konflikt: "Nach Hamer handelt es sich bei Hauterkrankungen um Trennungs-Konflikte -- die Haut reagiert auf den Verlust von Koerperkontakt, auf eine Trennung, die nicht verarbeitet werden konnte. Die aeussere Haut (Epidermis) betrifft Kontaktverlust.",
-    dahlke: "Dahlke beschreibt die Haut als Spiegel der Seele, der alles sichtbar macht, was verdraengt wurde. Hauterkrankungen sind der Versuch des Koerpers, innere Konflikte nach aussen zu tragen.",
-    hay: "Louise Hay sieht Hautprobleme als Ausdruck von Angst, altem Groll und dem Gefuehl der Bedrohung. Die neue Botschaft: Ich beschuetze mich liebevoll mit Gedanken der Freude und des Friedens.",
-    heilweg: "Lerne deine Grenzen kennen und lieben. Ueberprüfe, wo du dich uebergreifen laesst und wo du dich zu sehr abschottest. Gib deiner Haut bewusst Beruehrung -- liebevolle, sanfte, heilende Beruehrung. Und erlaube dir, zu zeigen, wer du wirklich bist, auch das, was sich verletzlich anfuehlt.",
+    hamer_konflikt: "Nach Hamer handelt es sich bei Hauterkrankungen um Trennungs-Konflikte, die Haut reagiert auf den Verlust von Körperkontakt, auf eine Trennung, die nicht verarbeitet werden konnte. Die aeussere Haut (Epidermis) betrifft Kontaktverlust.",
+    dahlke: "Dahlke beschreibt die Haut als Spiegel der Seele, der alles sichtbar macht, was verdrängt wurde. Hauterkrankungen sind der Versuch des Körpers, innere Konflikte nach außen zu tragen.",
+    hay: "Louise Hay sieht Hautprobleme als Ausdruck von Angst, altem Groll und dem Gefühl der Bedrohung. Die neue Botschaft: Ich beschütze mich liebevoll mit Gedanken der Freude und des Friedens.",
+    heilweg: "Lerne deine Grenzen kennen und lieben. Überprüfe, wo du dich übergreifen lässt und wo du dich zu sehr abschottest. Gib deiner Haut bewusst Berührung, liebevolle, sanfte, heilende Berührung. Und erlaube dir, zu zeigen, wer du wirklich bist, auch das, was sich verletzlich anfühlt.",
   },
 
   'allergie': {
-    kurzfassung: "Allergie ist Abwehr gegen etwas Harmloses -- der Koerper kaempft gegen einen Feind, der keiner ist.",
-    tiefe_betrachtung: `Eine Allergie ist eine Ueberreaktion des Immunsystems auf etwas Harmloses. Pollen, Tierhaare, bestimmte Nahrungsmittel -- nichts davon ist wirklich gefaehrlich. Und doch reagiert der Koerper, als waere er in Lebensgefahr. Diese uebersteigerte Abwehr spiegelt eine innere Haltung wider: Etwas, das eigentlich harmlos oder sogar schoeen ist, wird als Bedrohung erlebt.
+    kurzfassung: "Allergie ist Abwehr gegen etwas Harmloses, der Körper kämpft gegen einen Feind, der keiner ist.",
+    tiefe_betrachtung: `Eine Allergie ist eine Überreaktion des Immunsystems auf etwas Harmloses. Pollen, Tierhaare, bestimmte Nahrungsmittel, nichts davon ist wirklich gefährlich. Und doch reagiert der Körper, als wäre er in Lebensgefahr. Diese übersteigerte Abwehr spiegelt eine innere Haltung wider: Etwas, das eigentlich harmlos oder sogar schöen ist, wird als Bedrohung erlebt.
 
-Heuschnupfen im Fruehling ist besonders aufschlussreich: Pollen sind das maennliche Befruchtungsprinzip, Fruchtbarkeit, Lebendigkeit, Sexualitaet. Wer darauf allergisch reagiert, koennte eine innere Abwehr gegen Sexualitaet, Fruchtbarkeit oder die Kraft des Neuen in sich tragen. Der Fruehling -- die Zeit des Aufbluehens -- wird zum Leidensweg.
+Heuschnupfen im Frühling ist besonders aufschlussreich: Pollen sind das männliche Befruchtungsprinzip, Fruchtbarkeit, Lebendigkeit, Sexualität. Wer darauf allergisch reagiert, könnte eine innere Abwehr gegen Sexualität, Fruchtbarkeit oder die Kraft des Neuen in sich tragen. Der Frühling, die Zeit des Aufblühens, wird zum Leidensweg.
 
-Allergien zeigen auch ein grundlegendes Vertrauensproblem. Wenn der Koerper nicht mehr zwischen Freund und Feind unterscheiden kann, hat auch der Mensch diese Faehigkeit verloren. Er sieht ueberall Bedrohung, wo keine ist. Die Allergie ist eine Einladung, die eigene Aggressivitaet bewusst zu leben, statt sie auf harmlose Substanzen zu projizieren.
+Allergien zeigen auch ein grundlegendes Vertrauensproblem. Wenn der Körper nicht mehr zwischen Freund und Feind unterscheiden kann, hat auch der Mensch diese Fähigkeit verloren. Er sieht überall Bedrohung, wo keine ist. Die Allergie ist eine Einladung, die eigene Aggressivität bewusst zu leben, statt sie auf harmlose Substanzen zu projizieren.
 
-Viele Allergiker beschreiben sich selbst als friedliche, angepasste Menschen. Doch die Allergie offenbart eine andere Seite: einen enormen Kampfgeist, der im Koerper ausagiert wird, weil er im Leben keinen Ausdruck findet. Die Frage lautet: Wogegen kaempfst du wirklich?`,
-    koerpersymbolik: "Das Immunsystem symbolisiert die Abwehrkraft und die Faehigkeit, zwischen Eigenem und Fremdem zu unterscheiden. Allergien zeigen eine Verwechslung: Harmloses wird als gefaehrlich eingestuft. Das betrifft immer auch die seelische Ebene -- wo verwechsele ich Freund und Feind?",
+Viele Allergiker beschreiben sich selbst als friedliche, angepasste Menschen. Doch die Allergie offenbart eine andere Seite: einen enormen Kampfgeist, der im Körper ausagiert wird, weil er im Leben keinen Ausdruck findet. Die Frage lautet: Wogegen kämpfst du wirklich?`,
+    koerpersymbolik: "Das Immunsystem symbolisiert die Abwehrkraft und die Fähigkeit, zwischen Eigenem und Fremdem zu unterscheiden. Allergien zeigen eine Verwechslung: Harmloses wird als gefährlich eingestuft. Das betrifft immer auch die seelische Ebene, wo verwechsele ich Freund und Feind?",
     kernfragen: [
       "Wogegen wehre ich mich in meinem Leben, obwohl es mir nicht schadet?",
-      "Wo lebe ich meine Aggressivitaet nicht offen, sodass sie sich koerperlich ausdrueckt?",
-      "Welche schoenen Dinge des Lebens empfinde ich als bedrohlich?",
+      "Wo lebe ich meine Aggressivität nicht offen, sodass sie sich körperlich ausdrückt?",
+      "Welche schönen Dinge des Lebens empfinde ich als bedrohlich?",
       "Wo vertraue ich nicht, dass das Leben gut mit mir meint?",
-      "Was wuerde sich veraendern, wenn ich aufhoere zu kaempfen?",
+      "Was würde sich verändern, wenn ich aufhöre zu kämpfen?",
     ],
-    hamer_konflikt: "Nach Hamer entsteht die allergische Reaktion durch eine 'Schiene' -- eine Substanz, die beim Erleben eines biologischen Konflikts praesent war und danach als Signal fuer Gefahr gespeichert wird. Der Koerper erinnert sich und reagiert bei erneutem Kontakt.",
-    dahlke: "Dahlke sieht die Allergie als verdraengte Aggression, die sich koerperlich Bahn bricht. Der Allergiker kaempft auf der Koerperebene den Krieg, den er im Leben nicht fuehrt.",
+    hamer_konflikt: "Nach Hamer entsteht die allergische Reaktion durch eine 'Schiene', eine Substanz, die beim Erleben eines biologischen Konflikts präsent war und danach als Signal für Gefahr gespeichert wird. Der Körper erinnert sich und reagiert bei erneutem Kontakt.",
+    dahlke: "Dahlke sieht die Allergie als verdrängte Aggression, die sich körperlich Bahn bricht. Der Allergiker kämpft auf der Körperebene den Krieg, den er im Leben nicht führt.",
     hay: "Louise Hay beschreibt Allergien als Frage: Gegen wen bist du allergisch? Das neue Denkmuster: Die Welt ist sicher und freundlich. Ich bin sicher. Ich bin im Frieden mit dem Leben.",
-    heilweg: "Frage dich ehrlich: Was ist der wahre Feind? Meist ist es nicht der Pollen, sondern ein unterdrueckter Konflikt, eine verdraengte Wut, eine ungelebte Kraft. Lebe deine Aggressivitaet bewusst und konstruktiv aus -- im Sport, in klaren Worten, in gesunden Grenzen. So muss der Koerper den Kampf nicht mehr stellvertretend fuehren.",
+    heilweg: "Frage dich ehrlich: Was ist der wahre Feind? Meist ist es nicht der Pollen, sondern ein unterdrückter Konflikt, eine verdrängte Wut, eine ungelebte Kraft. Lebe deine Aggressivität bewusst und konstruktiv aus, im Sport, in klaren Worten, in gesunden Grenzen. So muss der Körper den Kampf nicht mehr stellvertretend führen.",
   },
 
   'bluthochdruck': {
-    kurzfassung: "Bluthochdruck ist Druck, der nach innen geht -- unterdrueckte Emotionen, die keinen Ausdruck finden.",
-    tiefe_betrachtung: `Das Blut steht symbolisch fuer Lebensfreude, Vitalitaet und emotionalen Fluss. Wenn der Druck zu hoch ist, stehen die Emotionen unter Hochspannung -- aber sie duerfen nicht heraus. Bluthochdruck entsteht haeufig bei Menschen, die ihre Gefuehle zurueckhalten, die Konflikte schlucken statt sie auszutragen, die nach aussen ruhig wirken, waehrend innen ein Vulkan brodelt.
+    kurzfassung: "Bluthochdruck ist Druck, der nach innen geht, unterdrückte Emotionen, die keinen Ausdruck finden.",
+    tiefe_betrachtung: `Das Blut steht symbolisch für Lebensfreude, Vitalität und emotionalen Fluss. Wenn der Druck zu hoch ist, stehen die Emotionen unter Hochspannung, aber sie dürfen nicht heraus. Bluthochdruck entsteht häufig bei Menschen, die ihre Gefühle zurückhalten, die Konflikte schlucken statt sie auszutragen, die nach außen ruhig wirken, während innen ein Vulkan brodelt.
 
-Es ist der Druck der zurueckgehaltenen Worte, der unausgedrueckten Wut, der uebernommenen Verantwortung. Bluthochdruck-Patienten sind oft gewissenhafte, pflichtbewusste Menschen, die 'unter Druck stehen' -- beruflich, familiär, gesellschaftlich. Sie haben gelernt, zu funktionieren, aber nicht, sich auszudruecken.
+Es ist der Druck der zurückgehaltenen Worte, der unausgedrückten Wut, der übernommenen Verantwortung. Bluthochdruck-Patienten sind oft gewissenhafte, pflichtbewusste Menschen, die 'unter Druck stehen', beruflich, familiär, gesellschaftlich. Sie haben gelernt, zu funktionieren, aber nicht, sich auszudrücken.
 
-Die Blutgefaesse, die unter dem hohen Druck leiden, stehen fuer den Lebensraum. Sie sind die Straßen, auf denen die Lebensenergie fliesst. Wenn die Gefaesse eng werden und der Druck steigt, ist der Lebensraum zu eng geworden. Es gibt zu wenig Raum fuer Ausdruck, Entfaltung, Freiheit.
+Die Blutgefäße, die unter dem hohen Druck leiden, stehen für den Lebensraum. Sie sind die Straßen, auf denen die Lebensenergie fließt. Wenn die Gefäße eng werden und der Druck steigt, ist der Lebensraum zu eng geworden. Es gibt zu wenig Raum für Ausdruck, Entfaltung, Freiheit.
 
-Bluthochdruck ist auch ein Thema der Naehe und Distanz. Wer seinen Druck nie rauslaesst, haelt andere auf Distanz -- denn echte Naehe wuerde die Fassade zum Einsturz bringen. Unter dem Druck liegt oft eine tiefe Sehnsucht nach Verbindung, die aber als zu gefaehrlich empfunden wird.`,
-    koerpersymbolik: "Das Blut symbolisiert Lebensfreude und emotionalen Fluss. Die Gefaesse sind die Kanaele, durch die das Leben stroemt. Hoher Blutdruck zeigt, dass der emotionale Druck keinen angemessenen Auslass findet und die Lebensenergie gegen innere Widerstaende ankämpft.",
+Bluthochdruck ist auch ein Thema der Nähe und Distanz. Wer seinen Druck nie rauslässt, hält andere auf Distanz, denn echte Nähe würde die Fassade zum Einsturz bringen. Unter dem Druck liegt oft eine tiefe Sehnsucht nach Verbindung, die aber als zu gefährlich empfunden wird.`,
+    koerpersymbolik: "Das Blut symbolisiert Lebensfreude und emotionalen Fluss. Die Gefäße sind die Kanäle, durch die das Leben strömt. Hoher Blutdruck zeigt, dass der emotionale Druck keinen angemessenen Auslass findet und die Lebensenergie gegen innere Widerstände ankämpft.",
     kernfragen: [
-      "Welche Emotionen halte ich zurueck, die dringend Ausdruck brauchen?",
+      "Welche Emotionen halte ich zurück, die dringend Ausdruck brauchen?",
       "Wo stehe ich unter Druck, ohne es zuzugeben?",
       "Welche Konflikte trage ich nicht aus, die ausgetragen werden sollten?",
-      "Ist mein Lebensraum wirklich gross genug fuer das, was in mir lebt?",
-      "Wo erlaube ich mir Ventile -- und wo fehlen sie?",
+      "Ist mein Lebensraum wirklich groß genug für das, was in mir lebt?",
+      "Wo erlaube ich mir Ventile, und wo fehlen sie?",
     ],
-    hamer_konflikt: "Nach Hamer steht Bluthochdruck oft in Zusammenhang mit einem aktiven Revierkonflikt -- das Revier ist bedroht, und der Koerper erhoht den Druck, um kampf- oder fluchtbereit zu sein. Die Dauerpraesenz des Konflikts haelt den Druck oben.",
-    dahlke: "Dahlke sieht Bluthochdruck als den koerperlichen Ausdruck eines Menschen, der sich nicht erlaubt, seinen Dampf abzulassen. Die Spannung bleibt innen und richtet sich gegen den eigenen Koerper.",
-    hay: "Louise Hay beschreibt das Muster als langanhaltende emotionale Probleme, die nicht geloest werden. Die neue Botschaft: Ich lasse freudig die Vergangenheit los. Ich bin im Frieden.",
-    heilweg: "Finde Ventile fuer deinen inneren Druck. Sprich aus, was dich bewegt -- auch wenn es unbequem ist. Bewege dich koerperlich, denn Bewegung senkt nicht nur den Blutdruck, sondern loest auch emotionalen Stau. Erlaube dir Wut, erlaube dir Traenen, erlaube dir, Mensch zu sein mit allem, was dazugehoert.",
+    hamer_konflikt: "Nach Hamer steht Bluthochdruck oft in Zusammenhang mit einem aktiven Revierkonflikt, das Revier ist bedroht, und der Körper erhoht den Druck, um kampf- oder fluchtbereit zu sein. Die Dauerpräsenz des Konflikts hält den Druck oben.",
+    dahlke: "Dahlke sieht Bluthochdruck als den körperlichen Ausdruck eines Menschen, der sich nicht erlaubt, seinen Dampf abzulassen. Die Spannung bleibt innen und richtet sich gegen den eigenen Körper.",
+    hay: "Louise Hay beschreibt das Muster als langanhaltende emotionale Probleme, die nicht gelöst werden. Die neue Botschaft: Ich lasse freudig die Vergangenheit los. Ich bin im Frieden.",
+    heilweg: "Finde Ventile für deinen inneren Druck. Sprich aus, was dich bewegt, auch wenn es unbequem ist. Bewege dich körperlich, denn Bewegung senkt nicht nur den Blutdruck, sondern löst auch emotionalen Stau. Erlaube dir Wut, erlaube dir Tränen, erlaube dir, Mensch zu sein mit allem, was dazugehört.",
   },
 
   'diabetes': {
-    kurzfassung: "Diabetes fragt: Wo hast du die Suesse des Lebens verloren -- und versuchst sie durch Kontrolle zu ersetzen?",
-    tiefe_betrachtung: `Diabetes ist eine Stoerung des Zuckerstoffwechsels -- und Zucker steht symbolisch fuer die Suesse des Lebens, fuer Liebe, Zuneigung, Genuess. Wer an Diabetes erkrankt, hat auf einer tiefen Ebene die Faehigkeit verloren, die Suesse des Lebens aufzunehmen und zu verwerten. Die Liebe ist da, aber sie kann nicht in die Zellen gelangen.
+    kurzfassung: "Diabetes fragt: Wo hast du die Süße des Lebens verloren, und versuchst sie durch Kontrolle zu ersetzen?",
+    tiefe_betrachtung: `Diabetes ist eine Störung des Zuckerstoffwechsels, und Zucker steht symbolisch für die Süße des Lebens, für Liebe, Zuneigung, Genüss. Wer an Diabetes erkrankt, hat auf einer tiefen Ebene die Fähigkeit verloren, die Süße des Lebens aufzunehmen und zu verwerten. Die Liebe ist da, aber sie kann nicht in die Zellen gelangen.
 
-Bei Typ-2-Diabetes produziert der Koerper oft noch Insulin, aber die Zellen reagieren nicht mehr darauf (Insulinresistenz). Uebertragen heisst das: Die Liebe, die Zuneigung, die schoenen Dinge sind vorhanden, aber der Mensch kann sie nicht mehr aufnehmen. Er ist resistent geworden gegen die Suesse -- vielleicht weil er zu oft enttaeuscht wurde, weil er gelernt hat, Liebe nicht zu trauen.
+Bei Typ-2-Diabetes produziert der Körper oft noch Insulin, aber die Zellen reagieren nicht mehr darauf (Insulinresistenz). Übertragen heißt das: Die Liebe, die Zuneigung, die schönen Dinge sind vorhanden, aber der Mensch kann sie nicht mehr aufnehmen. Er ist resistent geworden gegen die Süße, vielleicht weil er zu oft enttaeuscht wurde, weil er gelernt hat, Liebe nicht zu trauen.
 
-Diabetes erfordert staendige Kontrolle -- Blutzucker messen, Insulin spritzen, Ernaehrung ueberwachen. Das spiegelt das Grundthema wider: Den Fluss des Lebens kann man nicht kontrollieren, aber genau das wird versucht. Die Sehnsucht nach Suesse wird durch Kontrolle ersetzt. Statt sich dem Leben hinzugeben, wird es ueberwacht.
+Diabetes erfordert ständige Kontrolle: Blutzucker messen, Insulin spritzen, Ernährung überwachen. Das spiegelt das Grundthema wider: Den Fluss des Lebens kann man nicht kontrollieren, aber genau das wird versucht. Die Sehnsucht nach Süße wird durch Kontrolle ersetzt. Statt sich dem Leben hinzugeben, wird es überwacht.
 
-Viele Diabetiker beschreiben eine Kindheit, in der Liebe an Bedingungen geknüpft war oder in der emotionale Naehrung fehlte. Der Koerper inszeniert spaeter genau dieses Muster: Er kann die Naehrung (Zucker/Liebe) nicht mehr verwerten, egal wie viel vorhanden ist.`,
-    koerpersymbolik: "Die Bauchspeicheldrüse symbolisiert die Faehigkeit, die Suesse des Lebens aufzunehmen und zu verarbeiten. Insulin ist der Schluessel, der die Zellen fuer Naehrung oeffnet. Wenn dieser Schluessel fehlt oder nicht funktioniert, verhungern die Zellen inmitten von Ueberfluss.",
+Viele Diabetiker beschreiben eine Kindheit, in der Liebe an Bedingungen geknüpft war oder in der emotionale Nährung fehlte. Der Körper inszeniert später genau dieses Muster: Er kann die Nährung (Zucker/Liebe) nicht mehr verwerten, egal wie viel vorhanden ist.`,
+    koerpersymbolik: "Die Bauchspeicheldrüse symbolisiert die Fähigkeit, die Süße des Lebens aufzunehmen und zu verarbeiten. Insulin ist der Schlüssel, der die Zellen für Nährung öffnet. Wenn dieser Schlüssel fehlt oder nicht funktioniert, verhungern die Zellen inmitten von Überfluss.",
     kernfragen: [
-      "Wo habe ich die Suesse des Lebens verloren?",
+      "Wo habe ich die Süße des Lebens verloren?",
       "Kann ich Liebe und Zuneigung wirklich annehmen?",
-      "Versuche ich, das Leben zu kontrollieren, statt es zu geniessen?",
+      "Versuche ich, das Leben zu kontrollieren, statt es zu genießen?",
       "Was hat mich so resistent gegen Freude gemacht?",
-      "Fuehle ich mich genährt -- emotional, nicht nur koerperlich?",
+      "Fühle ich mich genährt, emotional, nicht nur körperlich?",
     ],
-    hamer_konflikt: "Nach Hamer entsteht Diabetes durch einen Sträube-/Widerstand-Konflikt oder Angst-Ekel-Konflikt mit einer Funktionsstörung der insulinproduzierenden Inselzellen der Bauchspeicheldrüse. Der Konflikt betrifft sich-Straeuben gegen eine Situation.",
-    dahlke: "Dahlke sieht Diabetes als die Unfaehigkeit, Liebe aufzunehmen. Der Mensch hungert emotional, obwohl die Suesse des Lebens um ihn herum vorhanden ist. Kontrolle ersetzt Hingabe.",
-    hay: "Louise Hay beschreibt das Muster als tiefe Sehnsucht nach dem, was haette sein koennen, und ein Beduerfnis nach Kontrolle. Die neue Botschaft: Dieser Moment ist voller Freude. Ich entscheide mich, die Suesse des Heute zu erleben.",
-    heilweg: "Lerne, die Suesse des Lebens wieder bewusst wahrzunehmen und anzunehmen. Wo kann jemand dich lieben -- und du laesst es zu? Wo ist Schoenheit in deinem Alltag, die du uebersiehst? Tausche Kontrolle gegen Genuss. Erlaube dir, dass das Leben suess sein darf.",
+    hamer_konflikt: "Nach Hamer entsteht Diabetes durch einen Sträube-/Widerstand-Konflikt oder Angst-Ekel-Konflikt mit einer Funktionsstörung der insulinproduzierenden Inselzellen der Bauchspeicheldrüse. Der Konflikt betrifft sich-Sträuben gegen eine Situation.",
+    dahlke: "Dahlke sieht Diabetes als die Unfähigkeit, Liebe aufzunehmen. Der Mensch hungert emotional, obwohl die Süße des Lebens um ihn herum vorhanden ist. Kontrolle ersetzt Hingabe.",
+    hay: "Louise Hay beschreibt das Muster als tiefe Sehnsucht nach dem, was hätte sein können, und ein Bedürfnis nach Kontrolle. Die neue Botschaft: Dieser Moment ist voller Freude. Ich entscheide mich, die Süße des Heute zu erleben.",
+    heilweg: "Lerne, die Süße des Lebens wieder bewusst wahrzunehmen und anzunehmen. Wo kann jemand dich lieben, und du lässt es zu? Wo ist Schönheit in deinem Alltag, die du übersiehst? Tausche Kontrolle gegen Genuss. Erlaube dir, dass das Leben süß sein darf.",
   },
 
   'depression': {
-    kurzfassung: "Depression ist nicht die Abwesenheit von Gefuehlen -- sie ist die Abwesenheit der Erlaubnis zu fuehlen.",
-    tiefe_betrachtung: `Depression wird oft als Dunkelheit beschrieben, als schwarzes Loch, als Nebel. Aber unter dem Nebel liegen Gefuehle -- Wut, Trauer, Schmerz, Sehnsucht -- die keinen Ausdruck finden durften. Depression entsteht nicht aus dem Nichts. Sie entsteht, wenn Gefuehle so lange unterdrueckt werden, bis der gesamte emotionale Apparat herunterfaehrt. Nicht fuehlen koennen ist der letzte Schutz, wenn das Fuehlen zu schmerzhaft geworden ist.
+    kurzfassung: "Depression ist nicht die Abwesenheit von Gefühlen, sie ist die Abwesenheit der Erlaubnis zu fühlen.",
+    tiefe_betrachtung: `Depression wird oft als Dunkelheit beschrieben, als schwarzes Loch, als Nebel. Aber unter dem Nebel liegen Gefühle: Wut, Trauer, Schmerz, Sehnsucht, die keinen Ausdruck finden durften. Depression entsteht nicht aus dem Nichts. Sie entsteht, wenn Gefühle so lange unterdrückt werden, bis der gesamte emotionale Apparat herunterfährt. Nicht fühlen können ist der letzte Schutz, wenn das Fühlen zu schmerzhaft geworden ist.
 
-Unter der Taubheit der Depression liegt fast immer eine enorme Wut -- Wut auf das Leben, auf Menschen, die verletzt haben, auf sich selbst. Wut, die nicht nach aussen durfte und sich nach innen richtete. Depression ist Aggression, die sich gegen das eigene Selbst wendet. Wer nicht wuetend sein darf, wird traurig. Wer nicht traurig sein darf, wird taub.
+Unter der Taubheit der Depression liegt fast immer eine enorme Wut: Wut auf das Leben, auf Menschen, die verletzt haben, auf sich selbst. Wut, die nicht nach außen durfte und sich nach innen richtete. Depression ist Aggression, die sich gegen das eigene Selbst wendet. Wer nicht wütend sein darf, wird traurig. Wer nicht traurig sein darf, wird taub.
 
-Auch verdraengte Trauer spielt eine zentrale Rolle. Unbeweinte Verluste, unbetrauerte Abschiede, nicht verarbeitete Enttaeuschungen -- all das sammelt sich an, bis das Gefaess uebervoll ist und der einzige Ausweg die Erstarrung scheint. Depression sagt: Hier ist so viel Schmerz, dass ich lieber gar nichts mehr fuehle.
+Auch verdrängte Trauer spielt eine zentrale Rolle. Unbeweinte Verluste, unbetrauerte Abschiede, nicht verarbeitete Enttaeuschungen, all das sammelt sich an, bis das Gefäß übervoll ist und der einzige Ausweg die Erstarrung scheint. Depression sagt: Hier ist so viel Schmerz, dass ich lieber gar nichts mehr fühle.
 
-Depression kann auch eine zutiefst spirituelle Krise sein. Der Ruf der Seele, endlich authentisch zu leben, wird so laut, dass das alte Leben nicht mehr funktioniert -- aber das neue ist noch nicht sichtbar. Die dunkle Nacht der Seele, von der Mystiker sprechen, ist genau das: der Zusammenbruch des Alten, bevor das Neue geboren werden kann.`,
-    koerpersymbolik: "Depression betrifft die Neurochemie -- den Fluss der Botenstoffe, die Gefuehle vermitteln. Wenn Serotonin, Dopamin und Noradrenalin aus dem Gleichgewicht geraten, zeigt sich koerperlich, was seelisch laengst geschehen ist: Der Fluss des Fuehlens ist unterbrochen.",
+Depression kann auch eine zutiefst spirituelle Krise sein. Der Ruf der Seele, endlich authentisch zu leben, wird so laut, dass das alte Leben nicht mehr funktioniert, aber das neue ist noch nicht sichtbar. Die dunkle Nacht der Seele, von der Mystiker sprechen, ist genau das: der Zusammenbruch des Alten, bevor das Neue geboren werden kann.`,
+    koerpersymbolik: "Depression betrifft die Neurochemie, den Fluss der Botenstoffe, die Gefühle vermitteln. Wenn Serotonin, Dopamin und Noradrenalin aus dem Gleichgewicht geraten, zeigt sich körperlich, was seelisch längst geschehen ist: Der Fluss des Fühlens ist unterbrochen.",
     kernfragen: [
-      "Welche Gefuehle durfte ich nie haben -- Wut, Trauer, Sehnsucht?",
+      "Welche Gefühle durfte ich nie haben: Wut, Trauer, Sehnsucht?",
       "Gegen wen richtet sich die Wut, die ich gegen mich selbst wende?",
       "Welchen Verlust habe ich nie wirklich betrauert?",
-      "Lebe ich das Leben, das meine Seele will -- oder das Leben, das andere fuer mich vorgesehen haben?",
-      "Was wuerde passieren, wenn ich mir erlaube, alles zu fuehlen, was da ist?",
-      "Welche Wahrheit klopft an meine Tuer, die ich nicht hoeren will?",
+      "Lebe ich das Leben, das meine Seele will, oder das Leben, das andere für mich vorgesehen haben?",
+      "Was würde passieren, wenn ich mir erlaube, alles zu fühlen, was da ist?",
+      "Welche Wahrheit klopft an meine Tür, die ich nicht hören will?",
     ],
-    hamer_konflikt: "Nach Hamer entsteht Depression durch eine bestimmte Konstellation aktiver Konflikte in beiden Gehirnhälften gleichzeitig. Die biologische Blockade schuetzt den Organismus vor Ueberlastung durch zu viele gleichzeitig aktive Konflikte.",
-    dahlke: "Dahlke beschreibt Depression als den Druck nach innen -- Impression statt Expression. Alle Lebensenergie, die nach aussen draengt, wird nach innen gepresst, bis nichts mehr fliessen kann.",
-    hay: "Louise Hay sieht Depression als Wut, die man sich nicht zu haben erlaubt, verbunden mit Hoffnungslosigkeit. Die neue Botschaft: Ich gehe jetzt ueber die Aengste und Begrenzungen anderer hinaus. Ich erschaffe mein Leben.",
-    heilweg: "Der Heilweg fuehrt durch das Fuehlen, nicht daran vorbei. Erlaube dir, zu fuehlen, was da ist -- in sicherem Rahmen, vielleicht mit therapeutischer Begleitung. Lass die Wut sein, lass die Trauer sein, lass den Schmerz sein. Hinter den Traenen wartet die Lebendigkeit. Du musst nicht sofort 'positiv' sein -- du darfst erst mal einfach nur ehrlich sein.",
+    hamer_konflikt: "Nach Hamer entsteht Depression durch eine bestimmte Konstellation aktiver Konflikte in beiden Gehirnhälften gleichzeitig. Die biologische Blockade schützt den Organismus vor Überlastung durch zu viele gleichzeitig aktive Konflikte.",
+    dahlke: "Dahlke beschreibt Depression als den Druck nach innen: Impression statt Expression. Alle Lebensenergie, die nach außen drängt, wird nach innen gepresst, bis nichts mehr fließen kann.",
+    hay: "Louise Hay sieht Depression als Wut, die man sich nicht zu haben erlaubt, verbunden mit Hoffnungslosigkeit. Die neue Botschaft: Ich gehe jetzt über die Ängste und Begrenzungen anderer hinaus. Ich erschaffe mein Leben.",
+    heilweg: "Der Heilweg führt durch das Fühlen, nicht daran vorbei. Erlaube dir, zu fühlen, was da ist, in sicherem Rahmen, vielleicht mit therapeutischer Begleitung. Lass die Wut sein, lass die Trauer sein, lass den Schmerz sein. Hinter den Tränen wartet die Lebendigkeit. Du musst nicht sofort 'positiv' sein, du darfst erst mal einfach nur ehrlich sein.",
   },
 
   'angst': {
-    kurzfassung: "Angst ist blockierte Lebensenergie -- sie zeigt, wo das Leben wachsen will, aber der Mut noch fehlt.",
-    tiefe_betrachtung: `Angst ist eine der maechtigsten Emotionen -- und gleichzeitig eine der missverstanden. Sie wird als Feind betrachtet, als etwas, das weg muss. Dabei traegt jede Angst eine Botschaft: Hier ist etwas, das Aufmerksamkeit braucht. Hier ist eine Schwelle, die uebertreten werden will.
+    kurzfassung: "Angst ist blockierte Lebensenergie, sie zeigt, wo das Leben wachsen will, aber der Mut noch fehlt.",
+    tiefe_betrachtung: `Angst ist eine der mächtigsten Emotionen, und gleichzeitig eine der missverstanden. Sie wird als Feind betrachtet, als etwas, das weg muss. Dabei trägt jede Angst eine Botschaft: Hier ist etwas, das Aufmerksamkeit braucht. Hier ist eine Schwelle, die übertreten werden will.
 
-Angst und Aufregung sind neurobiologisch nahezu identisch. Der Koerper macht keinen grossen Unterschied zwischen Angst und Vorfreude -- beides erzeugt Herzklopfen, feuchte Haende, erhoehte Wachheit. Der Unterschied liegt in der Bewertung. Angst entsteht, wenn wir einer Situation nicht vertrauen. Aufregung entsteht, wenn wir ihr vertrauen.
+Angst und Aufregung sind neurobiologisch nahezu identisch. Der Körper macht keinen großen Unterschied zwischen Angst und Vorfreude, beides erzeugt Herzklopfen, feuchte Hände, erhöhte Wachheit. Der Unterschied liegt in der Bewertung. Angst entsteht, wenn wir einer Situation nicht vertrauen. Aufregung entsteht, wenn wir ihr vertrauen.
 
-Chronische Angst zeigt ein tiefes Misstrauen dem Leben gegenueber. Haeufig wurzelt sie in fruehen Erfahrungen -- unsichere Bindung, chaotische Familienverhältnisse, pragende Erlebnisse, in denen die Welt als unsicher erlebt wurde. Der Koerper traegt diese Programmierung weiter, auch wenn die aeussere Gefahr laengst vorbei ist.
+Chronische Angst zeigt ein tiefes Misstrauen dem Leben gegenüber. Häufig wurzelt sie in frühen Erfahrungen, unsichere Bindung, chaotische Familienverhältnisse, pragende Erlebnisse, in denen die Welt als unsicher erlebt wurde. Der Körper trägt diese Programmierung weiter, auch wenn die aeussere Gefahr längst vorbei ist.
 
-Angst zeigt aber auch, wo Wachstum moeglich ist. Hinter jeder Angst liegt etwas, das gelebt werden will. Angst vor Naehe verbirgt die Sehnsucht nach Verbindung. Angst vor Versagen verbirgt das Verlangen nach Ausdruck. Angst vor dem Tod verbirgt die Sehnsucht nach vollständigem Lebendigsein. Die Angst ist nicht der Feind -- sie ist der Waechterhund vor dem Schatz.`,
-    koerpersymbolik: "Angst aktiviert das Reptiliengehirn, das aelteste Ueberlebenszentrum. Der ganze Koerper schaltet in Alarmbereitschaft: Herz rast, Atem wird flach, Muskeln spannen sich. Chronische Angst haelt den Koerper in permanenter Kampfbereitschaft gegen eine Gefahr, die oft gar nicht real ist.",
+Angst zeigt aber auch, wo Wachstum möglich ist. Hinter jeder Angst liegt etwas, das gelebt werden will. Angst vor Nähe verbirgt die Sehnsucht nach Verbindung. Angst vor Versagen verbirgt das Verlangen nach Ausdruck. Angst vor dem Tod verbirgt die Sehnsucht nach vollständigem Lebendigsein. Die Angst ist nicht der Feind, sie ist der Wächterhund vor dem Schatz.`,
+    koerpersymbolik: "Angst aktiviert das Reptiliengehirn, das älteste Überlebenszentrum. Der ganze Körper schaltet in Alarmbereitschaft: Herz rast, Atem wird flach, Muskeln spannen sich. Chronische Angst hält den Körper in permanenter Kampfbereitschaft gegen eine Gefahr, die oft gar nicht real ist.",
     kernfragen: [
-      "Welche fruehe Erfahrung hat mich gelehrt, dass die Welt unsicher ist?",
-      "Was liegt hinter meiner Angst -- welche Sehnsucht verbirgt sie?",
-      "Wo moechtete ich wachsen, aber die Angst haelt mich zurueck?",
-      "Was waere der naechste mutige Schritt, den ich gehen koennte?",
-      "Ist die Gefahr real -- oder ist es eine alte Erinnerung, die sich als Gegenwart verkleidet?",
+      "Welche frühe Erfahrung hat mich gelehrt, dass die Welt unsicher ist?",
+      "Was liegt hinter meiner Angst, welche Sehnsucht verbirgt sie?",
+      "Wo möchtete ich wachsen, aber die Angst hält mich zurück?",
+      "Was wäre der nächste mutige Schritt, den ich gehen könnte?",
+      "Ist die Gefahr real, oder ist es eine alte Erinnerung, die sich als Gegenwart verkleidet?",
     ],
-    hamer_konflikt: "Nach Hamer steht Angst in Zusammenhang mit einem aktiven Fluchtkonflikt -- der Organismus befindet sich in staendiger Fluchtbereitschaft, weil ein bedrohlicher Konflikt nicht geloest werden konnte.",
-    dahlke: "Dahlke sieht Angst als das Einengungserleben (Angst kommt von Enge). Wo das Leben eng wird, entsteht Angst. Der Weg fuehrt immer durch die Weite -- sich oeffnen, sich ausdehnen, Raum einnehmen.",
+    hamer_konflikt: "Nach Hamer steht Angst in Zusammenhang mit einem aktiven Fluchtkonflikt, der Organismus befindet sich in ständiger Fluchtbereitschaft, weil ein bedrohlicher Konflikt nicht gelöst werden konnte.",
+    dahlke: "Dahlke sieht Angst als das Einengungserleben (Angst kommt von Enge). Wo das Leben eng wird, entsteht Angst. Der Weg führt immer durch die Weite, sich öffnen, sich ausdehnen, Raum einnehmen.",
     hay: "Louise Hay beschreibt Angst als mangelndes Vertrauen in den Fluss des Lebens. Die neue Botschaft: Ich vertraue dem Prozess des Lebens. Ich bin in Sicherheit. Alles ist gut.",
-    heilweg: "Begegne deiner Angst mit Neugier statt mit Abwehr. Frage sie: Was willst du mich lehren? Was schuetzt du? Atme in die Angst hinein, statt vor ihr wegzulaufen. Oft löst sie sich auf, wenn man ihr liebevoll begegnet. Und dann wage den naechsten kleinen Schritt -- denn hinter der Angst wartet dein groesseres Leben.",
+    heilweg: "Begegne deiner Angst mit Neugier statt mit Abwehr. Frage sie: Was willst du mich lehren? Was schützt du? Atme in die Angst hinein, statt vor ihr wegzulaufen. Oft löst sie sich auf, wenn man ihr liebevoll begegnet. Und dann wage den nächsten kleinen Schritt, denn hinter der Angst wartet dein größeres Leben.",
   },
 
   'rheuma': {
-    kurzfassung: "Rheuma ist festgehaltener Schmerz -- der Koerper wird steif vor unterdrückter Wut und Bitterkeit.",
-    tiefe_betrachtung: `Rheuma ist eine entzuendliche Erkrankung der Gelenke, Sehnen und Muskeln. Entzuendung steht immer fuer einen inneren Konflikt, der brennt -- und bei Rheuma betrifft dieser Konflikt die Beweglichkeit und Flexibilitaet im Leben. Rheuma macht steif, unbeweglich, schmerzhaft -- und genau so fuehlt sich die Seele darunter an.
+    kurzfassung: "Rheuma ist festgehaltener Schmerz, der Körper wird steif vor unterdrückter Wut und Bitterkeit.",
+    tiefe_betrachtung: `Rheuma ist eine entzündliche Erkrankung der Gelenke, Sehnen und Muskeln. Entzündung steht immer für einen inneren Konflikt, der brennt, und bei Rheuma betrifft dieser Konflikt die Beweglichkeit und Flexibilität im Leben. Rheuma macht steif, unbeweglich, schmerzhaft, und genau so fühlt sich die Seele darunter an.
 
-Hinter Rheuma steckt haeufig eine tiefe, alte Wut, die nie ausgedrueckt wurde. Eine Bitterkeit, die sich ueber Jahre aufgebaut hat. Viele Rheuma-Betroffene beschreiben sich als aufopferungsvoll, gebend, fuer andere da -- aber innerlich kocht eine Wut ueber die eigene Selbstaufgabe, die nie sein durfte. Die Finger werden krumm, weil sie zu viel festgehalten haben und zu wenig gefordert.
+Hinter Rheuma steckt häufig eine tiefe, alte Wut, die nie ausgedrückt wurde. Eine Bitterkeit, die sich über Jahre aufgebaut hat. Viele Rheuma-Betroffene beschreiben sich als aufopferungsvoll, gebend, für andere da, aber innerlich kocht eine Wut über die eigene Selbstaufgabe, die nie sein durfte. Die Finger werden krumm, weil sie zu viel festgehalten haben und zu wenig gefordert.
 
-Auch Selbstvorwuerfe und zu starke Selbstkritik spielen eine Rolle. Der Mensch richtet die Aggression gegen den eigenen Koerper, weil er gelernt hat, dass Wut nicht sein darf. Die Autoimmunkomponente zeigt es deutlich: Der Koerper greift sich selbst an. Er tut sich selbst das an, was er eigentlich jemandem anderem sagen muesste.
+Auch Selbstvorwürfe und zu starke Selbstkritik spielen eine Rolle. Der Mensch richtet die Aggression gegen den eigenen Körper, weil er gelernt hat, dass Wut nicht sein darf. Die Autoimmunkomponente zeigt es deutlich: Der Körper greift sich selbst an. Er tut sich selbst das an, was er eigentlich jemandem anderem sagen müsste.
 
-Rheuma zwingt zur Langsamkeit, zur Vorsicht, zum bewussten Umgang mit den eigenen Kraeften. Vielleicht liegt darin auch eine Weisheit: Lerne, sanfter mit dir umzugehen. Lerne, deine Kraft bewusst einzusetzen, statt sie fuer andere aufzubrauchen.`,
-    koerpersymbolik: "Gelenke symbolisieren Richtungswechsel und Flexibilitaet. Sehnen verbinden Muskeln (Willen) mit Knochen (Struktur). Rheuma betrifft das gesamte Bewegungssystem und zeigt, dass die Verbindung zwischen Wollen und Struktur entzuendet ist -- der innere Konflikt zwischen dem, was man tun will, und dem, was man sich erlaubt.",
+Rheuma zwingt zur Langsamkeit, zur Vorsicht, zum bewussten Umgang mit den eigenen Kräften. Vielleicht liegt darin auch eine Weisheit: Lerne, sanfter mit dir umzugehen. Lerne, deine Kraft bewusst einzusetzen, statt sie für andere aufzubrauchen.`,
+    koerpersymbolik: "Gelenke symbolisieren Richtungswechsel und Flexibilität. Sehnen verbinden Muskeln (Willen) mit Knochen (Struktur). Rheuma betrifft das gesamte Bewegungssystem und zeigt, dass die Verbindung zwischen Wollen und Struktur entzündet ist, der innere Konflikt zwischen dem, was man tun will, und dem, was man sich erlaubt.",
     kernfragen: [
       "Welche alte Wut oder Bitterkeit trage ich seit langem in mir?",
-      "Wo opfere ich mich auf und bin innerlich wuetend darueber?",
-      "Richte ich die Aggression gegen mich, die eigentlich nach aussen gehoert?",
-      "Wo bin ich so starr in meinen Ueberzeugungen, dass es schmerzhaft wird?",
-      "Was muesste ich mir eingestehen, damit der innere Kampf aufhoeren kann?",
+      "Wo opfere ich mich auf und bin innerlich wütend darüber?",
+      "Richte ich die Aggression gegen mich, die eigentlich nach außen gehört?",
+      "Wo bin ich so starr in meinen Überzeugungen, dass es schmerzhaft wird?",
+      "Was müsste ich mir eingestehen, damit der innere Kampf aufhören kann?",
     ],
-    hamer_konflikt: "Nach Hamer steht Rheuma in Zusammenhang mit einem Selbstwert-Einbruch bezogen auf die betroffene Region. Die entzuendliche Phase zeigt die Heilung nach einer Konfliktloesung an. Rezidive entstehen durch wiederholte Selbstwert-Einbrueche.",
-    dahlke: "Dahlke beschreibt Rheuma als die koerperliche Manifestation von zurueckgehaltener Aggression und uebermaessiger Selbstlosigkeit. Wer sich selbst vergisst, dessen Koerper erinnert durch Schmerz.",
-    hay: "Louise Hay sieht Rheuma als Ausdruck von tiefem Groll, Bitterkeit und dem Gefuehl, als Opfer zu leben. Die neue Botschaft: Ich erschaffe meine eigenen Erfahrungen. Ich liebe und akzeptiere mich. Ich betrachte andere mit Liebe.",
-    heilweg: "Erlaube dir deine Wut -- sie ist berechtigt. Finde einen gesunden Ausdruck dafuer: Schreibe sie auf, sprich sie aus, bewege sie koerperlich. Hoere auf, dich fuer andere aufzuopfern, und beginne, dich selbst an die erste Stelle zu setzen. Dein Koerper kaempft gegen sich selbst -- lerne, mit dir statt gegen dich zu arbeiten.",
+    hamer_konflikt: "Nach Hamer steht Rheuma in Zusammenhang mit einem Selbstwert-Einbruch bezogen auf die betroffene Region. Die entzündliche Phase zeigt die Heilung nach einer Konfliktlösung an. Rezidive entstehen durch wiederholte Selbstwert-Einbrüche.",
+    dahlke: "Dahlke beschreibt Rheuma als die körperliche Manifestation von zurückgehaltener Aggression und übermäßiger Selbstlosigkeit. Wer sich selbst vergisst, dessen Körper erinnert durch Schmerz.",
+    hay: "Louise Hay sieht Rheuma als Ausdruck von tiefem Groll, Bitterkeit und dem Gefühl, als Opfer zu leben. Die neue Botschaft: Ich erschaffe meine eigenen Erfahrungen. Ich liebe und akzeptiere mich. Ich betrachte andere mit Liebe.",
+    heilweg: "Erlaube dir deine Wut, sie ist berechtigt. Finde einen gesunden Ausdruck dafür: Schreibe sie auf, sprich sie aus, bewege sie körperlich. Höre auf, dich für andere aufzuopfern, und beginne, dich selbst an die erste Stelle zu setzen. Dein Körper kämpft gegen sich selbst, lerne, mit dir statt gegen dich zu arbeiten.",
   },
 
   'sodbrennen': {
-    kurzfassung: "Sodbrennen ist Aerger, der hochkommt -- zurueckgehaltene Wut, die sich einen Weg nach oben bahnt.",
-    tiefe_betrachtung: `Der Magen produziert Saeure, um Nahrung zu zersetzen. Wenn diese Saeure aufsteigt, verbrennt sie die zarte Schleimhaut der Speiseroehre. Symbolisch steht diese Saeure fuer Aerger, Frustration und Aggression. Sodbrennen zeigt: Der Aerger steigt hoch. Das, was heruntergeschluckt wurde, will wieder nach oben.
+    kurzfassung: "Sodbrennen ist Ärger, der hochkommt, zurückgehaltene Wut, die sich einen Weg nach oben bahnt.",
+    tiefe_betrachtung: `Der Magen produziert Säure, um Nahrung zu zersetzen. Wenn diese Säure aufsteigt, verbrennt sie die zarte Schleimhaut der Speiseröhre. Symbolisch steht diese Säure für Ärger, Frustration und Aggression. Sodbrennen zeigt: Der Ärger steigt hoch. Das, was heruntergeschluckt wurde, will wieder nach oben.
 
-Sodbrennen-Betroffene haben haeufig die Angewohnheit, Dinge zu schlucken, die ihnen nicht schmecken -- Kraenkungen, Ungerechtigkeiten, aergerliche Situationen. Sie sagen nicht, was sie denken, sie wehren sich nicht, sie schlucken herunter. Aber der Magen rebelliert: Er produziert mehr Saeure, als noetig waere, denn der Aerger muss irgendwohin.
+Sodbrennen-Betroffene haben häufig die Angewohnheit, Dinge zu schlucken, die ihnen nicht schmecken: Kränkungen, Ungerechtigkeiten, ärgerliche Situationen. Sie sagen nicht, was sie denken, sie wehren sich nicht, sie schlucken herunter. Aber der Magen rebelliert: Er produziert mehr Säure, als nötig wäre, denn der Ärger muss irgendwohin.
 
-Die Speiseroehre, die verbrennt, steht fuer den Kanal der Kommunikation -- das, was zwischen Magen (Verarbeitung) und Mund (Ausdruck) liegt. Sodbrennen brennt genau da, wo die Worte stecken geblieben sind. Es ist der Koerper, der sagt: Sprich es aus, oder ich brenne dich von innen auf.
+Die Speiseröhre, die verbrennt, steht für den Kanal der Kommunikation, das, was zwischen Magen (Verarbeitung) und Mund (Ausdruck) liegt. Sodbrennen brennt genau da, wo die Worte stecken geblieben sind. Es ist der Körper, der sagt: Sprich es aus, oder ich brenne dich von innen auf.
 
-Auch Angst vor Kontrollverlust spielt oft eine Rolle. Der Mageninhalt -- die halb verdauten Erfahrungen -- soll unten bleiben, unter Verschluss. Aber manche Dinge lassen sich nicht verschliessen. Sie steigen auf, ob man will oder nicht.`,
-    koerpersymbolik: "Der Magen symbolisiert die Verarbeitung von Erfahrungen und Emotionen. Die Magensaeure ist die 'verdauende Kraft', die auch aggressiv sein kann. Die Speiseroehre als Verbindung zwischen Mund und Magen steht fuer den Kommunikationsweg. Sodbrennen zeigt: Die aggressive Energie frisst sich nach oben.",
+Auch Angst vor Kontrollverlust spielt oft eine Rolle. Der Mageninhalt, die halb verdauten Erfahrungen, soll unten bleiben, unter Verschluss. Aber manche Dinge lassen sich nicht verschließen. Sie steigen auf, ob man will oder nicht.`,
+    koerpersymbolik: "Der Magen symbolisiert die Verarbeitung von Erfahrungen und Emotionen. Die Magensaeure ist die 'verdauende Kraft', die auch aggressiv sein kann. Die Speiseröhre als Verbindung zwischen Mund und Magen steht für den Kommunikationsweg. Sodbrennen zeigt: Die aggressive Energie frisst sich nach oben.",
     kernfragen: [
       "Was habe ich heruntergeschluckt, das mir gar nicht schmeckt?",
-      "Welchen Aerger trage ich mit mir, den ich nicht ausspreche?",
+      "Welchen Ärger trage ich mit mir, den ich nicht ausspreche?",
       "Welche Situation liegt mir sauer im Magen?",
-      "Was wuerde passieren, wenn ich sage, was ich wirklich denke?",
+      "Was würde passieren, wenn ich sage, was ich wirklich denke?",
       "Wo halte ich den Deckel auf Dingen, die nach oben wollen?",
     ],
-    hamer_konflikt: "Nach Hamer entsteht die erhoehte Magensaeure durch einen Revieraerger-Konflikt -- eine aergerliche Situation im eigenen Revier, die nicht geloest werden kann. Die Magenschleimhaut reagiert mit verstärkter Saereproduktion.",
-    dahlke: "Dahlke sieht Sodbrennen als koerperliches Zeichen von unterdrueckter Aggression. Die Saeure, die aufsteigt, ist der Aerger, der ausgedrueckt werden muesste.",
-    hay: "Louise Hay beschreibt das Muster als angeknebelten Aerger und grosse Furcht. Die neue Botschaft: Ich atme frei und ungehindert. Ich bin in Sicherheit. Ich vertraue dem Prozess des Lebens.",
-    heilweg: "Lass den Aerger raus, bevor er dich von innen verbrennt. Ueberprüfe, was dir 'sauer aufstoesst', und sprich es an. Lerne, Nein zu sagen, bevor du etwas schluckst, das dir nicht bekommt. Dein Magen braucht nicht mehr Saeureblocker -- er braucht weniger Aerger, den er verarbeiten muss.",
+    hamer_konflikt: "Nach Hamer entsteht die erhöhte Magensaeure durch einen Revierärger-Konflikt, eine ärgerliche Situation im eigenen Revier, die nicht gelöst werden kann. Die Magenschleimhaut reagiert mit verstärkter Säreproduktion.",
+    dahlke: "Dahlke sieht Sodbrennen als körperliches Zeichen von unterdrückter Aggression. Die Säure, die aufsteigt, ist der Ärger, der ausgedrückt werden müsste.",
+    hay: "Louise Hay beschreibt das Muster als angeknebelten Ärger und große Furcht. Die neue Botschaft: Ich atme frei und ungehindert. Ich bin in Sicherheit. Ich vertraue dem Prozess des Lebens.",
+    heilweg: "Lass den Ärger raus, bevor er dich von innen verbrennt. Überprüfe, was dir 'sauer aufstößt', und sprich es an. Lerne, Nein zu sagen, bevor du etwas schluckst, das dir nicht bekommt. Dein Magen braucht nicht mehr Säureblocker, er braucht weniger Ärger, den er verarbeiten muss.",
   },
 
   'burnout': {
-    kurzfassung: "Burnout ist nicht zu viel Arbeit -- es ist zu wenig Sinn, zu wenig Freude, zu wenig Selbst im eigenen Leben.",
-    tiefe_betrachtung: `Burnout wird oft als Erschoepfung durch Ueberarbeitung beschrieben. Aber das greift zu kurz. Es gibt Menschen, die enorm viel arbeiten und voller Energie sind -- weil ihre Arbeit sie erfuellt. Burnout entsteht nicht durch zu viel Arbeit, sondern dadurch, dass die Arbeit (oder das Leben insgesamt) nicht mehr mit der eigenen Seele im Einklang ist.
+    kurzfassung: "Burnout ist nicht zu viel Arbeit, es ist zu wenig Sinn, zu wenig Freude, zu wenig Selbst im eigenen Leben.",
+    tiefe_betrachtung: `Burnout wird oft als Erschöpfung durch Überarbeitung beschrieben. Aber das greift zu kurz. Es gibt Menschen, die enorm viel arbeiten und voller Energie sind, weil ihre Arbeit sie erfüllt. Burnout entsteht nicht durch zu viel Arbeit, sondern dadurch, dass die Arbeit (oder das Leben insgesamt) nicht mehr mit der eigenen Seele im Einklang ist.
 
-Wer ausbrennt, hat sein inneres Feuer fuer etwas Falsches verbraucht. Die Energie floss in Projekte, Beziehungen, Verpflichtungen, die nicht dem eigenen Wesen entsprachen. Der Mensch hat sich verausgabt fuer die Erwartungen anderer, fuer Anerkennung, fuer ein Bild von sich, das nicht seinem wahren Kern entspricht.
+Wer ausbrennt, hat sein inneres Feuer für etwas Falsches verbraucht. Die Energie floss in Projekte, Beziehungen, Verpflichtungen, die nicht dem eigenen Wesen entsprachen. Der Mensch hat sich verausgabt für die Erwartungen anderer, für Anerkennung, für ein Bild von sich, das nicht seinem wahren Kern entspricht.
 
-Burnout ist auch eine Krise der Identitaet. Wer bin ich, wenn ich nicht funktioniere? Was bleibt von mir, wenn ich nichts mehr leiste? Diese Fragen sind erschreckend -- aber sie sind der Beginn einer tiefen Wandlung. Burnout zwingt dazu, sich mit dem eigenen Wesenskern zu befassen, weil alles andere weggefallen ist.
+Burnout ist auch eine Krise der Identität. Wer bin ich, wenn ich nicht funktioniere? Was bleibt von mir, wenn ich nichts mehr leiste? Diese Fragen sind erschreckend, aber sie sind der Beginn einer tiefen Wandlung. Burnout zwingt dazu, sich mit dem eigenen Wesenskern zu befassen, weil alles andere weggefallen ist.
 
-Haeufig steckt hinter Burnout auch der Glaubenssatz, nur durch Leistung liebenswert zu sein. Die Erschoepfung ist dann nicht nur koerperlich, sondern existenziell: Man ist muede davon, sich staendig beweisen zu muessen. Burnout sagt: Du bist genug -- auch ohne Leistung.`,
-    koerpersymbolik: "Die Nebennieren, die bei Burnout erschoepft sind, produzieren Stresshormone. Sie stehen fuer die Faehigkeit, Energie zu mobilisieren und auf Anforderungen zu reagieren. Wenn sie erschoepft sind, ist die Lebensenergie aufgebraucht -- der Tank ist leer, weil die Energie nicht fuer das eigene Leben, sondern fuer fremde Ziele verbrannt wurde.",
+Häufig steckt hinter Burnout auch der Glaubenssatz, nur durch Leistung liebenswert zu sein. Die Erschöpfung ist dann nicht nur körperlich, sondern existenziell: Man ist müde davon, sich ständig beweisen zu müssen. Burnout sagt: Du bist genug, auch ohne Leistung.`,
+    koerpersymbolik: "Die Nebennieren, die bei Burnout erschöpft sind, produzieren Stresshormone. Sie stehen für die Fähigkeit, Energie zu mobilisieren und auf Anforderungen zu reagieren. Wenn sie erschöpft sind, ist die Lebensenergie aufgebraucht, der Tank ist leer, weil die Energie nicht für das eigene Leben, sondern für fremde Ziele verbrannt wurde.",
     kernfragen: [
-      "Fuer wen oder was verbrauche ich meine Lebensenergie?",
-      "Stimmt mein aeusseres Leben mit meinem inneren Wesen ueberein?",
-      "Was wuerde ich tun, wenn niemand etwas von mir erwarten wuerde?",
+      "Für wen oder was verbrauche ich meine Lebensenergie?",
+      "Stimmt mein aeusseres Leben mit meinem inneren Wesen überein?",
+      "Was würde ich tun, wenn niemand etwas von mir erwarten würde?",
       "Glaube ich, nur durch Leistung liebenswert zu sein?",
       "Was bleibt von mir, wenn ich nichts mehr leiste?",
       "Welches Leben wartet hinter dem Burnout auf mich?",
     ],
-    hamer_konflikt: "Nach Hamer ist Erschoepfung ein Zeichen mehrerer gleichzeitig aktiver biologischer Konflikte, die den Organismus in permanenter Stressreaktion halten. Die Nebennierenerschoepfung zeigt die Dauer und Intensitaet der ungeloesten Konflikte.",
-    dahlke: "Dahlke beschreibt Burnout als den Punkt, an dem das falsche Feuer erlischt. Es ist eine Chance, das wahre innere Feuer wiederzufinden -- die Leidenschaft, die dem eigenen Wesen entspringt.",
-    hay: "Louise Hay sieht hinter Erschoepfung den Glauben, nicht gut genug zu sein, und staendigen Antrieb aus Angst. Die neue Botschaft: Es ist sicher, das zu tun, was ich liebe. Mein Wert ist unabhaengig von meiner Leistung.",
-    heilweg: "Burnout ist keine Schwaeche -- es ist die radikale Ehrlichkeit deines Koerpers. Nutze diese Pause, um dich zu fragen: Was will ICH wirklich? Nicht was andere wollen, nicht was die Gesellschaft erwartet -- was ruft DICH? Baue dein Leben von innen nach aussen wieder auf. Und erlaube dir, dass Nichtstun die wichtigste Arbeit sein kann.",
+    hamer_konflikt: "Nach Hamer ist Erschöpfung ein Zeichen mehrerer gleichzeitig aktiver biologischer Konflikte, die den Organismus in permanenter Stressreaktion halten. Die Nebennierenerschöpfung zeigt die Dauer und Intensität der ungelösten Konflikte.",
+    dahlke: "Dahlke beschreibt Burnout als den Punkt, an dem das falsche Feuer erlischt. Es ist eine Chance, das wahre innere Feuer wiederzufinden, die Leidenschaft, die dem eigenen Wesen entspringt.",
+    hay: "Louise Hay sieht hinter Erschöpfung den Glauben, nicht gut genug zu sein, und ständigen Antrieb aus Angst. Die neue Botschaft: Es ist sicher, das zu tun, was ich liebe. Mein Wert ist unabhängig von meiner Leistung.",
+    heilweg: "Burnout ist keine Schwäche, es ist die radikale Ehrlichkeit deines Körpers. Nutze diese Pause, um dich zu fragen: Was will ICH wirklich? Nicht was andere wollen, nicht was die Gesellschaft erwartet, was ruft DICH? Baue dein Leben von innen nach außen wieder auf. Und erlaube dir, dass Nichtstun die wichtigste Arbeit sein kann.",
   },
 
   'migraene': {
-    kurzfassung: "Migraene ist ein innerer Blitzeinschlag -- der Koerper erzwingt den Rueckzug in die Dunkelheit und Stille.",
-    tiefe_betrachtung: `Migraene ist mehr als Kopfschmerz. Sie ist ein absoluter Shutdown: Licht unertraeglich, Geraeusche schmerzhaft, Uebelkeit, Lahmlegung. Der Koerper macht radikal dicht. Und genau das ist die Botschaft: Es ist zu viel. Zu viel Reiz, zu viel Licht (Aufmerksamkeit), zu viel Lärm (Anforderungen), zu viel, das verdaut werden muss.
+    kurzfassung: "Migräne ist ein innerer Blitzeinschlag, der Körper erzwingt den Rückzug in die Dunkelheit und Stille.",
+    tiefe_betrachtung: `Migräne ist mehr als Kopfschmerz. Sie ist ein absoluter Shutdown: Licht unerträglich, Geraeusche schmerzhaft, Übelkeit, Lahmlegung. Der Körper macht radikal dicht. Und genau das ist die Botschaft: Es ist zu viel. Zu viel Reiz, zu viel Licht (Aufmerksamkeit), zu viel Lärm (Anforderungen), zu viel, das verdaut werden muss.
 
-Migraene-Betroffene sind haeufig hochsensible, perfektionistische, leistungsorientierte Menschen. Sie haben extrem hohe Ansprueche an sich selbst, halten enormen Druck aus -- bis der Koerper den Stecker zieht. Die Migraene kommt oft am Wochenende oder im Urlaub, wenn die Anspannung nachlässt. Der Koerper hat durchgehalten und bricht nun zusammen.
+Migräne-Betroffene sind häufig hochsensible, perfektionistische, leistungsorientierte Menschen. Sie haben extrem hohe Ansprüche an sich selbst, halten enormen Druck aus, bis der Körper den Stecker zieht. Die Migräne kommt oft am Wochenende oder im Urlaub, wenn die Anspannung nachlässt. Der Körper hat durchgehalten und bricht nun zusammen.
 
-Die einseitigen Kopfschmerzen der Migraene sind ebenfalls aufschlussreich. Die rechte Seite steht fuer die maennliche, aktive, rationale Seite. Die linke Seite fuer die weibliche, intuitive, fuhlende Seite. Welche Seite schmerzt, kann Hinweise darauf geben, welcher Aspekt ueberlastet oder verdraengt ist.
+Die einseitigen Kopfschmerzen der Migräne sind ebenfalls aufschlussreich. Die rechte Seite steht für die männliche, aktive, rationale Seite. Die linke Seite für die weibliche, intuitive, fuhlende Seite. Welche Seite schmerzt, kann Hinweise darauf geben, welcher Aspekt überlastet oder verdrängt ist.
 
-Migraene ist auch ein extremes Kontrollthema. Der Mensch versucht, alles im Griff zu haben -- und die Migraene zeigt ihm, dass er letztendlich nichts im Griff hat. Sie ist die koerperliche Entsprechung des Satzes: Du musst nicht alles kontrollieren. Lass los.`,
-    koerpersymbolik: "Der Kopf steht fuer Kontrolle und Verstand. Die extremen Begleitsymptome -- Lichtempfindlichkeit, Laermempfindlichkeit, Uebelkeit -- zeigen, dass alle Sinneskanäle ueberflutet sind. Der Koerper kann die Reizflut nicht mehr verarbeiten und faehrt alle Systeme herunter.",
+Migräne ist auch ein extremes Kontrollthema. Der Mensch versucht, alles im Griff zu haben, und die Migräne zeigt ihm, dass er letztendlich nichts im Griff hat. Sie ist die körperliche Entsprechung des Satzes: Du musst nicht alles kontrollieren. Lass los.`,
+    koerpersymbolik: "Der Kopf steht für Kontrolle und Verstand. Die extremen Begleitsymptome: Lichtempfindlichkeit, Lärmempfindlichkeit, Übelkeit, zeigen, dass alle Sinneskanäle überflutet sind. Der Körper kann die Reizflut nicht mehr verarbeiten und fährt alle Systeme herunter.",
     kernfragen: [
-      "Was ueberfordert mich, das ich mir nicht eingestehen will?",
-      "Wo setze ich mich selbst unter unertraeglichen Druck?",
-      "Welche Seite meines Lebens (aktiv/rezeptiv) wird vernachlaessigt?",
-      "Erlaube ich mir Rueckzug nur in der totalen Lahmlegung?",
-      "Was muesste sich veraendern, damit ich freiwillig Pause mache?",
-      "Welche Reize von aussen sind mir zu viel?",
+      "Was überfordert mich, das ich mir nicht eingestehen will?",
+      "Wo setze ich mich selbst unter unerträglichen Druck?",
+      "Welche Seite meines Lebens (aktiv/rezeptiv) wird vernachlässigt?",
+      "Erlaube ich mir Rückzug nur in der totalen Lahmlegung?",
+      "Was müsste sich verändern, damit ich freiwillig Pause mache?",
+      "Welche Reize von außen sind mir zu viel?",
     ],
-    hamer_konflikt: "Nach Hamer stehen Migraenen in Zusammenhang mit einem intellektuellen Selbstwert-Konflikt oder einem Revierkonflikt. Der starke Kopfschmerz tritt in der Heilungsphase auf, wenn die Hirnregion des geloesten Konflikts ein Oedem bildet.",
-    dahlke: "Dahlke sieht Migraene als den Versuch des Koerpers, den 'Kopfmenschen' in die Dunkelheit und Stille zu zwingen -- dorthin, wo Fuehlen statt Denken stattfinden kann.",
-    hay: "Louise Hay beschreibt das Muster als Widerstand gegen den Fluss des Lebens und sexuelle Aengste. Die neue Botschaft: Ich entspanne mich in den Fluss des Lebens und lasse es mir leicht und muehelos alles geben, was ich brauche.",
-    heilweg: "Hoere auf die Migraene, bevor sie kommt. Lerne deine Vorboten kennen und gib dir DANN Rueckzug -- nicht erst, wenn der Schmerz da ist. Reduziere Reize bewusst und regelmaessig. Frage dich: Was waere, wenn ich nicht perfekt sein muesste? Was waere, wenn 80 Prozent reichen? Und erlaube deinem Kopf, auch mal Pause zu machen.",
+    hamer_konflikt: "Nach Hamer stehen Migränen in Zusammenhang mit einem intellektuellen Selbstwert-Konflikt oder einem Revierkonflikt. Der starke Kopfschmerz tritt in der Heilungsphase auf, wenn die Hirnregion des gelösten Konflikts ein Ödem bildet.",
+    dahlke: "Dahlke sieht Migräne als den Versuch des Körpers, den 'Kopfmenschen' in die Dunkelheit und Stille zu zwingen, dorthin, wo Fühlen statt Denken stattfinden kann.",
+    hay: "Louise Hay beschreibt das Muster als Widerstand gegen den Fluss des Lebens und sexuelle Ängste. Die neue Botschaft: Ich entspanne mich in den Fluss des Lebens und lasse es mir leicht und mühelos alles geben, was ich brauche.",
+    heilweg: "Höre auf die Migräne, bevor sie kommt. Lerne deine Vorboten kennen und gib dir DANN Rückzug, nicht erst, wenn der Schmerz da ist. Reduziere Reize bewusst und regelmäßig. Frage dich: Was wäre, wenn ich nicht perfekt sein müsste? Was wäre, wenn 80 Prozent reichen? Und erlaube deinem Kopf, auch mal Pause zu machen.",
   },
 
   'asthma': {
-    kurzfassung: "Asthma ist der Schrei nach Raum und Freiheit -- wer nicht frei atmen kann, lebt in einer Enge.",
-    tiefe_betrachtung: `Atmen ist Leben. Der erste Atemzug markiert den Beginn unseres irdischen Daseins, der letzte das Ende. Wer nicht frei atmen kann, dessen Leben ist auf fundamentale Weise eingeschraenkt. Asthma fragt: Wo raubst du dir selbst -- oder wird dir -- der Atem genommen?
+    kurzfassung: "Asthma ist der Schrei nach Raum und Freiheit, wer nicht frei atmen kann, lebt in einer Enge.",
+    tiefe_betrachtung: `Atmen ist Leben. Der erste Atemzug markiert den Beginn unseres irdischen Daseins, der letzte das Ende. Wer nicht frei atmen kann, dessen Leben ist auf fundamentale Weise eingeschränkt. Asthma fragt: Wo raubst du dir selbst, oder wird dir, der Atem genommen?
 
-Bei Asthma ist vor allem das Ausatmen betroffen. Die Bronchien verengen sich, die Luft kann nicht richtig heraus. Symbolisch bedeutet das: Der Mensch nimmt auf (einatmen), aber gibt nicht ab (ausatmen). Er haelt fest -- Luft, Kontrolle, Emotionen. Die Angst zu ersticken ist die Angst, die Kontrolle zu verlieren, wenn man loslaesst.
+Bei Asthma ist vor allem das Ausatmen betroffen. Die Bronchien verengen sich, die Luft kann nicht richtig heraus. Symbolisch bedeutet das: Der Mensch nimmt auf (einatmen), aber gibt nicht ab (ausatmen). Er hält fest: Luft, Kontrolle, Emotionen. Die Angst zu ersticken ist die Angst, die Kontrolle zu verlieren, wenn man loslässt.
 
-Asthma beginnt haeufig in der Kindheit und haengt oft mit der Beziehung zur Mutter zusammen -- mit Erstickung durch zu viel Naehe oder Erstickung durch zu wenig Raum. Das Kind konnte nicht frei atmen, weil es emotional eingeengt oder ueberbehuetet wurde. Die Autonomie wurde erstickt, und der Koerper inszeniert dieses Muster im Asthmaanfall immer wieder.
+Asthma beginnt häufig in der Kindheit und hängt oft mit der Beziehung zur Mutter zusammen, mit Erstickung durch zu viel Nähe oder Erstickung durch zu wenig Raum. Das Kind konnte nicht frei atmen, weil es emotional eingeengt oder überbehütet wurde. Die Autonomie wurde erstickt, und der Körper inszeniert dieses Muster im Asthmaanfall immer wieder.
 
-Der Asthmaanfall selbst ist ein paradoxes Hilfeschrei: Man kann nicht mehr atmen, was sofort Aufmerksamkeit und Zuwendung erzeugt. Der Koerper hat gelernt, dass Atemnot Naehe bringt -- die Naehe, die auf normalem Weg nicht erreichbar scheint.`,
-    koerpersymbolik: "Die Lunge symbolisiert die Faehigkeit, das Leben aufzunehmen (Einatmung) und wieder abzugeben (Ausatmung) -- den Rhythmus von Nehmen und Geben. Die Bronchien stehen fuer den persoenlichen Lebensraum, das eigene Revier. Asthma zeigt, dass dieser Raum bedroht oder eingeengt ist.",
+Der Asthmaanfall selbst ist ein paradoxes Hilfeschrei: Man kann nicht mehr atmen, was sofort Aufmerksamkeit und Zuwendung erzeugt. Der Körper hat gelernt, dass Atemnot Nähe bringt, die Nähe, die auf normalem Weg nicht erreichbar scheint.`,
+    koerpersymbolik: "Die Lunge symbolisiert die Fähigkeit, das Leben aufzunehmen (Einatmung) und wieder abzugeben (Ausatmung), den Rhythmus von Nehmen und Geben. Die Bronchien stehen für den persönlichen Lebensraum, das eigene Revier. Asthma zeigt, dass dieser Raum bedroht oder eingeengt ist.",
     kernfragen: [
-      "Wo fuehle ich mich eingeengt, erstickt, ohne Luft?",
-      "Was halte ich fest, statt es frei fliessen zu lassen?",
-      "Wie war meine fruehe Beziehung zur Mutter -- zu viel Naehe oder zu wenig Raum?",
+      "Wo fühle ich mich eingeengt, erstickt, ohne Luft?",
+      "Was halte ich fest, statt es frei fließen zu lassen?",
+      "Wie war meine frühe Beziehung zur Mutter, zu viel Nähe oder zu wenig Raum?",
       "Erlaube ich mir, meinen eigenen Raum einzunehmen?",
-      "Was wuerde passieren, wenn ich tief ausatme und alles loslasse?",
+      "Was würde passieren, wenn ich tief ausatme und alles loslasse?",
     ],
-    hamer_konflikt: "Nach Hamer steht Asthma fuer einen Revierangst-Konflikt (Bronchien) -- die Angst, den eigenen Lebensraum zu verlieren. In der Heilungsphase schwillt die Bronchialschleimhaut an und verengt die Atemwege.",
-    dahlke: "Dahlke sieht Asthma als die Unfaehigkeit, den eigenen Lebensraum zu beanspruchen. Der Asthmatiker nimmt zu viel auf (Einatmen) und gibt zu wenig ab (Ausatmen) -- er haelt das Leben fest, statt es fliessen zu lassen.",
-    hay: "Louise Hay beschreibt Asthma als erstickende Liebe und Unfaehigkeit, fuer sich selbst zu atmen. Die neue Botschaft: Es ist sicher, erwachsen zu werden. Ich uebernehme jetzt die Verantwortung fuer mein eigenes Leben. Ich bin frei.",
-    heilweg: "Lerne bewusst auszuatmen -- koerperlich und symbolisch. Was kannst du loslassen? Wo kannst du deinen eigenen Raum beanspruchen? Ueberprüfe deine fruehen Bindungsmuster und frage dich, ob du heute noch in alten Erstickungsmustern lebst. Jeder freie Atemzug ist ein Akt der Selbstbefreiung.",
+    hamer_konflikt: "Nach Hamer steht Asthma für einen Revierangst-Konflikt (Bronchien), die Angst, den eigenen Lebensraum zu verlieren. In der Heilungsphase schwillt die Bronchialschleimhaut an und verengt die Atemwege.",
+    dahlke: "Dahlke sieht Asthma als die Unfähigkeit, den eigenen Lebensraum zu beanspruchen. Der Asthmatiker nimmt zu viel auf (Einatmen) und gibt zu wenig ab (Ausatmen), er hält das Leben fest, statt es fließen zu lassen.",
+    hay: "Louise Hay beschreibt Asthma als erstickende Liebe und Unfähigkeit, für sich selbst zu atmen. Die neue Botschaft: Es ist sicher, erwachsen zu werden. Ich übernehme jetzt die Verantwortung für mein eigenes Leben. Ich bin frei.",
+    heilweg: "Lerne bewusst auszuatmen, körperlich und symbolisch. Was kannst du loslassen? Wo kannst du deinen eigenen Raum beanspruchen? Überprüfe deine frühen Bindungsmuster und frage dich, ob du heute noch in alten Erstickungsmustern lebst. Jeder freie Atemzug ist ein Akt der Selbstbefreiung.",
   },
 
   'leber': {
-    kurzfassung: "Die Leber ist das Organ des Zorns und der Lebensvision -- Leberprobleme zeigen unterdrueckte Wut und verlorene Lebensrichtung.",
-    tiefe_betrachtung: `Die Leber ist das groesste innere Organ und ein wahres Kraftwerk. Sie filtert, entgiftet, speichert, produziert -- sie leistet unglaubliche Arbeit, meist ohne dass wir es bemerken. In der traditionellen chinesischen Medizin ist die Leber dem Element Holz und der Emotion Wut zugeordnet. Leberprobleme zeigen fast immer einen Zusammenhang mit unterdruecktem Zorn.
+    kurzfassung: "Die Leber ist das Organ des Zorns und der Lebensvision: Leberprobleme zeigen unterdrückte Wut und verlorene Lebensrichtung.",
+    tiefe_betrachtung: `Die Leber ist das größte innere Organ und ein wahres Kraftwerk. Sie filtert, entgiftet, speichert, produziert, sie leistet unglaubliche Arbeit, meist ohne dass wir es bemerken. In der traditionellen chinesischen Medizin ist die Leber dem Element Holz und der Emotion Wut zugeordnet. Leberprobleme zeigen fast immer einen Zusammenhang mit unterdrücktem Zorn.
 
-Die Leber ist auch das Organ der Vision und der Zukunftsplanung. Im Chinesischen heisst es: Die Leber entwirft den Lebensplan. Wenn sie erkrankt, ist auch die Lebensplanung gestört -- man hat die Richtung verloren, sieht keinen Weg mehr, hat die Vision fuer das eigene Leben aufgegeben.
+Die Leber ist auch das Organ der Vision und der Zukunftsplanung. Im Chinesischen heißt es: Die Leber entwirft den Lebensplan. Wenn sie erkrankt, ist auch die Lebensplanung gestört, man hat die Richtung verloren, sieht keinen Weg mehr, hat die Vision für das eigene Leben aufgegeben.
 
-Menschen mit Leberproblemen haben haeufig zu viel geschluckt -- nicht nur falsche Nahrung oder Alkohol, sondern auch aergerliche Situationen, Ungerechtigkeiten, Kraenkungen. Die Leber musste zu viele Gifte verarbeiten, koerperliche wie emotionale. Irgendwann ist ihre Kapazitaet erschoepft.
+Menschen mit Leberproblemen haben häufig zu viel geschluckt, nicht nur falsche Nahrung oder Alkohol, sondern auch ärgerliche Situationen, Ungerechtigkeiten, Kränkungen. Die Leber musste zu viele Gifte verarbeiten, körperliche wie emotionale. Irgendwann ist ihre Kapazität erschöpft.
 
-Auch Uebermaass in jeder Form belastet die Leber: zu viel Essen, zu viel Alkohol, zu viel Arbeit, zu viel Aerger, zu viel von allem. Die Leber fragt: Wo ist das Mass? Wo ist die Balance? Und: Lebst du dein Leben oder ueberlebst du nur?`,
-    koerpersymbolik: "Die Leber symbolisiert Lebensenergie, Vision und die Faehigkeit, Giftiges in Brauchbares umzuwandeln. Sie ist das Organ der Transformation. Leberprobleme zeigen, dass die Transformationskraft erschoepft ist -- zu viele Gifte, zu viel Wut, zu wenig Lebensfreude.",
+Auch Übermaass in jeder Form belastet die Leber: zu viel Essen, zu viel Alkohol, zu viel Arbeit, zu viel Ärger, zu viel von allem. Die Leber fragt: Wo ist das Maß? Wo ist die Balance? Und: Lebst du dein Leben oder überlebst du nur?`,
+    koerpersymbolik: "Die Leber symbolisiert Lebensenergie, Vision und die Fähigkeit, Giftiges in Brauchbares umzuwandeln. Sie ist das Organ der Transformation. Leberprobleme zeigen, dass die Transformationskraft erschöpft ist, zu viele Gifte, zu viel Wut, zu wenig Lebensfreude.",
     kernfragen: [
       "Welche Wut trage ich in mir, die keinen Ausdruck findet?",
-      "Habe ich eine klare Vision fuer mein Leben?",
-      "Was 'vergifte' ich mich -- durch Substanzen, Situationen, Beziehungen?",
-      "Wo lebe ich im Uebermaass statt in Balance?",
+      "Habe ich eine klare Vision für mein Leben?",
+      "Was 'vergifte' ich mich, durch Substanzen, Situationen, Beziehungen?",
+      "Wo lebe ich im Übermaass statt in Balance?",
       "Welche Ungerechtigkeit habe ich nie verarbeitet?",
     ],
-    hamer_konflikt: "Nach Hamer stehen Leberprobleme in Zusammenhang mit einem Existenzangst-Konflikt (Verhungerungsangst) -- die Angst, nicht genug zu bekommen, nicht versorgt zu sein. Die Leber waechst, um mehr Naehrstoffe verarbeiten zu koennen.",
-    dahlke: "Dahlke sieht die Leber als Sitz der Lebensbewertung. Sie entscheidet, was nuetzlich und was giftig ist. Lebererkrankungen zeigen, dass diese Bewertungsfaehigkeit ueberlastet ist -- im Koerper wie im Leben.",
-    hay: "Louise Hay ordnet der Leber chronische Beschwerden, Selbstbetrug und Wut zu. Die neue Botschaft: Ich entscheide mich, durch den offenen Raum meines Herzens zu leben. Ich suche die Liebe und finde sie ueberall.",
-    heilweg: "Gib deiner Wut einen gesunden Ausdruck -- sie ist eine kraftvolle Energie, die Veraenderung bewirken kann. Reduziere bewusst die Gifte in deinem Leben -- nicht nur Alkohol und Zucker, sondern auch toxische Situationen und Beziehungen. Finde deine Vision wieder: Was will dein Leben von dir?",
+    hamer_konflikt: "Nach Hamer stehen Leberprobleme in Zusammenhang mit einem Existenzangst-Konflikt (Verhungerungsangst), die Angst, nicht genug zu bekommen, nicht versorgt zu sein. Die Leber wächst, um mehr Nährstoffe verarbeiten zu können.",
+    dahlke: "Dahlke sieht die Leber als Sitz der Lebensbewertung. Sie entscheidet, was nützlich und was giftig ist. Lebererkrankungen zeigen, dass diese Bewertungsfähigkeit überlastet ist, im Körper wie im Leben.",
+    hay: "Louise Hay ordnet der Leber chronische Beschwerden, Selbstbetrug und Wut zu. Die neue Botschaft: Ich entscheide mich, durch den offenen Raum meines Herzens zu leben. Ich suche die Liebe und finde sie überall.",
+    heilweg: "Gib deiner Wut einen gesunden Ausdruck, sie ist eine kraftvolle Energie, die Veränderung bewirken kann. Reduziere bewusst die Gifte in deinem Leben, nicht nur Alkohol und Zucker, sondern auch toxische Situationen und Beziehungen. Finde deine Vision wieder: Was will dein Leben von dir?",
   },
 
   'tinnitus': {
-    kurzfassung: "Tinnitus ist das innere Rauschen, das hoerbar wird, wenn man die aeussere Stille nicht ertraegt.",
-    tiefe_betrachtung: `Das Ohr hoert nach aussen und nach innen. Tinnitus -- das staendige Pfeifen, Rauschen oder Klingeln -- ist ein Geraeusch ohne aeussere Quelle. Der Koerper erzeugt sein eigenes Geraeusch. Die Frage lautet: Was will gehoert werden, das von aussen nicht kommt? Oder: Was von aussen will man nicht mehr hoeren?
+    kurzfassung: "Tinnitus ist das innere Rauschen, das hörbar wird, wenn man die aeussere Stille nicht erträgt.",
+    tiefe_betrachtung: `Das Ohr hört nach außen und nach innen. Tinnitus, das ständige Pfeifen, Rauschen oder Klingeln, ist ein Geraeusch ohne aeussere Quelle. Der Körper erzeugt sein eigenes Geraeusch. Die Frage lautet: Was will gehört werden, das von außen nicht kommt? Oder: Was von außen will man nicht mehr hören?
 
-Tinnitus tritt haeufig nach Phasen extremer Ueberreizung auf oder nach einem Schockerlebnis. Das Ohr hat buchstaeblich zu viel gehoert -- zu viel Laerm, zu viel Gerede, zu viele Anforderungen -- und schaltet auf inneres Rauschen um, als wolle es die Aussenwelt uebertönen. Es ist, als wuerde der Koerper sagen: Wenn du nicht freiwillig Stille suchst, erzeuge ich mein eigenes Geraeusch, das alles andere uebertönt.
+Tinnitus tritt häufig nach Phasen extremer Überreizung auf oder nach einem Schockerlebnis. Das Ohr hat buchstäblich zu viel gehört, zu viel Lärm, zu viel Gerede, zu viele Anforderungen, und schaltet auf inneres Rauschen um, als wolle es die Außenwelt übertönen. Es ist, als würde der Körper sagen: Wenn du nicht freiwillig Stille suchst, erzeuge ich mein eigenes Geraeusch, das alles andere übertönt.
 
-Tinnitus kann auch ein Zeichen dafuer sein, dass man einer inneren Stimme nicht zuhoert. Das eigene Bauchgefuehl, die Intuition, die leise Wahrheit -- sie wurde so oft ueberhoert, dass der Koerper sie verstaerkt. Das Pfeifen ist dann ein Alarm: Hoer endlich hin! Nicht nach aussen, sondern nach innen.
+Tinnitus kann auch ein Zeichen dafür sein, dass man einer inneren Stimme nicht zuhört. Das eigene Bauchgefühl, die Intuition, die leise Wahrheit, sie wurde so oft überhört, dass der Körper sie verstärkt. Das Pfeifen ist dann ein Alarm: Hör endlich hin! Nicht nach außen, sondern nach innen.
 
-Auch Kontrollthemen spielen eine Rolle. Wer Tinnitus hat, kann die Stille nicht mehr kontrollieren. Es ist immer ein Geraeusch da, das sich nicht abstellen laesst. Fuer kontrollbetonte Menschen ist das eine enorme Herausforderung -- und vielleicht genau darin liegt die Lektion: Nicht alles laesst sich kontrollieren. Manchmal muss man mit dem Rauschen des Lebens Frieden schliessen.`,
-    koerpersymbolik: "Die Ohren symbolisieren die Faehigkeit zuzuhoeren -- sich selbst, anderen, dem Leben. Tinnitus zeigt eine Stoerung im Zuhoeren: entweder wurde zu viel von aussen aufgenommen oder zu wenig nach innen gehoert. Das innere Geraeusch ist ein Ruf nach Balance zwischen Innen und Aussen.",
+Auch Kontrollthemen spielen eine Rolle. Wer Tinnitus hat, kann die Stille nicht mehr kontrollieren. Es ist immer ein Geraeusch da, das sich nicht abstellen lässt. Für kontrollbetonte Menschen ist das eine enorme Herausforderung, und vielleicht genau darin liegt die Lektion: Nicht alles lässt sich kontrollieren. Manchmal muss man mit dem Rauschen des Lebens Frieden schließen.`,
+    koerpersymbolik: "Die Ohren symbolisieren die Fähigkeit zuzuhören, sich selbst, anderen, dem Leben. Tinnitus zeigt eine Störung im Zuhören: entweder wurde zu viel von außen aufgenommen oder zu wenig nach innen gehört. Das innere Geraeusch ist ein Ruf nach Balance zwischen Innen und Außen.",
     kernfragen: [
-      "Was will ich nicht mehr hoeren?",
-      "Welche innere Stimme ueberhöre ich seit langem?",
+      "Was will ich nicht mehr hören?",
+      "Welche innere Stimme überhöre ich seit langem?",
       "Wo ist es in meinem Leben zu laut geworden?",
-      "Kann ich Stille ertragen -- oder brauche ich staendig Ablenkung?",
-      "Was wuerde ich hoeren, wenn das Rauschen weg waere?",
+      "Kann ich Stille ertragen, oder brauche ich ständig Ablenkung?",
+      "Was würde ich hören, wenn das Rauschen weg wäre?",
     ],
-    hamer_konflikt: "Nach Hamer entsteht Tinnitus durch einen Hoer-Konflikt -- etwas Bestimmtes nicht hoeren wollen oder etwas unbedingt hoeren wollen (z.B. 'Ich kann das nicht mehr hoeren' oder 'Das darf nicht wahr sein'). Der Tinnitus tritt in der Heilungsphase auf.",
-    dahlke: "Dahlke sieht Tinnitus als die innere Stimme, die laut wird, weil sie so lange ueberhört wurde. Das Ohr erzeugt sein eigenes Geraeusch, um die Aufmerksamkeit nach innen zu lenken.",
-    hay: "Louise Hay beschreibt das Muster als Weigerung zuzuhoeren und Sturheit. Die neue Botschaft: Ich vertraue meiner hoeheren Fuehrung. Ich hoere liebevoll auf meine innere Stimme. Ich lasse los.",
-    heilweg: "Beginne, bewusst nach innen zu hoeren. Meditation, Stille, Naturgeraeusche -- gib deinen Ohren Erholung von dem Laerm des Alltags. Frage dich, welche innere Wahrheit gehoert werden will. Und uebe dich in der Annahme: Der Tinnitus ist nicht dein Feind, sondern ein Bote. Was hat er dir zu sagen?",
+    hamer_konflikt: "Nach Hamer entsteht Tinnitus durch einen Hör-Konflikt, etwas Bestimmtes nicht hören wollen oder etwas unbedingt hören wollen (z.B. 'Ich kann das nicht mehr hören' oder 'Das darf nicht wahr sein'). Der Tinnitus tritt in der Heilungsphase auf.",
+    dahlke: "Dahlke sieht Tinnitus als die innere Stimme, die laut wird, weil sie so lange überhört wurde. Das Ohr erzeugt sein eigenes Geraeusch, um die Aufmerksamkeit nach innen zu lenken.",
+    hay: "Louise Hay beschreibt das Muster als Weigerung zuzuhören und Sturheit. Die neue Botschaft: Ich vertraue meiner höheren Führung. Ich höre liebevoll auf meine innere Stimme. Ich lasse los.",
+    heilweg: "Beginne, bewusst nach innen zu hören. Meditation, Stille, Naturgeraeusche, gib deinen Ohren Erholung von dem Lärm des Alltags. Frage dich, welche innere Wahrheit gehört werden will. Und übe dich in der Annahme: Der Tinnitus ist nicht dein Feind, sondern ein Bote. Was hat er dir zu sagen?",
   },
 
   'candida': {
-    kurzfassung: "Candida zeigt innere Gaerung -- etwas in dir gaert, gaert und gaert, weil es nicht ausgedrueckt werden kann.",
-    tiefe_betrachtung: `Candida ist ein Hefepilz, der natuerlich im Koerper vorkommt. Er wird erst dann zum Problem, wenn er sich unkontrolliert ausbreitet -- und das geschieht, wenn das innere Milieu aus dem Gleichgewicht geraten ist. Symbolisch steht Candida fuer eine innere Gaerung: Etwas brodelt, fault, zersetzt sich, weil es nicht verdaut oder ausgedrueckt werden konnte.
+    kurzfassung: "Candida zeigt innere Gärung, etwas in dir gärt, gärt und gärt, weil es nicht ausgedrückt werden kann.",
+    tiefe_betrachtung: `Candida ist ein Hefepilz, der natürlich im Körper vorkommt. Er wird erst dann zum Problem, wenn er sich unkontrolliert ausbreitet, und das geschieht, wenn das innere Milieu aus dem Gleichgewicht geraten ist. Symbolisch steht Candida für eine innere Gärung: Etwas brodelt, fault, zersetzt sich, weil es nicht verdaut oder ausgedrückt werden konnte.
 
-Candida ernaehrt sich von Zucker. Menschen mit Candida-Problemen haben oft ein starkes Verlangen nach Suessem -- nach der Suesse des Lebens, nach Liebe, nach Trost. Aber der Pilz nimmt sich den Zucker, bevor der Koerper ihn verwerten kann. Es ist, als gaebe es einen inneren Parasiten, der die Lebensfreude frisst. Die Frage ist: Was oder wer zehrt an meiner Lebensenergie?
+Candida ernährt sich von Zucker. Menschen mit Candida-Problemen haben oft ein starkes Verlangen nach Süßem, nach der Süße des Lebens, nach Liebe, nach Trost. Aber der Pilz nimmt sich den Zucker, bevor der Körper ihn verwerten kann. Es ist, als gäbe es einen inneren Parasiten, der die Lebensfreude frisst. Die Frage ist: Was oder wer zehrt an meiner Lebensenergie?
 
-Auch das Thema Grenzen spielt eine Rolle. Candida breitet sich aus, wenn das Immunsystem -- die innere Abwehr -- geschwaeecht ist. Wer seine Grenzen nicht verteidigen kann, bei dem breiten sich auch die inneren 'Eindringlinge' aus. Candida zeigt: Dein inneres Milieu braucht Pflege, Achtsamkeit und klare Grenzen.
+Auch das Thema Grenzen spielt eine Rolle. Candida breitet sich aus, wenn das Immunsystem, die innere Abwehr, geschwäecht ist. Wer seine Grenzen nicht verteidigen kann, bei dem breiten sich auch die inneren 'Eindringlinge' aus. Candida zeigt: Dein inneres Milieu braucht Pflege, Achtsamkeit und klare Grenzen.
 
-Die Tatsache, dass Candida ein natuerlicher Bewohner des Koerpers ist, der zum Problem wird, ist bedeutsam. Es ist nicht etwas Fremdes von aussen, sondern etwas Eigenes, das aus dem Gleichgewicht geraten ist. Die Frage ist nicht 'Wie werde ich es los?', sondern 'Was hat das Gleichgewicht gestoert?'`,
-    koerpersymbolik: "Der Darm, in dem Candida typischerweise wuchert, symbolisiert die tiefe Verarbeitung und Assimilation. Ein gestörtes Darmmilieu zeigt, dass die Faehigkeit, das Leben zu verdauen und Nuetzliches von Unnuetzem zu trennen, geschwächt ist. Der Pilz als Zersetzer weist auf Zersetzungsprozesse auf seelischer Ebene hin.",
+Die Tatsache, dass Candida ein natürlicher Bewohner des Körpers ist, der zum Problem wird, ist bedeutsam. Es ist nicht etwas Fremdes von außen, sondern etwas Eigenes, das aus dem Gleichgewicht geraten ist. Die Frage ist nicht 'Wie werde ich es los?', sondern 'Was hat das Gleichgewicht gestört?'`,
+    koerpersymbolik: "Der Darm, in dem Candida typischerweise wuchert, symbolisiert die tiefe Verarbeitung und Assimilation. Ein gestörtes Darmmilieu zeigt, dass die Fähigkeit, das Leben zu verdauen und Nützliches von Unnützem zu trennen, geschwächt ist. Der Pilz als Zersetzer weist auf Zersetzungsprozesse auf seelischer Ebene hin.",
     kernfragen: [
-      "Was gaert in mir, das nicht ausgedrueckt werden kann?",
+      "Was gärt in mir, das nicht ausgedrückt werden kann?",
       "Wer oder was zehrt an meiner Lebensenergie?",
-      "Suche ich Trost im Suessen, statt die wahre Suesse des Lebens zu finden?",
-      "Wo habe ich meine inneren Grenzen nicht gut genug geschuetzt?",
-      "Was hat mein inneres Gleichgewicht gestoert?",
+      "Suche ich Trost im Süßen, statt die wahre Süße des Lebens zu finden?",
+      "Wo habe ich meine inneren Grenzen nicht gut genug geschützt?",
+      "Was hat mein inneres Gleichgewicht gestört?",
     ],
-    hamer_konflikt: "Nach Hamer haben Pilze die biologische Funktion, in der Heilungsphase abgestorbenes Gewebe abzubauen. Candidawachstum kann daher ein Zeichen sein, dass der Koerper einen Heilungsprozess durchlaeuft und altes, nicht mehr benoetigtes Gewebe abgebaut wird.",
-    dahlke: "Dahlke sieht Pilzerkrankungen als Zeichen innerer Faeulnis -- etwas im Leben wird nicht aufgeraeumt, nicht verarbeitet, und beginnt zu gaeren. Der Pilz macht sichtbar, was im Verborgenen vor sich hin fault.",
+    hamer_konflikt: "Nach Hamer haben Pilze die biologische Funktion, in der Heilungsphase abgestorbenes Gewebe abzubauen. Candidawachstum kann daher ein Zeichen sein, dass der Körper einen Heilungsprozess durchläuft und altes, nicht mehr benötigtes Gewebe abgebaut wird.",
+    dahlke: "Dahlke sieht Pilzerkrankungen als Zeichen innerer Fäulnis, etwas im Leben wird nicht aufgeraeumt, nicht verarbeitet, und beginnt zu gären. Der Pilz macht sichtbar, was im Verborgenen vor sich hin fault.",
     hay: "Louise Hay ordnet Pilzerkrankungen dem Gefühl der Frustration, Wut und mangelndem Vertrauen zu. Die neue Botschaft: Ich verdiene alles Gute im Leben. Ich akzeptiere und erschaffe einen wunderbaren neuen Tag.",
-    heilweg: "Bringe dein inneres Milieu wieder ins Gleichgewicht -- nicht nur durch Ernaehrung, sondern durch seelische Hygiene. Was 'gaert' in dir? Sprich es aus, schreibe es auf, bringe es ans Licht. Staerke deine Grenzen und dein Immunsystem durch Selbstfuersorge. Und frage dich: Naehre ich mich wirklich -- oder fuettere ich nur den Pilz?",
+    heilweg: "Bringe dein inneres Milieu wieder ins Gleichgewicht, nicht nur durch Ernährung, sondern durch seelische Hygiene. Was 'gärt' in dir? Sprich es aus, schreibe es auf, bringe es ans Licht. Stärke deine Grenzen und dein Immunsystem durch Selbstfürsorge. Und frage dich: Nähre ich mich wirklich, oder füttere ich nur den Pilz?",
   },
 
   'uebergewicht': {
-    kurzfassung: "Uebergewicht ist sichtbarer Schutz -- der Koerper baut eine Pufferzone zwischen sich und der Welt.",
-    tiefe_betrachtung: `Uebergewicht ist selten nur ein Ernaehrungsproblem. Es ist ein Schutzprogramm des Koerpers. Die zusätzliche Koerpermasse bildet eine Pufferzone, eine Schutzschicht zwischen dem verletzlichen Inneren und der bedrohlichen Aussenwelt. Der Koerper macht sich groesser, schwerer, stabiler -- um sich sicherer zu fuehlen.
+    kurzfassung: "Übergewicht ist sichtbarer Schutz, der Körper baut eine Pufferzone zwischen sich und der Welt.",
+    tiefe_betrachtung: `Übergewicht ist selten nur ein Ernährungsproblem. Es ist ein Schutzprogramm des Körpers. Die zusätzliche Körpermasse bildet eine Pufferzone, eine Schutzschicht zwischen dem verletzlichen Inneren und der bedrohlichen Außenwelt. Der Körper macht sich größer, schwerer, stabiler, um sich sicherer zu fühlen.
 
-Die Frage 'Was fuellst du auf?' ist zentral. Viele Menschen mit Uebergewicht fuellen mit Essen eine innere Leere -- mangelnde Liebe, fehlende Geborgenheit, ungestillte emotionale Beduerfnisse. Das Essen wird zum Ersatz fuer das, was wirklich fehlt. Es tröstet momentan, aber es fuellt nicht wirklich. Und so wird immer mehr gebraucht.
+Die Frage 'Was füllst du auf?' ist zentral. Viele Menschen mit Übergewicht füllen mit Essen eine innere Leere, mangelnde Liebe, fehlende Geborgenheit, ungestillte emotionale Bedürfnisse. Das Essen wird zum Ersatz für das, was wirklich fehlt. Es tröstet momentan, aber es füllt nicht wirklich. Und so wird immer mehr gebraucht.
 
-Auch das Thema Praesenz spielt eine Rolle. Wer Uebergewicht hat, nimmt mehr Raum ein -- vielleicht weil er sich sonst nicht gesehen fuehlt. Oder umgekehrt: Er versteckt sich hinter dem Gewicht, weil er sich nicht zeigen will, wie er wirklich ist. Die Fett-Schicht ist dann wie eine Tarnkappe, die das wahre Selbst verbirgt.
+Auch das Thema Präsenz spielt eine Rolle. Wer Übergewicht hat, nimmt mehr Raum ein, vielleicht weil er sich sonst nicht gesehen fühlt. Oder umgekehrt: Er versteckt sich hinter dem Gewicht, weil er sich nicht zeigen will, wie er wirklich ist. Die Fett-Schicht ist dann wie eine Tarnkappe, die das wahre Selbst verbirgt.
 
-Frauen, die sexuellen Uebergriff erfahren haben, entwickeln haeufig Uebergewicht als unbewussten Schutz -- der Koerper wird unattraktiv gemacht, um nicht mehr als sexuelles Objekt wahrgenommen zu werden. In solchen Faellen ist das Uebergewicht keine Schwaeche, sondern eine erstaunliche Schutzleistung der Psyche.`,
-    koerpersymbolik: "Fettgewebe symbolisiert Schutz, Isolation und gespeicherte Energie. Es ist die koerperliche Manifestation von zurueckgehaltener Lebensenergie -- Gefuehle, die nicht gelebt, Impulse, die nicht ausgelebt, Potenziale, die nicht verwirklicht wurden. Der Koerper speichert, was nicht zum Ausdruck kommt.",
+Frauen, die sexuellen Übergriff erfahren haben, entwickeln häufig Übergewicht als unbewussten Schutz, der Körper wird unattraktiv gemacht, um nicht mehr als sexuelles Objekt wahrgenommen zu werden. In solchen Fällen ist das Übergewicht keine Schwäche, sondern eine erstaunliche Schutzleistung der Psyche.`,
+    koerpersymbolik: "Fettgewebe symbolisiert Schutz, Isolation und gespeicherte Energie. Es ist die körperliche Manifestation von zurückgehaltener Lebensenergie: Gefühle, die nicht gelebt, Impulse, die nicht ausgelebt, Potenziale, die nicht verwirklicht wurden. Der Körper speichert, was nicht zum Ausdruck kommt.",
     kernfragen: [
-      "Was fuellst du auf, das eigentlich kein Essen braucht?",
-      "Wovor schuetzt dich das zusaetzliche Gewicht?",
-      "Welche innere Leere versuchst du zu fuellen?",
-      "Fuehlst du dich sicher genug, dich zu zeigen, wie du wirklich bist?",
-      "Was wuerde sich veraendern, wenn du dich nicht mehr verstecken muestest?",
-      "Welches Gefuehl kommt hoch, kurz bevor du isst, obwohl du keinen Hunger hast?",
+      "Was füllst du auf, das eigentlich kein Essen braucht?",
+      "Wovor schützt dich das zusätzliche Gewicht?",
+      "Welche innere Leere versuchst du zu füllen?",
+      "Fühlst du dich sicher genug, dich zu zeigen, wie du wirklich bist?",
+      "Was würde sich verändern, wenn du dich nicht mehr verstecken müstest?",
+      "Welches Gefühl kommt hoch, kurz bevor du isst, obwohl du keinen Hunger hast?",
     ],
-    hamer_konflikt: "Nach Hamer dient die Fetteinlagerung haeufig als biologisches Programm der Wasserretention bei einem Fluechtlings- oder Existenzkonflikt -- der Koerper speichert Reserven fuer den Notfall. Auch ein Nicht-schoen-genug-Konflikt kann die Fettspeicherung aktivieren.",
-    dahlke: "Dahlke sieht Uebergewicht als koerperlichen Ausdruck von Schutzbedürfnis und ungestilltem Hunger nach Liebe. Die Fettpolster sind Puffer gegen eine Welt, die als bedrohlich empfunden wird.",
-    hay: "Louise Hay beschreibt das Muster als Angst, Schutzbedürfnis und das Ueberdecken von Gefuehlen. Die neue Botschaft: Ich bin in Sicherheit, wo ich bin. Ich erschaffe meine eigene Sicherheit. Ich liebe und akzeptiere mich.",
-    heilweg: "Hoere auf, gegen dein Gewicht zu kaempfen, und beginne, es zu verstehen. Frage deinen Koerper: Was schuetzt du? Arbeite an dem Gefuehl der inneren Sicherheit, denn wenn du dich von innen sicher fuehlst, braucht der Koerper die aeussere Pufferzone nicht mehr. Ersetze emotionales Essen durch emotionalen Ausdruck -- sprich, schreibe, weine, lache. Fuettere dein Herz statt deinen Magen.",
+    hamer_konflikt: "Nach Hamer dient die Fetteinlagerung häufig als biologisches Programm der Wasserretention bei einem Flüchtlings- oder Existenzkonflikt, der Körper speichert Reserven für den Notfall. Auch ein Nicht-schön-genug-Konflikt kann die Fettspeicherung aktivieren.",
+    dahlke: "Dahlke sieht Übergewicht als körperlichen Ausdruck von Schutzbedürfnis und ungestilltem Hunger nach Liebe. Die Fettpolster sind Puffer gegen eine Welt, die als bedrohlich empfunden wird.",
+    hay: "Louise Hay beschreibt das Muster als Angst, Schutzbedürfnis und das Überdecken von Gefühlen. Die neue Botschaft: Ich bin in Sicherheit, wo ich bin. Ich erschaffe meine eigene Sicherheit. Ich liebe und akzeptiere mich.",
+    heilweg: "Höre auf, gegen dein Gewicht zu kämpfen, und beginne, es zu verstehen. Frage deinen Körper: Was schützt du? Arbeite an dem Gefühl der inneren Sicherheit, denn wenn du dich von innen sicher fühlst, braucht der Körper die aeussere Pufferzone nicht mehr. Ersetze emotionales Essen durch emotionalen Ausdruck, sprich, schreibe, weine, lache. Füttere dein Herz statt deinen Magen.",
   },
 
   'krebs': {
-    kurzfassung: "Krebs ist die Zelle, die sich vom Ganzen abgespalten hat -- und fragt: Wo hast du dich vom Leben abgespalten?",
-    tiefe_betrachtung: `Krebs ist das wohl am meisten gefuerchtete Krankheitsbild unserer Zeit -- und gleichzeitig eines der tiefgruendigsten. Eine Krebszelle hat sich von der Gemeinschaft der Zellen abgespalten: Sie hoert nicht mehr auf die Signale des Koerpers, sie vermehrt sich unkontrolliert, sie lebt nur noch fuer sich. Sie hat vergessen, dass sie Teil eines groesseren Ganzen ist.
+    kurzfassung: "Krebs ist die Zelle, die sich vom Ganzen abgespalten hat, und fragt: Wo hast du dich vom Leben abgespalten?",
+    tiefe_betrachtung: `Krebs ist das wohl am meisten gefürchtete Krankheitsbild unserer Zeit, und gleichzeitig eines der tiefgründigsten. Eine Krebszelle hat sich von der Gemeinschaft der Zellen abgespalten: Sie hört nicht mehr auf die Signale des Körpers, sie vermehrt sich unkontrolliert, sie lebt nur noch für sich. Sie hat vergessen, dass sie Teil eines größeren Ganzen ist.
 
-Dieses Muster der Abspaltung findet sich fast immer auch im Lebensmuster der Betroffenen. Irgendwo hat eine tiefe Trennung stattgefunden -- von den eigenen Gefuehlen, von der eigenen Wahrheit, von dem, was die Seele wirklich braucht. Oft leben Krebspatienten lange Zeit ein Leben, das nicht ihr eigenes ist: sie funktionieren, sie erfuellen Erwartungen, sie schlucken Aerger -- aber sie leben nicht authentisch.
+Dieses Muster der Abspaltung findet sich fast immer auch im Lebensmuster der Betroffenen. Irgendwo hat eine tiefe Trennung stattgefunden, von den eigenen Gefühlen, von der eigenen Wahrheit, von dem, was die Seele wirklich braucht. Oft leben Krebspatienten lange Zeit ein Leben, das nicht ihr eigenes ist: sie funktionieren, sie erfüllen Erwartungen, sie schlucken Ärger, aber sie leben nicht authentisch.
 
-Die betroffene Koerperregion gibt immer einen Hinweis auf das Thema. Brustkrebs betrifft die Naehrung und Fuersorge (fuer andere oder sich selbst). Lungenkrebs betrifft die Lebensluft und Freiheit. Darmkrebs betrifft die Verdauung des Lebens. Jedes Organ erzaehlt seine eigene Geschichte.
+Die betroffene Körperregion gibt immer einen Hinweis auf das Thema. Brustkrebs betrifft die Nährung und Fürsorge (für andere oder sich selbst). Lungenkrebs betrifft die Lebensluft und Freiheit. Darmkrebs betrifft die Verdauung des Lebens. Jedes Organ erzählt seine eigene Geschichte.
 
-Krebs laesst sich als radikaler Weckruf verstehen. Er sagt: Dein bisheriges Leben hat nicht funktioniert -- jedenfalls nicht fuer deine Seele. Jetzt ist der Moment, ehrlich hinzuschauen, was wirklich zaehlt. Viele Menschen berichten, dass die Krebsdiagnose, so furchtbar sie war, letztendlich zu einem authentischeren, erfuellteren Leben gefuehrt hat. Die Krankheit wurde zum Wendepunkt.`,
-    koerpersymbolik: "Die Krebszelle symbolisiert Abspaltung vom Ganzen, unkontrolliertes Wachstum und das Vergessen der eigenen Bestimmung im groesseren Zusammenhang. Das betroffene Organ zeigt das spezifische Lebensthema: Brust = Fuersorge/Naehrung, Lunge = Freiheit/Lebensraum, Darm = Verarbeitung, Prostata = Maennlichkeit/Zeugung.",
+Krebs lässt sich als radikaler Weckruf verstehen. Er sagt: Dein bisheriges Leben hat nicht funktioniert, jedenfalls nicht für deine Seele. Jetzt ist der Moment, ehrlich hinzuschauen, was wirklich zählt. Viele Menschen berichten, dass die Krebsdiagnose, so furchtbar sie war, letztendlich zu einem authentischeren, erfüllteren Leben geführt hat. Die Krankheit wurde zum Wendepunkt.`,
+    koerpersymbolik: "Die Krebszelle symbolisiert Abspaltung vom Ganzen, unkontrolliertes Wachstum und das Vergessen der eigenen Bestimmung im größeren Zusammenhang. Das betroffene Organ zeigt das spezifische Lebensthema: Brust = Fürsorge/Nährung, Lunge = Freiheit/Lebensraum, Darm = Verarbeitung, Prostata = Männlichkeit/Zeugung.",
     kernfragen: [
       "Wo habe ich mich von meinem wahren Selbst abgespalten?",
-      "Welches Leben lebe ich -- meins oder das anderer?",
-      "Was habe ich so lange unterdrueckt, dass es sich unkontrolliert Bahn bricht?",
-      "Was wuerde ich tun, wenn ich nur noch ein Jahr haette?",
-      "Wo muss ich radikal ehrlich werden -- zu mir selbst?",
+      "Welches Leben lebe ich, meins oder das anderer?",
+      "Was habe ich so lange unterdrückt, dass es sich unkontrolliert Bahn bricht?",
+      "Was würde ich tun, wenn ich nur noch ein Jahr hätte?",
+      "Wo muss ich radikal ehrlich werden, zu mir selbst?",
       "Was ist der tiefste Sinn, den ich in meinem Leben finden kann?",
     ],
     hamer_konflikt: "Nach Hamer entsteht jede Krebsart durch einen spezifischen biologischen Konfliktschock (DHS). Je nach betroffenem Organ und Keimblatt handelt es sich um unterschiedliche Konfliktarten: Existenzangst (Darm), Todesangst (Lunge), Sorge-Konflikt (Brust), etc. Der Tumor hat immer einen biologischen Sinn.",
-    dahlke: "Dahlke beschreibt Krebs als das koerperliche Ausleben eines nicht gelebten Lebensprogramms. Was auf der seelischen Ebene nicht verwirklicht wurde, verwirklicht sich auf der Koerperebene -- unkontrolliertes Wachstum statt bewusstem Wachstum.",
+    dahlke: "Dahlke beschreibt Krebs als das körperliche Ausleben eines nicht gelebten Lebensprogramms. Was auf der seelischen Ebene nicht verwirklicht wurde, verwirklicht sich auf der Körperebene, unkontrolliertes Wachstum statt bewusstem Wachstum.",
     hay: "Louise Hay sieht Krebs als tiefen Groll, lang getragene Verbitterung und tiefe Geheimnisse, die von innen zerfressen. Die neue Botschaft: Ich vergebe liebevoll und lasse die Vergangenheit los. Ich fulle meine Welt mit Freude. Ich liebe und akzeptiere mich.",
-    heilweg: "Krebs ist eine Einladung zur radikalen Ehrlichkeit. Was ist deine tiefste Wahrheit? Was hast du nie gelebt? Vergib -- nicht den anderen zuliebe, sondern um dich selbst zu befreien. Finde heraus, was DEIN Leben ist, und beginne, es zu leben. Umgib dich mit Menschen, die dich in deiner Ganzheit sehen. Und vertraue darauf, dass Heilung auf vielen Ebenen gleichzeitig geschehen kann.",
+    heilweg: "Krebs ist eine Einladung zur radikalen Ehrlichkeit. Was ist deine tiefste Wahrheit? Was hast du nie gelebt? Vergib, nicht den anderen zuliebe, sondern um dich selbst zu befreien. Finde heraus, was DEIN Leben ist, und beginne, es zu leben. Umgib dich mit Menschen, die dich in deiner Ganzheit sehen. Und vertraue darauf, dass Heilung auf vielen Ebenen gleichzeitig geschehen kann.",
   },
 
   'autoimmun': {
-    kurzfassung: "Autoimmunerkrankungen zeigen: Der Koerper greift sich selbst an -- weil die Seele es auch tut.",
-    tiefe_betrachtung: `Bei Autoimmunerkrankungen richtet sich das Immunsystem gegen den eigenen Koerper. Das Abwehrsystem, das schuetzen soll, wird zum Angreifer. Es kann nicht mehr zwischen Fremd und Eigen unterscheiden -- und zerstoert eigenes Gewebe. Dieses Muster findet sich fast immer auch auf der seelischen Ebene: Selbstaggression, Selbstablehnung, das Gefuehl, sich selbst der groesste Feind zu sein.
+    kurzfassung: "Autoimmunerkrankungen zeigen: Der Körper greift sich selbst an, weil die Seele es auch tut.",
+    tiefe_betrachtung: `Bei Autoimmunerkrankungen richtet sich das Immunsystem gegen den eigenen Körper. Das Abwehrsystem, das schützen soll, wird zum Angreifer. Es kann nicht mehr zwischen Fremd und Eigen unterscheiden, und zerstört eigenes Gewebe. Dieses Muster findet sich fast immer auch auf der seelischen Ebene: Selbstaggression, Selbstablehnung, das Gefühl, sich selbst der größte Feind zu sein.
 
-Menschen mit Autoimmunerkrankungen haben haeufig sehr hohe Ansprueche an sich selbst. Sie sind streng mit sich, kritisch, gnadelos. Was sie anderen vergeben wuerden, verzeihen sie sich selbst nicht. Die innere Stimme ist kein liebevoller Begleiter, sondern ein harter Richter. Und der Koerper inszeniert diesen inneren Krieg buchstaeblich: Er greift sich selbst an.
+Menschen mit Autoimmunerkrankungen haben häufig sehr hohe Ansprüche an sich selbst. Sie sind streng mit sich, kritisch, gnadelos. Was sie anderen vergeben würden, verzeihen sie sich selbst nicht. Die innere Stimme ist kein liebevoller Begleiter, sondern ein harter Richter. Und der Körper inszeniert diesen inneren Krieg buchstäblich: Er greift sich selbst an.
 
-Auch das Thema Identitaet spielt eine zentrale Rolle. Das Immunsystem ist im Grunde das 'Ich-System' des Koerpers -- es unterscheidet Ich von Nicht-Ich. Wenn diese Unterscheidung gestoert ist, ist auch die Frage 'Wer bin ich?' auf einer tiefen Ebene ungeklaert. Autoimmunerkrankte leben haeufig mehr fuer andere als fuer sich selbst und haben dabei den Kontakt zum eigenen Wesen verloren.
+Auch das Thema Identität spielt eine zentrale Rolle. Das Immunsystem ist im Grunde das 'Ich-System' des Körpers, es unterscheidet Ich von Nicht-Ich. Wenn diese Unterscheidung gestört ist, ist auch die Frage 'Wer bin ich?' auf einer tiefen Ebene ungeklärt. Autoimmunerkrankte leben häufig mehr für andere als für sich selbst und haben dabei den Kontakt zum eigenen Wesen verloren.
 
-Die Agressivitaet, die nach innen gerichtet ist, gehoert eigentlich nach aussen. Viele Betroffene haben gelernt, nett, angepasst und selbstlos zu sein -- und die Wut, die Abgrenzung, das gesunde Nein sind auf der Strecke geblieben. Der Koerper fuehrt den Kampf, der im Leben nicht gefuehrt wird.`,
-    koerpersymbolik: "Das Immunsystem symbolisiert Selbsterkennung und Selbstschutz -- die Faehigkeit, das Eigene vom Fremden zu unterscheiden und sich zu verteidigen. Bei Autoimmunerkrankungen ist diese Unterscheidung gestoert. Der Koerper kann sich selbst nicht mehr erkennen und haelt Eigenes fuer Fremdes.",
+Die Agressivität, die nach innen gerichtet ist, gehört eigentlich nach außen. Viele Betroffene haben gelernt, nett, angepasst und selbstlos zu sein, und die Wut, die Abgrenzung, das gesunde Nein sind auf der Strecke geblieben. Der Körper führt den Kampf, der im Leben nicht geführt wird.`,
+    koerpersymbolik: "Das Immunsystem symbolisiert Selbsterkennung und Selbstschutz, die Fähigkeit, das Eigene vom Fremden zu unterscheiden und sich zu verteidigen. Bei Autoimmunerkrankungen ist diese Unterscheidung gestört. Der Körper kann sich selbst nicht mehr erkennen und hält Eigenes für Fremdes.",
     kernfragen: [
-      "Wo greife ich mich selbst an -- durch innere Kritik, Selbstabwertung, Selbstbestrafung?",
+      "Wo greife ich mich selbst an, durch innere Kritik, Selbstabwertung, Selbstbestrafung?",
       "Kenne ich den Unterschied zwischen dem, was ICH will, und dem, was andere von mir erwarten?",
-      "Welche Wut richte ich gegen mich, die eigentlich nach aussen gehoert?",
+      "Welche Wut richte ich gegen mich, die eigentlich nach außen gehört?",
       "Kann ich mir selbst die gleiche Milde und Vergebung schenken, die ich anderen gebe?",
-      "Wo habe ich mich selbst verloren, indem ich fuer andere gelebt habe?",
+      "Wo habe ich mich selbst verloren, indem ich für andere gelebt habe?",
     ],
-    hamer_konflikt: "Nach Hamer gibt es keine Autoimmunerkrankung im klassischen Sinne -- der Koerper greift sich nie selbst an. Was als Autoimmunreaktion gedeutet wird, ist nach seiner Sicht ein sinnvolles biologisches Programm in einer bestimmten Konfliktphase (z.B. Heilungsphase mit Entzuendung und Gewebsumbau).",
-    dahlke: "Dahlke beschreibt Autoimmunerkrankungen als den koerperlichen Ausdruck von Autoaggression. Der Mensch kaempft gegen sich selbst, weil er den wahren Gegner -- eine aeussere Situation, einen inneren Konflikt -- nicht erkennt oder nicht angreifen darf.",
-    hay: "Louise Hay sieht Autoimmunerkrankungen als tiefe Selbstablehnung und Selbsthass. Die neue Botschaft: Ich bin bereit, mich zu veraendern und zu wachsen. Ich erschaffe eine neue, sichere Zukunft. Ich liebe mich und akzeptiere mich zutiefst.",
-    heilweg: "Beende den Krieg gegen dich selbst. Beginne damit, die innere Stimme des Kritikers zu erkennen und liebevoll zu korrigieren. Lerne, deine Aggression nach aussen zu lenken -- in klaren Worten, in gesunden Grenzen, in der Faehigkeit, Nein zu sagen. Finde zurueck zu der Frage: Wer bin ich wirklich? Und dann erlaube dir, genau das zu sein.",
+    hamer_konflikt: "Nach Hamer gibt es keine Autoimmunerkrankung im klassischen Sinne, der Körper greift sich nie selbst an. Was als Autoimmunreaktion gedeutet wird, ist nach seiner Sicht ein sinnvolles biologisches Programm in einer bestimmten Konfliktphase (z.B. Heilungsphase mit Entzündung und Gewebsumbau).",
+    dahlke: "Dahlke beschreibt Autoimmunerkrankungen als den körperlichen Ausdruck von Autoaggression. Der Mensch kämpft gegen sich selbst, weil er den wahren Gegner, eine aeussere Situation, einen inneren Konflikt, nicht erkennt oder nicht angreifen darf.",
+    hay: "Louise Hay sieht Autoimmunerkrankungen als tiefe Selbstablehnung und Selbsthass. Die neue Botschaft: Ich bin bereit, mich zu verändern und zu wachsen. Ich erschaffe eine neue, sichere Zukunft. Ich liebe mich und akzeptiere mich zutiefst.",
+    heilweg: "Beende den Krieg gegen dich selbst. Beginne damit, die innere Stimme des Kritikers zu erkennen und liebevoll zu korrigieren. Lerne, deine Aggression nach außen zu lenken, in klaren Worten, in gesunden Grenzen, in der Fähigkeit, Nein zu sagen. Finde zurück zu der Frage: Wer bin ich wirklich? Und dann erlaube dir, genau das zu sein.",
   },
 
   'fibromyalgie': {
-    kurzfassung: "Fibromyalgie ist Schmerz ueberall -- der Koerper schreit, was die Seele nicht schreien darf.",
-    tiefe_betrachtung: `Fibromyalgie -- Schmerzen am ganzen Koerper, Erschoepfung, Empfindlichkeit. Kein Arzt findet etwas, keine Bildgebung zeigt etwas, und doch ist der Schmerz real und allgegenwaertig. Fibromyalgie ist der Schmerz, der kein Organ hat, weil er ueberall ist. Er ist der Ausdruck einer Seele, die so viel Schmerz traegt, dass der gesamte Koerper daran teilhat.
+    kurzfassung: "Fibromyalgie ist Schmerz überall, der Körper schreit, was die Seele nicht schreien darf.",
+    tiefe_betrachtung: `Fibromyalgie: Schmerzen am ganzen Körper, Erschöpfung, Empfindlichkeit. Kein Arzt findet etwas, keine Bildgebung zeigt etwas, und doch ist der Schmerz real und allgegenwärtig. Fibromyalgie ist der Schmerz, der kein Organ hat, weil er überall ist. Er ist der Ausdruck einer Seele, die so viel Schmerz trägt, dass der gesamte Körper daran teilhat.
 
-Haeufig finden sich in der Geschichte von Fibromyalgie-Betroffenen traumatische Erfahrungen -- koerperlicher oder emotionaler Missbrauch, fruehe Vernachlaessigung, schwere Verluste. Der Schmerz, der damals nicht gefuehlt werden durfte oder konnte, sitzt im Koerper fest. Das Nervensystem ist auf Daueralarm geschaltet, die Schmerzschwelle ist herabgesetzt, alles tut weh. Der Koerper fuehlt den Schmerz, den die Seele nicht fuehlen konnte.
+Häufig finden sich in der Geschichte von Fibromyalgie-Betroffenen traumatische Erfahrungen, körperlicher oder emotionaler Missbrauch, frühe Vernachlässigung, schwere Verluste. Der Schmerz, der damals nicht gefühlt werden durfte oder konnte, sitzt im Körper fest. Das Nervensystem ist auf Daueralarm geschaltet, die Schmerzschwelle ist herabgesetzt, alles tut weh. Der Körper fühlt den Schmerz, den die Seele nicht fühlen konnte.
 
-Die extreme Erschoepfung bei Fibromyalgie zeigt, wie viel Energie es kostet, diesen alten Schmerz zu tragen, ohne ihn zu fuehlen. Es ist, als wuerde der Koerper gleichzeitig Schmerz erleben und Schmerz unterdruecken -- ein erschoepfender Kampf auf beiden Seiten.
+Die extreme Erschöpfung bei Fibromyalgie zeigt, wie viel Energie es kostet, diesen alten Schmerz zu tragen, ohne ihn zu fühlen. Es ist, als würde der Körper gleichzeitig Schmerz erleben und Schmerz unterdrücken, ein erschöpfender Kampf auf beiden Seiten.
 
-Fibromyalgie betrifft ueberwiegend Frauen -- Menschen, die gelernt haben, zu funktionieren, zu laecheln, fuer andere da zu sein, waehrend sie innerlich vor Schmerz fast vergehen. Die Krankheit macht den unsichtbaren Schmerz sichtbar und zwingt die Umgebung, ihn ernst zu nehmen.`,
-    koerpersymbolik: "Muskeln und Faszien symbolisieren Flexibilitaet, Kraft und die Faehigkeit, sich zu bewegen. Wenn sie schmerzen, zeigt das: Die Lebenskraft ist blockiert, die Flexibilitaet erschoepft, die Faehigkeit, sich durch das Leben zu bewegen, eingeschraenkt. Der ganzkörperliche Schmerz zeigt, dass das Problem systemisch ist -- kein Einzelthema, sondern ein Lebensthema.",
+Fibromyalgie betrifft überwiegend Frauen: Menschen, die gelernt haben, zu funktionieren, zu lächeln, für andere da zu sein, während sie innerlich vor Schmerz fast vergehen. Die Krankheit macht den unsichtbaren Schmerz sichtbar und zwingt die Umgebung, ihn ernst zu nehmen.`,
+    koerpersymbolik: "Muskeln und Faszien symbolisieren Flexibilität, Kraft und die Fähigkeit, sich zu bewegen. Wenn sie schmerzen, zeigt das: Die Lebenskraft ist blockiert, die Flexibilität erschöpft, die Fähigkeit, sich durch das Leben zu bewegen, eingeschränkt. Der ganzkörperliche Schmerz zeigt, dass das Problem systemisch ist, kein Einzelthema, sondern ein Lebensthema.",
     kernfragen: [
-      "Welchen alten Schmerz trage ich in meinem Koerper, den ich nie gefuehlt habe?",
+      "Welchen alten Schmerz trage ich in meinem Körper, den ich nie gefühlt habe?",
       "Gibt es traumatische Erfahrungen, die noch nicht verarbeitet sind?",
-      "Wo fuehle ich mich nicht gehört mit meinem Schmerz?",
-      "Was wuerde passieren, wenn ich meinen Schmerz endlich fühlen -- und ausdruecken duerfte?",
-      "Wie viel Energie kostet es mich, staendig funktionieren zu muessen?",
+      "Wo fühle ich mich nicht gehört mit meinem Schmerz?",
+      "Was würde passieren, wenn ich meinen Schmerz endlich fühlen, und ausdrücken dürfte?",
+      "Wie viel Energie kostet es mich, ständig funktionieren zu müssen?",
     ],
-    hamer_konflikt: "Nach Hamer koennen die diffusen Schmerzen als multiple aktive oder haengende Heilungsphasen von Selbstwert-Konflikten verstanden werden -- verschiedene Koerperregionen befinden sich in unterschiedlichen Phasen der Konfliktverarbeitung.",
-    dahlke: "Dahlke sieht Fibromyalgie als Schmerz der Seele, der sich koerperlich ausdrueckt, weil er keinen anderen Weg findet. Der ganze Koerper wird zur Projektionsflaeche fuer ungelebten, unterdrueckten seelischen Schmerz.",
-    hay: "Louise Hay sieht hinter generalisiertem Schmerz Sturheit und den Wunsch, bestraft zu werden. Die neue Botschaft: Ich bin flexibel und fliessend. Ich bin sanft und nachgiebig mit mir selbst. Alles ist gut.",
-    heilweg: "Dein Schmerz ist real und berechtigt. Finde einen sicheren Raum, in dem der alte Schmerz endlich gefuehlt und betrauert werden darf -- mit therapeutischer Begleitung, wenn noetig. Koerperarbeit, die sanft und achtsam ist, kann helfen, die Schmerzspuren im Koerper zu loesen. Und erlaube dir, Hilfe anzunehmen -- du musst das nicht alleine tragen.",
+    hamer_konflikt: "Nach Hamer können die diffusen Schmerzen als multiple aktive oder hängende Heilungsphasen von Selbstwert-Konflikten verstanden werden, verschiedene Körperregionen befinden sich in unterschiedlichen Phasen der Konfliktverarbeitung.",
+    dahlke: "Dahlke sieht Fibromyalgie als Schmerz der Seele, der sich körperlich ausdrückt, weil er keinen anderen Weg findet. Der ganze Körper wird zur Projektionsfläche für ungelebten, unterdrückten seelischen Schmerz.",
+    hay: "Louise Hay sieht hinter generalisiertem Schmerz Sturheit und den Wunsch, bestraft zu werden. Die neue Botschaft: Ich bin flexibel und fließend. Ich bin sanft und nachgiebig mit mir selbst. Alles ist gut.",
+    heilweg: "Dein Schmerz ist real und berechtigt. Finde einen sicheren Raum, in dem der alte Schmerz endlich gefühlt und betrauert werden darf, mit therapeutischer Begleitung, wenn nötig. Körperarbeit, die sanft und achtsam ist, kann helfen, die Schmerzspuren im Körper zu lösen. Und erlaube dir, Hilfe anzunehmen, du musst das nicht alleine tragen.",
   },
 
   'neurodermitis': {
-    kurzfassung: "Neurodermitis ist der Schrei der Haut nach Naehe -- und gleichzeitig der Schrei: Bleib mir vom Leib!",
-    tiefe_betrachtung: `Neurodermitis vereint einen paradoxen Konflikt in sich: Die Haut juckt, ist entzuendet, offen, verletzlich -- und gleichzeitig stoesst sie ab, sieht unansehnlich aus, haelt andere auf Distanz. Es ist das koerperliche Ausleben eines tiefen Naehe-Distanz-Konflikts: Ich sehne mich nach Beruehrung und habe gleichzeitig Angst davor.
+    kurzfassung: "Neurodermitis ist der Schrei der Haut nach Nähe, und gleichzeitig der Schrei: Bleib mir vom Leib!",
+    tiefe_betrachtung: `Neurodermitis vereint einen paradoxen Konflikt in sich: Die Haut juckt, ist entzündet, offen, verletzlich, und gleichzeitig stößt sie ab, sieht unansehnlich aus, hält andere auf Distanz. Es ist das körperliche Ausleben eines tiefen Nähe-Distanz-Konflikts: Ich sehne mich nach Berührung und habe gleichzeitig Angst davor.
 
-Bei Kindern beginnt Neurodermitis oft im Kontext schwieriger familiärer Beziehungen. Die Haut des Kindes drueckt aus, was das Kind nicht in Worten sagen kann: 'Ich brauche mehr Naehe!' oder 'Es ist mir zu viel!' Haeufig ist das Familiensystem emotional angespannt -- die Eltern sind gestresst, die Beziehung schwierig, das Kind spuert alle ungeklärten Spannungen und traegt sie auf der Haut.
+Bei Kindern beginnt Neurodermitis oft im Kontext schwieriger familiärer Beziehungen. Die Haut des Kindes drückt aus, was das Kind nicht in Worten sagen kann: 'Ich brauche mehr Nähe!' oder 'Es ist mir zu viel!' Häufig ist das Familiensystem emotional angespannt, die Eltern sind gestresst, die Beziehung schwierig, das Kind spürt alle ungeklärten Spannungen und trägt sie auf der Haut.
 
-Der Juckreiz ist besonders quaelend. Er zwingt zum Kratzen, das die Haut weiter schaedigt -- ein Teufelskreis. Symbolisch ist das Kratzen der Versuch, sich selbst zu spueren, sich zu stimulieren, etwas rauszuholen, das unter der Haut steckt. Es ist Selbstaggression und Selbststimulation zugleich.
+Der Juckreiz ist besonders quälend. Er zwingt zum Kratzen, das die Haut weiter schädigt, ein Teufelskreis. Symbolisch ist das Kratzen der Versuch, sich selbst zu spüren, sich zu stimulieren, etwas rauszuholen, das unter der Haut steckt. Es ist Selbstaggression und Selbststimulation zugleich.
 
-Neurodermitis zeigt sich oft in den Ellenbeugen und Kniekehlen -- den verletzlichen, weichen, ungeschuetzten Stellen des Koerpers. Dort, wo man sich oeffnet und beugt, dort ist die Haut am meisten betroffen. Es ist, als zeige der Koerper: Genau dort, wo ich mich oeffne und verletzlich bin, werde ich am meisten verletzt.`,
-    koerpersymbolik: "Die Haut als Grenzorgan steht bei Neurodermitis in einem dauerhaften Konfliktzustand. Sie entzuendet sich (Konflikt), juckt (Reizung), schuppt sich (Erneuerung) und heilt nie ganz ab (der Konflikt bleibt bestehen). Die betroffenen Stellen -- oft Beugen und Falten -- sind die verletzlichsten, intimsten Bereiche des Koerpers.",
+Neurodermitis zeigt sich oft in den Ellenbeugen und Kniekehlen, den verletzlichen, weichen, ungeschützten Stellen des Körpers. Dort, wo man sich öffnet und beugt, dort ist die Haut am meisten betroffen. Es ist, als zeige der Körper: Genau dort, wo ich mich öffne und verletzlich bin, werde ich am meisten verletzt.`,
+    koerpersymbolik: "Die Haut als Grenzorgan steht bei Neurodermitis in einem dauerhaften Konfliktzustand. Sie entzündet sich (Konflikt), juckt (Reizung), schuppt sich (Erneuerung) und heilt nie ganz ab (der Konflikt bleibt bestehen). Die betroffenen Stellen, oft Beugen und Falten, sind die verletzlichsten, intimsten Bereiche des Körpers.",
     kernfragen: [
-      "Wo erlebe ich einen Konflikt zwischen dem Wunsch nach Naehe und der Angst davor?",
+      "Wo erlebe ich einen Konflikt zwischen dem Wunsch nach Nähe und der Angst davor?",
       "Welche Spannung trage ich auf meiner Haut, die eigentlich im Familiensystem liegt?",
       "Was steckt unter der Haut, das sich zeigen will?",
-      "Darf ich beruehrt werden -- wirklich, im tiefsten Sinne?",
+      "Darf ich berührt werden, wirklich, im tiefsten Sinne?",
       "Wogegen wehrt sich meine Haut?",
     ],
-    hamer_konflikt: "Nach Hamer handelt es sich bei Neurodermitis um einen Trennungs-Konflikt -- die schmerzliche Trennung von einer geliebten Person oder der Verlust von Koerperkontakt. Die Hautsymptome treten in der Heilungsphase auf, werden aber durch Rezidive chronisch.",
-    dahlke: "Dahlke sieht Neurodermitis als den Versuch, ueber die Haut Kontakt herzustellen und gleichzeitig abzuwehren. Die Haut wird zum Schlachtfeld eines inneren Konflikts zwischen Sehnsucht und Abwehr.",
+    hamer_konflikt: "Nach Hamer handelt es sich bei Neurodermitis um einen Trennungs-Konflikt, die schmerzliche Trennung von einer geliebten Person oder der Verlust von Körperkontakt. Die Hautsymptome treten in der Heilungsphase auf, werden aber durch Rezidive chronisch.",
+    dahlke: "Dahlke sieht Neurodermitis als den Versuch, über die Haut Kontakt herzustellen und gleichzeitig abzuwehren. Die Haut wird zum Schlachtfeld eines inneren Konflikts zwischen Sehnsucht und Abwehr.",
     hay: "Louise Hay beschreibt die Haut als Spiegel der Art, wie wir uns selbst sehen. Hauterkrankungen zeigen Ungeduld und Unzufriedenheit mit sich selbst. Die neue Botschaft: Ich bin im Frieden mit mir. Ich liebe und akzeptiere mich genau so, wie ich bin.",
-    heilweg: "Bringe den Naehe-Distanz-Konflikt ins Bewusstsein. Wo brauchst du mehr Naehe? Wo brauchst du mehr Distanz? Beides ist erlaubt. Gib deiner Haut liebevolle Beruehrung -- oele, creme, streichle sie. Und ueberprüfe, welche Spannungen im Familiensystem auf deiner Haut landen, die gar nicht deine sind.",
+    heilweg: "Bringe den Nähe-Distanz-Konflikt ins Bewusstsein. Wo brauchst du mehr Nähe? Wo brauchst du mehr Distanz? Beides ist erlaubt. Gib deiner Haut liebevolle Berührung, öle, creme, streichle sie. Und überprüfe, welche Spannungen im Familiensystem auf deiner Haut landen, die gar nicht deine sind.",
   },
 
   'reizdarm': {
-    kurzfassung: "Der Reizdarm reagiert auf das, was emotional nicht verdaut werden kann -- er ist das Seismogramm der Seele.",
-    tiefe_betrachtung: `Der Reizdarm ist die Koerper-Antwort auf eine Seele, die staendig in Aufruhr ist. Blaehungen, Krämpfe, Durchfall, Verstopfung -- oft im Wechsel, unberechenbar, chaotisch. Genau so fuehlt sich das Innenleben vieler Betroffener an: unberechenbar, chaotisch, ausser Kontrolle.
+    kurzfassung: "Der Reizdarm reagiert auf das, was emotional nicht verdaut werden kann, er ist das Seismogramm der Seele.",
+    tiefe_betrachtung: `Der Reizdarm ist die Körper-Antwort auf eine Seele, die ständig in Aufruhr ist. Blähungen, Krämpfe, Durchfall, Verstopfung, oft im Wechsel, unberechenbar, chaotisch. Genau so fühlt sich das Innenleben vieler Betroffener an: unberechenbar, chaotisch, außer Kontrolle.
 
-Der Darm wird als 'Bauchhirn' bezeichnet -- er hat ein eigenes Nervensystem mit mehr Nervenzellen als das Rueckenmark. Er reagiert extrem sensibel auf emotionale Zustände. Stress, Angst, unterdrueckte Wut -- all das spuert der Darm sofort. Er ist das ehrlichste Organ des Koerpers: Er luegt nicht, er zeigt in Echtzeit, was seelisch los ist.
+Der Darm wird als 'Bauchhirn' bezeichnet, er hat ein eigenes Nervensystem mit mehr Nervenzellen als das Rückenmark. Er reagiert extrem sensibel auf emotionale Zustände. Stress, Angst, unterdrückte Wut, all das spürt der Darm sofort. Er ist das ehrlichste Organ des Körpers: Er lügt nicht, er zeigt in Echtzeit, was seelisch los ist.
 
-Reizdarm-Betroffene sind haeufig hochsensible Menschen, die aeussere Reize intensiver wahrnehmen als andere. Ihr Darm ist wie eine feine Antenne, die alles auffaengt -- Stimmungen, Spannungen, unausgesprochene Konflikte im Raum. Das Problem ist nicht der Darm, sondern die Menge an ungefilterten Eindrücken, die er verarbeiten muss.
+Reizdarm-Betroffene sind häufig hochsensible Menschen, die aeussere Reize intensiver wahrnehmen als andere. Ihr Darm ist wie eine feine Antenne, die alles auffängt: Stimmungen, Spannungen, unausgesprochene Konflikte im Raum. Das Problem ist nicht der Darm, sondern die Menge an ungefilterten Eindrücken, die er verarbeiten muss.
 
-Die Unberechenbarkeit des Reizdarms -- mal Durchfall, mal Verstopfung -- spiegelt oft eine innere Ambivalenz wider: Zwischen Festhalten und Loslassen, zwischen Ja und Nein, zwischen Kontrolle und Kontrollverlust. Der Darm kann sich nicht entscheiden, weil der Mensch sich nicht entscheiden kann.`,
-    koerpersymbolik: "Der Darm steht fuer die tiefste Verarbeitung und das Loslassen. Er ist das Organ, das entscheidet, was aufgenommen und was ausgeschieden wird -- im koerperlichen wie im uebertragenen Sinn. Ein gereizter Darm zeigt, dass diese Entscheidungsfaehigkeit ueberfordert ist.",
+Die Unberechenbarkeit des Reizdarms, mal Durchfall, mal Verstopfung, spiegelt oft eine innere Ambivalenz wider: Zwischen Festhalten und Loslassen, zwischen Ja und Nein, zwischen Kontrolle und Kontrollverlust. Der Darm kann sich nicht entscheiden, weil der Mensch sich nicht entscheiden kann.`,
+    koerpersymbolik: "Der Darm steht für die tiefste Verarbeitung und das Loslassen. Er ist das Organ, das entscheidet, was aufgenommen und was ausgeschieden wird, im körperlichen wie im übertragenen Sinn. Ein gereizter Darm zeigt, dass diese Entscheidungsfähigkeit überfordert ist.",
     kernfragen: [
       "Was reizt mich, das ich nicht anspreche?",
       "Wo schwanke ich zwischen Festhalten und Loslassen?",
-      "Welche Situation oder Beziehung ueberfordert meine Verarbeitungskapazitaet?",
-      "Hoere ich auf mein Bauchgefuehl -- oder uebertöne ich es?",
-      "Welche Emotionen drueckt mein Darm fuer mich aus?",
+      "Welche Situation oder Beziehung überfordert meine Verarbeitungskapazität?",
+      "Höre ich auf mein Bauchgefühl, oder übertöne ich es?",
+      "Welche Emotionen drückt mein Darm für mich aus?",
     ],
-    hamer_konflikt: "Nach Hamer steht der Reizdarm oft in Zusammenhang mit einem nicht loessbaren 'unverdaulichen Aerger' -- ein Brocken, der weder verdaut noch ausgeschieden werden kann. Die chronische Natur zeigt, dass der Konflikt immer wieder reaktiviert wird.",
-    dahlke: "Dahlke beschreibt den Reizdarm als das Organ der unterdrueckten Emotionen. Der Darm reagiert auf jede seelische Regung, die der Mensch sich nicht erlaubt. Er ist das Sprachrohr der Seele, wenn der Mund schweigt.",
+    hamer_konflikt: "Nach Hamer steht der Reizdarm oft in Zusammenhang mit einem nicht lössbaren 'unverdaulichen Ärger', ein Brocken, der weder verdaut noch ausgeschieden werden kann. Die chronische Natur zeigt, dass der Konflikt immer wieder reaktiviert wird.",
+    dahlke: "Dahlke beschreibt den Reizdarm als das Organ der unterdrückten Emotionen. Der Darm reagiert auf jede seelische Regung, die der Mensch sich nicht erlaubt. Er ist das Sprachrohr der Seele, wenn der Mund schweigt.",
     hay: "Louise Hay ordnet Darmproblemen Angst vor dem Loslassen und Festhalten an Altem zu. Die neue Botschaft: Ich nehme auf, verarbeite und lasse los. Alles ist in bester Ordnung.",
-    heilweg: "Lerne, dein Bauchhirn als Verbündeten zu sehen, nicht als Feind. Es sagt dir die Wahrheit. Fuehre ein Bauch-Tagebuch: Was habe ich erlebt, als der Darm reagiert hat? Welche Emotion war im Spiel? Reduziere Reize bewusst und gib deinem Darm, was er braucht: Ruhe, Waerme und die Erlaubnis, ehrlich zu sein.",
+    heilweg: "Lerne, dein Bauchhirn als Verbündeten zu sehen, nicht als Feind. Es sagt dir die Wahrheit. Führe ein Bauch-Tagebuch: Was habe ich erlebt, als der Darm reagiert hat? Welche Emotion war im Spiel? Reduziere Reize bewusst und gib deinem Darm, was er braucht: Ruhe, Wärme und die Erlaubnis, ehrlich zu sein.",
   },
 
   'herpes': {
-    kurzfassung: "Herpes bricht aus, wenn die Lippe spricht, was das Herz verschweigt -- unterdrueckte Worte, zurueckgehaltene Kuesse.",
-    tiefe_betrachtung: `Herpes ist ein Virus, der im Koerper schlummert und bei Stress, Ekel oder emotionaler Ueberbelastung ausbricht -- immer an derselben Stelle, immer mit demselben Muster. Lippenherpes tritt typischerweise an der Grenze zwischen innen und aussen auf, genau dort, wo Worte den Mund verlassen und Kuesse gegeben werden. Er markiert die Schwelle zwischen dem, was gesagt wird, und dem, was verschwiegen bleibt.
+    kurzfassung: "Herpes bricht aus, wenn die Lippe spricht, was das Herz verschweigt, unterdrückte Worte, zurückgehaltene Küsse.",
+    tiefe_betrachtung: `Herpes ist ein Virus, der im Körper schlummert und bei Stress, Ekel oder emotionaler Überbelastung ausbricht, immer an derselben Stelle, immer mit demselben Muster. Lippenherpes tritt typischerweise an der Grenze zwischen innen und außen auf, genau dort, wo Worte den Mund verlassen und Küsse gegeben werden. Er markiert die Schwelle zwischen dem, was gesagt wird, und dem, was verschwiegen bleibt.
 
-Der Herpes bricht oft in Situationen aus, in denen etwas nicht gesagt werden kann oder darf: unausgesprochene Wahrheiten, zurueckgehaltene Zuneigung, verdraengter Ekel. Die Blaeschen sind wie kleine Vulkane, die ausbrechen, weil der innere Druck zu gross geworden ist. Sie brennen und jucken -- genau wie die Worte, die auf der Zunge liegen, aber nicht ausgesprochen werden.
+Der Herpes bricht oft in Situationen aus, in denen etwas nicht gesagt werden kann oder darf: unausgesprochene Wahrheiten, zurückgehaltene Zuneigung, verdrängter Ekel. Die Bläschen sind wie kleine Vulkane, die ausbrechen, weil der innere Druck zu groß geworden ist. Sie brennen und jucken, genau wie die Worte, die auf der Zunge liegen, aber nicht ausgesprochen werden.
 
-Auch Scham und Schuld spielen oft eine Rolle. Genitalherpes traegt das Stigma des 'Unreinen', des Sexuellen, des Verborgenen. Er bricht dort aus, wo Intimität stattfindet -- und kann auf Konflikte mit der eigenen Sexualitaet, auf Scham oder auf unterdrueckte Wuensche hinweisen.
+Auch Scham und Schuld spielen oft eine Rolle. Genitalherpes trägt das Stigma des 'Unreinen', des Sexuellen, des Verborgenen. Er bricht dort aus, wo Intimität stattfindet, und kann auf Konflikte mit der eigenen Sexualität, auf Scham oder auf unterdrückte Wünsche hinweisen.
 
-Der Zeitpunkt des Ausbruchs ist immer aufschlussreich. Herpes bricht aus, wenn das Immunsystem geschwaeecht ist -- und das Immunsystem schwächt sich, wenn die seelische Abwehr ueberfordert ist. Der Virus wartet geduldig auf den Moment, in dem die Fassade Risse bekommt.`,
-    koerpersymbolik: "Die Lippe steht fuer Kommunikation, Kuesse, Sinnlichkeit und den Uebergang von innen nach aussen. Herpes an der Lippe markiert genau diese Grenze. Genitalherpes betrifft die Sphäre der Intimität und Sexualitaet. In beiden Faellen entzuendet sich eine Grenze, die unter Spannung steht.",
+Der Zeitpunkt des Ausbruchs ist immer aufschlussreich. Herpes bricht aus, wenn das Immunsystem geschwäecht ist, und das Immunsystem schwächt sich, wenn die seelische Abwehr überfordert ist. Der Virus wartet geduldig auf den Moment, in dem die Fassade Risse bekommt.`,
+    koerpersymbolik: "Die Lippe steht für Kommunikation, Küsse, Sinnlichkeit und den Übergang von innen nach außen. Herpes an der Lippe markiert genau diese Grenze. Genitalherpes betrifft die Sphäre der Intimität und Sexualität. In beiden Fällen entzündet sich eine Grenze, die unter Spannung steht.",
     kernfragen: [
       "Was liegt mir auf den Lippen, das ich nicht ausspreche?",
-      "Welchen Kuss halte ich zurueck -- oder welcher Kuss haette nie sein sollen?",
-      "Was empfinde ich als ekelhaft, ohne es zugeben zu koennen?",
+      "Welchen Kuss halte ich zurück, oder welcher Kuss hätte nie sein sollen?",
+      "Was empfinde ich als ekelhaft, ohne es zugeben zu können?",
       "Wo steht meine Fassade unter Druck?",
-      "Welche Wahrheit bricht durch die Oberflaeche?",
+      "Welche Wahrheit bricht durch die Oberfläche?",
     ],
-    hamer_konflikt: "Nach Hamer steht Herpes labialis in Zusammenhang mit einem Trennungs-Konflikt im Mundbereich -- eine Trennung, die die orale Schleimhaut betrifft (z.B. einen nicht gegebenen oder ungewollten Kuss). Der Ausbruch zeigt die Heilungsphase.",
-    dahlke: "Dahlke beschreibt Herpes als den Ausbruch dessen, was unter der Oberflaeche geschwaelt hat. Die Blaeschen sind Miniaturvulkane -- sie zeigen, dass etwas laengst ueberfaellig ist, auszubrechen.",
-    hay: "Louise Hay sieht hinter Herpes den brennenden Wunsch, schlecht zu sprechen und unterdrueckte Bitterkeit. Die neue Botschaft: In meiner Welt gibt es nur Aktivitaet und Ausdruck von Liebe. Ich bin im Frieden.",
-    heilweg: "Sprich aus, was gesagt werden will -- bevor der Herpes es fuer dich tut. Achte auf die Situationen, in denen du etwas zurueckhaeltst, und ueberprüfe, ob es wirklich zurueckgehalten werden muss. Gib deinen Lippen, was sie brauchen: ehrliche Worte, freie Kuesse und die Erlaubnis, die Grenze zwischen Innen und Aussen durchlaessig zu halten.",
+    hamer_konflikt: "Nach Hamer steht Herpes labialis in Zusammenhang mit einem Trennungs-Konflikt im Mundbereich, eine Trennung, die die orale Schleimhaut betrifft (z.B. einen nicht gegebenen oder ungewollten Kuss). Der Ausbruch zeigt die Heilungsphase.",
+    dahlke: "Dahlke beschreibt Herpes als den Ausbruch dessen, was unter der Oberfläche geschwält hat. Die Bläschen sind Miniaturvulkane, sie zeigen, dass etwas längst überfällig ist, auszubrechen.",
+    hay: "Louise Hay sieht hinter Herpes den brennenden Wunsch, schlecht zu sprechen und unterdrückte Bitterkeit. Die neue Botschaft: In meiner Welt gibt es nur Aktivität und Ausdruck von Liebe. Ich bin im Frieden.",
+    heilweg: "Sprich aus, was gesagt werden will, bevor der Herpes es für dich tut. Achte auf die Situationen, in denen du etwas zurückhältst, und überprüfe, ob es wirklich zurückgehalten werden muss. Gib deinen Lippen, was sie brauchen: ehrliche Worte, freie Küsse und die Erlaubnis, die Grenze zwischen Innen und Außen durchlässig zu halten.",
   },
 
   'akne': {
-    kurzfassung: "Akne ist das Gesicht, das sich wehrt, gesehen zu werden -- innere Konflikte, die an die Oberflaeche draengen.",
-    tiefe_betrachtung: `Akne betrifft das Gesicht -- den Teil des Koerpers, den wir der Welt zeigen, den niemand uebersehen kann. Wenn das Gesicht von Akne gezeichnet ist, entsteht ein schmerzhafter Widerspruch: Man wird ständig gesehen, aber nicht so, wie man gesehen werden will. Akne erzeugt Scham, Rueckzug, das Gefuehl, nicht richtig zu sein.
+    kurzfassung: "Akne ist das Gesicht, das sich wehrt, gesehen zu werden, innere Konflikte, die an die Oberfläche drängen.",
+    tiefe_betrachtung: `Akne betrifft das Gesicht, den Teil des Körpers, den wir der Welt zeigen, den niemand übersehen kann. Wenn das Gesicht von Akne gezeichnet ist, entsteht ein schmerzhafter Widerspruch: Man wird ständig gesehen, aber nicht so, wie man gesehen werden will. Akne erzeugt Scham, Rückzug, das Gefühl, nicht richtig zu sein.
 
-Akne tritt typischerweise in der Pubertaet auf -- einer Zeit der Identitaetsfindung, der sexuellen Reifung, des Aufbruchs. Die Haut bricht aus, weil so viel im Umbruch ist: Hormone, Emotionen, das Bild von sich selbst. Die Talgdruesen produzieren Uebermaass, die Poren verstopfen -- alles, was raus will, kann nicht richtig heraus. Akne zeigt: Da ist so viel unter der Oberflaeche, das herausdraengt und keinen Weg findet.
+Akne tritt typischerweise in der Pubertät auf, einer Zeit der Identitätsfindung, der sexuellen Reifung, des Aufbruchs. Die Haut bricht aus, weil so viel im Umbruch ist: Hormone, Emotionen, das Bild von sich selbst. Die Talgdrüsen produzieren Übermaass, die Poren verstopfen, alles, was raus will, kann nicht richtig heraus. Akne zeigt: Da ist so viel unter der Oberfläche, das herausdrängt und keinen Weg findet.
 
-Bei Erwachsenen-Akne spielen oft Themen wie Selbstakzeptanz, unterdrueckte Wut und der Konflikt zwischen dem wahren Selbst und der gezeigten Fassade eine Rolle. Die Haut macht sichtbar, was unter der Oberflaeche brodelt. Jeder Pickel ist ein kleiner Vulkan, der etwas ausstösst, das nicht laenger zurueckgehalten werden kann.
+Bei Erwachsenen-Akne spielen oft Themen wie Selbstakzeptanz, unterdrückte Wut und der Konflikt zwischen dem wahren Selbst und der gezeigten Fassade eine Rolle. Die Haut macht sichtbar, was unter der Oberfläche brodelt. Jeder Pickel ist ein kleiner Vulkan, der etwas ausstößt, das nicht länger zurückgehalten werden kann.
 
-Akne betrifft auch die Grenze zwischen Innen und Aussen. Die Poren -- die kleinen Tore in der Haut -- sind verstopft. Der Austausch zwischen Ich und Welt ist gestoert. Was heraus will, staut sich, entzuendet sich, wird schmerzhaft. Die Botschaft: Finde einen gesunden Weg, dich auszudruecken, bevor die Haut es fuer dich tut.`,
-    koerpersymbolik: "Das Gesicht repraesentiert unsere Identitaet, unser Nach-aussen-Gezeigtes, unsere Persoenlichkeit. Die Haut als Grenzorgan im Gesicht steht fuer die Art, wie wir uns der Welt praesentieren. Akne zeigt, dass diese Praesentationsflaeche im Konflikt ist -- zwischen zeigen und verstecken, zwischen dem wahren Selbst und der Maske.",
+Akne betrifft auch die Grenze zwischen Innen und Außen. Die Poren, die kleinen Tore in der Haut, sind verstopft. Der Austausch zwischen Ich und Welt ist gestört. Was heraus will, staut sich, entzündet sich, wird schmerzhaft. Die Botschaft: Finde einen gesunden Weg, dich auszudrücken, bevor die Haut es für dich tut.`,
+    koerpersymbolik: "Das Gesicht repräsentiert unsere Identität, unser Nach-außen-Gezeigtes, unsere Persönlichkeit. Die Haut als Grenzorgan im Gesicht steht für die Art, wie wir uns der Welt präsentieren. Akne zeigt, dass diese Präsentationsfläche im Konflikt ist, zwischen zeigen und verstecken, zwischen dem wahren Selbst und der Maske.",
     kernfragen: [
-      "Was moechte aus mir herausbrechen, das ich zurueckhalte?",
-      "Wie stehe ich zu meinem eigenen Gesicht -- zu dem, was ich der Welt zeige?",
+      "Was möchte aus mir herausbrechen, das ich zurückhalte?",
+      "Wie stehe ich zu meinem eigenen Gesicht, zu dem, was ich der Welt zeige?",
       "Wo ist der Konflikt zwischen meinem wahren Selbst und der Fassade?",
       "Welche Scham trage ich, die sich auf meiner Haut zeigt?",
-      "Was waere, wenn ich mich zeige, wie ich wirklich bin -- ohne Maske, ohne Filter?",
+      "Was wäre, wenn ich mich zeige, wie ich wirklich bin, ohne Maske, ohne Filter?",
     ],
-    hamer_konflikt: "Nach Hamer steht Akne in Zusammenhang mit einem Besudelungs- oder Entstellungs-Konflikt -- sich beschmutzt fuehlen, sich haesslich fuehlen, sein Gesicht verlieren. Die Haut reagiert in der Heilungsphase mit Entzuendung und Schwellung.",
-    dahlke: "Dahlke beschreibt Akne als den Ausbruch der Unreife -- nicht im abwertenden Sinne, sondern als Ausdruck dessen, was noch nicht reif und integriert ist. Die Pickel zeigen, was noch unter der Oberflaeche gaert und der Reifung bedarf.",
-    hay: "Louise Hay sieht hinter Akne Nichtakzeptanz und Abneigung gegen sich selbst. Die neue Botschaft: Ich bin eine goettliche Expression des Lebens. Ich liebe und akzeptiere mich genau dort, wo ich jetzt bin.",
-    heilweg: "Beginne, dein Gesicht liebevoll anzuschauen -- nicht als Problemzone, sondern als Spiegel deiner inneren Welt. Was will heraus, das du zurueckhaeltst? Finde Ausdruck fuer das, was unter der Oberflaeche brodelt -- in Gespraechen, in kreativer Arbeit, in Bewegung. Und erlaube dir, dich auch in deiner Unvollkommenheit zu zeigen. Dein wahres Gesicht ist schoener als jede Maske.",
+    hamer_konflikt: "Nach Hamer steht Akne in Zusammenhang mit einem Besudelungs- oder Entstellungs-Konflikt, sich beschmutzt fühlen, sich hässlich fühlen, sein Gesicht verlieren. Die Haut reagiert in der Heilungsphase mit Entzündung und Schwellung.",
+    dahlke: "Dahlke beschreibt Akne als den Ausbruch der Unreife, nicht im abwertenden Sinne, sondern als Ausdruck dessen, was noch nicht reif und integriert ist. Die Pickel zeigen, was noch unter der Oberfläche gärt und der Reifung bedarf.",
+    hay: "Louise Hay sieht hinter Akne Nichtakzeptanz und Abneigung gegen sich selbst. Die neue Botschaft: Ich bin eine göttliche Expression des Lebens. Ich liebe und akzeptiere mich genau dort, wo ich jetzt bin.",
+    heilweg: "Beginne, dein Gesicht liebevoll anzuschauen, nicht als Problemzone, sondern als Spiegel deiner inneren Welt. Was will heraus, das du zurückhältst? Finde Ausdruck für das, was unter der Oberfläche brodelt, in Gesprächen, in kreativer Arbeit, in Bewegung. Und erlaube dir, dich auch in deiner Unvollkommenheit zu zeigen. Dein wahres Gesicht ist schöner als jede Maske.",
   },
 
 }

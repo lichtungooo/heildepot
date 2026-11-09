@@ -11,12 +11,12 @@ export const HERB_DEEP_2 = {
   'Echinacea': {
     vollname: 'Purpur-Sonnenhut (Echinacea purpurea)',
     familie: 'Korbblütler (Asteraceae)',
-    beschreibung: `Echinacea ist eine der bekanntesten Immunpflanzen der Welt. Ursprünglich aus den Prärien Nordamerikas stammend, hat sie sich in den letzten hundert Jahren zu einem der meistverkauften pflanzlichen Heilmittel entwickelt. Ihre grossen, purpurfarbenen Blütenköpfe mit dem charakteristisch stacheligen Blütenboden verraten bereits ihren Namen -- "Echinos" ist griechisch für Igel.
+    beschreibung: `Echinacea ist eine der bekanntesten Immunpflanzen der Welt. Ursprünglich aus den Prärien Nordamerikas stammend, hat sie sich in den letzten hundert Jahren zu einem der meistverkauften pflanzlichen Heilmittel entwickelt. Ihre großen, purpurfarbenen Blütenköpfe mit dem charakteristisch stacheligen Blütenboden verraten bereits ihren Namen, "Echinos" ist griechisch für Igel.
 
-Die Pflanze enthält ein komplexes Zusammenspiel immunstimulierender Substanzen: Alkamide, Polysaccharide, Cichoriensäure und Glykoproteine. Gemeinsam aktivieren sie die Fresszellen, steigern die Bildung weisser Blutkörperchen und stärken die körpereigene Abwehr. Besonders wirksam ist sie bei den ersten Anzeichen einer Erkältung -- dann kann sie den Verlauf deutlich abkürzen und mildern.
+Die Pflanze enthält ein komplexes Zusammenspiel immunstimulierender Substanzen: Alkamide, Polysaccharide, Cichoriensäure und Glykoproteine. Gemeinsam aktivieren sie die Fresszellen, steigern die Bildung weißer Blutkörperchen und stärken die körpereigene Abwehr. Besonders wirksam ist sie bei den ersten Anzeichen einer Erkältung, dann kann sie den Verlauf deutlich abkürzen und mildern.
 
 Wichtig ist die richtige Anwendung: Echinacea entfaltet ihre volle Kraft als Kurzzeit-Impuls für das Immunsystem. Eine Anwendung über maximal 8 Wochen ist empfehlenswert, danach sollte eine Pause eingelegt werden, damit das Immunsystem nicht abstumpft.`,
-    geschichte: `Die indigenen Völker Nordamerikas -- insbesondere die Lakota, Cheyenne und Pawnee -- nutzten Echinacea seit Jahrhunderten als Universalheilmittel bei Schlangenbissen, Wunden und Infektionen. Sie kauten die Wurzel bei Zahnschmerzen und bereiteten Umschläge für Verbrennungen.
+    geschichte: `Die indigenen Völker Nordamerikas, insbesondere die Lakota, Cheyenne und Pawnee, nutzten Echinacea seit Jahrhunderten als Universalheilmittel bei Schlangenbissen, Wunden und Infektionen. Sie kauten die Wurzel bei Zahnschmerzen und bereiteten Umschläge für Verbrennungen.
 
 Ab den 1890er Jahren wurde Echinacea durch den Arzt H.C.F. Meyer in der westlichen Medizin bekannt. In Deutschland erforschte Gerhard Madaus die Pflanze in den 1930er Jahren intensiv, und seitdem gehört sie zu den bestuntersuchten Heilpflanzen überhaupt.`,
     wirkungen: {
@@ -25,7 +25,7 @@ Ab den 1890er Jahren wurde Echinacea durch den Arzt H.C.F. Meyer in der westlich
     },
     ernte: {
       zeit: 'Blüten: Juli bis September. Wurzeln: Herbst des zweiten oder dritten Jahres, nach der Blüte.',
-      teile: 'Kraut (oberirdische Teile) und Wurzeln -- beide haben unterschiedliche Wirkstoffprofile.',
+      teile: 'Kraut (oberirdische Teile) und Wurzeln, beide haben unterschiedliche Wirkstoffprofile.',
       tipps: 'Die Wurzeln enthalten mehr Alkamide, das Kraut mehr Polysaccharide. Für die Tinktur am besten frische Pflanzenteile verwenden.',
       mond: 'Oberirdische Teile bei zunehmendem Mond, Wurzeln bei abnehmendem Mond ernten.',
     },
@@ -37,7 +37,7 @@ Ab den 1890er Jahren wurde Echinacea durch den Arzt H.C.F. Meyer in der westlich
       },
       {
         name: 'Echinacea-Tee',
-        anleitung: '2 TL getrocknetes Kraut oder 1 TL getrocknete Wurzel mit 250ml kochendem Wasser übergiessen, 10-15 Minuten ziehen lassen. Bis zu 3 Tassen täglich für maximal 2 Wochen.',
+        anleitung: '2 TL getrocknetes Kraut oder 1 TL getrocknete Wurzel mit 250ml kochendem Wasser übergießen, 10-15 Minuten ziehen lassen. Bis zu 3 Tassen täglich für maximal 2 Wochen.',
         wirkung: 'Unterstützt die Immunabwehr, besonders in der Erkältungszeit.',
       },
       {
@@ -48,8 +48,8 @@ Ab den 1890er Jahren wurde Echinacea durch den Arzt H.C.F. Meyer in der westlich
     ],
     mischungen: ['Immunstärkungstee (mit Holunder und Hagebutte)', 'Erkältungstinktur (mit Thymian und Ingwer)'],
     tcm: 'Echinacea wird in der TCM als kühlend und toxinausleitend betrachtet, sie klärt Wind-Hitze und stärkt das Wei-Qi (Abwehr-Qi).',
-    ayurveda: 'Echinacea reduziert Kapha, kann aber bei Pitta-Konstitution in hohen Dosen zu viel Hitze erzeugen -- massvoll dosieren.',
-    volksmedizin: 'Die Prärieindianer kauten Echinacea-Wurzeln, bevor sie barfuss über glühende Kohlen gingen -- die betäubende Wirkung der Alkamide machte die Haut unempfindlich.',
+    ayurveda: 'Echinacea reduziert Kapha, kann aber bei Pitta-Konstitution in hohen Dosen zu viel Hitze erzeugen, maßvoll dosieren.',
+    volksmedizin: 'Die Prärieindianer kauten Echinacea-Wurzeln, bevor sie barfuß über glühende Kohlen gingen, die betäubende Wirkung der Alkamide machte die Haut unempfindlich.',
     besonders_bei: ['immunschwaeche', 'erkaeltung', 'grippe', 'infekte', 'wundheilung', 'haut'],
   },
 
@@ -59,21 +59,21 @@ Ab den 1890er Jahren wurde Echinacea durch den Arzt H.C.F. Meyer in der westlich
   'Knoblauch': {
     vollname: 'Knoblauch (Allium sativum)',
     familie: 'Lauchgewächse (Alliaceae)',
-    beschreibung: `Knoblauch ist weit mehr als ein Küchengewürz -- er ist eines der ältesten und mächtigsten Heilmittel der Menschheit. Sein Hauptwirkstoff Allicin entsteht erst beim Zerdrücken oder Schneiden der Zehen, wenn das Enzym Alliinase auf Alliin trifft. Diese schwefelhaltige Verbindung ist für den typischen Geruch verantwortlich -- und für die meisten Heilwirkungen.
+    beschreibung: `Knoblauch ist weit mehr als ein Küchengewürz, er ist eines der ältesten und mächtigsten Heilmittel der Menschheit. Sein Hauptwirkstoff Allicin entsteht erst beim Zerdrücken oder Schneiden der Zehen, wenn das Enzym Alliinase auf Alliin trifft. Diese schwefelhaltige Verbindung ist für den typischen Geruch verantwortlich, und für die meisten Heilwirkungen.
 
-Knoblauch wirkt auf das Herz-Kreislauf-System wie kaum eine andere Pflanze: Er senkt den Blutdruck, reguliert die Blutfette, hemmt die Verklumpung der Blutplättchen und schützt die Gefässe vor Arteriosklerose. Regelmässiger Verzehr kann das Risiko für Herzinfarkt und Schlaganfall deutlich senken.
+Knoblauch wirkt auf das Herz-Kreislauf-System wie kaum eine andere Pflanze: Er senkt den Blutdruck, reguliert die Blutfette, hemmt die Verklumpung der Blutplättchen und schützt die Gefäße vor Arteriosklerose. Regelmäßiger Verzehr kann das Risiko für Herzinfarkt und Schlaganfall deutlich senken.
 
-Darüber hinaus ist Knoblauch ein natürliches Breitband-Antibiotikum. Er wirkt gegen Bakterien, Viren, Pilze und sogar Parasiten -- und das, ohne die nützliche Darmflora zu zerstören. Im Gegenteil: Die Fructane im Knoblauch nähren die guten Darmbakterien.`,
+Darüber hinaus ist Knoblauch ein natürliches Breitband-Antibiotikum. Er wirkt gegen Bakterien, Viren, Pilze und sogar Parasiten, und das, ohne die nützliche Darmflora zu zerstören. Im Gegenteil: Die Fructane im Knoblauch nähren die guten Darmbakterien.`,
     geschichte: `Knoblauch wurde bereits vor 5000 Jahren in Mesopotamien kultiviert. Die Arbeiter an den ägyptischen Pyramiden erhielten tägliche Knoblauch-Rationen für Kraft und Ausdauer. Im antiken Griechenland assen Olympioniken Knoblauch vor den Wettkämpfen als natürliches Doping.
 
-Im Mittelalter galt Knoblauch als Schutz vor der Pest -- die berühmten "Pestärzte" trugen knoblauchgefüllte Schnabelmasken. In beiden Weltkriegen wurde Knoblauchsaft als Wunddesinfektionsmittel eingesetzt, als synthetische Antibiotika knapp waren.`,
+Im Mittelalter galt Knoblauch als Schutz vor der Pest, die berühmten "Pestärzte" trugen knoblauchgefüllte Schnabelmasken. In beiden Weltkriegen wurde Knoblauchsaft als Wunddesinfektionsmittel eingesetzt, als synthetische Antibiotika knapp waren.`,
     wirkungen: {
       hauptwirkungen: ['Blutdrucksenkend', 'Cholesterinsenkend', 'Antibakteriell', 'Antiviral', 'Antimykotisch', 'Blutverdünnend'],
       inhaltsstoffe: ['Allicin', 'Alliin', 'Ajoen', 'Schwefelverbindungen', 'Selen', 'Germanium', 'Fructane', 'Vitamin C'],
     },
     ernte: {
       zeit: 'Juli bis August, wenn etwa die Hälfte der Blätter braun geworden ist.',
-      teile: 'Knollen (Zehen) -- die gesamte Pflanze ist essbar, auch die Blütenstängel (Knoblauchscapes).',
+      teile: 'Knollen (Zehen), die gesamte Pflanze ist essbar, auch die Blütenstängel (Knoblauchscapes).',
       tipps: 'Nach der Ernte an einem luftigen, trockenen Ort für 2-3 Wochen trocknen lassen. In Zöpfe geflochten haltbar aufhängen.',
       mond: 'Bei abnehmendem Mond ernten für beste Lagerfähigkeit, bei zunehmendem Mond für höchsten Wirkstoffgehalt.',
     },
@@ -81,28 +81,28 @@ Im Mittelalter galt Knoblauch als Schutz vor der Pest -- die berühmten "Pestär
       {
         name: 'Knoblauch-Zitronen-Kur',
         anleitung: '30 Knoblauchzehen und 5 Bio-Zitronen (mit Schale) zerkleinern, mit 1 Liter Wasser aufkochen, abseihen. Täglich ein Likörglas (2cl) vor dem Essen trinken. Kur über 3 Wochen, dann 1 Woche Pause.',
-        wirkung: 'Entkalkt die Gefässe, senkt Blutdruck und Cholesterin, vitalisiert den gesamten Kreislauf.',
+        wirkung: 'Entkalkt die Gefäße, senkt Blutdruck und Cholesterin, vitalisiert den gesamten Kreislauf.',
       },
       {
         name: 'Roher Knoblauch',
         anleitung: '1-2 frische Knoblauchzehen täglich zerdrücken, 10 Minuten warten (damit sich Allicin bildet), dann roh auf Brot oder in Salat essen.',
-        wirkung: 'Stärkste antibiotische und herzschützende Wirkung -- Hitze zerstört einen Teil des Allicins.',
+        wirkung: 'Stärkste antibiotische und herzschützende Wirkung: Hitze zerstört einen Teil des Allicins.',
       },
       {
         name: 'Schwarzer Knoblauch',
-        anleitung: 'Knoblauchknollen bei 60-80°C und hoher Luftfeuchtigkeit über 30-40 Tage fermentieren lassen. Die Zehen werden schwarz, weich und schmecken süsslich-umami.',
+        anleitung: 'Knoblauchknollen bei 60-80°C und hoher Luftfeuchtigkeit über 30-40 Tage fermentieren lassen. Die Zehen werden schwarz, weich und schmecken süßlich-umami.',
         wirkung: 'Doppelt so viele Antioxidantien wie roher Knoblauch, dabei magenfreundlich und geruchsarm.',
       },
       {
         name: 'Knoblauch-Honig',
         anleitung: 'Geschälte Knoblauchzehen in ein Glas füllen und mit rohem Honig bedecken. 4 Wochen fermentieren lassen. Täglich 1 Zehe und 1 TL des Honigs bei Infekten.',
-        wirkung: 'Kombination zweier antimikrobieller Naturheilmittel -- besonders wirksam bei Erkältungen.',
+        wirkung: 'Kombination zweier antimikrobieller Naturheilmittel, besonders wirksam bei Erkältungen.',
       },
     ],
-    mischungen: ['Herz-Kreislauf-Kur (mit Weissdorn und Mistel)', 'Immun-Tonikum (mit Meerrettich und Kurkuma)'],
-    tcm: 'Knoblauch ist in der TCM heiss und scharf, er wärmt die Mitte, vertreibt Kälte und löst Schleim-Stagnation.',
-    ayurveda: 'Knoblauch ist im Ayurveda Rajasisch-Tamasisch und reduziert Vata und Kapha stark, kann aber Pitta erhöhen -- in der Heilkunde dennoch hochgeschätzt.',
-    volksmedizin: 'Grossmütter steckten Kindern bei Ohrenschmerzen ein in Gaze gewickeltes Knoblauchstück ins Ohr -- die ätherischen Schwefelverbindungen linderten tatsächlich Entzündungen.',
+    mischungen: ['Herz-Kreislauf-Kur (mit Weißdorn und Mistel)', 'Immun-Tonikum (mit Meerrettich und Kurkuma)'],
+    tcm: 'Knoblauch ist in der TCM heiß und scharf, er wärmt die Mitte, vertreibt Kälte und löst Schleim-Stagnation.',
+    ayurveda: 'Knoblauch ist im Ayurveda Rajasisch-Tamasisch und reduziert Vata und Kapha stark, kann aber Pitta erhöhen, in der Heilkunde dennoch hochgeschätzt.',
+    volksmedizin: 'Großmütter steckten Kindern bei Ohrenschmerzen ein in Gaze gewickeltes Knoblauchstück ins Ohr, die ätherischen Schwefelverbindungen linderten tatsächlich Entzündungen.',
     besonders_bei: ['bluthochdruck', 'cholesterin', 'arteriosklerose', 'immunschwaeche', 'infekte', 'pilzinfektionen', 'parasiten'],
   },
 
@@ -111,13 +111,13 @@ Im Mittelalter galt Knoblauch als Schutz vor der Pest -- die berühmten "Pestär
   // ═══════════════════════════════════════════════════════════════════════════
   'Schwarzkümmel': {
     vollname: 'Echter Schwarzkümmel (Nigella sativa)',
-    familie: 'Hahnenfussgewächse (Ranunculaceae)',
-    beschreibung: `Schwarzkümmel ist eine der am tiefsten verehrten Heilpflanzen des Orients. Seine kleinen schwarzen Samen bergen eine erstaunliche Wirkstoffvielfalt: Thymochinon, ungesättigte Fettsäuren, ätherische Öle und zahlreiche Spurenelemente. Im arabischen Raum sagt man: "Schwarzkümmel heilt alles ausser den Tod."
+    familie: 'Hahnenfußgewächse (Ranunculaceae)',
+    beschreibung: `Schwarzkümmel ist eine der am tiefsten verehrten Heilpflanzen des Orients. Seine kleinen schwarzen Samen bergen eine erstaunliche Wirkstoffvielfalt: Thymochinon, ungesättigte Fettsäuren, ätherische Öle und zahlreiche Spurenelemente. Im arabischen Raum sagt man: "Schwarzkümmel heilt alles außer den Tod."
 
-Besonders bemerkenswert ist die Wirkung des Schwarzkümmelöls bei Allergien und Autoimmunerkrankungen. Das Thymochinon reguliert das Immunsystem auf eine einzigartige Weise -- es stärkt die Abwehr gegen Infekte und dämpft gleichzeitig überschiessende allergische Reaktionen. Diese immunmodulierende Eigenschaft macht ihn so wertvoll.
+Besonders bemerkenswert ist die Wirkung des Schwarzkümmelöls bei Allergien und Autoimmunerkrankungen. Das Thymochinon reguliert das Immunsystem auf eine einzigartige Weise, es stärkt die Abwehr gegen Infekte und dämpft gleichzeitig überschießende allergische Reaktionen. Diese immunmodulierende Eigenschaft macht ihn so wertvoll.
 
-Das kaltgepresste Öl aus den Samen schmeckt leicht scharf, pfeffrig und aromatisch. Es wird sowohl innerlich als auch äusserlich angewendet -- bei Hauterkrankungen, Atemwegsbeschwerden, Verdauungsproblemen und vielem mehr.`,
-    geschichte: `Im Grab des Pharao Tutanchamun fand man ein Fläschchen Schwarzkümmelöl -- die alten Ägypter nannten es "Gold der Pharaonen". Kleopatra soll es für ihre Schönheitspflege verwendet haben. In der islamischen Heilkunde nimmt Schwarzkümmel eine besondere Stellung ein, da der Prophet Mohammed ihn als Heilmittel empfohlen haben soll.
+Das kaltgepresste Öl aus den Samen schmeckt leicht scharf, pfeffrig und aromatisch. Es wird sowohl innerlich als auch äußerlich angewendet, bei Hauterkrankungen, Atemwegsbeschwerden, Verdauungsproblemen und vielem mehr.`,
+    geschichte: `Im Grab des Pharao Tutanchamun fand man ein Fläschchen Schwarzkümmelöl, die alten Ägypter nannten es "Gold der Pharaonen". Kleopatra soll es für ihre Schönheitspflege verwendet haben. In der islamischen Heilkunde nimmt Schwarzkümmel eine besondere Stellung ein, da der Prophet Mohammed ihn als Heilmittel empfohlen haben soll.
 
 Avicenna beschrieb den Schwarzkümmel im "Kanon der Medizin" als Mittel gegen Atemnot und Lethargie. In der europäischen Klostermedizin war er als "Katharinenblume" bekannt und wurde bei Verdauungsbeschwerden und Kopfschmerzen eingesetzt.`,
     wirkungen: {
@@ -126,7 +126,7 @@ Avicenna beschrieb den Schwarzkümmel im "Kanon der Medizin" als Mittel gegen At
     },
     ernte: {
       zeit: 'August bis September, wenn die Samenkapseln braun und trocken sind.',
-      teile: 'Samen -- die kleinen schwarzen Samen sind der medizinisch wertvolle Teil.',
+      teile: 'Samen, die kleinen schwarzen Samen sind der medizinisch wertvolle Teil.',
       tipps: 'Die Kapseln vor dem vollständigen Öffnen ernten und kopfüber trocknen, damit die Samen nicht herausfallen. Kühl und dunkel lagern.',
       mond: 'Bei abnehmendem Mond ernten für beste Haltbarkeit des Öls.',
     },
@@ -144,18 +144,18 @@ Avicenna beschrieb den Schwarzkümmel im "Kanon der Medizin" als Mittel gegen At
       {
         name: 'Schwarzkümmel-Hautöl',
         anleitung: 'Kaltgepresstes Schwarzkümmelöl direkt auf betroffene Hautstellen auftragen und sanft einmassieren. 2x täglich anwenden.',
-        wirkung: 'Hilft bei Neurodermitis, Psoriasis, Akne und Ekzemen -- beruhigt den Juckreiz und fördert die Heilung.',
+        wirkung: 'Hilft bei Neurodermitis, Psoriasis, Akne und Ekzemen, beruhigt den Juckreiz und fördert die Heilung.',
       },
       {
         name: 'Schwarzkümmel-Tee',
-        anleitung: '1 TL Schwarzkümmelsamen leicht anmörsern, mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. Mit Honig süssen.',
+        anleitung: '1 TL Schwarzkümmelsamen leicht anmörsern, mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. Mit Honig süßen.',
         wirkung: 'Verdauungsfördernd, blähungswidrig, stärkt die Abwehrkräfte.',
       },
     ],
     mischungen: ['Allergietee (mit Brennnessel und Augentrost)', 'Atemwegsmischung (mit Thymian und Spitzwegerich)'],
-    tcm: 'Schwarzkümmel wärmt die Mitte, stärkt das Lungen-Qi und transformiert Feuchtigkeit -- wertvoll bei Kälte-Schleim in der Lunge.',
+    tcm: 'Schwarzkümmel wärmt die Mitte, stärkt das Lungen-Qi und transformiert Feuchtigkeit, wertvoll bei Kälte-Schleim in der Lunge.',
     ayurveda: 'Schwarzkümmel ist scharf und bitter, er reduziert Kapha und Vata, stärkt Agni und öffnet die Srotas (Körperkanäle).',
-    volksmedizin: 'In der orientalischen Volksmedizin streut man Schwarzkümmelsamen auf Fladenbrot -- nicht nur für den Geschmack, sondern weil er die Verdauung schwerer Speisen erleichtert.',
+    volksmedizin: 'In der orientalischen Volksmedizin streut man Schwarzkümmelsamen auf Fladenbrot, nicht nur für den Geschmack, sondern weil er die Verdauung schwerer Speisen erleichtert.',
     besonders_bei: ['allergie', 'asthma', 'immunschwaeche', 'haut', 'neurodermitis', 'verdauung', 'diabetes'],
   },
 
@@ -165,33 +165,33 @@ Avicenna beschrieb den Schwarzkümmel im "Kanon der Medizin" als Mittel gegen At
   'Frauenmantel': {
     vollname: 'Gemeiner Frauenmantel (Alchemilla vulgaris)',
     familie: 'Rosengewächse (Rosaceae)',
-    beschreibung: `Der Frauenmantel ist die bedeutendste Frauenheilpflanze der europäischen Kräutertradition. Sein Name verrät seine Bestimmung -- und der lateinische Name "Alchemilla" weist auf die Alchemisten hin, die die Tautropfen auf seinen Blättern als "himmlisches Wasser" sammelten, das Gold verwandeln sollte.
+    beschreibung: `Der Frauenmantel ist die bedeutendste Frauenheilpflanze der europäischen Kräutertradition. Sein Name verrät seine Bestimmung, und der lateinische Name "Alchemilla" weist auf die Alchemisten hin, die die Tautropfen auf seinen Blättern als "himmlisches Wasser" sammelten, das Gold verwandeln sollte.
 
-Die fächerförmigen, mantelartig gefalteten Blätter mit ihrem seidig behaarten Rand sind ein unverkennbares Merkmal. In ihnen sammeln sich morgens Tautropfen, die durch einen eigenen Mechanismus der Pflanze ausgeschieden werden (Guttation) -- ein magisches Bild, das die Menschen seit jeher fasziniert.
+Die fächerförmigen, mantelartig gefalteten Blätter mit ihrem seidig behaarten Rand sind ein unverkennbares Merkmal. In ihnen sammeln sich morgens Tautropfen, die durch einen eigenen Mechanismus der Pflanze ausgeschieden werden (Guttation), ein magisches Bild, das die Menschen seit jeher fasziniert.
 
-Frauenmantel enthält reichlich Gerbstoffe, die zusammenziehend und blutstillend wirken, sowie Flavonoide und Phytoprogesteron -- eine dem weiblichen Progesteron ähnliche Substanz. Dadurch reguliert er den Hormonhaushalt, lindert Menstruationsbeschwerden, unterstützt die Fruchtbarkeit und begleitet Frauen sanft durch die Wechseljahre.`,
-    geschichte: `Im Mittelalter weihte man den Frauenmantel der Muttergottes Maria -- sein "Mantel" sollte Frauen schützen und heilen. Hildegard von Bingen empfahl ihn bei Frauenleiden aller Art. Die Kräuterkundige Maria Treben nannte ihn "die beste Freundin der Frau".
+Frauenmantel enthält reichlich Gerbstoffe, die zusammenziehend und blutstillend wirken, sowie Flavonoide und Phytoprogesteron, eine dem weiblichen Progesteron ähnliche Substanz. Dadurch reguliert er den Hormonhaushalt, lindert Menstruationsbeschwerden, unterstützt die Fruchtbarkeit und begleitet Frauen sanft durch die Wechseljahre.`,
+    geschichte: `Im Mittelalter weihte man den Frauenmantel der Muttergottes Maria, sein "Mantel" sollte Frauen schützen und heilen. Hildegard von Bingen empfahl ihn bei Frauenleiden aller Art. Die Kräuterkundige Maria Treben nannte ihn "die beste Freundin der Frau".
 
-In der Alchemie galten die Tautropfen auf den Frauenmantelblättern als reinste Form des Wassers -- "Alchemilla-Wasser" wurde für mystische Experimente gesammelt. In den Alpen tranken Bäuerinnen Frauenmanteltee ab der 36. Schwangerschaftswoche zur Geburtsvorbereitung.`,
+In der Alchemie galten die Tautropfen auf den Frauenmantelblättern als reinste Form des Wassers, "Alchemilla-Wasser" wurde für mystische Experimente gesammelt. In den Alpen tranken Bäuerinnen Frauenmanteltee ab der 36. Schwangerschaftswoche zur Geburtsvorbereitung.`,
     wirkungen: {
       hauptwirkungen: ['Zyklusregulierend', 'Progesteronähnlich', 'Zusammenziehend (adstringierend)', 'Wundheilend', 'Entzündungshemmend', 'Gebärmuttertonisierend'],
       inhaltsstoffe: ['Gerbstoffe (6-8%)', 'Flavonoide', 'Phytoprogesteron', 'Ellagitannine', 'Salicylsäure', 'Bitterstoffe', 'Saponine'],
     },
     ernte: {
       zeit: 'Mai bis August, während der Blütezeit. Am kraftvollsten ist das Kraut im Juni.',
-      teile: 'Blätter und blühendes Kraut -- die ganze oberirdische Pflanze ist nutzbar.',
+      teile: 'Blätter und blühendes Kraut, die ganze oberirdische Pflanze ist nutzbar.',
       tipps: 'Am besten morgens ernten, wenn noch der Tau auf den Blättern liegt. Zügig trocknen, damit die Gerbstoffe erhalten bleiben.',
       mond: 'Bei zunehmendem Mond an einem Blatttag ernten. Für Geburtsvorbereitung am besten bei Vollmond.',
     },
     zubereitungen: [
       {
         name: 'Frauenmanteltee',
-        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergiessen, 10-12 Minuten ziehen lassen. 2-3 Tassen täglich, besonders in der zweiten Zyklushälfte.',
+        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergießen, 10-12 Minuten ziehen lassen. 2-3 Tassen täglich, besonders in der zweiten Zyklushälfte.',
         wirkung: 'Reguliert den Zyklus, lindert PMS, Menstruationskrämpfe und Zwischenblutungen.',
       },
       {
         name: 'Frauenmantel-Sitzbad',
-        anleitung: '100g getrocknetes Kraut mit 2 Litern kochendem Wasser aufgiessen, 20 Minuten ziehen lassen, abseihen und ins Badewasser geben. 15-20 Minuten darin baden.',
+        anleitung: '100g getrocknetes Kraut mit 2 Litern kochendem Wasser aufgießen, 20 Minuten ziehen lassen, abseihen und ins Badewasser geben. 15-20 Minuten darin baden.',
         wirkung: 'Bei Unterleibsbeschwerden, Ausfluss und zur Wundheilung nach der Geburt.',
       },
       {
@@ -201,9 +201,9 @@ In der Alchemie galten die Tautropfen auf den Frauenmantelblättern als reinste 
       },
     ],
     mischungen: ['Frauentee (mit Schafgarbe und Brennnessel)', 'Wechseljahrestee (mit Salbei und Rotklee)'],
-    tcm: 'Frauenmantel stärkt in der TCM das Milz-Qi und reguliert das Blut, er harmonisiert den Chong Mai (Durchdringungsgefäss).',
-    ayurveda: 'Der Frauenmantel beruhigt Vata und Pitta, stärkt die weibliche Shakti-Energie und reguliert Apana Vata (abwärts fliessende Energie).',
-    volksmedizin: 'Hebammen liessen Schwangere ab der 36. Woche täglich 3-4 Tassen Frauenmanteltee trinken -- er bereitet den Muttermund auf die Geburt vor und erleichtert die Wehen.',
+    tcm: 'Frauenmantel stärkt in der TCM das Milz-Qi und reguliert das Blut, er harmonisiert den Chong Mai (Durchdringungsgefäß).',
+    ayurveda: 'Der Frauenmantel beruhigt Vata und Pitta, stärkt die weibliche Shakti-Energie und reguliert Apana Vata (abwärts fließende Energie).',
+    volksmedizin: 'Hebammen ließen Schwangere ab der 36. Woche täglich 3-4 Tassen Frauenmanteltee trinken, er bereitet den Muttermund auf die Geburt vor und erleichtert die Wehen.',
     besonders_bei: ['menstruation', 'pms', 'wechseljahre', 'kinderwunsch', 'geburt', 'haut', 'durchfall'],
   },
 
@@ -213,28 +213,28 @@ In der Alchemie galten die Tautropfen auf den Frauenmantelblättern als reinste 
   'Hopfen': {
     vollname: 'Echter Hopfen (Humulus lupulus)',
     familie: 'Hanfgewächse (Cannabaceae)',
-    beschreibung: `Hopfen ist weit mehr als die Seele des Bieres -- er ist eine der stärksten Beruhigungspflanzen Europas. Die Zapfen der weiblichen Hopfenpflanze enthalten ein gelbes, klebriges Harz (Lupulin), das reich an Bitterstoffen, ätherischen Ölen und hormonähnlichen Substanzen ist.
+    beschreibung: `Hopfen ist weit mehr als die Seele des Bieres, er ist eine der stärksten Beruhigungspflanzen Europas. Die Zapfen der weiblichen Hopfenpflanze enthalten ein gelbes, klebriges Harz (Lupulin), das reich an Bitterstoffen, ätherischen Ölen und hormonähnlichen Substanzen ist.
 
-Seine beruhigende Wirkung ist so stark, dass Hopfenpflücker früher für ihre Müdigkeit bekannt waren -- sie schliefen bei der Arbeit regelrecht ein. Lupulin wirkt auf das Nervensystem ähnlich wie der Botenstoff GABA und fördert den natürlichen Schlaf, ohne den Schlafrhythmus zu stören.
+Seine beruhigende Wirkung ist so stark, dass Hopfenpflücker früher für ihre Müdigkeit bekannt waren, sie schliefen bei der Arbeit regelrecht ein. Lupulin wirkt auf das Nervensystem ähnlich wie der Botenstoff GABA und fördert den natürlichen Schlaf, ohne den Schlafrhythmus zu stören.
 
 Neben der schlaffördernden Wirkung enthält der Hopfen pflanzliche Östrogene (8-Prenylnaringenin), die bei Wechseljahresbeschwerden helfen können. Auch seine stark appetitanregenden und verdauungsfördernden Bitterstoffe machen ihn zu einem wertvollen Heilmittel.`,
-    geschichte: `Hopfen wurde erstmals im 8. Jahrhundert in Klostergärten als Bierwürze kultiviert -- vorher braute man Bier mit der Kräutermischung "Grut". Die Mönche entdeckten, dass Hopfen nicht nur konserviert und schmeckt, sondern auch den Geschlechtstrieb dämpft -- willkommen im Kloster.
+    geschichte: `Hopfen wurde erstmals im 8. Jahrhundert in Klostergärten als Bierwürze kultiviert, vorher braute man Bier mit der Kräutermischung "Grut". Die Mönche entdeckten, dass Hopfen nicht nur konserviert und schmeckt, sondern auch den Geschlechtstrieb dämpft, willkommen im Kloster.
 
-Hildegard von Bingen schrieb über den Hopfen: "Er macht die Seele des Menschen traurig" -- damit meinte sie seine beruhigende, melancholisch stimmende Wirkung. Schon Paracelsus nutzte Hopfenkissen gegen Schlaflosigkeit.`,
+Hildegard von Bingen schrieb über den Hopfen: "Er macht die Seele des Menschen traurig", damit meinte sie seine beruhigende, melancholisch stimmende Wirkung. Schon Paracelsus nutzte Hopfenkissen gegen Schlaflosigkeit.`,
     wirkungen: {
       hauptwirkungen: ['Beruhigend', 'Schlaffördernd', 'Krampflösend', 'Appetitanregend', 'Östrogenähnlich', 'Bitter-tonisierend'],
       inhaltsstoffe: ['Lupulin', 'Humulon', 'Lupulon', '8-Prenylnaringenin', 'Ätherisches Öl', 'Flavonoide', 'Gerbstoffe'],
     },
     ernte: {
       zeit: 'August bis September, wenn die Zapfen sich papierartig anfühlen und gelbgrün sind.',
-      teile: 'Weibliche Blütenzapfen -- das gelbe Lupulinpulver darin ist der wirksamste Teil.',
+      teile: 'Weibliche Blütenzapfen, das gelbe Lupulinpulver darin ist der wirksamste Teil.',
       tipps: 'Hopfenzapfen verlieren schnell ihre Wirkung. Rasch trocknen und dunkel, kühl und luftdicht aufbewahren. Am besten jährlich frisch besorgen.',
       mond: 'Bei abnehmendem Mond ernten, idealerweise an einem Wurzeltag für stärkste Beruhigungswirkung.',
     },
     zubereitungen: [
       {
         name: 'Hopfen-Schlaftee',
-        anleitung: '2 TL Hopfenzapfen mit 250ml kochendem Wasser übergiessen, zugedeckt 15 Minuten ziehen lassen. 1 Tasse 30-60 Minuten vor dem Schlafengehen trinken.',
+        anleitung: '2 TL Hopfenzapfen mit 250ml kochendem Wasser übergießen, zugedeckt 15 Minuten ziehen lassen. 1 Tasse 30-60 Minuten vor dem Schlafengehen trinken.',
         wirkung: 'Fördert natürlichen Schlaf, beruhigt ein überaktives Nervensystem.',
       },
       {
@@ -245,13 +245,13 @@ Hildegard von Bingen schrieb über den Hopfen: "Er macht die Seele des Menschen 
       {
         name: 'Hopfen-Baldrian-Tinktur',
         anleitung: 'Zu gleichen Teilen Hopfenzapfen und Baldrianwurzel in ein Glas füllen und mit 40%igem Alkohol bedecken. 4 Wochen ziehen lassen. Abends 30-40 Tropfen in warmem Wasser.',
-        wirkung: 'Die Kombination beider Pflanzen wirkt stärker als jede einzeln -- wissenschaftlich bestätigt.',
+        wirkung: 'Die Kombination beider Pflanzen wirkt stärker als jede einzeln, wissenschaftlich bestätigt.',
       },
     ],
     mischungen: ['Schlaftee (mit Baldrian und Passionsblume)', 'Nerventee (mit Melisse und Lavendel)'],
     tcm: 'Hopfen kühlt Leber-Feuer und beruhigt den Shen (Geist), er wird bei aufsteigendem Yang mit Schlafstörungen eingesetzt.',
     ayurveda: 'Hopfen reduziert Pitta und überschüssiges Vata, wirkt Tamas-fördernd und ist daher ein abendliches Kraut.',
-    volksmedizin: 'Ein Hopfenkissen unterm Kopfkissen war das Hausmittel der Grossmütter gegen Schlaflosigkeit -- König George III. soll damit seine Unruhe behandelt haben.',
+    volksmedizin: 'Ein Hopfenkissen unterm Kopfkissen war das Hausmittel der Großmütter gegen Schlaflosigkeit: König George III. soll damit seine Unruhe behandelt haben.',
     besonders_bei: ['schlafprobleme', 'angst', 'nervositaet', 'wechseljahre', 'appetitlosigkeit', 'verdauung'],
   },
 
@@ -261,14 +261,14 @@ Hildegard von Bingen schrieb über den Hopfen: "Er macht die Seele des Menschen 
   'Rosmarin': {
     vollname: 'Rosmarin (Rosmarinus officinalis)',
     familie: 'Lippenblütler (Lamiaceae)',
-    beschreibung: `Rosmarin ist das Kraut der Erinnerung und der Lebenskraft. Sein Name stammt vom lateinischen "ros marinus" -- Tau des Meeres -- und tatsächlich liebt er die salzige Luft der Mittelmeerküsten. Die nadelförmigen, immergrünen Blätter sind voller ätherischer Öle, die belebend auf Geist und Körper wirken.
+    beschreibung: `Rosmarin ist das Kraut der Erinnerung und der Lebenskraft. Sein Name stammt vom lateinischen "ros marinus": Tau des Meeres, und tatsächlich liebt er die salzige Luft der Mittelmeerküsten. Die nadelförmigen, immergrünen Blätter sind voller ätherischer Öle, die belebend auf Geist und Körper wirken.
 
 Im Gegensatz zu den meisten Beruhigungskräutern ist Rosmarin ein Aktivierer: Er steigert die Durchblutung, regt den Kreislauf an, schärft die Konzentration und vertreibt geistige Müdigkeit. Rosmarinsäure und Carnosolsäure sind starke Antioxidantien, die auch im Labor beeindruckende neuroprotektive Wirkung zeigen.
 
-Äusserlich angewendet ist Rosmarin ein Segen bei Muskelverspannungen, rheumatischen Beschwerden und niedrigem Blutdruck. Ein Rosmarinbad am Morgen bringt den Kreislauf in Schwung wie kaum etwas anderes.`,
+Äußerlich angewendet ist Rosmarin ein Segen bei Muskelverspannungen, rheumatischen Beschwerden und niedrigem Blutdruck. Ein Rosmarinbad am Morgen bringt den Kreislauf in Schwung wie kaum etwas anderes.`,
     geschichte: `Im antiken Griechenland steckten sich Studenten Rosmarinzweige ins Haar, um ihr Gedächtnis zu stärken. Bei Beerdigungen wurde Rosmarin als Symbol der Erinnerung auf den Sarg gelegt. Im Mittelalter verbrannte man Rosmarin in Krankenzimmern zur Desinfektion.
 
-Die "Königin von Ungarn" liess sich im 14. Jahrhundert ein berühmtes Rosmarinwasser destillieren ("Ungarisches Wasser"), das sie angeblich von schwerer Gicht heilte und ihr bis ins hohe Alter jugendliche Schönheit verlieh.`,
+Die "Königin von Ungarn" ließ sich im 14. Jahrhundert ein berühmtes Rosmarinwasser destillieren ("Ungarisches Wasser"), das sie angeblich von schwerer Gicht heilte und ihr bis ins hohe Alter jugendliche Schönheit verlieh.`,
     wirkungen: {
       hauptwirkungen: ['Kreislaufanregend', 'Konzentrationssteigernd', 'Durchblutungsfördernd', 'Antioxidativ', 'Verdauungsfördernd', 'Schmerzlindernd'],
       inhaltsstoffe: ['Rosmarinsäure', 'Carnosolsäure', 'Campher', '1,8-Cineol', 'Carnosol', 'Ätherisches Öl', 'Flavonoide', 'Diterpene'],
@@ -282,13 +282,13 @@ Die "Königin von Ungarn" liess sich im 14. Jahrhundert ein berühmtes Rosmarinw
     zubereitungen: [
       {
         name: 'Rosmarin-Kreislauftee',
-        anleitung: '1-2 TL frische oder getrocknete Rosmarinblätter mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. Morgens 1-2 Tassen trinken.',
+        anleitung: '1-2 TL frische oder getrocknete Rosmarinblätter mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. Morgens 1-2 Tassen trinken.',
         wirkung: 'Bringt den Kreislauf in Schwung, steigert Konzentration und Wachheit.',
       },
       {
         name: 'Rosmarinbad',
-        anleitung: '50g Rosmarin mit 1 Liter kochendem Wasser aufgiessen, 20 Minuten ziehen lassen, abseihen und ins Badewasser geben. Morgens baden.',
-        wirkung: 'Belebt Kreislauf und Durchblutung, lindert Muskelschmerzen und Rheuma. Nicht abends -- kann den Schlaf stören.',
+        anleitung: '50g Rosmarin mit 1 Liter kochendem Wasser aufgießen, 20 Minuten ziehen lassen, abseihen und ins Badewasser geben. Morgens baden.',
+        wirkung: 'Belebt Kreislauf und Durchblutung, lindert Muskelschmerzen und Rheuma. Nicht abends, kann den Schlaf stören.',
       },
       {
         name: 'Rosmarinöl (Einreibung)',
@@ -297,14 +297,14 @@ Die "Königin von Ungarn" liess sich im 14. Jahrhundert ein berühmtes Rosmarinw
       },
       {
         name: 'Rosmarinwein',
-        anleitung: '3-4 frische Rosmarinzweige in eine Flasche trockenen Weisswein geben und 1 Woche ziehen lassen. Täglich ein Gläschen als Digestif.',
-        wirkung: 'Stärkt die Verdauung und belebt Herz und Geist -- eine Tradition aus dem Mittelmeerraum.',
+        anleitung: '3-4 frische Rosmarinzweige in eine Flasche trockenen Weißwein geben und 1 Woche ziehen lassen. Täglich ein Gläschen als Digestif.',
+        wirkung: 'Stärkt die Verdauung und belebt Herz und Geist, eine Tradition aus dem Mittelmeerraum.',
       },
     ],
-    mischungen: ['Kreislauftee (mit Weissdorn und Mate)', 'Gedächtnistee (mit Ginkgo und Grüntee)'],
+    mischungen: ['Kreislauftee (mit Weißdorn und Mate)', 'Gedächtnistee (mit Ginkgo und Grüntee)'],
     tcm: 'Rosmarin ist warm und scharf, er bewegt Qi und Blut, wärmt die Niere und vertreibt Wind-Kälte.',
-    ayurveda: 'Rosmarin reduziert Kapha und Vata, erhöht Pitta und stärkt Agni -- ein hervorragendes Sattvisches Kraut für den Geist.',
-    volksmedizin: 'In südeuropäischen Dörfern pflanzte man Rosmarin an die Haustür -- er sollte böse Geister fernhalten und das Gedächtnis der Alten schärfen.',
+    ayurveda: 'Rosmarin reduziert Kapha und Vata, erhöht Pitta und stärkt Agni, ein hervorragendes Sattvisches Kraut für den Geist.',
+    volksmedizin: 'In südeuropäischen Dörfern pflanzte man Rosmarin an die Haustür, er sollte böse Geister fernhalten und das Gedächtnis der Alten schärfen.',
     besonders_bei: ['niedriger_blutdruck', 'konzentration', 'erschoepfung', 'rheuma', 'verdauung', 'kopfschmerzen'],
   },
 
@@ -312,14 +312,14 @@ Die "Königin von Ungarn" liess sich im 14. Jahrhundert ein berühmtes Rosmarinw
   // 7. MISTEL
   // ═══════════════════════════════════════════════════════════════════════════
   'Mistel': {
-    vollname: 'Weisse Mistel (Viscum album)',
+    vollname: 'Weiße Mistel (Viscum album)',
     familie: 'Sandelholzgewächse (Santalaceae)',
-    beschreibung: `Die Mistel ist eine der geheimnisvollsten Heilpflanzen Europas. Als Halbschmarotzer wächst sie in kugelförmigen Büschen auf Bäumen -- schwebend zwischen Himmel und Erde, weder ganz Pflanze noch ganz Parasit. Diese Zwischenstellung hat die Menschen seit Jahrtausenden fasziniert.
+    beschreibung: `Die Mistel ist eine der geheimnisvollsten Heilpflanzen Europas. Als Halbschmarotzer wächst sie in kugelförmigen Büschen auf Bäumen, schwebend zwischen Himmel und Erde, weder ganz Pflanze noch ganz Parasit. Diese Zwischenstellung hat die Menschen seit Jahrtausenden fasziniert.
 
 Medizinisch ist die Mistel vor allem für zwei Bereiche bedeutend: die Regulierung des Blutdrucks und die begleitende Krebstherapie. Mistellektine aktivieren das Immunsystem und können die Lebensqualität bei Krebspatienten verbessern. Die Misteltherapie nach Rudolf Steiner (anthroposophische Medizin) ist eine der am besten erforschten komplementären Krebsbehandlungen.
 
 Im Bereich Blutdruck zeigt die Mistel eine bemerkenswerte Doppelwirkung: Sie reguliert sowohl zu hohen als auch zu niedrigen Blutdruck. Diese adaptogene Eigenschaft ist in der Pflanzenwelt selten und wertvoll.`,
-    geschichte: `Bei den Kelten war die Mistel die heiligste aller Pflanzen. Die Druiden schnitten sie mit einer goldenen Sichel vom Baum -- ein feierliches Ritual zur Wintersonnwende. Plinius berichtete, dass die Gallier sie "Allheiler" nannten. Auch die germanische Mythologie kennt die Mistel: Loki tötete den Lichtgott Baldur mit einem Mistelzweig.
+    geschichte: `Bei den Kelten war die Mistel die heiligste aller Pflanzen. Die Druiden schnitten sie mit einer goldenen Sichel vom Baum, ein feierliches Ritual zur Wintersonnwende. Plinius berichtete, dass die Gallier sie "Allheiler" nannten. Auch die germanische Mythologie kennt die Mistel: Loki tötete den Lichtgott Baldur mit einem Mistelzweig.
 
 In der modernen Medizin erforschte Ita Wegman ab 1917 die Mistel als Krebsmittel auf Anregung Rudolf Steiners. Heute ist die Misteltherapie das am häufigsten eingesetzte komplementäre Krebsmittel in Deutschland.`,
     wirkungen: {
@@ -328,7 +328,7 @@ In der modernen Medizin erforschte Ita Wegman ab 1917 die Mistel als Krebsmittel
     },
     ernte: {
       zeit: 'November bis Februar, traditionell zur Wintersonnwende. Die Laubholz-Mistel im Winter, die Tannen-Mistel ganzjährig.',
-      teile: 'Junge Zweige mit Blättern -- die Beeren werden in der Volksmedizin nicht verwendet (leicht giftig).',
+      teile: 'Junge Zweige mit Blättern, die Beeren werden in der Volksmedizin nicht verwendet (leicht giftig).',
       tipps: 'Die Mistel vom Apfelbaum gilt als besonders heilkräftig. Nie alle Misteln von einem Baum nehmen. Achtung: Die Beeren sind für Kinder giftig.',
       mond: 'Traditionell bei Vollmond oder in den Rauhnächten ernten für die stärkste Heilkraft.',
     },
@@ -349,10 +349,10 @@ In der modernen Medizin erforschte Ita Wegman ab 1917 die Mistel als Krebsmittel
         wirkung: 'Lindert Gelenkschmerzen, Arthrose und rheumatische Beschwerden.',
       },
     ],
-    mischungen: ['Blutdrucktee (mit Weissdorn und Knoblauch)', 'Herz-Kreislauf-Mischung (mit Melisse und Herzgespann)'],
+    mischungen: ['Blutdrucktee (mit Weißdorn und Knoblauch)', 'Herz-Kreislauf-Mischung (mit Melisse und Herzgespann)'],
     tcm: 'Die Mistel stärkt in der TCM Leber und Niere, vertreibt Wind-Feuchtigkeit und nährt das Yin.',
-    ayurveda: 'Mistel harmonisiert alle drei Doshas und wirkt besonders auf Vata -- sie erdet und beruhigt den ruhelosen Geist.',
-    volksmedizin: 'In der Volksheilkunde galt die Mistel als Mittel gegen Epilepsie -- die "fallende Krankheit" wurde mit der Pflanze behandelt, die selbst nie zu Boden fällt.',
+    ayurveda: 'Mistel harmonisiert alle drei Doshas und wirkt besonders auf Vata, sie erdet und beruhigt den ruhelosen Geist.',
+    volksmedizin: 'In der Volksheilkunde galt die Mistel als Mittel gegen Epilepsie, die "fallende Krankheit" wurde mit der Pflanze behandelt, die selbst nie zu Boden fällt.',
     besonders_bei: ['bluthochdruck', 'arteriosklerose', 'schwindel', 'krebs_begleitend', 'rheuma', 'nervositaet'],
   },
 
@@ -362,14 +362,14 @@ In der modernen Medizin erforschte Ita Wegman ab 1917 die Mistel als Krebsmittel
   'Bärlauch': {
     vollname: 'Bärlauch (Allium ursinum)',
     familie: 'Lauchgewächse (Alliaceae)',
-    beschreibung: `Der Bärlauch ist der wilde Bruder des Knoblauchs und einer der ersten Frühlingsboten im Wald. Ab März durchdringt sein würziger Knoblauchduft ganze Buchenwälder. Die breiten, zartgrünen Blätter sind ein Zeichen, dass die Bären aus dem Winterschlaf erwachen -- daher der Name. Sie fressen ihn als Erstes, um sich nach der langen Ruhepause zu reinigen.
+    beschreibung: `Der Bärlauch ist der wilde Bruder des Knoblauchs und einer der ersten Frühlingsboten im Wald. Ab März durchdringt sein würziger Knoblauchduft ganze Buchenwälder. Die breiten, zartgrünen Blätter sind ein Zeichen, dass die Bären aus dem Winterschlaf erwachen, daher der Name. Sie fressen ihn als Erstes, um sich nach der langen Ruhepause zu reinigen.
 
-Bärlauch wirkt ähnlich wie Knoblauch, ist aber milder und magenfreundlicher. Seine Schwefelverbindungen reinigen das Blut, senken den Blutdruck, wirken antibiotisch und entgiften den Körper von Schwermetallen. Besonders das enthaltene Adenosin wirkt gefässerweiternd und blutverdünnend.
+Bärlauch wirkt ähnlich wie Knoblauch, ist aber milder und magenfreundlicher. Seine Schwefelverbindungen reinigen das Blut, senken den Blutdruck, wirken antibiotisch und entgiften den Körper von Schwermetallen. Besonders das enthaltene Adenosin wirkt gefäßerweiternd und blutverdünnend.
 
-Eine Frühjahrskur mit Bärlauch ist eine der besten Möglichkeiten, den Körper nach dem Winter zu entschlacken. Er liefert gleichzeitig reichlich Vitamin C, Eisen und Chlorophyll -- alles, was der Körper nach der dunklen Jahreszeit braucht.`,
+Eine Frühjahrskur mit Bärlauch ist eine der besten Möglichkeiten, den Körper nach dem Winter zu entschlacken. Er liefert gleichzeitig reichlich Vitamin C, Eisen und Chlorophyll, alles, was der Körper nach der dunklen Jahreszeit braucht.`,
     geschichte: `Die Germanen verehrten den Bärlauch als magische Pflanze, die Bärenkräfte verleiht. Bären galten als heilig und ihre Frühlingspflanze übertrug ihre Kraft auf den Menschen. In keltischer Tradition gehörte Bärlauch zu den ersten Gaben des Frühlings.
 
-Im Mittelalter war Bärlauch als "Herba Salutaris" bekannt -- das heilsame Kraut. Kräuterkundige wussten: Wo Bärlauch wächst, ist der Boden gesund. Er zeigt nährstoffreiche, feuchte Böden an und wächst oft in der Nähe von Quellen.`,
+Im Mittelalter war Bärlauch als "Herba Salutaris" bekannt, das heilsame Kraut. Kräuterkundige wussten: Wo Bärlauch wächst, ist der Boden gesund. Er zeigt nährstoffreiche, feuchte Böden an und wächst oft in der Nähe von Quellen.`,
     wirkungen: {
       hauptwirkungen: ['Blutreinigend', 'Entgiftend (Schwermetalle)', 'Blutdrucksenkend', 'Antibakteriell', 'Durchblutungsfördernd', 'Cholesterinsenkend'],
       inhaltsstoffe: ['Alliin', 'Allicin', 'Adenosin', 'Schwefelverbindungen', 'Vitamin C', 'Eisen', 'Mangan', 'Chlorophyll'],
@@ -377,18 +377,18 @@ Im Mittelalter war Bärlauch als "Herba Salutaris" bekannt -- das heilsame Kraut
     ernte: {
       zeit: 'März bis Mai, vor der Blüte sind die Blätter am zartesten und wirkstoffreichsten.',
       teile: 'Vor allem die Blätter, aber auch Knospen, Blüten und sogar die Zwiebeln sind essbar.',
-      tipps: 'Vorsicht vor Verwechslung mit Maiglöckchen (giftig), Herbstzeitlose (tödlich) und Aronstab (giftig). Bärlauch riecht immer nach Knoblauch -- im Zweifel ein Blatt zerreiben und riechen.',
+      tipps: 'Vorsicht vor Verwechslung mit Maiglöckchen (giftig), Herbstzeitlose (tödlich) und Aronstab (giftig). Bärlauch riecht immer nach Knoblauch, im Zweifel ein Blatt zerreiben und riechen.',
       mond: 'Bei zunehmendem Mond ernten für die stärkste Reinigungswirkung.',
     },
     zubereitungen: [
       {
         name: 'Bärlauch-Pesto',
         anleitung: '200g frische Bärlauchblätter, 50g Pinienkerne oder Walnüsse, 50g Parmesan, 150ml Olivenöl und Salz im Mixer pürieren. In Gläser füllen, mit Öl bedecken. Hält im Kühlschrank mehrere Wochen.',
-        wirkung: 'Täglicher Genuss reinigt das Blut, stärkt die Gefässe und liefert wertvolle Nährstoffe.',
+        wirkung: 'Täglicher Genuss reinigt das Blut, stärkt die Gefäße und liefert wertvolle Nährstoffe.',
       },
       {
         name: 'Bärlauch-Frühjahrskur',
-        anleitung: 'Über 4-6 Wochen täglich frischen Bärlauch essen -- in Salaten, auf Brot, als Pesto oder Suppe. Mindestens eine Handvoll pro Tag.',
+        anleitung: 'Über 4-6 Wochen täglich frischen Bärlauch essen, in Salaten, auf Brot, als Pesto oder Suppe. Mindestens eine Handvoll pro Tag.',
         wirkung: 'Umfassende Frühjahrsentgiftung, Blutreinigung und Vitalisierung nach dem Winter.',
       },
       {
@@ -398,9 +398,9 @@ Im Mittelalter war Bärlauch als "Herba Salutaris" bekannt -- das heilsame Kraut
       },
     ],
     mischungen: ['Frühjahrskur (mit Brennnessel und Löwenzahn)', 'Entgiftungstee (mit Koriander und Chlorella)'],
-    tcm: 'Bärlauch bewegt in der TCM das Blut, wärmt die Mitte und leitet Toxine aus -- ein klassisches Frühlingskraut zum Reinigen.',
+    tcm: 'Bärlauch bewegt in der TCM das Blut, wärmt die Mitte und leitet Toxine aus, ein klassisches Frühlingskraut zum Reinigen.',
     ayurveda: 'Bärlauch reduziert Kapha und Ama (Stoffwechselschlacken), er entfacht das Verdauungsfeuer und reinigt die Srotas.',
-    volksmedizin: 'In Bauernkalendern steht: "Bärlauch im Mai erspart den Gang zum Doktor" -- eine Frühjahrskur mit Bärlauch galt als wichtigste Gesundheitsvorsorge des Jahres.',
+    volksmedizin: 'In Bauernkalendern steht: "Bärlauch im Mai erspart den Gang zum Doktor", eine Frühjahrskur mit Bärlauch galt als wichtigste Gesundheitsvorsorge des Jahres.',
     besonders_bei: ['entgiftung', 'bluthochdruck', 'arteriosklerose', 'cholesterin', 'fruehjahrskur', 'schwermetalle'],
   },
 
@@ -410,27 +410,27 @@ Im Mittelalter war Bärlauch als "Herba Salutaris" bekannt -- das heilsame Kraut
   'Aloe': {
     vollname: 'Echte Aloe (Aloe vera / Aloe barbadensis)',
     familie: 'Grasbaumgewächse (Xanthorrhoeaceae)',
-    beschreibung: `Die Aloe vera ist die "Pflanze der Unsterblichkeit", wie die alten Ägypter sie nannten. Ihre dicken, fleischigen Blätter speichern ein kostbares Gel, das zu 99% aus Wasser besteht -- aber das verbleibende Prozent hat es in sich: über 200 bioaktive Substanzen, darunter Vitamine, Enzyme, Aminosäuren, Mineralstoffe und Polysaccharide.
+    beschreibung: `Die Aloe vera ist die "Pflanze der Unsterblichkeit", wie die alten Ägypter sie nannten. Ihre dicken, fleischigen Blätter speichern ein kostbares Gel, das zu 99% aus Wasser besteht, aber das verbleibende Prozent hat es in sich: über 200 bioaktive Substanzen, darunter Vitamine, Enzyme, Aminosäuren, Mineralstoffe und Polysaccharide.
 
-Acemannan, das wichtigste Polysaccharid im Aloe-Gel, stimuliert das Immunsystem, fördert die Zellregeneration und wirkt antiviral. Äusserlich aufgetragen ist Aloe-Gel ein wahres Wundermittel für die Haut: Es kühlt Verbrennungen, beschleunigt die Wundheilung, spendet Feuchtigkeit und beruhigt Entzündungen.
+Acemannan, das wichtigste Polysaccharid im Aloe-Gel, stimuliert das Immunsystem, fördert die Zellregeneration und wirkt antiviral. Äußerlich aufgetragen ist Aloe-Gel ein wahres Wundermittel für die Haut: Es kühlt Verbrennungen, beschleunigt die Wundheilung, spendet Feuchtigkeit und beruhigt Entzündungen.
 
 Innerlich angewendet unterstützt der Saft die Verdauung, wirkt entzündungshemmend auf die Magen-Darm-Schleimhaut und stärkt das Immunsystem. Die abführende Wirkung der Blattschale (Aloin) sollte allerdings mit Vorsicht genossen werden.`,
-    geschichte: `Die älteste bekannte Erwähnung der Aloe stammt aus einer sumerischen Tontafel von 2100 v. Chr. Kleopatra nutzte Aloe-Gel für ihre legendäre Hautpflege. Alexander der Grosse soll die Insel Sokotra eigens erobert haben, um die dort wachsende Aloe für seine verwundeten Soldaten zu sichern.
+    geschichte: `Die älteste bekannte Erwähnung der Aloe stammt aus einer sumerischen Tontafel von 2100 v. Chr. Kleopatra nutzte Aloe-Gel für ihre legendäre Hautpflege. Alexander der Große soll die Insel Sokotra eigens erobert haben, um die dort wachsende Aloe für seine verwundeten Soldaten zu sichern.
 
-In der ayurvedischen Medizin wird die Aloe seit über 5000 Jahren als "Kumari" -- die Jungfrau -- verehrt. Die spanischen Missionare brachten sie nach Amerika, wo sie den Ureinwohnern als "Doktorpflanze" bekannt wurde.`,
+In der ayurvedischen Medizin wird die Aloe seit über 5000 Jahren als "Kumari", die Jungfrau, verehrt. Die spanischen Missionare brachten sie nach Amerika, wo sie den Ureinwohnern als "Doktorpflanze" bekannt wurde.`,
     wirkungen: {
       hauptwirkungen: ['Wundheilend', 'Hautpflegend', 'Entzündungshemmend', 'Immunstimulierend', 'Feuchtigkeitsspendend', 'Verdauungsfördernd'],
       inhaltsstoffe: ['Acemannan', 'Aloin', 'Saponine', 'Enzyme (Amylase, Lipase)', 'Vitamine (A, C, E, B12)', 'Aminosäuren', 'Salicylsäure', 'Mineralstoffe (Zink, Magnesium)'],
     },
     ernte: {
-      zeit: 'Ganzjährig von mindestens 3 Jahre alten Pflanzen. Die äusseren, ältesten Blätter zuerst ernten.',
-      teile: 'Blätter -- das innere Gel wird vom bitteren Blattsaft (Aloin) getrennt verwendet.',
+      zeit: 'Ganzjährig von mindestens 3 Jahre alten Pflanzen. Die äußeren, ältesten Blätter zuerst ernten.',
+      teile: 'Blätter, das innere Gel wird vom bitteren Blattsaft (Aloin) getrennt verwendet.',
       tipps: 'Blatt am Ansatz abschneiden und aufrecht stellen, damit der gelbe Aloin-Saft abtropfen kann (15-20 Minuten). Dann das klare Gel herauslöffeln. Frisches Gel innerhalb weniger Tage verbrauchen.',
       mond: 'Bei zunehmendem Mond ernten, wenn der Saftgehalt am höchsten ist.',
     },
     zubereitungen: [
       {
-        name: 'Aloe-Gel (äusserlich)',
+        name: 'Aloe-Gel (äußerlich)',
         anleitung: 'Ein Aloe-Blatt aufschneiden, das klare Gel herausschaben und direkt auf die betroffene Hautstelle auftragen. Mehrmals täglich wiederholen.',
         wirkung: 'Kühlt Verbrennungen, lindert Sonnenbrand, beschleunigt Wundheilung, beruhigt Insektenstiche und Hautreizungen.',
       },
@@ -446,9 +446,9 @@ In der ayurvedischen Medizin wird die Aloe seit über 5000 Jahren als "Kumari" -
       },
     ],
     mischungen: ['Verdauungstrunk (mit Ingwer und Zitrone)', 'Hautpflege-Gel (mit Lavendelöl und Kamille)'],
-    tcm: 'Aloe kühlt Hitze, befeuchtet Trockenheit und leitet Feuer-Toxine aus -- sie nährt das Leber-Yin und klärt die Haut.',
+    tcm: 'Aloe kühlt Hitze, befeuchtet Trockenheit und leitet Feuer-Toxine aus, sie nährt das Leber-Yin und klärt die Haut.',
     ayurveda: 'Als "Kumari" (die Jungfrau) reduziert Aloe alle drei Doshas, besonders Pitta, und gilt als verjüngendes Rasayana.',
-    volksmedizin: 'In mediterranen Haushalten steht auf jeder Fensterbank eine Aloe-Pflanze -- bei Verbrennungen in der Küche wird einfach ein Blatt abgebrochen und das kühlende Gel aufgetragen.',
+    volksmedizin: 'In mediterranen Haushalten steht auf jeder Fensterbank eine Aloe-Pflanze, bei Verbrennungen in der Küche wird einfach ein Blatt abgebrochen und das kühlende Gel aufgetragen.',
     besonders_bei: ['haut', 'verbrennung', 'wundheilung', 'verdauung', 'immunschwaeche', 'sonnenbrand'],
   },
 
@@ -458,33 +458,33 @@ In der ayurvedischen Medizin wird die Aloe seit über 5000 Jahren als "Kumari" -
   'Fenchel': {
     vollname: 'Fenchel (Foeniculum vulgare)',
     familie: 'Doldenblütler (Apiaceae)',
-    beschreibung: `Fenchel ist eine der sanftesten und gleichzeitig vielseitigsten Heilpflanzen -- er eignet sich für Säuglinge ebenso wie für ältere Menschen. Seine süsslich-aromatischen Samen enthalten ätherische Öle, die krampflösend, blähungswidrig und schleimlösend wirken. Kein Wunder, dass Fencheltee seit Generationen das erste Mittel bei Bauchkrämpfen von Babys ist.
+    beschreibung: `Fenchel ist eine der sanftesten und gleichzeitig vielseitigsten Heilpflanzen, er eignet sich für Säuglinge ebenso wie für ältere Menschen. Seine süßlich-aromatischen Samen enthalten ätherische Öle, die krampflösend, blähungswidrig und schleimlösend wirken. Kein Wunder, dass Fencheltee seit Generationen das erste Mittel bei Bauchkrämpfen von Babys ist.
 
 Trans-Anethol, der Hauptbestandteil des ätherischen Öls, wirkt nicht nur auf den Magen-Darm-Trakt, sondern auch auf die Atemwege: Es löst festsitzenden Schleim und erleichtert das Abhusten. Zusätzlich hat Fenchel eine milde östrogenähnliche Wirkung und fördert die Milchbildung bei stillenden Müttern.
 
-Fenchel gibt es in drei Formen: Bitter-Fenchel (Arznei), Süss-Fenchel (Gewürz) und Gemüse-Fenchel (Knolle). Für Heilzwecke ist der Bitter-Fenchel am wirksamsten -- seine höhere Konzentration an Fenchon macht den Unterschied.`,
-    geschichte: `In der griechischen Mythologie brachte Prometheus den Menschen das Feuer in einem hohlen Fenchelstängel. Die römischen Gladiatoren assen Fenchel für Kraft und Mut. Karl der Grosse ordnete den Anbau von Fenchel in allen Klostergärten an.
+Fenchel gibt es in drei Formen: Bitter-Fenchel (Arznei), Süß-Fenchel (Gewürz) und Gemüse-Fenchel (Knolle). Für Heilzwecke ist der Bitter-Fenchel am wirksamsten, seine höhere Konzentration an Fenchon macht den Unterschied.`,
+    geschichte: `In der griechischen Mythologie brachte Prometheus den Menschen das Feuer in einem hohlen Fenchelstängel. Die römischen Gladiatoren assen Fenchel für Kraft und Mut. Karl der Große ordnete den Anbau von Fenchel in allen Klostergärten an.
 
-Hildegard von Bingen schrieb: "Wie auch immer Fenchel gegessen wird, macht er den Menschen fröhlich." Im Mittelalter hing man Fenchelbüschel über Türen, um böse Geister fernzuhalten. In Indien gehören Fenchelsamen nach dem Essen zum festen Ritual -- sie erfrischen den Atem und fördern die Verdauung.`,
+Hildegard von Bingen schrieb: "Wie auch immer Fenchel gegessen wird, macht er den Menschen fröhlich." Im Mittelalter hing man Fenchelbüschel über Türen, um böse Geister fernzuhalten. In Indien gehören Fenchelsamen nach dem Essen zum festen Ritual, sie erfrischen den Atem und fördern die Verdauung.`,
     wirkungen: {
       hauptwirkungen: ['Blähungswidrig', 'Krampflösend', 'Schleimlösend', 'Milchbildungsfördernd', 'Verdauungsfördernd', 'Appetitanregend'],
       inhaltsstoffe: ['Trans-Anethol', 'Fenchon', 'Estragol', 'Ätherisches Öl', 'Flavonoide', 'Cumarine', 'Fettsäuren', 'Vitamine (C, E, K)'],
     },
     ernte: {
       zeit: 'September bis Oktober, wenn die Samenstände braun werden und die Samen sich leicht lösen.',
-      teile: 'Samen (eigentlich Früchte) -- für Heilzwecke. Das Kraut und die Knolle für die Küche.',
+      teile: 'Samen (eigentlich Früchte), für Heilzwecke. Das Kraut und die Knolle für die Küche.',
       tipps: 'Die Dolden kurz vor der Vollreife abschneiden und in einer Papiertüte nachreifen lassen. Samen erst kurz vor der Verwendung im Mörser anquetschen, damit die ätherischen Öle frisch freigesetzt werden.',
       mond: 'Bei abnehmendem Mond ernten für stärkste Verdauungswirkung.',
     },
     zubereitungen: [
       {
         name: 'Fencheltee',
-        anleitung: '1-2 TL Fenchelsamen im Mörser leicht andrücken, mit 250ml kochendem Wasser übergiessen, zugedeckt 10 Minuten ziehen lassen. Für Babys nur 1/2 TL und lauwarm anbieten.',
+        anleitung: '1-2 TL Fenchelsamen im Mörser leicht andrücken, mit 250ml kochendem Wasser übergießen, zugedeckt 10 Minuten ziehen lassen. Für Babys nur 1/2 TL und lauwarm anbieten.',
         wirkung: 'Löst Blähungen, beruhigt den Magen, hilft bei Koliken von Säuglingen.',
       },
       {
         name: 'Fenchel-Milch',
-        anleitung: '1 TL gequetschte Fenchelsamen in 250ml Milch (oder Pflanzenmilch) aufkochen, 5 Minuten ziehen lassen, abseihen. Mit Honig süssen.',
+        anleitung: '1 TL gequetschte Fenchelsamen in 250ml Milch (oder Pflanzenmilch) aufkochen, 5 Minuten ziehen lassen, abseihen. Mit Honig süßen.',
         wirkung: 'Schleimlösend bei Husten, beruhigend am Abend, fördert die Milchbildung bei Stillenden.',
       },
       {
@@ -494,9 +494,9 @@ Hildegard von Bingen schrieb: "Wie auch immer Fenchel gegessen wird, macht er de
       },
     ],
     mischungen: ['Vier-Winde-Tee (mit Anis, Kümmel und Koriander)', 'Stilltee (mit Anis und Bockshornklee)'],
-    tcm: 'Fenchel wärmt die Mitte, reguliert das Qi und vertreibt Kälte aus Magen und Darm -- ein klassisches Mittel bei Kälte-Stagnation.',
-    ayurveda: 'Fenchel ist eines der wenigen Gewürze, das alle drei Doshas beruhigt. Er stärkt Agni, ohne Pitta zu erhöhen -- daher ideal für empfindliche Konstitutionen.',
-    volksmedizin: 'Fencheltee ist seit Generationen das Erste, was Grossmütter bei Bauchweh der Kleinen aufbrühen -- und es wirkt auch bei den Grossen zuverlässig.',
+    tcm: 'Fenchel wärmt die Mitte, reguliert das Qi und vertreibt Kälte aus Magen und Darm, ein klassisches Mittel bei Kälte-Stagnation.',
+    ayurveda: 'Fenchel ist eines der wenigen Gewürze, das alle drei Doshas beruhigt. Er stärkt Agni, ohne Pitta zu erhöhen, daher ideal für empfindliche Konstitutionen.',
+    volksmedizin: 'Fencheltee ist seit Generationen das Erste, was Großmütter bei Bauchweh der Kleinen aufbrühen, und es wirkt auch bei den Großen zuverlässig.',
     besonders_bei: ['verdauung', 'blaehungen', 'koliken', 'husten', 'stillen', 'erkaeltung', 'appetitlosigkeit'],
   },
 
@@ -508,19 +508,19 @@ Hildegard von Bingen schrieb: "Wie auch immer Fenchel gegessen wird, macht er de
     familie: 'Lippenblütler (Lamiaceae)',
     beschreibung: `Mönchspfeffer ist die wichtigste Pflanze zur Regulation des weiblichen Hormonhaushalts. Seine kleinen, pfefferkornähnlichen Früchte wirken direkt auf die Hypophyse (Hirnanhangsdrüse) und regulieren dort die Ausschüttung von Prolaktin und luteinisierendem Hormon. Diese hormonelle Feinsteuerung macht ihn so wertvoll bei PMS, Zyklusstörungen und unerfülltem Kinderwunsch.
 
-Die Wirkung setzt nicht sofort ein -- Mönchspfeffer braucht Geduld. Erst nach 2-3 Monaten regelmässiger Einnahme zeigt sich die volle hormonregulierende Kraft. Dafür sind die Ergebnisse oft erstaunlich: Zyklen normalisieren sich, Brustspannen verschwindet, die Stimmungsschwankungen vor der Regel lassen nach.
+Die Wirkung setzt nicht sofort ein: Mönchspfeffer braucht Geduld. Erst nach 2-3 Monaten regelmäßiger Einnahme zeigt sich die volle hormonregulierende Kraft. Dafür sind die Ergebnisse oft erstaunlich: Zyklen normalisieren sich, Brustspannen verschwindet, die Stimmungsschwankungen vor der Regel lassen nach.
 
-Seinen Namen verdankt er den Mönchen des Mittelalters, die seine Früchte als Pfefferersatz verwendeten -- und feststellten, dass er den Geschlechtstrieb dämpfte. Der lateinische Name "agnus-castus" bedeutet "keusches Lamm".`,
+Seinen Namen verdankt er den Mönchen des Mittelalters, die seine Früchte als Pfefferersatz verwendeten, und feststellten, dass er den Geschlechtstrieb dämpfte. Der lateinische Name "agnus-castus" bedeutet "keusches Lamm".`,
     geschichte: `Schon Hippokrates empfahl Mönchspfeffer bei Gebärmuttererkrankungen. Dioskurides schrieb, dass griechische Frauen während der Thesmophorien (Fruchtbarkeitsfeste) ihre Lager mit Mönchspfefferzweigen auslegten, um die Keuschheit zu fördern.
 
-Im Mittelalter war Mönchspfeffer in jedem Klostergarten zu finden -- als "Pfefferkraut der Mönche" half er beim Einhalten des Keuschheitsgelübdes. Heute ist er eines der am besten erforschten Phytopharmaka bei hormonellen Beschwerden der Frau.`,
+Im Mittelalter war Mönchspfeffer in jedem Klostergarten zu finden, als "Pfefferkraut der Mönche" half er beim Einhalten des Keuschheitsgelübdes. Heute ist er eines der am besten erforschten Phytopharmaka bei hormonellen Beschwerden der Frau.`,
     wirkungen: {
       hauptwirkungen: ['Prolaktinsenkend', 'Zyklusregulierend', 'PMS-lindernd', 'Progesteronfördernd', 'Libidoregulierend', 'Gelbkörperunterstützend'],
       inhaltsstoffe: ['Iridoidglykoside (Agnusid, Aucubin)', 'Flavonoide (Casticin)', 'Diterpene', 'Ätherisches Öl', 'Fettsäuren', 'Phytosteroide'],
     },
     ernte: {
       zeit: 'September bis November, wenn die Früchte ausgereift und dunkelbraun bis schwarz sind.',
-      teile: 'Reife Früchte (Samen) -- sie sehen aus wie schwarze Pfefferkörner.',
+      teile: 'Reife Früchte (Samen), sie sehen aus wie schwarze Pfefferkörner.',
       tipps: 'Die Früchte trocknen und ganz aufbewahren. Erst vor der Zubereitung im Mörser andrücken. Da Mönchspfeffer in Mitteleuropa selten wild wächst, wird er meist im Garten kultiviert.',
       mond: 'Bei abnehmendem Mond ernten, um die hormonregulierende Wirkung zu stärken.',
     },
@@ -532,19 +532,19 @@ Im Mittelalter war Mönchspfeffer in jedem Klostergarten zu finden -- als "Pfeff
       },
       {
         name: 'Mönchspfeffer-Tee',
-        anleitung: '1 TL zerdrückte Früchte mit 250ml kochendem Wasser übergiessen, 10-15 Minuten ziehen lassen. 1-2 Tassen täglich, am besten morgens.',
+        anleitung: '1 TL zerdrückte Früchte mit 250ml kochendem Wasser übergießen, 10-15 Minuten ziehen lassen. 1-2 Tassen täglich, am besten morgens.',
         wirkung: 'Mildere Wirkung als die Tinktur, bei leichten Zyklusbeschwerden und PMS.',
       },
       {
         name: 'Mönchspfeffer als Gewürz',
-        anleitung: 'Getrocknete Früchte in einer Pfeffermühle mahlen und als Pfefferersatz verwenden. Die Wirkung ist milder, aber bei regelmässigem Gebrauch spürbar.',
+        anleitung: 'Getrocknete Früchte in einer Pfeffermühle mahlen und als Pfefferersatz verwenden. Die Wirkung ist milder, aber bei regelmäßigem Gebrauch spürbar.',
         wirkung: 'Sanfte Hormonregulation durch täglichen kulinarischen Genuss.',
       },
     ],
     mischungen: ['Kinderwunschtee (mit Frauenmantel und Schafgarbe)', 'PMS-Tee (mit Johanniskraut und Melisse)'],
-    tcm: 'Mönchspfeffer reguliert in der TCM das Leber-Qi und harmonisiert den Chong Mai -- er löst Qi-Stagnation, die zu Zyklusstörungen führt.',
+    tcm: 'Mönchspfeffer reguliert in der TCM das Leber-Qi und harmonisiert den Chong Mai, er löst Qi-Stagnation, die zu Zyklusstörungen führt.',
     ayurveda: 'Mönchspfeffer beruhigt Pitta und reguliert Apana Vata, er stärkt die Fortpflanzungsorgane (Shukra Dhatu).',
-    volksmedizin: 'Hebammen empfahlen Mönchspfeffer-Tinktur bei unregelmässiger Regel: "Drei Monate nehmen, dann kommt das Kindlein von allein."',
+    volksmedizin: 'Hebammen empfahlen Mönchspfeffer-Tinktur bei unregelmäßiger Regel: "Drei Monate nehmen, dann kommt das Kindlein von allein."',
     besonders_bei: ['pms', 'menstruation', 'kinderwunsch', 'wechseljahre', 'brustspannen', 'zyklusprobleme'],
   },
 
@@ -554,14 +554,14 @@ Im Mittelalter war Mönchspfeffer in jedem Klostergarten zu finden -- als "Pfeff
   'Schöllkraut': {
     vollname: 'Schöllkraut (Chelidonium majus)',
     familie: 'Mohngewächse (Papaveraceae)',
-    beschreibung: `Das Schöllkraut ist eine alte Zauberpflanze und ein kraftvolles Leber-Galle-Mittel. Sein orangegelber Milchsaft, der beim Abbrechen der Stängel austritt, ist sein auffälligstes Merkmal und gleichzeitig sein stärkster Wirkstoff. Dieser Saft wird seit Jahrhunderten äusserlich gegen Warzen verwendet -- mit oft erstaunlichem Erfolg.
+    beschreibung: `Das Schöllkraut ist eine alte Zauberpflanze und ein kraftvolles Leber-Galle-Mittel. Sein orangegelber Milchsaft, der beim Abbrechen der Stängel austritt, ist sein auffälligstes Merkmal und gleichzeitig sein stärkster Wirkstoff. Dieser Saft wird seit Jahrhunderten äußerlich gegen Warzen verwendet, mit oft erstaunlichem Erfolg.
 
-Innerlich ist Schöllkraut eines der wirksamsten Mittel bei krampfartigen Beschwerden der Gallenwege. Die enthaltenen Alkaloide -- insbesondere Chelidonin und Berberin -- entspannen die glatte Muskulatur der Gallenwege und fördern den Gallenfluss. Bei Gallenkoliken kann Schöllkraut rasch Linderung bringen.
+Innerlich ist Schöllkraut eines der wirksamsten Mittel bei krampfartigen Beschwerden der Gallenwege. Die enthaltenen Alkaloide, insbesondere Chelidonin und Berberin, entspannen die glatte Muskulatur der Gallenwege und fördern den Gallenfluss. Bei Gallenkoliken kann Schöllkraut rasch Linderung bringen.
 
 Da Schöllkraut potente Alkaloide enthält, muss es mit Respekt und in der richtigen Dosierung angewendet werden. In hohen Dosen kann es lebertoxisch wirken. Fertigpräparate mit standardisiertem Wirkstoffgehalt sind daher oft die sicherere Wahl.`,
-    geschichte: `Der Name Schöllkraut kommt von "Chelidon" (griechisch für Schwalbe) -- die Pflanze blüht, wenn die Schwalben kommen, und verwelkt, wenn sie gehen. Der Sage nach bestrichen Schwalbenmütter die Augen ihrer blinden Jungen mit dem Saft, um ihnen das Augenlicht zu geben.
+    geschichte: `Der Name Schöllkraut kommt von "Chelidon" (griechisch für Schwalbe), die Pflanze blüht, wenn die Schwalben kommen, und verwelkt, wenn sie gehen. Der Sage nach bestrichen Schwalbenmütter die Augen ihrer blinden Jungen mit dem Saft, um ihnen das Augenlicht zu geben.
 
-Paracelsus sah im gelben Saft eine "Signatur" für die Galle und setzte die Pflanze gezielt bei Leber- und Gallenleiden ein. In der Volksmedizin hiess es: "Schöllkraut macht Warzen verschwinden und die Galle wieder fliessen."`,
+Paracelsus sah im gelben Saft eine "Signatur" für die Galle und setzte die Pflanze gezielt bei Leber- und Gallenleiden ein. In der Volksmedizin hieß es: "Schöllkraut macht Warzen verschwinden und die Galle wieder fließen."`,
     wirkungen: {
       hauptwirkungen: ['Gallenflussfördernd', 'Krampflösend (Gallenwege)', 'Warzenentfernend', 'Leicht schmerzlindernd', 'Antimikrobiell', 'Leberanregend'],
       inhaltsstoffe: ['Chelidonin', 'Berberin', 'Coptisin', 'Sanguinarin', 'Chelidonsäure', 'Flavonoide', 'Carotinoide'],
@@ -569,30 +569,30 @@ Paracelsus sah im gelben Saft eine "Signatur" für die Galle und setzte die Pfla
     ernte: {
       zeit: 'Mai bis Oktober, am wirkstoffreichsten während der Blüte (Mai bis Juli).',
       teile: 'Kraut (oberirdische Teile) und der Milchsaft. Die Wurzel wird seltener verwendet.',
-      tipps: 'Der orangegelbe Milchsaft färbt stark und lässt sich kaum abwaschen -- mit Handschuhen arbeiten. Frischen Saft direkt auf Warzen tupfen.',
+      tipps: 'Der orangegelbe Milchsaft färbt stark und lässt sich kaum abwaschen, mit Handschuhen arbeiten. Frischen Saft direkt auf Warzen tupfen.',
       mond: 'Bei abnehmendem Mond ernten, besonders für die Warzenbehandlung.',
     },
     zubereitungen: [
       {
         name: 'Schöllkraut gegen Warzen',
         anleitung: 'Den frischen orangegelben Milchsaft direkt aus dem Stängel auf die Warze tupfen. 2-3x täglich über 2-4 Wochen wiederholen, ohne die gesunde Haut zu berühren.',
-        wirkung: 'Die Alkaloide im Saft zersetzen das Warzengewebe -- eine der ältesten und wirksamsten Warzenmittel.',
+        wirkung: 'Die Alkaloide im Saft zersetzen das Warzengewebe, eine der ältesten und wirksamsten Warzenmittel.',
       },
       {
         name: 'Schöllkraut-Tee (Gallenweg)',
-        anleitung: '1 TL getrocknetes Kraut mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. Maximal 2 Tassen täglich über maximal 4 Wochen. Nicht bei Lebererkrankungen ohne ärztliche Begleitung.',
+        anleitung: '1 TL getrocknetes Kraut mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. Maximal 2 Tassen täglich über maximal 4 Wochen. Nicht bei Lebererkrankungen ohne ärztliche Begleitung.',
         wirkung: 'Fördert den Gallenfluss, löst Krämpfe der Gallenwege, lindert Völlegefühl nach fettem Essen.',
       },
       {
         name: 'Schöllkraut-Tinktur',
-        anleitung: 'Frisches Kraut mit Milchsaft zerkleinern und mit 50%igem Alkohol im Verhältnis 1:5 ansetzen. 3 Wochen ziehen lassen. 3x täglich 10-15 Tropfen -- nicht überdosieren.',
+        anleitung: 'Frisches Kraut mit Milchsaft zerkleinern und mit 50%igem Alkohol im Verhältnis 1:5 ansetzen. 3 Wochen ziehen lassen. 3x täglich 10-15 Tropfen, nicht überdosieren.',
         wirkung: 'Krampflösend bei Gallenbeschwerden, verdauungsfördernd.',
       },
     ],
     mischungen: ['Gallentee (mit Löwenzahnwurzel und Pfefferminze)', 'Lebertee (mit Mariendistel und Artischocke)'],
     tcm: 'Schöllkraut klärt in der TCM Leber-Hitze, bewegt das Leber-Qi und löst Feucht-Hitze in der Gallenblase.',
     ayurveda: 'Schöllkraut reduziert Kapha und Pitta in der Leber, es reinigt Ranjaka Pitta (das leberbezogene Pitta).',
-    volksmedizin: 'Grossmütter rieben Warzen dreimal bei abnehmendem Mond mit Schöllkrautsaft ein und sprachen dabei einen Heilspruch -- die Warzen verschwanden oft mit dem letzten Viertel.',
+    volksmedizin: 'Großmütter rieben Warzen dreimal bei abnehmendem Mond mit Schöllkrautsaft ein und sprachen dabei einen Heilspruch, die Warzen verschwanden oft mit dem letzten Viertel.',
     besonders_bei: ['galle', 'leber', 'warzen', 'verdauung', 'kraempfe', 'voellegefuehl'],
   },
 
@@ -600,13 +600,13 @@ Paracelsus sah im gelben Saft eine "Signatur" für die Galle und setzte die Pfla
   // 13. KLETTE
   // ═══════════════════════════════════════════════════════════════════════════
   'Klette': {
-    vollname: 'Grosse Klette (Arctium lappa)',
+    vollname: 'Große Klette (Arctium lappa)',
     familie: 'Korbblütler (Asteraceae)',
-    beschreibung: `Die Klette ist eine unterschätzte Heilpflanze von grosser Tiefe. Ihre kräftige Pfahlwurzel reicht bis zu einem Meter in den Boden -- ein Sinnbild für ihre Fähigkeit, tief verwurzelte Probleme anzugehen. In der Naturheilkunde wird sie vor allem als Blutreinigungs- und Hautpflanze geschätzt.
+    beschreibung: `Die Klette ist eine unterschätzte Heilpflanze von großer Tiefe. Ihre kräftige Pfahlwurzel reicht bis zu einem Meter in den Boden, ein Sinnbild für ihre Fähigkeit, tief verwurzelte Probleme anzugehen. In der Naturheilkunde wird sie vor allem als Blutreinigungs- und Hautpflanze geschätzt.
 
-Die Klettenwurzel enthält reichlich Inulin -- einen präbiotischen Ballaststoff, der die Darmflora nährt und den Blutzucker stabilisiert. Dazu kommen Arctiin, Bitterstoffe und Polyacetylene, die antibakteriell und hautregenerierend wirken. Die Verbindung von Darm und Haut macht die Klette besonders wertvoll: Viele Hautprobleme wurzeln in einer gestörten Darmfunktion.
+Die Klettenwurzel enthält reichlich Inulin, einen präbiotischen Ballaststoff, der die Darmflora nährt und den Blutzucker stabilisiert. Dazu kommen Arctiin, Bitterstoffe und Polyacetylene, die antibakteriell und hautregenerierend wirken. Die Verbindung von Darm und Haut macht die Klette besonders wertvoll: Viele Hautprobleme wurzeln in einer gestörten Darmfunktion.
 
-In Japan ist die Klettenwurzel als "Gobo" ein beliebtes Gemüse -- was zeigt, dass diese Pflanze nicht nur heilt, sondern auch nährt. Ihre hakenartig-klebrigen Früchte inspirierten übrigens die Erfindung des Klettverschlusses.`,
+In Japan ist die Klettenwurzel als "Gobo" ein beliebtes Gemüse, was zeigt, dass diese Pflanze nicht nur heilt, sondern auch nährt. Ihre hakenartig-klebrigen Früchte inspirierten übrigens die Erfindung des Klettverschlusses.`,
     geschichte: `Dioskurides empfahl die Klettenwurzel bei Gelenkschmerzen und Schlangenbissen. Im mittelalterlichen Europa war sie eines der wichtigsten Blutreinigungsmittel. Der berühmte Kräuterpfarrer Sebastian Kneipp schätzte sie bei chronischen Hautleiden.
 
 In der traditionellen chinesischen Medizin werden die Samen der Klette ("Niu Bang Zi") seit über 1000 Jahren bei Hauterkrankungen und Halsschmerzen eingesetzt. Die nordamerikanischen Ureinwohner nutzten die Wurzel als Nahrungs- und Heilmittel.`,
@@ -617,7 +617,7 @@ In der traditionellen chinesischen Medizin werden die Samen der Klette ("Niu Ban
     ernte: {
       zeit: 'Wurzeln: Herbst des ersten Jahres oder Frühling des zweiten Jahres (vor dem Aufstängeln). Samen: August bis September.',
       teile: 'Wurzeln (Hauptheilmittel), Samen und junge Blätter.',
-      tipps: 'Die Wurzeln sind am besten, wenn die Pflanze noch keine Blütenstängel gebildet hat. Im zweiten Jahr wird die Wurzel holzig. Frisch geschnittene Wurzel oxidiert schnell -- sofort verarbeiten.',
+      tipps: 'Die Wurzeln sind am besten, wenn die Pflanze noch keine Blütenstängel gebildet hat. Im zweiten Jahr wird die Wurzel holzig. Frisch geschnittene Wurzel oxidiert schnell, sofort verarbeiten.',
       mond: 'Wurzeln bei abnehmendem Mond ernten, Samen bei zunehmendem Mond.',
     },
     zubereitungen: [
@@ -638,9 +638,9 @@ In der traditionellen chinesischen Medizin werden die Samen der Klette ("Niu Ban
       },
     ],
     mischungen: ['Blutreinigungstee (mit Brennnessel und Löwenzahn)', 'Hauttee (mit Stiefmütterchen und Ringelblume)'],
-    tcm: 'Die Klettensamen (Niu Bang Zi) klären in der TCM Wind-Hitze und leiten Toxine aus -- besonders bei Hautausschlägen mit Hitze-Zeichen.',
+    tcm: 'Die Klettensamen (Niu Bang Zi) klären in der TCM Wind-Hitze und leiten Toxine aus, besonders bei Hautausschlägen mit Hitze-Zeichen.',
     ayurveda: 'Die Klettenwurzel reduziert Pitta und Kapha, reinigt Rakta Dhatu (Blutgewebe) und stärkt die Leberfunktion.',
-    volksmedizin: 'Klettenwurzelöl war das Haarpflegemittel der Grosselterngeneration -- "Klettenwurzelöl für volles Haar" war ein geflügeltes Wort, und es hielt, was es versprach.',
+    volksmedizin: 'Klettenwurzelöl war das Haarpflegemittel der Grosselterngeneration, "Klettenwurzelöl für volles Haar" war ein geflügeltes Wort, und es hielt, was es versprach.',
     besonders_bei: ['haut', 'akne', 'ekzem', 'haarverlust', 'entgiftung', 'verdauung', 'diabetes'],
   },
 
@@ -650,12 +650,12 @@ In der traditionellen chinesischen Medizin werden die Samen der Klette ("Niu Ban
   'Augentrost': {
     vollname: 'Augentrost (Euphrasia officinalis)',
     familie: 'Sommerwurzgewächse (Orobanchaceae)',
-    beschreibung: `Der Augentrost ist das klassische Augenheilkraut der europäischen Pflanzenheilkunde. Seine kleinen, weiss-violett gestreiften Blüten mit dem gelben Fleck erinnern an ein Auge -- die Signaturenlehre sah darin einen Hinweis auf seine Bestimmung. Und tatsächlich: Bei müden, entzündeten, tränenden oder allergisch gereizten Augen ist Augentrost seit Jahrhunderten bewährt.
+    beschreibung: `Der Augentrost ist das klassische Augenheilkraut der europäischen Pflanzenheilkunde. Seine kleinen, weiß-violett gestreiften Blüten mit dem gelben Fleck erinnern an ein Auge, die Signaturenlehre sah darin einen Hinweis auf seine Bestimmung. Und tatsächlich: Bei müden, entzündeten, tränenden oder allergisch gereizten Augen ist Augentrost seit Jahrhunderten bewährt.
 
 Die Pflanze enthält Aucubin, Gerbstoffe und Flavonoide, die entzündungshemmend, zusammenziehend und abschwellend auf die Bindehaut wirken. Augentrost-Umschläge oder -Tropfen können bei Bindehautentzündung, Gerstenkorn, Heuschnupfen-Augen und überanstrengten Bildschirm-Augen spürbare Erleichterung bringen.
 
-Als Halbschmarotzer wächst Augentrost auf Wiesen und Weiden, wo er sich mit seinen Wurzeln an Gräser anheftet und ihnen Nährstoffe entzieht. In der Wildnis ist er zunehmend selten geworden -- ein guter Grund, ihn schonend zu sammeln oder auf getrocknete Ware zurückzugreifen.`,
-    geschichte: `Der Name "Euphrasia" leitet sich von der griechischen Grazie Euphrosyne ab, der Göttin der Freude -- weil gute Augen den Menschen froh machen. Im 14. Jahrhundert beschrieb Matthaeus Silvaticus den Augentrost erstmals als Augenheilmittel.
+Als Halbschmarotzer wächst Augentrost auf Wiesen und Weiden, wo er sich mit seinen Wurzeln an Gräser anheftet und ihnen Nährstoffe entzieht. In der Wildnis ist er zunehmend selten geworden, ein guter Grund, ihn schonend zu sammeln oder auf getrocknete Ware zurückzugreifen.`,
+    geschichte: `Der Name "Euphrasia" leitet sich von der griechischen Grazie Euphrosyne ab, der Göttin der Freude, weil gute Augen den Menschen froh machen. Im 14. Jahrhundert beschrieb Matthaeus Silvaticus den Augentrost erstmals als Augenheilmittel.
 
 Hildegard von Bingen erwähnte ihn nicht, aber ab dem Spätmittelalter wurde er zur wichtigsten Augenpflanze der europäischen Volksmedizin. Nicholas Culpeper schrieb: "Wäre dieses Kraut so teuer wie Gold, es wäre jeden Penny wert."`,
     wirkungen: {
@@ -664,19 +664,19 @@ Hildegard von Bingen erwähnte ihn nicht, aber ab dem Spätmittelalter wurde er 
     },
     ernte: {
       zeit: 'Juli bis September, während der Blüte.',
-      teile: 'Blühendes Kraut -- die ganze oberirdische Pflanze.',
+      teile: 'Blühendes Kraut, die ganze oberirdische Pflanze.',
       tipps: 'Augentrost ist in vielen Regionen selten geworden. Nachhaltig sammeln und nicht alle Pflanzen an einem Standort entnehmen. Für Augenumschläge immer frisch getrocknetes, sauberes Kraut verwenden.',
       mond: 'Bei zunehmendem Mond an einem Licht-Tag (Zwillinge, Waage, Wassermann) ernten.',
     },
     zubereitungen: [
       {
         name: 'Augentrost-Augenumschlag',
-        anleitung: '2 TL getrockneten Augentrost mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen, sorgfältig abseihen (durch Kaffeefilter). Abkühlen lassen. Wattepads tränken und 10-15 Minuten auf die geschlossenen Augen legen.',
+        anleitung: '2 TL getrockneten Augentrost mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen, sorgfältig abseihen (durch Kaffeefilter). Abkühlen lassen. Wattepads tränken und 10-15 Minuten auf die geschlossenen Augen legen.',
         wirkung: 'Lindert müde, gerötete und entzündete Augen, hilft bei Bindehautentzündung und Gerstenkorn.',
       },
       {
         name: 'Augentrost-Tee (innerlich)',
-        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. 2-3 Tassen täglich trinken bei akuten Augenbeschwerden.',
+        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 2-3 Tassen täglich trinken bei akuten Augenbeschwerden.',
         wirkung: 'Unterstützt die Heilung von innen, wirkt auf die Schleimhäute der Augen und Nebenhöhlen.',
       },
       {
@@ -688,7 +688,7 @@ Hildegard von Bingen erwähnte ihn nicht, aber ab dem Spätmittelalter wurde er 
     mischungen: ['Augentee (mit Fenchelsamen und Ringelblume)', 'Allergietee (mit Schwarzkümmel und Brennnessel)'],
     tcm: 'Augentrost klärt in der TCM Wind-Hitze und nährt das Leber-Blut, das die Augen versorgt.',
     ayurveda: 'Augentrost beruhigt Pitta in den Augen (Alochaka Pitta) und stärkt das Sehvermögen.',
-    volksmedizin: 'Kräuterkundige sagten: "Wer Augentrost trinkt, braucht bis ins Alter keine Brille" -- übertrieben vielleicht, aber die augenfreundliche Wirkung ist vielfach erprobt.',
+    volksmedizin: 'Kräuterkundige sagten: "Wer Augentrost trinkt, braucht bis ins Alter keine Brille", übertrieben vielleicht, aber die augenfreundliche Wirkung ist vielfach erprobt.',
     besonders_bei: ['augen', 'bindehautentzuendung', 'allergie', 'heuschnupfen', 'bildschirmarbeit'],
   },
 
@@ -698,22 +698,22 @@ Hildegard von Bingen erwähnte ihn nicht, aber ab dem Spätmittelalter wurde er 
   'Enzian': {
     vollname: 'Gelber Enzian (Gentiana lutea)',
     familie: 'Enziangewächse (Gentianaceae)',
-    beschreibung: `Der Gelbe Enzian ist der König der Bitterpflanzen. Seine Wurzel enthält die bittersten natürlichen Substanzen, die wir kennen -- Amarogentin ist noch in einer Verdünnung von 1:58 Millionen schmeckbar. Diese extreme Bitterkeit macht ihn zum kraftvollsten pflanzlichen Verdauungsmittel überhaupt.
+    beschreibung: `Der Gelbe Enzian ist der König der Bitterpflanzen. Seine Wurzel enthält die bittersten natürlichen Substanzen, die wir kennen: Amarogentin ist noch in einer Verdünnung von 1:58 Millionen schmeckbar. Diese extreme Bitterkeit macht ihn zum kraftvollsten pflanzlichen Verdauungsmittel überhaupt.
 
 Bitterstoffe regen über die Geschmacksrezeptoren auf der Zunge reflexartig die gesamte Verdauungskette an: Speichelfluss, Magensaftsekretion, Gallenfluss, Bauchspeicheldrüsenaktivität. Der ganze Verdauungsapparat wird "aufgeweckt". In einer Zeit, in der die meisten Menschen zu wenig Bitterstoffe zu sich nehmen, ist der Enzian ein besonders wertvolles Heilmittel.
 
 Neben der Verdauungsförderung stärkt der Enzian die Lebensgeister, belebt den Appetit bei Schwäche und Erschöpfung und kräftigt den gesamten Organismus. In der Alpenmedizin galt Enzianschnaps als Universalmittel für Magen und Gemüt.`,
-    geschichte: `Der Name geht auf den illyrischen König Gentius zurück (180 v. Chr.), der die Heilkraft der Pflanze entdeckt haben soll. Im Mittelalter gehörte Enzianwurzel zu den "Theriak"-Zutaten -- dem berühmten Universalgegengift.
+    geschichte: `Der Name geht auf den illyrischen König Gentius zurück (180 v. Chr.), der die Heilkraft der Pflanze entdeckt haben soll. Im Mittelalter gehörte Enzianwurzel zu den "Theriak"-Zutaten, dem berühmten Universalgegengift.
 
-In den Alpen hat der Enzian tiefe kulturelle Bedeutung. Das Wurzelgraben war ein gefährlicher, aber einträglicher Beruf. Aus der Wurzel wurde und wird Enzianschnaps gebrannt -- ein Traditionsgetränk, das Verdauung und Gemeinschaft gleichermassen fördert. Heute ist der Gelbe Enzian streng geschützt.`,
+In den Alpen hat der Enzian tiefe kulturelle Bedeutung. Das Wurzelgraben war ein gefährlicher, aber einträglicher Beruf. Aus der Wurzel wurde und wird Enzianschnaps gebrannt, ein Traditionsgetränk, das Verdauung und Gemeinschaft gleichermaßen fördert. Heute ist der Gelbe Enzian streng geschützt.`,
     wirkungen: {
       hauptwirkungen: ['Verdauungsfördernd', 'Appetitanregend', 'Gallensaftfördernd', 'Magensaftsteigernd', 'Tonisierend', 'Fiebersenkend'],
       inhaltsstoffe: ['Amarogentin', 'Gentiopikrosid', 'Secoiridoidglykoside', 'Xanthone', 'Zucker (Gentianose)', 'Pektin', 'Inulin'],
     },
     ernte: {
-      zeit: 'Herbst (September/Oktober) -- der Gelbe Enzian ist streng geschützt und darf nur mit Genehmigung gesammelt werden.',
-      teile: 'Wurzeln -- die mächtige Pfahlwurzel kann bis zu 1 Meter lang werden und armdick sein.',
-      tipps: 'In der Natur ist der Gelbe Enzian geschützt. Auf Fertigpräparate aus kontrolliertem Anbau zurückgreifen oder im eigenen Garten kultivieren. Achtung: Nicht mit dem giftigen Weissen Germer verwechseln.',
+      zeit: 'Herbst (September/Oktober), der Gelbe Enzian ist streng geschützt und darf nur mit Genehmigung gesammelt werden.',
+      teile: 'Wurzeln, die mächtige Pfahlwurzel kann bis zu 1 Meter lang werden und armdick sein.',
+      tipps: 'In der Natur ist der Gelbe Enzian geschützt. Auf Fertigpräparate aus kontrolliertem Anbau zurückgreifen oder im eigenen Garten kultivieren. Achtung: Nicht mit dem giftigen Weißen Germer verwechseln.',
       mond: 'Wurzeln bei abnehmendem Mond ernten für die stärkste Bitterstoff-Konzentration.',
     },
     zubereitungen: [
@@ -735,8 +735,8 @@ In den Alpen hat der Enzian tiefe kulturelle Bedeutung. Das Wurzelgraben war ein
     ],
     mischungen: ['Magenbitter (mit Wermut und Tausendgüldenkraut)', 'Verdauungstee (mit Löwenzahn und Pfefferminze)'],
     tcm: 'Enzian klärt in der TCM Feucht-Hitze, stärkt Milz-Qi und leitet Stagnation im Mittleren Erwärmer aus.',
-    ayurveda: 'Enzianwurzel ist extrem bitter (Tikta Rasa), sie stärkt Agni, reinigt Ama und reduziert übermässiges Kapha.',
-    volksmedizin: 'In den Alpen heisst es: "Ein Stamperl Enzian vor dem Essen und nach dem Essen -- dann kann dir nichts im Magen pressen."',
+    ayurveda: 'Enzianwurzel ist extrem bitter (Tikta Rasa), sie stärkt Agni, reinigt Ama und reduziert übermäßiges Kapha.',
+    volksmedizin: 'In den Alpen heißt es: "Ein Stamperl Enzian vor dem Essen und nach dem Essen, dann kann dir nichts im Magen pressen."',
     besonders_bei: ['verdauung', 'appetitlosigkeit', 'voellegefuehl', 'blaehungen', 'erschoepfung', 'leber'],
   },
 
@@ -746,21 +746,21 @@ In den Alpen hat der Enzian tiefe kulturelle Bedeutung. Das Wurzelgraben war ein
   'Sonnenhut': {
     vollname: 'Schmalblättriger Sonnenhut (Echinacea angustifolia)',
     familie: 'Korbblütler (Asteraceae)',
-    beschreibung: `Der Schmalblättrige Sonnenhut ist der "kleine Bruder" der Echinacea purpurea, aber in der indianischen Heilkunde gilt er als die ursprüngliche und kraftvollere Art. Seine Wurzeln enthalten eine besonders hohe Konzentration an Alkamiden -- jenen Substanzen, die beim Kauen ein charakteristisches Kribbeln auf der Zunge erzeugen und das Immunsystem aktivieren.
+    beschreibung: `Der Schmalblättrige Sonnenhut ist der "kleine Bruder" der Echinacea purpurea, aber in der indianischen Heilkunde gilt er als die ursprüngliche und kraftvollere Art. Seine Wurzeln enthalten eine besonders hohe Konzentration an Alkamiden, jenen Substanzen, die beim Kauen ein charakteristisches Kribbeln auf der Zunge erzeugen und das Immunsystem aktivieren.
 
 Im Vergleich zu Echinacea purpurea wirkt der Schmalblättrige Sonnenhut tiefer und nachhaltiger auf das Immunsystem. Seine Wurzel-Inhaltsstoffe stimulieren besonders die unspezifische Abwehr: Makrophagen werden aktiviert, die Phagozytose gesteigert und die Produktion von Interferon angeregt.
 
-Die Pflanze wächst in den trockenen Prärien Nordamerikas und bevorzugt karge, steinige Böden. Gerade unter diesen harten Bedingungen bildet sie ihre stärksten Wirkstoffe aus -- ein schönes Bild dafür, wie Widerstandskraft aus der Herausforderung wächst.`,
+Die Pflanze wächst in den trockenen Prärien Nordamerikas und bevorzugt karge, steinige Böden. Gerade unter diesen harten Bedingungen bildet sie ihre stärksten Wirkstoffe aus, ein schönes Bild dafür, wie Widerstandskraft aus der Herausforderung wächst.`,
     geschichte: `Echinacea angustifolia war die am häufigsten verwendete Heilpflanze der Plains-Indianer. Die Lakota-Sioux nannten sie "Zahnschmerzwurzel" und kauten sie bei Schmerzen aller Art. Sie wurde auch bei Schlangenbissen, Tollwut und als Rauchwerk bei Zeremonien eingesetzt.
 
-Der Eklektiker John King machte die Pflanze ab 1887 in der westlichen Medizin bekannt. Sie wurde bis in die 1930er Jahre als eines der wichtigsten Medikamente in den USA eingesetzt -- bis die Antibiotika kamen und pflanzliche Heilmittel verdrängten.`,
+Der Eklektiker John King machte die Pflanze ab 1887 in der westlichen Medizin bekannt. Sie wurde bis in die 1930er Jahre als eines der wichtigsten Medikamente in den USA eingesetzt, bis die Antibiotika kamen und pflanzliche Heilmittel verdrängten.`,
     wirkungen: {
       hauptwirkungen: ['Immunstimulierend (tiefgreifend)', 'Entzündungshemmend', 'Schmerzlindernd', 'Wundheilend', 'Antiviral', 'Antiinfektiös'],
       inhaltsstoffe: ['Alkamide (Isobutylamide)', 'Echinacosid', 'Cynarin', 'Polyacetylene', 'Polysaccharide', 'Ätherisches Öl'],
     },
     ernte: {
       zeit: 'Wurzeln: Herbst des dritten oder vierten Jahres, nach dem Einziehen der oberirdischen Teile.',
-      teile: 'Wurzeln -- sie sind der wirksamste Teil dieser Art.',
+      teile: 'Wurzeln, sie sind der wirksamste Teil dieser Art.',
       tipps: 'Echinacea angustifolia wächst langsam und braucht 3-4 Jahre, bis die Wurzel erntereif ist. In Mitteleuropa lässt sie sich im Garten kultivieren, bevorzugt aber mageren, durchlässigen Boden.',
       mond: 'Wurzeln bei abnehmendem Mond ernten für höchste Wirkstoffkonzentration.',
     },
@@ -773,7 +773,7 @@ Der Eklektiker John King machte die Pflanze ab 1887 in der westlichen Medizin be
       {
         name: 'Sonnenhut-Wurzel kauen',
         anleitung: 'Ein kleines Stück getrocknete Wurzel langsam kauen, bis das typische Kribbeln auf der Zunge einsetzt. Den Speichel schlucken, den Rest ausspucken.',
-        wirkung: 'Die traditionelle Art der Anwendung -- schnellste Immunaktivierung, auch schmerzlindernd bei Zahnschmerzen.',
+        wirkung: 'Die traditionelle Art der Anwendung, schnellste Immunaktivierung, auch schmerzlindernd bei Zahnschmerzen.',
       },
       {
         name: 'Sonnenhut-Abkochung',
@@ -782,9 +782,9 @@ Der Eklektiker John King machte die Pflanze ab 1887 in der westlichen Medizin be
       },
     ],
     mischungen: ['Infektabwehr (mit Holunder und Ingwer)', 'Wundtinktur (mit Ringelblume und Myrrhe)'],
-    tcm: 'Der Schmalblättrige Sonnenhut klärt Hitze-Toxine und stärkt das Wei-Qi -- die äussere Abwehrschicht des Körpers.',
+    tcm: 'Der Schmalblättrige Sonnenhut klärt Hitze-Toxine und stärkt das Wei-Qi, die äußere Abwehrschicht des Körpers.',
     ayurveda: 'Sonnenhut reinigt das Blut, stärkt Ojas (Immunenergie) und wird bei Ama-bedingten Infektionen eingesetzt.',
-    volksmedizin: 'Die Plains-Indianer legten Echinacea-Wurzeln auf glühende Steine im Schwitzhütten-Ritual -- der aufsteigende Dampf stärkte die Atemwege und das Immunsystem aller Teilnehmer.',
+    volksmedizin: 'Die Plains-Indianer legten Echinacea-Wurzeln auf glühende Steine im Schwitzhütten-Ritual, der aufsteigende Dampf stärkte die Atemwege und das Immunsystem aller Teilnehmer.',
     besonders_bei: ['immunschwaeche', 'erkaeltung', 'grippe', 'infekte', 'wundheilung', 'zahnschmerzen'],
   },
 
@@ -796,7 +796,7 @@ Der Eklektiker John King machte die Pflanze ab 1887 in der westlichen Medizin be
     familie: 'Sesamgewächse (Pedaliaceae)',
     beschreibung: `Die Teufelskralle ist Afrikas Antwort auf Rheuma und Gelenkschmerzen. Sie wächst in den Savannen der Kalahari und verdankt ihren dramatischen Namen den krallenförmig gebogenen Früchten, die sich im Fell von Tieren verhaken. Doch ihre Wurzelknollen bergen einen wahren Schatz an entzündungshemmenden Wirkstoffen.
 
-Harpagosid, der Hauptwirkstoff, hemmt die Bildung von Entzündungsbotenstoffen (Prostaglandine, Leukotriene) und wirkt schmerzlindernd -- vergleichbar mit manchen synthetischen Schmerzmitteln, aber ohne deren Nebenwirkungen auf den Magen. Zahlreiche klinische Studien belegen die Wirksamkeit bei Arthrose, Rückenschmerzen und rheumatischen Beschwerden.
+Harpagosid, der Hauptwirkstoff, hemmt die Bildung von Entzündungsbotenstoffen (Prostaglandine, Leukotriene) und wirkt schmerzlindernd, vergleichbar mit manchen synthetischen Schmerzmitteln, aber ohne deren Nebenwirkungen auf den Magen. Zahlreiche klinische Studien belegen die Wirksamkeit bei Arthrose, Rückenschmerzen und rheumatischen Beschwerden.
 
 Zusätzlich wirkt die Teufelskralle appetitanregend und verdauungsfördernd. Die Bitterstoffe in der Wurzel regen die Magen- und Gallensaftsekretion an. Diese doppelte Wirkung auf Bewegungsapparat und Verdauung macht sie zu einem vielseitigen Heilmittel.`,
     geschichte: `Die San (Buschleute) der Kalahari verwenden die Teufelskralle seit Generationen als Heil- und Stärkungsmittel. Sie graben die Sekundärwurzeln aus, schneiden sie in Scheiben und trocknen sie in der Sonne. Bei Schmerzen, Fieber und Verdauungsbeschwerden kauen sie die Wurzelstücke.
@@ -808,14 +808,14 @@ Der deutsche Farmer G.H. Mehnert lernte die Pflanze Anfang des 20. Jahrhunderts 
     },
     ernte: {
       zeit: 'Die Teufelskralle wächst nur im südlichen Afrika. Für europäische Anwender sind getrocknete Wurzeln oder Fertigpräparate die praktische Lösung.',
-      teile: 'Sekundärwurzeln (Speicherknollen) -- die Hauptwurzel wird nicht geerntet, damit die Pflanze weiterleben kann.',
+      teile: 'Sekundärwurzeln (Speicherknollen), die Hauptwurzel wird nicht geerntet, damit die Pflanze weiterleben kann.',
       tipps: 'Auf nachhaltig geerntete Ware achten, da Wildbestände gefährdet sind. Zertifizierter Anbau und Fair-Trade-Projekte in Namibia und Botswana unterstützen sowohl die Pflanze als auch die lokale Bevölkerung.',
       mond: 'Die traditionelle Ernte der San folgt dem Rhythmus der Regenzeit, nicht dem Mond.',
     },
     zubereitungen: [
       {
         name: 'Teufelskrallen-Tee',
-        anleitung: '1 TL getrocknete, zerkleinerte Wurzel mit 300ml kochendem Wasser übergiessen. 8 Stunden ziehen lassen (Kaltauszug über Nacht ist noch besser). 3 Tassen täglich, Kur über mindestens 4-6 Wochen.',
+        anleitung: '1 TL getrocknete, zerkleinerte Wurzel mit 300ml kochendem Wasser übergießen. 8 Stunden ziehen lassen (Kaltauszug über Nacht ist noch besser). 3 Tassen täglich, Kur über mindestens 4-6 Wochen.',
         wirkung: 'Lindert Gelenkschmerzen, Arthrose, Rückenschmerzen und Rheuma. Die Wirkung baut sich über Wochen auf.',
       },
       {
@@ -829,8 +829,8 @@ Der deutsche Farmer G.H. Mehnert lernte die Pflanze Anfang des 20. Jahrhunderts 
         wirkung: 'Lokale Schmerzlinderung und Abschwellung bei akuten Gelenkbeschwerden.',
       },
     ],
-    mischungen: ['Gelenktee (mit Weidenrinde und Brennnessel)', 'Rückentee (mit Beinwell und Mädesüss)'],
-    tcm: 'Die Teufelskralle vertreibt in der TCM Wind-Feuchtigkeit aus den Gelenken und bewegt das Blut -- sie wird bei Bi-Syndromen (Gelenkblockaden) eingesetzt.',
+    mischungen: ['Gelenktee (mit Weidenrinde und Brennnessel)', 'Rückentee (mit Beinwell und Mädesüß)'],
+    tcm: 'Die Teufelskralle vertreibt in der TCM Wind-Feuchtigkeit aus den Gelenken und bewegt das Blut, sie wird bei Bi-Syndromen (Gelenkblockaden) eingesetzt.',
     ayurveda: 'Die Teufelskralle reduziert Vata und Ama in den Gelenken, sie öffnet verstopfte Srotas und lindert Vata-bedingte Schmerzen.',
     volksmedizin: 'Die San der Kalahari sagen: "Die Teufelskralle zieht den Schmerz aus den Knochen wie die Sonne das Wasser aus der Erde."',
     besonders_bei: ['arthrose', 'rheuma', 'rueckenschmerzen', 'gelenkschmerzen', 'entzuendung', 'verdauung'],
@@ -842,14 +842,14 @@ Der deutsche Farmer G.H. Mehnert lernte die Pflanze Anfang des 20. Jahrhunderts 
   'Wacholder': {
     vollname: 'Gemeiner Wacholder (Juniperus communis)',
     familie: 'Zypressengewächse (Cupressaceae)',
-    beschreibung: `Der Wacholder ist ein uralter Heil- und Schutzbaum, der auf kargen Böden, Heiden und Berghängen wächst. Seine blauschwarzen Beerenzapfen (botanisch keine echten Beeren) sind ein kraftvolles Heilmittel mit intensivem, harzigem Aroma. Sie brauchen drei Jahre, um zu reifen -- eine Geduld, die sich in konzentrierter Wirkkraft auszahlt.
+    beschreibung: `Der Wacholder ist ein uralter Heil- und Schutzbaum, der auf kargen Böden, Heiden und Berghängen wächst. Seine blauschwarzen Beerenzapfen (botanisch keine echten Beeren) sind ein kraftvolles Heilmittel mit intensivem, harzigem Aroma. Sie brauchen drei Jahre, um zu reifen, eine Geduld, die sich in konzentrierter Wirkkraft auszahlt.
 
-Die harntreibende Wirkung des Wacholders ist legendär. Die ätherischen Öle (Terpineol, Pinen) reizen die Nierentubuli sanft und steigern die Harnausscheidung. Dadurch werden Harnwege durchspült, Nierengriess ausgeleitet und Wassereinlagerungen abgebaut. Bei chronischen Nierenleiden sollte Wacholder allerdings nicht verwendet werden.
+Die harntreibende Wirkung des Wacholders ist legendär. Die ätherischen Öle (Terpineol, Pinen) reizen die Nierentubuli sanft und steigern die Harnausscheidung. Dadurch werden Harnwege durchspült, Nierengrieß ausgeleitet und Wassereinlagerungen abgebaut. Bei chronischen Nierenleiden sollte Wacholder allerdings nicht verwendet werden.
 
-Zusätzlich wirkt Wacholder wärmend, verdauungsfördernd und desinfizierend. In der Räucher-Tradition gilt er als einer der stärksten Raumreiniger -- sein Rauch vertreibt nicht nur Keime, sondern auch "schwere Energien".`,
-    geschichte: `Der Wacholder war den Germanen heilig -- ein Wacholderbusch durfte nie gefällt werden, ohne um Erlaubnis zu bitten. Man räucherte mit Wacholderzweigen bei Krankheit, Tod und bösen Vorzeichen. In der Pest-Zeit verbrannte man Wacholderholz in den Strassen.
+Zusätzlich wirkt Wacholder wärmend, verdauungsfördernd und desinfizierend. In der Räucher-Tradition gilt er als einer der stärksten Raumreiniger, sein Rauch vertreibt nicht nur Keime, sondern auch "schwere Energien".`,
+    geschichte: `Der Wacholder war den Germanen heilig, ein Wacholderbusch durfte nie gefällt werden, ohne um Erlaubnis zu bitten. Man räucherte mit Wacholderzweigen bei Krankheit, Tod und bösen Vorzeichen. In der Pest-Zeit verbrannte man Wacholderholz in den Straßen.
 
-Sebastian Kneipp nannte den Wacholder das "beste Magenmittel" und empfahl ihn als Kur: Am ersten Tag eine Beere, am zweiten zwei, und so weiter bis fünfzehn, dann wieder absteigend. In der Gin-Herstellung spielen Wacholderbeeren die Hauptrolle -- Gin leitet sich vom niederländischen "genever" (Wacholder) ab.`,
+Sebastian Kneipp nannte den Wacholder das "beste Magenmittel" und empfahl ihn als Kur: Am ersten Tag eine Beere, am zweiten zwei, und so weiter bis fünfzehn, dann wieder absteigend. In der Gin-Herstellung spielen Wacholderbeeren die Hauptrolle: Gin leitet sich vom niederländischen "genever" (Wacholder) ab.`,
     wirkungen: {
       hauptwirkungen: ['Harntreibend', 'Desinfizierend (Harnwege)', 'Verdauungsfördernd', 'Wärmend', 'Rheuma-lindernd', 'Blähungswidrig'],
       inhaltsstoffe: ['Ätherisches Öl (alpha-Pinen, Terpineol)', 'Flavonoide', 'Gerbstoffe', 'Harz', 'Zucker (Invertzucker)', 'Vitamin C', 'Wachs'],
@@ -857,7 +857,7 @@ Sebastian Kneipp nannte den Wacholder das "beste Magenmittel" und empfahl ihn al
     ernte: {
       zeit: 'September bis November, wenn die Beeren blauschwarz und weich sind. Nur die reifen Beeren ernten.',
       teile: 'Beerenzapfen und junge Triebspitzen.',
-      tipps: 'Handschuhe tragen -- die Nadeln stechen empfindlich. Reife Beeren erkennt man am bläulich-bereiften Aussehen. Am selben Strauch hängen oft unreife (grüne) und reife (schwarze) Beeren gleichzeitig.',
+      tipps: 'Handschuhe tragen, die Nadeln stechen empfindlich. Reife Beeren erkennt man am bläulich-bereiften Aussehen. Am selben Strauch hängen oft unreife (grüne) und reife (schwarze) Beeren gleichzeitig.',
       mond: 'Bei abnehmendem Mond ernten für die stärkste harntreibende Wirkung.',
     },
     zubereitungen: [
@@ -868,7 +868,7 @@ Sebastian Kneipp nannte den Wacholder das "beste Magenmittel" und empfahl ihn al
       },
       {
         name: 'Wacholdertee',
-        anleitung: '1 TL zerquetschte Wacholderbeeren mit 250ml kochendem Wasser übergiessen, 10 Minuten zugedeckt ziehen lassen. Maximal 2 Tassen täglich, nicht länger als 6 Wochen am Stück.',
+        anleitung: '1 TL zerquetschte Wacholderbeeren mit 250ml kochendem Wasser übergießen, 10 Minuten zugedeckt ziehen lassen. Maximal 2 Tassen täglich, nicht länger als 6 Wochen am Stück.',
         wirkung: 'Harntreibend, entschlackend, wärmend bei Blasenentzündung und Verdauungsschwäche.',
       },
       {
@@ -882,58 +882,58 @@ Sebastian Kneipp nannte den Wacholder das "beste Magenmittel" und empfahl ihn al
         wirkung: 'Wärmt und durchblutet die Gelenke, lindert rheumatische Schmerzen und Muskelverspannungen.',
       },
     ],
-    mischungen: ['Blasentee (mit Bärentraube und Goldrute)', 'Räuchermischung (mit Salbei und Beifuss)'],
+    mischungen: ['Blasentee (mit Bärentraube und Goldrute)', 'Räuchermischung (mit Salbei und Beifuß)'],
     tcm: 'Wacholder wärmt in der TCM die Niere, stärkt das Yang und leitet Kälte-Feuchtigkeit aus den Gelenken.',
     ayurveda: 'Wacholder reduziert Kapha und Vata, reinigt die Srotas und stärkt das Nieren-Agni.',
-    volksmedizin: 'In Bauernhäusern räucherte man in den Rauhnächten mit Wacholder durchs ganze Haus -- das reinigte die Luft, vertrieb Krankheitskeime und schützte Mensch und Vieh.',
+    volksmedizin: 'In Bauernhäusern räucherte man in den Rauhnächten mit Wacholder durchs ganze Haus, das reinigte die Luft, vertrieb Krankheitskeime und schützte Mensch und Vieh.',
     besonders_bei: ['niere', 'harnwege', 'rheuma', 'verdauung', 'blaehungen', 'entgiftung', 'raeucherung'],
   },
 
   // ═══════════════════════════════════════════════════════════════════════════
   // 19. SÜSSHOLZ
   // ═══════════════════════════════════════════════════════════════════════════
-  'Süssholz': {
-    vollname: 'Süssholz (Glycyrrhiza glabra)',
+  'Süßholz': {
+    vollname: 'Süßholz (Glycyrrhiza glabra)',
     familie: 'Hülsenfrüchtler (Fabaceae)',
-    beschreibung: `Die Süssholzwurzel ist die Basis für Lakritze -- aber ihr Heilpotenzial geht weit über den Genuss hinaus. Der Hauptwirkstoff Glycyrrhizin ist 50-mal süsser als Zucker und entfaltet eine beeindruckende Bandbreite an Heilwirkungen. Süssholz gehört zu den am häufigsten verwendeten Pflanzen in der chinesischen und ayurvedischen Medizin.
+    beschreibung: `Die Süßholzwurzel ist die Basis für Lakritze, aber ihr Heilpotenzial geht weit über den Genuss hinaus. Der Hauptwirkstoff Glycyrrhizin ist 50-mal süßer als Zucker und entfaltet eine beeindruckende Bandbreite an Heilwirkungen. Süßholz gehört zu den am häufigsten verwendeten Pflanzen in der chinesischen und ayurvedischen Medizin.
 
-In der Lunge löst Süssholz festsitzenden Schleim und beruhigt entzündete Bronchien. Im Magen schützt es die Schleimhaut und fördert die Heilung von Geschwüren. Im Immunsystem wirkt es antiviral und entzündungshemmend. In der Nebenniere unterstützt es die Cortisolproduktion -- weshalb es bei Erschöpfung und Nebennierenschwäche so wertvoll ist.
+In der Lunge löst Süßholz festsitzenden Schleim und beruhigt entzündete Bronchien. Im Magen schützt es die Schleimhaut und fördert die Heilung von Geschwüren. Im Immunsystem wirkt es antiviral und entzündungshemmend. In der Nebenniere unterstützt es die Cortisolproduktion, weshalb es bei Erschöpfung und Nebennierenschwäche so wertvoll ist.
 
-Glycyrrhizin kann allerdings bei Überdosierung den Blutdruck erhöhen und Kalium senken. Daher sollte man Süssholz nicht länger als 6 Wochen am Stück und nicht bei Bluthochdruck einnehmen. Deglycyrrhiziniertes Süssholz (DGL) ist eine Alternative ohne diese Nebenwirkung.`,
-    geschichte: `Die alten Ägypter und Babylonier kannten Süssholz bereits vor über 4000 Jahren. Alexander der Grosse liess seine Soldaten Süssholz kauen, um Durst und Erschöpfung zu mindern. Die Skythen sollen dank Süssholz tagelange Märsche ohne Wasser bewältigt haben.
+Glycyrrhizin kann allerdings bei Überdosierung den Blutdruck erhöhen und Kalium senken. Daher sollte man Süßholz nicht länger als 6 Wochen am Stück und nicht bei Bluthochdruck einnehmen. Deglycyrrhiziniertes Süßholz (DGL) ist eine Alternative ohne diese Nebenwirkung.`,
+    geschichte: `Die alten Ägypter und Babylonier kannten Süßholz bereits vor über 4000 Jahren. Alexander der Große ließ seine Soldaten Süßholz kauen, um Durst und Erschöpfung zu mindern. Die Skythen sollen dank Süßholz tagelange Märsche ohne Wasser bewältigt haben.
 
-In China heisst Süssholz "Gan Cao" -- die "süsse Pflanze" -- und ist Bestandteil von über zwei Dritteln aller klassischen TCM-Rezepturen. Es harmonisiert die anderen Kräuter in einer Mischung und mildert unerwünschte Wirkungen.`,
+In China heißt Süßholz "Gan Cao", die "süße Pflanze", und ist Bestandteil von über zwei Dritteln aller klassischen TCM-Rezepturen. Es harmonisiert die anderen Kräuter in einer Mischung und mildert unerwünschte Wirkungen.`,
     wirkungen: {
       hauptwirkungen: ['Schleimlösend', 'Magenschützend', 'Entzündungshemmend', 'Antiviral', 'Nebennierenunterstützend', 'Harmonisierend (in Kräutermischungen)'],
       inhaltsstoffe: ['Glycyrrhizin', 'Glycyrrhetinsäure', 'Liquiritin', 'Flavonoide', 'Cumarine', 'Isoflavone', 'Polysaccharide', 'Saponine'],
     },
     ernte: {
       zeit: 'Herbst des dritten oder vierten Jahres.',
-      teile: 'Wurzeln und Ausläufer -- der süsse, holzige Wurzelstock.',
-      tipps: 'Süssholz wächst in Südeuropa und Asien. In Mitteleuropa kann es an geschützten Standorten kultiviert werden. Die Wurzel in fingerdicke Stücke schneiden und trocknen. Kauen eines Stücks zeigt sofort den typisch süssen Geschmack.',
+      teile: 'Wurzeln und Ausläufer, der süße, holzige Wurzelstock.',
+      tipps: 'Süßholz wächst in Südeuropa und Asien. In Mitteleuropa kann es an geschützten Standorten kultiviert werden. Die Wurzel in fingerdicke Stücke schneiden und trocknen. Kauen eines Stücks zeigt sofort den typisch süßen Geschmack.',
       mond: 'Bei abnehmendem Mond ernten für die höchste Glycyrrhizin-Konzentration.',
     },
     zubereitungen: [
       {
-        name: 'Süssholztee',
-        anleitung: '1 TL zerkleinerte Süssholzwurzel mit 250ml kochendem Wasser übergiessen, 10-15 Minuten ziehen lassen. Angenehm süsser Geschmack, braucht keinen Honig. Maximal 2-3 Tassen täglich.',
+        name: 'Süßholztee',
+        anleitung: '1 TL zerkleinerte Süßholzwurzel mit 250ml kochendem Wasser übergießen, 10-15 Minuten ziehen lassen. Angenehm süßer Geschmack, braucht keinen Honig. Maximal 2-3 Tassen täglich.',
         wirkung: 'Löst Schleim bei Husten, beruhigt den Magen, stärkt bei Erschöpfung.',
       },
       {
-        name: 'Süssholzwurzel kauen',
-        anleitung: 'Ein Stück getrocknete Süssholzwurzel langsam im Mund kauen. Der süsse Geschmack hält lange an. Gut für unterwegs.',
-        wirkung: 'Beruhigt den Magen, erfrischt den Atem, stillt Heisshunger auf Süsses, befeuchtet den Rachen.',
+        name: 'Süßholzwurzel kauen',
+        anleitung: 'Ein Stück getrocknete Süßholzwurzel langsam im Mund kauen. Der süße Geschmack hält lange an. Gut für unterwegs.',
+        wirkung: 'Beruhigt den Magen, erfrischt den Atem, stillt Heißhunger auf Süßes, befeuchtet den Rachen.',
       },
       {
-        name: 'Süssholz-Abkochung (Hustenmittel)',
+        name: 'Süßholz-Abkochung (Hustenmittel)',
         anleitung: '2 TL zerkleinerte Wurzel in 500ml Wasser aufkochen, 15 Minuten köcheln, abseihen. Mit etwas Honig und Zitrone warm trinken.',
         wirkung: 'Starkes Hustenmittel, löst Schleim, beruhigt gereizte Bronchien.',
       },
     ],
     mischungen: ['Hustentee (mit Thymian und Spitzwegerich)', 'Magentee (mit Kamille und Pfefferminze)'],
-    tcm: 'Gan Cao (Süssholz) ist das wichtigste harmonisierende Kraut der TCM -- es stärkt die Mitte, befeuchtet die Lunge und mildert die Schärfe anderer Kräuter.',
-    ayurveda: 'Yashtimadhu (Süssholz) nährt Ojas, beruhigt Vata und Pitta, stärkt die Stimme und ist ein klassisches Rasayana (Verjüngungsmittel).',
-    volksmedizin: 'Kinder kauten früher auf "Bärendreck" (Lakritze) als natürlichem Hustenmittel -- ohne zu ahnen, dass sie damit ein jahrtausendealtes Heilmittel nutzten.',
+    tcm: 'Gan Cao (Süßholz) ist das wichtigste harmonisierende Kraut der TCM, es stärkt die Mitte, befeuchtet die Lunge und mildert die Schärfe anderer Kräuter.',
+    ayurveda: 'Yashtimadhu (Süßholz) nährt Ojas, beruhigt Vata und Pitta, stärkt die Stimme und ist ein klassisches Rasayana (Verjüngungsmittel).',
+    volksmedizin: 'Kinder kauten früher auf "Bärendreck" (Lakritze) als natürlichem Hustenmittel, ohne zu ahnen, dass sie damit ein jahrtausendealtes Heilmittel nutzten.',
     besonders_bei: ['husten', 'bronchitis', 'magen', 'sodbrennen', 'erschoepfung', 'nebenniere', 'erkaeltung'],
   },
 
@@ -943,12 +943,12 @@ In China heisst Süssholz "Gan Cao" -- die "süsse Pflanze" -- und ist Bestandte
   'Sanddorn': {
     vollname: 'Sanddorn (Hippophae rhamnoides)',
     familie: 'Ölweidengewächse (Elaeagnaceae)',
-    beschreibung: `Der Sanddorn ist die Vitamin-C-Bombe unter den heimischen Wildfrüchten. Seine leuchtend orangefarbenen Beeren enthalten bis zu zehnmal mehr Vitamin C als Zitronen -- dazu Beta-Carotin, Vitamin E, B-Vitamine und seltene Palmitoleinsäure (Omega-7). Dieses geballte Nährstoffpaket macht Sanddorn zu einem der wertvollsten heimischen Superfoods.
+    beschreibung: `Der Sanddorn ist die Vitamin-C-Bombe unter den heimischen Wildfrüchten. Seine leuchtend orangefarbenen Beeren enthalten bis zu zehnmal mehr Vitamin C als Zitronen, dazu Beta-Carotin, Vitamin E, B-Vitamine und seltene Palmitoleinsäure (Omega-7). Dieses geballte Nährstoffpaket macht Sanddorn zu einem der wertvollsten heimischen Superfoods.
 
-Der dornige Strauch wächst an Küsten, Flussufern und auf kargen Böden und trotzt mit seinem tiefen Wurzelsystem selbst härtesten Bedingungen. Seine Fähigkeit, über Knöllchenbakterien Stickstoff zu binden, macht ihn zum Bodenpionier -- er besiedelt und verbessert Ödland.
+Der dornige Strauch wächst an Küsten, Flussufern und auf kargen Böden und trotzt mit seinem tiefen Wurzelsystem selbst härtesten Bedingungen. Seine Fähigkeit, über Knöllchenbakterien Stickstoff zu binden, macht ihn zum Bodenpionier, er besiedelt und verbessert Ödland.
 
 Das Fruchtfleischöl des Sanddorns ist ein besonderes Heilmittel für Haut und Schleimhäute. Es fördert die Regeneration geschädigter Haut, schützt vor UV-Strahlung und pflegt trockene, rissige Haut. Innerlich stärkt es das Immunsystem und gibt Energie in der dunklen Jahreszeit.`,
-    geschichte: `Der Sanddorn wurde bereits im antiken Griechenland als Heilmittel für Pferde eingesetzt -- daher sein lateinischer Name "Hippophae" (glänzendes Pferd). Die tibetische Medizin verwendet Sanddorn seit über 1200 Jahren als "Wunderfrucht der Berge".
+    geschichte: `Der Sanddorn wurde bereits im antiken Griechenland als Heilmittel für Pferde eingesetzt, daher sein lateinischer Name "Hippophae" (glänzendes Pferd). Die tibetische Medizin verwendet Sanddorn seit über 1200 Jahren als "Wunderfrucht der Berge".
 
 In der Mongolei und Russland ist Sanddornsaft ein Volksgetränk. Kosmonauten der sowjetischen Raumfahrt erhielten Sanddorn-Präparate zum Schutz vor kosmischer Strahlung. In Deutschland wurde Sanddorn in der DDR intensiv erforscht und als "Zitrone des Nordens" bekannt.`,
     wirkungen: {
@@ -957,7 +957,7 @@ In der Mongolei und Russland ist Sanddornsaft ein Volksgetränk. Kosmonauten der
     },
     ernte: {
       zeit: 'August bis Oktober, wenn die Beeren leuchtend orange sind. Frühe Ernte für Saft, späte Ernte (nach dem ersten Frost) für milderes Fruchtmark.',
-      teile: 'Beeren -- sie sitzen dicht an den dornigen Zweigen und sind schwer zu pflücken.',
+      teile: 'Beeren, sie sitzen dicht an den dornigen Zweigen und sind schwer zu pflücken.',
       tipps: 'Am einfachsten: Ganze Zweige abschneiden und einfrieren. Die gefrorenen Beeren lassen sich leicht abschütteln. Oder Zweige in Eimer "abstreifen" mit speziellen Erntegabeln.',
       mond: 'Bei zunehmendem Mond ernten für den höchsten Vitamin-C-Gehalt.',
     },
@@ -968,7 +968,7 @@ In der Mongolei und Russland ist Sanddornsaft ein Volksgetränk. Kosmonauten der
         wirkung: 'Intensivste Vitamin-C-Versorgung, stärkt das Immunsystem, gibt Energie in der kalten Jahreszeit.',
       },
       {
-        name: 'Sanddornöl (äusserlich)',
+        name: 'Sanddornöl (äußerlich)',
         anleitung: 'Kaltgepresstes Sanddorn-Fruchtfleischöl direkt auf geschädigte Hautstellen, Wunden oder trockene Haut auftragen. 2x täglich dünn einmassieren.',
         wirkung: 'Regeneriert geschädigte Haut, hilft bei Neurodermitis, Sonnenbrand, Aknenarben und Schleimhautreizungen.',
       },
@@ -981,7 +981,7 @@ In der Mongolei und Russland ist Sanddornsaft ein Volksgetränk. Kosmonauten der
     mischungen: ['Immun-Elixier (mit Hagebutte und Holunder)', 'Winter-Trunk (mit Ingwer und Honig)'],
     tcm: 'Sanddorn stärkt in der TCM die Mitte, nährt das Yin und das Blut und unterstützt das Lungen-Qi.',
     ayurveda: 'Sanddorn nährt alle Dhatus (Gewebe), stärkt Ojas und ist ein ausgezeichnetes Rasayana für die kalte Jahreszeit.',
-    volksmedizin: 'An den Küsten der Ostsee galt Sanddornmarmelade als "Gold des Nordens" -- jede Familie hatte ihr eigenes Rezept, und Kinder, die im Winter täglich Sanddorn bekamen, waren seltener krank.',
+    volksmedizin: 'An den Küsten der Ostsee galt Sanddornmarmelade als "Gold des Nordens", jede Familie hatte ihr eigenes Rezept, und Kinder, die im Winter täglich Sanddorn bekamen, waren seltener krank.',
     besonders_bei: ['immunschwaeche', 'erkaeltung', 'haut', 'erschoepfung', 'vitaminmangel', 'schleimhaut'],
   },
 
@@ -991,12 +991,12 @@ In der Mongolei und Russland ist Sanddornsaft ein Volksgetränk. Kosmonauten der
   'Hagebutte': {
     vollname: 'Hunds-Rose (Rosa canina)',
     familie: 'Rosengewächse (Rosaceae)',
-    beschreibung: `Die Hagebutte ist die Frucht der wilden Rose und eines der vitamin-C-reichsten heimischen Naturheilmittel. Die leuchtend roten Scheinfrüchte enthalten neben Vitamin C auch Galaktolipid -- eine Substanz, die in Studien bemerkenswerte entzündungshemmende Wirkung bei Gelenkschmerzen zeigte. Hagebutten-Pulver kann bei Arthrose die Beweglichkeit verbessern und den Schmerzmittelverbrauch senken.
+    beschreibung: `Die Hagebutte ist die Frucht der wilden Rose und eines der vitamin-C-reichsten heimischen Naturheilmittel. Die leuchtend roten Scheinfrüchte enthalten neben Vitamin C auch Galaktolipid, eine Substanz, die in Studien bemerkenswerte entzündungshemmende Wirkung bei Gelenkschmerzen zeigte. Hagebutten-Pulver kann bei Arthrose die Beweglichkeit verbessern und den Schmerzmittelverbrauch senken.
 
-Neben dem hohen Vitamingehalt liefern Hagebutten wertvolle Carotinoide (Lycopin), Flavonoide, Pektine und organische Säuren. Diese Kombination stärkt das Immunsystem, schützt die Zellen vor oxidativem Stress und unterstützt die Kollagenbildung -- gut für Haut, Gelenke und Gefässe.
+Neben dem hohen Vitamingehalt liefern Hagebutten wertvolle Carotinoide (Lycopin), Flavonoide, Pektine und organische Säuren. Diese Kombination stärkt das Immunsystem, schützt die Zellen vor oxidativem Stress und unterstützt die Kollagenbildung, gut für Haut, Gelenke und Gefäße.
 
 Hagebuttentee ist ein klassischer Früchtetee, der mild-säuerlich schmeckt und sich für die tägliche Anwendung eignet. Die feinen Härchen im Inneren der Frucht (Juckpulver) müssen allerdings sorgfältig entfernt oder abfiltriert werden, da sie Haut und Schleimhäute reizen.`,
-    geschichte: `Der Name "Hunds-Rose" deutet nicht auf den Hund hin, sondern auf "gemein" oder "gewöhnlich" -- sie ist eben die einfache, wilde Rose. Im Mittelalter wurde Hagebuttentee als Stärkungsmittel für Schwangere und stillende Mütter geschätzt.
+    geschichte: `Der Name "Hunds-Rose" deutet nicht auf den Hund hin, sondern auf "gemein" oder "gewöhnlich", sie ist eben die einfache, wilde Rose. Im Mittelalter wurde Hagebuttentee als Stärkungsmittel für Schwangere und stillende Mütter geschätzt.
 
 In den Kriegsjahren organisierte die britische Regierung Sammelaktionen für Hagebutten, um die Vitamin-C-Versorgung der Bevölkerung sicherzustellen, als Zitrusfrüchte nicht verfügbar waren. In Skandinavien ist Hagebuttensuppe ("Nyponsoppa") bis heute ein beliebtes Wintergericht.`,
     wirkungen: {
@@ -1004,32 +1004,32 @@ In den Kriegsjahren organisierte die britische Regierung Sammelaktionen für Hag
       inhaltsstoffe: ['Vitamin C (bis 1250mg/100g)', 'Galaktolipid', 'Lycopin', 'Flavonoide', 'Pektine', 'Fruchtsäuren', 'Carotinoide', 'Vitamin A'],
     },
     ernte: {
-      zeit: 'Oktober bis November, nach dem ersten Frost werden die Früchte weich und süsser. Für Pulver vor dem Frost ernten.',
-      teile: 'Scheinfrüchte -- die roten "Beeren" der Heckenrose.',
-      tipps: 'Die feinen Härchen im Inneren (Nüsschen) können jucken -- bei der Verarbeitung Handschuhe tragen und den Tee durch ein feines Sieb giessen. Für Pulver die ganzen Früchte trocknen und mahlen.',
+      zeit: 'Oktober bis November, nach dem ersten Frost werden die Früchte weich und süßer. Für Pulver vor dem Frost ernten.',
+      teile: 'Scheinfrüchte, die roten "Beeren" der Heckenrose.',
+      tipps: 'Die feinen Härchen im Inneren (Nüsschen) können jucken, bei der Verarbeitung Handschuhe tragen und den Tee durch ein feines Sieb gießen. Für Pulver die ganzen Früchte trocknen und mahlen.',
       mond: 'Bei abnehmendem Mond ernten für beste Lagerfähigkeit.',
     },
     zubereitungen: [
       {
         name: 'Hagebuttentee',
-        anleitung: '2-3 TL getrocknete, zerkleinerte Hagebutten mit 250ml kochendem Wasser übergiessen, mindestens 15-20 Minuten ziehen lassen (Vitamin C braucht Zeit). Durch ein feines Sieb giessen. Mit Honig süssen.',
+        anleitung: '2-3 TL getrocknete, zerkleinerte Hagebutten mit 250ml kochendem Wasser übergießen, mindestens 15-20 Minuten ziehen lassen (Vitamin C braucht Zeit). Durch ein feines Sieb gießen. Mit Honig süßen.',
         wirkung: 'Stärkt das Immunsystem, liefert natürliches Vitamin C, harntreibend und leicht abführend.',
       },
       {
         name: 'Hagebutten-Pulver',
         anleitung: 'Getrocknete Hagebutten im Mixer fein mahlen (Kerne und alles). 1-2 TL täglich in Müsli, Joghurt oder Smoothie einrühren. Über mindestens 3 Monate einnehmen.',
-        wirkung: 'Klinisch bestätigt bei Arthrose -- verbessert Beweglichkeit und reduziert Gelenkschmerzen.',
+        wirkung: 'Klinisch bestätigt bei Arthrose, verbessert Beweglichkeit und reduziert Gelenkschmerzen.',
       },
       {
         name: 'Hagebutten-Marmelade',
         anleitung: 'Hagebutten halbieren, Kerne und Härchen entfernen (Geduldsarbeit). Das Fruchtmark weich kochen, pürieren, mit Gelierzucker einkochen. In Gläser füllen.',
-        wirkung: 'Täglicher Genuss mit hohem Vitamin-C-Gehalt -- schmeckt und stärkt gleichzeitig.',
+        wirkung: 'Täglicher Genuss mit hohem Vitamin-C-Gehalt, schmeckt und stärkt gleichzeitig.',
       },
     ],
     mischungen: ['Immuntee (mit Sanddorn und Holunder)', 'Gelenktee (mit Weidenrinde und Brennnessel)'],
     tcm: 'Die Hagebutte stärkt in der TCM die Mitte und das Nieren-Qi, sie stabilisiert das Wei-Qi und nährt das Blut.',
     ayurveda: 'Hagebutte reduziert Vata und Pitta, stärkt Ojas und die Dhatus. Als säuerliche Frucht regt sie Agni an, ohne zu überhitzen.',
-    volksmedizin: 'Kinder machten aus den Nüsschen im Inneren der Hagebutte "Juckpulver" zum Scherzen -- was sie nicht wussten: Die Nüsschen (Kerne) enthalten wertvolles Öl, das in der modernen Kosmetik als "Wildrosenöl" hochgeschätzt ist.',
+    volksmedizin: 'Kinder machten aus den Nüsschen im Inneren der Hagebutte "Juckpulver" zum Scherzen, was sie nicht wussten: Die Nüsschen (Kerne) enthalten wertvolles Öl, das in der modernen Kosmetik als "Wildrosenöl" hochgeschätzt ist.',
     besonders_bei: ['immunschwaeche', 'arthrose', 'erkaeltung', 'vitaminmangel', 'gelenkschmerzen', 'haut'],
   },
 
@@ -1039,14 +1039,14 @@ In den Kriegsjahren organisierte die britische Regierung Sammelaktionen für Hag
   'Birke': {
     vollname: 'Hänge-Birke (Betula pendula)',
     familie: 'Birkengewächse (Betulaceae)',
-    beschreibung: `Die Birke ist der Baum des Neuanfangs und der Reinigung. Mit ihrer leuchtend weissen Rinde und den zart hängenden Zweigen ist sie einer der schönsten Bäume Europas -- und einer der heilkräftigsten. Birkenblätter sind eines der wirksamsten natürlichen Entwässerungsmittel und werden seit Jahrhunderten bei Harnwegsinfekten, Nierensteinen und Ödemen eingesetzt.
+    beschreibung: `Die Birke ist der Baum des Neuanfangs und der Reinigung. Mit ihrer leuchtend weißen Rinde und den zart hängenden Zweigen ist sie einer der schönsten Bäume Europas, und einer der heilkräftigsten. Birkenblätter sind eines der wirksamsten natürlichen Entwässerungsmittel und werden seit Jahrhunderten bei Harnwegsinfekten, Nierensteinen und Ödemen eingesetzt.
 
 Die harntreibende Wirkung der Birke ist sanft, aber effektiv: Sie spült die Harnwege durch, ohne dem Körper wichtige Mineralstoffe zu entziehen (im Gegensatz zu synthetischen Diuretika). Flavonoide, Saponine und ätherische Öle sorgen für die Durchspülung, Gerbstoffe wirken gleichzeitig entzündungshemmend.
 
-Birkensaft -- das "Wasser", das im Frühling aus angebohrten Stämmen fliesst -- ist ein uraltes Stärkungsmittel. Er enthält Zucker, Aminosäuren, Mineralien und organische Säuren und wirkt entschlackend, belebend und hautreinigend.`,
-    geschichte: `Die Birke war den germanischen Völkern als Baum der Fruchtbarkeitsgöttin Freya heilig. Am 1. Mai stellte man den "Maibaum" auf -- oft eine Birke -- als Symbol des wiedererwachenden Lebens. Birkenzweige wurden zum rituellen Reinigen und Segnen verwendet.
+Birkensaft, das "Wasser", das im Frühling aus angebohrten Stämmen fließt, ist ein uraltes Stärkungsmittel. Er enthält Zucker, Aminosäuren, Mineralien und organische Säuren und wirkt entschlackend, belebend und hautreinigend.`,
+    geschichte: `Die Birke war den germanischen Völkern als Baum der Fruchtbarkeitsgöttin Freya heilig. Am 1. Mai stellte man den "Maibaum" auf, oft eine Birke, als Symbol des wiedererwachenden Lebens. Birkenzweige wurden zum rituellen Reinigen und Segnen verwendet.
 
-In der russischen Volksmedizin ist Birkensaft ("Beresowij Sok") ein Nationalgetränk. Millionen Liter werden jedes Frühjahr gezapft. Die finnische Sauna-Tradition verwendet Birkenzweige zum "Quästen" -- das Schlagen mit frischen Birkenzweigen fördert die Durchblutung und ist ein Erlebnis für die Sinne.`,
+In der russischen Volksmedizin ist Birkensaft ("Beresowij Sok") ein Nationalgetränk. Millionen Liter werden jedes Frühjahr gezapft. Die finnische Sauna-Tradition verwendet Birkenzweige zum "Quästen", das Schlagen mit frischen Birkenzweigen fördert die Durchblutung und ist ein Erlebnis für die Sinne.`,
     wirkungen: {
       hauptwirkungen: ['Harntreibend (aquaretisch)', 'Entzündungshemmend (Harnwege)', 'Entschlackend', 'Blutreinigend', 'Haarwuchsfördernd', 'Rheuma-lindernd'],
       inhaltsstoffe: ['Flavonoide (Hyperosid, Quercitrin)', 'Saponine', 'Gerbstoffe', 'Ätherisches Öl', 'Vitamin C', 'Betulin', 'Betulinsäure', 'Mineralsalze'],
@@ -1054,30 +1054,30 @@ In der russischen Volksmedizin ist Birkensaft ("Beresowij Sok") ein Nationalgetr
     ernte: {
       zeit: 'Blätter: April bis Juni, solange sie jung und zart sind. Birkensaft: März bis April (Saftfluss). Rinde: Frühling.',
       teile: 'Blätter (Hauptheilmittel), Birkensaft, Knospen und Rinde.',
-      tipps: 'Zum Saft zapfen: Im Frühling ein kleines Loch (5mm) in den Stamm bohren, Schlauch einführen und in eine Flasche leiten. Max. 2-3 Liter pro Baum nehmen, danach mit Baumwachs verschliessen. Nur grosse, gesunde Bäume anzapfen.',
+      tipps: 'Zum Saft zapfen: Im Frühling ein kleines Loch (5mm) in den Stamm bohren, Schlauch einführen und in eine Flasche leiten. Max. 2-3 Liter pro Baum nehmen, danach mit Baumwachs verschließen. Nur große, gesunde Bäume anzapfen.',
       mond: 'Blätter bei zunehmendem Mond, Saft bei Vollmond zapfen.',
     },
     zubereitungen: [
       {
         name: 'Birkenblättertee',
-        anleitung: '2-3 TL frische oder getrocknete Birkenblätter mit 250ml kochendem Wasser übergiessen, 10-15 Minuten ziehen lassen. 3-4 Tassen täglich trinken. Kur über 4-6 Wochen.',
-        wirkung: 'Durchspült die Harnwege, lindert Blasenentzündungen, hilft bei Nierengriess und Wassereinlagerungen.',
+        anleitung: '2-3 TL frische oder getrocknete Birkenblätter mit 250ml kochendem Wasser übergießen, 10-15 Minuten ziehen lassen. 3-4 Tassen täglich trinken. Kur über 4-6 Wochen.',
+        wirkung: 'Durchspült die Harnwege, lindert Blasenentzündungen, hilft bei Nierengrieß und Wassereinlagerungen.',
       },
       {
         name: 'Birkensaft-Kur',
-        anleitung: 'Im Frühling täglich 1-2 Gläser frischen Birkensaft trinken. Die Kur dauert 2-4 Wochen. Birkensaft ist nur kurz haltbar -- frisch oder leicht fermentiert geniessen.',
+        anleitung: 'Im Frühling täglich 1-2 Gläser frischen Birkensaft trinken. Die Kur dauert 2-4 Wochen. Birkensaft ist nur kurz haltbar, frisch oder leicht fermentiert genießen.',
         wirkung: 'Entschlackende Frühjahrskur, reinigt Blut und Haut, belebt den Stoffwechsel nach dem Winter.',
       },
       {
         name: 'Birkenblätter-Haarwasser',
-        anleitung: 'Eine Handvoll Birkenblätter mit 500ml kochendem Wasser aufgiessen, 30 Minuten ziehen lassen, abseihen. Nach der Haarwäsche in die Kopfhaut einmassieren.',
+        anleitung: 'Eine Handvoll Birkenblätter mit 500ml kochendem Wasser aufgießen, 30 Minuten ziehen lassen, abseihen. Nach der Haarwäsche in die Kopfhaut einmassieren.',
         wirkung: 'Stärkt die Haarwurzeln, reguliert die Kopfhaut, hilft bei Schuppen und Haarausfall.',
       },
     ],
     mischungen: ['Blasentee (mit Bärentraube und Goldrute)', 'Frühjahrskur (mit Brennnessel und Löwenzahn)'],
     tcm: 'Die Birke leitet in der TCM Feuchtigkeit aus, stärkt die Nieren-Funktion und klärt die Haut.',
     ayurveda: 'Birkenblätter reduzieren Kapha und überschüssiges Wasser, sie reinigen Mutra Vaha Srotas (die Harnkanäle).',
-    volksmedizin: 'Auf dem Land wusste man: "Birkenblättertee trinken und viel Wasser dazu -- das spült alles durch, was da nicht hingehört."',
+    volksmedizin: 'Auf dem Land wusste man: "Birkenblättertee trinken und viel Wasser dazu, das spült alles durch, was da nicht hingehört."',
     besonders_bei: ['harnwege', 'blasenentzuendung', 'niere', 'oedeme', 'haarverlust', 'fruehjahrskur', 'rheuma'],
   },
 
@@ -1087,12 +1087,12 @@ In der russischen Volksmedizin ist Birkensaft ("Beresowij Sok") ein Nationalgetr
   'Basilikum': {
     vollname: 'Basilikum (Ocimum basilicum)',
     familie: 'Lippenblütler (Lamiaceae)',
-    beschreibung: `Basilikum ist weit mehr als ein Küchenkraut für Tomatensosse und Pesto. In der indischen Tradition ist "Tulsi" (Heiliges Basilikum) eine der verehrtesten Heilpflanzen überhaupt -- ein adaptogenes Kraut, das den Körper vor Stress schützt und den Geist klärt. Auch unser europäisches Basilikum besitzt bemerkenswerte Heilkräfte.
+    beschreibung: `Basilikum ist weit mehr als ein Küchenkraut für Tomatensoße und Pesto. In der indischen Tradition ist "Tulsi" (Heiliges Basilikum) eine der verehrtesten Heilpflanzen überhaupt, ein adaptogenes Kraut, das den Körper vor Stress schützt und den Geist klärt. Auch unser europäisches Basilikum besitzt bemerkenswerte Heilkräfte.
 
-Die ätherischen Öle des Basilikums -- Linalool, Eugenol und Estragol -- wirken krampflösend auf den Magen-Darm-Trakt, antibakteriell und entzündungshemmend. Basilikum beruhigt den nervösen Magen, lindert Blähungen und Übelkeit und fördert den Appetit. Darüber hinaus hat es eine milde, aber spürbare stimmungsaufhellende Wirkung.
+Die ätherischen Öle des Basilikums: Linalool, Eugenol und Estragol, wirken krampflösend auf den Magen-Darm-Trakt, antibakteriell und entzündungshemmend. Basilikum beruhigt den nervösen Magen, lindert Blähungen und Übelkeit und fördert den Appetit. Darüber hinaus hat es eine milde, aber spürbare stimmungsaufhellende Wirkung.
 
-Frisches Basilikum enthält beachtliche Mengen an Vitamin K, Mangan, Eisen und Antioxidantien. Regelmässiger Genuss unterstützt den Zellschutz, die Blutgerinnung und die Knochengesundheit. In der Aromatherapie gilt Basilikumöl als konzentrationsfördernd und nervenberuhigend.`,
-    geschichte: `Der Name Basilikum kommt vom griechischen "basilikos" -- königlich. Im antiken Griechenland war es nur dem König erlaubt, das Kraut mit einer goldenen Sichel zu ernten. In Indien steht die Tulsi-Pflanze in fast jedem Haushalt -- sie gilt als Manifestation der Göttin Lakshmi und schützt das Haus.
+Frisches Basilikum enthält beachtliche Mengen an Vitamin K, Mangan, Eisen und Antioxidantien. Regelmäßiger Genuss unterstützt den Zellschutz, die Blutgerinnung und die Knochengesundheit. In der Aromatherapie gilt Basilikumöl als konzentrationsfördernd und nervenberuhigend.`,
+    geschichte: `Der Name Basilikum kommt vom griechischen "basilikos", königlich. Im antiken Griechenland war es nur dem König erlaubt, das Kraut mit einer goldenen Sichel zu ernten. In Indien steht die Tulsi-Pflanze in fast jedem Haushalt, sie gilt als Manifestation der Göttin Lakshmi und schützt das Haus.
 
 Im Mittelalter war Basilikum ein Symbol der Liebe: Stellte eine junge Frau einen Topf Basilikum ins Fenster, signalisierte sie Heiratsbereitschaft. In der Volksmedizin wurde es bei Melancholie, Magenbeschwerden und Insektenstichen eingesetzt.`,
     wirkungen: {
@@ -1102,30 +1102,30 @@ Im Mittelalter war Basilikum ein Symbol der Liebe: Stellte eine junge Frau einen
     ernte: {
       zeit: 'Juni bis September, vor der Blüte sind die Blätter am aromatischsten.',
       teile: 'Blätter und blühende Triebspitzen.',
-      tipps: 'Immer von oben ernten und dabei die Triebspitzen abknipsen -- das fördert buschiges Wachstum. Basilikum verträgt keine Kälte und sollte bei über 15°C geerntet werden.',
+      tipps: 'Immer von oben ernten und dabei die Triebspitzen abknipsen, das fördert buschiges Wachstum. Basilikum verträgt keine Kälte und sollte bei über 15°C geerntet werden.',
       mond: 'Bei zunehmendem Mond an einem Blütetag ernten für das intensivste Aroma.',
     },
     zubereitungen: [
       {
         name: 'Basilikum-Verdauungstee',
-        anleitung: 'Eine Handvoll frische Basilikumblätter oder 2 TL getrocknete mit 250ml kochendem Wasser übergiessen, 10 Minuten zugedeckt ziehen lassen. Nach dem Essen trinken.',
+        anleitung: 'Eine Handvoll frische Basilikumblätter oder 2 TL getrocknete mit 250ml kochendem Wasser übergießen, 10 Minuten zugedeckt ziehen lassen. Nach dem Essen trinken.',
         wirkung: 'Beruhigt den Magen, löst Krämpfe, hilft bei Blähungen und Übelkeit.',
       },
       {
         name: 'Basilikum-Stresstonikum (Tulsi)',
-        anleitung: 'Tulsi-Blätter (Heiliges Basilikum) als Tee aufgiessen: 2 TL mit 250ml heissem Wasser, 5 Minuten ziehen lassen. 2-3 Tassen täglich in stressigen Zeiten.',
+        anleitung: 'Tulsi-Blätter (Heiliges Basilikum) als Tee aufgießen: 2 TL mit 250ml heißem Wasser, 5 Minuten ziehen lassen. 2-3 Tassen täglich in stressigen Zeiten.',
         wirkung: 'Senkt den Cortisolspiegel, stärkt die Stressresistenz, klärt den Geist und beruhigt das Nervensystem.',
       },
       {
-        name: 'Basilikum-Öl (äusserlich)',
+        name: 'Basilikum-Öl (äußerlich)',
         anleitung: 'Frische Basilikumblätter zerreiben und auf Insektenstiche oder kleine Wunden auflegen. Oder 5 Tropfen ätherisches Basilikumöl in 30ml Trägeröl für Einreibungen bei Kopfschmerzen.',
         wirkung: 'Lindert Juckreiz bei Insektenstichen, kühlt leichte Entzündungen, löst Spannungskopfschmerzen.',
       },
     ],
     mischungen: ['Nerventee (mit Melisse und Lavendel)', 'Magentee (mit Pfefferminze und Kamille)'],
     tcm: 'Basilikum bewegt in der TCM das Qi, wärmt die Mitte und löst Qi-Stagnation im Verdauungstrakt.',
-    ayurveda: 'Tulsi (Heiliges Basilikum) ist eines der wichtigsten Kräuter im Ayurveda -- es stärkt Sattva, reinigt Prana und ist ein Rasayana für den Geist.',
-    volksmedizin: 'Italienische Grossmütter sagten: "Basilikum auf dem Tisch und Streit geht aus dem Haus" -- das stimmungsaufhellende Aroma fördert tatsächlich eine friedvolle Atmosphäre.',
+    ayurveda: 'Tulsi (Heiliges Basilikum) ist eines der wichtigsten Kräuter im Ayurveda, es stärkt Sattva, reinigt Prana und ist ein Rasayana für den Geist.',
+    volksmedizin: 'Italienische Großmütter sagten: "Basilikum auf dem Tisch und Streit geht aus dem Haus", das stimmungsaufhellende Aroma fördert tatsächlich eine friedvolle Atmosphäre.',
     besonders_bei: ['verdauung', 'stress', 'nervositaet', 'blaehungen', 'kopfschmerzen', 'stimmung'],
   },
 
@@ -1135,28 +1135,28 @@ Im Mittelalter war Basilikum ein Symbol der Liebe: Stellte eine junge Frau einen
   'Oregano': {
     vollname: 'Oregano (Origanum vulgare)',
     familie: 'Lippenblütler (Lamiaceae)',
-    beschreibung: `Oregano -- die "Freude des Berges" (griechisch: oros = Berg, ganos = Freude) -- ist eines der stärksten natürlichen Antibiotika in der Pflanzenwelt. Sein ätherisches Öl enthält Carvacrol und Thymol in so hoher Konzentration, dass es in Laborstudien selbst gegen antibiotikaresistente Keime wirksam ist.
+    beschreibung: `Oregano, die "Freude des Berges" (griechisch: oros = Berg, ganos = Freude), ist eines der stärksten natürlichen Antibiotika in der Pflanzenwelt. Sein ätherisches Öl enthält Carvacrol und Thymol in so hoher Konzentration, dass es in Laborstudien selbst gegen antibiotikaresistente Keime wirksam ist.
 
-Als Wildkraut wächst Oregano an sonnigen, trockenen Hängen im Mittelmeerraum und den Alpen. Je heisser und trockener der Standort, desto höher die Konzentration an ätherischen Ölen. Wilder Oregano übertrifft den Gartenoregano daher deutlich in seiner Heilkraft.
+Als Wildkraut wächst Oregano an sonnigen, trockenen Hängen im Mittelmeerraum und den Alpen. Je heißer und trockener der Standort, desto höher die Konzentration an ätherischen Ölen. Wilder Oregano übertrifft den Gartenoregano daher deutlich in seiner Heilkraft.
 
 Neben der antibiotischen Wirkung ist Oregano ein hervorragendes Verdauungsmittel. Er regt die Bildung von Magensaft und Gallenflüssigkeit an, lindert Blähungen und Krämpfe und hemmt die Vermehrung schädlicher Darmpilze. Oreganoöl-Kapseln werden in der Naturheilkunde gezielt bei Darm-Dysbiose und Candida-Befall eingesetzt.`,
-    geschichte: `Im antiken Griechenland pflanzten Brautpaare Oregano auf Gräber, um den Verstorbenen Frieden zu wünschen. Hippokrates nutzte Oregano als Antiseptikum und bei Magen-Darm-Erkrankungen. In den Klostergärten des Mittelalters war er als "Wohlgemut" bekannt -- sein Duft sollte die Stimmung heben.
+    geschichte: `Im antiken Griechenland pflanzten Brautpaare Oregano auf Gräber, um den Verstorbenen Frieden zu wünschen. Hippokrates nutzte Oregano als Antiseptikum und bei Magen-Darm-Erkrankungen. In den Klostergärten des Mittelalters war er als "Wohlgemut" bekannt, sein Duft sollte die Stimmung heben.
 
-In der modernen Forschung hat Oreganoöl als natürliches Antibiotikum Aufmerksamkeit erregt. Studien zeigen Wirksamkeit gegen MRSA (Methicillin-resistenter Staphylococcus aureus) -- ein Hoffnungsträger in Zeiten zunehmender Antibiotikaresistenzen.`,
+In der modernen Forschung hat Oreganoöl als natürliches Antibiotikum Aufmerksamkeit erregt. Studien zeigen Wirksamkeit gegen MRSA (Methicillin-resistenter Staphylococcus aureus), ein Hoffnungsträger in Zeiten zunehmender Antibiotikaresistenzen.`,
     wirkungen: {
       hauptwirkungen: ['Stark antibakteriell', 'Antimykotisch', 'Antiviral', 'Verdauungsfördernd', 'Krampflösend', 'Schleimlösend'],
       inhaltsstoffe: ['Carvacrol', 'Thymol', 'p-Cymen', 'Gamma-Terpinen', 'Ätherisches Öl', 'Rosmarinsäure', 'Flavonoide', 'Bitterstoffe'],
     },
     ernte: {
       zeit: 'Juli bis September, zur Blütezeit ist der Gehalt an ätherischem Öl am höchsten.',
-      teile: 'Blühendes Kraut -- die oberirdischen Teile kurz vor oder während der Blüte.',
-      tipps: 'An einem heissen, sonnigen Nachmittag ernten, wenn die ätherischen Öle am konzentriertesten sind. Wilder Oregano von mediterranen Standorten ist dem Gartenoregano weit überlegen.',
+      teile: 'Blühendes Kraut, die oberirdischen Teile kurz vor oder während der Blüte.',
+      tipps: 'An einem heißen, sonnigen Nachmittag ernten, wenn die ätherischen Öle am konzentriertesten sind. Wilder Oregano von mediterranen Standorten ist dem Gartenoregano weit überlegen.',
       mond: 'Bei zunehmendem Mond an einem Feuer-Tag ernten für maximalen Gehalt an ätherischem Öl.',
     },
     zubereitungen: [
       {
         name: 'Oregano-Tee',
-        anleitung: '2 TL getrockneten Oregano mit 250ml kochendem Wasser übergiessen, zugedeckt 10 Minuten ziehen lassen. 2-3 Tassen täglich bei Erkältung oder Verdauungsbeschwerden.',
+        anleitung: '2 TL getrockneten Oregano mit 250ml kochendem Wasser übergießen, zugedeckt 10 Minuten ziehen lassen. 2-3 Tassen täglich bei Erkältung oder Verdauungsbeschwerden.',
         wirkung: 'Antibakteriell, schleimlösend, verdauungsfördernd, krampflösend.',
       },
       {
@@ -1166,19 +1166,19 @@ In der modernen Forschung hat Oreganoöl als natürliches Antibiotikum Aufmerksa
       },
       {
         name: 'Oregano-Inhalation',
-        anleitung: '3-4 Tropfen ätherisches Oreganoöl oder eine Handvoll frischen Oregano in heisses Wasser geben. 10 Minuten unter einem Handtuch inhalieren.',
+        anleitung: '3-4 Tropfen ätherisches Oreganoöl oder eine Handvoll frischen Oregano in heißes Wasser geben. 10 Minuten unter einem Handtuch inhalieren.',
         wirkung: 'Befreit die Atemwege, wirkt gegen Keime in Nase und Nebenhöhlen, löst Schleim.',
       },
       {
-        name: 'Oregano-Fussbad',
-        anleitung: '5 Tropfen ätherisches Oreganoöl in warmem Fussbadwasser verteilen. 15-20 Minuten die Füsse baden.',
-        wirkung: 'Wirkt gegen Fusspilz, stärkt die Abwehr, wärmt den ganzen Körper.',
+        name: 'Oregano-Fußbad',
+        anleitung: '5 Tropfen ätherisches Oreganoöl in warmem Fußbadwasser verteilen. 15-20 Minuten die Füße baden.',
+        wirkung: 'Wirkt gegen Fußpilz, stärkt die Abwehr, wärmt den ganzen Körper.',
       },
     ],
     mischungen: ['Erkältungstee (mit Thymian und Salbei)', 'Darmkur (mit Knoblauch und Kümmel)'],
     tcm: 'Oregano ist in der TCM scharf und warm, er vertreibt Wind-Kälte, öffnet die Oberfläche und bewegt das Qi.',
-    ayurveda: 'Oregano reduziert Kapha und Ama, er stärkt Agni und reinigt die Atemwege -- ein starkes Kapha-ausgleichendes Gewürz.',
-    volksmedizin: 'In griechischen Bergdörfern trinkt man bei der ersten Erkältung starken Oregano-Tee mit Honig -- "Rigani-Tee heilt, was der Doktor nicht kann", sagen die Alten.',
+    ayurveda: 'Oregano reduziert Kapha und Ama, er stärkt Agni und reinigt die Atemwege, ein starkes Kapha-ausgleichendes Gewürz.',
+    volksmedizin: 'In griechischen Bergdörfern trinkt man bei der ersten Erkältung starken Oregano-Tee mit Honig, "Rigani-Tee heilt, was der Doktor nicht kann", sagen die Alten.',
     besonders_bei: ['infekte', 'pilzinfektionen', 'verdauung', 'atemwege', 'husten', 'immunschwaeche', 'candida'],
   },
 
@@ -1188,12 +1188,12 @@ In der modernen Forschung hat Oreganoöl als natürliches Antibiotikum Aufmerksa
   'Petersilie': {
     vollname: 'Petersilie (Petroselinum crispum)',
     familie: 'Doldenblütler (Apiaceae)',
-    beschreibung: `Petersilie ist das am meisten unterschätzte Heilkraut auf unseren Tellern. Was die meisten nur als Garnitur kennen, ist in Wahrheit ein kraftvolles Nährstoff- und Heilpflanzenkonzentrat. Petersilie enthält mehr Vitamin C als Zitronen, mehr Eisen als Spinat und grosse Mengen Vitamin K, Folsäure und Beta-Carotin.
+    beschreibung: `Petersilie ist das am meisten unterschätzte Heilkraut auf unseren Tellern. Was die meisten nur als Garnitur kennen, ist in Wahrheit ein kraftvolles Nährstoff- und Heilpflanzenkonzentrat. Petersilie enthält mehr Vitamin C als Zitronen, mehr Eisen als Spinat und große Mengen Vitamin K, Folsäure und Beta-Carotin.
 
-Die harntreibende Wirkung der Petersilie ist ausgezeichnet -- sie spült die Harnwege durch und unterstützt bei Blasenentzündungen und Wassereinlagerungen. Apiol und Myristicin, die ätherischen Ölbestandteile, wirken darüber hinaus krampflösend auf die glatte Muskulatur und können Menstruationsbeschwerden lindern.
+Die harntreibende Wirkung der Petersilie ist ausgezeichnet, sie spült die Harnwege durch und unterstützt bei Blasenentzündungen und Wassereinlagerungen. Apiol und Myristicin, die ätherischen Ölbestandteile, wirken darüber hinaus krampflösend auf die glatte Muskulatur und können Menstruationsbeschwerden lindern.
 
-Petersilie ist auch ein hervorragender Atemerfischer: Das Chlorophyll bindet Geruchsstoffe -- daher hilft das Kauen frischer Petersilienblätter gegen Knoblauch-Atem und Mundgeruch. Ihre reinigenden, entgiftenden Eigenschaften machen sie zu einer wertvollen Begleitung in jeder Frühjahrskur.`,
-    geschichte: `Im antiken Griechenland war Petersilie eine Trauerpflanze -- man schmückte Gräber damit und flocht Kränze für Sieger bei Leichenspielen. Erst die Römer brachten sie in die Küche. Im Mittelalter war Petersilie eng mit Aberglauben verknüpft: Sie durfte nur von schwangeren Frauen gesät werden, und das Umpflanzen brachte Unglück.
+Petersilie ist auch ein hervorragender Atemerfischer: Das Chlorophyll bindet Geruchsstoffe, daher hilft das Kauen frischer Petersilienblätter gegen Knoblauch-Atem und Mundgeruch. Ihre reinigenden, entgiftenden Eigenschaften machen sie zu einer wertvollen Begleitung in jeder Frühjahrskur.`,
+    geschichte: `Im antiken Griechenland war Petersilie eine Trauerpflanze, man schmückte Gräber damit und flocht Kränze für Sieger bei Leichenspielen. Erst die Römer brachten sie in die Küche. Im Mittelalter war Petersilie eng mit Aberglauben verknüpft: Sie durfte nur von schwangeren Frauen gesät werden, und das Umpflanzen brachte Unglück.
 
 Hildegard von Bingen schätzte die Petersilie als Herz- und Nierenmittel. In der Volksmedizin war sie als "Frauenkraut" bekannt, da sie die Menstruation fördern konnte. In der modernen Phytotherapie wird sie vor allem als Entwässerungsmittel und Nährstofflieferant geschätzt.`,
     wirkungen: {
@@ -1203,13 +1203,13 @@ Hildegard von Bingen schätzte die Petersilie als Herz- und Nierenmittel. In der
     ernte: {
       zeit: 'April bis Oktober, die Blätter laufend ernten. Im zweiten Jahr wird die Pflanze bitter und geht in Blüte.',
       teile: 'Blätter (frisch am wirksamsten), Wurzeln und Samen.',
-      tipps: 'Immer die äusseren Blätter zuerst ernten, damit die Pflanze nachwächst. Petersilie verträgt leichten Frost. Die Wurzel (Petersilienwurzel) ist ein eigenes Heilmittel mit stärkerer harntreibender Wirkung.',
+      tipps: 'Immer die äußeren Blätter zuerst ernten, damit die Pflanze nachwächst. Petersilie verträgt leichten Frost. Die Wurzel (Petersilienwurzel) ist ein eigenes Heilmittel mit stärkerer harntreibender Wirkung.',
       mond: 'Bei zunehmendem Mond ernten für den höchsten Nährstoffgehalt.',
     },
     zubereitungen: [
       {
         name: 'Petersilientee (Blätter)',
-        anleitung: '2 EL frische, gehackte Petersilie oder 2 TL getrocknete mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. 2-3 Tassen täglich. Nicht in der Schwangerschaft.',
+        anleitung: '2 EL frische, gehackte Petersilie oder 2 TL getrocknete mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 2-3 Tassen täglich. Nicht in der Schwangerschaft.',
         wirkung: 'Entwässernd, harntreibend, nährstoffreich, hilft bei Blasenentzündungen und Wassereinlagerungen.',
       },
       {
@@ -1219,8 +1219,8 @@ Hildegard von Bingen schätzte die Petersilie als Herz- und Nierenmittel. In der
       },
       {
         name: 'Petersilien-Smoothie',
-        anleitung: 'Eine grosse Handvoll frische Petersilie mit Apfel, Banane, Zitronensaft und Wasser im Mixer pürieren. Frisch trinken.',
-        wirkung: 'Nährstoffbombe: Eisen, Vitamin C, Folsäure, Chlorophyll -- belebt und entgiftet.',
+        anleitung: 'Eine große Handvoll frische Petersilie mit Apfel, Banane, Zitronensaft und Wasser im Mixer pürieren. Frisch trinken.',
+        wirkung: 'Nährstoffbombe: Eisen, Vitamin C, Folsäure, Chlorophyll, belebt und entgiftet.',
       },
       {
         name: 'Petersilie gegen Mundgeruch',
@@ -1230,8 +1230,8 @@ Hildegard von Bingen schätzte die Petersilie als Herz- und Nierenmittel. In der
     ],
     mischungen: ['Entwässerungstee (mit Birke und Goldrute)', 'Frühjahrskur (mit Brennnessel und Löwenzahn)'],
     tcm: 'Petersilie bewegt in der TCM das Blut und das Qi, sie leitet Feuchtigkeit aus und stärkt die Nieren-Funktion.',
-    ayurveda: 'Petersilie reduziert Kapha und Vata, reinigt das Blut und stärkt Agni -- ein sattvisches Gewürzkraut für den täglichen Gebrauch.',
-    volksmedizin: 'Bauernregel: "Petersilie hilft dem Mann aufs Pferd und der Frau unter die Erd" -- eine drastische Warnung, dass Petersilie in sehr grossen Mengen wehenfördernd wirkt und in der Schwangerschaft gemieden werden sollte.',
+    ayurveda: 'Petersilie reduziert Kapha und Vata, reinigt das Blut und stärkt Agni, ein sattvisches Gewürzkraut für den täglichen Gebrauch.',
+    volksmedizin: 'Bauernregel: "Petersilie hilft dem Mann aufs Pferd und der Frau unter die Erd", eine drastische Warnung, dass Petersilie in sehr großen Mengen wehenfördernd wirkt und in der Schwangerschaft gemieden werden sollte.',
     besonders_bei: ['harnwege', 'oedeme', 'eisenmangel', 'menstruation', 'mundgeruch', 'entgiftung', 'blasenentzuendung'],
   },
 
