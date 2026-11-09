@@ -11,6 +11,7 @@ import { UserProfileDrawer, getUser, saveUser, addOrder } from './components/Use
 import { Lexikon } from './components/Lexikon'
 import { ProduktePage } from './components/ProduktePage'
 import { CategoryPage } from './components/CategoryPage'
+import { Footer } from './components/Footer'
 import { searchConditions, searchProducts, searchHerbs, searchFasting, searchNutrition, searchTopics, searchHexenwissen, searchSucht, ALL_CONDITIONS, PRODUCTS } from './data'
 
 export default function App() {
@@ -30,7 +31,7 @@ export default function App() {
   })
   const [user, setUser] = useState(() => getUser())
   const [userOpen, setUserOpen] = useState(false)
-  const [fkModalOpen, setFkModalOpen] = useState(() => !localStorage.getItem('heildepot_fk_seen'))
+  const [fkModalOpen, setFkModalOpen] = useState(false)
   const [versandModalOpen, setVersandModalOpen] = useState(false)
   const [condResults, setCondResults] = useState([])
   const [prodResults, setProdResults] = useState([])
@@ -347,17 +348,7 @@ export default function App() {
         />
       )}
 
-      {/* Footer */}
-      <footer className="border-t border-green-pale/50 mt-8 py-6 px-4">
-        <div className="max-w-5xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-text-muted">
-          <span>Erfahrungswissen, geteilt unter Freunden.</span>
-          <div className="flex items-center gap-4">
-            <button onClick={() => setFkModalOpen(true)} className="hover:text-green-main transition-colors">Unter Freunden</button>
-            <button onClick={() => setVersandModalOpen(true)} className="hover:text-green-main transition-colors">Versand & Anfragen</button>
-            <button onClick={() => { setFkModalOpen(true) }} className="hover:text-green-main transition-colors">Datenschutz</button>
-          </div>
-        </div>
-      </footer>
+      <Footer onFreunde={() => setFkModalOpen(true)} onVersand={() => setVersandModalOpen(true)} onLexikon={showLexikon} />
 
       {/* Modals & Drawers */}
       <Cart

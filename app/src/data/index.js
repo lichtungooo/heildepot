@@ -6,6 +6,13 @@ import { CONDITIONS_5 } from './conditions-5'
 import { CONDITIONS_6 } from './conditions-6'
 import { PRODUCTS } from './products'
 
+// Suche faltet Umlaute: "Kräuter", "kraeuter" und "KRÄUTER" finden dasselbe
+const FALT = /[äöüß]/g
+const FALT_MAP = { ä: 'ae', ö: 'oe', ü: 'ue', ß: 'ss' }
+const falteZ = c => FALT_MAP[c]
+export const falte = s => String(s ?? '').toLowerCase().replace(FALT, falteZ)
+
+
 // Lazy-load optional data modules
 let _HERBS = [], _FASTING = [], _NUTRITION = [], _COMPARISONS = [], _TOPICS = []
 let _KRAEUTERMISCHUNGEN = [], _SALBEN = [], _TINKTUREN = [], _ALCHEMIE = [], _HEXEN_ANLEITUNGEN = []
@@ -168,11 +175,11 @@ export function getHerbDeep(name) {
   // Direct match
   if (_HERB_DEEP_RAW[name]) return _HERB_DEEP_RAW[name]
   // Normalize: ss<->ß, case-insensitive
-  const normalized = name.toLowerCase()
+  const normalized = name.toLowerCase().replace(FALT, falteZ)
   const withSS = normalized.replace(/ß/g, 'ss')
   const withSZ = normalized.replace(/ss/g, 'ß')
   for (const key of Object.keys(_HERB_DEEP_RAW)) {
-    const kl = key.toLowerCase()
+    const kl = key.toLowerCase().replace(FALT, falteZ)
     if (kl === normalized || kl === withSS || kl === withSZ) return _HERB_DEEP_RAW[key]
     // Partial match: "Weißdorn" should find "Weißdorn" entry
     if (kl.includes(normalized) || normalized.includes(kl)) return _HERB_DEEP_RAW[key]
@@ -195,28 +202,28 @@ export const CONDITION_INDEX = ALL_CONDITIONS.map(c => {
         c.fasten?.text || '', ...(c.fasten?.formen || []),
         c.bewegung?.text || '', ...(c.bewegung?.praktiken || []),
         c.geist?.einheit || '', ...(c.geist?.affirmationen || []), c.geist?.meditation || '', c.geist?.energie || '',
-    ].join(' ').toLowerCase()
+    ].join(' ').toLowerCase().replace(FALT, falteZ)
     return { condition: c, blob }
 })
 
 // Build search index for products
 export const PRODUCT_INDEX = PRODUCTS.map(p => {
-    const blob = [p.name, p.desc || '', p.wirkung || '', p.kategorie || '', ...(p.tags || []), ...(p.symptome || [])].join(' ').toLowerCase()
+    const blob = [p.name, p.desc || '', p.wirkung || '', p.kategorie || '', ...(p.tags || []), ...(p.symptome || [])].join(' ').toLowerCase().replace(FALT, falteZ)
     return { product: p, blob }
 })
 
 // Search functions
 export function searchConditions(query) {
-    const terms = query.toLowerCase().replace(/#/g, '').split(/\s+/).filter(t => t.length > 1)
+    const terms = query.toLowerCase().replace(FALT, falteZ).replace(/#/g, '').split(/\s+/).filter(t => t.length > 1)
     const results = []
     CONDITION_INDEX.forEach(item => {
         let score = 0
         terms.forEach(term => {
-            if (item.condition.name.toLowerCase().includes(term)) score += 10
+            if (item.condition.name.toLowerCase().replace(FALT, falteZ).includes(term)) score += 10
             if (item.condition.id.includes(term)) score += 10
-            if ((item.condition.tags || []).some(t => t.replace('#','').includes(term))) score += 8
-            if ((item.condition.kraeuter || []).some(k => k.name.toLowerCase().includes(term))) score += 6
-            if ((item.condition.stoffe || []).some(s => s.name.toLowerCase().includes(term))) score += 6
+            if ((item.condition.tags || []).some(t => t.replace('#','').toLowerCase().replace(FALT, falteZ).includes(term))) score += 8
+            if ((item.condition.kraeuter || []).some(k => k.name.toLowerCase().replace(FALT, falteZ).includes(term))) score += 6
+            if ((item.condition.stoffe || []).some(s => s.name.toLowerCase().replace(FALT, falteZ).includes(term))) score += 6
             if (item.blob.includes(term)) score += 2
         })
         if (score > 0) results.push({ condition: item.condition, score })
@@ -226,14 +233,14 @@ export function searchConditions(query) {
 }
 
 export function searchProducts(query) {
-    const terms = query.toLowerCase().replace(/#/g, '').split(/\s+/).filter(t => t.length > 1)
+    const terms = query.toLowerCase().replace(FALT, falteZ).replace(/#/g, '').split(/\s+/).filter(t => t.length > 1)
     const results = []
     PRODUCT_INDEX.forEach(item => {
         let score = 0
         terms.forEach(term => {
-            if (item.product.name.toLowerCase().includes(term)) score += 15
-            if ((item.product.kategorie || '').toLowerCase().includes(term)) score += 8
-            if ((item.product.tags || []).some(t => t.replace('#','').includes(term))) score += 6
+            if (item.product.name.toLowerCase().replace(FALT, falteZ).includes(term)) score += 15
+            if ((item.product.kategorie || '').toLowerCase().replace(FALT, falteZ).includes(term)) score += 8
+            if ((item.product.tags || []).some(t => t.replace('#','').toLowerCase().replace(FALT, falteZ).includes(term))) score += 6
             if (item.blob.includes(term)) score += 2
         })
         if (score > 0) results.push({ product: item.product, score })
@@ -243,7 +250,7 @@ export function searchProducts(query) {
 }
 
 export function searchHerbs(query) {
-    const terms = query.toLowerCase().replace(/#/g, '').split(/\s+/).filter(t => t.length > 1)
+    const terms = query.toLowerCase().replace(FALT, falteZ).replace(/#/g, '').split(/\s+/).filter(t => t.length > 1)
     return _HERBS.filter(h => {
         const deep = getHerbDeep(h.name)
         const blob = [
@@ -253,74 +260,74 @@ export function searchHerbs(query) {
             ...(deep?.wirkungen?.hauptwirkungen || []),
             ...(deep?.wirkungen?.inhaltsstoffe || []),
             ...(deep?.mischungen || []),
-        ].join(' ').toLowerCase()
+        ].join(' ').toLowerCase().replace(FALT, falteZ)
         return terms.some(t => blob.includes(t))
     }).map(h => {
         let score = 0
         const deep = getHerbDeep(h.name)
         terms.forEach(t => {
             // Exakter Namens-Match bekommt höchsten Score
-            if (h.name.toLowerCase() === t) score += 25
-            else if (h.name.toLowerCase().includes(t)) score += 18
+            if (h.name.toLowerCase().replace(FALT, falteZ) === t) score += 25
+            else if (h.name.toLowerCase().replace(FALT, falteZ).includes(t)) score += 18
             if (h.id === t) score += 20
-            if ((h.wirkung || []).some(w => w.toLowerCase().includes(t))) score += 8
-            if ((h.tags || []).some(tag => tag.replace('#','').includes(t))) score += 6
-            if ((deep?.wirkungen?.hauptwirkungen || []).some(w => w.toLowerCase().includes(t))) score += 5
-            if ((deep?.beschreibung || '').toLowerCase().includes(t)) score += 3
+            if ((h.wirkung || []).some(w => w.toLowerCase().replace(FALT, falteZ).includes(t))) score += 8
+            if ((h.tags || []).some(tag => tag.replace('#','').toLowerCase().replace(FALT, falteZ).includes(t))) score += 6
+            if ((deep?.wirkungen?.hauptwirkungen || []).some(w => w.toLowerCase().replace(FALT, falteZ).includes(t))) score += 5
+            if ((deep?.beschreibung || '').toLowerCase().replace(FALT, falteZ).includes(t)) score += 3
         })
         return { herb: h, score }
     }).sort((a, b) => b.score - a.score)
 }
 
 export function searchFasting(query) {
-    const terms = query.toLowerCase().replace(/#/g, '').split(/\s+/).filter(t => t.length > 1)
+    const terms = query.toLowerCase().replace(FALT, falteZ).replace(/#/g, '').split(/\s+/).filter(t => t.length > 1)
     return _FASTING.filter(f => {
-        const blob = [f.name, f.kategorie, f.beschreibung, f.wirkung, ...(f.tags || [])].join(' ').toLowerCase()
+        const blob = [f.name, f.kategorie, f.beschreibung, f.wirkung, ...(f.tags || [])].join(' ').toLowerCase().replace(FALT, falteZ)
         return terms.some(t => blob.includes(t))
     }).map(f => {
         let score = 0
         terms.forEach(t => {
-            if (f.name.toLowerCase().includes(t)) score += 15
-            if (f.kategorie.toLowerCase().includes(t)) score += 8
-            if ((f.tags || []).some(tag => tag.replace('#','').includes(t))) score += 6
+            if (f.name.toLowerCase().replace(FALT, falteZ).includes(t)) score += 15
+            if (f.kategorie.toLowerCase().replace(FALT, falteZ).includes(t)) score += 8
+            if ((f.tags || []).some(tag => tag.replace('#','').toLowerCase().replace(FALT, falteZ).includes(t))) score += 6
         })
         return { fasting: f, score }
     }).sort((a, b) => b.score - a.score)
 }
 
 export function searchNutrition(query) {
-    const terms = query.toLowerCase().replace(/#/g, '').split(/\s+/).filter(t => t.length > 1)
+    const terms = query.toLowerCase().replace(FALT, falteZ).replace(/#/g, '').split(/\s+/).filter(t => t.length > 1)
     return _NUTRITION.filter(n => {
-        const blob = [n.name, n.beschreibung || '', n.prinzip || '', ...(n.tags || [])].join(' ').toLowerCase()
+        const blob = [n.name, n.beschreibung || '', n.prinzip || '', ...(n.tags || [])].join(' ').toLowerCase().replace(FALT, falteZ)
         return terms.some(t => blob.includes(t))
     }).map(n => {
         let score = 0
         terms.forEach(t => {
-            if (n.name.toLowerCase().includes(t)) score += 15
-            if ((n.tags || []).some(tag => tag.replace('#','').includes(t))) score += 6
+            if (n.name.toLowerCase().replace(FALT, falteZ).includes(t)) score += 15
+            if ((n.tags || []).some(tag => tag.replace('#','').toLowerCase().replace(FALT, falteZ).includes(t))) score += 6
         })
         return { nutrition: n, score }
     }).sort((a, b) => b.score - a.score)
 }
 
 export function searchTopics(query) {
-    const terms = query.toLowerCase().replace(/#/g, '').split(/\s+/).filter(t => t.length > 1)
+    const terms = query.toLowerCase().replace(FALT, falteZ).replace(/#/g, '').split(/\s+/).filter(t => t.length > 1)
     return _TOPICS.filter(t => {
-        const blob = [t.name, t.kurz || '', ...(t.tags || []), t.inhalt?.einfuehrung || ''].join(' ').toLowerCase()
+        const blob = [t.name, t.kurz || '', ...(t.tags || []), t.inhalt?.einfuehrung || ''].join(' ').toLowerCase().replace(FALT, falteZ)
         return terms.some(term => blob.includes(term))
     }).map(t => {
         let score = 0
         terms.forEach(term => {
-            if (t.name.toLowerCase().includes(term)) score += 15
-            if ((t.tags || []).some(tag => tag.replace('#','').includes(term))) score += 8
-            if ((t.kurz || '').toLowerCase().includes(term)) score += 4
+            if (t.name.toLowerCase().replace(FALT, falteZ).includes(term)) score += 15
+            if ((t.tags || []).some(tag => tag.replace('#','').toLowerCase().replace(FALT, falteZ).includes(term))) score += 8
+            if ((t.kurz || '').toLowerCase().replace(FALT, falteZ).includes(term)) score += 4
         })
         return { topic: t, score }
     }).sort((a, b) => b.score - a.score)
 }
 
 export function searchHexenwissen(query) {
-    const terms = query.toLowerCase().replace(/#/g, '').split(/\s+/).filter(t => t.length > 1)
+    const terms = query.toLowerCase().replace(FALT, falteZ).replace(/#/g, '').split(/\s+/).filter(t => t.length > 1)
     const all = [
         ..._KRAEUTERMISCHUNGEN.map(x => ({...x, _type: 'mischung'})),
         ..._SALBEN.map(x => ({...x, _type: 'salbe'})),
@@ -337,41 +344,41 @@ export function searchHexenwissen(query) {
         ..._GRIMOIRE_REZEPTE.map(x => ({...x, _type: 'grimoire'})),
     ]
     return all.filter(item => {
-        const blob = [item.name, item.kategorie || '', item.beschreibung || '', item.hintergrund || '', item.geheimtipp || '', item.inhalt || '', ...(item.tags || []), ...(item.besonders_bei || []), ...(item.kernpunkte || [])].join(' ').toLowerCase()
+        const blob = [item.name, item.kategorie || '', item.beschreibung || '', item.hintergrund || '', item.geheimtipp || '', item.inhalt || '', ...(item.tags || []), ...(item.besonders_bei || []), ...(item.kernpunkte || [])].join(' ').toLowerCase().replace(FALT, falteZ)
         return terms.some(t => blob.includes(t))
     }).map(item => {
         let score = 0
         terms.forEach(t => {
-            if (item.name.toLowerCase().includes(t)) score += 15
-            if ((item.kategorie || '').toLowerCase().includes(t)) score += 8
-            if ((item.tags || []).some(tag => tag.replace('#','').includes(t))) score += 6
+            if (item.name.toLowerCase().replace(FALT, falteZ).includes(t)) score += 15
+            if ((item.kategorie || '').toLowerCase().replace(FALT, falteZ).includes(t)) score += 8
+            if ((item.tags || []).some(tag => tag.replace('#','').toLowerCase().replace(FALT, falteZ).includes(t))) score += 6
         })
         return { item, score }
     }).sort((a, b) => b.score - a.score)
 }
 
 export function searchSucht(query) {
-    const terms = query.toLowerCase().replace(/#/g, '').split(/\s+/).filter(t => t.length > 1)
+    const terms = query.toLowerCase().replace(FALT, falteZ).replace(/#/g, '').split(/\s+/).filter(t => t.length > 1)
     const results = []
     _SUCHTFORMEN.forEach(s => {
         const blob = [s.name, s.id, s.beschreibung || '', ...(s.tags || []),
             ...(s.heilwege || []).map(h => h.name + ' ' + (h.beschreibung || ''))
-        ].join(' ').toLowerCase()
+        ].join(' ').toLowerCase().replace(FALT, falteZ)
         let score = 0
         terms.forEach(t => {
-            if (s.name.toLowerCase().includes(t)) score += 15
+            if (s.name.toLowerCase().replace(FALT, falteZ).includes(t)) score += 15
             if (s.id.includes(t)) score += 10
-            if ((s.tags || []).some(tag => tag.replace('#','').includes(t))) score += 8
+            if ((s.tags || []).some(tag => tag.replace('#','').toLowerCase().replace(FALT, falteZ).includes(t))) score += 8
             if (blob.includes(t)) score += 3
         })
         if (score > 0) results.push({ sucht: s, score })
     })
     _HEILANSAETZE_SUCHT.forEach(h => {
-        const blob = [h.name, h.id, h.beschreibung || '', ...(h.tags || [])].join(' ').toLowerCase()
+        const blob = [h.name, h.id, h.beschreibung || '', ...(h.tags || [])].join(' ').toLowerCase().replace(FALT, falteZ)
         let score = 0
         terms.forEach(t => {
-            if (h.name.toLowerCase().includes(t)) score += 15
-            if ((h.tags || []).some(tag => tag.replace('#','').includes(t))) score += 8
+            if (h.name.toLowerCase().replace(FALT, falteZ).includes(t)) score += 15
+            if ((h.tags || []).some(tag => tag.replace('#','').toLowerCase().replace(FALT, falteZ).includes(t))) score += 8
             if (blob.includes(t)) score += 3
         })
         if (score > 0) results.push({ sucht: h, score })

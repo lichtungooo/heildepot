@@ -1,29 +1,67 @@
 @import "tailwindcss";
 
+/* Heildepot · Farben aus der Kräuterkammer
+   Papier, Waldgrün, Salbei (Logo), Ocker und Hagebutte als Akzente.
+   Die alten Namen (green-*, gold-*, text-*) tragen jetzt die neuen Töne,
+   so zieht die ganze Seite auf einmal mit. */
 @theme {
-  --color-green-dark: #2d5016;
-  --color-green-main: #6aab3d;
-  --color-green-medium: #6ba33e;
-  --color-green-light: #8bc34a;
-  --color-green-pale: #e8f5e9;
-  --color-green-bg: #f1f8e9;
-  --color-gold: #c8a855;
-  --color-gold-light: #f5ecd0;
-  --color-bg: #fafbf8;
-  --color-text-dark: #1a2e0a;
-  --color-text-medium: #3d5a1e;
-  --color-text-light: #6b8e4e;
-  --color-text-muted: #9cb88a;
-  --font-serif: 'Playfair Display', serif;
-  --font-sans: 'Inter', -apple-system, sans-serif;
+  --color-green-dark: #23402a;     /* Waldgrün, Überschriften, Flächen */
+  --color-green-main: #3f6b35;     /* Handlung, Links */
+  --color-green-medium: #557f45;
+  --color-green-light: #7dab5a;    /* Salbei, Farbe des Logos */
+  --color-green-pale: #e6ebdc;
+  --color-green-bg: #efece2;
+  --color-gold: #b9792a;           /* Ocker */
+  --color-gold-light: #f3e5c6;
+  --color-rose: #a8432f;           /* Hagebutte, sparsam */
+  --color-rose-light: #f5ddd5;
+  --color-bg: #f7f4ec;             /* Papier */
+  --color-paper: #fbf9f4;
+  --color-ink: #1c2619;
+  --color-text-dark: #1c2619;
+  --color-text-medium: #3d4a37;
+  --color-text-light: #5e6b55;
+  --color-text-muted: #858f7a;
+  --font-serif: 'Fraunces', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Instrument Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --radius-xl: 0.875rem;
+  --radius-2xl: 1.25rem;
 }
 
 @layer base {
+  html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
   body {
     font-family: var(--font-sans);
     color: var(--color-text-dark);
     background: var(--color-bg);
     line-height: 1.6;
     margin: 0;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
   }
+  h1, h2, h3 { font-family: var(--font-serif); font-optical-sizing: auto; letter-spacing: -0.01em; }
+  h1 { font-weight: 500; }
+  h2 { font-weight: 500; }
+  h3 { font-weight: 550; }
+  ::selection { background: var(--color-gold-light); color: var(--color-ink); }
+  :focus-visible { outline: 2px solid var(--color-gold); outline-offset: 2px; border-radius: 6px; }
+  button { cursor: pointer; }
+}
+
+@layer components {
+  .bild-kachel img { transition: transform 0.9s cubic-bezier(.2,.7,.2,1); }
+  .bild-kachel:hover img, .bild-kachel:focus-visible img { transform: scale(1.05); }
+  .papier-korn {
+    background-image: radial-gradient(rgba(60,50,20,0.045) 1px, transparent 1px);
+    background-size: 3px 3px;
+  }
+}
+
+@keyframes auftauchen {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: none; }
+}
+.auftauchen { animation: auftauchen 0.7s cubic-bezier(.2,.7,.2,1) both; }
+@media (prefers-reduced-motion: reduce) {
+  .auftauchen, .bild-kachel img { animation: none; transition: none; }
 }
