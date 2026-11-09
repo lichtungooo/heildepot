@@ -76,21 +76,21 @@ export function VersandModal({ open, onClose }) {
 
         <div className="flex-1 overflow-y-auto p-5 space-y-4">
           <Section title="Einfach und sicher anfragen">
-            <p>Du kannst sicher und anonym auf unserer Webseite surfen, weil diese per SSL verschluesselt ist.
+            <p>Du kannst sicher und anonym auf unserer Webseite surfen, weil diese per SSL verschlüsselt ist.
             Wir verzichten bewusst auf klassische Shop-Systeme, Benutzerkonten und komplizierte Registrierungen.
-            Stattdessen sendest du eine persoenliche Anfrage -- wie eine Nachricht an einen Freund.</p>
+            Stattdessen sendest du eine persönliche Anfrage -- wie eine Nachricht an einen Freund.</p>
           </Section>
 
           <Section title="Warum Anfragen statt Bestellungen?">
-            <p>Im Freundeskreis gibt es keine Kaufvertraege. Du teilst deinen Wunsch mit, und wir
-            kuemmern uns darum. Das Ganze basiert auf dem internationalen Privatrecht -- dem freien
+            <p>Im Freundeskreis gibt es keine Kaufverträge. Du teilst deinen Wunsch mit, und wir
+            kümmern uns darum. Das Ganze basiert auf dem internationalen Privatrecht -- dem freien
             Austausch unter Privatpersonen. Deshalb nutzen wir ein System, bei dem du anonym bleibst
-            und nur das mitteilst, was du moechtest.</p>
+            und nur das mitteilst, was du möchtest.</p>
           </Section>
 
           <Section title="Versandgebiet">
             <p>Wir senden heilsame Mittel an Freunde in der ganzen Welt. Ausnahmen machen wir bei
-            CBD-Oel, weil es in bestimmten Staaten noch nicht legalisiert ist. Der Versand erfolgt ueber DHL.</p>
+            CBD-Öl, weil es in bestimmten Staaten noch nicht legalisiert ist. Der Versand erfolgt über DHL.</p>
           </Section>
 
           <Section title="Versandkosten">
@@ -99,7 +99,7 @@ export function VersandModal({ open, onClose }) {
                 <span>Deutschland</span><span className="font-medium">5,90 EUR</span>
               </div>
               <div className="flex justify-between text-xs">
-                <span>Oesterreich / Schweiz</span><span className="font-medium">12,90 EUR</span>
+                <span>Österreich / Schweiz</span><span className="font-medium">12,90 EUR</span>
               </div>
               <div className="flex justify-between text-xs">
                 <span>Weltweit</span><span className="font-medium">19,90 EUR</span>
@@ -108,22 +108,22 @@ export function VersandModal({ open, onClose }) {
                 <span>Ab 100,- EUR</span><span>KOSTENLOS</span>
               </div>
             </div>
-            <p className="text-[11px] text-text-muted mt-1">Bei Anfragen ab 100,- EUR tragen wir die gesamten Kosten fuer Verpackung und Porto.</p>
+            <p className="text-[11px] text-text-muted mt-1">Bei Anfragen ab 100,- EUR tragen wir die gesamten Kosten für Verpackung und Porto.</p>
           </Section>
 
           <Section title="Beilagen bestimmen">
             <p>Du bestimmst selbst, welche Materialien deiner Sendung beiliegen -- der Umwelt zuliebe.
-            Im Anfrageprozess kannst du Haekchen setzen fuer:</p>
+            Im Anfrageprozess kannst du Häkchen setzen für:</p>
             <ul className="list-disc pl-4 space-y-1 mt-1">
-              <li>Anwendungsblaetter zu den Artikeln</li>
+              <li>Anwendungsblätter zu den Artikeln</li>
               <li>Sonstiges Informationsmaterial</li>
-              <li>Kostenlose Artikel (Chartres-Karten, Blume-des-Lebens-Aufkleber, Faltblaetter)</li>
+              <li>Kostenlose Artikel (Chartres-Karten, Blume-des-Lebens-Aufkleber, Faltblätter)</li>
             </ul>
           </Section>
 
-          <Section title="Bestaetigungsmail">
-            <p>Du kannst waehlen, ob du eine Bestaetigungsmail erhalten moechtest. Beachte: E-Mails
-            werden grundsaetzlich unverschluesselt versendet und koennen von Dritten gelesen werden.
+          <Section title="Bestätigungsmail">
+            <p>Du kannst wählen, ob du eine Bestätigungsmail erhalten möchtest. Beachte: E-Mails
+            werden grundsätzlich unverschlüsselt versendet und können von Dritten gelesen werden.
             Bei kostenlosen Anbietern wie Google Mail werden deine Nachrichten analysiert.</p>
           </Section>
 
@@ -163,7 +163,7 @@ export function PrivacyBanner() {
         <Lock size={18} className="text-green-main shrink-0 hidden sm:block" />
         <p className="text-xs text-text-medium leading-relaxed flex-1">
           <span className="font-semibold text-text-dark">Keine Cookies. Kein Tracking. Keine Werbung.</span>{' '}
-          Diese Seite respektiert deine Privatsphaere vollstaendig. Alle Daten bleiben lokal in deinem Browser.
+          Diese Seite respektiert deine Privatsphäre vollständig. Alle Daten bleiben lokal in deinem Browser.
         </p>
         <button onClick={dismiss}
           className="px-4 py-1.5 rounded-lg bg-green-main text-white text-xs font-medium hover:bg-green-dark transition-colors shrink-0">
@@ -187,16 +187,16 @@ function TabFreundeskreis() {
       <p className="text-sm text-text-medium leading-relaxed">
         Das Heildepot ist kein Shop. Es ist ein geschlossener Freundeskreis, in dem
         Erfahrungswissen und Naturheilmittel unter echten Menschen geteilt werden --
-        persoenlich, auf Vertrauensbasis, ohne kommerziellen Rahmen.
+        persönlich, auf Vertrauensbasis, ohne kommerziellen Rahmen.
       </p>
 
       <Section title="Warum agieren wir so?">
         <p>Seit Jahrtausenden teilen Menschen Heilwissen in ihren Gemeinschaften. Was als
         Erfahrungswissen von Mensch zu Mensch weitergegeben wird, braucht keinen kommerziellen
-        Rahmen -- es braucht Vertrauen, persoenliche Beziehung und echte Begegnung.</p>
-        <p className="mt-2">Im Freundeskreis gibt es keine Kunden und keine Haendler. Es gibt Menschen,
-        die einander kennen, sich begegnet sind und fuereinander einstehen. Produkte werden
-        nicht verkauft, sondern auf Basis freiwilliger Wertschaetzung geteilt.</p>
+        Rahmen -- es braucht Vertrauen, persönliche Beziehung und echte Begegnung.</p>
+        <p className="mt-2">Im Freundeskreis gibt es keine Kunden und keine Händler. Es gibt Menschen,
+        die einander kennen, sich begegnet sind und füreinander einstehen. Produkte werden
+        nicht verkauft, sondern auf Basis freiwilliger Wertschätzung geteilt.</p>
       </Section>
 
       <Section title="Warum ein Anfrage-System statt eines Shops?">
@@ -204,27 +204,27 @@ function TabFreundeskreis() {
         statt Bestellungen aufzugeben. Das ist kein Marketing-Trick -- es ist die rechtliche
         und philosophische Grundlage unseres Miteinanders:</p>
         <ul className="list-disc pl-4 space-y-1.5 mt-2">
-          <li>Es entstehen <span className="font-semibold">keine Kaufvertraege</span> -- damit kein Handelsrecht, kein Widerrufsrecht, keine AGB</li>
-          <li>Du bleibst <span className="font-semibold">so anonym wie du moechtest</span> -- kein Konto-Zwang, keine Datensammlung</li>
+          <li>Es entstehen <span className="font-semibold">keine Kaufverträge</span> -- damit kein Handelsrecht, kein Widerrufsrecht, keine AGB</li>
+          <li>Du bleibst <span className="font-semibold">so anonym wie du möchtest</span> -- kein Konto-Zwang, keine Datensammlung</li>
           <li>Der Wertausgleich ist <span className="font-semibold">freiwillig</span> -- du bestimmst selbst, was dir die Dinge wert sind</li>
-          <li>Wir agieren im <span className="font-semibold">internationalen Privatrecht</span> -- dem aeltesten Rechtssystem der Welt</li>
+          <li>Wir agieren im <span className="font-semibold">internationalen Privatrecht</span> -- dem ältesten Rechtssystem der Welt</li>
         </ul>
       </Section>
 
       <div className="grid grid-cols-2 gap-3">
         <PrincipleCard icon={<Users size={18} />} title="Reale Begegnung"
-          text="Jedes Mitglied wurde persoenlich eingeladen und hat sich in einer echten Begegnung kennengelernt. Keine anonyme Registrierung." />
+          text="Jedes Mitglied wurde persönlich eingeladen und hat sich in einer echten Begegnung kennengelernt. Keine anonyme Registrierung." />
         <PrincipleCard icon={<Heart size={18} />} title="Freiwilliger Wertausgleich"
-          text="Es gibt keine festen Preise. Was du gibst, bestimmst du selbst -- als Ausdruck deiner Wertschaetzung, nicht als Bezahlung." />
+          text="Es gibt keine festen Preise. Was du gibst, bestimmst du selbst -- als Ausdruck deiner Wertschätzung, nicht als Bezahlung." />
         <PrincipleCard icon={<Shield size={18} />} title="Geschlossener Kreis"
-          text="Der Freundeskreis ist nicht oeffentlich zugaenglich. Zugang erfolgt ausschliesslich durch persoenliche Einladung." />
+          text="Der Freundeskreis ist nicht öffentlich zugänglich. Zugang erfolgt ausschließlich durch persönliche Einladung." />
         <PrincipleCard icon={<BookOpen size={18} />} title="Erfahrungswissen"
-          text="Alles Wissen stammt aus persoenlicher Erfahrung, ueberlieferten Heiltraditionen und unabhaengiger Forschung." />
+          text="Alles Wissen stammt aus persönlicher Erfahrung, überlieferten Heiltraditionen und unabhängiger Forschung." />
       </div>
 
       <p className="text-xs text-text-muted italic text-center pt-2">
         "Heilung geschieht nicht in Isolation. Sie geschieht in Verbindung --
-        mit der Natur, mit dem eigenen Koerper und mit Menschen, denen wir vertrauen."
+        mit der Natur, mit dem eigenen Körper und mit Menschen, denen wir vertrauen."
       </p>
     </>
   )
@@ -238,61 +238,61 @@ function TabRecht() {
     <>
       <div className="bg-green-main/5 rounded-lg p-4 border border-green-main/20">
         <p className="text-sm text-text-medium leading-relaxed">
-          Der private Austausch unter Freunden ist durch das aelteste Rechtssystem der Welt geschuetzt:
+          Der private Austausch unter Freunden ist durch das älteste Rechtssystem der Welt geschützt:
           das <span className="font-semibold text-green-dark">internationale Privatrecht</span>. Wir agieren
           nicht im Handelsrecht, nicht im Verbraucherrecht und nicht im Gewerberecht -- sondern im Raum
-          der privaten Vereinbarung zwischen souveraenen Menschen.
+          der privaten Vereinbarung zwischen souveränen Menschen.
         </p>
       </div>
 
       <Section title="Warum internationales Privatrecht?">
         <p>Das internationale Privatrecht (IPR) regelt die Rechtsbeziehungen zwischen Privatpersonen
-        ueber Laendergrenzen hinweg. Es ist aelter als jedes Handelsrecht und schuetzt die
+        über Ländergrenzen hinweg. Es ist älter als jedes Handelsrecht und schützt die
         grundlegendste Form menschlicher Interaktion: den freiwilligen Austausch unter Gleichen.</p>
         <p className="mt-2">Indem wir als Freundeskreis agieren -- ohne Gewerbe, ohne Handel, ohne feste Preise --
-        bewegen wir uns vollstaendig im Bereich des Privatrechts. Das ist kein Schlupfloch,
-        sondern die natuerliche Rechtsform des menschlichen Miteinanders.</p>
+        bewegen wir uns vollständig im Bereich des Privatrechts. Das ist kein Schlupfloch,
+        sondern die natürliche Rechtsform des menschlichen Miteinanders.</p>
       </Section>
 
       <h3 className="text-xs font-semibold text-green-dark uppercase tracking-wide pt-1">Deutsches Recht</h3>
       <div className="space-y-2">
         <LawCard a="Art. 2 Abs. 1 GG" t="Allgemeine Handlungsfreiheit (Privatautonomie)"
-          d="Jeder Mensch hat das Recht, seine privaten Angelegenheiten frei zu gestalten -- einschliesslich des freien Austauschs von Waren und Wissen im privaten Kreis. Dieses Grundrecht ist die Basis unseres Handelns." />
+          d="Jeder Mensch hat das Recht, seine privaten Angelegenheiten frei zu gestalten -- einschließlich des freien Austauschs von Waren und Wissen im privaten Kreis. Dieses Grundrecht ist die Basis unseres Handelns." />
         <LawCard a="§ 311 Abs. 1 BGB" t="Vertragsfreiheit"
-          d="Private Vereinbarungen zwischen Freunden sind durch die Vertragsfreiheit geschuetzt. Form, Inhalt und Gegenleistung bestimmen die Beteiligten selbst. Es besteht keine Formvorschrift." />
+          d="Private Vereinbarungen zwischen Freunden sind durch die Vertragsfreiheit geschützt. Form, Inhalt und Gegenleistung bestimmen die Beteiligten selbst. Es besteht keine Formvorschrift." />
         <LawCard a="§ 516 BGB" t="Schenkung"
-          d="Eine Zuwendung ohne vertragliche Gegenleistung gilt als Schenkung. Der freiwillige Wertausgleich im Freundeskreis ist keine Kauftransaktion, sondern ein Ausdruck der Wertschaetzung." />
+          d="Eine Zuwendung ohne vertragliche Gegenleistung gilt als Schenkung. Der freiwillige Wertausgleich im Freundeskreis ist keine Kauftransaktion, sondern ein Ausdruck der Wertschätzung." />
         <LawCard a="§ 13/14 BGB" t="Verbraucher vs. Unternehmer"
-          d="Wer nicht geschaeftsmaessig handelt, ist kein Unternehmer im Sinne des Gesetzes. Im Freundeskreis handeln alle als Privatpersonen. Das Verbraucherschutzrecht (Widerruf, AGB-Recht, Gewaehrleistung) greift daher nicht." />
+          d="Wer nicht geschäftsmäßig handelt, ist kein Unternehmer im Sinne des Gesetzes. Im Freundeskreis handeln alle als Privatpersonen. Das Verbraucherschutzrecht (Widerruf, AGB-Recht, Gewährleistung) greift daher nicht." />
         <LawCard a="§ 22 Nr. 3 EStG" t="Freigrenze 256 EUR"
-          d="Gelegentliche Einkuenfte aus privaten Taetigkeiten sind bis zu einer Freigrenze von 256 EUR pro Jahr steuerfrei. Private Wertausgleiche fallen unter diese Regelung." />
+          d="Gelegentliche Einkünfte aus privaten Tätigkeiten sind bis zu einer Freigrenze von 256 EUR pro Jahr steuerfrei. Private Wertausgleiche fallen unter diese Regelung." />
         <LawCard a="§ 1 GewO" t="Gewerbefreiheit (Umkehrschluss)"
-          d="Die Gewerbeordnung gilt nur fuer gewerbsmaessige Taetigkeiten. Wer nicht gewerbsmaessig handelt, benoetigt keine Gewerbeanmeldung, kein Impressum nach § 5 TMG und keine AGB." />
+          d="Die Gewerbeordnung gilt nur für gewerbsmäßige Tätigkeiten. Wer nicht gewerbsmäßig handelt, benötigt keine Gewerbeanmeldung, kein Impressum nach § 5 TMG und keine AGB." />
       </div>
 
       <h3 className="text-xs font-semibold text-green-dark uppercase tracking-wide pt-3">Internationales Privatrecht</h3>
       <div className="space-y-2">
         <LawCard a="Art. 3 Rom I-VO" t="Freie Rechtswahl"
-          d="Bei grenzueberschreitenden privaten Vereinbarungen koennen die Beteiligten das anwendbare Recht frei waehlen. Der Freundeskreis vereinbart deutsches Privatrecht als Grundlage." />
+          d="Bei grenzüberschreitenden privaten Vereinbarungen können die Beteiligten das anwendbare Recht frei wählen. Der Freundeskreis vereinbart deutsches Privatrecht als Grundlage." />
         <LawCard a="Art. 4 Rom I-VO" t="Mangels Rechtswahl"
-          d="Ohne ausdrueckliche Rechtswahl gilt das Recht des Landes, in dem der Leistungserbringer seinen gewoehnlichen Aufenthalt hat -- in unserem Fall Deutschland." />
-        <LawCard a="Art. 6 Rom I-VO" t="Verbrauchervertraege"
-          d="Die besonderen Verbraucherschutzvorschriften greifen NUR bei geschaeftsmaessigem Handeln eines Unternehmers gegenueber einem Verbraucher. Da im Freundeskreis alle als Privatpersonen handeln, ist Art. 6 nicht anwendbar." />
+          d="Ohne ausdrückliche Rechtswahl gilt das Recht des Landes, in dem der Leistungserbringer seinen gewöhnlichen Aufenthalt hat -- in unserem Fall Deutschland." />
+        <LawCard a="Art. 6 Rom I-VO" t="Verbraucherverträge"
+          d="Die besonderen Verbraucherschutzvorschriften greifen NUR bei geschäftsmäßigem Handeln eines Unternehmers gegenüber einem Verbraucher. Da im Freundeskreis alle als Privatpersonen handeln, ist Art. 6 nicht anwendbar." />
         <LawCard a="Art. 3-5 EGBGB" t="Eingangsbestimmungen zum BGB"
-          d="Das deutsche internationale Privatrecht regelt, welches Recht bei Sachverhalten mit Auslandsbezug gilt. Die Privatautonomie wird als hoechstes Gut geschuetzt." />
-        <LawCard a="Haager Uebereinkommen" t="Internationale Zustaendigkeit"
-          d="Fuer private, nicht-kommerzielle Vereinbarungen gelten vereinfachte Zustaendigkeitsregeln. Der Gerichtsstand richtet sich nach dem Wohnsitz der beteiligten Privatpersonen." />
+          d="Das deutsche internationale Privatrecht regelt, welches Recht bei Sachverhalten mit Auslandsbezug gilt. Die Privatautonomie wird als höchstes Gut geschützt." />
+        <LawCard a="Haager Übereinkommen" t="Internationale Zuständigkeit"
+          d="Für private, nicht-kommerzielle Vereinbarungen gelten vereinfachte Zuständigkeitsregeln. Der Gerichtsstand richtet sich nach dem Wohnsitz der beteiligten Privatpersonen." />
         <LawCard a="UN-Kaufrecht (CISG)" t="Ausschluss"
-          d="Das UN-Kaufrecht gilt nur fuer gewerbliche Kaufvertraege. Da im Freundeskreis keine Kaufvertraege geschlossen werden, ist das CISG nicht anwendbar." />
+          d="Das UN-Kaufrecht gilt nur für gewerbliche Kaufverträge. Da im Freundeskreis keine Kaufverträge geschlossen werden, ist das CISG nicht anwendbar." />
       </div>
 
       <div className="bg-gold-light/20 rounded-lg p-3 mt-2">
         <p className="text-xs text-text-medium leading-relaxed">
           <span className="font-semibold text-text-dark">Zusammengefasst:</span> Der private Austausch unter Freunden ist durch
-          Grundgesetz, BGB und europaeisches Recht geschuetzt. Es gibt keine Kaufvertraege, keine
-          Gewaehrleistung und keine Widerrufsrechte -- weil es sich nicht um Geschaefte handelt,
-          sondern um freiwilligen Austausch unter souveraenen Privatpersonen auf Vertrauensbasis.
-          Das ist der aelteste und natuerlichste Rechtsrahmen der Menschheit.
+          Grundgesetz, BGB und europäisches Recht geschützt. Es gibt keine Kaufverträge, keine
+          Gewährleistung und keine Widerrufsrechte -- weil es sich nicht um Geschäfte handelt,
+          sondern um freiwilligen Austausch unter souveränen Privatpersonen auf Vertrauensbasis.
+          Das ist der älteste und natürlichste Rechtsrahmen der Menschheit.
         </p>
       </div>
     </>
@@ -308,37 +308,37 @@ function TabDatenschutz() {
       <div className="bg-green-main/5 rounded-lg p-4 border border-green-main/20">
         <div className="flex items-center gap-2 mb-2">
           <Lock size={18} className="text-green-main" />
-          <h3 className="text-sm font-semibold text-green-dark">Deine Privatsphaere ist uns heilig</h3>
+          <h3 className="text-sm font-semibold text-green-dark">Deine Privatsphäre ist uns heilig</h3>
         </div>
         <p className="text-sm text-text-medium leading-relaxed">
-          Das Heildepot respektiert deine Privatsphaere vollstaendig. Wir tracken nichts,
+          Das Heildepot respektiert deine Privatsphäre vollständig. Wir tracken nichts,
           wir analysieren nichts, wir verkaufen nichts. Punkt.
         </p>
       </div>
 
       <div className="space-y-3">
         <DsCard icon="x" title="Keine Cookies"
-          text="Diese Webseite setzt keine Cookies -- weder eigene noch von Drittanbietern. Kein Cookie-Banner noetig, weil es keine Cookies gibt." />
+          text="Diese Webseite setzt keine Cookies -- weder eigene noch von Drittanbietern. Kein Cookie-Banner nötig, weil es keine Cookies gibt." />
         <DsCard icon="x" title="Kein Tracking"
           text="Kein Google Analytics, kein Facebook Pixel, kein Matomo, kein Hotjar -- gar nichts. Wir wissen nicht, woher du kommst oder was du klickst." />
         <DsCard icon="x" title="Keine Werbung"
           text="Keine Werbeanzeigen, keine Affiliate-Links, keine gesponserten Inhalte. Alles hier dient dem Wissensaustausch, nicht dem Profit." />
         <DsCard icon="x" title="Keine Weitergabe"
-          text="Deine Daten werden an niemanden weitergegeben -- nicht an Behoerden, nicht an Werbepartner, nicht an Dritte." />
+          text="Deine Daten werden an niemanden weitergegeben -- nicht an Behörden, nicht an Werbepartner, nicht an Dritte." />
         <DsCard icon="x" title="Keine serverseitige Speicherung"
           text="Wir betreiben keinen Server der deine Daten speichert. Diese Seite ist eine statische Webseite auf GitHub Pages -- es gibt keine Datenbank, keinen Login-Server, keine Cloud." />
-        <DsCard icon="check" title="SSL-Verschluesselung"
-          text="Die gesamte Verbindung ist per SSL/TLS verschluesselt. Niemand kann mitlesen." />
+        <DsCard icon="check" title="SSL-Verschlüsselung"
+          text="Die gesamte Verbindung ist per SSL/TLS verschlüsselt. Niemand kann mitlesen." />
         <DsCard icon="check" title="Lokale Datenspeicherung"
-          text="Dein Profil, Warenkorb und Favoriten werden ausschliesslich lokal in deinem Browser gespeichert (localStorage). Du hast die volle Kontrolle und kannst alles jederzeit loeschen." />
+          text="Dein Profil, Warenkorb und Favoriten werden ausschließlich lokal in deinem Browser gespeichert (localStorage). Du hast die volle Kontrolle und kannst alles jederzeit löschen." />
         <DsCard icon="check" title="Quelloffener Code"
-          text="Der gesamte Code dieser Webseite ist oeffentlich einsehbar. Du kannst selbst pruefen, dass wir halten, was wir versprechen." />
+          text="Der gesamte Code dieser Webseite ist öffentlich einsehbar. Du kannst selbst prüfen, dass wir halten, was wir versprechen." />
       </div>
 
       <Section title="E-Mail-Hinweis">
-        <p>Anfragen werden per E-Mail versendet. E-Mails sind standardmaessig unverschluesselt
-        und koennen theoretisch von Dritten gelesen werden. Kostenlose Anbieter wie Gmail
-        analysieren deine Nachrichten fuer personalisierte Werbung.</p>
+        <p>Anfragen werden per E-Mail versendet. E-Mails sind standardmäßig unverschlüsselt
+        und können theoretisch von Dritten gelesen werden. Kostenlose Anbieter wie Gmail
+        analysieren deine Nachrichten für personalisierte Werbung.</p>
         <p className="mt-1.5 font-medium">Wir empfehlen datenschutzfreundliche Anbieter wie Posteo, Mailbox.org oder Tutanota.</p>
       </Section>
 
@@ -346,8 +346,8 @@ function TabDatenschutz() {
         <p className="text-xs text-text-medium leading-relaxed">
           <span className="font-semibold">Dein Recht (DSGVO):</span> Da wir keine personenbezogenen Daten
           serverseitig speichern, entfallen die meisten DSGVO-Pflichten. Deine lokal gespeicherten
-          Daten kannst du jederzeit selbst loeschen (Browser-Daten loeschen). Art. 17 DSGVO
-          (Recht auf Loeschung) wird damit automatisch erfuellt. Es gibt keinen Verantwortlichen
+          Daten kannst du jederzeit selbst löschen (Browser-Daten löschen). Art. 17 DSGVO
+          (Recht auf Löschung) wird damit automatisch erfüllt. Es gibt keinen Verantwortlichen
           im Sinne von Art. 4 Nr. 7 DSGVO, weil keine Verarbeitung stattfindet.
         </p>
       </div>

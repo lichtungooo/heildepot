@@ -63,10 +63,10 @@ export function Cart({ open, onClose, items, products, onChangeQty, onRemove, us
   function buildMailBody() {
     const lines = cartProducts.map(p => `  ${p.qty}x ${p.name}${p.menge ? ' (' + p.menge + ')' : ''} -- ${p.preis}`)
     const beilagen = []
-    if (options.anwendungsblaetter) beilagen.push('Anwendungsblaetter gewuenscht')
-    if (options.infomaterial) beilagen.push('Infomaterial gewuenscht')
-    if (options.gratisartikel) beilagen.push('Gratisartikel gewuenscht')
-    if (!options.bestaetigungsmail) beilagen.push('KEINE Bestaetigungsmail gewuenscht')
+    if (options.anwendungsblaetter) beilagen.push('Anwendungsblätter gewünscht')
+    if (options.infomaterial) beilagen.push('Infomaterial gewünscht')
+    if (options.gratisartikel) beilagen.push('Gratisartikel gewünscht')
+    if (!options.bestaetigungsmail) beilagen.push('KEINE Bestätigungsmail gewünscht')
 
     return [
       `Anfrage aus dem Heildepot Freundeskreis`,
@@ -90,7 +90,7 @@ export function Cart({ open, onClose, items, products, onChangeQty, onRemove, us
       `E-Mail: ${form.email || ''}`,
       ``,
       nachricht ? `--- Nachricht ---\n${nachricht}\n` : '',
-      `--- Bankverbindung fuer Wertausgleich ---`,
+      `--- Bankverbindung für Wertausgleich ---`,
       `${BANK.empfaenger}`,
       `IBAN: ${BANK.iban}`,
       `BIC: ${BANK.bic}`,
@@ -219,7 +219,7 @@ export function Cart({ open, onClose, items, products, onChangeQty, onRemove, us
             </button>
 
             <p className="text-xs text-text-muted text-center">
-              Kein Online-Shop -- du sendest eine persoenliche Anfrage an den Freundeskreis.
+              Kein Online-Shop -- du sendest eine persönliche Anfrage an den Freundeskreis.
             </p>
           </div>
         )}
@@ -233,7 +233,7 @@ export function Cart({ open, onClose, items, products, onChangeQty, onRemove, us
       <div className="flex-1 overflow-y-auto p-4 space-y-5">
         {/* Zurueck */}
         <button onClick={() => setStep('cart')} className="text-sm text-text-muted hover:text-green-main flex items-center gap-1">
-          <ChevronLeft size={16} /> Zurueck zum Warenkorb
+          <ChevronLeft size={16} /> Zurück zum Warenkorb
         </button>
 
         {/* Adresse */}
@@ -248,7 +248,7 @@ export function Cart({ open, onClose, items, products, onChangeQty, onRemove, us
               <input type="text" placeholder="Nachname *" value={form.nachname || ''} onChange={e => updateForm('nachname', e.target.value)}
                 className="px-3 py-2.5 rounded-lg border border-green-pale text-sm focus:outline-none focus:border-green-main transition-colors" />
             </div>
-            <input type="text" placeholder="Strasse & Hausnummer *" value={form.strasse || ''} onChange={e => updateForm('strasse', e.target.value)}
+            <input type="text" placeholder="Straße & Hausnummer *" value={form.strasse || ''} onChange={e => updateForm('strasse', e.target.value)}
               className="w-full px-3 py-2.5 rounded-lg border border-green-pale text-sm focus:outline-none focus:border-green-main transition-colors" />
             <div className="grid grid-cols-3 gap-2">
               <input type="text" placeholder="PLZ *" value={form.plz || ''} onChange={e => updateForm('plz', e.target.value)}
@@ -259,7 +259,7 @@ export function Cart({ open, onClose, items, products, onChangeQty, onRemove, us
             <select value={form.land || 'DE'} onChange={e => updateForm('land', e.target.value)}
               className="w-full px-3 py-2.5 rounded-lg border border-green-pale text-sm focus:outline-none focus:border-green-main transition-colors bg-white">
               <option value="DE">Deutschland</option>
-              <option value="AT">Oesterreich</option>
+              <option value="AT">Österreich</option>
               <option value="CH">Schweiz</option>
               <option value="EU">Anderes EU-Land</option>
               <option value="WELT">Weltweit</option>
@@ -287,24 +287,24 @@ export function Cart({ open, onClose, items, products, onChangeQty, onRemove, us
           </h3>
           <div className="space-y-2">
             <CheckOption checked={options.anwendungsblaetter} onChange={() => toggleOption('anwendungsblaetter')}
-              label="Anwendungsblaetter zu den Artikeln beilegen" />
+              label="Anwendungsblätter zu den Artikeln beilegen" />
             <CheckOption checked={options.infomaterial} onChange={() => toggleOption('infomaterial')}
               label="Sonstiges Informationsmaterial beilegen" />
             <CheckOption checked={options.gratisartikel} onChange={() => toggleOption('gratisartikel')}
-              label="Kostenlose Artikel beilegen (Chartres-Karten, Blume-des-Lebens-Aufkleber, Faltblaetter)" />
+              label="Kostenlose Artikel beilegen (Chartres-Karten, Blume-des-Lebens-Aufkleber, Faltblätter)" />
             <CheckOption checked={options.bestaetigungsmail} onChange={() => toggleOption('bestaetigungsmail')}
-              label="Bestaetigungsmail erhalten" />
+              label="Bestätigungsmail erhalten" />
           </div>
           <p className="text-xs text-text-muted mt-2 italic">
-            Hinweis: E-Mails werden unverschluesselt versendet. Du kannst die Bestaetigungsmail auch abwaehlen.
+            Hinweis: E-Mails werden unverschlüsselt versendet. Du kannst die Bestätigungsmail auch abwählen.
           </p>
         </div>
 
         {/* Nachricht */}
         <div>
-          <h3 className="text-sm font-semibold text-text-dark uppercase tracking-wide mb-3">Persoenliche Nachricht</h3>
+          <h3 className="text-sm font-semibold text-text-dark uppercase tracking-wide mb-3">Persönliche Nachricht</h3>
           <textarea
-            placeholder="Gibt es etwas, das wir wissen sollten? Fragen, Wuensche, Anmerkungen..."
+            placeholder="Gibt es etwas, das wir wissen sollten? Fragen, Wünsche, Anmerkungen..."
             value={nachricht}
             onChange={e => setNachricht(e.target.value)}
             rows={3}
@@ -318,8 +318,8 @@ export function Cart({ open, onClose, items, products, onChangeQty, onRemove, us
             <Truck size={16} className="text-green-main" /> Versandinformationen
           </div>
           <p className="text-xs text-text-medium leading-relaxed">
-            Versand ueber DHL. Ab {VERSAND_FREI_AB},- EUR uebernehmen wir die gesamten Versandkosten.
-            Wir senden an Freunde in der ganzen Welt -- mit Ausnahme von CBD-Oel in Laendern, wo es nicht legalisiert ist.
+            Versand über DHL. Ab {VERSAND_FREI_AB},- EUR übernehmen wir die gesamten Versandkosten.
+            Wir senden an Freunde in der ganzen Welt -- mit Ausnahme von CBD-Öl in Ländern, wo es nicht legalisiert ist.
           </p>
           <div className="flex items-center justify-between text-xs text-text-medium pt-1 border-t border-green-pale/50">
             <span>Versandkosten</span>
@@ -357,7 +357,7 @@ export function Cart({ open, onClose, items, products, onChangeQty, onRemove, us
         {/* Bankverbindung */}
         <div className="bg-gold-light/20 border border-gold/30 rounded-lg p-3 space-y-1">
           <div className="flex items-center gap-2 text-sm font-medium text-text-dark">
-            <CreditCard size={16} className="text-gold" /> Wertausgleich per Ueberweisung
+            <CreditCard size={16} className="text-gold" /> Wertausgleich per Überweisung
           </div>
           <p className="text-xs text-text-medium">{BANK.empfaenger}</p>
           <p className="text-xs font-mono text-text-dark">{BANK.iban}</p>
@@ -367,7 +367,7 @@ export function Cart({ open, onClose, items, products, onChangeQty, onRemove, us
         {/* Submit */}
         <div className="space-y-3 pb-4">
           {!isFormValid() && (
-            <p className="text-xs text-red-500 text-center">Bitte fuelle alle Pflichtfelder (*) aus.</p>
+            <p className="text-xs text-red-500 text-center">Bitte fülle alle Pflichtfelder (*) aus.</p>
           )}
           <button
             onClick={handleSend}
@@ -381,7 +381,7 @@ export function Cart({ open, onClose, items, products, onChangeQty, onRemove, us
             Anfrage senden <ChevronRight size={18} />
           </button>
           <p className="text-xs text-text-muted text-center">
-            Deine Anfrage wird als E-Mail an den Freundeskreis gesendet. Es ist kein Kauf -- nur eine persoenliche Anfrage.
+            Deine Anfrage wird als E-Mail an den Freundeskreis gesendet. Es ist kein Kauf -- nur eine persönliche Anfrage.
           </p>
         </div>
       </div>
@@ -401,7 +401,7 @@ export function Cart({ open, onClose, items, products, onChangeQty, onRemove, us
         </p>
 
         <div className="bg-gold-light/20 border border-gold/30 rounded-lg p-4 mb-6 w-full max-w-xs">
-          <p className="text-xs font-medium text-text-dark mb-1">Bitte ueberweise den Wertausgleich an:</p>
+          <p className="text-xs font-medium text-text-dark mb-1">Bitte überweise den Wertausgleich an:</p>
           <p className="text-xs text-text-medium">{BANK.empfaenger}</p>
           <p className="text-xs font-mono text-text-dark mt-1">{BANK.iban}</p>
           <p className="text-xs text-text-muted">{BANK.bic}</p>
@@ -411,7 +411,7 @@ export function Cart({ open, onClose, items, products, onChangeQty, onRemove, us
           onClick={() => { setStep('cart'); setSent(false); onClose() }}
           className="px-6 py-2.5 rounded-xl bg-green-pale/60 text-green-dark font-medium text-sm hover:bg-green-main hover:text-white transition-colors"
         >
-          Zurueck zum Heildepot
+          Zurück zum Heildepot
         </button>
       </div>
     )

@@ -32,7 +32,7 @@ Hippokrates empfahl Eschenrinde bei Gelenkschmerzen, und Hildegard von Bingen se
     zubereitungen: [
       {
         name: 'Eschenblätter-Tee',
-        anleitung: '2 TL getrocknete Eschenblätter mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen, abseihen. 3 Tassen täglich.',
+        anleitung: '2 TL getrocknete Eschenblätter mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen, abseihen. 3 Tassen täglich.',
         wirkung: 'Harntreibend, entschlackend, hilfreich bei Rheuma und Gicht.',
       },
       {
@@ -46,7 +46,7 @@ Hippokrates empfahl Eschenrinde bei Gelenkschmerzen, und Hildegard von Bingen se
         wirkung: 'Konzentrierte Wirkung bei rheumatischen Beschwerden.',
       },
     ],
-    mischungen: ['Rheuma-Tee (mit Weidenrinde und Mädesüss)', 'Entschlackungstee (mit Birkenblättern und Brennnessel)', 'Gicht-Mischung (mit Goldrute und Schachtelhalm)'],
+    mischungen: ['Rheuma-Tee (mit Weidenrinde und Mädesüß)', 'Entschlackungstee (mit Birkenblättern und Brennnessel)', 'Gicht-Mischung (mit Goldrute und Schachtelhalm)'],
     tcm: 'Der Esche werden Wind-vertreibende und Feuchtigkeit-ausleitende Eigenschaften zugeschrieben. Sie bewegt Qi und Blut in den Leitbahnen und wirkt auf Leber und Niere.',
     ayurveda: 'Wirkt Kapha-reduzierend durch ihre trocknende, leichte Qualität. Unterstützt Vata bei Gelenksteifigkeit durch ihre wärmende Natur.',
     volksmedizin: 'In der Volksmedizin war die Esche ein universelles Rheumamittel. Die Blätter wurden als Tee getrunken, die frische Rinde als Umschlag auf geschwollene Gelenke gelegt. Auch bei Wassersucht und Fieber griff man zur Esche.',
@@ -59,7 +59,7 @@ Hippokrates empfahl Eschenrinde bei Gelenkschmerzen, und Hildegard von Bingen se
   'Essigrose': {
     vollname: 'Essigrose (Rosa gallica)',
     familie: 'Rosengewächse (Rosaceae)',
-    beschreibung: `Die Essigrose, auch Apothekerrose genannt, ist die älteste kultivierte Rosenart Europas und gilt als die Heilrose schlechthin. Ihre samtig dunkelroten Blütenblätter verströmen einen intensiven, süssen Duft, der auch nach dem Trocknen erhalten bleibt -- eine Seltenheit unter den Rosen. In der mittelalterlichen Klosterheilkunde war sie die wichtigste aller Rosen.
+    beschreibung: `Die Essigrose, auch Apothekerrose genannt, ist die älteste kultivierte Rosenart Europas und gilt als die Heilrose schlechthin. Ihre samtig dunkelroten Blütenblätter verströmen einen intensiven, süßen Duft, der auch nach dem Trocknen erhalten bleibt -- eine Seltenheit unter den Rosen. In der mittelalterlichen Klosterheilkunde war sie die wichtigste aller Rosen.
 
 Ihre Blütenblätter sind reich an Gerbstoffen, Flavonoiden und ätherischem Öl. Sie wirken zusammenziehend, entzündungshemmend und stärkend auf Schleimhäute und Gewebe. Besonders bei Entzündungen im Mund- und Rachenraum, bei Durchfall und bei Hautproblemen entfaltet sie ihre Kraft.
 
@@ -73,19 +73,19 @@ Im Mittelalter war sie die "Officinalis"-Rose der Apotheker. Hildegard von Binge
     },
     ernte: {
       zeit: 'Blütenblätter im Juni bei voller Blüte, am besten am frühen Morgen.',
-      teile: 'Blütenblätter -- den weissen Nagelansatz entfernen, da er bitter schmeckt.',
+      teile: 'Blütenblätter -- den weißen Nagelansatz entfernen, da er bitter schmeckt.',
       tipps: 'Nur an trockenen Tagen ernten. Blütenblätter sofort im Schatten trocknen oder frisch verarbeiten. Sie behalten beim Trocknen erstaunlich viel Duft und Farbe.',
       mond: 'Bei zunehmendem Mond in einem Blütenzeichen ernten für maximale Duftkraft.',
     },
     zubereitungen: [
       {
         name: 'Rosenblüten-Tee',
-        anleitung: '2 TL getrocknete Rosenblütenblätter mit 250ml heissem Wasser übergiessen (nicht kochend!), 8 Minuten ziehen lassen. Mit Honig süssen.',
+        anleitung: '2 TL getrocknete Rosenblütenblätter mit 250ml heißem Wasser übergießen (nicht kochend!), 8 Minuten ziehen lassen. Mit Honig süßen.',
         wirkung: 'Herzstärkend, stimmungsaufhellend, beruhigend bei nervöser Unruhe.',
       },
       {
         name: 'Rosenessig',
-        anleitung: 'Frische Blütenblätter in ein Glas füllen und mit warmem Apfelessig übergiessen. 2 Wochen in der Sonne ziehen lassen, abseihen.',
+        anleitung: 'Frische Blütenblätter in ein Glas füllen und mit warmem Apfelessig übergießen. 2 Wochen in der Sonne ziehen lassen, abseihen.',
         wirkung: 'Als Gurgelmittel bei Halsschmerzen, als Kompresse bei Kopfschmerzen.',
       },
       {
@@ -96,11 +96,11 @@ Im Mittelalter war sie die "Officinalis"-Rose der Apotheker. Hildegard von Binge
       {
         name: 'Rosenwasser (Hydrolat)',
         anleitung: 'Frische Blütenblätter destillieren oder 50g Blütenblätter in 500ml Wasser sanft köcheln, Dampf auffangen und kondensieren.',
-        wirkung: 'Äusserlich als Gesichtswasser bei empfindlicher Haut, innerlich als Herztonikum.',
+        wirkung: 'Äußerlich als Gesichtswasser bei empfindlicher Haut, innerlich als Herztonikum.',
       },
     ],
-    mischungen: ['Herz-Seelen-Tee (mit Melisse und Weissdorn)', 'Frauen-Wohlfühlmischung (mit Frauenmantel und Schafgarbe)', 'Mundpflege-Mischung (mit Salbei und Myrrhe)'],
-    tcm: 'Die Rose bewegt Leber-Qi und löst Stagnation. Sie harmonisiert die Emotionen und wird bei Spannungsgefühl in der Brust, Reizbarkeit und unregelmässiger Menstruation eingesetzt.',
+    mischungen: ['Herz-Seelen-Tee (mit Melisse und Weißdorn)', 'Frauen-Wohlfühlmischung (mit Frauenmantel und Schafgarbe)', 'Mundpflege-Mischung (mit Salbei und Myrrhe)'],
+    tcm: 'Die Rose bewegt Leber-Qi und löst Stagnation. Sie harmonisiert die Emotionen und wird bei Spannungsgefühl in der Brust, Reizbarkeit und unregelmäßiger Menstruation eingesetzt.',
     ayurveda: 'Kühlend und Pitta-senkend. Die Rose ist ein Rasayana -- ein Verjüngungsmittel -- für das Herz und den Geist. Sie nährt Ojas, die Lebensessenz.',
     volksmedizin: 'In der Volksmedizin galt die Rose als Universalheilmittel für das Herz -- sowohl das physische als auch das seelische. Rosenwasser wurde bei Augenleiden, Rosentee bei Kummer und Rosensalbe bei Hautkrankheiten verwendet.',
     besonders_bei: ['herzbeschwerden', 'trauer', 'mundschleimhaut', 'halsschmerzen', 'hautprobleme', 'nervositaet'],
@@ -116,30 +116,30 @@ Im Mittelalter war sie die "Officinalis"-Rose der Apotheker. Hildegard von Binge
 
 In der Heilkunde wurde der Wurmfarn vor allem für eine Eigenschaft berühmt: Seine Wurzel enthält Phloroglucin-Derivate (Filicin), die Bandwürmer und andere Darmparasiten lähmen und abtreiben. Bis zur Einführung synthetischer Wurmmittel war der Farnextrakt das wichtigste Anthelminthikum der Medizin.
 
-Heute wird der Wurmfarn wegen seiner Giftigkeit nicht mehr innerlich angewandt, findet aber in der Homöopathie und äusserlich noch Verwendung. Die jungen Triebe -- "Fiddleheads" -- werden in manchen Kulturen als Wildgemüse gegessen, allerdings nur bestimmte Arten und nur nach gründlichem Kochen.`,
+Heute wird der Wurmfarn wegen seiner Giftigkeit nicht mehr innerlich angewandt, findet aber in der Homöopathie und äußerlich noch Verwendung. Die jungen Triebe -- "Fiddleheads" -- werden in manchen Kulturen als Wildgemüse gegessen, allerdings nur bestimmte Arten und nur nach gründlichem Kochen.`,
     geschichte: `Bereits Dioskurides und Plinius beschrieben den Farn als Wurmmittel. Im Mittelalter galt er als magische Pflanze -- wer den "Farnsamen" in der Johannisnacht sammelte, konnte sich angeblich unsichtbar machen. Da Farne keine Samen bilden, blieb die Suche stets erfolglos.
 
 Im 18. Jahrhundert erwarb der französische König Ludwig XVI. ein geheimes Wurmfarn-Rezept von einer Schweizer Kräuterfrau für 18.000 Livres. Das Rezept wurde daraufhin offiziell in die Pharmakopöe aufgenommen und rettete unzähligen Menschen das Leben.`,
     wirkungen: {
-      hauptwirkungen: ['Wurmtreibend (anthelminthisch)', 'Bandwurmabtreibend', 'Entzündungshemmend (äusserlich)', 'Schmerzlindernd (äusserlich)'],
+      hauptwirkungen: ['Wurmtreibend (anthelminthisch)', 'Bandwurmabtreibend', 'Entzündungshemmend (äußerlich)', 'Schmerzlindernd (äußerlich)'],
       inhaltsstoffe: ['Filicin (Filixsäure)', 'Phloroglucin-Derivate', 'Flavaspidsäure', 'Gerbstoffe', 'Fettes Öl', 'Ätherisches Öl', 'Stärke'],
     },
     ernte: {
       zeit: 'Wurzelstock im Herbst nach dem Einziehen der Wedel.',
-      teile: 'Wurzelstock (Rhizom) -- nur für äusserliche Anwendung und Homöopathie. Nicht zur Selbstmedikation!',
+      teile: 'Wurzelstock (Rhizom) -- nur für äußerliche Anwendung und Homöopathie. Nicht zur Selbstmedikation!',
       tipps: 'Wegen der Giftigkeit des Wurmfarns ist vom Sammeln und Selbstverarbeiten dringend abzuraten. Nur Fertigpräparate aus der Apotheke verwenden.',
       mond: 'Traditionell bei abnehmendem Mond, um die "ausleitende" Kraft zu stärken.',
     },
     zubereitungen: [
       {
-        name: 'Farnkraut-Kissen (äusserlich)',
+        name: 'Farnkraut-Kissen (äußerlich)',
         anleitung: 'Getrocknete Farnwedel in ein Leinenkissen füllen. Als Unterlage oder Auflage bei rheumatischen Beschwerden verwenden.',
         wirkung: 'Lindert Rheuma- und Gichtschmerzen durch die ätherischen Ausdünstungen.',
       },
       {
-        name: 'Farn-Fussbad (äusserlich)',
-        anleitung: 'Eine Handvoll frische Farnwedel in 2 Liter Wasser 15 Minuten köcheln, abseihen und als warmes Fussbad verwenden.',
-        wirkung: 'Belebend, durchblutungsfördernd, lindernd bei müden und schmerzenden Füssen.',
+        name: 'Farn-Fußbad (äußerlich)',
+        anleitung: 'Eine Handvoll frische Farnwedel in 2 Liter Wasser 15 Minuten köcheln, abseihen und als warmes Fußbad verwenden.',
+        wirkung: 'Belebend, durchblutungsfördernd, lindernd bei müden und schmerzenden Füßen.',
       },
       {
         name: 'Homöopathisches Filix-mas-Präparat',
@@ -150,7 +150,7 @@ Im 18. Jahrhundert erwarb der französische König Ludwig XVI. ein geheimes Wurm
     mischungen: ['Nur als Einzelmittel in homöopathischer Aufbereitung empfohlen'],
     tcm: 'In der TCM nicht gebräuchlich, aber verwandte Farnarten werden in der chinesischen Medizin bei Parasitenbefall und als kühlende, entgiftende Mittel eingesetzt.',
     ayurveda: 'Im klassischen Ayurveda nicht bekannt. Würde aufgrund seiner kalten, trockenen Qualität dem Kapha-reduzierenden Bereich zugeordnet.',
-    volksmedizin: 'Der Farn war das Wurmmittel der Volksmedizin schlechthin. Bei Bandwurmbefall fastete man drei Tage und nahm dann Farnwurzel-Pulver ein. Äusserlich legte man Farnkrautkissen unter die Matratze bei Rheumaschmerzen und in die Wiege gegen Koliken der Säuglinge.',
+    volksmedizin: 'Der Farn war das Wurmmittel der Volksmedizin schlechthin. Bei Bandwurmbefall fastete man drei Tage und nahm dann Farnwurzel-Pulver ein. Äußerlich legte man Farnkrautkissen unter die Matratze bei Rheumaschmerzen und in die Wiege gegen Koliken der Säuglinge.',
     besonders_bei: ['parasiten', 'wuermer', 'rheuma', 'gicht', 'muskelschmerzen'],
   },
 
@@ -158,24 +158,24 @@ Im 18. Jahrhundert erwarb der französische König Ludwig XVI. ein geheimes Wurm
   // 4. FETTHENNE
   // ═══════════════════════════════════════════════════════════════════════════
   'Fetthenne': {
-    vollname: 'Grosse Fetthenne (Sedum telephium)',
+    vollname: 'Große Fetthenne (Sedum telephium)',
     familie: 'Dickblattgewächse (Crassulaceae)',
-    beschreibung: `Die Grosse Fetthenne, auch Donnerbart oder Wundkraut genannt, ist eine robuste Sukkulente mit fleischigen, blaugrünen Blättern und dichten Dolden aus rötlichen Blüten. Sie wächst auf trockenen, steinigen Böden, an Mauern und in Felsspalten und speichert Wasser in ihren dickfleischigen Blättern.
+    beschreibung: `Die Große Fetthenne, auch Donnerbart oder Wundkraut genannt, ist eine robuste Sukkulente mit fleischigen, blaugrünen Blättern und dichten Dolden aus rötlichen Blüten. Sie wächst auf trockenen, steinigen Böden, an Mauern und in Felsspalten und speichert Wasser in ihren dickfleischigen Blättern.
 
 Genau diese wasserspeichernden Blätter machen sie zu einer hervorragenden Wundheilpflanze. Der kühle, gelartige Saft ähnelt in seiner Wirkung dem der Aloe vera und wird bei Verbrennungen, Schnittwunden, Insektenstichen und Hautreizungen aufgelegt. Die Blätter enthalten Flavonoide, Gerbstoffe und organische Säuren, die entzündungshemmend und zellregenerierend wirken.
 
 Innerlich wurde die Fetthenne in der Volksmedizin als mild abführendes und harntreibendes Mittel eingesetzt. Ihre kühlende, befeuchtende Natur macht sie besonders wertvoll bei Hitze-Zuständen und trockenen Schleimhäuten.`,
     geschichte: `Die Fetthenne war bereits den Griechen und Römern als Wundheilmittel bekannt. Dioskurides nannte sie "Telephion" -- nach dem mythischen König Telephos, der seine Wunde mit diesem Kraut heilte. Im Mittelalter galt sie als Schutzkraut gegen Blitzschlag und wurde auf Hausdächer gepflanzt.
 
-Hildegard von Bingen empfahl die Fetthenne bei "heisser Geschwulst" und eitrigen Wunden. In der Signaturenlehre deutete man die fleischigen Blätter als Hinweis auf ihre Fähigkeit, krankes Fleisch zu heilen -- eine Deutung, die sich in der Praxis vielfach bestätigte.`,
+Hildegard von Bingen empfahl die Fetthenne bei "heißer Geschwulst" und eitrigen Wunden. In der Signaturenlehre deutete man die fleischigen Blätter als Hinweis auf ihre Fähigkeit, krankes Fleisch zu heilen -- eine Deutung, die sich in der Praxis vielfach bestätigte.`,
     wirkungen: {
       hauptwirkungen: ['Wundheilend', 'Kühlend', 'Entzündungshemmend', 'Schmerzlindernd', 'Zellregenerierend', 'Mild harntreibend'],
       inhaltsstoffe: ['Flavonoide', 'Gerbstoffe', 'Organische Säuren (Äpfelsäure, Oxalsäure)', 'Schleimstoffe', 'Zucker', 'Alkaloide (Spuren)', 'Vitamin C'],
     },
     ernte: {
       zeit: 'Blätter von Mai bis September, am besten bei voller Saftfülle.',
-      teile: 'Frische Blätter für äusserliche Anwendung, blühendes Kraut für Tee.',
-      tipps: 'Frische Blätter lassen sich im Kühlschrank bis zu 2 Wochen aufbewahren. Für die äusserliche Anwendung die Blätter aufschneiden und direkt auf die Haut legen.',
+      teile: 'Frische Blätter für äußerliche Anwendung, blühendes Kraut für Tee.',
+      tipps: 'Frische Blätter lassen sich im Kühlschrank bis zu 2 Wochen aufbewahren. Für die äußerliche Anwendung die Blätter aufschneiden und direkt auf die Haut legen.',
       mond: 'Bei zunehmendem Mond ernten, wenn der Saftstrom in den Blättern am stärksten ist.',
     },
     zubereitungen: [
@@ -191,7 +191,7 @@ Hildegard von Bingen empfahl die Fetthenne bei "heisser Geschwulst" und eitrigen
       },
       {
         name: 'Fetthenne-Tee',
-        anleitung: '2 TL frisches oder getrocknetes Kraut mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. 2 Tassen täglich.',
+        anleitung: '2 TL frisches oder getrocknetes Kraut mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 2 Tassen täglich.',
         wirkung: 'Mild harntreibend und kühlend bei Harnwegsreizungen.',
       },
     ],
@@ -208,7 +208,7 @@ Hildegard von Bingen empfahl die Fetthenne bei "heisser Geschwulst" und eitrigen
   'Fieberklee': {
     vollname: 'Fieberklee (Menyanthes trifoliata)',
     familie: 'Fieberkleegewächse (Menyanthaceae)',
-    beschreibung: `Der Fieberklee ist eine elegante Sumpfpflanze mit dreiteiligen Blättern und weissen, zart gefransten Blütentrauben. Er wächst an Teichrändern, in Mooren und auf nassen Wiesen und bevorzugt saure, nährstoffarme Böden. Trotz seines Namens ist er weder ein Klee noch ein spezifisches Fiebermittel -- sein Name leitet sich von der volksmedizinischen Verwendung bei Fieber ab.
+    beschreibung: `Der Fieberklee ist eine elegante Sumpfpflanze mit dreiteiligen Blättern und weißen, zart gefransten Blütentrauben. Er wächst an Teichrändern, in Mooren und auf nassen Wiesen und bevorzugt saure, nährstoffarme Böden. Trotz seines Namens ist er weder ein Klee noch ein spezifisches Fiebermittel -- sein Name leitet sich von der volksmedizinischen Verwendung bei Fieber ab.
 
 Die Blätter schmecken intensiv bitter -- ein Hinweis auf ihren hohen Gehalt an Bitterstoffen (Secoiridoide). Diese machen den Fieberklee zu einem der stärksten pflanzlichen Bittermittel überhaupt. Er regt die Verdauungssäfte an, fördert die Gallenproduktion und stärkt den gesamten Verdauungsapparat.
 
@@ -229,7 +229,7 @@ Pfarrer Kneipp setzte den Fieberklee bei Appetitlosigkeit und Blutarmut ein. In 
     zubereitungen: [
       {
         name: 'Fieberklee-Tee',
-        anleitung: '1 TL getrocknete Blätter mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. 30 Minuten vor den Mahlzeiten eine halbe Tasse trinken.',
+        anleitung: '1 TL getrocknete Blätter mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 30 Minuten vor den Mahlzeiten eine halbe Tasse trinken.',
         wirkung: 'Appetitanregend, verdauungsfördernd, magenstärkend.',
       },
       {
@@ -260,10 +260,10 @@ Pfarrer Kneipp setzte den Fieberklee bei Appetitlosigkeit und Blutarmut ein. In 
 
 Die Blätter enthalten herzwirksame Glykoside -- Digitoxin und Digoxin -- die in der Schulmedizin zur Behandlung von Herzinsuffizienz und Herzrhythmusstörungen unverzichtbar sind. Diese Stoffe verstärken die Kontraktionskraft des Herzmuskels und verlangsamen die Herzfrequenz. Allerdings ist die therapeutische Breite extrem schmal -- zwischen heilender und tödlicher Dosis liegen nur geringe Mengen.
 
-Der Fingerhut ist keine Pflanze für die Selbstmedikation. Er wird ausschliesslich in standardisierten pharmazeutischen Präparaten verwendet. In der Natur sollte er bewundert, aber niemals gepflückt oder gegessen werden.`,
+Der Fingerhut ist keine Pflanze für die Selbstmedikation. Er wird ausschließlich in standardisierten pharmazeutischen Präparaten verwendet. In der Natur sollte er bewundert, aber niemals gepflückt oder gegessen werden.`,
     geschichte: `Der englische Arzt William Withering entdeckte 1775 die Herzwirkung des Fingerhuts, als er ein Volksrezept einer Kräuterfrau aus Shropshire untersuchte. Seine Veröffentlichung "An Account of the Foxglove" von 1785 revolutionierte die Herzmedizin und begründete die moderne Pharmakologie.
 
-Vor Withering war der Fingerhut in der Volksmedizin als Brechmittel, Abführmittel und Wundkraut bekannt -- seine Herzwirkung wurde dabei oft unbeabsichtigt ausgelöst. In Irland hiess er "fairy thimble" -- der Fingerhut der Feen -- und galt als Schutzpflanze gegen böse Geister.`,
+Vor Withering war der Fingerhut in der Volksmedizin als Brechmittel, Abführmittel und Wundkraut bekannt -- seine Herzwirkung wurde dabei oft unbeabsichtigt ausgelöst. In Irland hieß er "fairy thimble" -- der Fingerhut der Feen -- und galt als Schutzpflanze gegen böse Geister.`,
     wirkungen: {
       hauptwirkungen: ['Herzstärkend (positiv inotrop)', 'Herzfrequenz-senkend (negativ chronotrop)', 'Reizleitungs-verlangsamend (negativ dromotrop)', 'Harntreibend (sekundär)'],
       inhaltsstoffe: ['Digitoxin', 'Digoxin', 'Gitoxin', 'Digitonin (Saponin)', 'Flavonoide', 'Anthranoide'],
@@ -277,7 +277,7 @@ Vor Withering war der Fingerhut in der Volksmedizin als Brechmittel, Abführmitt
     zubereitungen: [
       {
         name: 'Pharmazeutische Herzglykoside',
-        anleitung: 'Ausschliesslich als standardisierte Fertigarzneimittel (Tabletten, Tropfen) unter strenger ärztlicher Kontrolle. Keine Eigenherstellung möglich oder erlaubt.',
+        anleitung: 'Ausschließlich als standardisierte Fertigarzneimittel (Tabletten, Tropfen) unter strenger ärztlicher Kontrolle. Keine Eigenherstellung möglich oder erlaubt.',
         wirkung: 'Stärkung der Herzleistung bei Herzinsuffizienz, Regulierung des Herzrhythmus.',
       },
       {
@@ -291,7 +291,7 @@ Vor Withering war der Fingerhut in der Volksmedizin als Brechmittel, Abführmitt
         wirkung: 'Ästhetische Bereicherung und wichtige Insektenweide -- Hummeln lieben die Blüten.',
       },
     ],
-    mischungen: ['Ausschliesslich als pharmazeutisches Einzelpräparat unter ärztlicher Aufsicht'],
+    mischungen: ['Ausschließlich als pharmazeutisches Einzelpräparat unter ärztlicher Aufsicht'],
     tcm: 'In der TCM nicht gebräuchlich. Die herzstärkende Wirkung würde dem Konzept der Qi-Stärkung des Herz-Funktionskreises entsprechen.',
     ayurveda: 'Im klassischen Ayurveda nicht bekannt. Würde als stark wirkendes Herztonikum mit scharfer, bitterer Qualität eingeordnet.',
     volksmedizin: 'In der Volksmedizin wurde der Fingerhut bei "Wassersucht" (Ödemen) eingesetzt -- tatsächlich eine Folge seiner Herzwirkung, die die Nierenfunktion verbesserte. Viele Patienten starben jedoch an Überdosierung, bevor Withering die richtige Dosierung erforschte.',
@@ -304,9 +304,9 @@ Vor Withering war der Fingerhut in der Volksmedizin als Brechmittel, Abführmitt
   'Flieder': {
     vollname: 'Gemeiner Flieder (Syringa vulgaris)',
     familie: 'Ölbaumgewächse (Oleaceae)',
-    beschreibung: `Der Flieder ist vor allem als Duft- und Zierstrauch bekannt, doch er birgt auch heilende Kräfte. Seine violetten, weissen oder rosa Blütenrispen verströmen im Mai einen betörenden Duft, der allein schon stimmungsaufhellend wirkt. Die Blüten, Blätter und die Rinde enthalten Bitterstoffe, ätherisches Öl und das Glykosid Syringin.
+    beschreibung: `Der Flieder ist vor allem als Duft- und Zierstrauch bekannt, doch er birgt auch heilende Kräfte. Seine violetten, weißen oder rosa Blütenrispen verströmen im Mai einen betörenden Duft, der allein schon stimmungsaufhellend wirkt. Die Blüten, Blätter und die Rinde enthalten Bitterstoffe, ätherisches Öl und das Glykosid Syringin.
 
-In der Volksmedizin wurde der Flieder als Fiebermittel und Wurmkur geschätzt. Seine Bitterstoffe regen die Verdauung an, und der Aufguss aus Blüten wirkt beruhigend und krampflösend. Äusserlich wurde Fliederblütenöl bei Gelenkschmerzen und Verspannungen eingesetzt.
+In der Volksmedizin wurde der Flieder als Fiebermittel und Wurmkur geschätzt. Seine Bitterstoffe regen die Verdauung an, und der Aufguss aus Blüten wirkt beruhigend und krampflösend. Äußerlich wurde Fliederblütenöl bei Gelenkschmerzen und Verspannungen eingesetzt.
 
 Heute erlebt der Flieder ein Comeback in der Naturheilkunde -- vor allem als Duftpflanze in der Aromatherapie und als sanftes Fiebermittel. Sein Duft allein kann Kopfschmerzen lindern und die Stimmung heben.`,
     geschichte: `Der Flieder stammt ursprünglich aus Südosteuropa und Kleinasien und wurde im 16. Jahrhundert von Ogier Ghiselin de Busbecq, dem Gesandten am osmanischen Hof, nach Wien gebracht. Von dort aus eroberte er die Gärten ganz Europas.
@@ -325,7 +325,7 @@ Sein Name "Syringa" leitet sich vom griechischen "Syrinx" -- Flöte -- ab, da ma
     zubereitungen: [
       {
         name: 'Fliederblüten-Tee',
-        anleitung: '2 TL frische oder 1 TL getrocknete Fliederblüten mit 250ml heissem Wasser übergiessen, 8 Minuten ziehen lassen.',
+        anleitung: '2 TL frische oder 1 TL getrocknete Fliederblüten mit 250ml heißem Wasser übergießen, 8 Minuten ziehen lassen.',
         wirkung: 'Fiebersenkend, beruhigend, hilfreich bei Erkältungen.',
       },
       {
@@ -342,26 +342,26 @@ Sein Name "Syringa" leitet sich vom griechischen "Syrinx" -- Flöte -- ab, da ma
     mischungen: ['Erkältungstee (mit Holunder und Lindenblüten)', 'Beruhigungstee (mit Lavendel und Melisse)', 'Gelenkeinreibung (mit Arnika und Rosmarin)'],
     tcm: 'Kühlende Natur, bitterer Geschmack. Klärt Wind-Hitze und beruhigt den Geist. Wird der Leber- und Lungen-Leitbahn zugeordnet.',
     ayurveda: 'Kühlend und Pitta-senkend. Der Duft wirkt Sattvisch -- er klärt den Geist und fördert die Meditation.',
-    volksmedizin: 'In Osteuropa und Russland war Fliederblütentee ein bewährtes Hausmittel bei Fieber, Nierenleiden und Gelenkschmerzen. Man legte auch frische Blüten in Wodka ein und verwendete die Tinktur äusserlich bei Rheuma.',
+    volksmedizin: 'In Osteuropa und Russland war Fliederblütentee ein bewährtes Hausmittel bei Fieber, Nierenleiden und Gelenkschmerzen. Man legte auch frische Blüten in Wodka ein und verwendete die Tinktur äußerlich bei Rheuma.',
     besonders_bei: ['fieber', 'erkaeltung', 'gelenkschmerzen', 'nervositaet', 'kopfschmerzen', 'stimmungstiefs'],
   },
 
   // ═══════════════════════════════════════════════════════════════════════════
   // 8. GEISSRAUTE
   // ═══════════════════════════════════════════════════════════════════════════
-  'Geissraute': {
-    vollname: 'Geissraute (Galega officinalis)',
+  'Geißraute': {
+    vollname: 'Geißraute (Galega officinalis)',
     familie: 'Hülsenfrüchtler (Fabaceae)',
-    beschreibung: `Die Geissraute ist eine stattliche, bis zu einem Meter hohe Staude mit gefiederten Blättern und blau-violetten Schmetterlingsblüten. Sie wächst auf feuchten Wiesen und an Bachufern und fällt durch ihre üppige, buschige Gestalt auf. Ihr Name deutet auf die traditionelle Verwendung in der Tierheilkunde hin -- sie wurde Ziegen (Geissen) gefüttert, um die Milchproduktion zu steigern.
+    beschreibung: `Die Geißraute ist eine stattliche, bis zu einem Meter hohe Staude mit gefiederten Blättern und blau-violetten Schmetterlingsblüten. Sie wächst auf feuchten Wiesen und an Bachufern und fällt durch ihre üppige, buschige Gestalt auf. Ihr Name deutet auf die traditionelle Verwendung in der Tierheilkunde hin -- sie wurde Ziegen (Geißen) gefüttert, um die Milchproduktion zu steigern.
 
-Die Geissraute enthält das Guanidin-Derivat Galegin, das den Blutzucker senkt. Diese Entdeckung führte zur Entwicklung des heute weltweit eingesetzten Diabetesmittels Metformin -- eines der wichtigsten Medikamente der modernen Medizin. Damit ist die Geissraute die Stammpflanze eines der erfolgreichsten Arzneistoffe überhaupt.
+Die Geißraute enthält das Guanidin-Derivat Galegin, das den Blutzucker senkt. Diese Entdeckung führte zur Entwicklung des heute weltweit eingesetzten Diabetesmittels Metformin -- eines der wichtigsten Medikamente der modernen Medizin. Damit ist die Geißraute die Stammpflanze eines der erfolgreichsten Arzneistoffe überhaupt.
 
 In der traditionellen Kräuterkunde wird sie als milchförderndes Mittel für stillende Mütter, als Blutzuckersenker und als harntreibendes Kraut eingesetzt. Allerdings ist bei der Eigenanwendung Vorsicht geboten, da sie in höheren Dosen giftig wirken kann.`,
-    geschichte: `Die Geissraute war im Mittelalter als Pestmittel bekannt -- man glaubte, sie könne die Krankheit abwehren. In der Renaissance wurde sie als "Herba Galegae" in Apotheken geführt und bei Fieber, Pest und Würmern eingesetzt.
+    geschichte: `Die Geißraute war im Mittelalter als Pestmittel bekannt -- man glaubte, sie könne die Krankheit abwehren. In der Renaissance wurde sie als "Herba Galegae" in Apotheken geführt und bei Fieber, Pest und Würmern eingesetzt.
 
 Die blutzuckersenkende Wirkung wurde 1927 wissenschaftlich bestätigt, als der Chemiker C.K. Watanabe das Galegin isolierte. Daraus entwickelten Jean Sterne und Kollegen in den 1950er Jahren Metformin -- bis heute das am häufigsten verschriebene Diabetes-Medikament weltweit.`,
     wirkungen: {
-      hauptwirkungen: ['Blutzuckersenkend (antidiabetisch)', 'Milchbildungsfördernd (galaktagog)', 'Harntreibend (diuretisch)', 'Schweisstreibend', 'Antiparasitär'],
+      hauptwirkungen: ['Blutzuckersenkend (antidiabetisch)', 'Milchbildungsfördernd (galaktagog)', 'Harntreibend (diuretisch)', 'Schweißtreibend', 'Antiparasitär'],
       inhaltsstoffe: ['Galegin (Guanidin-Derivat)', 'Flavonoide (Galuteolin)', 'Saponine', 'Gerbstoffe', 'Bitterstoffe', 'Chromsalze', 'Hydroxygalegin'],
     },
     ernte: {
@@ -372,17 +372,17 @@ Die blutzuckersenkende Wirkung wurde 1927 wissenschaftlich bestätigt, als der C
     },
     zubereitungen: [
       {
-        name: 'Geissrauten-Tee',
-        anleitung: '1 TL getrocknetes Kraut mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. Maximal 2 Tassen täglich.',
+        name: 'Geißrauten-Tee',
+        anleitung: '1 TL getrocknetes Kraut mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. Maximal 2 Tassen täglich.',
         wirkung: 'Mild blutzuckersenkend, unterstützend bei Diabetes Typ 2 (nur begleitend, nicht als Ersatz für Medikamente).',
       },
       {
-        name: 'Stilltee mit Geissraute',
-        anleitung: '1/2 TL Geissrautenkraut mit 1 TL Fenchel und 1 TL Anis mischen. 1 TL der Mischung mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen.',
+        name: 'Stilltee mit Geißraute',
+        anleitung: '1/2 TL Geißrautenkraut mit 1 TL Fenchel und 1 TL Anis mischen. 1 TL der Mischung mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen.',
         wirkung: 'Fördert die Milchbildung bei stillenden Müttern.',
       },
       {
-        name: 'Geissrauten-Tinktur',
+        name: 'Geißrauten-Tinktur',
         anleitung: 'Frisches Kraut im Verhältnis 1:5 mit 40%igem Alkohol ansetzen, 3 Wochen ziehen lassen. 15-20 Tropfen 2x täglich.',
         wirkung: 'Konzentrierte Wirkung zur Blutzuckerregulation.',
       },
@@ -390,7 +390,7 @@ Die blutzuckersenkende Wirkung wurde 1927 wissenschaftlich bestätigt, als der C
     mischungen: ['Diabetes-Unterstützungstee (mit Heidelbeerblättern und Bohnenschalen)', 'Stilltee (mit Fenchel, Anis und Kümmel)', 'Stoffwechseltee (mit Brennnessel und Löwenzahn)'],
     tcm: 'Bitterer Geschmack, kühlende Natur. Klärt Hitze und nährt das Yin. Wird dem Milz- und Lungen-Funktionskreis zugeordnet.',
     ayurveda: 'Bitter und zusammenziehend -- senkt Kapha und Pitta. Unterstützt Medha Dhatu (Fettgewebe-Stoffwechsel) und die Bauchspeicheldrüse.',
-    volksmedizin: 'In der Volksmedizin Südeuropas wurde die Geissraute traditionell stillenden Frauen als Tee gegeben. In Frankreich und Italien setzte man sie bei Harnproblemen und als schweisstreibendes Mittel bei Fieber ein.',
+    volksmedizin: 'In der Volksmedizin Südeuropas wurde die Geißraute traditionell stillenden Frauen als Tee gegeben. In Frankreich und Italien setzte man sie bei Harnproblemen und als schweißtreibendes Mittel bei Fieber ein.',
     besonders_bei: ['diabetes', 'blutzucker', 'stillen', 'milchbildung', 'stoffwechsel'],
   },
 
@@ -399,7 +399,7 @@ Die blutzuckersenkende Wirkung wurde 1927 wissenschaftlich bestätigt, als der C
   // ═══════════════════════════════════════════════════════════════════════════
   'Gerste': {
     vollname: 'Saatgerste (Hordeum vulgare)',
-    familie: 'Süssgräser (Poaceae)',
+    familie: 'Süßgräser (Poaceae)',
     beschreibung: `Die Gerste ist eines der ältesten Kulturgetreide der Menschheit und wurde bereits vor über 10.000 Jahren im Fruchtbaren Halbmond domestiziert. In der Heilkunde wird sie als Gerstenwasser, Gerstengraupen-Schleim und neuerdings als Gerstengras geschätzt. Ihr Nährwert und ihre Heilwirkung machen sie zu einem wahren Lebenselixier.
 
 Gerstenwasser -- der abgekochte Sud von Gerstenkörnern -- ist eines der ältesten Heilgetränke der Menschheit. Es wirkt kühlend, befeuchtend und stärkend auf gereizte Schleimhäute, besonders im Verdauungs- und Harntrakt. Gerstengraupen-Schleim ist die klassische Aufbaunahrung für Rekonvaleszenten und Kranke.
@@ -436,7 +436,7 @@ Im alten Ägypten war Gerste heilig und wurde den Toten als Wegzehrung ins Grab 
       },
     ],
     mischungen: ['Aufbau-Brei (mit Hafer und Leinsamen)', 'Grüner Vital-Drink (mit Weizengras und Spirulina)', 'Magenschon-Brei (mit Reis und Kamille)'],
-    tcm: 'Gerste ist kühl und süss. Sie klärt Hitze, beseitigt Feuchtigkeit und stärkt die Milz. Gerstenmalz (Mai Ya) ist ein wichtiges TCM-Mittel zur Förderung der Verdauung.',
+    tcm: 'Gerste ist kühl und süß. Sie klärt Hitze, beseitigt Feuchtigkeit und stärkt die Milz. Gerstenmalz (Mai Ya) ist ein wichtiges TCM-Mittel zur Förderung der Verdauung.',
     ayurveda: 'Gerste (Yava) ist im Ayurveda eines der geschätztesten Getreide. Sie reduziert Kapha, ist leicht verdaulich und wird bei Diabetes, Übergewicht und Verschleimung empfohlen.',
     volksmedizin: 'Gerstenwasser war das Universalgetränk der Kranken in ganz Europa. Bei Fieber, Durchfall, Blasenentzündung und zur Stärkung nach Krankheiten wurde es täglich frisch gekocht. Gerstengraupen-Suppe galt als "Arme-Leute-Medizin", die jeden wieder auf die Beine brachte.',
     besonders_bei: ['fieber', 'magenschleimhautreizung', 'erschoepfung', 'rekonvaleszenz', 'blasenentzuendung', 'durchfall'],
@@ -453,7 +453,7 @@ Im alten Ägypten war Gerste heilig und wurde den Toten als Wegzehrung ins Grab 
 Die kleinen Beeren sind reich an Carotinoiden (Zeaxanthin), Polysacchariden, Vitaminen (besonders B und C) und Spurenelementen. Sie gelten als eines der nährstoffreichsten Lebensmittel der Welt. In der chinesischen Medizin werden sie als Yin-Tonikum eingesetzt, das Leber und Nieren nährt, die Augen stärkt und die Lebensenergie verlängert.
 
 Moderne Studien bestätigen die antioxidative, immunstärkende und augenschützende Wirkung der Gojibeere. Ihr hoher Zeaxanthin-Gehalt macht sie besonders wertvoll für die Augengesundheit -- sie kann altersbedingter Makuladegeneration vorbeugen.`,
-    geschichte: `In der chinesischen Medizin wird die Gojibeere seit über 2.000 Jahren als "Gou Qi Zi" verwendet. Die älteste Erwähnung findet sich im "Shennong Bencao Jing", dem ältesten chinesischen Arzneibuch. Li Shizhen, der grosse Arzt der Ming-Dynastie, bezeichnete sie als Mittel gegen vorzeitiges Altern.
+    geschichte: `In der chinesischen Medizin wird die Gojibeere seit über 2.000 Jahren als "Gou Qi Zi" verwendet. Die älteste Erwähnung findet sich im "Shennong Bencao Jing", dem ältesten chinesischen Arzneibuch. Li Shizhen, der große Arzt der Ming-Dynastie, bezeichnete sie als Mittel gegen vorzeitiges Altern.
 
 Eine berühmte Legende erzählt von Li Qing Yuen, einem chinesischen Kräuterkundigen, der angeblich 256 Jahre alt wurde und täglich Gojibeeren ass. Ob die Geschichte stimmt, sei dahingestellt -- doch sie zeigt, welchen Stellenwert die Beere in der chinesischen Kultur hat.`,
     wirkungen: {
@@ -469,7 +469,7 @@ Eine berühmte Legende erzählt von Li Qing Yuen, einem chinesischen Kräuterkun
     zubereitungen: [
       {
         name: 'Gojibeeren-Tee',
-        anleitung: '1 EL getrocknete Gojibeeren in 250ml heissem Wasser 10 Minuten ziehen lassen. Beeren mittrinken oder essen.',
+        anleitung: '1 EL getrocknete Gojibeeren in 250ml heißem Wasser 10 Minuten ziehen lassen. Beeren mittrinken oder essen.',
         wirkung: 'Stärkend, immunfördernd, augenpflegend.',
       },
       {
@@ -490,7 +490,7 @@ Eine berühmte Legende erzählt von Li Qing Yuen, einem chinesischen Kräuterkun
     ],
     mischungen: ['TCM-Augentee (mit Chrysanthemenblüten und Cassia-Samen)', 'Nieren-Yin-Tonikum (mit Rehmannia und Cornus)', 'Vital-Müsli (mit Maulbeeren und Walnüssen)'],
     tcm: 'Gou Qi Zi nährt Leber- und Nieren-Yin, stärkt das Blut und verbessert die Sehkraft. Thermisch neutral bis leicht warm. Eines der wichtigsten Tonika der chinesischen Medizin.',
-    ayurveda: 'Süss und nährend -- stärkt Ojas und Rasayana. Wirkt Vata- und Pitta-ausgleichend. Nährt alle sieben Dhatus (Körpergewebe).',
+    ayurveda: 'Süß und nährend -- stärkt Ojas und Rasayana. Wirkt Vata- und Pitta-ausgleichend. Nährt alle sieben Dhatus (Körpergewebe).',
     volksmedizin: 'In der europäischen Volksmedizin war der Bocksdorn wenig bekannt, obwohl er hier seit Jahrhunderten wild wächst. Erst durch die Popularisierung der chinesischen Medizin wurde die Gojibeere auch in Europa als Heilpflanze wiederentdeckt.',
     besonders_bei: ['immunschwaeche', 'augenprobleme', 'erschoepfung', 'leber', 'nieren', 'vorzeitige_alterung'],
   },
@@ -522,7 +522,7 @@ Der Botaniker Nicholas Monardes beschrieb die Pflanze im 16. Jahrhundert -- dahe
     zubereitungen: [
       {
         name: 'Goldmelissen-Tee',
-        anleitung: '2 TL frische oder 1 TL getrocknete Blüten und Blätter mit 250ml kochendem Wasser übergiessen, 8 Minuten ziehen lassen.',
+        anleitung: '2 TL frische oder 1 TL getrocknete Blüten und Blätter mit 250ml kochendem Wasser übergießen, 8 Minuten ziehen lassen.',
         wirkung: 'Wohlschmeckend, beruhigend, verdauungsfördernd, antiseptisch.',
       },
       {
@@ -570,7 +570,7 @@ Der Botaniker Adelbert von Chamisso, ein deutsch-französischer Naturforscher, b
     zubereitungen: [
       {
         name: 'Goldmohn-Schlaftee',
-        anleitung: '2 TL getrocknetes Goldmohnkraut mit 250ml kochendem Wasser übergiessen, 10 Minuten zugedeckt ziehen lassen. 30 Minuten vor dem Schlafengehen trinken.',
+        anleitung: '2 TL getrocknetes Goldmohnkraut mit 250ml kochendem Wasser übergießen, 10 Minuten zugedeckt ziehen lassen. 30 Minuten vor dem Schlafengehen trinken.',
         wirkung: 'Sanfte Einschlafhilfe, beruhigt den Geist, löst Anspannung.',
       },
       {
@@ -581,7 +581,7 @@ Der Botaniker Adelbert von Chamisso, ein deutsch-französischer Naturforscher, b
       {
         name: 'Goldmohn-Glycerit (für Kinder)',
         anleitung: 'Frisches Kraut im Verhältnis 1:5 mit pflanzlichem Glycerin ansetzen, 4 Wochen ziehen lassen. 1/2 TL abends für Kinder ab 3 Jahren.',
-        wirkung: 'Alkoholfreie, süsse Schlafhilfe für Kinder bei Unruhe und Schlafproblemen.',
+        wirkung: 'Alkoholfreie, süße Schlafhilfe für Kinder bei Unruhe und Schlafproblemen.',
       },
     ],
     mischungen: ['Schlaftee (mit Passionsblume und Lavendel)', 'Beruhigungstee (mit Baldrian und Hopfen)', 'Kinder-Schlaftee (mit Melisse und Kamille)'],
@@ -597,16 +597,16 @@ Der Botaniker Adelbert von Chamisso, ein deutsch-französischer Naturforscher, b
   'Granatapfel': {
     vollname: 'Granatapfel (Punica granatum)',
     familie: 'Weiderichgewächse (Lythraceae)',
-    beschreibung: `Der Granatapfel ist eine der ältesten Kulturfrüchte der Menschheit und seit Jahrtausenden Symbol für Fruchtbarkeit, Schönheit und ewiges Leben. Die ledrige, rötliche Frucht birgt hunderte rubinrote Samenkerne, die von saftigem, süss-säuerlichem Fruchtfleisch umhüllt sind. Jeder Kern ist ein kleines Juwel an Nährstoffen.
+    beschreibung: `Der Granatapfel ist eine der ältesten Kulturfrüchte der Menschheit und seit Jahrtausenden Symbol für Fruchtbarkeit, Schönheit und ewiges Leben. Die ledrige, rötliche Frucht birgt hunderte rubinrote Samenkerne, die von saftigem, süß-säuerlichem Fruchtfleisch umhüllt sind. Jeder Kern ist ein kleines Juwel an Nährstoffen.
 
-Die Heilkraft des Granatapfels steckt in allen Teilen -- Frucht, Saft, Schale, Blüten und Rinde. Die Frucht ist aussergewöhnlich reich an Polyphenolen, besonders Ellagitanninen und Punicalagin, die zu den stärksten natürlichen Antioxidantien gehören. Sie schützen Herz und Gefässe, hemmen Entzündungen und zeigen in Studien sogar krebshemmende Eigenschaften.
+Die Heilkraft des Granatapfels steckt in allen Teilen -- Frucht, Saft, Schale, Blüten und Rinde. Die Frucht ist außergewöhnlich reich an Polyphenolen, besonders Ellagitanninen und Punicalagin, die zu den stärksten natürlichen Antioxidantien gehören. Sie schützen Herz und Gefäße, hemmen Entzündungen und zeigen in Studien sogar krebshemmende Eigenschaften.
 
 Der Granatapfelsaft wirkt nachweislich blutdrucksenkend, verbessert die Durchblutung und schützt die Arterien vor Verkalkung. Auch die hormonregulierende Wirkung ist bemerkenswert -- der Granatapfel enthält pflanzliche Östrogene und wird in den Wechseljahren eingesetzt.`,
     geschichte: `Der Granatapfel wurde vor über 5.000 Jahren im heutigen Iran kultiviert. Im alten Ägypten wurde er als "Frucht der Unterwelt" in Gräber gelegt. Im Hohelied Salomons symbolisiert er Liebe und Fruchtbarkeit. Die Griechen weihten ihn der Liebesgöttin Aphrodite.
 
 In der antiken Medizin setzte Hippokrates die Granatapfelrinde als Wurmmittel ein -- sie enthält Pelletierin, ein wirksames Anthelminthikum. Dioskurides empfahl den Saft bei Mundgeschwüren und Fieber. In der islamischen Medizin galt der Granatapfel als eine der heiligsten Früchte.`,
     wirkungen: {
-      hauptwirkungen: ['Stark antioxidativ', 'Herzschützend (kardioprotektiv)', 'Entzündungshemmend', 'Blutdrucksenkend', 'Hormonregulierend', 'Gefässschützend'],
+      hauptwirkungen: ['Stark antioxidativ', 'Herzschützend (kardioprotektiv)', 'Entzündungshemmend', 'Blutdrucksenkend', 'Hormonregulierend', 'Gefäßschützend'],
       inhaltsstoffe: ['Punicalagin', 'Ellagitannine', 'Ellagsäure', 'Anthocyane', 'Flavonoide', 'Pflanzliche Östrogene', 'Vitamin C', 'Kalium', 'Pelletierin (Rinde)'],
     },
     ernte: {
@@ -623,17 +623,17 @@ In der antiken Medizin setzte Hippokrates die Granatapfelrinde als Wurmmittel ei
       },
       {
         name: 'Granatapfelschalen-Tee',
-        anleitung: '1 TL getrocknete, zerkleinerte Granatapfelschale mit 250ml kochendem Wasser übergiessen, 15 Minuten ziehen lassen.',
+        anleitung: '1 TL getrocknete, zerkleinerte Granatapfelschale mit 250ml kochendem Wasser übergießen, 15 Minuten ziehen lassen.',
         wirkung: 'Adstringierend bei Durchfall, entzündungshemmend bei Halsschmerzen (zum Gurgeln).',
       },
       {
         name: 'Granatapfel-Oxymel',
         anleitung: '250ml frischen Granatapfelsaft mit 125ml Honig und 125ml Apfelessig verrühren. 1 EL täglich in Wasser.',
-        wirkung: 'Altes Heilmittel (Sauerhonig) zur Stärkung des Immunsystems und der Gefässe.',
+        wirkung: 'Altes Heilmittel (Sauerhonig) zur Stärkung des Immunsystems und der Gefäße.',
       },
     ],
-    mischungen: ['Herzschutz-Saft (mit Weissdorn und Aronia)', 'Wechseljahres-Mischung (mit Rotklee und Salbei)', 'Antioxidans-Smoothie (mit Acai und Blaubeeren)'],
-    tcm: 'Süss-sauer und warm. Nährt Yin und Blut, stärkt Nieren und Essenz (Jing). Der Saft belebt das Blut und fördert die Fruchtbarkeit.',
+    mischungen: ['Herzschutz-Saft (mit Weißdorn und Aronia)', 'Wechseljahres-Mischung (mit Rotklee und Salbei)', 'Antioxidans-Smoothie (mit Acai und Blaubeeren)'],
+    tcm: 'Süß-sauer und warm. Nährt Yin und Blut, stärkt Nieren und Essenz (Jing). Der Saft belebt das Blut und fördert die Fruchtbarkeit.',
     ayurveda: 'Dadima (Granatapfel) ist im Ayurveda Tridosha-ausgleichend -- eine seltene Eigenschaft. Er stärkt Agni, nährt Rasa Dhatu (Plasma) und Rakta Dhatu (Blut).',
     volksmedizin: 'In der Volksmedizin des Mittelmeerraums war der Granatapfel ein Universalmittel. Der Saft bei Schwäche und Blutarmut, die Schale bei Durchfall, die Rinde gegen Bandwürmer. Frauen tranken den Saft für Fruchtbarkeit und Schönheit.',
     besonders_bei: ['herz_kreislauf', 'bluthochdruck', 'wechseljahre', 'entzuendungen', 'immunschwaeche', 'arteriosklerose'],
@@ -647,14 +647,14 @@ In der antiken Medizin setzte Hippokrates die Granatapfelrinde als Wurmmittel ei
     familie: 'Jochblattgewächse (Zygophyllaceae)',
     beschreibung: `Der Guajakbaum, auch Pockholz oder Franzosenholz genannt, ist ein langsam wachsender, immergrüner Baum aus der Karibik und dem tropischen Mittelamerika. Sein extrem hartes, harzreiches Holz ist so schwer, dass es im Wasser sinkt. Die blauen Blüten und das dunkelgrüne Laub machen ihn zu einem schönen Zierbaum.
 
-Das Guajakharz (Guajakgummi), das aus dem Kernholz gewonnen wird, war vom 16. bis 19. Jahrhundert eines der wichtigsten Arzneimittel der europäischen Medizin. Es wirkt stark schweisstreibend, entzündungshemmend und antirheumatisch. Die im Harz enthaltenen Guajakonsäure und Lignane haben nachweislich entzündungshemmende und antioxidative Eigenschaften.
+Das Guajakharz (Guajakgummi), das aus dem Kernholz gewonnen wird, war vom 16. bis 19. Jahrhundert eines der wichtigsten Arzneimittel der europäischen Medizin. Es wirkt stark schweißtreibend, entzündungshemmend und antirheumatisch. Die im Harz enthaltenen Guajakonsäure und Lignane haben nachweislich entzündungshemmende und antioxidative Eigenschaften.
 
 In der modernen Phytotherapie wird Guajak vor allem bei chronischen Gelenkerkrankungen, Gicht und als Bestandteil von Entgiftungskuren eingesetzt. Auch als Gurgelmittel bei Halsschmerzen hat es sich bewährt.`,
     geschichte: `Als die Spanier im 16. Jahrhundert die Syphilis aus der Neuen Welt einschleppten, brachten sie auch das Gegenmittel mit -- so glaubte man zumindest. Guajakholz wurde als Wundermittel gegen die "Franzosenkrankheit" propagiert und zu immensen Preisen gehandelt. Die Fugger-Familie in Augsburg erwarb das Handelsmonopol und verdiente ein Vermögen.
 
 Ulrich von Hutten, selbst an Syphilis erkrankt, schrieb 1519 eine begeisterte Abhandlung über die Guajakkur. Obwohl die Wirkung gegen Syphilis letztlich nicht bewiesen werden konnte, blieb das Guajakholz als Rheuma- und Entgiftungsmittel in der Apotheke.`,
     wirkungen: {
-      hauptwirkungen: ['Entzündungshemmend', 'Schweisstreibend (diaphoretisch)', 'Antirheumatisch', 'Harntreibend', 'Antioxidativ', 'Schleimlösend'],
+      hauptwirkungen: ['Entzündungshemmend', 'Schweißtreibend (diaphoretisch)', 'Antirheumatisch', 'Harntreibend', 'Antioxidativ', 'Schleimlösend'],
       inhaltsstoffe: ['Guajakonsäure', 'Guajakolsäure', 'Guajakharz (bis 25%)', 'Lignane', 'Saponine', 'Ätherisches Öl', 'Vanillin'],
     },
     ernte: {
@@ -667,7 +667,7 @@ Ulrich von Hutten, selbst an Syphilis erkrankt, schrieb 1519 eine begeisterte Ab
       {
         name: 'Guajakholz-Tee (Dekokt)',
         anleitung: '1 TL Guajakholzspäne in 250ml Wasser 10-15 Minuten köcheln lassen, abseihen. 2-3 Tassen täglich.',
-        wirkung: 'Schweisstreibend, entschlackend, antirheumatisch.',
+        wirkung: 'Schweißtreibend, entschlackend, antirheumatisch.',
       },
       {
         name: 'Guajak-Tinktur',
@@ -682,8 +682,8 @@ Ulrich von Hutten, selbst an Syphilis erkrankt, schrieb 1519 eine begeisterte Ab
     ],
     mischungen: ['Rheuma-Tee (mit Weidenrinde und Teufelskralle)', 'Entgiftungstee (mit Sassafras und Sarsaparille)', 'Gicht-Mischung (mit Birkenblättern und Goldrute)'],
     tcm: 'Warm und scharf. Vertreibt Wind-Feuchtigkeit aus den Leitbahnen, öffnet die Oberfläche und fördert das Schwitzen. Wirkt auf Leber- und Nieren-Meridian.',
-    ayurveda: 'Heiss und scharf -- reduziert Vata und Kapha. Öffnet die Srotas (Körperkanäle) und leitet Ama (Schlacken) aus. Stärkt die Gelenke.',
-    volksmedizin: 'Guajakholz war vom 16. bis 19. Jahrhundert eines der beliebtesten Arzneimittel in Europa. Die "Guajakkur" bestand aus wochenlangem Trinken von Guajakholz-Dekokt bei gleichzeitigem Schwitzen in heissen Stuben. Man setzte es bei Syphilis, Gicht, Rheuma und "unreinem Blut" ein.',
+    ayurveda: 'Heiß und scharf -- reduziert Vata und Kapha. Öffnet die Srotas (Körperkanäle) und leitet Ama (Schlacken) aus. Stärkt die Gelenke.',
+    volksmedizin: 'Guajakholz war vom 16. bis 19. Jahrhundert eines der beliebtesten Arzneimittel in Europa. Die "Guajakkur" bestand aus wochenlangem Trinken von Guajakholz-Dekokt bei gleichzeitigem Schwitzen in heißen Stuben. Man setzte es bei Syphilis, Gicht, Rheuma und "unreinem Blut" ein.',
     besonders_bei: ['rheuma', 'gicht', 'gelenkschmerzen', 'halsschmerzen', 'entgiftung', 'stoffwechsel'],
   },
 
@@ -693,14 +693,14 @@ Ulrich von Hutten, selbst an Syphilis erkrankt, schrieb 1519 eine begeisterte Ab
   'Hauswurz': {
     vollname: 'Echte Hauswurz (Sempervivum tectorum)',
     familie: 'Dickblattgewächse (Crassulaceae)',
-    beschreibung: `Die Hauswurz, auch Donnerwurz oder Jupiterbart genannt, ist eine rosettenbildende Sukkulente, die auf Dächern, Mauern und Felsen wächst. Ihre dicken, fleischigen Blätter sind oft an den Spitzen rötlich gefärbt und bilden perfekt symmetrische Rosetten. Karl der Grosse ordnete an, dass auf jedem Hausdach Hauswurz zu pflanzen sei -- als Blitzschutz und Heilpflanze zugleich.
+    beschreibung: `Die Hauswurz, auch Donnerwurz oder Jupiterbart genannt, ist eine rosettenbildende Sukkulente, die auf Dächern, Mauern und Felsen wächst. Ihre dicken, fleischigen Blätter sind oft an den Spitzen rötlich gefärbt und bilden perfekt symmetrische Rosetten. Karl der Große ordnete an, dass auf jedem Hausdach Hauswurz zu pflanzen sei -- als Blitzschutz und Heilpflanze zugleich.
 
 Der kühlende, gelartige Saft der Blätter wirkt ähnlich wie Aloe vera -- entzündungshemmend, wundheilend und schmerzlindernd. Er wird bei Verbrennungen, Sonnenbrand, Insektenstichen, Warzen und Hühneraugen aufgelegt. Auch bei Ohrenschmerzen wurde der frisch gepresste Saft ins Ohr geträufelt.
 
 Die Hauswurz enthält Gerbstoffe, Äpfelsäure, Schleimstoffe und Flavonoide. Ihre kühlende Natur macht sie besonders wertvoll bei allen Hitze- und Entzündungszuständen der Haut. Sie ist die "Aloe des Nordens" und wächst anspruchslos in jedem Garten.`,
-    geschichte: `Bereits die Römer pflanzten Hauswurz auf ihre Dächer -- sie glaubten, Jupiter habe die Pflanze zum Schutz vor Blitzen gesandt. Daher der Name "Jupiterbart" und "Donnerwurz". Karl der Grosse verankerte diese Tradition in seinem "Capitulare de villis".
+    geschichte: `Bereits die Römer pflanzten Hauswurz auf ihre Dächer -- sie glaubten, Jupiter habe die Pflanze zum Schutz vor Blitzen gesandt. Daher der Name "Jupiterbart" und "Donnerwurz". Karl der Große verankerte diese Tradition in seinem "Capitulare de villis".
 
-Plinius der Ältere empfahl den Hauswurz-Saft bei Augenleiden und Verbrennungen. Dioskurides setzte ihn bei Gürtelrose und Entzündungen ein. Hildegard von Bingen nutzte ihn bei Herzleiden und Fieber -- sie liess die Kranken den kühlen Saft trinken.`,
+Plinius der Ältere empfahl den Hauswurz-Saft bei Augenleiden und Verbrennungen. Dioskurides setzte ihn bei Gürtelrose und Entzündungen ein. Hildegard von Bingen nutzte ihn bei Herzleiden und Fieber -- sie ließ die Kranken den kühlen Saft trinken.`,
     wirkungen: {
       hauptwirkungen: ['Kühlend', 'Wundheilend', 'Entzündungshemmend', 'Schmerzlindernd', 'Adstringierend', 'Hautpflegend'],
       inhaltsstoffe: ['Schleimstoffe', 'Gerbstoffe', 'Äpfelsäure', 'Isocitronensäure', 'Flavonoide', 'Harze', 'Mineralsalze'],
@@ -708,8 +708,8 @@ Plinius der Ältere empfahl den Hauswurz-Saft bei Augenleiden und Verbrennungen.
     ernte: {
       zeit: 'Ganzjährig, da die Rosetten immergrün sind. Am saftigsten im Sommer.',
       teile: 'Frische, fleischige Blätter.',
-      tipps: 'Einzelne äussere Blätter von der Rosette abbrechen und frisch verwenden. Die Pflanze wächst schnell nach. Immer eine Hauswurz auf der Fensterbank oder dem Balkon haben -- als natürliche Notfallapotheke.',
-      mond: 'Für äusserliche Anwendung bei zunehmendem Mond ernten, wenn der Saftgehalt am höchsten ist.',
+      tipps: 'Einzelne äußere Blätter von der Rosette abbrechen und frisch verwenden. Die Pflanze wächst schnell nach. Immer eine Hauswurz auf der Fensterbank oder dem Balkon haben -- als natürliche Notfallapotheke.',
+      mond: 'Für äußerliche Anwendung bei zunehmendem Mond ernten, wenn der Saftgehalt am höchsten ist.',
     },
     zubereitungen: [
       {
@@ -750,19 +750,19 @@ Auch bei Rheuma, Gicht und Hautproblemen wird das Heidekraut eingesetzt. Als Bad
 
 Im Mittelalter wurde Heidekraut als Bettstroh und Besen verwendet (daher "Besenheide") sowie als Heilmittel bei Blasen- und Nierenleiden. Pfarrer Kneipp empfahl Heidekraut-Bäder bei Rheuma und Gicht. Sebastian Kneipp nannte es "eines der vortrefflichsten Kräuter für die Blase".`,
     wirkungen: {
-      hauptwirkungen: ['Harntreibend (diuretisch)', 'Harnwegsantiseptisch', 'Entzündungshemmend', 'Durchblutungsfördernd', 'Schweisstreibend', 'Beruhigend'],
+      hauptwirkungen: ['Harntreibend (diuretisch)', 'Harnwegsantiseptisch', 'Entzündungshemmend', 'Durchblutungsfördernd', 'Schweißtreibend', 'Beruhigend'],
       inhaltsstoffe: ['Arbutin', 'Gerbstoffe', 'Flavonoide (Quercetin)', 'Ätherisches Öl', 'Saponine', 'Mineralstoffe', 'Cumarine', 'Citronensäure'],
     },
     ernte: {
       zeit: 'Blühendes Kraut von August bis Oktober.',
       teile: 'Blühende Triebspitzen.',
-      tipps: 'Die zähen Triebe mit einer Schere abschneiden. In kleinen Sträusschen zum Trocknen aufhängen. In Naturschutzgebieten nicht sammeln -- die Heide steht vielerorts unter Schutz.',
+      tipps: 'Die zähen Triebe mit einer Schere abschneiden. In kleinen Sträußchen zum Trocknen aufhängen. In Naturschutzgebieten nicht sammeln -- die Heide steht vielerorts unter Schutz.',
       mond: 'Bei zunehmendem Mond ernten für die harntreibende Wirkung.',
     },
     zubereitungen: [
       {
         name: 'Heidekraut-Tee',
-        anleitung: '2 TL getrocknetes blühendes Kraut mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. 3 Tassen täglich bei Blasenbeschwerden.',
+        anleitung: '2 TL getrocknetes blühendes Kraut mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 3 Tassen täglich bei Blasenbeschwerden.',
         wirkung: 'Harntreibend, harnwegsantiseptisch, entzündungshemmend.',
       },
       {
@@ -789,23 +789,23 @@ Im Mittelalter wurde Heidekraut als Bettstroh und Besen verwendet (daher "Besenh
   'Heidelbeere': {
     vollname: 'Waldheidelbeere (Vaccinium myrtillus)',
     familie: 'Heidekrautgewächse (Ericaceae)',
-    beschreibung: `Die Waldheidelbeere -- nicht zu verwechseln mit der Kulturheidelbeere -- ist eine der wertvollsten Heilpflanzen unserer Wälder. Ihre kleinen, dunkelblau-violetten Beeren färben Finger und Zunge intensiv blau, was auf ihren aussergewöhnlich hohen Gehalt an Anthocyanen hinweist. Diese Pflanzenfarbstoffe sind kraftvolle Antioxidantien.
+    beschreibung: `Die Waldheidelbeere -- nicht zu verwechseln mit der Kulturheidelbeere -- ist eine der wertvollsten Heilpflanzen unserer Wälder. Ihre kleinen, dunkelblau-violetten Beeren färben Finger und Zunge intensiv blau, was auf ihren außergewöhnlich hohen Gehalt an Anthocyanen hinweist. Diese Pflanzenfarbstoffe sind kraftvolle Antioxidantien.
 
-Die getrockneten Beeren sind eines der zuverlässigsten pflanzlichen Mittel gegen Durchfall -- ihre Gerbstoffe wirken zusammenziehend auf die Darmschleimhaut und hemmen die übermässige Flüssigkeitsabgabe. Frische Beeren hingegen wirken mild abführend -- eine schöne Demonstration der Doppelnatur vieler Heilpflanzen.
+Die getrockneten Beeren sind eines der zuverlässigsten pflanzlichen Mittel gegen Durchfall -- ihre Gerbstoffe wirken zusammenziehend auf die Darmschleimhaut und hemmen die übermäßige Flüssigkeitsabgabe. Frische Beeren hingegen wirken mild abführend -- eine schöne Demonstration der Doppelnatur vieler Heilpflanzen.
 
 Besonders bemerkenswert ist die Wirkung der Heidelbeere auf die Augen. Die Anthocyane verbessern die Mikrozirkulation in der Netzhaut und können die Nachtsicht stärken. Auch bei Diabetes wird die Heidelbeere geschätzt -- sowohl die Beeren als auch die Blätter senken den Blutzucker.`,
-    geschichte: `Heidelbeeren gehören seit der Steinzeit zur menschlichen Ernährung. Ötzi, der Gletschermann, trug getrocknete Beeren bei sich. In der Volksmedizin galten sie als unfehlbares Durchfallmittel -- "Bevor du zum Doktor rennst, iss erst mal Heidelbeeren", hiess es.
+    geschichte: `Heidelbeeren gehören seit der Steinzeit zur menschlichen Ernährung. Ötzi, der Gletschermann, trug getrocknete Beeren bei sich. In der Volksmedizin galten sie als unfehlbares Durchfallmittel -- "Bevor du zum Doktor rennst, iss erst mal Heidelbeeren", hieß es.
 
 Im Zweiten Weltkrieg berichteten britische Piloten, dass ihre Nachtsicht sich verbesserte, wenn sie vor Nachtflügen Heidelbeermarmelade assen. Diese Beobachtung führte zu intensiver Forschung über die augenstärkende Wirkung der Anthocyane.`,
     wirkungen: {
-      hauptwirkungen: ['Adstringierend (getrocknet)', 'Durchfallhemmend (getrocknet)', 'Augenstärkend', 'Antioxidativ', 'Blutzuckersenkend', 'Gefässschützend'],
+      hauptwirkungen: ['Adstringierend (getrocknet)', 'Durchfallhemmend (getrocknet)', 'Augenstärkend', 'Antioxidativ', 'Blutzuckersenkend', 'Gefäßschützend'],
       inhaltsstoffe: ['Anthocyane (Myrtillin)', 'Gerbstoffe (Catechine)', 'Pektine', 'Fruchtsäuren', 'Vitamin C', 'Vitamin E', 'Flavonoide', 'Chrom', 'Mangan'],
     },
     ernte: {
       zeit: 'Beeren von Juli bis September, Blätter vor der Blüte im Mai-Juni.',
       teile: 'Reife Beeren (frisch und getrocknet), Blätter.',
       tipps: 'Wilde Heidelbeeren in bodennah wachsenden Beständen sammeln -- auf Fuchsbandwurm achten und Beeren vor dem Rohverzehr gründlich waschen oder kurz erhitzen. Zum Trocknen auf Gittern ausbreiten.',
-      mond: 'Beeren bei Vollmond ernten für maximale Süsse und Saftfülle.',
+      mond: 'Beeren bei Vollmond ernten für maximale Süße und Saftfülle.',
     },
     zubereitungen: [
       {
@@ -815,7 +815,7 @@ Im Zweiten Weltkrieg berichteten britische Piloten, dass ihre Nachtsicht sich ve
       },
       {
         name: 'Heidelbeerblätter-Tee',
-        anleitung: '2 TL getrocknete Blätter mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. 2-3 Tassen täglich, maximal 2 Wochen am Stück.',
+        anleitung: '2 TL getrocknete Blätter mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 2-3 Tassen täglich, maximal 2 Wochen am Stück.',
         wirkung: 'Blutzuckersenkend, harntreibend, bei leichten Harnwegsinfekten.',
       },
       {
@@ -826,13 +826,13 @@ Im Zweiten Weltkrieg berichteten britische Piloten, dass ihre Nachtsicht sich ve
       {
         name: 'Frische Heidelbeeren als Kur',
         anleitung: 'Täglich 100-200g frische Waldheidelbeeren essen, pur oder im Müsli. Als 3-Wochen-Kur im Sommer.',
-        wirkung: 'Antioxidative Kur, stärkt die Augen, schützt die Gefässe.',
+        wirkung: 'Antioxidative Kur, stärkt die Augen, schützt die Gefäße.',
       },
     ],
     mischungen: ['Durchfalltee (mit Tormentill und Brombeerblättern)', 'Augen-Vital-Mischung (mit Augentrost und Gojibeeren)', 'Diabetes-Tee (mit Bohnenschalen und Brennnessel)'],
-    tcm: 'Kühl und süss-sauer. Nährt Leber-Blut und stärkt die Augen. Klärt feuchte Hitze im unteren Erwärmer.',
+    tcm: 'Kühl und süß-sauer. Nährt Leber-Blut und stärkt die Augen. Klärt feuchte Hitze im unteren Erwärmer.',
     ayurveda: 'Zusammenziehend und kühlend -- senkt Pitta und Kapha. Stärkt die Sehkraft (Drishti) und nährt Rasa und Rakta Dhatu.',
-    volksmedizin: 'Die Heidelbeere war das Haus- und Hofmittel bei Durchfall in ganz Europa. "Heidelbeeren und Fenchel -- und der Durchfall ist schnell" reimten die Grossmütter. Auch bei Zahnfleischbluten, Mundgeschwüren und als "Augenstärker" wurden sie geschätzt.',
+    volksmedizin: 'Die Heidelbeere war das Haus- und Hofmittel bei Durchfall in ganz Europa. "Heidelbeeren und Fenchel -- und der Durchfall ist schnell" reimten die Großmütter. Auch bei Zahnfleischbluten, Mundgeschwüren und als "Augenstärker" wurden sie geschätzt.',
     besonders_bei: ['durchfall', 'augenprobleme', 'diabetes', 'zahnfleischentzuendung', 'gefaessschutz', 'antioxidativ'],
   },
 
@@ -846,7 +846,7 @@ Im Zweiten Weltkrieg berichteten britische Piloten, dass ihre Nachtsicht sich ve
 
 Das Herzgespann ist eine der wichtigsten Herzpflanzen der europäischen Kräuterkunde. Es beruhigt nervöses Herzklopfen, reguliert einen zu schnellen Herzschlag und löst Beklemmungsgefühle in der Brust. Dabei wirkt es nicht auf die Herzmuskelfaser selbst, sondern auf das vegetative Nervensystem -- es beruhigt die Nerven, die das Herz steuern.
 
-Neben der Herzwirkung ist das Herzgespann auch eine wertvolle Frauenpflanze. Es reguliert die Menstruation, lindert Wechseljahresbeschwerden und hat eine milde gebärmutterregulierende Wirkung. In Kombination mit Weissdorn ist es das pflanzliche Herztonikum schlechthin.`,
+Neben der Herzwirkung ist das Herzgespann auch eine wertvolle Frauenpflanze. Es reguliert die Menstruation, lindert Wechseljahresbeschwerden und hat eine milde gebärmutterregulierende Wirkung. In Kombination mit Weißdorn ist es das pflanzliche Herztonikum schlechthin.`,
     geschichte: `Bereits im alten Griechenland wurde das Herzgespann als beruhigendes Herzmittel verwendet. Dioskurides empfahl es bei "Herzgespanntheit" -- dem Gefühl der Enge und Beklemmung in der Brust. Im Mittelalter pflanzten es die Mönche in ihre Klostergärten als Herz- und Frauenmittel.
 
 In Russland und Osteuropa hat das Herzgespann -- "Pustyrnik" genannt -- eine besonders lange Tradition. Es wird dort als Beruhigungsmittel mindestens so häufig eingesetzt wie bei uns der Baldrian. Die russische Pharmakopöe führt es als offizielles Arzneimittel.`,
@@ -863,7 +863,7 @@ In Russland und Osteuropa hat das Herzgespann -- "Pustyrnik" genannt -- eine bes
     zubereitungen: [
       {
         name: 'Herzgespann-Tee',
-        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. 2-3 Tassen täglich. Der Tee ist bitter -- mit Honig süssen.',
+        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 2-3 Tassen täglich. Der Tee ist bitter -- mit Honig süßen.',
         wirkung: 'Beruhigt Herzklopfen, löst Herzangst und Beklemmungsgefühle.',
       },
       {
@@ -873,12 +873,12 @@ In Russland und Osteuropa hat das Herzgespann -- "Pustyrnik" genannt -- eine bes
       },
       {
         name: 'Herzgespann-Wein',
-        anleitung: 'Eine Handvoll frisches Kraut in 750ml Weisswein 2 Wochen einlegen, abseihen. 1 Likörglas abends.',
+        anleitung: 'Eine Handvoll frisches Kraut in 750ml Weißwein 2 Wochen einlegen, abseihen. 1 Likörglas abends.',
         wirkung: 'Traditionelles Herz-Tonikum, beruhigend und stärkend.',
       },
     ],
-    mischungen: ['Herz-Beruhigungstee (mit Weissdorn und Melisse)', 'Wechseljahres-Tee (mit Salbei und Frauenmantel)', 'Nervöses-Herz-Mischung (mit Baldrian und Passionsblume)'],
-    tcm: 'Bitter und leicht kalt. Beruhigt das Herz-Shen, klärt Herz-Hitze und bewegt Blut. Wird bei Herzklopfen, Schlaflosigkeit und unregelmässiger Menstruation eingesetzt.',
+    mischungen: ['Herz-Beruhigungstee (mit Weißdorn und Melisse)', 'Wechseljahres-Tee (mit Salbei und Frauenmantel)', 'Nervöses-Herz-Mischung (mit Baldrian und Passionsblume)'],
+    tcm: 'Bitter und leicht kalt. Beruhigt das Herz-Shen, klärt Herz-Hitze und bewegt Blut. Wird bei Herzklopfen, Schlaflosigkeit und unregelmäßiger Menstruation eingesetzt.',
     ayurveda: 'Bitter und kühlend -- senkt Pitta und beruhigt Vata im Herz-Bereich. Stärkt Prana Vaha Srotas (Herz- und Lungenkanäle).',
     volksmedizin: 'Das Herzgespann war das Herzmittel der einfachen Leute. Bei jedem Herzklopfen, jeder Herzangst und jedem "Herzdruck" griff man zum Herzgespann-Tee. Auch als Frauenmittel bei ausbleibender Menstruation und Wechseljahresbeschwerden war es weit verbreitet.',
     besonders_bei: ['herzklopfen', 'herzrhythmusstoerungen', 'nervositaet', 'wechseljahre', 'menstruationsbeschwerden', 'herzangst'],
@@ -890,28 +890,28 @@ In Russland und Osteuropa hat das Herzgespann -- "Pustyrnik" genannt -- eine bes
   'Hirtentäschel': {
     vollname: 'Gewöhnliches Hirtentäschel (Capsella bursa-pastoris)',
     familie: 'Kreuzblütler (Brassicaceae)',
-    beschreibung: `Das Hirtentäschel ist ein unscheinbares, aber aussergewöhnlich heilkräftiges "Unkraut", das weltweit an Wegen, auf Äckern und in Gärten wächst. Seinen Namen verdankt es den herzförmigen Schötchen, die an kleine Hirtentaschen erinnern. Die grundständige Blattrosette und die winzigen weissen Blüten machen es leicht übersehbar.
+    beschreibung: `Das Hirtentäschel ist ein unscheinbares, aber außergewöhnlich heilkräftiges "Unkraut", das weltweit an Wegen, auf Äckern und in Gärten wächst. Seinen Namen verdankt es den herzförmigen Schötchen, die an kleine Hirtentaschen erinnern. Die grundständige Blattrosette und die winzigen weißen Blüten machen es leicht übersehbar.
 
-Doch dieses bescheidene Kraut birgt eine mächtige Wirkung: Es ist eines der stärksten pflanzlichen Blutstillungsmittel. Die Inhaltsstoffe -- vor allem Peptide und Flavonoide -- wirken gefässverengend und blutstillend. Bei zu starken Monatsblutungen, Nasenbluten und Wundblutungen ist das Hirtentäschel ein verlässlicher Helfer.
+Doch dieses bescheidene Kraut birgt eine mächtige Wirkung: Es ist eines der stärksten pflanzlichen Blutstillungsmittel. Die Inhaltsstoffe -- vor allem Peptide und Flavonoide -- wirken gefäßverengend und blutstillend. Bei zu starken Monatsblutungen, Nasenbluten und Wundblutungen ist das Hirtentäschel ein verlässlicher Helfer.
 
-Zusätzlich wirkt es harntreibend, blutdruckregulierend und entzündungshemmend. In der Frauenheilkunde hat es einen besonderen Stellenwert -- es reguliert die Gebärmutter und wird sowohl bei zu starker als auch bei unregelmässiger Menstruation eingesetzt.`,
+Zusätzlich wirkt es harntreibend, blutdruckregulierend und entzündungshemmend. In der Frauenheilkunde hat es einen besonderen Stellenwert -- es reguliert die Gebärmutter und wird sowohl bei zu starker als auch bei unregelmäßiger Menstruation eingesetzt.`,
     geschichte: `Das Hirtentäschel war schon im alten Rom als Heilpflanze bekannt. Im Ersten Weltkrieg wurde es als Ersatz für Mutterkorn-Präparate eingesetzt, als die Bestände an blutstillenden Arzneimitteln knapp wurden. Ärzte an der Front verwendeten Hirtentäschel-Extrakte zum Stillen von Blutungen.
 
 Pfarrer Kneipp schätzte es als "Blutmittel" und empfahl es bei Nasenbluten und zu starker Menstruation. In der chinesischen Medizin wird das Hirtentäschel seit Jahrhunderten als "Ji Cai" bei Blutungen und Augenleiden verwendet.`,
     wirkungen: {
-      hauptwirkungen: ['Blutstillend (hämostatisch)', 'Gefässverengend', 'Gebärmutter-tonisierend', 'Harntreibend', 'Blutdruckregulierend', 'Entzündungshemmend'],
+      hauptwirkungen: ['Blutstillend (hämostatisch)', 'Gefäßverengend', 'Gebärmutter-tonisierend', 'Harntreibend', 'Blutdruckregulierend', 'Entzündungshemmend'],
       inhaltsstoffe: ['Peptide (blutstillend)', 'Flavonoide (Rutin, Diosmin)', 'Tyramin', 'Histamin', 'Acetylcholin', 'Kaliumsalze', 'Vitamin C und K', 'Senfölglykoside'],
     },
     ernte: {
       zeit: 'Blühendes Kraut von März bis Oktober -- fast das ganze Jahr verfügbar.',
       teile: 'Gesamte oberirdische Pflanze mit Blüten und den typischen Schötchen.',
-      tipps: 'Nur an unbelasteten Standorten sammeln, da es überall wächst -- auch an stark befahrenen Strassen. Schnell im Schatten trocknen. Nicht verwechseln mit dem ähnlichen Acker-Hellerkraut.',
+      tipps: 'Nur an unbelasteten Standorten sammeln, da es überall wächst -- auch an stark befahrenen Straßen. Schnell im Schatten trocknen. Nicht verwechseln mit dem ähnlichen Acker-Hellerkraut.',
       mond: 'Bei abnehmendem Mond ernten für die blutstillende Wirkung.',
     },
     zubereitungen: [
       {
         name: 'Hirtentäschel-Tee',
-        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. 3 Tassen täglich bei starker Menstruation.',
+        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 3 Tassen täglich bei starker Menstruation.',
         wirkung: 'Blutstillend, reguliert zu starke Monatsblutung, harntreibend.',
       },
       {
@@ -926,7 +926,7 @@ Pfarrer Kneipp schätzte es als "Blutmittel" und empfahl es bei Nasenbluten und 
       },
     ],
     mischungen: ['Frauen-Regulationstee (mit Schafgarbe und Frauenmantel)', 'Blutstillungstee (mit Blutwurz und Schafgarbe)', 'Blasen-Nieren-Tee (mit Goldrute und Bärentraube)'],
-    tcm: 'Ji Cai -- süss und kühlend. Stärkt die Milz, klärt die Augen, stillt Blutungen und leitet Feuchtigkeit aus. Wird bei Uterusblutungen und Ödemen eingesetzt.',
+    tcm: 'Ji Cai -- süß und kühlend. Stärkt die Milz, klärt die Augen, stillt Blutungen und leitet Feuchtigkeit aus. Wird bei Uterusblutungen und Ödemen eingesetzt.',
     ayurveda: 'Zusammenziehend und kühlend -- senkt Pitta und stoppt Blutungen. Wirkt auf Rakta Dhatu (Blutgewebe) und reguliert den Blutfluss.',
     volksmedizin: 'Das Hirtentäschel war das "Notpflaster" der Volksmedizin. Bei Nasenbluten wurde frisches Kraut in die Nase gesteckt, bei Wundblutungen aufgelegt, bei zu starker Periode als Tee getrunken. Auch als Frühjahrskur zur Blutreinigung wurde es geschätzt.',
     besonders_bei: ['starke_menstruation', 'nasenbluten', 'wundblutung', 'harnwegsinfekt', 'bluthochdruck', 'geburtshilfe'],
@@ -938,12 +938,12 @@ Pfarrer Kneipp schätzte es als "Blutmittel" und empfahl es bei Nasenbluten und 
   'Honigklee': {
     vollname: 'Echter Steinklee (Melilotus officinalis)',
     familie: 'Hülsenfrüchtler (Fabaceae)',
-    beschreibung: `Der Honigklee, auch Steinklee oder Melilotenklee genannt, ist eine zweijährige Pflanze mit aufrechtem Wuchs, dreiteiligen Blättern und langen Trauben aus kleinen, gelben Schmetterlingsblüten. Sein süsser Duft nach frischem Heu und Honig -- besonders beim Trocknen -- macht ihn unverwechselbar. Dieser Duft stammt vom Cumarin, das beim Welken freigesetzt wird.
+    beschreibung: `Der Honigklee, auch Steinklee oder Melilotenklee genannt, ist eine zweijährige Pflanze mit aufrechtem Wuchs, dreiteiligen Blättern und langen Trauben aus kleinen, gelben Schmetterlingsblüten. Sein süßer Duft nach frischem Heu und Honig -- besonders beim Trocknen -- macht ihn unverwechselbar. Dieser Duft stammt vom Cumarin, das beim Welken freigesetzt wird.
 
 Der Honigklee ist eine herausragende Venenpflanze. Seine Inhaltsstoffe -- Cumarine, Flavonoide und Saponine -- stärken die Venenwände, verbessern den Lymphfluss und hemmen Entzündungen. Er wird bei Krampfadern, schweren Beinen, Ödemen und Venenentzündungen eingesetzt und ist Bestandteil vieler pharmazeutischer Venenpräparate.
 
-Darüber hinaus wirkt der Honigklee mild blutverdünnend, krampflösend und verdauungsfördernd. In der äusseren Anwendung lindert er Prellungen, Blutergüsse und geschwollene Lymphknoten.`,
-    geschichte: `Der Name "Melilotus" kommt vom griechischen "meli" (Honig) und "lotos" (Klee) -- ein Hinweis auf seinen Wert als Bienenweide und seinen süssen Duft. Bereits Hippokrates und Dioskurides setzten den Steinklee als Wundauflage und Erweichungsmittel ein.
+Darüber hinaus wirkt der Honigklee mild blutverdünnend, krampflösend und verdauungsfördernd. In der äußeren Anwendung lindert er Prellungen, Blutergüsse und geschwollene Lymphknoten.`,
+    geschichte: `Der Name "Melilotus" kommt vom griechischen "meli" (Honig) und "lotos" (Klee) -- ein Hinweis auf seinen Wert als Bienenweide und seinen süßen Duft. Bereits Hippokrates und Dioskurides setzten den Steinklee als Wundauflage und Erweichungsmittel ein.
 
 Im Mittelalter war das Steinkleepflaster -- "Meliloten-Pflaster" -- in jeder Apotheke vorrätig. Es wurde bei Geschwüren, Entzündungen und als Erweichungsmittel auf verhärtete Drüsen aufgelegt. Paracelsus nutzte den Honigklee als Venenmittel -- eine Anwendung, die bis heute Bestand hat.`,
     wirkungen: {
@@ -953,13 +953,13 @@ Im Mittelalter war das Steinkleepflaster -- "Meliloten-Pflaster" -- in jeder Apo
     ernte: {
       zeit: 'Blühendes Kraut von Juni bis September.',
       teile: 'Blühende Triebspitzen mit Blättern.',
-      tipps: 'Nur gelb blühenden Steinklee (Melilotus officinalis) verwenden, nicht den weiss blühenden. Langsam trocknen -- dabei entwickelt sich der typische Cumarin-Duft. Nicht zu grosse Mengen auf einmal verwenden.',
+      tipps: 'Nur gelb blühenden Steinklee (Melilotus officinalis) verwenden, nicht den weiß blühenden. Langsam trocknen -- dabei entwickelt sich der typische Cumarin-Duft. Nicht zu große Mengen auf einmal verwenden.',
       mond: 'Bei abnehmendem Mond ernten für die abschwellende Wirkung.',
     },
     zubereitungen: [
       {
         name: 'Honigklee-Tee',
-        anleitung: '1-2 TL getrocknetes blühendes Kraut mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. 2-3 Tassen täglich.',
+        anleitung: '1-2 TL getrocknetes blühendes Kraut mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 2-3 Tassen täglich.',
         wirkung: 'Venenstärkend, abschwellend bei müden, schweren Beinen.',
       },
       {
@@ -1007,12 +1007,12 @@ In Florenz wurde die Iriswurzel seit dem Mittelalter angebaut und zu Parfüm ver
     zubereitungen: [
       {
         name: 'Veilchenwurzel als Zahnungshilfe',
-        anleitung: 'Ein getrocknetes, geschältes Stück Iriswurzel (ca. 5 cm) dem zahnenden Baby zum Kauen geben. Regelmässig auf Bissspuren und Absplitterungen prüfen.',
+        anleitung: 'Ein getrocknetes, geschältes Stück Iriswurzel (ca. 5 cm) dem zahnenden Baby zum Kauen geben. Regelmäßig auf Bissspuren und Absplitterungen prüfen.',
         wirkung: 'Lindert Zahnungsschmerzen, regt den Speichelfluss an.',
       },
       {
         name: 'Iriswurzel-Hustentee',
-        anleitung: '1/2 TL gemahlene Iriswurzel in 250ml heissem Wasser 10 Minuten ziehen lassen. Mit Honig süssen. 2 Tassen täglich.',
+        anleitung: '1/2 TL gemahlene Iriswurzel in 250ml heißem Wasser 10 Minuten ziehen lassen. Mit Honig süßen. 2 Tassen täglich.',
         wirkung: 'Schleimlösend bei Husten und Bronchitis.',
       },
       {
@@ -1024,7 +1024,7 @@ In Florenz wurde die Iriswurzel seit dem Mittelalter angebaut und zu Parfüm ver
     mischungen: ['Hustentee (mit Thymian und Eibisch)', 'Räuchermischung (mit Weihrauch und Myrrhe)', 'Zahnungstee für Mütter (mit Kamille und Melisse)'],
     tcm: 'Scharf und warm. Öffnet die Lungen-Leitbahn und löst Schleim. Bewegt stagniertes Qi in der Brust.',
     ayurveda: 'Wärmend und trocknend -- senkt Kapha und löst Schleim (Ama) in den Atemwegen. Öffnet die Prana Vaha Srotas.',
-    volksmedizin: 'Die Veilchenwurzel war das klassische Zahnungsmittel für Babys in ganz Europa. Auch als Räuchermittel bei Erkältungen -- man legte Iriswurzel auf heisse Kohlen und inhalierte den Dampf -- hatte sie einen festen Platz. In der Parfümerie ist sie bis heute unersetzlich.',
+    volksmedizin: 'Die Veilchenwurzel war das klassische Zahnungsmittel für Babys in ganz Europa. Auch als Räuchermittel bei Erkältungen -- man legte Iriswurzel auf heiße Kohlen und inhalierte den Dampf -- hatte sie einen festen Platz. In der Parfümerie ist sie bis heute unersetzlich.',
     besonders_bei: ['zahnung', 'husten', 'bronchitis', 'verschleimung', 'zahnschmerzen'],
   },
 
@@ -1034,14 +1034,14 @@ In Florenz wurde die Iriswurzel seit dem Mittelalter angebaut und zu Parfüm ver
   'Johannisbeere': {
     vollname: 'Schwarze Johannisbeere (Ribes nigrum)',
     familie: 'Stachelbeergewächse (Grossulariaceae)',
-    beschreibung: `Die Schwarze Johannisbeere ist ein wahrer Schatz der Naturheilkunde. Ihre glänzend schwarzen Beeren sind Vitamin-C-Bomben -- sie enthalten drei- bis viermal so viel Vitamin C wie Zitronen. Doch die grösste Heilkraft steckt in den Blättern und den Knospen, die in der Gemmotherapie als eines der vielseitigsten Mittel gelten.
+    beschreibung: `Die Schwarze Johannisbeere ist ein wahrer Schatz der Naturheilkunde. Ihre glänzend schwarzen Beeren sind Vitamin-C-Bomben -- sie enthalten drei- bis viermal so viel Vitamin C wie Zitronen. Doch die größte Heilkraft steckt in den Blättern und den Knospen, die in der Gemmotherapie als eines der vielseitigsten Mittel gelten.
 
 Die Blätter der Schwarzen Johannisbeere wirken stark entzündungshemmend, harntreibend und antirheumatisch. Sie enthalten Flavonoide, Gerbstoffe und ätherisches Öl, das dem Kraut seinen typischen, leicht herben Duft verleiht. Besonders bei Gicht und Rheuma zeigen sie eine bemerkenswerte Wirkung -- sie fördern die Ausscheidung von Harnsäure.
 
 Das Knospenmazerat (Gemmotherapie) der Schwarzen Johannisbeere wird als "pflanzliches Cortison" bezeichnet, da es die Nebennierenrinde stimuliert und körpereigenes Cortisol freisetzt. Es wirkt bei Allergien, Entzündungen und Erschöpfung.`,
     geschichte: `Die Schwarze Johannisbeere wurde im Mittelalter vor allem wegen ihres strengen Geruchs geschätzt -- man glaubte, er vertreibe die Pest. In Frankreich wird der Likör "Crème de Cassis" aus den Beeren hergestellt, der auch medizinisch als Stärkungsmittel eingesetzt wurde.
 
-Der französische Arzt Abbé Bailly de Montaran machte die Schwarze Johannisbeere im 18. Jahrhundert als Heilpflanze berühmt. Er nannte sie "Elisir de longue vie" -- Lebenselixier -- und empfahl sie bei praktisch allen Krankheiten. In der modernen Gemmotherapie ist sie das am häufigsten eingesetzte Mittel.`,
+Der französische Arzt Abbé Bailly de Montaran machte die Schwarze Johannisbeere im 18. Jahrhundert als Heilpflanze berühmt. Er nannte sie "Elisir de longü vie" -- Lebenselixier -- und empfahl sie bei praktisch allen Krankheiten. In der modernen Gemmotherapie ist sie das am häufigsten eingesetzte Mittel.`,
     wirkungen: {
       hauptwirkungen: ['Entzündungshemmend (cortisonähnlich)', 'Immunstimulierend', 'Antiallergisch', 'Harntreibend', 'Antirheumatisch', 'Vitamin-C-reich'],
       inhaltsstoffe: ['Vitamin C (180mg/100g)', 'Anthocyane', 'Flavonoide', 'Gamma-Linolensäure (Samenöl)', 'Gerbstoffe', 'Ätherisches Öl', 'Pektine', 'Kalium'],
@@ -1055,12 +1055,12 @@ Der französische Arzt Abbé Bailly de Montaran machte die Schwarze Johannisbeer
     zubereitungen: [
       {
         name: 'Johannisbeerblätter-Tee',
-        anleitung: '2 TL getrocknete Blätter mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. 3-4 Tassen täglich bei Gelenkbeschwerden.',
+        anleitung: '2 TL getrocknete Blätter mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 3-4 Tassen täglich bei Gelenkbeschwerden.',
         wirkung: 'Entzündungshemmend, harntreibend, fördert Harnsäure-Ausscheidung bei Gicht.',
       },
       {
         name: 'Johannisbeer-Saft',
-        anleitung: 'Frische Beeren entsaften und mit Honig süssen. 1-2 Gläser täglich als Vitamin-C-Kur.',
+        anleitung: 'Frische Beeren entsaften und mit Honig süßen. 1-2 Gläser täglich als Vitamin-C-Kur.',
         wirkung: 'Immunstärkend, antioxidativ, vitalisierend.',
       },
       {
@@ -1075,7 +1075,7 @@ Der französische Arzt Abbé Bailly de Montaran machte die Schwarze Johannisbeer
       },
     ],
     mischungen: ['Gicht-Tee (mit Brennnessel und Birkenblättern)', 'Immun-Tee (mit Hagebutte und Holunderbeeren)', 'Allergie-Mischung (Gemmotherapie mit Rosmarin-Knospen)'],
-    tcm: 'Kühl und süss-sauer. Nährt Leber-Yin und Nieren-Yin, klärt Wind-Hitze und stärkt die Abwehr (Wei-Qi).',
+    tcm: 'Kühl und süß-sauer. Nährt Leber-Yin und Nieren-Yin, klärt Wind-Hitze und stärkt die Abwehr (Wei-Qi).',
     ayurveda: 'Kühlend und nährend -- senkt Pitta, stärkt Ojas. Reich an Amla-Rasa (saurem Geschmack), der die Verdauung fördert und das Blut reinigt.',
     volksmedizin: 'In der Volksmedizin Frankreichs galt die Schwarze Johannisbeere als Allheilmittel. Saft bei Erkältungen, Blättertee bei Gicht, Likör bei Schwäche. In Russland wurde der Tee aus den Blättern als tägliches Gesundheitsgetränk getrunken.',
     besonders_bei: ['gicht', 'rheuma', 'allergien', 'immunschwaeche', 'entzuendungen', 'erschoepfung'],
@@ -1087,9 +1087,9 @@ Der französische Arzt Abbé Bailly de Montaran machte die Schwarze Johannisbeer
   'Kaffee': {
     vollname: 'Arabica-Kaffee (Coffea arabica)',
     familie: 'Rötegewächse (Rubiaceae)',
-    beschreibung: `Der Kaffeestrauch ist eine immergrüne Pflanze mit glänzend dunkelgrünen Blättern und duftenden weissen Blüten, die sich zu kirschähnlichen roten Früchten entwickeln. In jeder Frucht stecken zwei Samen -- die Kaffeebohnen. Kaffee ist das am meisten konsumierte psychoaktive Getränk der Welt, doch nur wenige kennen seine vielseitige medizinische Wirkung.
+    beschreibung: `Der Kaffeestrauch ist eine immergrüne Pflanze mit glänzend dunkelgrünen Blättern und duftenden weißen Blüten, die sich zu kirschähnlichen roten Früchten entwickeln. In jeder Frucht stecken zwei Samen -- die Kaffeebohnen. Kaffee ist das am meisten konsumierte psychoaktive Getränk der Welt, doch nur wenige kennen seine vielseitige medizinische Wirkung.
 
-Coffein, der Hauptwirkstoff, ist ein starkes Stimulans des zentralen Nervensystems. Es erweitert die Bronchien, steigert die Herzfrequenz, verengt die Hirngefässe (daher die Wirkung bei Kopfschmerzen) und fördert die Harnausscheidung. Darüber hinaus enthält Kaffee über 1.000 bioaktive Substanzen -- darunter Chlorogensäure, die antioxidativ und blutzuckerregulierend wirkt.
+Coffein, der Hauptwirkstoff, ist ein starkes Stimulans des zentralen Nervensystems. Es erweitert die Bronchien, steigert die Herzfrequenz, verengt die Hirngefäße (daher die Wirkung bei Kopfschmerzen) und fördert die Harnausscheidung. Darüber hinaus enthält Kaffee über 1.000 bioaktive Substanzen -- darunter Chlorogensäure, die antioxidativ und blutzuckerregulierend wirkt.
 
 Moderne Studien zeigen, dass moderater Kaffeekonsum das Risiko für Parkinson, Alzheimer, Diabetes Typ 2 und Lebererkrankungen senken kann. In der Homöopathie wird Coffea als Mittel gegen Schlaflosigkeit und Überempfindlichkeit eingesetzt.`,
     geschichte: `Der Legende nach entdeckte ein äthiopischer Ziegenhirt namens Kaldi, dass seine Ziegen nach dem Fressen roter Beeren eines bestimmten Strauchs ungewöhnlich munter wurden. Mönche eines nahen Klosters bereiteten daraus einen Aufguss, der ihnen beim nächtlichen Gebet half.
@@ -1109,7 +1109,7 @@ Von Äthiopien gelangte der Kaffee nach Arabien, wo er im 15. Jahrhundert als "Q
       {
         name: 'Espresso bei Migräne',
         anleitung: 'Einen doppelten Espresso mit dem Saft einer halben Zitrone trinken. Am Beginn der Migräne-Aura am wirksamsten.',
-        wirkung: 'Die Kombination aus Coffein und Citronensäure verengt die Hirngefässe und kann eine Migräneattacke abschwächen oder stoppen.',
+        wirkung: 'Die Kombination aus Coffein und Citronensäure verengt die Hirngefäße und kann eine Migräneattacke abschwächen oder stoppen.',
       },
       {
         name: 'Kaffee-Einlauf (Gerson-Therapie)',
@@ -1117,14 +1117,14 @@ Von Äthiopien gelangte der Kaffee nach Arabien, wo er im 15. Jahrhundert als "Q
         wirkung: 'Stimuliert die Gallenproduktion und die Entgiftungsleistung der Leber.',
       },
       {
-        name: 'Kaffee-Peeling (äusserlich)',
+        name: 'Kaffee-Peeling (äußerlich)',
         anleitung: 'Kaffeesatz mit Olivenöl und etwas Honig zu einer Paste verrühren. Haut damit sanft einreiben und mit warmem Wasser abspülen.',
         wirkung: 'Durchblutungsfördernd, straffend, peelend. Soll gegen Cellulite helfen.',
       },
     ],
     mischungen: ['Migräne-Trank (Espresso mit Zitrone)', 'Grüner Kaffee-Extrakt (ungeröstet, als Nahrungsergänzung)', 'Kaffee-Gewürz-Mischung (mit Kardamom, Zimt und Nelken -- "arabischer Kaffee")'],
-    tcm: 'Bitter und warm. Hebt Yang-Qi, öffnet die Sinne und vertreibt Wind-Kälte. Kann bei Übermass Yin und Blut verbrauchen und innere Hitze erzeugen.',
-    ayurveda: 'Heiss, bitter und trocken -- stark Vata-erhöhend. In kleinen Mengen stärkt Kaffee Agni und den Geist. Im Übermass erschöpft er Ojas und stört den Schlaf. Für Pitta-Typen weniger geeignet.',
+    tcm: 'Bitter und warm. Hebt Yang-Qi, öffnet die Sinne und vertreibt Wind-Kälte. Kann bei Übermaß Yin und Blut verbrauchen und innere Hitze erzeugen.',
+    ayurveda: 'Heiß, bitter und trocken -- stark Vata-erhöhend. In kleinen Mengen stärkt Kaffee Agni und den Geist. Im Übermaß erschöpft er Ojas und stört den Schlaf. Für Pitta-Typen weniger geeignet.',
     volksmedizin: 'In der arabischen Volksmedizin war Kaffee Medizin und Genuss zugleich. Man trank ihn bei Kopfschmerzen, Verdauungsproblemen und als Stärkungsmittel. In Europa wurde er als "Türkentrank" zunächst misstrauisch beäugt, dann begeistert aufgenommen.',
     besonders_bei: ['kopfschmerzen', 'migraene', 'muedigkeit', 'asthma', 'konzentrationsschwaeche', 'verdauungstraegheit'],
   },
@@ -1135,16 +1135,16 @@ Von Äthiopien gelangte der Kaffee nach Arabien, wo er im 15. Jahrhundert als "Q
   'Kakao': {
     vollname: 'Kakaobaum (Theobroma cacao)',
     familie: 'Malvengewächse (Malvaceae)',
-    beschreibung: `Der Kakaobaum -- "Theobroma", Speise der Götter -- ist ein tropischer Baum, dessen grosse, farbenfrohe Früchte direkt am Stamm wachsen. In jeder Frucht liegen 30-50 Samen eingebettet in weisses, süsses Fruchtfleisch. Diese Samen werden fermentiert, getrocknet und geröstet -- daraus entsteht Kakao, einer der komplexesten Pflanzenstoffe der Welt.
+    beschreibung: `Der Kakaobaum -- "Theobroma", Speise der Götter -- ist ein tropischer Baum, dessen große, farbenfrohe Früchte direkt am Stamm wachsen. In jeder Frucht liegen 30-50 Samen eingebettet in weißes, süßes Fruchtfleisch. Diese Samen werden fermentiert, getrocknet und geröstet -- daraus entsteht Kakao, einer der komplexesten Pflanzenstoffe der Welt.
 
 Roher Kakao enthält über 300 identifizierte Substanzen und ist eines der magnesiumreichsten Lebensmittel überhaupt. Theobromin, sein Hauptwirkstoff, ist ein milder, langanhaltender Stimulans, das die Stimmung hebt, die Durchblutung fördert und die Bronchien erweitert -- ohne die nervöse Unruhe, die Coffein erzeugen kann. Dazu kommen Phenylethylamin (PEA), das "Liebeshormon", und Anandamid, das "Glücksmolekül".
 
-In der modernen Ernährungswissenschaft gilt dunkle Schokolade (ab 70% Kakaoanteil) als funktionelles Lebensmittel -- sie senkt den Blutdruck, verbessert die Gefässelastizität und schützt das Herz-Kreislauf-System.`,
+In der modernen Ernährungswissenschaft gilt dunkle Schokolade (ab 70% Kakaoanteil) als funktionelles Lebensmittel -- sie senkt den Blutdruck, verbessert die Gefäßelastizität und schützt das Herz-Kreislauf-System.`,
     geschichte: `Die Maya und Azteken verehrten den Kakao als göttliche Pflanze. Kakao war so wertvoll, dass Kakaobohnen als Zahlungsmittel dienten. Der Aztekenkönig Montezuma trank täglich goldene Kelche voll "Xocolatl" -- ein bitteres, mit Chili und Vanille gewürztes Kakaogetränk.
 
-Als Hernán Cortés 1519 den Kakao nach Europa brachte, wurde er zunächst als Medizin verkauft -- gegen Fieber, Erschöpfung und Melancholie. Erst als man begann, ihn mit Zucker zu süssen, wurde er zum Genussmittel. Der schwedische Naturforscher Linné gab ihm den Namen "Theobroma" -- Götterspeise.`,
+Als Hernán Cortés 1519 den Kakao nach Europa brachte, wurde er zunächst als Medizin verkauft -- gegen Fieber, Erschöpfung und Melancholie. Erst als man begann, ihn mit Zucker zu süßen, wurde er zum Genussmittel. Der schwedische Naturforscher Linné gab ihm den Namen "Theobroma" -- Götterspeise.`,
     wirkungen: {
-      hauptwirkungen: ['Stimmungsaufhellend', 'Herzschützend (kardioprotektiv)', 'Blutdrucksenkend', 'Gefässerweiternd', 'Antioxidativ', 'Bronchien-erweiternd'],
+      hauptwirkungen: ['Stimmungsaufhellend', 'Herzschützend (kardioprotektiv)', 'Blutdrucksenkend', 'Gefäßerweiternd', 'Antioxidativ', 'Bronchien-erweiternd'],
       inhaltsstoffe: ['Theobromin', 'Phenylethylamin (PEA)', 'Anandamid', 'Flavanole (Epicatechin)', 'Magnesium', 'Eisen', 'Zink', 'Tryptophan', 'Coffein (gering)'],
     },
     ernte: {
@@ -1156,23 +1156,23 @@ Als Hernán Cortés 1519 den Kakao nach Europa brachte, wurde er zunächst als M
     zubereitungen: [
       {
         name: 'Zeremonieller Kakao',
-        anleitung: '30-40g rohe Kakaomasse in 200ml heissem Wasser auflösen, mit einer Prise Chili, Zimt und Vanille würzen. Langsam und achtsam trinken.',
+        anleitung: '30-40g rohe Kakaomasse in 200ml heißem Wasser auflösen, mit einer Prise Chili, Zimt und Vanille würzen. Langsam und achtsam trinken.',
         wirkung: 'Herzöffnend, stimmungsaufhellend, meditationsfördernd. Traditionelle Zeremonie der Maya.',
       },
       {
         name: 'Kakao-Trinkschokolade (medizinisch)',
-        anleitung: '2 TL rohes Kakaopulver in 250ml warmer Pflanzenmilch auflösen, mit Honig süssen und einer Prise Kurkuma verfeinern.',
+        anleitung: '2 TL rohes Kakaopulver in 250ml warmer Pflanzenmilch auflösen, mit Honig süßen und einer Prise Kurkuma verfeinern.',
         wirkung: 'Nährend, stimmungsaufhellend, magnesiumreich. Abends als Nervennahrung.',
       },
       {
-        name: 'Kakao-Gesichtsmaske (äusserlich)',
+        name: 'Kakao-Gesichtsmaske (äußerlich)',
         anleitung: '1 EL rohes Kakaopulver mit 1 TL Honig und 1 TL Joghurt verrühren. Auf das Gesicht auftragen, 15 Minuten einwirken lassen.',
         wirkung: 'Antioxidative Hautpflege, durchblutungsfördernd, straffend.',
       },
     ],
     mischungen: ['Herzöffnungs-Kakao (mit Rose, Kardamom und Vanille)', 'Energie-Kakao (mit Maca und Lucuma)', 'Schlaf-Kakao (mit Ashwagandha und Reishi)'],
-    tcm: 'Bitter und warm. Hebt das Herz-Yang, belebt den Geist (Shen) und öffnet die Brust. In Übermass erzeugt er feuchte Hitze.',
-    ayurveda: 'Bitter, leicht zusammenziehend. Stärkt Ojas und hebt Sattva-Qualität. Wirkt Medhya (geistfördernd). In Übermass kann er Vata und Pitta erhöhen.',
+    tcm: 'Bitter und warm. Hebt das Herz-Yang, belebt den Geist (Shen) und öffnet die Brust. In Übermaß erzeugt er feuchte Hitze.',
+    ayurveda: 'Bitter, leicht zusammenziehend. Stärkt Ojas und hebt Sattva-Qualität. Wirkt Medhya (geistfördernd). In Übermaß kann er Vata und Pitta erhöhen.',
     volksmedizin: 'Die Maya verwendeten Kakao als Medizin gegen Fieber, Husten und Erschöpfung. In Europa wurde er im 17. und 18. Jahrhundert als Stärkungsmittel für Kranke und Rekonvaleszenten verordnet. Kakaobutter war bis ins 20. Jahrhundert ein wichtiger Salbengrundstoff in der Apotheke.',
     besonders_bei: ['depression', 'stimmungstiefs', 'herz_kreislauf', 'erschoepfung', 'bluthochdruck', 'magnesiummangel'],
   },
@@ -1183,16 +1183,16 @@ Als Hernán Cortés 1519 den Kakao nach Europa brachte, wurde er zunächst als M
   'Kampfer': {
     vollname: 'Kampferbaum (Cinnamomum camphora)',
     familie: 'Lorbeergewächse (Lauraceae)',
-    beschreibung: `Der Kampferbaum ist ein mächtiger, immergrüner Baum aus Ostasien, der über 1.000 Jahre alt werden kann. Aus seinem Holz und seinen Blättern wird Kampfer gewonnen -- ein weisser, kristalliner Stoff mit einem intensiven, durchdringenden Geruch, der die Sinne sofort öffnet. Kampfer war über Jahrhunderte eines der wichtigsten Arzneimittel der Welt.
+    beschreibung: `Der Kampferbaum ist ein mächtiger, immergrüner Baum aus Ostasien, der über 1.000 Jahre alt werden kann. Aus seinem Holz und seinen Blättern wird Kampfer gewonnen -- ein weißer, kristalliner Stoff mit einem intensiven, durchdringenden Geruch, der die Sinne sofort öffnet. Kampfer war über Jahrhunderte eines der wichtigsten Arzneimittel der Welt.
 
-Kampfer wirkt stark durchblutungsfördernd, schmerzlindernd und entzündungshemmend, wenn er äusserlich aufgetragen wird. Die typische kühlend-wärmende Empfindung auf der Haut beruht auf seiner Reizwirkung auf die Kälte- und Wärmerezeptoren der Haut. Innerlich wirkt er kreislaufanregend und als Atemstimulans -- in der Notfallmedizin früherer Zeiten war Kampfer das Mittel gegen Kreislaufversagen.
+Kampfer wirkt stark durchblutungsfördernd, schmerzlindernd und entzündungshemmend, wenn er äußerlich aufgetragen wird. Die typische kühlend-wärmende Empfindung auf der Haut beruht auf seiner Reizwirkung auf die Kälte- und Wärmerezeptoren der Haut. Innerlich wirkt er kreislaufanregend und als Atemstimulans -- in der Notfallmedizin früherer Zeiten war Kampfer das Mittel gegen Kreislaufversagen.
 
-In der modernen Medizin wird Kampfer vor allem äusserlich eingesetzt -- in Einreibungen bei Muskel- und Gelenkschmerzen, als Inhalationsmittel bei Erkältungen und als Bestandteil von Erkältungsbalsamen. Innerlich ist er wegen seiner Giftigkeit bei Überdosierung nur noch in homöopathischen Dosen gebräuchlich.`,
+In der modernen Medizin wird Kampfer vor allem äußerlich eingesetzt -- in Einreibungen bei Muskel- und Gelenkschmerzen, als Inhalationsmittel bei Erkältungen und als Bestandteil von Erkältungsbalsamen. Innerlich ist er wegen seiner Giftigkeit bei Überdosierung nur noch in homöopathischen Dosen gebräuchlich.`,
     geschichte: `Kampfer war in China und Japan seit über 2.000 Jahren als Heilmittel und Räucherstoff bekannt. Marco Polo brachte Kampfer im 13. Jahrhundert nach Europa, wo er als exotisches Arzneimittel zu astronomischen Preisen gehandelt wurde.
 
 Im 18. und 19. Jahrhundert war "Camphora" in jeder Apotheke vorrätig -- als Kreislaufmittel, Herzstimulans und bei Ohnmachten. Samuel Hahnemann, der Begründer der Homöopathie, setzte Camphora bei Epidemien ein und berichtete von Erfolgen bei der Cholera. Auch heute noch ist Kampfer ein fester Bestandteil vieler Erkältungsbalsame.`,
     wirkungen: {
-      hauptwirkungen: ['Durchblutungsfördernd (äusserlich)', 'Schmerzlindernd (äusserlich)', 'Atemwegsbefreiend', 'Kreislaufanregend', 'Antiseptisch', 'Kühlend-wärmend auf der Haut'],
+      hauptwirkungen: ['Durchblutungsfördernd (äußerlich)', 'Schmerzlindernd (äußerlich)', 'Atemwegsbefreiend', 'Kreislaufanregend', 'Antiseptisch', 'Kühlend-wärmend auf der Haut'],
       inhaltsstoffe: ['Kampfer (Campher)', 'Cineol', 'Linalool', 'Safrol', 'Terpineol', 'Limonen', 'Pinen'],
     },
     ernte: {
@@ -1209,7 +1209,7 @@ Im 18. und 19. Jahrhundert war "Camphora" in jeder Apotheke vorrätig -- als Kre
       },
       {
         name: 'Kampfer-Inhalation',
-        anleitung: 'Einige Tropfen Kampferöl in eine Schüssel mit heissem Wasser geben, ein Tuch über den Kopf legen und 5-10 Minuten inhalieren.',
+        anleitung: 'Einige Tropfen Kampferöl in eine Schüssel mit heißem Wasser geben, ein Tuch über den Kopf legen und 5-10 Minuten inhalieren.',
         wirkung: 'Befreit die Atemwege bei Erkältung, Schnupfen und Bronchitis.',
       },
       {
@@ -1224,8 +1224,8 @@ Im 18. und 19. Jahrhundert war "Camphora" in jeder Apotheke vorrätig -- als Kre
       },
     ],
     mischungen: ['Erkältungsbalsam (mit Eukalyptus und Pfefferminze)', 'Rheuma-Einreibung (mit Rosmarin und Wacholder)', 'Brustwickel-Mischung (mit Thymian und Lavendel)'],
-    tcm: 'Heiss und scharf. Öffnet die Sinnesöffnungen, vertreibt Kälte und belebt das Yang. Wird äusserlich bei Wind-Kälte-Bi (Gelenkschmerzen) und bei Bewusstlosigkeit eingesetzt.',
-    ayurveda: 'Karpura (Kampfer) ist scharf, bitter und heiss. Er reduziert Kapha und Vata, kann aber Pitta erhöhen. Traditionell als Räucherung zur Reinigung und in Einreibungen bei Schmerzen verwendet.',
+    tcm: 'Heiß und scharf. Öffnet die Sinnesöffnungen, vertreibt Kälte und belebt das Yang. Wird äußerlich bei Wind-Kälte-Bi (Gelenkschmerzen) und bei Bewusstlosigkeit eingesetzt.',
+    ayurveda: 'Karpura (Kampfer) ist scharf, bitter und heiß. Er reduziert Kapha und Vata, kann aber Pitta erhöhen. Traditionell als Räucherung zur Reinigung und in Einreibungen bei Schmerzen verwendet.',
     volksmedizin: 'Kampfer war das "Riechsalz" der Volksmedizin. Bei Ohnmacht hielt man den Kranken Kampfer unter die Nase. Bei Erkältungen rieb man Brust und Rücken damit ein. Kampfersäckchen in der Kleidung sollten vor Motten und vor Ansteckung schützen.',
     besonders_bei: ['muskelschmerzen', 'gelenkschmerzen', 'erkaeltung', 'kreislaufschwaeche', 'bronchitis', 'durchblutungsstoerungen'],
   },

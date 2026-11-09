@@ -11,7 +11,7 @@ export const HERB_DEEP_12 = {
   'Kardamom': {
     vollname: 'Kardamom (Elettaria cardamomum)',
     familie: 'Ingwergewächse (Zingiberaceae)',
-    beschreibung: `Kardamom gehört zu den ältesten und edelsten Gewürzen der Welt und wird oft als "Königin der Gewürze" bezeichnet. Die mehrjährige, krautige Pflanze bildet schilfähnliche Triebe mit lanzettlichen Blättern und dreieckige, grüne Fruchtkapseln, die die aromatischen Samen enthalten. Der Duft ist warm, süsslich und zugleich frisch-würzig -- unverwechselbar und vielschichtig.
+    beschreibung: `Kardamom gehört zu den ältesten und edelsten Gewürzen der Welt und wird oft als "Königin der Gewürze" bezeichnet. Die mehrjährige, krautige Pflanze bildet schilfähnliche Triebe mit lanzettlichen Blättern und dreieckige, grüne Fruchtkapseln, die die aromatischen Samen enthalten. Der Duft ist warm, süßlich und zugleich frisch-würzig -- unverwechselbar und vielschichtig.
 
 In der Heilkunde wird Kardamom vor allem bei Verdauungsbeschwerden geschätzt. Die ätherischen Öle regen die Verdauungssäfte an, lösen Krämpfe im Magen-Darm-Trakt und vertreiben Blähungen zuverlässig. Auch bei Übelkeit und Appetitlosigkeit wirkt er rasch und sanft.
 
@@ -26,18 +26,18 @@ Im Ayurveda gilt Kardamom seit Jahrtausenden als eines der wichtigsten Verdauung
     ernte: {
       zeit: 'Die Kapseln werden kurz vor der Vollreife geerntet, etwa 3 Jahre nach der Pflanzung.',
       teile: 'Fruchtkapseln mit den darin enthaltenen Samen.',
-      tipps: 'Samen erst kurz vor der Verwendung aus der Kapsel lösen und mörsern -- so bleibt das volle Aroma erhalten. Ganze Kapseln in einem luftdichten Gefäss lagern.',
+      tipps: 'Samen erst kurz vor der Verwendung aus der Kapsel lösen und mörsern -- so bleibt das volle Aroma erhalten. Ganze Kapseln in einem luftdichten Gefäß lagern.',
       mond: 'Bei zunehmendem Mond ernten für die stärkste Aromaentfaltung.',
     },
     zubereitungen: [
       {
         name: 'Kardamom-Tee',
-        anleitung: '3-4 Kardamomkapseln leicht andrücken und mit 250ml kochendem Wasser übergiessen. 10 Minuten ziehen lassen, abseihen. Mit Honig süssen.',
+        anleitung: '3-4 Kardamomkapseln leicht andrücken und mit 250ml kochendem Wasser übergießen. 10 Minuten ziehen lassen, abseihen. Mit Honig süßen.',
         wirkung: 'Verdauungsfördernd, wärmend, bei Blähungen und Völlegefühl.',
       },
       {
         name: 'Kardamom-Milch',
-        anleitung: '4 Kapseln aufbrechen, Samen mörsern und in 250ml warme Milch einrühren. 5 Minuten ziehen lassen, abseihen. Mit etwas Honig und einer Prise Safran geniessen.',
+        anleitung: '4 Kapseln aufbrechen, Samen mörsern und in 250ml warme Milch einrühren. 5 Minuten ziehen lassen, abseihen. Mit etwas Honig und einer Prise Safran genießen.',
         wirkung: 'Beruhigend, schlaffördernd, wärmend bei Erkältungen.',
       },
       {
@@ -61,14 +61,14 @@ Im Ayurveda gilt Kardamom seit Jahrtausenden als eines der wichtigsten Verdauung
     familie: 'Lippenblütler (Lamiaceae)',
     beschreibung: `Die Katzenminze ist eine ausdauernde, aromatische Staude, die bis zu einem Meter hoch werden kann. Ihre graugrünen, herzförmigen Blätter verströmen einen minzigen, leicht zitronigen Duft, der auf Katzen eine berauschende Wirkung hat -- daher der Name. Für den Menschen ist sie jedoch ein sanftes, beruhigendes Heilkraut.
 
-In der Heilkunde wird Katzenminze vor allem als nervenberuhigendes und krampflösendes Mittel geschätzt. Sie hilft bei Schlafstörungen, Nervosität und innerer Unruhe. Gleichzeitig wirkt sie schweisstreibend und fiebersenkend, weshalb sie ein bewährtes Erkältungsmittel ist.
+In der Heilkunde wird Katzenminze vor allem als nervenberuhigendes und krampflösendes Mittel geschätzt. Sie hilft bei Schlafstörungen, Nervosität und innerer Unruhe. Gleichzeitig wirkt sie schweißtreibend und fiebersenkend, weshalb sie ein bewährtes Erkältungsmittel ist.
 
 Auch auf den Verdauungstrakt hat Katzenminze eine wohltuende Wirkung. Sie löst Krämpfe, lindert Blähungen und beruhigt einen gereizten Magen. Besonders in der Kinderheilkunde ist sie beliebt, da ihre Wirkung zuverlässig und dabei sehr mild ist.`,
     geschichte: `Die Katzenminze wurde bereits im Mittelalter in europäischen Klostergärten kultiviert. Vor der Einführung des chinesischen Tees war sie in England eines der beliebtesten Aufgussgetränke und wurde in Tavernen als "Catnip Tea" ausgeschenkt.
 
 Die Kräuterkundigen des Mittelalters setzten sie bei Fieber, Koliken und "bösen Träumen" ein. In der nordamerikanischen Volksmedizin nutzten die Ureinwohner sie als Beruhigungsmittel und bei Verdauungsbeschwerden der Kinder.`,
     wirkungen: {
-      hauptwirkungen: ['Beruhigend (sedativ)', 'Krampflösend', 'Schweisstreibend', 'Fiebersenkend', 'Blähungswidrig', 'Schlaffördernd'],
+      hauptwirkungen: ['Beruhigend (sedativ)', 'Krampflösend', 'Schweißtreibend', 'Fiebersenkend', 'Blähungswidrig', 'Schlaffördernd'],
       inhaltsstoffe: ['Nepetalacton', 'Ätherisches Öl', 'Gerbstoffe', 'Bitterstoffe', 'Flavonoide', 'Rosmarinsäure', 'Citronellol', 'Geraniol'],
     },
     ernte: {
@@ -80,12 +80,12 @@ Die Kräuterkundigen des Mittelalters setzten sie bei Fieber, Koliken und "böse
     zubereitungen: [
       {
         name: 'Katzenminze-Tee',
-        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergiessen, 10 Minuten zugedeckt ziehen lassen, abseihen. 2-3 Tassen täglich.',
-        wirkung: 'Beruhigend, schlaffördernd, bei Erkältung schweisstreibend.',
+        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergießen, 10 Minuten zugedeckt ziehen lassen, abseihen. 2-3 Tassen täglich.',
+        wirkung: 'Beruhigend, schlaffördernd, bei Erkältung schweißtreibend.',
       },
       {
         name: 'Katzenminze-Bad',
-        anleitung: '100g getrocknetes Kraut mit 2 Litern kochendem Wasser übergiessen, 20 Minuten ziehen lassen, abseihen und dem Badewasser zugeben.',
+        anleitung: '100g getrocknetes Kraut mit 2 Litern kochendem Wasser übergießen, 20 Minuten ziehen lassen, abseihen und dem Badewasser zugeben.',
         wirkung: 'Entspannend, krampflösend, hilfreich bei Unruhe und Einschlafproblemen.',
       },
       {
@@ -111,7 +111,7 @@ Die Kräuterkundigen des Mittelalters setzten sie bei Fieber, Koliken und "böse
 
 In der Heilkunde werden vor allem die jungen Triebspitzen (Kiefernsprossen), das Harz und die Nadeln verwendet. Das ätherische Kiefernöl wirkt stark schleimlösend, desinfizierend und durchblutungsfördernd. Bei Atemwegserkrankungen, Erkältungen und Bronchitis ist die Kiefer eines der wichtigsten Baummittel.
 
-Äusserlich angewendet fördert Kiefernöl die Durchblutung und lindert Muskel- und Gelenkschmerzen. Kiefernbäder sind ein traditionsreiches Heilmittel bei Rheuma, Nervenschmerzen und Erschöpfungszuständen. Die Kiefer verbindet kraftvolle äussere Wirkung mit einer befreienden Wirkung auf die Atemwege.`,
+Äußerlich angewendet fördert Kiefernöl die Durchblutung und lindert Muskel- und Gelenkschmerzen. Kiefernbäder sind ein traditionsreiches Heilmittel bei Rheuma, Nervenschmerzen und Erschöpfungszuständen. Die Kiefer verbindet kraftvolle äußere Wirkung mit einer befreienden Wirkung auf die Atemwege.`,
     geschichte: `Die Kiefer war bereits in der Antike ein geschätzter Heilbaum. Hippokrates empfahl Kiefernharz bei Lungenleiden, und die Römer nutzten Kiefernnadel-Bäder zur Stärkung und Erholung der Soldaten.
 
 In der germanischen Tradition war die Kiefer ein Baum des Lichts und der Ausdauer. Die Volksmedizin nutzte Kiefernteer bei Hauterkrankungen und Kiefernsprossen-Sirup als bewährtes Hustenmittel, das bis heute in vielen Familien zubereitet wird.`,
@@ -138,13 +138,13 @@ In der germanischen Tradition war die Kiefer ein Baum des Lichts und der Ausdaue
       },
       {
         name: 'Kiefernnadel-Inhalation',
-        anleitung: 'Eine Handvoll frische Kiefernnadeln in einen Topf mit heissem Wasser geben. Alternativ 3-5 Tropfen Kiefernöl. Mit einem Handtuch über dem Kopf 10 Minuten inhalieren.',
+        anleitung: 'Eine Handvoll frische Kiefernnadeln in einen Topf mit heißem Wasser geben. Alternativ 3-5 Tropfen Kiefernöl. Mit einem Handtuch über dem Kopf 10 Minuten inhalieren.',
         wirkung: 'Befreit die Atemwege, desinfizierend bei Erkältung und Sinusitis.',
       },
     ],
     mischungen: ['Erkältungsbad (mit Fichtennadeln und Eukalyptus)', 'Hustentee (mit Thymian und Spitzwegerich)', 'Rheumasalbe (mit Wacholder und Rosmarin)'],
     tcm: 'Die Kiefer wird der Lunge und Blase zugeordnet. Sie vertreibt Wind-Kälte, transformiert Schleim und stärkt das Wei-Qi (Abwehr-Qi). Ihr Harz bewegt Blut und löst Stagnation.',
-    ayurveda: 'Kiefernöl reduziert Kapha durch seine trocknende, wärmende Natur. Es stärkt Prana Vayu (Atemenergie) und klärt die Srotas (Körperkanäle). Kann Pitta bei übermässiger Anwendung erhöhen.',
+    ayurveda: 'Kiefernöl reduziert Kapha durch seine trocknende, wärmende Natur. Es stärkt Prana Vayu (Atemenergie) und klärt die Srotas (Körperkanäle). Kann Pitta bei übermäßiger Anwendung erhöhen.',
     volksmedizin: 'In der Volksmedizin war die Kiefer eines der wichtigsten Baummittel. Kiefernteer wurde bei Hautflechten aufgetragen, Kiefernsprossen-Sirup gegen Husten gegeben. Kiefernharz kaute man bei Zahnschmerzen, und Kiefernnadel-Kissen legte man unter das Kopfkissen bei Atemwegserkrankungen.',
     besonders_bei: ['husten', 'bronchitis', 'erkältung', 'rheuma', 'muskelverspannungen', 'erschöpfung'],
   },
@@ -153,13 +153,13 @@ In der germanischen Tradition war die Kiefer ein Baum des Lichts und der Ausdaue
   // 4. KIRSCHBAUM
   // ═══════════════════════════════════════════════════════════════════════════
   'Kirschbaum': {
-    vollname: 'Süsskirsche (Prunus avium)',
+    vollname: 'Süßkirsche (Prunus avium)',
     familie: 'Rosengewächse (Rosaceae)',
-    beschreibung: `Der Kirschbaum ist ein stattlicher Obstbaum, der im Frühling mit einer überwältigenden weissen Blütenpracht begeistert und im Sommer süsse, saftige Früchte hervorbringt. In der Heilkunde werden neben den Früchten vor allem die Stiele der Kirschen und die Rinde verwendet, die eine bemerkenswerte harntreibende und entzündungshemmende Wirkung besitzen.
+    beschreibung: `Der Kirschbaum ist ein stattlicher Obstbaum, der im Frühling mit einer überwältigenden weißen Blütenpracht begeistert und im Sommer süße, saftige Früchte hervorbringt. In der Heilkunde werden neben den Früchten vor allem die Stiele der Kirschen und die Rinde verwendet, die eine bemerkenswerte harntreibende und entzündungshemmende Wirkung besitzen.
 
 Die Kirschstiele sind das eigentliche Heilmittel des Baumes. Sie wirken stark harntreibend und werden seit Jahrhunderten bei Harnwegsinfekten, Wassereinlagerungen und zur Entschlackung eingesetzt. Die Früchte selbst sind reich an Anthocyanen, Vitaminen und Mineralstoffen und wirken antioxidativ und entzündungshemmend.
 
-Auch das Kirschharz (Kirschgummi), das an Verletzungsstellen des Stammes austritt, wurde früher volksmedizinisch bei Husten und Heiserkeit genutzt. Die Kirsche ist ein Baum, der Freude und Gesundheit gleichermassen schenkt.`,
+Auch das Kirschharz (Kirschgummi), das an Verletzungsstellen des Stammes austritt, wurde früher volksmedizinisch bei Husten und Heiserkeit genutzt. Die Kirsche ist ein Baum, der Freude und Gesundheit gleichermaßen schenkt.`,
     geschichte: `Der Kirschbaum stammt ursprünglich aus Kleinasien und wurde der Legende nach 74 v. Chr. vom römischen Feldherrn Lucullus aus der Stadt Giresun (damals Kerasos) nach Rom gebracht -- daher der lateinische Name Cerasus.
 
 In der mittelalterlichen Klosterheilkunde waren Kirschstiel-Abkochungen ein wichtiges Nierenmittel. Hildegard von Bingen empfahl Kirschen bei Gicht, und die Volksmedizin nutzte Kirschkernkissen als Wärmespeicher bei Verspannungen und Bauchschmerzen.`,
@@ -187,12 +187,12 @@ In der mittelalterlichen Klosterheilkunde waren Kirschstiel-Abkochungen ein wich
       {
         name: 'Kirschkernkissen',
         anleitung: 'Kirschkerne gründlich waschen, gut trocknen lassen und in einen Baumwollbeutel füllen. Im Backofen bei 150 Grad oder in der Mikrowelle erwärmen.',
-        wirkung: 'Wärmeanwendung bei Verspannungen, Bauchschmerzen und kalten Füssen.',
+        wirkung: 'Wärmeanwendung bei Verspannungen, Bauchschmerzen und kalten Füßen.',
       },
     ],
     mischungen: ['Blasentee (mit Bärentraube und Goldrute)', 'Gicht-Kur (mit Selleriesaft und Brennnessel)', 'Entschlackungstee (mit Birkenblättern und Schachtelhalm)'],
     tcm: 'Die Kirsche wirkt wärmend und nährend. Sie tonisiert Qi und Blut, stärkt die Milz und vertreibt Feuchtigkeit. Die Stiele leiten Feuchtigkeit über die Blase aus.',
-    ayurveda: 'Süsskirschen wirken Pitta- und Vata-beruhigend durch ihren süssen, kühlenden Geschmack. Die Stiele haben eine trocknende Wirkung und reduzieren Kapha.',
+    ayurveda: 'Süßkirschen wirken Pitta- und Vata-beruhigend durch ihren süßen, kühlenden Geschmack. Die Stiele haben eine trocknende Wirkung und reduzieren Kapha.',
     volksmedizin: 'In der Volksmedizin wurden Kirschstiele als eines der besten natürlichen Entwässerungsmittel angesehen. Man gab den Tee bei Wassersucht, Blasenentzündung und zur Frühjahrskur. Kirschgummi wurde in Wasser aufgelöst und bei Husten und Heiserkeit getrunken.',
     besonders_bei: ['harnwegsinfekt', 'wassereinlagerungen', 'gicht', 'blasenentzündung', 'entschlackung', 'rheuma'],
   },
@@ -205,31 +205,31 @@ In der mittelalterlichen Klosterheilkunde waren Kirschstiel-Abkochungen ein wich
     familie: 'Mohngewächse (Papaveraceae)',
     beschreibung: `Der Klatschmohn ist eine der auffälligsten Wildblumen Europas mit seinen leuchtend roten, hauchdünnen Blütenblättern, die wie Seide im Wind flattern. Im Gegensatz zum Schlafmohn enthält er keine nennenswerten Mengen an Morphin und ist daher ein sanftes, mildes Heilmittel. Seine Blütenblätter enthalten beruhigende Alkaloide wie Rhoeadin.
 
-In der Heilkunde werden ausschliesslich die Blütenblätter verwendet. Sie wirken mild beruhigend, krampflösend und hustenstillend. Besonders in der Kinderheilkunde hat der Klatschmohn seinen Platz, da seine Wirkung sanft genug für Kinder ist, um bei Husten, Unruhe und Schlafstörungen zu helfen.
+In der Heilkunde werden ausschließlich die Blütenblätter verwendet. Sie wirken mild beruhigend, krampflösend und hustenstillend. Besonders in der Kinderheilkunde hat der Klatschmohn seinen Platz, da seine Wirkung sanft genug für Kinder ist, um bei Husten, Unruhe und Schlafstörungen zu helfen.
 
 Die tiefrote Farbe der Blüten zeigt den hohen Gehalt an Anthocyanen an. Ein Sirup aus Klatschmohnblüten ist ein wunderschönes, rubinrotes Hausmittel, das Kinder gerne nehmen. Die Pflanze verbindet Schönheit mit sanfter Heilkraft.`,
     geschichte: `Der Klatschmohn begleitet den Ackerbau seit der Jungsteinzeit -- er ist ein typischer Kulturfolger. In der ägyptischen Mythologie war er der Göttin Isis geweiht, und die Römer streuten Mohnblüten als Symbol der Fruchtbarkeit.
 
 Im Mittelalter verwendeten die Klosterheiler Klatschmohnblüten-Sirup als mildes Beruhigungsmittel für Kinder. In England wurde der rote Mohn zum Symbol der Gefallenen des Ersten Weltkriegs, nachdem er auf den Schlachtfeldern Flanderns als erste Pflanze wieder blühte.`,
     wirkungen: {
-      hauptwirkungen: ['Mild beruhigend', 'Hustenstillend', 'Krampflösend', 'Schlaffördernd (mild)', 'Schmerzlindernd (leicht)', 'Schweisstreibend'],
+      hauptwirkungen: ['Mild beruhigend', 'Hustenstillend', 'Krampflösend', 'Schlaffördernd (mild)', 'Schmerzlindernd (leicht)', 'Schweißtreibend'],
       inhaltsstoffe: ['Rhoeadin', 'Anthocyane', 'Papaverin (Spuren)', 'Schleimstoffe', 'Gerbstoffe', 'Flavonoide', 'Meconsäure', 'Alkaloide (mild)'],
     },
     ernte: {
       zeit: 'Blütenblätter von Mai bis Juli, sobald sich die Blüte geöffnet hat.',
-      teile: 'Ausschliesslich die roten Blütenblätter.',
+      teile: 'Ausschließlich die roten Blütenblätter.',
       tipps: 'Blütenblätter am Morgen sammeln, wenn sie frisch geöffnet sind. Sofort im Schatten auf Papier ausbreiten und zügig trocknen -- sie verlieren sonst ihre Farbe und Wirksamkeit. Auch frisch verarbeiten zu Sirup.',
       mond: 'Bei zunehmendem Mond in einem Blütenzeichen (Zwillinge, Waage, Wassermann) ernten.',
     },
     zubereitungen: [
       {
         name: 'Klatschmohn-Sirup',
-        anleitung: 'Eine Handvoll frische Blütenblätter mit 250ml kochendem Wasser übergiessen, 12 Stunden ziehen lassen. Abseihen, mit der gleichen Menge Zucker aufkochen und in Flaschen füllen. 1-2 TL bei Bedarf.',
+        anleitung: 'Eine Handvoll frische Blütenblätter mit 250ml kochendem Wasser übergießen, 12 Stunden ziehen lassen. Abseihen, mit der gleichen Menge Zucker aufkochen und in Flaschen füllen. 1-2 TL bei Bedarf.',
         wirkung: 'Hustenstillend und beruhigend, besonders für Kinder geeignet.',
       },
       {
         name: 'Klatschmohn-Tee',
-        anleitung: '1-2 TL getrocknete Blütenblätter mit 250ml kochendem Wasser übergiessen, 8 Minuten ziehen lassen, abseihen. 1-2 Tassen täglich, abends bei Schlafstörungen.',
+        anleitung: '1-2 TL getrocknete Blütenblätter mit 250ml kochendem Wasser übergießen, 8 Minuten ziehen lassen, abseihen. 1-2 Tassen täglich, abends bei Schlafstörungen.',
         wirkung: 'Mild beruhigend, bei Reizhusten und Unruhezuständen.',
       },
       {
@@ -241,7 +241,7 @@ Im Mittelalter verwendeten die Klosterheiler Klatschmohnblüten-Sirup als mildes
     mischungen: ['Kinder-Hustentee (mit Eibisch und Malve)', 'Einschlaftee (mit Lavendel und Melisse)', 'Brustwickel-Tee (mit Thymian und Spitzwegerich)'],
     tcm: 'Klatschmohn wirkt kühlend und absenkend. Er beruhigt Shen (Geist), löst leichte Lungen-Hitze und stillt Husten. Wirkt auf Lunge und Herz.',
     ayurveda: 'Wirkt Pitta-beruhigend durch seine kühlende Natur. Gleicht erhöhtes Vata im Nervensystem aus, ohne Kapha stark zu erhöhen.',
-    volksmedizin: 'In der Volksmedizin war Klatschmohn-Sirup das klassische Kinderhustenmittel. Man gab den Kleinen abends einen Löffel für ruhigen Schlaf. Äusserlich wurden die Blütenblätter in warmer Milch eingeweicht und als Umschlag bei Zahnschmerzen aufgelegt.',
+    volksmedizin: 'In der Volksmedizin war Klatschmohn-Sirup das klassische Kinderhustenmittel. Man gab den Kleinen abends einen Löffel für ruhigen Schlaf. Äußerlich wurden die Blütenblätter in warmer Milch eingeweicht und als Umschlag bei Zahnschmerzen aufgelegt.',
     besonders_bei: ['husten', 'schlafstörungen', 'unruhe', 'reizhusten', 'kinderheilkunde', 'nervosität'],
   },
 
@@ -253,15 +253,15 @@ Im Mittelalter verwendeten die Klosterheiler Klatschmohnblüten-Sirup als mildes
     familie: 'Orchideen (Orchidaceae)',
     beschreibung: `Das Knabenkraut ist eine heimische Orchidee mit aufrechten Blütentrauben in Purpur- bis Rosatönen und dunkel gefleckten Blättern. Die Pflanze bildet zwei hodenförmige Knollen aus -- die pralle, junge Knolle und die verschrumpelte, alte. Diese Knollen sind der eigentliche Heilstoff und liefern den berühmten Salep.
 
-Salep ist ein schleimreiches Pulver aus den getrockneten Knollen, das eine aussergewöhnlich einhüllende und reizlindernde Wirkung auf alle Schleimhäute besitzt. Bei Magen-Darm-Entzündungen, Durchfall und Reizungen der Atemwege ist Salep ein sanftes, nährendes Heilmittel, das die angegriffenen Schleimhäute schützend umhüllt.
+Salep ist ein schleimreiches Pulver aus den getrockneten Knollen, das eine außergewöhnlich einhüllende und reizlindernde Wirkung auf alle Schleimhäute besitzt. Bei Magen-Darm-Entzündungen, Durchfall und Reizungen der Atemwege ist Salep ein sanftes, nährendes Heilmittel, das die angegriffenen Schleimhäute schützend umhüllt.
 
-Wichtig: Alle heimischen Orchideen stehen unter strengem Naturschutz. Die Pflanze darf nicht gesammelt werden. Salep wird heute ausschliesslich aus dem Anbau oder Import gewonnen. Dennoch lohnt es sich, dieses alte Heilmittel zu kennen.`,
+Wichtig: Alle heimischen Orchideen stehen unter strengem Naturschutz. Die Pflanze darf nicht gesammelt werden. Salep wird heute ausschließlich aus dem Anbau oder Import gewonnen. Dennoch lohnt es sich, dieses alte Heilmittel zu kennen.`,
     geschichte: `Der Name Orchidee leitet sich vom griechischen "orchis" (Hoden) ab -- eine Anspielung auf die Form der Knollen. In der antiken Signaturenlehre galt das Knabenkraut deshalb als Fruchtbarkeitsmittel und Aphrodisiakum.
 
 Dioskurides beschrieb die Pflanze ausführlich, und im Orient wurde Salep über Jahrhunderte als stärkendes Volksgetränk geschätzt. In Istanbul trinkt man bis heute Sahlep -- ein warmes, dickflüssiges Getränk aus Salep-Pulver mit Zimt und Milch.`,
     wirkungen: {
       hauptwirkungen: ['Einhüllend (demulzierend)', 'Reizlindernd', 'Nährend', 'Durchfallhemmend', 'Schleimhautschützend', 'Stärkend'],
-      inhaltsstoffe: ['Schleimstoffe (Glucomannan)', 'Stärke', 'Zucker', 'Eiweiss', 'Mineralstoffe', 'Spurenelemente', 'Gerbstoffe (wenig)'],
+      inhaltsstoffe: ['Schleimstoffe (Glucomannan)', 'Stärke', 'Zucker', 'Eiweiß', 'Mineralstoffe', 'Spurenelemente', 'Gerbstoffe (wenig)'],
     },
     ernte: {
       zeit: 'Historisch: die junge Knolle nach der Blüte im Sommer. Heute: nur aus Anbau oder Handel.',
@@ -272,7 +272,7 @@ Dioskurides beschrieb die Pflanze ausführlich, und im Orient wurde Salep über 
     zubereitungen: [
       {
         name: 'Salep-Getränk',
-        anleitung: '1 TL Salep-Pulver in etwas kalter Milch anrühren (damit es nicht klumpt). 250ml heisse Milch dazugeben und unter Rühren kurz aufkochen. Mit Zimt und Honig würzen.',
+        anleitung: '1 TL Salep-Pulver in etwas kalter Milch anrühren (damit es nicht klumpt). 250ml heiße Milch dazugeben und unter Rühren kurz aufkochen. Mit Zimt und Honig würzen.',
         wirkung: 'Nährend, stärkend, schleimhautschützend bei Magen-Darm-Beschwerden.',
       },
       {
@@ -299,7 +299,7 @@ Dioskurides beschrieb die Pflanze ausführlich, und im Orient wurde Salep über 
   'Kreuzkümmel': {
     vollname: 'Kreuzkümmel (Cuminum cyminum)',
     familie: 'Doldenblütler (Apiaceae)',
-    beschreibung: `Kreuzkümmel, auch Cumin genannt, ist ein einjähriges Doldengewächs mit zarten, fein gefiederten Blättern und kleinen weissen bis rosafarbenen Blüten. Seine länglichen, gerippten Samen verströmen ein intensives, warm-erdiges Aroma, das an den Orient erinnert. Er darf nicht mit dem heimischen Kümmel verwechselt werden -- beide sind verwandt, schmecken aber völlig verschieden.
+    beschreibung: `Kreuzkümmel, auch Cumin genannt, ist ein einjähriges Doldengewächs mit zarten, fein gefiederten Blättern und kleinen weißen bis rosafarbenen Blüten. Seine länglichen, gerippten Samen verströmen ein intensives, warm-erdiges Aroma, das an den Orient erinnert. Er darf nicht mit dem heimischen Kümmel verwechselt werden -- beide sind verwandt, schmecken aber völlig verschieden.
 
 In der Heilkunde ist Kreuzkümmel eines der wirksamsten Verdauungsgewürze überhaupt. Er regt die Sekretion von Verdauungsenzymen an, löst Blähungen und Krämpfe im Darm und fördert die Aufnahme von Nährstoffen. Besonders bei schwer verdaulichen Speisen wie Hülsenfrüchten wirkt er wahre Wunder.
 
@@ -320,7 +320,7 @@ Im mittelalterlichen Europa galt Kreuzkümmel als Symbol der Treue -- Brautpaare
     zubereitungen: [
       {
         name: 'Kreuzkümmel-Tee',
-        anleitung: '1 TL Kreuzkümmelsamen leicht andrücken und mit 250ml kochendem Wasser übergiessen. 10 Minuten zugedeckt ziehen lassen, abseihen. Nach den Mahlzeiten trinken.',
+        anleitung: '1 TL Kreuzkümmelsamen leicht andrücken und mit 250ml kochendem Wasser übergießen. 10 Minuten zugedeckt ziehen lassen, abseihen. Nach den Mahlzeiten trinken.',
         wirkung: 'Verdauungsfördernd, blähungswidrig, bei Völlegefühl und Bauchkrämpfen.',
       },
       {
@@ -330,7 +330,7 @@ Im mittelalterlichen Europa galt Kreuzkümmel als Symbol der Treue -- Brautpaare
       },
       {
         name: 'Kreuzkümmel-Öl',
-        anleitung: '3 EL leicht angeröstete Kreuzkümmelsamen in 200ml Sesamöl einlegen. 2 Wochen an einem warmen Ort ziehen lassen, abseihen. Äusserlich auf den Bauch einmassieren.',
+        anleitung: '3 EL leicht angeröstete Kreuzkümmelsamen in 200ml Sesamöl einlegen. 2 Wochen an einem warmen Ort ziehen lassen, abseihen. Äußerlich auf den Bauch einmassieren.',
         wirkung: 'Krampflösend und wärmend bei Bauchschmerzen und Blähungen.',
       },
     ],
@@ -347,7 +347,7 @@ Im mittelalterlichen Europa galt Kreuzkümmel als Symbol der Treue -- Brautpaare
   'Lauch': {
     vollname: 'Lauch / Porree (Allium porrum)',
     familie: 'Amaryllisgewächse (Amaryllidaceae)',
-    beschreibung: `Der Lauch, auch Porree genannt, ist eine der ältesten Kulturpflanzen der Menschheit und ein kraftvolles Heilgemüse. Mit seinem dicken, weissen Schaft und den dunkelgrünen, fächerförmigen Blättern ist er in der Küche allgegenwärtig. Seine heilende Wirkung wird dabei oft unterschätzt -- er ist weitaus mehr als nur ein Suppengemüse.
+    beschreibung: `Der Lauch, auch Porree genannt, ist eine der ältesten Kulturpflanzen der Menschheit und ein kraftvolles Heilgemüse. Mit seinem dicken, weißen Schaft und den dunkelgrünen, fächerförmigen Blättern ist er in der Küche allgegenwärtig. Seine heilende Wirkung wird dabei oft unterschätzt -- er ist weitaus mehr als nur ein Suppengemüse.
 
 Lauch enthält schwefelhaltige Verbindungen (Allicin und verwandte Stoffe), die stark antibakteriell, schleimlösend und durchblutungsfördernd wirken. Er ist ein bewährtes Mittel bei Erkältungen und Atemwegserkrankungen. Gleichzeitig wirkt er harntreibend und unterstützt die Nierentätigkeit.
 
@@ -357,11 +357,11 @@ Auch auf das Herz-Kreislauf-System hat Lauch eine positive Wirkung. Die schwefel
 In Wales ist der Lauch das Nationalsymbol und wird am St. David's Day am Hut getragen. In der mittelalterlichen Heilkunde galt er als reinigendes, "das Blut verdünnendes" Mittel und wurde bei Harnsteinen und Atemwegserkrankungen verordnet.`,
     wirkungen: {
       hauptwirkungen: ['Schleimlösend', 'Harntreibend', 'Antibakteriell', 'Durchblutungsfördernd', 'Verdauungsanregend', 'Cholesterinsenkend'],
-      inhaltsstoffe: ['Allicin', 'Schwefelverbindungen', 'Flavonoide (Kaempferol)', 'Vitamin C', 'Vitamin K', 'Folsäure', 'Eisen', 'Inulin'],
+      inhaltsstoffe: ['Allicin', 'Schwefelverbindungen', 'Flavonoide (Kämpferol)', 'Vitamin C', 'Vitamin K', 'Folsäure', 'Eisen', 'Inulin'],
     },
     ernte: {
       zeit: 'Ganzjährig aus dem Garten, Haupterntezeit von Oktober bis März.',
-      teile: 'Gesamter Schaft -- sowohl der weisse als auch der hellgrüne Teil.',
+      teile: 'Gesamter Schaft -- sowohl der weiße als auch der hellgrüne Teil.',
       tipps: 'Den Lauch vor dem ersten starken Frost ernten oder mit Stroh anhäufeln für die Winterernte. Die dunkelgrünen Blattteile eignen sich hervorragend für Brühen und enthalten besonders viele Mineralstoffe.',
       mond: 'Bei abnehmendem Mond ernten, wenn die Kräfte in den unteren Teil der Pflanze ziehen.',
     },
@@ -378,14 +378,14 @@ In Wales ist der Lauch das Nationalsymbol und wird am St. David's Day am Hut get
       },
       {
         name: 'Lauch-Umschlag',
-        anleitung: 'Lauch in feine Streifen schneiden, kurz in heissem Wasser blanchieren. Warm auf ein Tuch geben und auf die schmerzende Stelle legen.',
+        anleitung: 'Lauch in feine Streifen schneiden, kurz in heißem Wasser blanchieren. Warm auf ein Tuch geben und auf die schmerzende Stelle legen.',
         wirkung: 'Durchblutungsfördernd, entzündungshemmend bei Gelenkschmerzen und Insektenstichen.',
       },
     ],
     mischungen: ['Erkältungssuppe (mit Ingwer und Knoblauch)', 'Frühjahrskur-Saft (mit Sellerie und Brennnessel)', 'Bronchial-Mischung (mit Zwiebel und Thymian)'],
     tcm: 'Lauch ist warm und scharf. Er wärmt Yang, vertreibt Kälte und bewegt Qi und Blut. Wirkt besonders auf Lunge, Magen und Niere. Bei Yang-Mangel mit Kältesymptomen hilfreich.',
-    ayurveda: 'Lauch reduziert Kapha und Vata durch seine scharfe, wärmende Natur. Er stärkt Agni und reinigt die Srotas. Kann Pitta bei Übermass erhöhen.',
-    volksmedizin: 'In der europäischen Volksmedizin war Lauch ein beliebtes Erkältungsmittel. Die Lauch-Milch-Suppe galt als Hausmittel gegen Husten. Äusserlich legte man Lauchscheiben auf Furunkel, um sie zum Reifen zu bringen.',
+    ayurveda: 'Lauch reduziert Kapha und Vata durch seine scharfe, wärmende Natur. Er stärkt Agni und reinigt die Srotas. Kann Pitta bei Übermaß erhöhen.',
+    volksmedizin: 'In der europäischen Volksmedizin war Lauch ein beliebtes Erkältungsmittel. Die Lauch-Milch-Suppe galt als Hausmittel gegen Husten. Äußerlich legte man Lauchscheiben auf Furunkel, um sie zum Reifen zu bringen.',
     besonders_bei: ['erkältung', 'husten', 'harnwegsinfekt', 'hoher cholesterinspiegel', 'verdauungsschwäche', 'bronchitis'],
   },
 
@@ -399,24 +399,24 @@ In Wales ist der Lauch das Nationalsymbol und wird am St. David's Day am Hut get
 
 In der Heilkunde wird Leinkraut vor allem als harntreibendes und leberanregendes Mittel geschätzt. Es enthält Flavonoide, Iridoidglykoside und Alkaloide, die eine mild abführende, harntreibende und entzündungshemmende Wirkung entfalten. Bei Leber- und Gallenbeschwerden sowie bei Hauterkrankungen wird es traditionell eingesetzt.
 
-Äusserlich angewendet ist Leinkraut ein wirksames Mittel bei Hämorrhoiden und Hautausschlägen. Die alte "Leinkrautsalbe" war in der Volksmedizin ein bewährtes Hämorrhoidenmittel. Die Pflanze hat eine stille, unscheinbare Kraft, die oft unterschätzt wird.`,
+Äußerlich angewendet ist Leinkraut ein wirksames Mittel bei Hämorrhoiden und Hautausschlägen. Die alte "Leinkrautsalbe" war in der Volksmedizin ein bewährtes Hämorrhoidenmittel. Die Pflanze hat eine stille, unscheinbare Kraft, die oft unterschätzt wird.`,
     geschichte: `Der Name Leinkraut bezieht sich auf die leinähnlichen, schmalen Blätter der Pflanze. Im Mittelalter wurde es als "Frauenflachs" oder "Marienflachs" bezeichnet und der Jungfrau Maria geweiht.
 
 Leonhart Fuchs beschrieb es im 16. Jahrhundert als wirksames Mittel bei Gelbsucht und Wassersucht. In der Volksmedizin war die "Leinkrautbutter" -- eine Salbe aus Leinkraut und Schweinefett -- das klassische Hämorrhoidenmittel vieler Regionen.`,
     wirkungen: {
-      hauptwirkungen: ['Harntreibend (diuretisch)', 'Leberanregend', 'Mild abführend', 'Entzündungshemmend', 'Wundheilend (äusserlich)', 'Gallentreibend'],
+      hauptwirkungen: ['Harntreibend (diuretisch)', 'Leberanregend', 'Mild abführend', 'Entzündungshemmend', 'Wundheilend (äußerlich)', 'Gallentreibend'],
       inhaltsstoffe: ['Flavonoide (Linarin)', 'Iridoidglykoside (Antirrhinosid)', 'Alkaloide', 'Pektine', 'Zitronensäure', 'Ameisensäure', 'Gerbstoffe', 'Schleimstoffe'],
     },
     ernte: {
       zeit: 'Blühendes Kraut von Juni bis September.',
       teile: 'Das gesamte oberirdische Kraut mit Blüten.',
-      tipps: 'An sonnigen Standorten wachsende Pflanzen bevorzugen -- sie enthalten mehr Wirkstoffe. In kleinen Sträussen kopfüber trocknen. Nicht zu lange lagern, da die Wirkstoffe nachlassen.',
+      tipps: 'An sonnigen Standorten wachsende Pflanzen bevorzugen -- sie enthalten mehr Wirkstoffe. In kleinen Sträußen kopfüber trocknen. Nicht zu lange lagern, da die Wirkstoffe nachlassen.',
       mond: 'Bei zunehmendem Mond im Blütenzeichen ernten.',
     },
     zubereitungen: [
       {
         name: 'Leinkraut-Tee',
-        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen, abseihen. 2-3 Tassen täglich über maximal 3 Wochen.',
+        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen, abseihen. 2-3 Tassen täglich über maximal 3 Wochen.',
         wirkung: 'Harntreibend und leberanregend bei Leber-Gallen-Beschwerden und Wassereinlagerungen.',
       },
       {
@@ -426,14 +426,14 @@ Leonhart Fuchs beschrieb es im 16. Jahrhundert als wirksames Mittel bei Gelbsuch
       },
       {
         name: 'Leinkraut-Sitzbad',
-        anleitung: '50g getrocknetes Kraut mit 1 Liter kochendem Wasser übergiessen, 15 Minuten ziehen lassen, abseihen und dem Sitzbadwasser zugeben. 15 Minuten baden.',
+        anleitung: '50g getrocknetes Kraut mit 1 Liter kochendem Wasser übergießen, 15 Minuten ziehen lassen, abseihen und dem Sitzbadwasser zugeben. 15 Minuten baden.',
         wirkung: 'Entzündungshemmend und lindernd bei Hämorrhoiden und Analekzemen.',
       },
     ],
     mischungen: ['Lebertee (mit Mariendistel und Löwenzahn)', 'Entwässerungstee (mit Birke und Goldrute)', 'Hämorrhoiden-Salbe (mit Hamamelis und Schafgarbe)'],
     tcm: 'Leinkraut leitet feuchte Hitze aus, besonders aus Leber und Gallenblase. Es bewegt stagnierendes Qi im unteren Erwärmer und fördert die Wasserausscheidung.',
     ayurveda: 'Wirkt Pitta- und Kapha-reduzierend durch seine bittere, trocknende Qualität. Unterstützt die Leber (Yakrit) und reinigt Rasa und Rakta Dhatu.',
-    volksmedizin: 'In der Volksmedizin war Leinkraut vor allem als Hämorrhoidenmittel und Leberpflanze bekannt. Man bereitete Salben und Sitzbäder bei Hämorrhoiden, trank den Tee bei Gelbsucht und Wassersucht. Auch bei Hautausschlägen wurde es äusserlich und innerlich angewendet.',
+    volksmedizin: 'In der Volksmedizin war Leinkraut vor allem als Hämorrhoidenmittel und Leberpflanze bekannt. Man bereitete Salben und Sitzbäder bei Hämorrhoiden, trank den Tee bei Gelbsucht und Wassersucht. Auch bei Hautausschlägen wurde es äußerlich und innerlich angewendet.',
     besonders_bei: ['hämorrhoiden', 'leberbeschwerden', 'gallenbeschwerden', 'wassereinlagerungen', 'hautausschlag', 'gelbsucht'],
   },
 
@@ -443,9 +443,9 @@ Leonhart Fuchs beschrieb es im 16. Jahrhundert als wirksames Mittel bei Gelbsuch
   'Linse': {
     vollname: 'Linse (Lens culinaris)',
     familie: 'Hülsenfrüchtler (Fabaceae)',
-    beschreibung: `Die Linse ist eine der ältesten Kulturpflanzen der Menschheit und wird seit über 10.000 Jahren angebaut. Die zierliche, einjährige Pflanze mit ihren gefiederten Blättern und kleinen, weiss-bläulichen Blüten bringt flache, linsenförmige Samen hervor, die ein kraftvolles Nahrungsheilmittel darstellen. Es gibt zahlreiche Sorten -- von der grünen Alblinse bis zur roten Berglinse.
+    beschreibung: `Die Linse ist eine der ältesten Kulturpflanzen der Menschheit und wird seit über 10.000 Jahren angebaut. Die zierliche, einjährige Pflanze mit ihren gefiederten Blättern und kleinen, weiß-bläulichen Blüten bringt flache, linsenförmige Samen hervor, die ein kraftvolles Nahrungsheilmittel darstellen. Es gibt zahlreiche Sorten -- von der grünen Alblinse bis zur roten Berglinse.
 
-In der Heilkunde wird die Linse als nährendes, stärkendes Lebensmittel geschätzt, das weit mehr als nur Sättigung bietet. Sie ist aussergewöhnlich reich an pflanzlichem Eiweiss, Eisen, Zink und B-Vitaminen. Ihre löslichen Ballaststoffe regulieren den Blutzuckerspiegel sanft und nachhaltig und nähren die Darmflora.
+In der Heilkunde wird die Linse als nährendes, stärkendes Lebensmittel geschätzt, das weit mehr als nur Sättigung bietet. Sie ist außergewöhnlich reich an pflanzlichem Eiweiß, Eisen, Zink und B-Vitaminen. Ihre löslichen Ballaststoffe regulieren den Blutzuckerspiegel sanft und nachhaltig und nähren die Darmflora.
 
 Die Linse stärkt das Blut, nährt den Körper und gibt dem Verdauungssystem Substanz. Besonders bei Eisenmangel, in der Schwangerschaft und bei vegetarischer Ernährung ist sie ein unverzichtbares Heilnahrungsmittel. Gut gewürzt mit Kreuzkümmel und Ingwer wird sie auch für empfindliche Mägen bekömmlich.`,
     geschichte: `Die Linse gehört zu den frühesten domestizierten Pflanzen -- Funde aus dem Vorderen Orient reichen bis 8000 v. Chr. zurück. In der Bibel verkaufte Esau sein Erstgeburtsrecht für ein Linsengericht, was zeigt, wie geschätzt sie war.
@@ -453,7 +453,7 @@ Die Linse stärkt das Blut, nährt den Körper und gibt dem Verdauungssystem Sub
 Im alten Ägypten, Griechenland und Rom galt die Linse als Arme-Leute-Essen, aber auch als stärkendes Nahrungsmittel. Hippokrates empfahl sie bei Verdauungsbeschwerden. In der ayurvedischen Medizin wird die Mung-Dal-Suppe (aus verwandten Hülsenfrüchten) als das heilsamste aller Gerichte angesehen.`,
     wirkungen: {
       hauptwirkungen: ['Blutbildend', 'Nährend und stärkend', 'Blutzuckerregulierend', 'Darmflorafördernd', 'Cholesterinsenkend', 'Eisenspendend'],
-      inhaltsstoffe: ['Pflanzliches Eiweiss (25%)', 'Eisen', 'Zink', 'Folsäure', 'B-Vitamine', 'Lösliche Ballaststoffe', 'Kalium', 'Magnesium'],
+      inhaltsstoffe: ['Pflanzliches Eiweiß (25%)', 'Eisen', 'Zink', 'Folsäure', 'B-Vitamine', 'Lösliche Ballaststoffe', 'Kalium', 'Magnesium'],
     },
     ernte: {
       zeit: 'Samen im Spätsommer, wenn die Hülsen braun und trocken sind.',
@@ -481,7 +481,7 @@ Im alten Ägypten, Griechenland und Rom galt die Linse als Arme-Leute-Essen, abe
     mischungen: ['Eisenkur-Gericht (mit Brennnessel und Rote Bete)', 'Verdauungslinsen (mit Kreuzkümmel, Koriander und Fenchel)', 'Aufbaukost (mit Hafer und Hirse)'],
     tcm: 'Die Linse stärkt Milz-Qi und nährt das Blut. Sie wirkt neutral bis leicht wärmend und hilft bei Qi- und Blutmangel. Tonisiert die Mitte und stabilisiert die Verdauung.',
     ayurveda: 'Rote Linsen (Masoor Dal) sind leichter verdaulich und wirken Kapha-reduzierend. Mit Gewürzen zubereitet gleichen sie alle Doshas aus. Sie nähren Rasa und Rakta Dhatu und stärken Agni.',
-    volksmedizin: 'In der Volksmedizin galt die Linse als "Fleisch der Armen" und wurde bei Blutarmut, Schwäche und in der Rekonvaleszenz verordnet. Linsenmehl wurde äusserlich bei Geschwüren und Abszessen aufgelegt. Linsensuppe war die klassische Krankenkost.',
+    volksmedizin: 'In der Volksmedizin galt die Linse als "Fleisch der Armen" und wurde bei Blutarmut, Schwäche und in der Rekonvaleszenz verordnet. Linsenmehl wurde äußerlich bei Geschwüren und Abszessen aufgelegt. Linsensuppe war die klassische Krankenkost.',
     besonders_bei: ['eisenmangel', 'erschöpfung', 'schwangerschaft', 'blutzuckerschwankungen', 'hoher cholesterinspiegel', 'blutarmut'],
   },
 
@@ -495,29 +495,29 @@ Im alten Ägypten, Griechenland und Rom galt die Linse als Arme-Leute-Essen, abe
 
 Die Lorbeerblätter enthalten ein komplexes ätherisches Öl mit Cineol, Linalool und Eugenol. Sie wirken stark verdauungsfördernd, appetitanregend und blähungswidrig. Darüber hinaus besitzen sie entzündungshemmende und antimikrobielle Eigenschaften, die bei verschiedenen Beschwerden helfen.
 
-Besonders wirksam ist das aus den Beeren gewonnene Lorbeeröl (Oleum Lauri), das äusserlich bei Gelenkschmerzen, Rheuma und Hautproblemen angewendet wird. Es ist auch Hauptbestandteil der berühmten Aleppo-Seife, die für ihre hautpflegenden Eigenschaften geschätzt wird.`,
+Besonders wirksam ist das aus den Beeren gewonnene Lorbeeröl (Oleum Lauri), das äußerlich bei Gelenkschmerzen, Rheuma und Hautproblemen angewendet wird. Es ist auch Hauptbestandteil der berühmten Aleppo-Seife, die für ihre hautpflegenden Eigenschaften geschätzt wird.`,
     geschichte: `Der Lorbeer war in der Antike Apollo geweiht und galt als heiliger Baum. Der Lorbeerkranz war das höchste Ehrenzeichen für Sieger und Dichter -- das Wort "Laureatus" (Lorbeergekrönter) lebt in unserem "Abitur" weiter.
 
 Die Pythia in Delphi kaute Lorbeerblätter, um in Trance zu fallen und Orakelsprüche zu verkünden. Hippokrates und Dioskurides verwendeten Lorbeer bei Verdauungsbeschwerden und Gebärmutterleiden. Im Mittelalter galt er als Schutz gegen Pest und böse Geister.`,
     wirkungen: {
-      hauptwirkungen: ['Verdauungsfördernd', 'Appetitanregend', 'Blähungswidrig', 'Entzündungshemmend', 'Antimikrobiell', 'Schmerzlindernd (äusserlich)'],
+      hauptwirkungen: ['Verdauungsfördernd', 'Appetitanregend', 'Blähungswidrig', 'Entzündungshemmend', 'Antimikrobiell', 'Schmerzlindernd (äußerlich)'],
       inhaltsstoffe: ['Ätherisches Öl (Cineol, Linalool, Eugenol)', 'Bitterstoffe', 'Gerbstoffe', 'Flavonoide', 'Laurinsäure', 'Schleimstoffe', 'Fettsäuren (in Beeren)', 'Sesquiterpenlactone'],
     },
     ernte: {
       zeit: 'Blätter ganzjährig, bevorzugt im Sommer. Beeren im Herbst bei Vollreife.',
       teile: 'Blätter und Beeren.',
-      tipps: 'Getrocknete Blätter entwickeln ein stärkeres Aroma als frische. Langsam an der Luft trocknen und in einem verschlossenen Gefäss aufbewahren. Nur den Echten Lorbeer (Laurus nobilis) verwenden -- der Kirschlorbeer ist giftig!',
+      tipps: 'Getrocknete Blätter entwickeln ein stärkeres Aroma als frische. Langsam an der Luft trocknen und in einem verschlossenen Gefäß aufbewahren. Nur den Echten Lorbeer (Laurus nobilis) verwenden -- der Kirschlorbeer ist giftig!',
       mond: 'Blätter bei zunehmendem Mond ernten, Beeren bei Vollmond.',
     },
     zubereitungen: [
       {
         name: 'Lorbeerblätter-Tee',
-        anleitung: '2-3 getrocknete Lorbeerblätter zerbrechen und mit 250ml kochendem Wasser übergiessen. 10 Minuten ziehen lassen, abseihen. 1-2 Tassen nach den Mahlzeiten.',
+        anleitung: '2-3 getrocknete Lorbeerblätter zerbrechen und mit 250ml kochendem Wasser übergießen. 10 Minuten ziehen lassen, abseihen. 1-2 Tassen nach den Mahlzeiten.',
         wirkung: 'Verdauungsfördernd, blähungswidrig, appetitanregend.',
       },
       {
         name: 'Lorbeeröl-Einreibung',
-        anleitung: '50g zerkleinerte Lorbeerblätter in 200ml Olivenöl einlegen. 3 Wochen an einem warmen Ort ziehen lassen, regelmässig schütteln. Abseihen und in dunkle Flasche füllen.',
+        anleitung: '50g zerkleinerte Lorbeerblätter in 200ml Olivenöl einlegen. 3 Wochen an einem warmen Ort ziehen lassen, regelmäßig schütteln. Abseihen und in dunkle Flasche füllen.',
         wirkung: 'Schmerzlindernd und durchblutungsfördernd bei Gelenk- und Muskelschmerzen.',
       },
       {
@@ -539,22 +539,22 @@ Die Pythia in Delphi kaute Lorbeerblätter, um in Trance zu fallen und Orakelspr
   'Lupine': {
     vollname: 'Süsslupine (Lupinus albus)',
     familie: 'Hülsenfrüchtler (Fabaceae)',
-    beschreibung: `Die Lupine ist eine stattliche Pflanze mit handförmig geteilten Blättern und aufrechten Blütentrauben in Weiss, Blau, Gelb oder Rosa. Die Süsslupine -- im Gegensatz zur bitteren Wildform -- wurde so gezüchtet, dass sie kaum noch bittere Alkaloide enthält und als hochwertiges Nahrungsmittel genutzt werden kann. Ihre Samen zählen zu den proteinreichsten Pflanzensamen überhaupt.
+    beschreibung: `Die Lupine ist eine stattliche Pflanze mit handförmig geteilten Blättern und aufrechten Blütentrauben in Weiß, Blau, Gelb oder Rosa. Die Süsslupine -- im Gegensatz zur bitteren Wildform -- wurde so gezüchtet, dass sie kaum noch bittere Alkaloide enthält und als hochwertiges Nahrungsmittel genutzt werden kann. Ihre Samen zählen zu den proteinreichsten Pflanzensamen überhaupt.
 
-In der Heilkunde werden Lupinensamen als nährendes, blutzuckerregulierendes Lebensmittel geschätzt. Sie enthalten bis zu 40% Eiweiss, wertvolle Aminosäuren und viele Mineralstoffe. Traditionell wurden Lupinen-Abkochungen äusserlich bei Hautproblemen und Ekzemen angewendet.
+In der Heilkunde werden Lupinensamen als nährendes, blutzuckerregulierendes Lebensmittel geschätzt. Sie enthalten bis zu 40% Eiweiß, wertvolle Aminosäuren und viele Mineralstoffe. Traditionell wurden Lupinen-Abkochungen äußerlich bei Hautproblemen und Ekzemen angewendet.
 
 Die Lupine verbessert auch den Boden, auf dem sie wächst -- als Leguminose bindet sie Stickstoff aus der Luft und macht ihn pflanzenverfügbar. Sie ist also eine Pflanze, die nicht nur den Menschen nährt, sondern auch die Erde heilt. In der modernen Ernährung gewinnt Lupinenmehl als glutenfreie, proteinreiche Alternative zunehmend an Bedeutung.`,
     geschichte: `Lupinen wurden bereits vor über 4000 Jahren im Mittelmeerraum und in den Anden kultiviert. Die Römer und Griechen assen die bitteren Samen nach mehrtägigem Wässern -- ein Prozess, der die giftigen Alkaloide auswusch.
 
-Im alten Ägypten war die Lupine eine Fastenspeise. In der Volksmedizin des Mittelmeerraums verwendete man Lupinenwasser äusserlich bei Hautausschlägen und innerlich als Wurmmittel. Die Züchtung der alkaloidarmen Süsslupine in den 1920er Jahren machte sie zum modernen Nahrungsmittel.`,
+Im alten Ägypten war die Lupine eine Fastenspeise. In der Volksmedizin des Mittelmeerraums verwendete man Lupinenwasser äußerlich bei Hautausschlägen und innerlich als Wurmmittel. Die Züchtung der alkaloidarmen Süsslupine in den 1920er Jahren machte sie zum modernen Nahrungsmittel.`,
     wirkungen: {
-      hauptwirkungen: ['Nährend (hochproteinhaltig)', 'Blutzuckerregulierend', 'Hautpflegend (äusserlich)', 'Cholesterinsenkend', 'Darmflorafördernd', 'Bodenverbessernd'],
-      inhaltsstoffe: ['Eiweiss (bis 40%)', 'Essentielle Aminosäuren', 'Ballaststoffe', 'Eisen', 'Magnesium', 'Kalium', 'Carotinoide', 'Tocopherol (Vitamin E)'],
+      hauptwirkungen: ['Nährend (hochproteinhaltig)', 'Blutzuckerregulierend', 'Hautpflegend (äußerlich)', 'Cholesterinsenkend', 'Darmflorafördernd', 'Bodenverbessernd'],
+      inhaltsstoffe: ['Eiweiß (bis 40%)', 'Essentielle Aminosäuren', 'Ballaststoffe', 'Eisen', 'Magnesium', 'Kalium', 'Carotinoide', 'Tocopherol (Vitamin E)'],
     },
     ernte: {
       zeit: 'Samen im Spätsommer, wenn die Hülsen trocken und braun sind.',
       teile: 'Reife Samen.',
-      tipps: 'Ausschliesslich Süsslupinen-Sorten verwenden -- Wildlupinen enthalten giftige Alkaloide! Samen gut durchtrocknen lassen vor der Lagerung. Lupinenmehl und -flocken sind im Reformhaus erhältlich.',
+      tipps: 'Ausschließlich Süsslupinen-Sorten verwenden -- Wildlupinen enthalten giftige Alkaloide! Samen gut durchtrocknen lassen vor der Lagerung. Lupinenmehl und -flocken sind im Reformhaus erhältlich.',
       mond: 'Bei abnehmendem Mond ernten für optimale Lagerfähigkeit.',
     },
     zubereitungen: [
@@ -575,7 +575,7 @@ Im alten Ägypten war die Lupine eine Fastenspeise. In der Volksmedizin des Mitt
       },
     ],
     mischungen: ['Proteinmüsli (mit Haferflocken und Nüssen)', 'Hautpflege-Waschung (mit Kamille und Ringelblume)', 'Basisches Frühstück (mit Hirse und Buchweizen)'],
-    tcm: 'Lupinensamen stärken Milz-Qi und nähren Yin. Sie wirken neutral und haben einen süssen Geschmack. Unterstützen die Mitte bei Qi-Mangel und nähren die Substanz.',
+    tcm: 'Lupinensamen stärken Milz-Qi und nähren Yin. Sie wirken neutral und haben einen süßen Geschmack. Unterstützen die Mitte bei Qi-Mangel und nähren die Substanz.',
     ayurveda: 'Lupinen sind schwer verdaulich und sollten mit verdauungsfördernden Gewürzen kombiniert werden. Sie nähren alle Dhatus und stärken Kapha -- bei Kapha-Überschuss mit Vorsicht verwenden.',
     volksmedizin: 'In der Volksmedizin des Mittelmeerraums wurden bittere Lupinen nach dem Wässern als Wurmmittel verwendet. Das Kochwasser diente als Hautwaschmittel bei Ausschlägen und Ekzemen. In den Anden galten Lupinen (Tarwi) als stärkendes Nahrungsmittel der Hochlandbauern.',
     besonders_bei: ['eiweissmangel', 'blutzuckerschwankungen', 'hautprobleme', 'glutenunverträglichkeit', 'eisenmangel', 'aufbaukost'],
@@ -587,9 +587,9 @@ Im alten Ägypten war die Lupine eine Fastenspeise. In der Volksmedizin des Mitt
   'Lärche': {
     vollname: 'Europäische Lärche (Larix decidua)',
     familie: 'Kieferngewächse (Pinaceae)',
-    beschreibung: `Die Lärche ist der einzige heimische Nadelbaum, der im Herbst seine Nadeln abwirft -- sie erstrahlen dann in goldenem Gelb und verwandeln die Bergwälder in leuchtende Landschaften. Im Frühling treiben zartgrüne, weiche Nadelbüschel aus, die eine aussergewöhnliche Frische ausstrahlen. Das Lärchenharz (Lärchenterpentin, Venezianisches Terpentin) ist seit Jahrhunderten ein geschätztes Heilmittel.
+    beschreibung: `Die Lärche ist der einzige heimische Nadelbaum, der im Herbst seine Nadeln abwirft -- sie erstrahlen dann in goldenem Gelb und verwandeln die Bergwälder in leuchtende Landschaften. Im Frühling treiben zartgrüne, weiche Nadelbüschel aus, die eine außergewöhnliche Frische ausstrahlen. Das Lärchenharz (Lärchenterpentin, Venezianisches Terpentin) ist seit Jahrhunderten ein geschätztes Heilmittel.
 
-In der Heilkunde wird vor allem das Harz verwendet, das an Verletzungsstellen des Stammes austritt. Es wirkt stark desinfizierend, wundheilend und durchblutungsfördernd. Äusserlich angewendet ist es ein bewährtes Mittel bei Furunkeln, Abszessen, Wunden und rheumatischen Beschwerden. Die jungen Triebe und Nadeln dienen als Inhalationsmittel bei Atemwegserkrankungen.
+In der Heilkunde wird vor allem das Harz verwendet, das an Verletzungsstellen des Stammes austritt. Es wirkt stark desinfizierend, wundheilend und durchblutungsfördernd. Äußerlich angewendet ist es ein bewährtes Mittel bei Furunkeln, Abszessen, Wunden und rheumatischen Beschwerden. Die jungen Triebe und Nadeln dienen als Inhalationsmittel bei Atemwegserkrankungen.
 
 Die Lärche hat auch eine besondere seelische Qualität. In der Bachblütentherapie steht sie für Selbstvertrauen und den Mut, neue Dinge zu wagen. Ihr jährliches Loslassen und Neuaustreiben ist ein kraftvolles Bild für Erneuerung und Zuversicht.`,
     geschichte: `Die Lärche war in der Volksmedizin der Alpenregionen eines der wichtigsten Baummittel. Das "Venezianische Terpentin" wurde seit dem Mittelalter über Venedig gehandelt und war in ganz Europa als Wundheilmittel bekannt.
@@ -618,7 +618,7 @@ Paracelsus schätzte das Lärchenharz als "Zugsalbe" bei Eiterungen und Geschwü
       },
       {
         name: 'Lärchennadel-Inhalation',
-        anleitung: 'Eine Handvoll frische Lärchennadeln in heissem Wasser 5 Minuten ziehen lassen. Mit einem Handtuch über dem Kopf 10 Minuten den Dampf einatmen.',
+        anleitung: 'Eine Handvoll frische Lärchennadeln in heißem Wasser 5 Minuten ziehen lassen. Mit einem Handtuch über dem Kopf 10 Minuten den Dampf einatmen.',
         wirkung: 'Befreit die Atemwege, desinfizierend und schleimlösend.',
       },
     ],
@@ -637,14 +637,14 @@ Paracelsus schätzte das Lärchenharz als "Zugsalbe" bei Eiterungen und Geschwü
     familie: 'Spargelgewächse (Asparagaceae)',
     beschreibung: `Der Stechende Mäusedorn ist ein immergrüner Zwergstrauch des Mittelmeerraums mit stacheligen, blattähnlichen Kurztrieben (Phyllokladien) und leuchtend roten Beeren. Was wie Blätter aussieht, sind in Wirklichkeit umgebildete Sprossachsen -- ein botanisches Kuriosum. Die kleinen Blüten sitzen direkt auf diesen "Scheinblättern".
 
-In der Heilkunde ist der Mäusedorn eine der wirksamsten Venenpflanzen überhaupt. Seine Wurzelstöcke enthalten Ruscogenin und Neoruscogenin -- Saponine, die die Venenwände stärken, die Gefässspannung erhöhen und Schwellungen reduzieren. Er wird bei chronischer Venenschwäche, Krampfadern, Hämorrhoiden und schweren Beinen eingesetzt.
+In der Heilkunde ist der Mäusedorn eine der wirksamsten Venenpflanzen überhaupt. Seine Wurzelstöcke enthalten Ruscogenin und Neoruscogenin -- Saponine, die die Venenwände stärken, die Gefäßspannung erhöhen und Schwellungen reduzieren. Er wird bei chronischer Venenschwäche, Krampfadern, Hämorrhoiden und schweren Beinen eingesetzt.
 
-Die gefässstärkende Wirkung ist wissenschaftlich gut belegt. Mäusedorn-Extrakte sind Bestandteil verschiedener Venenpräparate und gehören zu den wichtigsten Phytotherapeutika für das venöse System. Die Pflanze ist ein echtes Spezialmittel für Venenleiden.`,
+Die gefäßstärkende Wirkung ist wissenschaftlich gut belegt. Mäusedorn-Extrakte sind Bestandteil verschiedener Venenpräparate und gehören zu den wichtigsten Phytotherapeutika für das venöse System. Die Pflanze ist ein echtes Spezialmittel für Venenleiden.`,
     geschichte: `Der Name Mäusedorn rührt daher, dass man die stacheligen Zweige früher um Vorratskammern legte, um Mäuse fernzuhalten. Die Römer verwendeten die Pflanze als Besen -- daher der englische Name "Butcher's Broom" (Metzgerbesen).
 
 Dioskurides empfahl den Mäusedorn bei Wassersucht und als harntreibendes Mittel. Im Mittelalter wurde er gegen "schwere Beine" und Hämorrhoiden verwendet. Die moderne Phytotherapie hat seine Wirkung auf die Venen wissenschaftlich bestätigt und zu einem Standardmittel gemacht.`,
     wirkungen: {
-      hauptwirkungen: ['Venenstärkend (venentonisierend)', 'Abschwellend', 'Entzündungshemmend', 'Gefässschützend', 'Harntreibend', 'Durchblutungsfördernd'],
+      hauptwirkungen: ['Venenstärkend (venentonisierend)', 'Abschwellend', 'Entzündungshemmend', 'Gefäßschützend', 'Harntreibend', 'Durchblutungsfördernd'],
       inhaltsstoffe: ['Ruscogenin', 'Neoruscogenin', 'Steroidsaponine', 'Flavonoide (Rutin)', 'Ätherisches Öl', 'Gerbstoffe', 'Benzofurane', 'Triterpene'],
     },
     ernte: {
@@ -662,7 +662,7 @@ Dioskurides empfahl den Mäusedorn bei Wassersucht und als harntreibendes Mittel
       {
         name: 'Mäusedorn-Salbe',
         anleitung: '30g getrockneten Wurzelstock in 200ml Olivenöl 2 Wochen ausziehen lassen. Abseihen, erwärmen und 30g Bienenwachs einrühren. In Tiegel füllen.',
-        wirkung: 'Äusserlich bei Krampfadern, müden Beinen und Hämorrhoiden.',
+        wirkung: 'Äußerlich bei Krampfadern, müden Beinen und Hämorrhoiden.',
       },
       {
         name: 'Mäusedorn-Tinktur',
@@ -672,7 +672,7 @@ Dioskurides empfahl den Mäusedorn bei Wassersucht und als harntreibendes Mittel
     ],
     mischungen: ['Venentee (mit Rosskastanie und Steinklee)', 'Bein-Gel (mit Hamamelis und Rosskastanie)', 'Hämorrhoiden-Salbe (mit Schafgarbe und Kamille)'],
     tcm: 'Mäusedorn bewegt Blut und löst Blut-Stase im unteren Erwärmer. Er stärkt die Milz und leitet Feuchtigkeit aus. Wirkt auf Milz, Leber und Blase.',
-    ayurveda: 'Wirkt Kapha-reduzierend durch seine trocknende, leichte Qualität. Stärkt die Gefässe (Sira) und bewegt stagnierendes Rasa und Rakta. Kann bei übermässiger Anwendung Vata erhöhen.',
+    ayurveda: 'Wirkt Kapha-reduzierend durch seine trocknende, leichte Qualität. Stärkt die Gefäße (Sira) und bewegt stagnierendes Rasa und Rakta. Kann bei übermäßiger Anwendung Vata erhöhen.',
     volksmedizin: 'In der mediterranen Volksmedizin war Mäusedorn das klassische Mittel bei "schweren Beinen" und Krampfadern. Frauen tranken den Tee während der Schwangerschaft gegen geschwollene Beine. Der Wurzelabsud wurde auch als harntreibendes Mittel bei Wassereinlagerungen eingesetzt.',
     besonders_bei: ['venenschwäche', 'krampfadern', 'hämorrhoiden', 'schwere beine', 'wassereinlagerungen', 'durchblutungsstörungen'],
   },
@@ -682,12 +682,12 @@ Dioskurides empfahl den Mäusedorn bei Wassersucht und als harntreibendes Mittel
   // ═══════════════════════════════════════════════════════════════════════════
   'Mais': {
     vollname: 'Mais (Zea mays)',
-    familie: 'Süssgräser (Poaceae)',
+    familie: 'Süßgräser (Poaceae)',
     beschreibung: `Der Mais ist eine der wichtigsten Kulturpflanzen der Welt und stammt aus Mesoamerika, wo er seit über 7000 Jahren angebaut wird. In der Heilkunde sind es nicht die Kolben, sondern die seidigen Maisnarben (Maisgriffel, "Maisbart"), die als Heilmittel verwendet werden -- die feinen, glänzenden Fäden, die aus der Spitze des Kolbens ragen.
 
-Maisnarben sind ein aussergewöhnlich wirksames harntreibendes Mittel. Sie enthalten Allantoin, Saponine, Flavonoide und reichlich Kalium, was sie zu einem der sanftesten und zugleich wirksamsten Nierenmittel der Pflanzenheilkunde macht. Sie spülen die Harnwege durch, ohne den Körper zu sehr auszulaugen.
+Maisnarben sind ein außergewöhnlich wirksames harntreibendes Mittel. Sie enthalten Allantoin, Saponine, Flavonoide und reichlich Kalium, was sie zu einem der sanftesten und zugleich wirksamsten Nierenmittel der Pflanzenheilkunde macht. Sie spülen die Harnwege durch, ohne den Körper zu sehr auszulaugen.
 
-Bei Blasenentzündungen, Nierengriesss, Wassereinlagerungen und Harnwegsinfekten ist Maisnarben-Tee ein bewährtes Hausmittel. Auch bei Prostatabeschwerden und zur Unterstützung der Nierentätigkeit wird er traditionell eingesetzt. Die heilende Kraft steckt in dem, was die meisten Menschen achtlos wegwerfen.`,
+Bei Blasenentzündungen, Nierengrieß, Wassereinlagerungen und Harnwegsinfekten ist Maisnarben-Tee ein bewährtes Hausmittel. Auch bei Prostatabeschwerden und zur Unterstützung der Nierentätigkeit wird er traditionell eingesetzt. Die heilende Kraft steckt in dem, was die meisten Menschen achtlos wegwerfen.`,
     geschichte: `Mais war für die Völker Mesoamerikas eine heilige Pflanze -- die Maya glaubten, die Götter hätten den Menschen aus Maisteig geformt. Die Azteken verwendeten Maisnarben als Heilmittel bei Blasenleiden und als harntreibenden Tee.
 
 Nach der Entdeckung Amerikas kam der Mais nach Europa und wurde zunächst als Kuriosität betrachtet. Die Heilwirkung der Maisnarben wurde in Europa erst im 19. Jahrhundert entdeckt und dann rasch in die Phytotherapie aufgenommen.`,
@@ -704,8 +704,8 @@ Nach der Entdeckung Amerikas kam der Mais nach Europa und wurde zunächst als Ku
     zubereitungen: [
       {
         name: 'Maisnarben-Tee',
-        anleitung: '2 EL getrocknete Maisnarben mit 500ml kochendem Wasser übergiessen, 15 Minuten ziehen lassen, abseihen. Über den Tag verteilt trinken.',
-        wirkung: 'Stark harntreibend, durchspülend bei Blasenentzündung und Nierengriess.',
+        anleitung: '2 EL getrocknete Maisnarben mit 500ml kochendem Wasser übergießen, 15 Minuten ziehen lassen, abseihen. Über den Tag verteilt trinken.',
+        wirkung: 'Stark harntreibend, durchspülend bei Blasenentzündung und Nierengrieß.',
       },
       {
         name: 'Maisnarben-Kaltauszug',
@@ -731,17 +731,17 @@ Nach der Entdeckung Amerikas kam der Mais nach Europa und wurde zunächst als Ku
   'Mandel': {
     vollname: 'Mandelbaum (Prunus dulcis)',
     familie: 'Rosengewächse (Rosaceae)',
-    beschreibung: `Der Mandelbaum ist ein zauberhafter Frühlingsblüher, der bereits im Februar seine zart rosa bis weissen Blüten entfaltet, noch bevor die Blätter treiben. Seine Steinfrucht enthält den Mandelkern -- die eigentliche Mandel -- die eines der wertvollsten Nahrungsheilmittel überhaupt darstellt. Man unterscheidet süsse und bittere Mandeln.
+    beschreibung: `Der Mandelbaum ist ein zauberhafter Frühlingsblüher, der bereits im Februar seine zart rosa bis weißen Blüten entfaltet, noch bevor die Blätter treiben. Seine Steinfrucht enthält den Mandelkern -- die eigentliche Mandel -- die eines der wertvollsten Nahrungsheilmittel überhaupt darstellt. Man unterscheidet süße und bittere Mandeln.
 
-Süsse Mandeln sind aussergewöhnlich nährstoffreich. Sie enthalten hochwertiges Eiweiss, ungesättigte Fettsäuren, Vitamin E, Magnesium und Calcium. Regelmässiger Verzehr senkt nachweislich den Cholesterinspiegel und schützt das Herz-Kreislauf-System. Das kaltgepresste Mandelöl ist eines der feinsten Hautpflegeöle.
+Süße Mandeln sind außergewöhnlich nährstoffreich. Sie enthalten hochwertiges Eiweiß, ungesättigte Fettsäuren, Vitamin E, Magnesium und Calcium. Regelmäßiger Verzehr senkt nachweislich den Cholesterinspiegel und schützt das Herz-Kreislauf-System. Das kaltgepresste Mandelöl ist eines der feinsten Hautpflegeöle.
 
-Bittere Mandeln enthalten das Blausäureglykosid Amygdalin und dürfen nur in kleinsten Mengen und verarbeitet verwendet werden. In der Heilkunde wird vor allem das Mandelöl eingesetzt -- äusserlich als Haut- und Haarpflegeöl, innerlich als mildes Abführmittel und zum Schutz der Magenschleimhaut. Mandelmilch ist ein uraltes Stärkungsmittel.`,
+Bittere Mandeln enthalten das Blausäureglykosid Amygdalin und dürfen nur in kleinsten Mengen und verarbeitet verwendet werden. In der Heilkunde wird vor allem das Mandelöl eingesetzt -- äußerlich als Haut- und Haarpflegeöl, innerlich als mildes Abführmittel und zum Schutz der Magenschleimhaut. Mandelmilch ist ein uraltes Stärkungsmittel.`,
     geschichte: `Der Mandelbaum stammt aus Zentralasien und wurde bereits im alten Orient kultiviert. In der Bibel wird er mehrfach erwähnt -- Aarons Stab, der erblühte, war ein Mandelzweig. Der Mandelbaum galt als Symbol der Wachsamkeit, weil er als erster Baum im Jahr blüht.
 
 Hippokrates und Dioskurides empfahlen Mandeln bei Husten und Magenbeschwerden. Im Mittelalter war Mandelmilch ein wichtiges Nahrungsmittel während der Fastenzeit und ein Stärkungsmittel für Kranke. Die arabischen Ärzte verwendeten Mandelöl bei Hautleiden und als Basis für Salben.`,
     wirkungen: {
       hauptwirkungen: ['Hautpflegend', 'Nährend und stärkend', 'Cholesterinsenkend', 'Schleimhautschützend', 'Mild abführend (Öl)', 'Antioxidativ'],
-      inhaltsstoffe: ['Fettes Öl (50-60%)', 'Eiweiss (20%)', 'Vitamin E (Tocopherol)', 'Magnesium', 'Calcium', 'Ölsäure', 'Linolsäure', 'Ballaststoffe'],
+      inhaltsstoffe: ['Fettes Öl (50-60%)', 'Eiweiß (20%)', 'Vitamin E (Tocopherol)', 'Magnesium', 'Calcium', 'Ölsäure', 'Linolsäure', 'Ballaststoffe'],
     },
     ernte: {
       zeit: 'Mandeln im Herbst, wenn die grüne Fruchthülle aufplatzt.',
@@ -752,17 +752,17 @@ Hippokrates und Dioskurides empfahlen Mandeln bei Husten und Magenbeschwerden. I
     zubereitungen: [
       {
         name: 'Mandelmilch',
-        anleitung: '100g Mandeln über Nacht einweichen. Am Morgen mit 500ml frischem Wasser im Mixer fein pürieren. Durch ein Tuch abseihen und ausdrücken. Nach Geschmack mit Honig und Vanille süssen.',
+        anleitung: '100g Mandeln über Nacht einweichen. Am Morgen mit 500ml frischem Wasser im Mixer fein pürieren. Durch ein Tuch abseihen und ausdrücken. Nach Geschmack mit Honig und Vanille süßen.',
         wirkung: 'Nährend, stärkend, basisch, als Aufbaumittel bei Schwäche und in der Rekonvaleszenz.',
       },
       {
         name: 'Mandelöl-Hautpflege',
-        anleitung: 'Kaltgepresstes Mandelöl pur oder mit wenigen Tropfen ätherischem Lavendelöl auf die Haut auftragen und sanft einmassieren. Auch als Abschminkoel und Babypflege geeignet.',
+        anleitung: 'Kaltgepresstes Mandelöl pur oder mit wenigen Tropfen ätherischem Lavendelöl auf die Haut auftragen und sanft einmassieren. Auch als Abschminköl und Babypflege geeignet.',
         wirkung: 'Hautglättend, feuchtigkeitsspendend, beruhigend bei trockener und empfindlicher Haut.',
       },
       {
         name: 'Mandelmus als Magenschutz',
-        anleitung: '1 EL weisses Mandelmus in warmem Wasser oder Milch auflösen und langsam trinken. Bei Sodbrennen und Magenschmerzen bei Bedarf einnehmen.',
+        anleitung: '1 EL weißes Mandelmus in warmem Wasser oder Milch auflösen und langsam trinken. Bei Sodbrennen und Magenschmerzen bei Bedarf einnehmen.',
         wirkung: 'Neutralisiert überschüssige Magensäure, schleimhautschützend, bei Sodbrennen.',
       },
     ],
@@ -801,7 +801,7 @@ Im elisabethanischen England waren "Eringoes" -- kandierte Mannstreuwurzeln -- e
       {
         name: 'Mannstreu-Wurzel-Tee',
         anleitung: '1 TL zerkleinerte Wurzel in 250ml kaltem Wasser ansetzen, langsam zum Kochen bringen und 10 Minuten köcheln lassen. Abseihen. 2-3 Tassen täglich.',
-        wirkung: 'Harntreibend, entzündungshemmend bei Blasenentzündung und Nierengriess.',
+        wirkung: 'Harntreibend, entzündungshemmend bei Blasenentzündung und Nierengrieß.',
       },
       {
         name: 'Mannstreu-Tinktur',
@@ -810,7 +810,7 @@ Im elisabethanischen England waren "Eringoes" -- kandierte Mannstreuwurzeln -- e
       },
       {
         name: 'Kandierte Mannstreuwurzel',
-        anleitung: 'Frische Wurzeln schälen und in Stücke schneiden. In Zuckersirup mehrmals aufkochen und jeweils abkühlen lassen, bis sie glasig und süss sind. Trocknen lassen.',
+        anleitung: 'Frische Wurzeln schälen und in Stücke schneiden. In Zuckersirup mehrmals aufkochen und jeweils abkühlen lassen, bis sie glasig und süß sind. Trocknen lassen.',
         wirkung: 'Traditionelle Delikatesse mit stärkender und leicht aphrodisierender Wirkung.',
       },
     ],
@@ -827,7 +827,7 @@ Im elisabethanischen England waren "Eringoes" -- kandierte Mannstreuwurzeln -- e
   'Mate': {
     vollname: 'Mate-Strauch (Ilex paraguariensis)',
     familie: 'Stechpalmengewächse (Aquifoliaceae)',
-    beschreibung: `Der Mate-Strauch ist ein immergrüner Baum oder grosser Strauch aus Südamerika mit ledrigen, ovalen Blättern, die das berühmte Mate-Getränk liefern. In Argentinien, Uruguay, Paraguay und Südbrasilien ist Mate das Nationalgetränk und wird traditionell aus einer Kalebasse (Mate-Becher) durch eine Bombilla (Metalltrinkhalm mit Filter) getrunken.
+    beschreibung: `Der Mate-Strauch ist ein immergrüner Baum oder großer Strauch aus Südamerika mit ledrigen, ovalen Blättern, die das berühmte Mate-Getränk liefern. In Argentinien, Uruguay, Paraguay und Südbrasilien ist Mate das Nationalgetränk und wird traditionell aus einer Kalebasse (Mate-Becher) durch eine Bombilla (Metalltrinkhalm mit Filter) getrunken.
 
 Mate enthält Koffein (Matein), aber auch Theobromin und Theophyllin -- eine Kombination, die wacher und klarer stimmt als Kaffee, ohne die typische Nervosität auszulösen. Die Wirkung ist sanfter, anhaltender und wird von einem Gefühl der Klarheit und Konzentration begleitet.
 
@@ -842,18 +842,18 @@ Heute ist Mate tief in der südamerikanischen Kultur verwurzelt. Das gemeinsame 
     ernte: {
       zeit: 'Blätter werden in Plantagen ganzjährig geerntet, Haupternte von Mai bis September.',
       teile: 'Blätter und junge Triebe.',
-      tipps: 'Für den vollen Geschmack traditionell zubereiteten Mate verwenden -- nicht die Teebeutel-Variante. Mate sollte nicht mit kochendem, sondern mit 70-80 Grad heissem Wasser aufgegossen werden, um Bitterstoffe zu vermeiden.',
+      tipps: 'Für den vollen Geschmack traditionell zubereiteten Mate verwenden -- nicht die Teebeutel-Variante. Mate sollte nicht mit kochendem, sondern mit 70-80 Grad heißem Wasser aufgegossen werden, um Bitterstoffe zu vermeiden.',
       mond: 'In Südamerika wird traditionell bei zunehmendem Mond geerntet.',
     },
     zubereitungen: [
       {
         name: 'Traditioneller Mate',
-        anleitung: 'Eine Kalebasse zu zwei Dritteln mit Mate-Blättern füllen. Schräg halten und das obere Drittel mit 70-80 Grad heissem Wasser auffüllen. Durch die Bombilla trinken und immer wieder nachgiessen.',
+        anleitung: 'Eine Kalebasse zu zwei Dritteln mit Mate-Blättern füllen. Schräg halten und das obere Drittel mit 70-80 Grad heißem Wasser auffüllen. Durch die Bombilla trinken und immer wieder nachgießen.',
         wirkung: 'Anregend, konzentrationsfördernd, gesellschaftliches Ritual der Gemeinschaft.',
       },
       {
         name: 'Mate-Tee (europäisch)',
-        anleitung: '2 TL Mate-Blätter mit 250ml 80 Grad heissem Wasser übergiessen. 5-8 Minuten ziehen lassen, abseihen. Mit Zitrone und Honig nach Geschmack.',
+        anleitung: '2 TL Mate-Blätter mit 250ml 80 Grad heißem Wasser übergießen. 5-8 Minuten ziehen lassen, abseihen. Mit Zitrone und Honig nach Geschmack.',
         wirkung: 'Belebend, stoffwechselanregend, als Kaffee-Alternative.',
       },
       {
@@ -864,7 +864,7 @@ Heute ist Mate tief in der südamerikanischen Kultur verwurzelt. Das gemeinsame 
     ],
     mischungen: ['Energietee (mit Guarana und Grüntee)', 'Detox-Mischung (mit Brennnessel und Löwenzahn)', 'Mate-Chai (mit Zimt, Ingwer und Kardamom)'],
     tcm: 'Mate wirkt kühlend-trocknend und klärt den Geist. Er leitet Feuchtigkeit aus und hebt das klare Yang. Wirkt auf Herz, Magen und Blase. Bei Yin-Mangel mit Vorsicht verwenden.',
-    ayurveda: 'Mate reduziert Kapha durch seine bittere, trocknende, leichte Qualität. Er stimuliert Agni und klärt Ama. Kann Vata und Pitta bei übermässigem Gebrauch erhöhen.',
+    ayurveda: 'Mate reduziert Kapha durch seine bittere, trocknende, leichte Qualität. Er stimuliert Agni und klärt Ama. Kann Vata und Pitta bei übermäßigem Gebrauch erhöhen.',
     volksmedizin: 'In der südamerikanischen Volksmedizin gilt Mate als Universalmittel. Er wird bei Müdigkeit, Kopfschmerzen, Verdauungsproblemen und Rheuma getrunken. Die Gauchos der Pampa trinken ihn den ganzen Tag, um Ausdauer und Wachheit zu bewahren.',
     besonders_bei: ['müdigkeit', 'konzentrationsschwäche', 'stoffwechselträgheit', 'übergewicht', 'kopfschmerzen', 'antriebslosigkeit'],
   },
@@ -877,20 +877,20 @@ Heute ist Mate tief in der südamerikanischen Kultur verwurzelt. Das gemeinsame 
     familie: 'Dickblattgewächse (Crassulaceae)',
     beschreibung: `Der Scharfe Mauerpfeffer ist eine niedrige, teppichbildende Sukkulente mit winzigen, fleischigen, walzenförmigen Blättchen und leuchtend gelben, sternförmigen Blüten. Er wächst an Mauern, Felsen und trockenen Böden und übersteht extremste Trockenheit dank seiner wasserspeichernden Blätter. Sein Name rührt vom scharfen, pfefferigen Geschmack der Blätter.
 
-In der Heilkunde wird der Mauerpfeffer vor allem äusserlich angewendet. Der frische Pflanzensaft wirkt stark reizend auf die Haut und wurde traditionell zum Ätzen von Warzen und Hühneraugen verwendet. In verdünnter Form wirkt er wundheilend und hautregenerierend. Innerlich wird er nur in homöopathischer Dosierung eingesetzt.
+In der Heilkunde wird der Mauerpfeffer vor allem äußerlich angewendet. Der frische Pflanzensaft wirkt stark reizend auf die Haut und wurde traditionell zum Ätzen von Warzen und Hühneraugen verwendet. In verdünnter Form wirkt er wundheilend und hautregenerierend. Innerlich wird er nur in homöopathischer Dosierung eingesetzt.
 
-Die Pflanze enthält Alkaloide (Sedamin, Sedridin), die in höherer Dosierung toxisch wirken können. Daher ist Vorsicht geboten -- die innerliche Anwendung sollte nur in homöopathischer Verdünnung oder unter fachkundiger Anleitung erfolgen. Äusserlich ist er bei richtiger Anwendung ein wirksames Hautmittel.`,
-    geschichte: `Der Mauerpfeffer war bereits den antiken Heilkundigen bekannt. Dioskurides beschrieb ihn als Mittel gegen Warzen und Geschwüre. Im Mittelalter wurde er auf Dächern gepflanzt, um das Haus vor Blitzschlag zu schützen -- ein Brauch, der Karl der Grosse sogar gesetzlich verordnete.
+Die Pflanze enthält Alkaloide (Sedamin, Sedridin), die in höherer Dosierung toxisch wirken können. Daher ist Vorsicht geboten -- die innerliche Anwendung sollte nur in homöopathischer Verdünnung oder unter fachkundiger Anleitung erfolgen. Äußerlich ist er bei richtiger Anwendung ein wirksames Hautmittel.`,
+    geschichte: `Der Mauerpfeffer war bereits den antiken Heilkundigen bekannt. Dioskurides beschrieb ihn als Mittel gegen Warzen und Geschwüre. Im Mittelalter wurde er auf Dächern gepflanzt, um das Haus vor Blitzschlag zu schützen -- ein Brauch, der Karl der Große sogar gesetzlich verordnete.
 
 In der Volksmedizin galt er als "Donnerkraut" und wurde neben dem Hauswurz als magischer Schutz verehrt. Die Kräuterheiler nutzten den frischen Saft zum Ätzen von Warzen, Hühneraugen und überschüssigem Gewebe an Wundrändern.`,
     wirkungen: {
-      hauptwirkungen: ['Ätzend (frischer Saft)', 'Wundheilend (verdünnt)', 'Hautreizend (rubefazierend)', 'Blutdrucksenkend (homöopathisch)', 'Schmerzlindernd (äusserlich)', 'Entzündungshemmend (niedrig dosiert)'],
+      hauptwirkungen: ['Ätzend (frischer Saft)', 'Wundheilend (verdünnt)', 'Hautreizend (rubefazierend)', 'Blutdrucksenkend (homöopathisch)', 'Schmerzlindernd (äußerlich)', 'Entzündungshemmend (niedrig dosiert)'],
       inhaltsstoffe: ['Piperidinalkaloide (Sedamin, Sedridin)', 'Isopelletierin', 'Flavonoide', 'Gerbstoffe', 'Schleimstoffe', 'Organische Säuren (Äpfelsäure)', 'Zucker', 'Mineralstoffe'],
     },
     ernte: {
       zeit: 'Blühendes Kraut von Juni bis August.',
       teile: 'Das gesamte oberirdische Kraut.',
-      tipps: 'Nur die scharfe Art (Sedum acre) verwenden -- der Grosse Mauerpfeffer (Sedum telephium) hat andere Eigenschaften. Frisch verwenden für die ätzende Wirkung, trocknen für mildere Anwendungen. Handschuhe tragen, da der Saft die Haut reizen kann.',
+      tipps: 'Nur die scharfe Art (Sedum acre) verwenden -- der Große Mauerpfeffer (Sedum telephium) hat andere Eigenschaften. Frisch verwenden für die ätzende Wirkung, trocknen für mildere Anwendungen. Handschuhe tragen, da der Saft die Haut reizen kann.',
       mond: 'Bei abnehmendem Mond ernten, wenn die ätzende Kraft am stärksten ist.',
     },
     zubereitungen: [
@@ -905,14 +905,14 @@ In der Volksmedizin galt er als "Donnerkraut" und wurde neben dem Hauswurz als m
         wirkung: 'Durchblutungsfördernd und reinigend bei schlecht heilenden Wunden.',
       },
       {
-        name: 'Mauerpfeffer-Tinktur (äusserlich)',
+        name: 'Mauerpfeffer-Tinktur (äußerlich)',
         anleitung: 'Frisches Kraut im Verhältnis 1:10 mit 70%igem Alkohol ansetzen. 2 Wochen ziehen lassen, abseihen. Verdünnt (1:5 mit Wasser) auf betroffene Stellen auftragen.',
         wirkung: 'Hautreizend, durchblutungsfördernd, bei Hühneraugen und Hornhaut.',
       },
     ],
     mischungen: ['Warzen-Tinktur (mit Schöllkraut und Thuja)', 'Wundheil-Umschlag (mit Ringelblume -- stark verdünnt)', 'Hornhaut-Behandlung (mit Schwedenkräutern)'],
-    tcm: 'Mauerpfeffer klärt toxische Hitze und zerstreut Blut-Stase an der Hautoberfläche. Er wird äusserlich bei Hautgeschwüren und überschüssigem Gewebe eingesetzt.',
-    ayurveda: 'Wirkt stark Pitta-erhöhend durch seine scharfe, heisse Qualität. Nur äusserlich und in sehr kleinen Mengen verwenden. Reduziert Kapha an der Hautoberfläche.',
+    tcm: 'Mauerpfeffer klärt toxische Hitze und zerstreut Blut-Stase an der Hautoberfläche. Er wird äußerlich bei Hautgeschwüren und überschüssigem Gewebe eingesetzt.',
+    ayurveda: 'Wirkt stark Pitta-erhöhend durch seine scharfe, heiße Qualität. Nur äußerlich und in sehr kleinen Mengen verwenden. Reduziert Kapha an der Hautoberfläche.',
     volksmedizin: 'In der Volksmedizin war der Mauerpfeffer das klassische Warzenmittel. Man presste den Saft auf Warzen und Hühneraugen und schützte die umliegende Haut mit Fett. Auch bei Skorbutk, epileptischen Anfällen und Fieber wurde er in kleinsten Dosen innerlich verwendet -- heute davon abzuraten.',
     besonders_bei: ['warzen', 'hühneraugen', 'schlecht heilende wunden', 'hornhaut', 'hautgeschwüre'],
   },
@@ -921,16 +921,16 @@ In der Volksmedizin galt er als "Donnerkraut" und wurde neben dem Hauswurz als m
   // 20. MAULBEERE
   // ═══════════════════════════════════════════════════════════════════════════
   'Maulbeere': {
-    vollname: 'Weisse Maulbeere (Morus alba)',
+    vollname: 'Weiße Maulbeere (Morus alba)',
     familie: 'Maulbeergewächse (Moraceae)',
-    beschreibung: `Der Maulbeerbaum ist ein stattlicher Laubbaum mit herzförmigen Blättern und zusammengesetzten Früchten, die Brombeeren ähneln. Die Weisse Maulbeere stammt aus China und ist dort seit Jahrtausenden die Futterpflanze für Seidenraupen. In der Heilkunde werden sowohl die Früchte als auch die Blätter, die Rinde und die Wurzelrinde verwendet -- der gesamte Baum ist ein Arzneimittel.
+    beschreibung: `Der Maulbeerbaum ist ein stattlicher Laubbaum mit herzförmigen Blättern und zusammengesetzten Früchten, die Brombeeren ähneln. Die Weiße Maulbeere stammt aus China und ist dort seit Jahrtausenden die Futterpflanze für Seidenraupen. In der Heilkunde werden sowohl die Früchte als auch die Blätter, die Rinde und die Wurzelrinde verwendet -- der gesamte Baum ist ein Arzneimittel.
 
 Die Blätter der Maulbeere haben eine bemerkenswerte blutzuckerregulierende Wirkung. Sie enthalten den Wirkstoff DNJ (1-Deoxynojirimycin), der die Zuckeraufnahme im Darm hemmt und so den Blutzuckeranstieg nach dem Essen abmildert. In der modernen Phytotherapie werden Maulbeerblätter-Extrakte bei Diabetes Typ 2 unterstützend eingesetzt.
 
-Die süssen Früchte sind reich an Anthocyanen, Vitamin C und Eisen. Sie wirken blutbildend, stärkend und leicht abführend. Die Wurzelrinde (Sang Bai Pi) ist in der TCM eines der wichtigsten Lungenmittel und wird bei Husten und Asthma eingesetzt.`,
+Die süßen Früchte sind reich an Anthocyanen, Vitamin C und Eisen. Sie wirken blutbildend, stärkend und leicht abführend. Die Wurzelrinde (Sang Bai Pi) ist in der TCM eines der wichtigsten Lungenmittel und wird bei Husten und Asthma eingesetzt.`,
     geschichte: `Die Maulbeere hat in China eine über 5000-jährige Geschichte -- sie ist untrennbar mit der Seidenproduktion verbunden. Kaiser Huang Di und seine Gemahlin Lei Zu sollen die Seidenraupenzucht begründet haben. Die Maulbeere war ein heiliger Baum am kaiserlichen Hof.
 
-In der TCM werden verschiedene Teile des Maulbeerbaums seit Jahrtausenden als Arzneimittel verwendet. Über die Seidenstrasse gelangte der Baum im Mittelalter nach Europa. Auch die Schwarze Maulbeere (Morus nigra) wurde im Mittelmeerraum als Heilbaum geschätzt.`,
+In der TCM werden verschiedene Teile des Maulbeerbaums seit Jahrtausenden als Arzneimittel verwendet. Über die Seidenstraße gelangte der Baum im Mittelalter nach Europa. Auch die Schwarze Maulbeere (Morus nigra) wurde im Mittelmeerraum als Heilbaum geschätzt.`,
     wirkungen: {
       hauptwirkungen: ['Blutzuckerregulierend (Blätter)', 'Blutbildend (Früchte)', 'Schleimlösend (Wurzelrinde)', 'Antioxidativ', 'Stärkend', 'Mild abführend'],
       inhaltsstoffe: ['DNJ (1-Deoxynojirimycin, Blätter)', 'Anthocyane (Früchte)', 'Flavonoide (Rutin)', 'Vitamin C', 'Eisen', 'Gerbstoffe', 'Cumarine', 'Resveratrol'],
@@ -944,7 +944,7 @@ In der TCM werden verschiedene Teile des Maulbeerbaums seit Jahrtausenden als Ar
     zubereitungen: [
       {
         name: 'Maulbeerblätter-Tee',
-        anleitung: '2 TL getrocknete Maulbeerblätter mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen, abseihen. 2-3 Tassen täglich, vor oder zu den Mahlzeiten.',
+        anleitung: '2 TL getrocknete Maulbeerblätter mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen, abseihen. 2-3 Tassen täglich, vor oder zu den Mahlzeiten.',
         wirkung: 'Blutzuckerregulierend, unterstützend bei Diabetes Typ 2 und Stoffwechselstörungen.',
       },
       {
@@ -954,13 +954,13 @@ In der TCM werden verschiedene Teile des Maulbeerbaums seit Jahrtausenden als Ar
       },
       {
         name: 'Maulbeerblätter-Dampfbad',
-        anleitung: 'Eine Handvoll getrocknete Maulbeerblätter in heissem Wasser ziehen lassen. Den Dampf mit einem Handtuch über dem Kopf einatmen. 10 Minuten.',
+        anleitung: 'Eine Handvoll getrocknete Maulbeerblätter in heißem Wasser ziehen lassen. Den Dampf mit einem Handtuch über dem Kopf einatmen. 10 Minuten.',
         wirkung: 'Befreiend bei Erkältung und gereizten Atemwegen.',
       },
     ],
     mischungen: ['Blutzucker-Tee (mit Bohnenschalen und Heidelbeerblättern)', 'Blutbildungstee (mit Brennnessel und Hagebutte)', 'Hustentee (mit Spitzwegerich und Thymian)'],
     tcm: 'Die Maulbeere ist in der TCM ein vielseitiges Arzneimittel. Sang Ye (Blätter) vertreibt Wind-Hitze und kühlt die Lunge. Sang Shen (Früchte) nährt Blut und Yin. Sang Bai Pi (Wurzelrinde) kühlt Lungen-Hitze und stillt Husten.',
-    ayurveda: 'Die Früchte wirken Pitta- und Vata-beruhigend durch ihren süssen, kühlenden Geschmack. Die Blätter haben eine bittere, adstringierende Qualität, die Kapha reduziert.',
+    ayurveda: 'Die Früchte wirken Pitta- und Vata-beruhigend durch ihren süßen, kühlenden Geschmack. Die Blätter haben eine bittere, adstringierende Qualität, die Kapha reduziert.',
     volksmedizin: 'In der europäischen Volksmedizin wurde Maulbeersaft als blutreinigendes Mittel und gegen Halsentzündungen verwendet. Man gurgelte mit dem Saft bei Angina und trank ihn bei Blutarmut. In der chinesischen Volksmedizin werden alle Teile des Baumes seit Jahrtausenden heilkundlich genutzt.',
     besonders_bei: ['diabetes', 'hoher blutzucker', 'blutarmut', 'husten', 'erkältung', 'schwäche'],
   },
@@ -975,41 +975,41 @@ In der TCM werden verschiedene Teile des Maulbeerbaums seit Jahrtausenden als Ar
 
 In der Heilkunde ist die Melde ein mildes, nährendes Mittel. Ihre Blätter sind reich an Mineralstoffen -- besonders Eisen, Kalium und Calcium -- sowie an Vitamin C und A. Sie wirkt mild abführend, harntreibend und blutreinigend. Bei Verstopfung und als Frühjahrskur ist sie ein sanftes, wohlschmeckendes Heilgemüse.
 
-Äusserlich wurde die Melde als Umschlag bei Gichtknoten, Schwellungen und Hautentzündungen angewendet. Ihre milde, kühlende Natur macht sie zu einem der verträglichsten Wildgemüse. In der Permakultur erlebt sie eine Renaissance als pflegeleichtes, nährstoffreiches Blattgemüse.`,
-    geschichte: `Die Melde wurde bereits in der Bronzezeit in Europa kultiviert und war bis ins 16. Jahrhundert eines der wichtigsten Gemüse. Erst der Spinat verdrängte sie aus den Gärten. Die Römer schätzten sie als Gemüse und Heilpflanze gleichermassen.
+Äußerlich wurde die Melde als Umschlag bei Gichtknoten, Schwellungen und Hautentzündungen angewendet. Ihre milde, kühlende Natur macht sie zu einem der verträglichsten Wildgemüse. In der Permakultur erlebt sie eine Renaissance als pflegeleichtes, nährstoffreiches Blattgemüse.`,
+    geschichte: `Die Melde wurde bereits in der Bronzezeit in Europa kultiviert und war bis ins 16. Jahrhundert eines der wichtigsten Gemüse. Erst der Spinat verdrängte sie aus den Gärten. Die Römer schätzten sie als Gemüse und Heilpflanze gleichermaßen.
 
 Hildegard von Bingen empfahl die Melde bei Magenbeschwerden und als reinigendes Gemüse. In der mittelalterlichen Fastenküche war sie ein wichtiger Vitamin- und Mineralstofflieferant. Der Name "Melde" leitet sich vom althochdeutschen Wort für "mehlig" ab -- die Blätter sind von einer feinen, mehligen Schicht überzogen.`,
     wirkungen: {
-      hauptwirkungen: ['Mild abführend', 'Harntreibend', 'Blutreinigend', 'Nährend', 'Kühlend', 'Entzündungshemmend (äusserlich)'],
-      inhaltsstoffe: ['Eisen', 'Kalium', 'Calcium', 'Vitamin C', 'Vitamin A (Betacarotin)', 'Saponine', 'Oxalsäure', 'Eiweiss'],
+      hauptwirkungen: ['Mild abführend', 'Harntreibend', 'Blutreinigend', 'Nährend', 'Kühlend', 'Entzündungshemmend (äußerlich)'],
+      inhaltsstoffe: ['Eisen', 'Kalium', 'Calcium', 'Vitamin C', 'Vitamin A (Betacarotin)', 'Saponine', 'Oxalsäure', 'Eiweiß'],
     },
     ernte: {
       zeit: 'Junge Blätter von Mai bis September, bevor die Pflanze blüht.',
       teile: 'Junge Blätter und Triebspitzen.',
-      tipps: 'Die jungen Blätter sind am zartesten und schmackhaftesten. Regelmässig ernten, damit die Pflanze immer neue Triebe bildet. Die rote Sorte behält ihre Farbe auch beim Kochen und ist besonders dekorativ.',
+      tipps: 'Die jungen Blätter sind am zartesten und schmackhaftesten. Regelmäßig ernten, damit die Pflanze immer neue Triebe bildet. Die rote Sorte behält ihre Farbe auch beim Kochen und ist besonders dekorativ.',
       mond: 'Bei zunehmendem Mond ernten für die saftigsten Blätter.',
     },
     zubereitungen: [
       {
         name: 'Melde-Gemüse',
-        anleitung: 'Eine grosse Portion Meldenblätter waschen und in etwas Butter oder Olivenöl dünsten. Mit Salz, Muskatnuss und einem Spritzer Zitrone würzen. Wie Spinat verwenden.',
+        anleitung: 'Eine große Portion Meldenblätter waschen und in etwas Butter oder Olivenöl dünsten. Mit Salz, Muskatnuss und einem Spritzer Zitrone würzen. Wie Spinat verwenden.',
         wirkung: 'Nährend, mineralstoffreich, mild abführend, als Heilgemüse bei Eisenmangel.',
       },
       {
         name: 'Melde-Umschlag',
-        anleitung: 'Frische Blätter kurz in heissem Wasser blanchieren, leicht ausdrücken und warm auf geschwollene Gelenke oder Gichtknoten legen. 20 Minuten einwirken lassen.',
+        anleitung: 'Frische Blätter kurz in heißem Wasser blanchieren, leicht ausdrücken und warm auf geschwollene Gelenke oder Gichtknoten legen. 20 Minuten einwirken lassen.',
         wirkung: 'Kühlend, abschwellend, entzündungshemmend bei Gicht und Schwellungen.',
       },
       {
         name: 'Melde-Smoothie',
-        anleitung: 'Eine Handvoll frische Meldenblätter mit einer Banane, einem Apfel und 200ml Wasser im Mixer pürieren. Nach Geschmack mit Honig süssen.',
+        anleitung: 'Eine Handvoll frische Meldenblätter mit einer Banane, einem Apfel und 200ml Wasser im Mixer pürieren. Nach Geschmack mit Honig süßen.',
         wirkung: 'Vitaminreich, blutreinigend, als Frühjahrskur und bei Eisenmangel.',
       },
     ],
     mischungen: ['Frühlingsgemüse (mit Brennnessel und Giersch)', 'Wildkräutersalat (mit Vogelmiere und Löwenzahn)', 'Grüner Smoothie (mit Spinat und Gerstengras)'],
     tcm: 'Melde wirkt kühlend und befeuchtend. Sie klärt leichte Hitze und befeuchtet den Darm. Wirkt auf Magen und Dickdarm und ist hilfreich bei Trockenheits-Verstopfung.',
     ayurveda: 'Wirkt Pitta-beruhigend durch ihre kühlende, leichte Qualität. Als Gemüse zubereitet nährt sie Rasa Dhatu und unterstützt die Verdauung. Kann bei Kapha-Überschuss Schleim fördern.',
-    volksmedizin: 'In der europäischen Volksmedizin galt die Melde als reinigendes Frühlingsgemüse. Man ass sie bei Verstopfung und zur Blutreinigung. Äusserlich legte man die Blätter als Umschlag auf Gichtknoten, geschwollene Gelenke und entzündete Haut.',
+    volksmedizin: 'In der europäischen Volksmedizin galt die Melde als reinigendes Frühlingsgemüse. Man ass sie bei Verstopfung und zur Blutreinigung. Äußerlich legte man die Blätter als Umschlag auf Gichtknoten, geschwollene Gelenke und entzündete Haut.',
     besonders_bei: ['verstopfung', 'eisenmangel', 'frühjahrskur', 'gicht', 'schwellungen', 'blutreinigung'],
   },
 
@@ -1019,14 +1019,14 @@ Hildegard von Bingen empfahl die Melde bei Magenbeschwerden und als reinigendes 
   'Mispel': {
     vollname: 'Echte Mispel (Mespilus germanica)',
     familie: 'Rosengewächse (Rosaceae)',
-    beschreibung: `Die Echte Mispel ist ein kleiner, oft malerisch knorriger Baum mit grossen, weissen Einzelblüten und eigentümlichen, braunen Früchten, die wie kleine Äpfel mit offenem Kelch aussehen. Die Früchte sind erst nach dem ersten Frost -- oder nach einer "Teigwerdung" (Nachreifen auf Stroh) -- geniessbar, vorher sind sie steinhart und adstringierend.
+    beschreibung: `Die Echte Mispel ist ein kleiner, oft malerisch knorriger Baum mit großen, weißen Einzelblüten und eigentümlichen, braunen Früchten, die wie kleine Äpfel mit offenem Kelch aussehen. Die Früchte sind erst nach dem ersten Frost -- oder nach einer "Teigwerdung" (Nachreifen auf Stroh) -- genießbar, vorher sind sie steinhart und adstringierend.
 
-Die teigig gewordenen Mispelfrüchte haben einen einzigartigen Geschmack -- süss-säuerlich, an Bratapfel und Datteln erinnernd. In der Heilkunde wirken die unreifen Früchte stark stopfend bei Durchfall, während die überreifen Früchte leicht abführend sind. Die Blätter und die Baumrinde sind ebenfalls heilkräftig.
+Die teigig gewordenen Mispelfrüchte haben einen einzigartigen Geschmack -- süß-säuerlich, an Bratapfel und Datteln erinnernd. In der Heilkunde wirken die unreifen Früchte stark stopfend bei Durchfall, während die überreifen Früchte leicht abführend sind. Die Blätter und die Baumrinde sind ebenfalls heilkräftig.
 
 Die Mispel ist ein fast vergessenes Obst, das im Mittelalter weit verbreitet war und in der Permakultur und bei Liebhabern alter Obstsorten eine Renaissance erlebt. Ihr hoher Gehalt an Pektinen, Gerbstoffen und Vitaminen macht sie zu einem wertvollen Heilobst.`,
-    geschichte: `Die Mispel wurde bereits von den Griechen und Römern kultiviert. Homer erwähnt sie in der Odyssee. Im Mittelalter war sie eines der beliebtesten Obstgehölze und wuchs in jedem Klostergarten. Karl der Grosse verordnete ihren Anbau in der "Capitulare de villis".
+    geschichte: `Die Mispel wurde bereits von den Griechen und Römern kultiviert. Homer erwähnt sie in der Odyssee. Im Mittelalter war sie eines der beliebtesten Obstgehölze und wuchs in jedem Klostergarten. Karl der Große verordnete ihren Anbau in der "Capitulare de villis".
 
-Hildegard von Bingen empfahl Mispeln bei Durchfall und zur Stärkung des Körpers. Im 17. und 18. Jahrhundert wurde die Mispel zunehmend vom Apfel und der Birne verdrängt und geriet in Vergessenheit. Shakespeare erwähnt sie in "Romeo und Julia" und "Mass für Mass".`,
+Hildegard von Bingen empfahl Mispeln bei Durchfall und zur Stärkung des Körpers. Im 17. und 18. Jahrhundert wurde die Mispel zunehmend vom Apfel und der Birne verdrängt und geriet in Vergessenheit. Shakespeare erwähnt sie in "Romeo und Julia" und "Maß für Maß".`,
     wirkungen: {
       hauptwirkungen: ['Stopfend (unreife Frucht)', 'Mild abführend (überreife Frucht)', 'Adstringierend', 'Entzündungshemmend', 'Harntreibend (Blätter)', 'Stärkend'],
       inhaltsstoffe: ['Pektine', 'Gerbstoffe (Tannine)', 'Vitamin C', 'Fruchtsäuren (Äpfelsäure, Zitronensäure)', 'Zucker', 'Flavonoide', 'Mineralstoffe (Kalium, Calcium)', 'Carotinoide'],
@@ -1050,13 +1050,13 @@ Hildegard von Bingen empfahl Mispeln bei Durchfall und zur Stärkung des Körper
       },
       {
         name: 'Mispelblätter-Tee',
-        anleitung: '2 TL getrocknete Mispelblätter mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen, abseihen. 2 Tassen täglich.',
+        anleitung: '2 TL getrocknete Mispelblätter mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen, abseihen. 2 Tassen täglich.',
         wirkung: 'Harntreibend, entzündungshemmend, bei Harnwegsinfekten und Mundschleimhautentzündung.',
       },
     ],
     mischungen: ['Durchfall-Kompott (mit Heidelbeeren und Quitte)', 'Herbstfrüchte-Marmelade (mit Schlehe und Hagebutte)', 'Magentee (mit Kamille und Melisse)'],
     tcm: 'Die Mispel wirkt zusammenziehend und stabilisierend. Sie stoppt Durchfall durch ihre adstringierende Natur, stärkt die Milz und reguliert den Mittleren Erwärmer.',
-    ayurveda: 'Unreife Mispeln wirken stark Pitta-beruhigend durch ihren herben Geschmack. Überreife Früchte nähren Rasa Dhatu. Die adstringierende Qualität reduziert übermässiges Kapha im Verdauungstrakt.',
+    ayurveda: 'Unreife Mispeln wirken stark Pitta-beruhigend durch ihren herben Geschmack. Überreife Früchte nähren Rasa Dhatu. Die adstringierende Qualität reduziert übermäßiges Kapha im Verdauungstrakt.',
     volksmedizin: 'In der mittelalterlichen Volksmedizin waren Mispeln ein wichtiges Durchfallmittel -- besonders für Kinder. Man gab das Mus unreifer Früchte bei Ruhr und Durchfall. Der Tee aus Blättern und Rinde wurde bei Halsentzündungen gegurgelt und bei Blasenleiden getrunken.',
     besonders_bei: ['durchfall', 'verdauungsbeschwerden', 'halsentzündung', 'mundschleimhautentzündung', 'harnwegsinfekt', 'schwäche'],
   },
@@ -1067,11 +1067,11 @@ Hildegard von Bingen empfahl Mispeln bei Durchfall und zur Stärkung des Körper
   'Muskatnuss': {
     vollname: 'Muskatnussbaum (Myristica fragrans)',
     familie: 'Muskatnussgewächse (Myristicaceae)',
-    beschreibung: `Der Muskatnussbaum ist ein tropischer, immergrüner Baum, der zwei kostbare Gewürze liefert: die Muskatnuss (der Samenkern) und die Macis (der rote Samenmantel, auch Muskatblüte genannt). Beide verströmen einen warmen, süsslich-würzigen Duft und sind in der Küche wie in der Heilkunde hochgeschätzt.
+    beschreibung: `Der Muskatnussbaum ist ein tropischer, immergrüner Baum, der zwei kostbare Gewürze liefert: die Muskatnuss (der Samenkern) und die Macis (der rote Samenmantel, auch Muskatblüte genannt). Beide verströmen einen warmen, süßlich-würzigen Duft und sind in der Küche wie in der Heilkunde hochgeschätzt.
 
 In der Heilkunde wirkt Muskatnuss vor allem auf den Verdauungstrakt. Sie ist eines der besten Mittel bei Durchfall, Blähungen und Appetitlosigkeit. Darüber hinaus hat sie eine bemerkenswerte beruhigende und schlaffördernde Wirkung -- warme Milch mit einer Prise Muskatnuss ist ein uraltes Einschlafmittel.
 
-Wichtig: Muskatnuss enthält Myristicin, das in grösseren Mengen (ab 2-3 ganzen Nüssen) halluzinogen und toxisch wirkt. Als Gewürz in normalen Küchenmengen (eine Prise bis eine Messerspitze) ist sie jedoch vollkommen sicher und heilsam. Die Dosis macht das Gift -- Paracelsus' berühmter Grundsatz gilt hier besonders.`,
+Wichtig: Muskatnuss enthält Myristicin, das in größeren Mengen (ab 2-3 ganzen Nüssen) halluzinogen und toxisch wirkt. Als Gewürz in normalen Küchenmengen (eine Prise bis eine Messerspitze) ist sie jedoch vollkommen sicher und heilsam. Die Dosis macht das Gift -- Paracelsus' berühmter Grundsatz gilt hier besonders.`,
     geschichte: `Die Muskatnuss stammt von den Banda-Inseln in Indonesien und war jahrhundertelang eines der begehrtesten Gewürze der Welt. Um den Monopolhandel mit Muskatnuss führten die Europäer Kriege -- die Niederländer tauschten Manhattan gegen die Muskatnussinsel Run ein.
 
 In der mittelalterlichen Heilkunde war die Muskatnuss ein Luxusgut und Arzneimittel zugleich. Hildegard von Bingen empfahl sie bei Herzbeschwerden und trüben Gedanken. Die arabischen Ärzte setzten sie bei Verdauungsbeschwerden und als Aphrodisiakum ein.`,
@@ -1082,13 +1082,13 @@ In der mittelalterlichen Heilkunde war die Muskatnuss ein Luxusgut und Arzneimit
     ernte: {
       zeit: 'Wenn die fleischige Fruchthülle aufspringt und den roten Samenmantel freigibt.',
       teile: 'Samenkern (Muskatnuss) und Samenmantel (Macis).',
-      tipps: 'Ganze Muskatnüsse kaufen und frisch reiben -- das Aroma ist unvergleichlich intensiver als bei Pulver. In einem luftdichten Gefäss aufbewahren. Macis hat ein feineres, blumigeres Aroma als die Nuss selbst.',
+      tipps: 'Ganze Muskatnüsse kaufen und frisch reiben -- das Aroma ist unvergleichlich intensiver als bei Pulver. In einem luftdichten Gefäß aufbewahren. Macis hat ein feineres, blumigeres Aroma als die Nuss selbst.',
       mond: 'In den Tropen wird traditionell bei Vollmond geerntet.',
     },
     zubereitungen: [
       {
         name: 'Schlaf-Milch mit Muskatnuss',
-        anleitung: '250ml Milch (oder Pflanzenmilch) sanft erwärmen, eine Prise frisch geriebene Muskatnuss einrühren. Nach Geschmack mit Honig süssen. 30 Minuten vor dem Schlafengehen trinken.',
+        anleitung: '250ml Milch (oder Pflanzenmilch) sanft erwärmen, eine Prise frisch geriebene Muskatnuss einrühren. Nach Geschmack mit Honig süßen. 30 Minuten vor dem Schlafengehen trinken.',
         wirkung: 'Beruhigend, schlaffördernd, wärmend, bei Einschlafstörungen.',
       },
       {
@@ -1097,7 +1097,7 @@ In der mittelalterlichen Heilkunde war die Muskatnuss ein Luxusgut und Arzneimit
         wirkung: 'Stopfend bei Durchfall, krampflösend, verdauungsregulierend.',
       },
       {
-        name: 'Muskatnuss-Öl (äusserlich)',
+        name: 'Muskatnuss-Öl (äußerlich)',
         anleitung: '1 geriebene Muskatnuss in 100ml warmem Sesamöl einlegen. 2 Wochen ziehen lassen, abseihen. Auf schmerzende Gelenke oder den Bauch einmassieren.',
         wirkung: 'Schmerzlindernd und wärmend bei Gelenk- und Muskelschmerzen, Blähungen.',
       },
@@ -1115,7 +1115,7 @@ In der mittelalterlichen Heilkunde war die Muskatnuss ein Luxusgut und Arzneimit
   'Myrte': {
     vollname: 'Gemeine Myrte (Myrtus communis)',
     familie: 'Myrtengewächse (Myrtaceae)',
-    beschreibung: `Die Myrte ist ein immergrüner Strauch des Mittelmeerraums mit kleinen, ledrigen, dunkelgrünen Blättern und zarten, weissen Blüten mit einem Büschel langer Staubfäden. Ihr Duft ist frisch, harzig-balsamisch und von aussergewöhnlicher Reinheit. Die blauschwarzen Beeren sind essbar und haben einen aromatischen, harzigen Geschmack.
+    beschreibung: `Die Myrte ist ein immergrüner Strauch des Mittelmeerraums mit kleinen, ledrigen, dunkelgrünen Blättern und zarten, weißen Blüten mit einem Büschel langer Staubfäden. Ihr Duft ist frisch, harzig-balsamisch und von außergewöhnlicher Reinheit. Die blauschwarzen Beeren sind essbar und haben einen aromatischen, harzigen Geschmack.
 
 In der Heilkunde wird das ätherische Myrtenöl vor allem bei Atemwegserkrankungen eingesetzt. Es wirkt schleimlösend, desinfizierend und entzündungshemmend und ist dabei viel milder als Eukalyptusöl -- daher eignet es sich besonders für Kinder und empfindliche Menschen. Auch bei Blaseninfekten und Hautproblemen zeigt es Wirkung.
 
@@ -1136,12 +1136,12 @@ In der jüdischen Tradition ist die Myrte eine der vier Pflanzen des Sukkot-Fest
     zubereitungen: [
       {
         name: 'Myrten-Inhalation',
-        anleitung: '3-5 Tropfen Myrtenöl in eine Schüssel mit heissem Wasser geben. Mit einem Handtuch über dem Kopf 10 Minuten inhalieren.',
+        anleitung: '3-5 Tropfen Myrtenöl in eine Schüssel mit heißem Wasser geben. Mit einem Handtuch über dem Kopf 10 Minuten inhalieren.',
         wirkung: 'Schleimlösend und desinfizierend bei Erkältung, Bronchitis und Sinusitis.',
       },
       {
         name: 'Myrtenblätter-Tee',
-        anleitung: '1-2 TL getrocknete Myrtenblätter mit 250ml kochendem Wasser übergiessen, 8 Minuten ziehen lassen, abseihen. 2-3 Tassen täglich.',
+        anleitung: '1-2 TL getrocknete Myrtenblätter mit 250ml kochendem Wasser übergießen, 8 Minuten ziehen lassen, abseihen. 2-3 Tassen täglich.',
         wirkung: 'Bei Blasenentzündung, Atemwegsinfekten und Verdauungsbeschwerden.',
       },
       {
@@ -1163,14 +1163,14 @@ In der jüdischen Tradition ist die Myrte eine der vier Pflanzen des Sukkot-Fest
   'Oleander': {
     vollname: 'Oleander (Nerium oleander)',
     familie: 'Hundsgiftgewächse (Apocynaceae)',
-    beschreibung: `Der Oleander ist ein immergrüner Strauch des Mittelmeerraums mit ledrigen, lanzettlichen Blättern und üppigen Blütendolden in Weiss, Rosa, Rot oder Gelb. Er ist eine der prächtigsten, aber auch giftigsten Zierpflanzen überhaupt. Alle Pflanzenteile enthalten herzwirksame Glykoside, die in jeder Dosierung gefährlich sein können.
+    beschreibung: `Der Oleander ist ein immergrüner Strauch des Mittelmeerraums mit ledrigen, lanzettlichen Blättern und üppigen Blütendolden in Weiß, Rosa, Rot oder Gelb. Er ist eine der prächtigsten, aber auch giftigsten Zierpflanzen überhaupt. Alle Pflanzenteile enthalten herzwirksame Glykoside, die in jeder Dosierung gefährlich sein können.
 
-In der Heilkunde wird Oleander ausschliesslich in standardisierten pharmazeutischen Zubereitungen oder in der Homöopathie verwendet -- niemals als Hausmittel! Die herzwirksamen Glykoside Oleandrin und Neriosid wirken ähnlich wie Digitalis auf das Herz und können bei unsachgemässer Anwendung tödlich sein.
+In der Heilkunde wird Oleander ausschließlich in standardisierten pharmazeutischen Zubereitungen oder in der Homöopathie verwendet -- niemals als Hausmittel! Die herzwirksamen Glykoside Oleandrin und Neriosid wirken ähnlich wie Digitalis auf das Herz und können bei unsachgemäßer Anwendung tödlich sein.
 
-In der Homöopathie wird Oleander in hohen Verdünnungen bei Herzbeschwerden, Hautekzemen und Verdauungsstörungen eingesetzt. In einigen asiatischen Ländern wird ein standardisierter Oleander-Extrakt in der komplementären Krebstherapie erforscht -- die Ergebnisse sind noch nicht abschliessend bewertet. Der Oleander ist eine Pflanze, die man bewundern, aber nicht anfassen sollte.`,
-    geschichte: `Der Oleander war im gesamten Mittelmeerraum bekannt und gefürchtet. Die alten Griechen nannten ihn "Nerion" nach den Nereiden, den Meernymphen. Plinius der Ältere warnte vor seiner Giftigkeit und berichtete, dass Soldaten Alexanders des Grossen starben, nachdem sie Oleanderzweige als Bratspiesse verwendet hatten.
+In der Homöopathie wird Oleander in hohen Verdünnungen bei Herzbeschwerden, Hautekzemen und Verdauungsstörungen eingesetzt. In einigen asiatischen Ländern wird ein standardisierter Oleander-Extrakt in der komplementären Krebstherapie erforscht -- die Ergebnisse sind noch nicht abschließend bewertet. Der Oleander ist eine Pflanze, die man bewundern, aber nicht anfassen sollte.`,
+    geschichte: `Der Oleander war im gesamten Mittelmeerraum bekannt und gefürchtet. Die alten Griechen nannten ihn "Nerion" nach den Nereiden, den Meernymphen. Plinius der Ältere warnte vor seiner Giftigkeit und berichtete, dass Soldaten Alexanders des Großen starben, nachdem sie Oleanderzweige als Bratspieße verwendet hatten.
 
-Dioskurides beschrieb den Oleander als Mittel gegen Schlangenbisse -- äusserlich aufgetragen. Im Ayurveda wird Oleander (Karavira) in stark verdünnter Form seit Jahrhunderten als Herztonikum verwendet. In der europäischen Volksmedizin galt er als zu gefährlich für die häusliche Anwendung.`,
+Dioskurides beschrieb den Oleander als Mittel gegen Schlangenbisse -- äußerlich aufgetragen. Im Ayurveda wird Oleander (Karavira) in stark verdünnter Form seit Jahrhunderten als Herztonikum verwendet. In der europäischen Volksmedizin galt er als zu gefährlich für die häusliche Anwendung.`,
     wirkungen: {
       hauptwirkungen: ['Herzwirksam (nur pharmazeutisch!)', 'Giftig -- nicht zur Selbstmedikation!', 'Homöopathisch: Herzbeschwerden', 'Homöopathisch: Hautekzeme', 'Entzündungshemmend (Forschung)', 'Antitumoral (Forschung)'],
       inhaltsstoffe: ['Oleandrin', 'Neriosid', 'Herzwirksame Glykoside', 'Flavonoide', 'Rutin', 'Ursol- und Oleanolsäure', 'Gerbstoffe', 'Rosaginin'],
@@ -1184,24 +1184,24 @@ Dioskurides beschrieb den Oleander als Mittel gegen Schlangenbisse -- äusserlic
     zubereitungen: [
       {
         name: 'Homöopathisches Oleander (nur vom Heilpraktiker)',
-        anleitung: 'Oleander wird ausschliesslich in homöopathischen Potenzen ab D6 verwendet. Die Verordnung erfolgt durch einen erfahrenen Homöopathen nach individueller Anamnese.',
+        anleitung: 'Oleander wird ausschließlich in homöopathischen Potenzen ab D6 verwendet. Die Verordnung erfolgt durch einen erfahrenen Homöopathen nach individueller Anamnese.',
         wirkung: 'Homöopathisch bei Herzbeschwerden, Kopfschmerzen, Hautekzemen und Verdauungsstörungen.',
       },
       {
         name: 'Hinweis: Kein Hausmittel!',
-        anleitung: 'Es gibt keine sichere Hausmittel-Zubereitung aus Oleander. Sämtliche innerliche und äusserliche Anwendungen gehören ausschliesslich in die Hand von Fachleuten mit pharmazeutischer Ausbildung.',
+        anleitung: 'Es gibt keine sichere Hausmittel-Zubereitung aus Oleander. Sämtliche innerliche und äußerliche Anwendungen gehören ausschließlich in die Hand von Fachleuten mit pharmazeutischer Ausbildung.',
         wirkung: 'Alle Pflanzenteile sind stark giftig. Bereits wenige Blätter können für Erwachsene tödlich sein!',
       },
       {
-        name: 'Oleander als Zierpflanze (sicher geniessen)',
-        anleitung: 'Oleander als Kübelpflanze auf Balkon oder Terrasse kultivieren. Hell und sonnig aufstellen, im Winter frostfrei überwintern. Seine Blütenpracht geniessen -- aus sicherer Entfernung.',
+        name: 'Oleander als Zierpflanze (sicher genießen)',
+        anleitung: 'Oleander als Kübelpflanze auf Balkon oder Terrasse kultivieren. Hell und sonnig aufstellen, im Winter frostfrei überwintern. Seine Blütenpracht genießen -- aus sicherer Entfernung.',
         wirkung: 'Seelische Wirkung: Freude am Anblick seiner üppigen Blüten, mediterranes Flair.',
       },
     ],
     mischungen: ['Keine Mischungen zur Eigenherstellung! Oleander gehört nicht in Hausmittel-Rezepte.'],
-    tcm: 'In der TCM wird Oleander aufgrund seiner Toxizität nicht standardmässig verwendet. Seine herzwirksamen Glykoside haben eine Affinität zum Herz-Funktionskreis, aber die therapeutische Breite ist zu gering für sichere Anwendung.',
-    ayurveda: 'Im Ayurveda wird Karavira (Oleander) in stark gereinigter und verdünnter Form (Shodhana-Prozess) bei Hautkrankheiten und Herzleiden verwendet -- ausschliesslich unter Aufsicht eines erfahrenen Vaidya (ayurvedischen Arztes).',
-    volksmedizin: 'In der europäischen Volksmedizin wurde Oleander wegen seiner Giftigkeit kaum verwendet. In einigen mediterranen Regionen wurde verdünnter Oleanderblätter-Absud äusserlich bei Krätze und Hautparasiten eingesetzt -- eine gefährliche Praxis, die heute nicht mehr empfohlen wird.',
+    tcm: 'In der TCM wird Oleander aufgrund seiner Toxizität nicht standardmäßig verwendet. Seine herzwirksamen Glykoside haben eine Affinität zum Herz-Funktionskreis, aber die therapeutische Breite ist zu gering für sichere Anwendung.',
+    ayurveda: 'Im Ayurveda wird Karavira (Oleander) in stark gereinigter und verdünnter Form (Shodhana-Prozess) bei Hautkrankheiten und Herzleiden verwendet -- ausschließlich unter Aufsicht eines erfahrenen Vaidya (ayurvedischen Arztes).',
+    volksmedizin: 'In der europäischen Volksmedizin wurde Oleander wegen seiner Giftigkeit kaum verwendet. In einigen mediterranen Regionen wurde verdünnter Oleanderblätter-Absud äußerlich bei Krätze und Hautparasiten eingesetzt -- eine gefährliche Praxis, die heute nicht mehr empfohlen wird.',
     besonders_bei: ['nur unter ärztlicher aufsicht', 'homöopathisch bei herzbeschwerden', 'homöopathisch bei hautekzemen', 'forschung: antitumoral'],
   },
 

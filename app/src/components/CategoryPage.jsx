@@ -94,7 +94,7 @@ function SectionHeading({ icon: Icon, children }) {
 // ═══════════════════════════════════════════════════════════════════
 function FastenPage({ onSearch }) {
   const grouped = useMemo(() => {
-    const order = ['Grosse Fastenformen', 'Rhythmisches Fasten', 'Reinigungstechniken', 'Spirituelles Fasten']
+    const order = ['Große Fastenformen', 'Rhythmisches Fasten', 'Reinigungstechniken', 'Spirituelles Fasten']
     const map = {}
     order.forEach(k => { map[k] = [] })
     FASTING_METHODS.forEach(m => {
@@ -192,12 +192,12 @@ function FastenPage({ onSearch }) {
 }
 
 // ═══════════════════════════════════════════════════════════════════
-// ERNAEHRUNG PAGE
+// ERNÄHRUNG PAGE
 // ═══════════════════════════════════════════════════════════════════
 function ErnaehrungPage({ onSearch }) {
   return (
     <div className="space-y-6">
-      <SectionHeading icon={Leaf}>Ernaehrungsstile</SectionHeading>
+      <SectionHeading icon={Leaf}>Ernährungsstile</SectionHeading>
       <div className="space-y-3">
         {NUTRITION_STYLES.map(style => (
           <Accordion key={style.id} title={style.name}>
@@ -460,13 +460,13 @@ function HexenwissenPage({ onSearch }) {
     const hr = (cat) => HEXENREZEPTE?.filter(r => r.kategorie === cat) || []
 
     // ─── ZUBEREITUNGEN ───────────────────────────
-    // 1. Teemischungen & Traenke
+    // 1. Teemischungen & Tränke
     const teeSections = []
     if (KRAEUTERMISCHUNGEN?.length) teeSections.push({ id: 'teemischungen', label: 'Teemischungen', items: KRAEUTERMISCHUNGEN })
     if (hr('Kater-Killer').length) teeSections.push({ id: 'hr-kater', label: 'Kater-Killer', items: hr('Kater-Killer') })
     if (hr('Regeneration & Detox').length) teeSections.push({ id: 'hr-detox', label: 'Regeneration & Detox', items: hr('Regeneration & Detox') })
     if (hr('Energie & Power').length) teeSections.push({ id: 'hr-energie', label: 'Energie & Power', items: hr('Energie & Power') })
-    if (teeSections.length) groups.push({ id: 'tees', label: 'Tees & Traenke', sections: teeSections })
+    if (teeSections.length) groups.push({ id: 'tees', label: 'Tees & Tränke', sections: teeSections })
 
     // 2. Salben & Balsame
     if (SALBEN_REZEPTE?.length) groups.push({ id: 'salben', label: 'Salben & Balsame', sections: [
@@ -476,22 +476,22 @@ function HexenwissenPage({ onSearch }) {
     // 3. Tinkturen & Elixiere
     const tinkSections = []
     if (TINKTUREN_REZEPTE?.length) tinkSections.push({ id: 'tinkturen', label: 'Tinkturen', items: TINKTUREN_REZEPTE })
-    if (hr('Liebestraenke').length) tinkSections.push({ id: 'hr-liebe', label: 'Liebestraenke', items: hr('Liebestraenke') })
+    if (hr('Liebestränke').length) tinkSections.push({ id: 'hr-liebe', label: 'Liebestränke', items: hr('Liebestränke') })
     if (tinkSections.length) groups.push({ id: 'tinkturen-elixiere', label: 'Tinkturen & Elixiere', sections: tinkSections })
 
-    // ─── KOERPER & SEELE ─────────────────────────
+    // ─── KÖRPER & SEELE ─────────────────────────
     // 4. Frau, Mann & Kind
     const fmkSections = []
     if (hr('Frauen-Heilkunde').length) fmkSections.push({ id: 'hr-frauen', label: 'Frauen-Heilkunde', items: hr('Frauen-Heilkunde') })
-    if (hr('Maenner-Kraft').length) fmkSections.push({ id: 'hr-maenner', label: 'Maenner-Kraft', items: hr('Maenner-Kraft') })
+    if (hr('Männer-Kraft').length) fmkSections.push({ id: 'hr-maenner', label: 'Männer-Kraft', items: hr('Männer-Kraft') })
     if (hr('Kinder-Zauber').length) fmkSections.push({ id: 'hr-kinder', label: 'Kinder-Zauber', items: hr('Kinder-Zauber') })
-    if (hr('Schoenheit & Jugend').length) fmkSections.push({ id: 'hr-schoenheit', label: 'Schoenheit & Jugend', items: hr('Schoenheit & Jugend') })
-    if (fmkSections.length) groups.push({ id: 'koerper', label: 'Koerper & Schoenheit', sections: fmkSections })
+    if (hr('Schönheit & Jugend').length) fmkSections.push({ id: 'hr-schoenheit', label: 'Schönheit & Jugend', items: hr('Schönheit & Jugend') })
+    if (fmkSections.length) groups.push({ id: 'koerper', label: 'Körper & Schönheit', sections: fmkSections })
 
     // 5. Schutz & Reinigung
     const schutzSections = []
     if (hr('Schutz & Reinigung').length) schutzSections.push({ id: 'hr-schutz', label: 'Schutz & Reinigung', items: hr('Schutz & Reinigung') })
-    if (hr('Erste Hilfe -- Natuerlich').length) schutzSections.push({ id: 'hr-erstehilfe', label: 'Erste Hilfe', items: hr('Erste Hilfe -- Natuerlich') })
+    if (hr('Erste Hilfe -- Natürlich').length) schutzSections.push({ id: 'hr-erstehilfe', label: 'Erste Hilfe', items: hr('Erste Hilfe -- Natürlich') })
     if (schutzSections.length) groups.push({ id: 'schutz', label: 'Schutz & Erste Hilfe', sections: schutzSections })
 
     // 6. Natur & Jahreskreis
@@ -504,14 +504,14 @@ function HexenwissenPage({ onSearch }) {
     // 7. Bewusstseins-Pflanzen
     const bewSections = []
     if (BEWUSSTSEINS_PFLANZEN?.length) bewSections.push({ id: 'bewusstsein', label: 'Bewusstseins-Pflanzen', items: BEWUSSTSEINS_PFLANZEN })
-    if (hr('Geist-Oeffner & Klarheit').length) bewSections.push({ id: 'hr-geist', label: 'Geist-Oeffner & Klarheit', items: hr('Geist-Oeffner & Klarheit') })
+    if (hr('Geist-Öffner & Klarheit').length) bewSections.push({ id: 'hr-geist', label: 'Geist-Öffner & Klarheit', items: hr('Geist-Öffner & Klarheit') })
     if (bewSections.length) groups.push({ id: 'bewusstsein-all', label: 'Geist & Bewusstsein', sections: bewSections })
 
-    // 8. Zirbeldruese
+    // 8. Zirbeldrüse
     const zirbelSections = []
     if (ZIRBELDRUESE_WISSEN?.length) zirbelSections.push({ id: 'zirbel-wissen', label: 'Wissen', items: ZIRBELDRUESE_WISSEN, renderer: 'zirbel' })
     if (ZIRBELDRUESE_REZEPTE?.length) zirbelSections.push({ id: 'zirbel-rezepte', label: 'Rezepte', items: ZIRBELDRUESE_REZEPTE })
-    if (zirbelSections.length) groups.push({ id: 'zirbel', label: 'Zirbeldruese', sections: zirbelSections })
+    if (zirbelSections.length) groups.push({ id: 'zirbel', label: 'Zirbeldrüse', sections: zirbelSections })
 
     // ─── ALTES WISSEN ────────────────────────────
     // 9. Alchemie & Spagyrik
@@ -717,7 +717,7 @@ function SuchtPage({ onSearch }) {
               {s.beschreibung && <p className="text-sm text-text-medium leading-relaxed">{s.beschreibung}</p>}
 
               {s.koerper && (
-                <InfoBox variant="default" label="Koerper">
+                <InfoBox variant="default" label="Körper">
                   {s.koerper}
                 </InfoBox>
               )}
@@ -801,7 +801,7 @@ function SuchtPage({ onSearch }) {
       {/* Heilansaetze */}
       {HEILANSAETZE_SUCHT && HEILANSAETZE_SUCHT.length > 0 && (
         <>
-          <SectionHeading icon={Sparkles}>Heilansaetze im Detail</SectionHeading>
+          <SectionHeading icon={Sparkles}>Heilansätze im Detail</SectionHeading>
           <div className="space-y-3">
             {HEILANSAETZE_SUCHT.map(h => (
               <Accordion key={h.id} title={h.name} variant="gold">
@@ -885,7 +885,7 @@ function KrauterPage({ onSearch, onSelectCondition }) {
         <div key={letter}>
           <div className="flex items-center gap-2 mb-3 mt-4">
             <span className="w-8 h-8 rounded-lg bg-green-main/10 text-green-dark text-lg font-bold flex items-center justify-center">{letter}</span>
-            <span className="text-xs text-text-muted">{grouped[letter]?.length || 0} Kraeuter</span>
+            <span className="text-xs text-text-muted">{grouped[letter]?.length || 0} Kräuter</span>
           </div>
           <div className="space-y-2">
             {(grouped[letter] || []).map(herb => (
@@ -1111,7 +1111,7 @@ const CATEGORY_CONFIG = {
     component: FastenPage,
   },
   ernaehrung: {
-    title: 'Ernaehrungsformen',
+    title: 'Ernährungsformen',
     icon: Leaf,
     component: ErnaehrungPage,
   },
@@ -1126,7 +1126,7 @@ const CATEGORY_CONFIG = {
     component: SuchtPage,
   },
   krauter: {
-    title: 'Heilkraeuter-Lexikon',
+    title: 'Heilkräuter-Lexikon',
     icon: Leaf,
     component: KrauterPage,
   },
@@ -1139,7 +1139,7 @@ export function CategoryPage({ category, onSearch, onBack, onSelectCondition }) 
     return (
       <div className="p-4 text-center text-text-muted">
         Kategorie nicht gefunden.
-        <button onClick={onBack} className="block mx-auto mt-4 text-green-main hover:underline">Zurueck</button>
+        <button onClick={onBack} className="block mx-auto mt-4 text-green-main hover:underline">Zurück</button>
       </div>
     )
   }

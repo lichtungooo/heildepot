@@ -142,8 +142,8 @@ export const GRIMOIRE_REZEPTE = _GRIMOIRE_REZEPTE
 // Build HERB_DEEP with name-mapping for mismatched keys
 const _HERB_DEEP_RAW = { ..._HERB_DEEP, ..._HERB_DEEP_2, ..._HERB_DEEP_3, ..._HERB_DEEP_4, ..._HERB_DEEP_5, ..._HERB_DEEP_6, ..._HERB_DEEP_7, ..._HERB_DEEP_8, ..._HERB_DEEP_9, ..._HERB_DEEP_10, ..._HERB_DEEP_11, ..._HERB_DEEP_12, ..._HERB_DEEP_13, ..._HERB_DEEP_14, ..._HERB_DEEP_15, ..._HERB_DEEP_16, ..._HERB_DEEP_17, ..._HERB_DEEP_18 }
 const _HERB_NAME_MAP = {
-  'Weissdorn': 'Weißdorn', 'Beifuss': 'Beifuß', 'Echinacea': 'Sonnenhut (Echinacea)',
-  'Aloe': 'Aloe Vera', 'Sonnenhut': 'Sonnenhut (Echinacea)', 'Süssholz': 'Süßholz',
+  'Weißdorn': 'Weißdorn', 'Beifuß': 'Beifuß', 'Echinacea': 'Sonnenhut (Echinacea)',
+  'Aloe': 'Aloe Vera', 'Sonnenhut': 'Sonnenhut (Echinacea)', 'Süßholz': 'Süßholz',
   'Oregano': 'Dost (Wilder Oregano)', 'Erdbeere': 'Walderdbeere', 'Goji': 'Goji-Beere',
   'Katzenkralle': "Katzenkralle (Cat's Claw)", 'Mais': 'Mais (Maisbart)', 'Mandel': 'Mandelbaum',
   'Olive': 'Olivenblatt', 'Quendel': 'Quendel (Wilder Thymian)', 'Rhabarber': 'Rhabarber (Medizinischer)',
@@ -154,7 +154,7 @@ const _HERB_NAME_MAP = {
   'Schisandra': 'Schisandra (Wu Wei Zi)', 'Rose': 'Rose (Damaszenerrose)',
   'Klee': 'Rotklee',
 }
-// Add mapped entries so HERB_DEEP["Weißdorn"] works as well as HERB_DEEP["Weissdorn"]
+// Add mapped entries so HERB_DEEP["Weißdorn"] works as well as HERB_DEEP["Weißdorn"]
 Object.entries(_HERB_NAME_MAP).forEach(([oldKey, newKey]) => {
   if (_HERB_DEEP_RAW[oldKey] && !_HERB_DEEP_RAW[newKey]) {
     _HERB_DEEP_RAW[newKey] = _HERB_DEEP_RAW[oldKey]
@@ -174,7 +174,7 @@ export function getHerbDeep(name) {
   for (const key of Object.keys(_HERB_DEEP_RAW)) {
     const kl = key.toLowerCase()
     if (kl === normalized || kl === withSS || kl === withSZ) return _HERB_DEEP_RAW[key]
-    // Partial match: "Weißdorn" should find "Weissdorn" entry
+    // Partial match: "Weißdorn" should find "Weißdorn" entry
     if (kl.includes(normalized) || normalized.includes(kl)) return _HERB_DEEP_RAW[key]
   }
   return null

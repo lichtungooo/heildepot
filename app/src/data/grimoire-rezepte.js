@@ -1,8 +1,8 @@
 // =============================================================================
 // GRIMOIRE-REZEPTE — Historische Rezepturen aus Grimoiren, Hexenprozessakten,
-// mittelalterlichen Handschriften und der europaeischen Volksmagie
+// mittelalterlichen Handschriften und der europäischen Volksmagie
 // =============================================================================
-// WICHTIGER HINWEIS: Viele dieser Rezepte enthalten TOEDLICH GIFTIGE Substanzen.
+// WICHTIGER HINWEIS: Viele dieser Rezepte enthalten TÖDLICH GIFTIGE Substanzen.
 // Sie dienen AUSSCHLIESSLICH der historischen Dokumentation und Bildung.
 // NIEMALS nachahmen! Bei Vergiftungsverdacht: Giftnotruf 112 / Giftinformationszentrale.
 // =============================================================================
@@ -19,122 +19,122 @@ export const GRIMOIRE_REZEPTE = [
     kategorie: "Flugsalbe",
     schwierigkeit: "Meister",
     beschreibung:
-      "Die erste ausfuehrlich dokumentierte Flugsalbe der europaeischen Geschichte — " +
+      "Die erste ausführlich dokumentierte Flugsalbe der europäischen Geschichte — " +
       "aufgezeichnet vom Leibarzt des bayerischen Herzogs Albrecht III. Hartlieb " +
       "dokumentierte das 'unguentum pharelis' nicht als Anleitung, sondern als " +
-      "WARNUNG. Er liess die siebte, entscheidende Zutat bewusst weg, 'damit " +
-      "niemand davon verdorben werde'. Dieses Rezept ist ein Schluesseldokument " +
-      "fuer das Verstaendnis der Hexenverfolgung — es zeigt, dass gelehrte " +
-      "Maenner die pharmakologische Realitaet hinter dem 'Hexenflug' kannten.",
+      "WARNUNG. Er ließ die siebte, entscheidende Zutat bewusst weg, 'damit " +
+      "niemand davon verdorben werde'. Dieses Rezept ist ein Schlüsseldokument " +
+      "für das Verständnis der Hexenverfolgung — es zeigt, dass gelehrte " +
+      "Männer die pharmakologische Realität hinter dem 'Hexenflug' kannten.",
     zutaten: [
       {
         name: "Solsequium (Sonnenwende/Ringelblume)",
-        menge: "Gepflueckt am Sonntag (Sonnentag)",
-        wirkung: "Calendula — entzuendungshemmend, wundheilend. Magisch der Sonne zugeordnet."
+        menge: "Gepflückt am Sonntag (Sonnentag)",
+        wirkung: "Calendula — entzündungshemmend, wundheilend. Magisch der Sonne zugeordnet."
       },
       {
         name: "Lunaria (Mondraute)",
-        menge: "Gepflueckt am Montag (Mondtag)",
+        menge: "Gepflückt am Montag (Mondtag)",
         wirkung: "Botrychium lunaria — seltener Farn, in der Alchemie dem Mond und dem Silber zugeordnet."
       },
       {
         name: "Verbena (Eisenkraut)",
-        menge: "Gepflueckt am Dienstag (Marstag)",
+        menge: "Gepflückt am Dienstag (Marstag)",
         wirkung: "Verbena officinalis — 'Herba sacra' der Druiden, leicht beruhigend, dem Mars zugeordnet."
       },
       {
         name: "Mercurialis (Bingelkraut)",
-        menge: "Gepflueckt am Mittwoch (Merkurtag)",
-        wirkung: "Mercurialis annua — leicht giftig, dem Merkur zugeordnet. Historisch als Abfuehrmittel."
+        menge: "Gepflückt am Mittwoch (Merkurtag)",
+        wirkung: "Mercurialis annua — leicht giftig, dem Merkur zugeordnet. Historisch als Abführmittel."
       },
       {
         name: "Barba Jovis (Jupiterbart/Hauswurz)",
-        menge: "Gepflueckt am Donnerstag (Jupitertag)",
-        wirkung: "Sempervivum tectorum — kuehlendes Hausmittel, dem Jupiter zugeordnet."
+        menge: "Gepflückt am Donnerstag (Jupitertag)",
+        wirkung: "Sempervivum tectorum — kühlendes Hausmittel, dem Jupiter zugeordnet."
       },
       {
         name: "Capillus Veneris (Frauenhaarfarn)",
-        menge: "Gepflueckt am Freitag (Venustag)",
+        menge: "Gepflückt am Freitag (Venustag)",
         wirkung: "Adiantum capillus-veneris — zarter Farn, der Venus und der Weiblichkeit zugeordnet."
       },
       {
         name: "[SIEBTES KRAUT — VON HARTLIEB BEWUSST WEGGELASSEN]",
-        menge: "Gepflueckt am Samstag (Saturntag)",
+        menge: "Gepflückt am Samstag (Saturntag)",
         wirkung:
-          "Hartlieb schwieg ueber die Saturnpflanze. Forscher (u.a. Will-Erich Peuckert, " +
+          "Hartlieb schwieg über die Saturnpflanze. Forscher (u.a. Will-Erich Peuckert, " +
           "1960) vermuten Mandragora (Alraune) oder Hyoscyamus (Bilsenkraut) — beides " +
           "Saturn-Pflanzen mit starken Tropan-Alkaloiden, die die eigentliche psychoaktive " +
-          "Wirkung erzeugt haetten."
+          "Wirkung erzeugt hätten."
       },
       {
-        name: "Tierschmalz (Schweineschmalz oder Gaenseschmalz)",
+        name: "Tierschmalz (Schweineschmalz oder Gänseschmalz)",
         menge: "Als Basis, Menge nicht spezifiziert",
-        wirkung: "Fettbasis fuer transdermale Aufnahme der Wirkstoffe durch die Haut."
+        wirkung: "Fettbasis für transdermale Aufnahme der Wirkstoffe durch die Haut."
       },
       {
         name: "Vogelblut",
         menge: "Beigemischt, Art und Menge unklar",
-        wirkung: "Ritueller Bestandteil — moeglicherweise auch als Emulgator gedacht."
+        wirkung: "Ritueller Bestandteil — möglicherweise auch als Emulgator gedacht."
       }
     ],
     zubereitung:
       "REIN HISTORISCH — NICHT NACHMACHEN!\n\n" +
-      "Laut Hartliebs Beschreibung: Jedes der sieben Kraeuter wird an seinem " +
-      "zugehoerigen Planetentag gepflueckt. Die Kraeuter werden zerrieben und in " +
-      "erwarmtes Tierschmalz eingeruehrt. Vogelblut wird beigemischt. Die Salbe " +
+      "Laut Hartliebs Beschreibung: Jedes der sieben Kräuter wird an seinem " +
+      "zugehörigen Planetentag gepflückt. Die Kräuter werden zerrieben und in " +
+      "erwarmtes Tierschmalz eingerührt. Vogelblut wird beigemischt. Die Salbe " +
       "wird mehrere Tage 'gereift'. Hartlieb gibt bewusst keine genauen Mengen " +
       "an — sein Zweck war Dokumentation, nicht Anleitung.",
     anwendung:
       "REIN HISTORISCH — NICHT NACHMACHEN!\n\n" +
-      "Laut Prozessakten: Die Salbe wurde auf den gesamten Koerper aufgetragen, " +
+      "Laut Prozessakten: Die Salbe wurde auf den gesamten Körper aufgetragen, " +
       "besonders auf Schlafen, Handgelenke, Achseln und Genitalbereich (Bereiche " +
-      "mit duenner Haut und guter Durchblutung fuer transdermale Aufnahme). Der " +
-      "beruehmte 'Hexenbesen' diente moeglicherweise als Applikator.",
+      "mit dünner Haut und guter Durchblutung für transdermale Aufnahme). Der " +
+      "berühmte 'Hexenbesen' diente möglicherweise als Applikator.",
     hintergrund:
       "Johannes Hartlieb (ca. 1400-1468) war ein hochgebildeter Arzt, Astrologe " +
-      "und Uebersetzer am Hof des bayerischen Herzogs Albrecht III. Sein 'Buch " +
-      "aller verbotenen Kuenste' (1456) ist eines der wichtigsten Dokumente zur " +
+      "und Übersetzer am Hof des bayerischen Herzogs Albrecht III. Sein 'Buch " +
+      "aller verbotenen Künste' (1456) ist eines der wichtigsten Dokumente zur " +
       "Geschichte der Magie im deutschsprachigen Raum. Hartlieb beschreibt darin " +
-      "systematisch sieben 'verbotene Kuenste' — von Nekromantie bis Handlesen " +
-      "— immer mit dem erklaerten Ziel, diese zu BEKAEMPFEN. Doch seine " +
+      "systematisch sieben 'verbotene Künste' — von Nekromantie bis Handlesen " +
+      "— immer mit dem erklärten Ziel, diese zu BEKÄMPFEN. Doch seine " +
       "detaillierten Beschreibungen verraten eine intime Kenntnis der Materie. " +
       "Als Leibarzt hatte er Zugang zu Hexenprozess-Akten und konfiszierten " +
       "Rezepturen. Die sieben-Planeten-Struktur des Flugsalben-Rezepts zeigt " +
-      "die tiefe Verschraenkung von Astrologie, Botanik und Magie im " +
-      "spaetmittelalterlichen Denken.",
+      "die tiefe Verschränkung von Astrologie, Botanik und Magie im " +
+      "spätmittelalterlichen Denken.",
     wissenschaft:
       "Die sechs bekannten Zutaten sind pharmakologisch relativ harmlos — " +
       "Ringelblume, Eisenkraut und Hauswurz sind sanfte Heilpflanzen, die Farne " +
-      "enthalten keine signifikanten Psychoaktiva. Das zeigt: Der Schluessel lag " +
+      "enthalten keine signifikanten Psychoaktiva. Das zeigt: Der Schlüssel lag " +
       "im weggelassenen siebten Kraut. Falls es sich um Alraune (Mandragora) " +
-      "oder Bilsenkraut (Hyoscyamus) handelte, wuerde das die psychoaktive " +
-      "Wirkung erklaeren: Beide enthalten Scopolamin, Atropin und Hyoscyamin — " +
+      "oder Bilsenkraut (Hyoscyamus) handelte, würde das die psychoaktive " +
+      "Wirkung erklären: Beide enthalten Scopolamin, Atropin und Hyoscyamin — " +
       "Tropan-Alkaloide, die transdermal aufgenommen werden und lebhafte " +
-      "Halluzinationen des Fliegens erzeugen koennen. Der Pharmakologe " +
+      "Halluzinationen des Fliegens erzeugen können. Der Pharmakologe " +
       "Will-Erich Peuckert unternahm 1960 einen (hoechst riskanten) Selbstversuch " +
       "mit einer rekonstruierten Flugsalbe und berichtete von intensiven " +
       "Flugerlebnissen.",
     geheimtipp:
-      "Hartlieb war nicht nur Arzt — er war auch Uebersetzer von Liebesromanen " +
-      "und kannte sich bestens in der hoefischen Kultur aus. Sein Verhaeltnis " +
+      "Hartlieb war nicht nur Arzt — er war auch Übersetzer von Liebesromanen " +
+      "und kannte sich bestens in der höfischen Kultur aus. Sein Verhältnis " +
       "zur Magie war zutiefst ambivalent: Er verurteilte sie offiziell, " +
       "dokumentierte sie aber so genau, dass sein Buch ironischerweise zum " +
-      "HANDBUCH fuer genau die Praktiken wurde, die er bekaempfen wollte. " +
-      "Herzog Albrecht selbst soll grosses Interesse an Astrologie und Magie " +
-      "gehabt haben — Hartliebs 'Warnung' war moeglicherweise auch eine " +
-      "diskrete Anleitung fuer seinen Herrn.",
+      "HANDBUCH für genau die Praktiken wurde, die er bekämpfen wollte. " +
+      "Herzog Albrecht selbst soll großes Interesse an Astrologie und Magie " +
+      "gehabt haben — Hartliebs 'Warnung' war möglicherweise auch eine " +
+      "diskrete Anleitung für seinen Herrn.",
     vorsicht:
       "REIN HISTORISCH — NICHT NACHMACHEN!\n" +
-      "Obwohl die bekannten sechs Zutaten relativ harmlos sind, waere das " +
-      "fehlende siebte Kraut (vermutlich ein Nachtschattengewaechs) HOCHGIFTIG " +
+      "Obwohl die bekannten sechs Zutaten relativ harmlos sind, wäre das " +
+      "fehlende siebte Kraut (vermutlich ein Nachtschattengewächs) HOCHGIFTIG " +
       "gewesen. Tropan-Alkaloide haben eine extrem enge therapeutische Breite: " +
       "Die Dosis zwischen 'Halluzination' und 'Tod durch Atemstillstand' ist " +
-      "minimal. Es gibt KEINE sichere Dosierung fuer Laien. Hinzu kommt: " +
+      "minimal. Es gibt KEINE sichere Dosierung für Laien. Hinzu kommt: " +
       "Transdermale Aufnahme ist unkontrollierbar — Hautzustand, Temperatur " +
       "und individuelle Empfindlichkeit machen jede Anwendung zum Russischen " +
       "Roulette.",
-    quelle: "Johannes Hartlieb, 'Das Buch aller verbotenen Kuenste', 1456; " +
-      "Analyse bei Frank Fuerbeth, 'Johannes Hartlieb — Untersuchungen zu " +
+    quelle: "Johannes Hartlieb, 'Das Buch aller verbotenen Künste', 1456; " +
+      "Analyse bei Frank Fürbeth, 'Johannes Hartlieb — Untersuchungen zu " +
       "Leben und Werk', 1992",
     tags: [
       "#Flugsalbe", "#Hexenflug", "#Hartlieb", "#Planetenmagie",
@@ -142,7 +142,7 @@ export const GRIMOIRE_REZEPTE = [
       "#TransdermaleAlkaloide", "#Hexenverfolgung"
     ],
     besonders_bei: [
-      "Flugsalbe", "Hexenflug", "Hexensalbe", "Planetenkraeuter",
+      "Flugsalbe", "Hexenflug", "Hexensalbe", "Planetenkräuter",
       "Mittelalter", "Hexenverfolgung"
     ]
   },
@@ -155,11 +155,11 @@ export const GRIMOIRE_REZEPTE = [
     beschreibung:
       "Der italienische Universalgelehrte Giambattista della Porta dokumentierte " +
       "in seiner 'Magia Naturalis' zwei Flugsalben-Rezepte — und war damit " +
-      "einer der Ersten, die eine RATIONALE Erklaerung fuer den 'Hexenflug' " +
-      "lieferten. Della Porta war kein Hexer, sondern ein fruehneuzeitlicher " +
+      "einer der Ersten, die eine RATIONALE Erklärung für den 'Hexenflug' " +
+      "lieferten. Della Porta war kein Hexer, sondern ein frühneuzeitlicher " +
       "Wissenschaftler, der die Grenze zwischen Magie und Naturwissenschaft " +
-      "auslotete. Seine Rezepte enthalten die gefaehrlichsten Giftpflanzen " +
-      "Europas — Eisenhut und Tollkirsche. ABSOLUT TOEDLICH.",
+      "auslotete. Seine Rezepte enthalten die gefährlichsten Giftpflanzen " +
+      "Europas — Eisenhut und Tollkirsche. ABSOLUT TÖDLICH.",
     zutaten: [
       {
         name: "REZEPT 1 — Selleriesaft (Apium graveolens)",
@@ -170,29 +170,29 @@ export const GRIMOIRE_REZEPTE = [
         name: "REZEPT 1 — Eisenhut (Aconitum napellus)",
         menge: "Nicht genau spezifiziert",
         wirkung:
-          "TOEDLICH GIFTIG! Aconitin — eines der staerksten Pflanzengifte ueberhaupt. " +
-          "Bereits 2-5mg Aconitin koennen toedlich sein. Erzeugt Taubheit, Kribbeln, " +
-          "dann Herzrhythmusstoerungen und Atemstillstand."
+          "TÖDLICH GIFTIG! Aconitin — eines der stärksten Pflanzengifte überhaupt. " +
+          "Bereits 2-5mg Aconitin können tödlich sein. Erzeugt Taubheit, Kribbeln, " +
+          "dann Herzrhythmusstörungen und Atemstillstand."
       },
       {
-        name: "REZEPT 1 — Pappelblaetter (Populus)",
+        name: "REZEPT 1 — Pappelblätter (Populus)",
         menge: "Nicht genau spezifiziert",
-        wirkung: "Salicin — entzuendungshemmend. In Flugsalben moeglicherweise als Traeger."
+        wirkung: "Salicin — entzündungshemmend. In Flugsalben möglicherweise als Träger."
       },
       {
-        name: "REZEPT 1 — Russ",
+        name: "REZEPT 1 — Ruß",
         menge: "Nicht genau spezifiziert",
-        wirkung: "Verdickungs- und Faerbemittel. Moeglicherweise auch rituelle Bedeutung (Schwarz)."
+        wirkung: "Verdickungs- und Färbemittel. Möglicherweise auch rituelle Bedeutung (Schwarz)."
       },
       {
         name: "REZEPT 1 — Fettbasis (Schmalz)",
         menge: "Als Grundlage",
-        wirkung: "Transdermaler Traeger fuer die Wirkstoffe."
+        wirkung: "Transdermaler Träger für die Wirkstoffe."
       },
       {
         name: "REZEPT 2 — Sium (Wasserpastinake, Sium latifolium)",
         menge: "Nicht genau spezifiziert",
-        wirkung: "Leicht giftig, kann mit dem toedlichen Wasserschierling verwechselt werden."
+        wirkung: "Leicht giftig, kann mit dem tödlichen Wasserschierling verwechselt werden."
       },
       {
         name: "REZEPT 2 — Kalmus (Acorus calamus)",
@@ -200,89 +200,89 @@ export const GRIMOIRE_REZEPTE = [
         wirkung: "Asaron — in hohen Dosen leicht psychoaktiv, MAO-hemmend."
       },
       {
-        name: "REZEPT 2 — Fuenffingerraut (Potentilla reptans)",
+        name: "REZEPT 2 — Fünffingerraut (Potentilla reptans)",
         menge: "Nicht genau spezifiziert",
         wirkung: "Gerbstoffe, adstringierend. Magisch als Schutzkraut und in Hexenrezepten."
       },
       {
         name: "REZEPT 2 — Fledermausblut",
         menge: "Beigemischt",
-        wirkung: "Ritueller Bestandteil — Fledermaeuse galten als Nachtgeschoepfe der Hexen."
+        wirkung: "Ritueller Bestandteil — Fledermaeuse galten als Nachtgeschöpfe der Hexen."
       },
       {
         name: "REZEPT 2 — Tollkirsche (Atropa belladonna)",
         menge: "Nicht genau spezifiziert",
         wirkung:
-          "TOEDLICH GIFTIG! Atropin, Scopolamin, Hyoscyamin — Tropan-Alkaloide. " +
+          "TÖDLICH GIFTIG! Atropin, Scopolamin, Hyoscyamin — Tropan-Alkaloide. " +
           "Erzeugen Halluzinationen, Verwirrtheit, erweiterte Pupillen, Herzrasen. " +
-          "Bereits 10-20 Beeren koennen bei Erwachsenen toedlich sein."
+          "Bereits 10-20 Beeren können bei Erwachsenen tödlich sein."
       },
       {
-        name: "REZEPT 2 — Oelbasis (Olivenoel oder Leinoel)",
+        name: "REZEPT 2 — Ölbasis (Olivenöl oder Leinöl)",
         menge: "Als Grundlage",
-        wirkung: "Transdermaler Traeger, alternative Basis zum Schmalz."
+        wirkung: "Transdermaler Träger, alternative Basis zum Schmalz."
       }
     ],
     zubereitung:
-      "REIN HISTORISCH — NICHT NACHMACHEN! TOEDLICHE GIFTE!\n\n" +
+      "REIN HISTORISCH — NICHT NACHMACHEN! TÖDLICHE GIFTE!\n\n" +
       "Della Porta beschreibt: Die pflanzlichen Bestandteile werden zerkleinert " +
-      "und ausgekocht, der Sud wird mit der Fettbasis verruehrt bis eine " +
-      "salbenartige Konsistenz entsteht. Das Blut wird zuletzt eingeruehrt. " +
+      "und ausgekocht, der Sud wird mit der Fettbasis verrührt bis eine " +
+      "salbenartige Konsistenz entsteht. Das Blut wird zuletzt eingerührt. " +
       "Die Salbe wird 'gereift' — vermutlich mehrere Tage. Della Porta gibt " +
-      "keine praezisen Mengenangaben, da auch er das Rezept als wissenschaftliche " +
+      "keine präzisen Mengenangaben, da auch er das Rezept als wissenschaftliche " +
       "Dokumentation verstand, nicht als Gebrauchsanweisung.",
     anwendung:
-      "REIN HISTORISCH — NICHT NACHMACHEN! TOEDLICHE GIFTE!\n\n" +
-      "Della Porta berichtet: Die Salbe wurde grossflaechig auf den Koerper " +
+      "REIN HISTORISCH — NICHT NACHMACHEN! TÖDLICHE GIFTE!\n\n" +
+      "Della Porta berichtet: Die Salbe wurde großflächig auf den Körper " +
       "aufgetragen. Er beschreibt, wie eine 'alte Frau' sich entkleidete, die " +
       "Salbe auftrug, in einen tiefen Schlaf fiel und nach dem Erwachen " +
-      "beharrlich behauptete, sie sei 'ueber Meere und Berge geflogen'. Della " +
+      "beharrlich behauptete, sie sei 'über Meere und Berge geflogen'. Della " +
       "Porta nutzte diese Beobachtung als Beweis, dass der Hexenflug eine " +
-      "HALLUZINATION war, keine Realitaet.",
+      "HALLUZINATION war, keine Realität.",
     hintergrund:
       "Giambattista della Porta (1535-1615) war einer der faszinierendsten " +
-      "Koepfe der Renaissance — Naturphilosoph, Dramatiker, Kryptograph und " +
-      "Gruender einer der ersten wissenschaftlichen Akademien (Academia " +
+      "Köpfe der Renaissance — Naturphilosoph, Dramatiker, Kryptograph und " +
+      "Gründer einer der ersten wissenschaftlichen Akademien (Academia " +
       "Secretorum Naturae). Seine 'Magia Naturalis' (1558, erweitert 1589) " +
-      "war ein Versuch, 'natuerliche Magie' von 'daemonischer Magie' zu " +
-      "trennen — also Naturphaenomene rational zu erklaeren, die als " +
-      "uebernatuerlich galten. Die Flugsalben-Passage ist dabei sein " +
-      "Paradebeispiel: Was die Inquisition fuer Teufelswerk hielt, war " +
+      "war ein Versuch, 'natürliche Magie' von 'dämonischer Magie' zu " +
+      "trennen — also Naturphänomene rational zu erklären, die als " +
+      "übernatürlich galten. Die Flugsalben-Passage ist dabei sein " +
+      "Paradebeispiel: Was die Inquisition für Teufelswerk hielt, war " +
       "in Wahrheit Pharmakologie. Della Porta geriet trotzdem in Konflikt " +
-      "mit der Inquisition und musste seine Akademie schliessen.",
+      "mit der Inquisition und musste seine Akademie schließen.",
     wissenschaft:
-      "Della Portas Rezepte enthalten die Schluesselpflanzen fuer eine " +
+      "Della Portas Rezepte enthalten die Schlüsselpflanzen für eine " +
       "pharmakologisch wirksame Flugsalbe:\n\n" +
       "• TROPAN-ALKALOIDE (Tollkirsche): Scopolamin, Atropin, Hyoscyamin — " +
       "anticholinerge Substanzen die Halluzinationen erzeugen, besonders " +
-      "Fluggefuehle und Formwandlung.\n\n" +
+      "Fluggefühle und Formwandlung.\n\n" +
       "• ACONITIN (Eisenhut): Erzeugt intensives Kribbeln und Taubheit der " +
-      "Haut — was das Gefuehl der 'Koerperlosigkeit' verstaerkt haette.\n\n" +
-      "• TRANSDERMALE AUFNAHME: Die Fettbasis ermoeglicht die Aufnahme durch " +
-      "die Haut. Besonders ueber Schleimhaeute ist die Bioverfuegbarkeit hoch.\n\n" +
+      "Haut — was das Gefühl der 'Körperlosigkeit' verstärkt hätte.\n\n" +
+      "• TRANSDERMALE AUFNAHME: Die Fettbasis ermöglicht die Aufnahme durch " +
+      "die Haut. Besonders über Schleimhäute ist die Bioverfügbarkeit hoch.\n\n" +
       "• DER BESEN-ZUSAMMENHANG: Historiker wie Michael Harner (1973) und " +
       "Pharmacologen vermuten, dass die Salbe auf einen Stab oder Besenstiel " +
-      "aufgetragen und 'geritten' wurde — fuer die Applikation auf vaginale " +
-      "oder rektale Schleimhaeute, wo die Aufnahme schneller und intensiver " +
-      "ist. Dies koennte der wahre Ursprung des Bildes der 'Hexe auf dem " +
+      "aufgetragen und 'geritten' wurde — für die Applikation auf vaginale " +
+      "oder rektale Schleimhäute, wo die Aufnahme schneller und intensiver " +
+      "ist. Dies könnte der wahre Ursprung des Bildes der 'Hexe auf dem " +
       "Besen' sein.",
     geheimtipp:
       "Della Porta war auch ein fruher Kryptograph — er erfand " +
-      "Verschluesselungsmethoden und war fasziniert von geheimem Wissen. " +
-      "Es ist gut moeglich, dass er seine Flugsalben-Rezepte absichtlich " +
-      "unpraezise hielt — genug fuer den Beweis seiner These, aber nicht " +
-      "genug fuer eine tatsaechliche Herstellung. Ein Wissenschaftler, der " +
+      "Verschlüsselungsmethoden und war fasziniert von geheimem Wissen. " +
+      "Es ist gut möglich, dass er seine Flugsalben-Rezepte absichtlich " +
+      "unpräzise hielt — genug für den Beweis seiner These, aber nicht " +
+      "genug für eine tatsächliche Herstellung. Ein Wissenschaftler, der " +
       "die Grenze zur Gefahr genau kannte.",
     vorsicht:
-      "REIN HISTORISCH — NICHT NACHMACHEN! ABSOLUT LEBENSGEFAEHRLICH!\n\n" +
+      "REIN HISTORISCH — NICHT NACHMACHEN! ABSOLUT LEBENSGEFÄHRLICH!\n\n" +
       "EISENHUT (Aconitum napellus): Eine der giftigsten Pflanzen Europas! " +
       "Bereits der Hautkontakt mit frischen Pflanzenteilen kann zu " +
-      "Vergiftungserscheinungen fuehren. 2-5mg Aconitin sind TOEDLICH. " +
+      "Vergiftungserscheinungen führen. 2-5mg Aconitin sind TÖDLICH. " +
       "Es gibt KEIN Gegengift. Tod durch Herzversagen oder Atemstillstand.\n\n" +
       "TOLLKIRSCHE (Atropa belladonna): Tropan-Alkaloide in unkontrollierter " +
-      "Dosierung sind TOEDLICH. Symptome: Pupillenerweiterung, Herzrasen, " +
-      "Halluzinationen, Kraempfe, Koma, Tod.\n\n" +
-      "Die Kombination beider Gifte ist BESONDERS toedlich, da sie " +
+      "Dosierung sind TÖDLICH. Symptome: Pupillenerweiterung, Herzrasen, " +
+      "Halluzinationen, Krämpfe, Koma, Tod.\n\n" +
+      "Die Kombination beider Gifte ist BESONDERS tödlich, da sie " +
       "unterschiedliche toxische Mechanismen aktivieren.",
     quelle:
       "Giambattista della Porta, 'Magia Naturalis sive de Miraculis Rerum " +
@@ -306,19 +306,19 @@ export const GRIMOIRE_REZEPTE = [
     kategorie: "Flugsalbe",
     schwierigkeit: "Fortgeschritten",
     beschreibung:
-      "Ein reiner Wissenseintrag, der die moderne pharmakologische Erklaerung " +
-      "fuer den 'Hexenflug' zusammenfasst. Die Tropan-Alkaloide der " +
-      "Nachtschattengewaechse — Scopolamin, Atropin, Hyoscyamin — sind der " +
-      "Schluessel zum Verstaendnis einer der groessten Raetsel der " +
-      "europaeischen Kulturgeschichte. Was die Inquisition als Beweis fuer " +
-      "Teufelsbuendnisse wertete, war in Wahrheit eine pharmakologische " +
+      "Ein reiner Wissenseintrag, der die moderne pharmakologische Erklärung " +
+      "für den 'Hexenflug' zusammenfasst. Die Tropan-Alkaloide der " +
+      "Nachtschattengewächse — Scopolamin, Atropin, Hyoscyamin — sind der " +
+      "Schlüssel zum Verständnis einer der größten Rätsel der " +
+      "europäischen Kulturgeschichte. Was die Inquisition als Beweis für " +
+      "Teufelsbündnisse wertete, war in Wahrheit eine pharmakologische " +
       "Reaktion auf potente Pflanzengifte.",
     zutaten: [
       {
         name: "Tollkirsche (Atropa belladonna)",
         menge: "Historisch in Flugsalben verwendet",
         wirkung:
-          "Atropin, Scopolamin, Hyoscyamin. Anticholinerg. TOEDLICH GIFTIG. " +
+          "Atropin, Scopolamin, Hyoscyamin. Anticholinerg. TÖDLICH GIFTIG. " +
           "Erweitert Pupillen, erzeugt Halluzinationen, beschleunigt Herzschlag."
       },
       {
@@ -326,62 +326,62 @@ export const GRIMOIRE_REZEPTE = [
         menge: "Historisch in Flugsalben verwendet",
         wirkung:
           "Hyoscyamin, Scopolamin. Starkere sedierende Komponente als Tollkirsche. " +
-          "Erzeugt besonders lebhafte Traeume und Visionen. TOEDLICH GIFTIG."
+          "Erzeugt besonders lebhafte Traeume und Visionen. TÖDLICH GIFTIG."
       },
       {
         name: "Alraune (Mandragora officinarum)",
         menge: "Historisch in Flugsalben verwendet",
         wirkung:
-          "Hyoscyamin, Scopolamin, Mandragorin. Die 'Koenigspflanze' der " +
-          "Flugsalben. Menschenaehnliche Wurzelform gab ihr besonderen " +
-          "magischen Status. TOEDLICH GIFTIG."
+          "Hyoscyamin, Scopolamin, Mandragorin. Die 'Königspflanze' der " +
+          "Flugsalben. Menschenähnliche Wurzelform gab ihr besonderen " +
+          "magischen Status. TÖDLICH GIFTIG."
       },
       {
         name: "Stechapfel (Datura stramonium)",
         menge: "Historisch in Flugsalben verwendet",
         wirkung:
           "Scopolamin, Atropin, Hyoscyamin. Besonders hoher Scopolamin-Gehalt. " +
-          "Erzeugt intensive Halluzinationen mit Realitaetsverlust. TOEDLICH GIFTIG."
+          "Erzeugt intensive Halluzinationen mit Realitätsverlust. TÖDLICH GIFTIG."
       },
       {
-        name: "Fettbasis (Schweineschmalz, Gaenseschmalz, Oel)",
+        name: "Fettbasis (Schweineschmalz, Gänseschmalz, Öl)",
         menge: "Grundlage aller Flugsalben",
         wirkung:
           "ENTSCHEIDEND: Ohne die Fettbasis keine transdermale Aufnahme! Das " +
-          "Fett loest die lipophilen Alkaloide und ermoeglicht den Transport " +
+          "Fett löst die lipophilen Alkaloide und ermöglicht den Transport " +
           "durch die Hautbarriere. Dasselbe Prinzip wie bei modernen " +
           "transdermalen Pflastern."
       }
     ],
     zubereitung:
-      "REIN HISTORISCH — NICHT NACHMACHEN! TOEDLICHE GIFTE!\n\n" +
+      "REIN HISTORISCH — NICHT NACHMACHEN! TÖDLICHE GIFTE!\n\n" +
       "Dies ist ein Wissenseintrag, keine Anleitung. Die historischen " +
       "Zubereitungsschritte waren: Pflanzenteile zerkleinern, in Fett " +
-      "auskochen oder mazerieren, abseihen, abkuehlen lassen. Die " +
-      "resultierende Salbe enthielt die fettloeslichen Alkaloide in einer " +
-      "transdermalen Traegerbasis.",
+      "auskochen oder mazerieren, abseihen, abkühlen lassen. Die " +
+      "resultierende Salbe enthielt die fettlöslichen Alkaloide in einer " +
+      "transdermalen Trägerbasis.",
     anwendung:
       "REIN HISTORISCH — NICHT NACHMACHEN!\n\n" +
-      "Historisch dokumentiert: Grossflaechiges Einreiben des Koerpers, " +
-      "besonders an Stellen mit duenner Haut (Schlafen, Achseln, " +
-      "Handgelenke, Genitalbereich). Die Aufnahme ueber Schleimhaeute " +
+      "Historisch dokumentiert: Großflächiges Einreiben des Körpers, " +
+      "besonders an Stellen mit dünner Haut (Schlafen, Achseln, " +
+      "Handgelenke, Genitalbereich). Die Aufnahme über Schleimhäute " +
       "war besonders effektiv. Nach 30-60 Minuten setzten die Wirkungen " +
-      "ein: tiefe Trance, Halluzinationen, Fluggefuehle.",
+      "ein: tiefe Trance, Halluzinationen, Fluggefühle.",
     hintergrund:
-      "Der Zusammenhang zwischen Hexensalben und Nachtschattengewaechsen " +
+      "Der Zusammenhang zwischen Hexensalben und Nachtschattengewächsen " +
       "ist seit der Renaissance dokumentiert — Andres de Laguna, Leibarzt " +
-      "Kaiser Karls V., fuehrte 1555 einen der ersten 'klinischen Tests' " +
+      "Kaiser Karls V., führte 1555 einen der ersten 'klinischen Tests' " +
       "durch: Er testete eine konfiszierte Hexensalbe an der Frau eines " +
       "Henkers. Die Frau schlief 36 Stunden und berichtete nach dem " +
-      "Erwachen voller Entruestung, man habe sie 'von ihrem Liebhaber " +
-      "weggerissen' und von 'Vergnuegungen und Fluegen' — sie hatte die " +
+      "Erwachen voller Entrüstung, man habe sie 'von ihrem Liebhaber " +
+      "weggerissen' und von 'Vergnügungen und Flügen' — sie hatte die " +
       "Halluzination als vollkommen real erlebt.\n\n" +
       "Michael J. Harner stellte 1973 in seinem Aufsatz 'The Role of " +
       "Hallucinogenic Plants in European Witchcraft' erstmals systematisch " +
       "die Verbindung zwischen Ethnobotanik und Hexenforschung her. " +
-      "Seine These: Der europaeische Hexenkult hatte eine reale " +
+      "Seine These: Der europäische Hexenkult hatte eine reale " +
       "pharmakologische Basis, vergleichbar mit schamanischen Praktiken " +
-      "in Sued- und Mittelamerika.",
+      "in Süd- und Mittelamerika.",
     wissenschaft:
       "DIE TROPAN-ALKALOIDE — Wirkungsmechanismus:\n\n" +
       "Scopolamin, Atropin und Hyoscyamin sind ANTICHOLINERGIKA — sie " +
@@ -391,45 +391,45 @@ export const GRIMOIRE_REZEPTE = [
       "• Pupillenerweiterung (Mydriasis)\n" +
       "• Mundtrockenheit\n" +
       "• Beschleunigter Herzschlag (Tachykardie)\n" +
-      "• Hemmung der Schweissproduktion\n" +
+      "• Hemmung der Schweißproduktion\n" +
       "• Harnverhalt\n\n" +
       "ZENTRALE WIRKUNGEN (das 'Fliegen'):\n" +
       "• Lebhafte visuelle und taktile Halluzinationen\n" +
-      "• Besonders: Gefuehl des FLIEGENS und der FORMWANDLUNG\n" +
-      "• Gefuehl der Koerperlosigkeit\n" +
-      "• Intensive, realitaetsnahe Traumzustaende\n" +
-      "• Amnesie fuer Teile des Erlebten\n" +
+      "• Besonders: Gefühl des FLIEGENS und der FORMWANDLUNG\n" +
+      "• Gefühl der Körperlosigkeit\n" +
+      "• Intensive, realitätsnahe Traumzustände\n" +
+      "• Amnesie für Teile des Erlebten\n" +
       "• Die Halluzinationen werden als REAL erlebt — anders als bei " +
-      "klassischen Psychedelika ist der Betroffene ueberzeugt, " +
-      "tatsaechlich geflogen zu sein\n\n" +
+      "klassischen Psychedelika ist der Betroffene überzeugt, " +
+      "tatsächlich geflogen zu sein\n\n" +
       "DIE THERAPEUTISCHE BREITE IST EXTREM ENG:\n" +
       "Zwischen 'Halluzination' und 'Tod durch Atemstillstand oder " +
       "Herzversagen' liegen manchmal nur Milligramm. Es gibt KEINE " +
-      "sichere Dosierung fuer Laien.\n\n" +
+      "sichere Dosierung für Laien.\n\n" +
       "MODERNE PARALLELE:\n" +
       "Scopolamin wird heute als transdermales Pflaster gegen Reisekrankheit " +
       "verwendet (Scopoderm TTS) — dasselbe Prinzip wie bei den Flugsalben, " +
-      "aber in EXAKT kontrollierter Mikrodosierung (1mg ueber 72 Stunden). " +
-      "Eine Flugsalbe haette ein Vielfaches dieser Dosis unkontrolliert " +
+      "aber in EXAKT kontrollierter Mikrodosierung (1mg über 72 Stunden). " +
+      "Eine Flugsalbe hätte ein Vielfaches dieser Dosis unkontrolliert " +
       "freigesetzt.",
     geheimtipp:
       "Warum gerade FLIEGEN? Die Anthropologin Eva Poecs bemerkt: In fast " +
       "allen Kulturen, die anticholinerge Pflanzen nutzen, berichten die " +
-      "Anwender von Fluegerlebnissen. Es scheint ein spezifischer " +
+      "Anwender von Flügerlebnissen. Es scheint ein spezifischer " +
       "neurochemischer Effekt zu sein — die Blockade der " +
-      "Acetylcholin-Rezeptoren erzeugt offenbar ein universelles Gefuehl " +
+      "Acetylcholin-Rezeptoren erzeugt offenbar ein universelles Gefühl " +
       "des Schwebens und Fliegens. Das ist bemerkenswert: Verschiedene " +
       "Kulturen, verschiedene Kontinente, verschiedene Pflanzen — aber " +
       "dieselbe Erfahrung. Die Hexen 'flogen' nicht wegen kultureller " +
       "Erwartung, sondern wegen Neurochemie.",
     vorsicht:
-      "REIN HISTORISCH — NICHT NACHMACHEN! ABSOLUT LEBENSGEFAEHRLICH!\n\n" +
-      "Alle genannten Pflanzen sind TOEDLICH GIFTIG:\n\n" +
-      "• Tollkirsche: 10-20 Beeren toedlich fuer Erwachsene, 3-4 fuer Kinder\n" +
+      "REIN HISTORISCH — NICHT NACHMACHEN! ABSOLUT LEBENSGEFÄHRLICH!\n\n" +
+      "Alle genannten Pflanzen sind TÖDLICH GIFTIG:\n\n" +
+      "• Tollkirsche: 10-20 Beeren tödlich für Erwachsene, 3-4 für Kinder\n" +
       "• Bilsenkraut: Alle Pflanzenteile giftig, besonders Samen und Wurzel\n" +
-      "• Alraune: Wurzel und Fruechte hochgiftig\n" +
+      "• Alraune: Wurzel und Früchte hochgiftig\n" +
       "• Stechapfel: Alle Pflanzenteile giftig, besonders Samen (20-30 Samen " +
-      "koennen toedlich sein)\n" +
+      "können tödlich sein)\n" +
       "• Eisenhut: Eine der giftigsten Pflanzen Europas, bereits Hautkontakt " +
       "kann vergiften, KEIN Gegengift\n\n" +
       "Bei Vergiftungsverdacht: SOFORT Notarzt (112) und " +
@@ -458,102 +458,102 @@ export const GRIMOIRE_REZEPTE = [
 
   {
     id: "liebesapfel",
-    name: "Liebesaepfel — Der klassische Liebeszauber",
+    name: "Liebesäpfel — Der klassische Liebeszauber",
     kategorie: "Liebesmagie",
     schwierigkeit: "Einfach",
     beschreibung:
-      "Der Liebesapfel ist einer der aeltesten und weitverbreitetsten " +
-      "Liebeszauber der europaeischen Tradition. Vom Urteil des Paris ueber " +
+      "Der Liebesapfel ist einer der ältesten und weitverbreitetsten " +
+      "Liebeszauber der europäischen Tradition. Vom Urteil des Paris über " +
       "den Garten Eden bis zur mittelalterlichen Minnekultur — der Apfel war " +
-      "seit jeher die Frucht der Liebe, der Venus, der Versuechung. Dieser " +
-      "Zauber ist voellig ungefaehrlich, wunderschoen und kann tatsaechlich " +
+      "seit jeher die Frucht der Liebe, der Venus, der Versüchung. Dieser " +
+      "Zauber ist völlig ungefährlich, wunderschön und kann tatsächlich " +
       "praktiziert werden — als charmantes Ritual der Zuneigung.",
     zutaten: [
       {
-        name: "Ein schoener Apfel",
-        menge: "1 Stueck, moeglichst rot und makellos",
+        name: "Ein schöner Apfel",
+        menge: "1 Stück, möglichst rot und makellos",
         wirkung:
           "Symbol der Venus/Aphrodite. Schneidet man einen Apfel quer durch, " +
-          "zeigt sich im Kerngehaeuse ein fuenfzackiger Stern — das Pentagramm " +
+          "zeigt sich im Kerngehaeuse ein fünfzackiger Stern — das Pentagramm " +
           "der Venus."
       },
       {
-        name: "Rosenbluetenblaetter",
+        name: "Rosenblütenblätter",
         menge: "Eine Handvoll, frisch oder getrocknet",
-        wirkung: "Rose = Venus = Liebe. Aetherische Oele wirken stimmungsaufhellend und sinnlich."
+        wirkung: "Rose = Venus = Liebe. Ätherische Öle wirken stimmungsaufhellend und sinnlich."
       },
       {
         name: "Zimt (Cinnamomum verum)",
         menge: "1 Teelöffel, gemahlen",
-        wirkung: "Waermend, durchblutungsfoerdernd. In der Magie: Leidenschaft, Anziehung."
+        wirkung: "Wärmend, durchblutungsfördernd. In der Magie: Leidenschaft, Anziehung."
       },
       {
         name: "Nelken (Syzygium aromaticum)",
-        menge: "3-5 Stueck, ganz oder gemahlen",
-        wirkung: "Eugenol — antiseptisch, waermend. Magisch: Treue und Bindung."
+        menge: "3-5 Stück, ganz oder gemahlen",
+        wirkung: "Eugenol — antiseptisch, wärmend. Magisch: Treue und Bindung."
       },
       {
         name: "Muskatnuss (Myristica fragrans)",
         menge: "Eine Prise, frisch gerieben",
-        wirkung: "Myristicin — in grossen Mengen halluzinogen, hier nur aromatisch. Magisch: Glueck."
+        wirkung: "Myristicin — in großen Mengen halluzinogen, hier nur aromatisch. Magisch: Glück."
       },
       {
         name: "Honig",
-        menge: "1-2 Essloeffel",
-        wirkung: "Das Urbild der Suesse. 'Honigsuesse Worte' — Honig verbindet die Zutaten und symbolisiert die Suesse der Liebe."
+        menge: "1-2 Esslöffel",
+        wirkung: "Das Urbild der Süße. 'Honigsüße Worte' — Honig verbindet die Zutaten und symbolisiert die Süße der Liebe."
       }
     ],
     zubereitung:
-      "Den Apfel sorgfaeltig aushohlen (Deckel oben abschneiden und aufheben). " +
-      "Die Rosenbluetenblaetter mit Zimt, Nelken und Muskatnuss vermischen. " +
-      "Die Mischung in den ausgehoehlten Apfel fuellen. Mit Honig betraeufeln. " +
-      "Den Deckel wieder aufsetzen. Den Apfel ueber Nacht auf dem Nachttisch " +
+      "Den Apfel sorgfältig aushohlen (Deckel oben abschneiden und aufheben). " +
+      "Die Rosenblütenblätter mit Zimt, Nelken und Muskatnuss vermischen. " +
+      "Die Mischung in den ausgehöhlten Apfel füllen. Mit Honig beträufeln. " +
+      "Den Deckel wieder aufsetzen. Den Apfel über Nacht auf dem Nachttisch " +
       "oder unter dem Kopfkissen aufbewahren — er soll die Traeume des " +
-      "Schlafenden aufnehmen. Am naechsten Tag der geliebten Person schenken " +
+      "Schlafenden aufnehmen. Am nächsten Tag der geliebten Person schenken " +
       "und gemeinsam essen.",
     anwendung:
       "Am besten an einem Freitag (Venus-Tag) zubereiten. Den Apfel mit der " +
-      "rechten Hand ueberreichen — die rechte Seite galt als die Herzseite " +
-      "(das Herz schlaegt links, aber es GIBT nach rechts). Dabei der " +
+      "rechten Hand überreichen — die rechte Seite galt als die Herzseite " +
+      "(das Herz schlägt links, aber es GIBT nach rechts). Dabei der " +
       "geliebten Person in die Augen schauen und die Intention im Herzen halten.",
     hintergrund:
-      "Der Apfel als Liebesfrucht reicht zurueck bis in die Antike: Aphrodite " +
-      "erhaelt den goldenen Apfel im Urteil des Paris, Atalante wird mit " +
-      "goldenen Aepfeln bezwungen, im Hohelied Salomos heisst es 'staerket " +
-      "mich mit Aepfeln, denn ich bin krank vor Liebe'. Im nordischen Mythos " +
-      "huetet Idun die Aepfel der ewigen Jugend. Der Apfel vereint das " +
+      "Der Apfel als Liebesfrucht reicht zurück bis in die Antike: Aphrodite " +
+      "erhält den goldenen Apfel im Urteil des Paris, Atalante wird mit " +
+      "goldenen Äpfeln bezwungen, im Hohelied Salomos heißt es 'stärket " +
+      "mich mit Äpfeln, denn ich bin krank vor Liebe'. Im nordischen Mythos " +
+      "hütet Idun die Äpfel der ewigen Jugend. Der Apfel vereint das " +
       "Weibliche (runde Form, Fruchtbarkeit) mit dem Geheimnis (das verborgene " +
       "Pentagramm im Kerngehaeuse). In der mittelalterlichen Volksmagie " +
-      "Mitteleuropas waren Liebesaepfel weit verbreitet — sie werden in " +
-      "zahllosen Rezeptsammlungen und Prozessakten erwaehnt, meist als " +
+      "Mitteleuropas waren Liebesäpfel weit verbreitet — sie werden in " +
+      "zahllosen Rezeptsammlungen und Prozessakten erwähnt, meist als " +
       "harmloser Liebeszauber.",
     wissenschaft:
-      "Die Gewuerzmischung ist pharmakologisch mild, aber nicht wirkungslos: " +
-      "Zimtaldehyd (Zimt) ist leicht durchblutungsfoerdernd und waermend, " +
+      "Die Gewürzmischung ist pharmakologisch mild, aber nicht wirkungslos: " +
+      "Zimtaldehyd (Zimt) ist leicht durchblutungsfördernd und wärmend, " +
       "Eugenol (Nelken) wirkt mild analgetisch und stimmungshebend, die " +
-      "aetherischen Oele der Rose (Geraniol, Citronellol) haben " +
+      "ätherischen Öle der Rose (Geraniol, Citronellol) haben " +
       "nachgewiesene anxiolytische und stimmungsaufhellende Effekte. " +
       "Der Honig liefert Tryptophan — eine Serotonin-Vorstufe. Die " +
       "Kombination ist ein mildes, angenehmes Aromatherapeutikum. Und " +
-      "natuerlich: Das RITUAL selbst — die Aufmerksamkeit, die Intention, " +
+      "natürlich: Das RITUAL selbst — die Aufmerksamkeit, die Intention, " +
       "das gemeinsame Essen — ist die eigentliche 'Magie'.",
     geheimtipp:
-      "Den Apfel mit der rechten Hand ueberreichen, dabei in die Augen " +
-      "schauen. In der Volksmagie heisst es: Wenn die beschenkte Person " +
-      "den Apfel annimmt und hineinbeisst, ist das ein 'Ja'. Noch " +
-      "schoener: Den Apfel ZUSAMMEN zubereiten — dann ist der Zauber " +
+      "Den Apfel mit der rechten Hand überreichen, dabei in die Augen " +
+      "schauen. In der Volksmagie heißt es: Wenn die beschenkte Person " +
+      "den Apfel annimmt und hineinbeißt, ist das ein 'Ja'. Noch " +
+      "schöner: Den Apfel ZUSAMMEN zubereiten — dann ist der Zauber " +
       "kein Manipulation, sondern ein gemeinsames Ritual der Verbindung.",
     vorsicht:
-      "Voellig ungefaehrlich. Alle Zutaten sind Lebensmittel. " +
+      "Völlig ungefährlich. Alle Zutaten sind Lebensmittel. " +
       "Einzige Vorsicht: Bei Zimtallergie auf Zimt verzichten, und Muskatnuss " +
-      "nur in kleiner Menge verwenden (in Gramm-Mengen waere Muskatnuss " +
-      "halluzinogen und giftig, aber eine Prise ist voellig harmlos).",
+      "nur in kleiner Menge verwenden (in Gramm-Mengen wäre Muskatnuss " +
+      "halluzinogen und giftig, aber eine Prise ist völlig harmlos).",
     quelle:
-      "Europaeische Volksmagie, zahlreiche Quellen; vgl. Hanns Baeuchtold-Staeubli, " +
-      "'Handwoerterbuch des deutschen Aberglaubens', 1927-1942, Stichwort 'Apfel'",
+      "Europäische Volksmagie, zahlreiche Quellen; vgl. Hanns Bäuchtold-Stäubli, " +
+      "'Handwörterbuch des deutschen Aberglaubens', 1927-1942, Stichwort 'Apfel'",
     tags: [
       "#Liebesmagie", "#Liebesapfel", "#Venus", "#Volksmagie",
-      "#Aphrodite", "#Ritual", "#Ungefaehrlich", "#Liebeszauber"
+      "#Aphrodite", "#Ritual", "#Ungefährlich", "#Liebeszauber"
     ],
     besonders_bei: [
       "Liebesmagie", "Liebeszauber", "Venus", "Apfel",
@@ -569,92 +569,92 @@ export const GRIMOIRE_REZEPTE = [
     beschreibung:
       "Der Picatrix (arabisch 'Ghayat al-Hakim', 'Das Ziel des Weisen') ist " +
       "das einflussreichste Grimoire der westlichen Magie. Im 11. Jahrhundert " +
-      "auf Arabisch verfasst, im 13. Jahrhundert ins Lateinische uebersetzt, " +
-      "wurde es zur Urquelle fuer alle spaeteren europaeischen Zauberbuecher. " +
+      "auf Arabisch verfasst, im 13. Jahrhundert ins Lateinische übersetzt, " +
+      "wurde es zur Urquelle für alle späteren europäischen Zauberbücher. " +
       "Dieses Venus-Liebesritual aus dem Picatrix verbindet Planetenmagie mit " +
-      "Raeucherkunst und Trankbereitung — und alle Zutaten sind harmlos.",
+      "Räucherkunst und Trankbereitung — und alle Zutaten sind harmlos.",
     zutaten: [
       {
         name: "Rosenwasser",
-        menge: "250ml, moeglichst aus Damaszener-Rosen",
+        menge: "250ml, möglichst aus Damaszener-Rosen",
         wirkung: "Basis des Tranks. Rose = Venus = Liebe. Beruhigend, stimmungsaufhellend."
       },
       {
         name: "Safran (Crocus sativus)",
-        menge: "Eine Messerspitze (einige Faeden)",
+        menge: "Eine Messerspitze (einige Fäden)",
         wirkung:
-          "Das 'Gold der Gewuerze'. Crocin wirkt antidepressiv (klinisch belegt!). " +
+          "Das 'Gold der Gewürze'. Crocin wirkt antidepressiv (klinisch belegt!). " +
           "In der Magie: Sonne und Venus, Freude, Kostbarkeit."
       },
       {
         name: "Kardamom (Elettaria cardamomum)",
-        menge: "3 Kapseln, leicht angedrueckt",
-        wirkung: "Waermend, verdauungsfoerdernd. Magisch: Liebe und Lust. Im Orient klassisches Aphrodisiakum."
+        menge: "3 Kapseln, leicht angedrückt",
+        wirkung: "Wärmend, verdauungsfördernd. Magisch: Liebe und Lust. Im Orient klassisches Aphrodisiakum."
       },
       {
         name: "Zucker oder Honig",
         menge: "Nach Geschmack",
-        wirkung: "Suesse als Symbol und Geschmackstraeger."
+        wirkung: "Süße als Symbol und Geschmacksträger."
       },
       {
-        name: "Rosenoel (einige Tropfen)",
-        menge: "2-3 Tropfen, aetherisches Oel oder Rosenabsolue",
-        wirkung: "Konzentrierte Essenz der Rose. Eines der teuersten aetherischen Oele — 'fluessiges Gold'."
+        name: "Rosenöl (einige Tropfen)",
+        menge: "2-3 Tropfen, ätherisches Öl oder Rosenabsolue",
+        wirkung: "Konzentrierte Essenz der Rose. Eines der teuersten ätherischen Öle — 'flüssiges Gold'."
       },
       {
-        name: "Fuer die Raeucherung: Moschus (pflanzlicher Ersatz)",
+        name: "Für die Räucherung: Moschus (pflanzlicher Ersatz)",
         menge: "Eine Messerspitze",
         wirkung: "Historisch tierischer Moschus, heute pflanzliche Alternativen. Erdend, sinnlich."
       },
       {
-        name: "Fuer die Raeucherung: Ambra (pflanzlicher Ersatz)",
+        name: "Für die Räucherung: Ambra (pflanzlicher Ersatz)",
         menge: "Eine Messerspitze",
-        wirkung: "Historisch Walrat (Ambra), heute Labdanum als Ersatz. Warm, suess, anziehend."
+        wirkung: "Historisch Walrat (Ambra), heute Labdanum als Ersatz. Warm, süß, anziehend."
       },
       {
-        name: "Fuer die Raeucherung: Aloeholz (Aquilaria)",
-        menge: "Ein kleines Stueck",
-        wirkung: "Oud — einer der kostbarsten Raeucherstoffe der Welt. Tief, meditativ, oeffnend."
+        name: "Für die Räucherung: Aloeholz (Aquilaria)",
+        menge: "Ein kleines Stück",
+        wirkung: "Oud — einer der kostbarsten Räucherstoffe der Welt. Tief, meditativ, öffnend."
       },
       {
-        name: "Fuer die Raeucherung: Rote Rosen (getrocknet)",
+        name: "Für die Räucherung: Rote Rosen (getrocknet)",
         menge: "Eine Handvoll",
         wirkung: "Venus-Pflanze. Duftend und symbolisch."
       },
       {
-        name: "Fuer die Raeucherung: Rote Koralle (gepulvert)",
+        name: "Für die Räucherung: Rote Koralle (gepulvert)",
         menge: "Eine Messerspitze",
-        wirkung: "Venus zugeordnet. Historisch teuer und selten. Optional — heute aus Naturschutzgruenden weglassen."
+        wirkung: "Venus zugeordnet. Historisch teuer und selten. Optional — heute aus Naturschutzgründen weglassen."
       }
     ],
     zubereitung:
       "Am Freitag (Venus-Tag), idealerweise zur 'Stunde der Venus' (astrologisch " +
       "berechnet — vereinfacht: die erste Stunde nach Sonnenaufgang am Freitag).\n\n" +
-      "1. Das Venus-Siegel auf ein Stueck gruenes Papier zeichnen (das Heptagramm " +
+      "1. Das Venus-Siegel auf ein Stück grünes Papier zeichnen (das Heptagramm " +
       "der Venus oder das klassische Venus-Symbol).\n\n" +
-      "2. Die Raeuchermischung auf eine gluehende Raeucherkohle geben. Den aufsteigenden " +
+      "2. Die Räuchermischung auf eine glühende Räucherkohle geben. Den aufsteigenden " +
       "Rauch als Verbindung zur Venus-Kraft verstehen.\n\n" +
-      "3. Waehrend die Raeucherung brennt, das Rosenwasser sanft erwaermen (nicht kochen!). " +
-      "Safran, Kardamom und Zucker/Honig einruehren. Vom Herd nehmen, Rosenoel einruehren.\n\n" +
+      "3. Während die Räucherung brennt, das Rosenwasser sanft erwärmen (nicht kochen!). " +
+      "Safran, Kardamom und Zucker/Honig einrühren. Vom Herd nehmen, Rosenöl einrühren.\n\n" +
       "4. Die Intention klar und liebevoll aussprechen — der Picatrix betont: Die " +
-      "Intention muss REIN sein. Liebesmagie fuer Manipulation funktioniert nicht " +
-      "(oder schlaegt zurueck).\n\n" +
-      "5. Den Trank in zwei Schalen giessen und gemeinsam trinken.",
+      "Intention muss REIN sein. Liebesmagie für Manipulation funktioniert nicht " +
+      "(oder schlägt zurück).\n\n" +
+      "5. Den Trank in zwei Schalen gießen und gemeinsam trinken.",
     anwendung:
       "Gemeinsam mit der geliebten Person trinken, am besten bei Kerzenlicht. " +
-      "Der Picatrix betont die Wichtigkeit der ATMOSPHAERE — die Raeucherung, " +
+      "Der Picatrix betont die Wichtigkeit der ATMOSPHÄRE — die Räucherung, " +
       "die Intention, die Verbindung zwischen den Menschen. Der Trank selbst " +
-      "ist ein Vehikel fuer die Intention, nicht ein 'Zaubermittel'.",
+      "ist ein Vehikel für die Intention, nicht ein 'Zaubermittel'.",
     hintergrund:
       "Der Picatrix entstand vermutlich im 10./11. Jahrhundert im arabischen " +
-      "Raum — moeglicherweise in Al-Andalus (maurisches Spanien). Er " +
+      "Raum — möglicherweise in Al-Andalus (maurisches Spanien). Er " +
       "synthetisiert griechische (hermetische), persische, indische und " +
       "arabische magische Traditionen zu einem umfassenden System der " +
-      "Astral-Magie. Im 13. Jahrhundert wurde er im Auftrag von Koenig " +
-      "Alfons X. von Kastilien ins Lateinische uebersetzt und verbreitete " +
-      "sich rasant in Europa. Fast jedes spaetere Grimoire — von Agrippa von " +
-      "Nettesheims 'De Occulta Philosophia' bis zum 'Schluessel Salomos' — " +
-      "schluepft aus dem Picatrix. Seine Liebes-Rituale sind erstaunlich " +
+      "Astral-Magie. Im 13. Jahrhundert wurde er im Auftrag von König " +
+      "Alfons X. von Kastilien ins Lateinische übersetzt und verbreitete " +
+      "sich rasant in Europa. Fast jedes spätere Grimoire — von Agrippa von " +
+      "Nettesheims 'De Occulta Philosophia' bis zum 'Schlüssel Salomos' — " +
+      "schlüpft aus dem Picatrix. Seine Liebes-Rituale sind erstaunlich " +
       "differenziert: Er unterscheidet zwischen Anziehung, Vertiefung " +
       "bestehender Liebe, und Wiedervereinigung — jeweils mit anderen " +
       "Planeten-Zuordnungen.",
@@ -662,170 +662,170 @@ export const GRIMOIRE_REZEPTE = [
       "Alle Zutaten des Tranks sind harmlos und z.T. wissenschaftlich " +
       "interessant: Safran (Crocus sativus) hat in klinischen Studien " +
       "antidepressive Wirkung gezeigt, vergleichbar mit niedrig dosiertem " +
-      "Fluoxetin. Rosenwasser und Rosenoel enthalten Geraniol und " +
-      "Citronellol, die anxiolytisch (angstloesend) wirken. Kardamom " +
-      "ist verdauungsfoerdernd und erwaermend. Die Raeucherung mit " +
+      "Fluoxetin. Rosenwasser und Rosenöl enthalten Geraniol und " +
+      "Citronellol, die anxiolytisch (angstlösend) wirken. Kardamom " +
+      "ist verdauungsfördernd und erwärmend. Die Räucherung mit " +
       "Aloeholz/Oud setzt terpene Verbindungen frei, die nachweislich " +
       "beruhigend wirken. Zusammen ergibt das ein mildes, " +
-      "stimmungsaufhellendes Erlebnis — der perfekte Rahmen fuer " +
-      "Verbindung und Naehe.",
+      "stimmungsaufhellendes Erlebnis — der perfekte Rahmen für " +
+      "Verbindung und Nähe.",
     geheimtipp:
       "Der Picatrix ist auch deswegen so faszinierend, weil er die " +
-      "ETHIK der Liebesmagie diskutiert. Er warnt ausdruecklich vor " +
+      "ETHIK der Liebesmagie diskutiert. Er warnt ausdrücklich vor " +
       "Manipulation und betont, dass wahre Liebesmagie nur funktioniert, " +
       "wenn sie im Einklang mit dem Willen beider Beteiligten steht. " +
-      "Der weise Magier 'erschafft' keine Liebe — er 'oeffnet den Raum', " +
+      "Der weise Magier 'erschafft' keine Liebe — er 'öffnet den Raum', " +
       "damit vorhandene Anziehung sich entfalten kann. Eine erstaunlich " +
-      "reife Haltung fuer ein Buch aus dem 11. Jahrhundert.",
+      "reife Haltung für ein Buch aus dem 11. Jahrhundert.",
     vorsicht:
-      "Alle Zutaten sind Lebensmittel und voellig ungefaehrlich. " +
+      "Alle Zutaten sind Lebensmittel und völlig ungefährlich. " +
       "Der 'Zauber' liegt in der Intention und im Ritual, nicht in " +
       "den Substanzen. Einzige Vorsicht: Aloeholz-Rauch in gut " +
-      "beluefteten Raeumen verwenden. Rote Koralle aus Naturschutzgruenden " +
-      "besser weglassen — der Picatrix wuerde das verstehen.",
+      "belüfteten Raeumen verwenden. Rote Koralle aus Naturschutzgründen " +
+      "besser weglassen — der Picatrix würde das verstehen.",
     quelle:
       "Picatrix (Ghayat al-Hakim), 10./11. Jahrhundert; lateinische " +
-      "Uebersetzung 13. Jh.; kritische Edition: David Pingree (Warburg " +
-      "Institute), 1986; deutsche Teiluebersetzung: Hellmut Ritter und " +
+      "Übersetzung 13. Jh.; kritische Edition: David Pingree (Warburg " +
+      "Institute), 1986; deutsche Teilübersetzung: Hellmut Ritter und " +
       "Martin Plessner, 1962",
     tags: [
       "#Liebesmagie", "#Picatrix", "#Venus", "#Planetenmagie",
-      "#Grimoire", "#Raeucherung", "#Rosenwasser", "#Safran",
-      "#ArabischeMagie", "#Ungefaehrlich"
+      "#Grimoire", "#Räucherung", "#Rosenwasser", "#Safran",
+      "#ArabischeMagie", "#Ungefährlich"
     ],
     besonders_bei: [
       "Liebesmagie", "Picatrix", "Venus", "Planetenmagie",
-      "Liebestrank", "Grimoire", "Raeucherung"
+      "Liebestrank", "Grimoire", "Räucherung"
     ]
   },
 
   {
     id: "alraune-liebesmagie",
-    name: "Alraunenwurzel — Die maechtigste Liebespflanze des Mittelalters",
+    name: "Alraunenwurzel — Die mächtigste Liebespflanze des Mittelalters",
     kategorie: "Liebesmagie",
     schwierigkeit: "Meister",
     beschreibung:
       "Keine Pflanze war im mittelalterlichen Europa so geheimnisvoll, so " +
-      "begehrt und so gefuerchtet wie die Alraune (Mandragora officinarum). " +
-      "Ihre menschenaehnliche Wurzelform, ihre betaeubende Wirkung und die " +
-      "zahlreichen Legenden um sie machten sie zur teuersten und maechtigsten " +
+      "begehrt und so gefürchtet wie die Alraune (Mandragora officinarum). " +
+      "Ihre menschenähnliche Wurzelform, ihre betäubende Wirkung und die " +
+      "zahlreichen Legenden um sie machten sie zur teuersten und mächtigsten " +
       "Zutat der Liebesmagie. Eine echte Alraunenwurzel kostete so viel wie " +
-      "ein Pferd. ABER: Mandragora ist ein Nachtschattengewaechs mit " +
-      "toedlichen Tropan-Alkaloiden. REIN HISTORISCH!",
+      "ein Pferd. ABER: Mandragora ist ein Nachtschattengewächs mit " +
+      "tödlichen Tropan-Alkaloiden. REIN HISTORISCH!",
     zutaten: [
       {
         name: "Alraunenwurzel (Mandragora officinarum)",
         menge: "Historisch: Eine ganze Wurzel",
         wirkung:
-          "TOEDLICH GIFTIG! Enthaelt Hyoscyamin, Scopolamin, Atropin, Mandragorin. " +
-          "Die Wurzel hat oft eine menschenaehnliche, gegabelte Form — das " +
-          "machte sie zum maechtigsten 'Sympathie-Zauber' (aehnliche Form = " +
-          "aehnliche Wirkung, nach dem Signaturenprinzip)."
+          "TÖDLICH GIFTIG! Enthält Hyoscyamin, Scopolamin, Atropin, Mandragorin. " +
+          "Die Wurzel hat oft eine menschenähnliche, gegabelte Form — das " +
+          "machte sie zum mächtigsten 'Sympathie-Zauber' (ähnliche Form = " +
+          "ähnliche Wirkung, nach dem Signaturenprinzip)."
       },
       {
         name: "Seide (zum Einwickeln)",
-        menge: "Ein Stueck rote oder weisse Seide",
-        wirkung: "Rituelle Verpackung. Seide galt als 'rein' und schuetzend."
+        menge: "Ein Stück rote oder weiße Seide",
+        wirkung: "Rituelle Verpackung. Seide galt als 'rein' und schützend."
       },
       {
         name: "Wein (zum Baden der Wurzel)",
         menge: "Genug zum Eintauchen der Wurzel",
-        wirkung: "Die Wurzel wurde regelmaessig in Wein 'gebadet' und 'gefuettert'."
+        wirkung: "Die Wurzel wurde regelmäßig in Wein 'gebadet' und 'gefüttert'."
       }
     ],
     zubereitung:
       "REIN HISTORISCH — NICHT NACHMACHEN! GIFTIGE PFLANZE!\n\n" +
       "DIE LEGENDE DES AUSGRABENS (aus zahlreichen mittelalterlichen Quellen):\n\n" +
-      "1. Die Alraune waechst (angeblich) unter Galgen aus dem Samen oder dem " +
-      "Urin Gehaengter.\n\n" +
-      "2. Man naehert sich der Pflanze bei Vollmond. Man verstopft sich die " +
-      "Ohren mit Wachs, denn: Wer den Schrei der Alraune beim Ausgraben hoert, " +
+      "1. Die Alraune wächst (angeblich) unter Galgen aus dem Samen oder dem " +
+      "Urin Gehängter.\n\n" +
+      "2. Man nähert sich der Pflanze bei Vollmond. Man verstopft sich die " +
+      "Ohren mit Wachs, denn: Wer den Schrei der Alraune beim Ausgraben hört, " +
       "stirbt (oder wird wahnsinnig).\n\n" +
-      "3. Man graeubt die Erde vorsichtig rund um die Wurzel frei, ohne sie " +
-      "zu beruehren.\n\n" +
+      "3. Man gräubt die Erde vorsichtig rund um die Wurzel frei, ohne sie " +
+      "zu berühren.\n\n" +
       "4. Man bindet einen schwarzen Hund mit einem Strick an die Wurzel und " +
       "lockt den Hund mit Futter. Der Hund zieht die Wurzel heraus — und stirbt " +
       "am Schrei.\n\n" +
       "5. Die Wurzel wird gewaschen, in rote Seide gewickelt und wie ein " +
       "lebendiges Wesen behandelt.\n\n" +
-      "DIE REALITAET: Mandragora officinarum ist eine mediterrane Pflanze, " +
-      "die in Suedeuropa wild waechst. Die gegabelte Wurzel kann tatsaechlich " +
-      "menschenaehnlich aussehen. Der 'Schrei' ist Legende — moeglicherweise " +
+      "DIE REALITÄT: Mandragora officinarum ist eine mediterrane Pflanze, " +
+      "die in Südeuropa wild wächst. Die gegabelte Wurzel kann tatsächlich " +
+      "menschenähnlich aussehen. Der 'Schrei' ist Legende — möglicherweise " +
       "abgeleitet von dem quietschenden Geraeusch, das beim Herausziehen einer " +
-      "langen Ruebenwurzel entstehen kann.",
+      "langen Rübenwurzel entstehen kann.",
     anwendung:
       "REIN HISTORISCH — NICHT NACHMACHEN! GIFTIGE PFLANZE!\n\n" +
       "HISTORISCHE VERWENDUNG IN DER LIEBESMAGIE:\n\n" +
       "• Als Amulett: Die gewaschene Wurzel in Seide gewickelt bei sich tragen — " +
-      "galt als staerkstes Liebesmittel ueberhaupt.\n\n" +
+      "galt als stärkstes Liebesmittel überhaupt.\n\n" +
       "• Als Aphrodisiakum: WINZIGE Mengen Wurzelpulver in Wein — EXTREM " +
-      "GEFAEHRLICH da die Tropan-Alkaloide bereits in kleinen Dosen zu " +
-      "Halluzinationen, Herzrhythmusstoerungen und Tod fuehren koennen.\n\n" +
-      "• Als 'Alraunenmaennchen' (Geldmaennchen): Die Wurzel in ein kleines " +
-      "Kostuem kleiden, ihr einen Namen geben, sie regelmaessig in Wein " +
+      "GEFÄHRLICH da die Tropan-Alkaloide bereits in kleinen Dosen zu " +
+      "Halluzinationen, Herzrhythmusstörungen und Tod führen können.\n\n" +
+      "• Als 'Alraunenmännchen' (Geldmännchen): Die Wurzel in ein kleines " +
+      "Kostüm kleiden, ihr einen Namen geben, sie regelmäßig in Wein " +
       "'baden' und bei sich im Haus aufbewahren — sie sollte Reichtum, " +
-      "Glueck und Liebe ins Haus bringen.\n\n" +
-      "• Im Schlafzimmer: Unter das Bett legen fuer Fruchtbarkeit und Lust.",
+      "Glück und Liebe ins Haus bringen.\n\n" +
+      "• Im Schlafzimmer: Unter das Bett legen für Fruchtbarkeit und Lust.",
     hintergrund:
-      "Die Alraune hat eine Kulturgeschichte, die ueber 3000 Jahre zurueckreicht. " +
+      "Die Alraune hat eine Kulturgeschichte, die über 3000 Jahre zurückreicht. " +
       "Bereits in der Bibel erscheint sie (Genesis 30:14-16): Rahel tauscht " +
       "eine Nacht mit Jakob gegen Alraunen (hebr. 'dudaim') von Lea. " +
-      "Dioskurides (1. Jh.) beschreibt sie als Betaeubungsmittel fuer " +
-      "Operationen. Im arabischen Raum heisst sie 'yabruh' und galt als " +
-      "maechtigstes Liebesmittel.\n\n" +
+      "Dioskurides (1. Jh.) beschreibt sie als Betäubungsmittel für " +
+      "Operationen. Im arabischen Raum heißt sie 'yabruh' und galt als " +
+      "mächtigstes Liebesmittel.\n\n" +
       "Im mittelalterlichen Europa erreichte der Alraunen-Kult seinen " +
-      "Hoehepunkt: Die Wurzeln wurden fuer astronomische Summen gehandelt — " +
-      "eine schoene, menschenaehnliche Wurzel kostete so viel wie ein gutes " +
-      "Pferd. Der Markt war entsprechend voller Faelschungen: Bryonia-Wurzeln " +
-      "(Zaunruebe) wurden in Menschenform geschnitzt und als 'echte Alraunen' " +
+      "Höhepunkt: Die Wurzeln wurden für astronomische Summen gehandelt — " +
+      "eine schöne, menschenähnliche Wurzel kostete so viel wie ein gutes " +
+      "Pferd. Der Markt war entsprechend voller Fälschungen: Bryonia-Wurzeln " +
+      "(Zaunrübe) wurden in Menschenform geschnitzt und als 'echte Alraunen' " +
       "verkauft.\n\n" +
       "Der 'Macer Floridus' (11. Jh.), eines der wichtigsten mittelalterlichen " +
-      "Kraeuterbuecher, beschreibt die Alraune ausfuehrlich. Hildegard von " +
-      "Bingen warnte vor ihrem Missbrauch fuer Liebeszauber.",
+      "Kräuterbücher, beschreibt die Alraune ausführlich. Hildegard von " +
+      "Bingen warnte vor ihrem Missbrauch für Liebeszauber.",
     wissenschaft:
-      "Mandragora officinarum enthaelt dieselben Tropan-Alkaloide wie " +
+      "Mandragora officinarum enthält dieselben Tropan-Alkaloide wie " +
       "Tollkirsche und Bilsenkraut: Hyoscyamin (Hauptalkaloid), Scopolamin, " +
-      "Atropin, und zusaetzlich Mandragorin (ein eigenes Alkaloid). Die " +
-      "Wurzel enthaelt die hoechste Konzentration.\n\n" +
+      "Atropin, und zusätzlich Mandragorin (ein eigenes Alkaloid). Die " +
+      "Wurzel enthält die höchste Konzentration.\n\n" +
       "WARUM ES ALS LIEBESMITTEL 'FUNKTIONIERTE':\n" +
       "• In sehr niedrigen Dosen wirkt Scopolamin leicht enthemmend und " +
-      "euphorisierend — moeglicherweise die Basis der aphrodisierenden Wirkung\n" +
-      "• Die Kombination mit Wein (Ethanol) verstaerkt die Wirkung und senkt " +
-      "die Hemmschwelle zusaetzlich\n" +
+      "euphorisierend — möglicherweise die Basis der aphrodisierenden Wirkung\n" +
+      "• Die Kombination mit Wein (Ethanol) verstärkt die Wirkung und senkt " +
+      "die Hemmschwelle zusätzlich\n" +
       "• Aber: Die Dosis zwischen 'leicht euphorisch' und 'Halluzination/Koma/" +
       "Tod' ist MINIMAL\n\n" +
       "MODERNE MEDIZIN: Scopolamin wird heute als Pflaster gegen Reisekrankheit " +
-      "und als Praemedikation vor Narkosen eingesetzt — die 'magische' Wirkung " +
+      "und als Prämedikation vor Narkosen eingesetzt — die 'magische' Wirkung " +
       "ist gut verstanden.",
     geheimtipp:
-      "Die beruehmteste Alraune der Literaturgeschichte ist die von " +
-      "Niccolo Machiavelli: Seine Komoedie 'La Mandragola' (1518) dreht " +
+      "Die berühmteste Alraune der Literaturgeschichte ist die von " +
+      "Niccolo Machiavelli: Seine Komödie 'La Mandragola' (1518) dreht " +
       "sich um einen Betrug mit einer angeblichen Alraunenwurzel. " +
       "Und in der deutschen Romantik lebte der Mythos wieder auf — " +
-      "Achim von Arnim schrieb 'Isabella von Aegypten' (1812) ueber eine " +
+      "Achim von Arnim schrieb 'Isabella von Ägypten' (1812) über eine " +
       "Alraune, die zum Leben erwacht. Die Alraune ist die Pflanze, die " +
       "am meisten Geschichten hervorgebracht hat — mehr als jede andere " +
-      "in der europaeischen Kulturgeschichte.",
+      "in der europäischen Kulturgeschichte.",
     vorsicht:
-      "REIN HISTORISCH — NICHT NACHMACHEN! ABSOLUT LEBENSGEFAEHRLICH!\n\n" +
-      "Mandragora officinarum enthaelt TOEDLICHE Tropan-Alkaloide:\n" +
+      "REIN HISTORISCH — NICHT NACHMACHEN! ABSOLUT LEBENSGEFÄHRLICH!\n\n" +
+      "Mandragora officinarum enthält TÖDLICHE Tropan-Alkaloide:\n" +
       "• Hyoscyamin, Scopolamin, Atropin, Mandragorin\n" +
-      "• ALLE Pflanzenteile sind giftig, besonders die Wurzel und die Fruechte\n" +
-      "• Es gibt KEINE sichere Dosierung fuer Laien\n" +
+      "• ALLE Pflanzenteile sind giftig, besonders die Wurzel und die Früchte\n" +
+      "• Es gibt KEINE sichere Dosierung für Laien\n" +
       "• Symptome der Vergiftung: Pupillenerweiterung, Mundtrockenheit, " +
-      "Herzrasen, Halluzinationen, Kraempfe, Koma, Tod durch Atemstillstand\n" +
+      "Herzrasen, Halluzinationen, Krämpfe, Koma, Tod durch Atemstillstand\n" +
       "• Die Kombination mit Alkohol (wie im historischen 'Liebestrank') " +
-      "VERSTAERKT die Giftigkeit massiv\n\n" +
+      "VERSTÄRKT die Giftigkeit massiv\n\n" +
       "NIEMALS Pflanzen der Nachtschattenfamilie sammeln, zubereiten oder " +
       "einnehmen! Bei Vergiftungsverdacht: SOFORT Notarzt (112)!",
     quelle:
       "Dioskurides, 'De Materia Medica', 1. Jh.; 'Macer Floridus', 11. Jh.; " +
-      "Hildegard von Bingen, 'Physica', 12. Jh.; Hanns Baeuchtold-Staeubli, " +
-      "'Handwoerterbuch des deutschen Aberglaubens', Stichwort 'Alraune'",
+      "Hildegard von Bingen, 'Physica', 12. Jh.; Hanns Bäuchtold-Stäubli, " +
+      "'Handwörterbuch des deutschen Aberglaubens', Stichwort 'Alraune'",
     tags: [
       "#Alraune", "#Mandragora", "#Liebesmagie", "#Nachtschatten",
       "#Tropanalkaloide", "#Mittelalter", "#Volksglaube", "#Giftig",
-      "#Aphrodisiakum", "#Galgenmaennchen"
+      "#Aphrodisiakum", "#Galgenmännchen"
     ],
     besonders_bei: [
       "Alraune", "Mandragora", "Liebesmagie", "Nachtschatten",
@@ -840,107 +840,107 @@ export const GRIMOIRE_REZEPTE = [
     schwierigkeit: "Einfach",
     beschreibung:
       "Eisenkraut (Verbena officinalis) ist eines der wenigen 'magischen' " +
-      "Kraeuter, die man bedenkenlos verwenden kann — und eines der " +
-      "heiligsten Kraeuter der europaeischen Tradition. Bei den Kelten war " +
-      "es 'Herba sacra', bei den Roemern trugen Friedensboten Eisenkraut " +
+      "Kräuter, die man bedenkenlos verwenden kann — und eines der " +
+      "heiligsten Kräuter der europäischen Tradition. Bei den Kelten war " +
+      "es 'Herba sacra', bei den Römern trugen Friedensboten Eisenkraut " +
       "als Zeichen des guten Willens, und im Mittelalter galt es als " +
-      "das vielseitigste Liebeskraut ueberhaupt. Ungefaehrlich, " +
+      "das vielseitigste Liebeskraut überhaupt. Ungefährlich, " +
       "wissenschaftlich interessant, und voller Geschichte.",
     zutaten: [
       {
         name: "Eisenkraut (Verbena officinalis)",
         menge: "3g getrocknetes Kraut auf 250ml Wasser (als Tee)",
         wirkung:
-          "Verbenalin, Hastatoside — tatsaechlich leicht beruhigend, " +
+          "Verbenalin, Hastatoside — tatsächlich leicht beruhigend, " +
           "stimmungsaufhellend, leicht adaptogen. Iridoidglykoside mit " +
-          "entzuendungshemmender Wirkung."
+          "entzündungshemmender Wirkung."
       },
       {
-        name: "Honig (zum Suessen)",
+        name: "Honig (zum Süßen)",
         menge: "Nach Geschmack",
-        wirkung: "Suesse, Bindung, traditioneller Zusatz."
+        wirkung: "Süße, Bindung, traditioneller Zusatz."
       }
     ],
     zubereitung:
       "ALS LIEBESTRANK (Tee):\n" +
-      "3g getrocknetes Eisenkraut mit 250ml heissem (nicht kochendem) Wasser " +
-      "uebergiessen. 7-10 Minuten ziehen lassen. Abseihen und mit Honig suessen. " +
+      "3g getrocknetes Eisenkraut mit 250ml heißem (nicht kochendem) Wasser " +
+      "übergießen. 7-10 Minuten ziehen lassen. Abseihen und mit Honig süßen. " +
       "Idealerweise am Freitag (Venus-Tag) zubereiten.\n\n" +
       "ALS AMULETT:\n" +
-      "Getrocknetes Eisenkraut in ein kleines Stoffbeutelchen fuellen " +
-      "(idealerweise gruener oder roter Stoff). Bei sich tragen, unter " +
-      "das Kopfkissen legen, oder im Schlafzimmer aufhaengen.\n\n" +
-      "HISTORISCHES PFLUECKRITUAL:\n" +
-      "Im Mittelalter wurde beim Pfluecken ein Gebet gesprochen und der Erde " +
+      "Getrocknetes Eisenkraut in ein kleines Stoffbeutelchen füllen " +
+      "(idealerweise grüner oder roter Stoff). Bei sich tragen, unter " +
+      "das Kopfkissen legen, oder im Schlafzimmer aufhängen.\n\n" +
+      "HISTORISCHES PFLÜCKRITUAL:\n" +
+      "Im Mittelalter wurde beim Pflücken ein Gebet gesprochen und der Erde " +
       "eine Opfergabe hinterlassen — Honig oder Wein, als Dank. Die Pflanze " +
-      "sollte mit der linken Hand gepflueckt werden (Mondseite, Intuition).",
+      "sollte mit der linken Hand gepflückt werden (Mondseite, Intuition).",
     anwendung:
-      "Der Eisenkraut-Tee kann taeglich getrunken werden — er ist ein mildes, " +
-      "angenehmes Kraeut mit leicht beruhigender und stimmungsaufhellender " +
+      "Der Eisenkraut-Tee kann täglich getrunken werden — er ist ein mildes, " +
+      "angenehmes Kräut mit leicht beruhigender und stimmungsaufhellender " +
       "Wirkung. Als Liebestrank: Gemeinsam mit der geliebten Person trinken. " +
       "Als Amulett: Bei sich tragen oder unter das Kopfkissen legen. " +
-      "Als Raeucherung: Getrocknetes Eisenkraut auf Raeucherkohle — reinigend " +
-      "und oeffnend.",
+      "Als Räucherung: Getrocknetes Eisenkraut auf Räucherkohle — reinigend " +
+      "und öffnend.",
     hintergrund:
       "BEI DEN KELTEN/DRUIDEN:\n" +
       "Eisenkraut war 'Herba sacra' — das heilige Kraut schlechthin. Es wurde " +
-      "fuer Altarreinigung verwendet, fuer Orakel, fuer Liebeszauber und " +
-      "fuer Schutz. Plinius der Aeltere berichtet, dass die gallischen Druiden " +
-      "Eisenkraut ebenso hoch schaetzten wie Mistel.\n\n" +
-      "BEI DEN ROEMERN:\n" +
+      "für Altarreinigung verwendet, für Orakel, für Liebeszauber und " +
+      "für Schutz. Plinius der Ältere berichtet, dass die gallischen Druiden " +
+      "Eisenkraut ebenso hoch schätzten wie Mistel.\n\n" +
+      "BEI DEN RÖMERN:\n" +
       "Verbenae (Eisenkraut-Zweige) wurden von den 'Verbenarii' getragen — " +
-      "Friedensboten und Herolden, die unter dem Schutz der Goetter standen. " +
-      "Das Wort 'Verbena' selbst bedeutet moeglicherweise 'heiliger Zweig'.\n\n" +
+      "Friedensboten und Herolden, die unter dem Schutz der Götter standen. " +
+      "Das Wort 'Verbena' selbst bedeutet möglicherweise 'heiliger Zweig'.\n\n" +
       "IM MITTELALTER:\n" +
-      "Das Eisenkraut erscheint in fast jedem mittelalterlichen Kraeuterbuch " +
+      "Das Eisenkraut erscheint in fast jedem mittelalterlichen Kräuterbuch " +
       "als Liebesmittel, Schutzkraut und Heilpflanze. Es galt als Allheilmittel — " +
-      "'Wundkraut', 'Stahlkraut', 'Sagenkraut'. Im Volksmund hiess es, " +
-      "wer Eisenkraut bei sich traegt, dem kann kein Hund etwas antun " +
+      "'Wundkraut', 'Stahlkraut', 'Sagenkraut'. Im Volksmund hieß es, " +
+      "wer Eisenkraut bei sich trägt, dem kann kein Hund etwas antun " +
       "(daher auch 'Hundskraut').\n\n" +
       "IN DER GERMANISCHEN TRADITION:\n" +
-      "Im 'Neunkraeutersegen' (angelsaechsisch, 10. Jh.) ist das Eisenkraut " +
-      "eines der neun heiligen Kraeuter gegen Gift und Krankheit.",
+      "Im 'Neunkräutersegen' (angelsächsisch, 10. Jh.) ist das Eisenkraut " +
+      "eines der neun heiligen Kräuter gegen Gift und Krankheit.",
     wissenschaft:
-      "Verbena officinalis enthaelt:\n" +
+      "Verbena officinalis enthält:\n" +
       "• Verbenalin und Hastatoside (Iridoidglykoside) — leicht beruhigend, " +
-      "entzuendungshemmend, leicht analgetisch\n" +
+      "entzündungshemmend, leicht analgetisch\n" +
       "• Verbascoside (Phenylpropanoid) — antioxidativ, neuroprotektiv\n" +
-      "• Aetherisches Oel mit Citral — stimmungsaufhellend\n\n" +
-      "Klinische Studien zeigen moderate anxiolytische (angstloesende) und " +
-      "leicht schlaffoerdernde Wirkung. In der Phytotherapie wird Eisenkraut " +
-      "heute bei nervoeser Erschoepfung, leichten Angstzustaenden und " +
+      "• Ätherisches Öl mit Citral — stimmungsaufhellend\n\n" +
+      "Klinische Studien zeigen moderate anxiolytische (angstlösende) und " +
+      "leicht schlaffördernde Wirkung. In der Phytotherapie wird Eisenkraut " +
+      "heute bei nervöser Erschöpfung, leichten Angstzuständen und " +
       "Verdauungsbeschwerden eingesetzt. Es ist Bestandteil des bekannten " +
-      "Praeparats Sinupret (bei Sinusitis).\n\n" +
+      "Präparats Sinupret (bei Sinusitis).\n\n" +
       "Die 'magische' Liebewirkung hat also eine biochemische Basis: " +
-      "Eisenkraut beruhigt leicht, hellt die Stimmung auf und loest " +
-      "Anspannung — genau das, was man fuer Naehe und Verbindung braucht.",
+      "Eisenkraut beruhigt leicht, hellt die Stimmung auf und löst " +
+      "Anspannung — genau das, was man für Nähe und Verbindung braucht.",
     geheimtipp:
-      "Im Mittelalter wurde beim Pfluecken von Eisenkraut ein Gebet " +
+      "Im Mittelalter wurde beim Pflücken von Eisenkraut ein Gebet " +
       "gesprochen und der Erde eine Opfergabe hinterlassen — Honig oder " +
-      "Wein, als Dank an die Erde. Diese Haltung der DANKBARKEIT gegenueber " +
+      "Wein, als Dank an die Erde. Diese Haltung der DANKBARKEIT gegenüber " +
       "der Pflanzenwelt ist vielleicht die eigentliche 'Magie' des " +
       "Eisenkrauts: Es erinnert daran, dass Heilpflanzen Geschenke sind, " +
       "keine Ressourcen. Wer mit Achtung und Dankbarkeit an eine Pflanze " +
-      "herantritt, veraendert seine eigene innere Haltung — und DAS ist " +
+      "herantritt, verändert seine eigene innere Haltung — und DAS ist " +
       "der wahre Liebeszauber.",
     vorsicht:
-      "UNGEFAEHRLICH — eines der sichersten 'magischen' Kraeuter ueberhaupt. " +
-      "Kann als Tee taeglich getrunken werden. Einzige Einschraenkung: " +
+      "UNGEFÄHRLICH — eines der sichersten 'magischen' Kräuter überhaupt. " +
+      "Kann als Tee täglich getrunken werden. Einzige Einschränkung: " +
       "Nicht in der Schwangerschaft verwenden (traditionell als " +
       "Emmenagogum/Wehenmittel genutzt — uterustonisierend). " +
-      "Bei blutzuckersenkenden Medikamenten Vorsicht (kann Wirkung verstaerken).",
+      "Bei blutzuckersenkenden Medikamenten Vorsicht (kann Wirkung verstärken).",
     quelle:
-      "Plinius der Aeltere, 'Naturalis Historia', 1. Jh.; Angelsaechsischer " +
-      "'Neunkraeutersegen', 10. Jh.; Diverse mittelalterliche Kraeuterbuecher; " +
+      "Plinius der Ältere, 'Naturalis Historia', 1. Jh.; Angelsächsischer " +
+      "'Neunkräutersegen', 10. Jh.; Diverse mittelalterliche Kräuterbücher; " +
       "Moderne Phytotherapie: Kommission E Monographie 'Verbenae herba'",
     tags: [
       "#Eisenkraut", "#Verbena", "#Liebesmagie", "#Druiden",
-      "#Kelten", "#HerbaSacra", "#Ungefaehrlich", "#Phytotherapie",
+      "#Kelten", "#HerbaSacra", "#Ungefährlich", "#Phytotherapie",
       "#Volksmagie", "#Liebeskraut"
     ],
     besonders_bei: [
       "Eisenkraut", "Verbena", "Liebesmagie", "Druiden",
-      "Kelten", "Liebeskraut", "Ungefaehrlich"
+      "Kelten", "Liebeskraut", "Ungefährlich"
     ]
   },
 
@@ -950,25 +950,25 @@ export const GRIMOIRE_REZEPTE = [
 
   {
     id: "vierrauber-essig-grimoire",
-    name: "Vierraeube-Essig — Das Pestrezept der Grabdiebe",
+    name: "Vierräube-Essig — Das Pestrezept der Grabdiebe",
     kategorie: "Schutzmagie",
     schwierigkeit: "Mittel",
     beschreibung:
-      "Eine der beruhmtesten Legenden der europaeischen Volksmedizin: " +
-      "Waehrend einer verheerenden Pestepidemie wurden vier Diebe gefasst, " +
+      "Eine der beruhmtesten Legenden der europäischen Volksmedizin: " +
+      "Während einer verheerenden Pestepidemie wurden vier Diebe gefasst, " +
       "die Pestleichen ausraubten — ohne sich selbst anzustecken. Ihr " +
-      "Geheimnis: Ein Kraeuteressig, mit dem sie sich einrieben. Die " +
+      "Geheimnis: Ein Kräuteressig, mit dem sie sich einrieben. Die " +
       "Legende existiert in dutzenden Versionen (Marseille 1720, Toulouse " +
       "1628-1631, London 1665), und das Faszinierende ist: Die Zutaten " +
-      "sind TATSAECHLICH alle antibakteriell und antiviral wirksam. " +
-      "Dies ist ein Rezept das man TATSAECHLICH herstellen und verwenden kann!",
+      "sind TATSÄCHLICH alle antibakteriell und antiviral wirksam. " +
+      "Dies ist ein Rezept das man TATSÄCHLICH herstellen und verwenden kann!",
     zutaten: [
       {
         name: "Apfelessig (naturbelassen, mit Essigmutter)",
         menge: "2 Liter",
         wirkung:
-          "Essigsaeure (5-6%) — antibakteriell, antiviral, antifungal. " +
-          "Senkt den pH-Wert und toetet viele Krankheitserreger ab."
+          "Essigsäure (5-6%) — antibakteriell, antiviral, antifungal. " +
+          "Senkt den pH-Wert und tötet viele Krankheitserreger ab."
       },
       {
         name: "Salbei (Salvia officinalis)",
@@ -981,20 +981,20 @@ export const GRIMOIRE_REZEPTE = [
         name: "Rosmarin (Rosmarinus officinalis)",
         menge: "40g getrocknetes Kraut",
         wirkung:
-          "Rosmarinsaeure, Carnosol — antioxidativ, antibakteriell, " +
-          "durchblutungsfoerdernd. Historisch DAS Kraut gegen Seuchen."
+          "Rosmarinsäure, Carnosol — antioxidativ, antibakteriell, " +
+          "durchblutungsfördernd. Historisch DAS Kraut gegen Seuchen."
       },
       {
         name: "Thymian (Thymus vulgaris)",
         menge: "40g getrocknetes Kraut",
         wirkung:
-          "Thymol — eines der staerksten natuerlichen Antiseptika. " +
-          "Tatsaechlich in der Medizin als Desinfektionsmittel verwendet " +
-          "(Listerine enthaelt Thymol!)."
+          "Thymol — eines der stärksten natürlichen Antiseptika. " +
+          "Tatsächlich in der Medizin als Desinfektionsmittel verwendet " +
+          "(Listerine enthält Thymol!)."
       },
       {
         name: "Lavendel (Lavandula angustifolia)",
-        menge: "40g getrocknete Blueten",
+        menge: "40g getrocknete Blüten",
         wirkung:
           "Linalool, Linalylacetat — antibakteriell, beruhigend, " +
           "insektenabwehrend. Lavendel wurde in Pestzeiten in Raeume " +
@@ -1005,23 +1005,23 @@ export const GRIMOIRE_REZEPTE = [
         menge: "40g, zerquetscht (ca. 2 Knollen)",
         wirkung:
           "Allicin — stark antibakteriell, antiviral, antifungal, " +
-          "immunstimulierend. Einer der am besten erforschten natuerlichen " +
-          "Keimtoeter."
+          "immunstimulierend. Einer der am besten erforschten natürlichen " +
+          "Keimtöter."
       },
       {
-        name: "Pfefferkoerner (Piper nigrum)",
-        menge: "20g, grob zerbroeselt",
-        wirkung: "Piperin — entzuendungshemmend, verdauungsfoerdernd, verstaerkt die Bioverfuegbarkeit anderer Wirkstoffe."
+        name: "Pfefferkörner (Piper nigrum)",
+        menge: "20g, grob zerbröselt",
+        wirkung: "Piperin — entzündungshemmend, verdauungsfördernd, verstärkt die Bioverfügbarkeit anderer Wirkstoffe."
       },
       {
         name: "Kampfer (Cinnamomum camphora)",
-        menge: "10g (natuerlicher Kampfer)",
+        menge: "10g (natürlicher Kampfer)",
         wirkung:
-          "Stark antibakteriell, durchblutungsfoerdernd, insektenabwehrend. " +
+          "Stark antibakteriell, durchblutungsfördernd, insektenabwehrend. " +
           "Wurde in Pestzeiten in 'Pestdoktor-Masken' getragen."
       },
       {
-        name: "Gewuerznelken (Syzygium aromaticum)",
+        name: "Gewürznelken (Syzygium aromaticum)",
         menge: "10g, ganz",
         wirkung:
           "Eugenol — stark antibakteriell und antiviral. In der Zahnmedizin " +
@@ -1029,368 +1029,368 @@ export const GRIMOIRE_REZEPTE = [
       }
     ],
     zubereitung:
-      "1. Alle Kraeuter und Gewuerze grob zerkleinern.\n\n" +
-      "2. In ein grosses Glasgefaess geben (mind. 3 Liter Fassungsvermoegen).\n\n" +
-      "3. Mit dem Apfelessig uebergiessen. Alle Zutaten muessen bedeckt sein.\n\n" +
-      "4. Gefaess fest verschliessen.\n\n" +
+      "1. Alle Kräuter und Gewürze grob zerkleinern.\n\n" +
+      "2. In ein großes Glasgefäß geben (mind. 3 Liter Fassungsvermögen).\n\n" +
+      "3. Mit dem Apfelessig übergießen. Alle Zutaten müssen bedeckt sein.\n\n" +
+      "4. Gefäß fest verschließen.\n\n" +
       "5. An einem warmen Ort 14 Tage mazerieren (ziehen lassen).\n\n" +
-      "6. TAEGLICH kraeftig schuetteln.\n\n" +
+      "6. TÄGLICH kräftig schütteln.\n\n" +
       "7. Nach 14 Tagen durch ein feines Tuch oder einen Kaffeefilter abseihen.\n\n" +
-      "8. In dunkle Flaschen fuellen, beschriften und kuehl lagern.\n\n" +
-      "9. Haelt sich mindestens 1 Jahr, oft laenger.",
+      "8. In dunkle Flaschen füllen, beschriften und kühl lagern.\n\n" +
+      "9. Hält sich mindestens 1 Jahr, oft länger.",
     anwendung:
-      "• Haende und Gesicht einreiben (verduennt oder pur) — historische " +
+      "• Hände und Gesicht einreiben (verdünnt oder pur) — historische " +
       "Hauptanwendung der Grabdiebe\n" +
-      "• Raeume ausspruehen (1:1 mit Wasser verduennt in Spruehflasche) — " +
-      "als natuerliches Raumdesinfektionsmittel\n" +
+      "• Raeume aussprühen (1:1 mit Wasser verdünnt in Sprühflasche) — " +
+      "als natürliches Raumdesinfektionsmittel\n" +
       "• Zum Gurgeln bei Halsschmerzen (1 EL auf ein Glas Wasser)\n" +
-      "• Als Waschung/Koerperspuelung\n" +
-      "• Einen Schuss ins Putzwasser fuer natuerliche Desinfektion\n" +
-      "• AUF HOLZSCHNITTEN: Verduennt als Umschlag bei Insektenstichen",
+      "• Als Waschung/Körperspülung\n" +
+      "• Einen Schuss ins Putzwasser für natürliche Desinfektion\n" +
+      "• AUF HOLZSCHNITTEN: Verdünnt als Umschlag bei Insektenstichen",
     hintergrund:
       "Die Legende existiert in vielen Versionen:\n\n" +
-      "MARSEILLE-VERSION (1720): Waehrend der letzten grossen Pestepidemie " +
+      "MARSEILLE-VERSION (1720): Während der letzten großen Pestepidemie " +
       "in Westeuropa (ca. 100.000 Tote) wurden vier Diebe gefasst, die " +
       "Pestleichen und Pesthaeuser ausraubten. Vor Gericht gestanden sie " +
-      "ihr Geheimnis: einen Kraeuteressig, mit dem sie sich Gesicht, " +
-      "Haende und Koerper einrieben. Sie wurden BEGNADIGT — unter der " +
-      "Bedingung, dass sie das Rezept oeffentlich machten. Es wurde an " +
-      "die Tueren der Stadt genagelt.\n\n" +
-      "TOULOUSE-VERSION (1628-1631): Aehnliche Geschichte, vier Raeuber, " +
+      "ihr Geheimnis: einen Kräuteressig, mit dem sie sich Gesicht, " +
+      "Hände und Körper einrieben. Sie wurden BEGNADIGT — unter der " +
+      "Bedingung, dass sie das Rezept öffentlich machten. Es wurde an " +
+      "die Türen der Stadt genagelt.\n\n" +
+      "TOULOUSE-VERSION (1628-1631): Ähnliche Geschichte, vier Räuber, " +
       "die Pesttote beraubten.\n\n" +
       "Das Rezept erscheint auch im Pharmacopoeia (Arzneibuch) verschiedener " +
-      "europaeischer Staedte als offizielles Heilmittel. In Frankreich war " +
+      "europäischer Städte als offizielles Heilmittel. In Frankreich war " +
       "'Vinaigre des quatre voleurs' bis ins 20. Jahrhundert als " +
       "Arzneimittel registriert!",
     wissenschaft:
       "JEDE EINZELNE ZUTAT ist wissenschaftlich belegt antibakteriell:\n\n" +
-      "• Essigsaeure: Effektiv gegen E. coli, Salmonella, Staphylokokken " +
-      "(pH-Absenkung unter 4,5 toetet viele Keime)\n" +
+      "• Essigsäure: Effektiv gegen E. coli, Salmonella, Staphylokokken " +
+      "(pH-Absenkung unter 4,5 tötet viele Keime)\n" +
       "• Thymol (Thymian): In Studien wirksam gegen MRSA und andere " +
-      "resistente Keime — Listerine-Mundwasser enthaelt Thymol!\n" +
+      "resistente Keime — Listerine-Mundwasser enthält Thymol!\n" +
       "• Allicin (Knoblauch): Breitband-antibakteriell, antiviral, antifungal — " +
-      "einer der am besten erforschten pflanzlichen Keimtoeter\n" +
-      "• Rosmarinsaeure (Rosmarin): Antioxidativ, antibakteriell, " +
-      "entzuendungshemmend\n" +
+      "einer der am besten erforschten pflanzlichen Keimtöter\n" +
+      "• Rosmarinsäure (Rosmarin): Antioxidativ, antibakteriell, " +
+      "entzündungshemmend\n" +
       "• Eugenol (Nelken): In der Zahnmedizin als Antiseptikum eingesetzt\n" +
       "• Kampfer: Stark antiseptisch, insektenabwehrend\n" +
-      "• Linalool (Lavendel): Antibakteriell, zusaetzlich insektenabwehrend\n\n" +
-      "GEGEN PEST WIRKSAM? Die Pest wird durch Yersinia pestis uebertragen, " +
-      "hauptsaechlich durch Floehe. Der Essig konnte: (a) Floehe abwehren " +
+      "• Linalool (Lavendel): Antibakteriell, zusätzlich insektenabwehrend\n\n" +
+      "GEGEN PEST WIRKSAM? Die Pest wird durch Yersinia pestis übertragen, " +
+      "hauptsächlich durch Flöhe. Der Essig konnte: (a) Flöhe abwehren " +
       "(Kampfer, Lavendel sind insektenabwehrend), (b) Bakterien auf der " +
-      "Haut reduzieren, (c) einen schuetzenden Film auf der Haut bilden. " +
-      "Ob er tatsaechlich vor der Pest schuetzte, ist fraglich — aber die " +
+      "Haut reduzieren, (c) einen schützenden Film auf der Haut bilden. " +
+      "Ob er tatsächlich vor der Pest schützte, ist fraglich — aber die " +
       "antimikrobielle Wirkung der Kombination ist REAL.",
     geheimtipp:
       "Die Diebe wurden begnadigt — unter der Bedingung, dass sie ihr " +
-      "Rezept veroeffentlichten. Es wurde an die Tueren der Stadt genagelt. " +
-      "Das ist vielleicht die schoenste Wendung der Geschichte: Aus Diebstahl " +
-      "und Tod entstand ein Heilmittel fuer alle. In der Aromatherapie ist " +
-      "'Vinaigre des quatre voleurs' heute wieder populaer, und es gibt " +
+      "Rezept veröffentlichten. Es wurde an die Türen der Stadt genagelt. " +
+      "Das ist vielleicht die schönste Wendung der Geschichte: Aus Diebstahl " +
+      "und Tod entstand ein Heilmittel für alle. In der Aromatherapie ist " +
+      "'Vinaigre des quatre voleurs' heute wieder populär, und es gibt " +
       "Fertigprodukte — aber der selbstgemachte Essig ist kraftvoller und " +
       "macht die Geschichte lebendig.",
     vorsicht:
-      "Grundsaetzlich UNGEFAEHRLICH — alle Zutaten sind Lebensmittel. " +
-      "Vorsicht: Essig kann Haut reizen (bei empfindlicher Haut verduennen). " +
+      "Grundsätzlich UNGEFÄHRLICH — alle Zutaten sind Lebensmittel. " +
+      "Vorsicht: Essig kann Haut reizen (bei empfindlicher Haut verdünnen). " +
       "Nicht in die Augen bringen. Kampfer in der angegebenen Menge ist " +
-      "unbedenklich; groessere Mengen reinen Kampfers koennen toxisch sein " +
-      "(nicht mehr als angegeben verwenden). Nicht als Ersatz fuer " +
+      "unbedenklich; größere Mengen reinen Kampfers können toxisch sein " +
+      "(nicht mehr als angegeben verwenden). Nicht als Ersatz für " +
       "medizinische Behandlung bei ernsten Infektionen verwenden!",
     quelle:
       "Diverse historische Quellen; Pharmacopee de Paris; Legende aus " +
       "Marseille (1720) und Toulouse (1628-1631); Jean Valnet, " +
       "'Aromatherapie', 1964",
     tags: [
-      "#VierraeuberEssig", "#Pestrezept", "#Schutzmagie", "#Desinfektion",
-      "#Kraeuteressig", "#Marseille", "#Pest", "#Antibakteriell",
-      "#Volksmedizin", "#TatsaechlichMachbar"
+      "#VierräuberEssig", "#Pestrezept", "#Schutzmagie", "#Desinfektion",
+      "#Kräuteressig", "#Marseille", "#Pest", "#Antibakteriell",
+      "#Volksmedizin", "#TatsächlichMachbar"
     ],
     besonders_bei: [
-      "Vierraeuber-Essig", "Pest", "Desinfektion", "Schutzmagie",
-      "Kraeuteressig", "Antibakteriell", "Volksmedizin"
+      "Vierräuber-Essig", "Pest", "Desinfektion", "Schutzmagie",
+      "Kräuteressig", "Antibakteriell", "Volksmedizin"
     ]
   },
 
   {
     id: "hexenbanner-flaeschchen",
-    name: "Das Hexenbanner-Flaeschchen — Witch Bottle",
+    name: "Das Hexenbanner-Fläschchen — Witch Bottle",
     kategorie: "Schutzmagie",
     schwierigkeit: "Mittel",
     beschreibung:
-      "Die 'Witch Bottle' (Hexenbanner-Flaeschchen) ist eine der am besten " +
-      "archaeologisch dokumentierten magischen Praktiken Europas. Hunderte " +
-      "versiegelte Gefaesse aus dem 16. bis 18. Jahrhundert wurden bei " +
-      "Ausgrabungen unter Tuerschwellen, in Kaminen und in Mauern gefunden — " +
+      "Die 'Witch Bottle' (Hexenbanner-Fläschchen) ist eine der am besten " +
+      "archäologisch dokumentierten magischen Praktiken Europas. Hunderte " +
+      "versiegelte Gefäße aus dem 16. bis 18. Jahrhundert wurden bei " +
+      "Ausgrabungen unter Türschwellen, in Kaminen und in Mauern gefunden — " +
       "in England, Deutschland, den Niederlanden und Skandinavien. Sie dienten " +
-      "dem Schutz des Hauses und seiner Bewohner gegen 'boesen Zauber'. " +
+      "dem Schutz des Hauses und seiner Bewohner gegen 'bösen Zauber'. " +
       "Eine faszinierende Verschmelzung von Volksglauben und praktischem " +
       "Schutzdenken.",
     zutaten: [
       {
         name: "Bartmann-Krug oder Einmachglas",
-        menge: "1 Stueck, verschliessbar",
+        menge: "1 Stück, verschließbar",
         wirkung:
-          "Historisch: Steinzeug-Kruege mit Bartgesicht ('Bartmann' oder " +
+          "Historisch: Steinzeug-Krüge mit Bartgesicht ('Bartmann' oder " +
           "'Bellarmine'), importiert aus dem Rheinland nach England. " +
           "Das Gesicht sollte den Fluch 'abschrecken'. Modern: Ein " +
           "Einmachglas tut denselben Dienst."
       },
       {
-        name: "Eisennaegel (rostig)",
-        menge: "7-9 Stueck",
+        name: "Eisennägel (rostig)",
+        menge: "7-9 Stück",
         wirkung:
-          "Eisen = Schutz in fast ALLEN europaeischen Traditionen. " +
-          "Eisennaegel 'nageln' den Fluch fest und machen ihn unschaedlich. " +
-          "Rost verstaerkt die Schutzkraft (Blutfarbe, Transformation)."
+          "Eisen = Schutz in fast ALLEN europäischen Traditionen. " +
+          "Eisennägel 'nageln' den Fluch fest und machen ihn unschädlich. " +
+          "Rost verstärkt die Schutzkraft (Blutfarbe, Transformation)."
       },
       {
-        name: "Stecknadeln oder Naehnadeln",
+        name: "Stecknadeln oder Nähnadeln",
         menge: "Eine Handvoll",
         wirkung:
-          "Die Nadeln 'stechen' den Fluch zurueck zum Absender — " +
+          "Die Nadeln 'stechen' den Fluch zurück zum Absender — " +
           "Spiegelmagie/Umkehrzauber."
       },
       {
         name: "Roter Faden oder rotes Band",
-        menge: "Ca. 30cm, in Stuecke gerissen (nicht geschnitten!)",
+        menge: "Ca. 30cm, in Stücke gerissen (nicht geschnitten!)",
         wirkung:
-          "Rot = Blut = Lebenskraft = Schutz. Reissen (nicht schneiden) " +
+          "Rot = Blut = Lebenskraft = Schutz. Reißen (nicht schneiden) " +
           "ist wichtig: Die zerrissenen Enden 'fangen' negative Energie " +
           "ein wie ein Netz."
       },
       {
         name: "Rosmarin (getrocknet)",
         menge: "Eine Handvoll",
-        wirkung: "Reinigung, Schutz, Erinnerung. Eines der aeltesten Schutzraeucherkraeuter."
+        wirkung: "Reinigung, Schutz, Erinnerung. Eines der ältesten Schutzräucherkräuter."
       },
       {
         name: "Salz (grob, unraffiniert)",
-        menge: "2-3 Essloeffel",
+        menge: "2-3 Esslöffel",
         wirkung:
           "Universelles Schutzmittel in praktisch JEDER Kultur der Welt. " +
-          "Antibakteriell, konservierend — 'unverwuestlich'."
+          "Antibakteriell, konservierend — 'unverwüstlich'."
       },
       {
-        name: "Urin des zu Schuetzenden (historisch)",
-        menge: "Historisch: Genuegend um die anderen Zutaten zu bedecken",
+        name: "Urin des zu Schützenden (historisch)",
+        menge: "Historisch: Genügend um die anderen Zutaten zu bedecken",
         wirkung:
-          "HISTORISCH: Persoenliche Koerperfluessigkeit als magische Verbindung " +
+          "HISTORISCH: Persönliche Körperflüssigkeit als magische Verbindung " +
           "zum Schutzsubjekt. Der Fluch 'findet' den Urin statt der Person. " +
-          "Manche archaeologischen Funde enthielten tatsaechlich Urin " +
+          "Manche archäologischen Funde enthielten tatsächlich Urin " +
           "(chemisch nachgewiesen!)."
       },
       {
-        name: "Haarlokken oder Fingernaegel (historisch)",
+        name: "Haarlokken oder Fingernägel (historisch)",
         menge: "Kleine Menge",
-        wirkung: "Persoenliche Materie — verstaerkt die magische Verbindung."
+        wirkung: "Persönliche Materie — verstärkt die magische Verbindung."
       }
     ],
     zubereitung:
       "HISTORISCHE VERSION:\n" +
-      "1. Einen Bartmann-Krug oder ein Steingefaess waehlen.\n" +
-      "2. Eisennaegel, Stecknadeln und rote Faeden hineinlegen.\n" +
-      "3. Rosmarin und Salz hinzufuegen.\n" +
-      "4. Urin des Hausbewohners hineingiessen.\n" +
-      "5. Haare oder Nagelschnipsel hinzufuegen.\n" +
-      "6. Das Gefaess fest versiegeln (mit Wachs oder Kork).\n" +
-      "7. Unter der Tuerschwelle, im Kamin oder in der Hausmauer vergraben.\n\n" +
+      "1. Einen Bartmann-Krug oder ein Steingefäß wählen.\n" +
+      "2. Eisennägel, Stecknadeln und rote Fäden hineinlegen.\n" +
+      "3. Rosmarin und Salz hinzufügen.\n" +
+      "4. Urin des Hausbewohners hineingießen.\n" +
+      "5. Haare oder Nagelschnipsel hinzufügen.\n" +
+      "6. Das Gefäß fest versiegeln (mit Wachs oder Kork).\n" +
+      "7. Unter der Türschwelle, im Kamin oder in der Hausmauer vergraben.\n\n" +
       "MODERNE ADAPTION (ohne Urin):\n" +
-      "1. Ein Einmachglas waehlen.\n" +
-      "2. Eisennaegel, Stecknadeln und rote Faeden hineinlegen.\n" +
-      "3. Rosmarin, Salbei, Salz und schwarzen Pfeffer hinzufuegen.\n" +
-      "4. Einen persoenlichen Gegenstand hinzufuegen (kleines Schmuckstueck, " +
+      "1. Ein Einmachglas wählen.\n" +
+      "2. Eisennägel, Stecknadeln und rote Fäden hineinlegen.\n" +
+      "3. Rosmarin, Salbei, Salz und schwarzen Pfeffer hinzufügen.\n" +
+      "4. Einen persönlichen Gegenstand hinzufügen (kleines Schmuckstück, " +
       "ein beschriebenes Papier mit dem eigenen Namen).\n" +
-      "5. Das Glas fest verschliessen.\n" +
+      "5. Das Glas fest verschließen.\n" +
       "6. Mit klarer Schutz-Intention aufladen (ruhig halten, sich vorstellen " +
       "wie ein Schutzschild das Haus umgibt).\n" +
-      "7. Im Garten vergraben, unter der Tuerschwelle verstecken, oder an " +
+      "7. Im Garten vergraben, unter der Türschwelle verstecken, oder an " +
       "einem verborgenen Ort im Haus aufbewahren.",
     anwendung:
-      "Das Flaeschchen wird einmal hergestellt und dann VERGESSEN — es " +
+      "Das Fläschchen wird einmal hergestellt und dann VERGESSEN — es " +
       "arbeitet im Verborgenen. In der Tradition soll man nicht mehr daran " +
-      "denken, nachdem es platziert wurde. Es 'faengt' negative Energien " +
-      "ein und schuetzt das Haus und seine Bewohner. Manche Traditionen " +
-      "empfehlen, das Flaeschchen jaehrlich zu erneuern (z.B. in den " +
-      "Rauhnaechten).",
+      "denken, nachdem es platziert wurde. Es 'fängt' negative Energien " +
+      "ein und schützt das Haus und seine Bewohner. Manche Traditionen " +
+      "empfehlen, das Fläschchen jährlich zu erneuern (z.B. in den " +
+      "Rauhnächten).",
     hintergrund:
-      "ARCHAEOLOGISCHE FUNDE:\n" +
-      "Die aeltesten archaeologisch datierten Witch Bottles stammen aus dem " +
-      "16. Jahrhundert. Besonders zahlreich sind Funde in England (ueber 200 " +
+      "ARCHÄOLOGISCHE FUNDE:\n" +
+      "Die ältesten archäologisch datierten Witch Bottles stammen aus dem " +
+      "16. Jahrhundert. Besonders zahlreich sind Funde in England (über 200 " +
       "dokumentiert), aber auch in Deutschland, den Niederlanden und " +
-      "Skandinavien. Die Kruege sind oft vom Typ 'Bartmann' (auch 'Bellarmine' " +
-      "genannt) — Steinzeug-Kruege mit einem baertigen Gesicht, hergestellt " +
-      "im Rheinland (Koeln, Frechen, Siegburg) und massenhaft nach England " +
+      "Skandinavien. Die Krüge sind oft vom Typ 'Bartmann' (auch 'Bellarmine' " +
+      "genannt) — Steinzeug-Krüge mit einem bärtigen Gesicht, hergestellt " +
+      "im Rheinland (Köln, Frechen, Siegburg) und massenhaft nach England " +
       "exportiert.\n\n" +
-      "2004 wurde in Greenwich (London) eine vollstaendig erhaltene Witch " +
+      "2004 wurde in Greenwich (London) eine vollständig erhaltene Witch " +
       "Bottle aus dem 17. Jahrhundert gefunden und wissenschaftlich untersucht. " +
-      "Sie enthielt: Eisennaegel, Stecknadeln, menschlichen Urin (chemisch " +
-      "nachgewiesen), Schwefel, Haare, und eine herzfoermige Stoffpuppe " +
+      "Sie enthielt: Eisennägel, Stecknadeln, menschlichen Urin (chemisch " +
+      "nachgewiesen), Schwefel, Haare, und eine herzförmige Stoffpuppe " +
       "voller Nadeln.\n\n" +
       "SYMBOLIK:\n" +
       "Die Witch Bottle funktioniert nach dem Prinzip der 'Umkehrmagie': " +
       "Der Fluch wird von der Person (Urin/Haare als Lockmittel) in die " +
-      "Flasche gelenkt, dort von den Nadeln und Naegeln 'festgenagelt' und " +
-      "neutralisiert. Rosmarin reinigt, Salz schuetzt, der rote Faden bindet.",
+      "Flasche gelenkt, dort von den Nadeln und Nägeln 'festgenagelt' und " +
+      "neutralisiert. Rosmarin reinigt, Salz schützt, der rote Faden bindet.",
     wissenschaft:
       "Aus moderner Sicht ist die Witch Bottle ein faszinierendes Beispiel " +
-      "fuer RITUELLE PSYCHOLOGIE: Das Herstellen und Vergraben des " +
-      "Flaeschchens gibt dem Menschen ein Gefuehl der Kontrolle und des " +
-      "Schutzes in einer Zeit, in der man sich Hexerei und boeser Magie " +
-      "hilflos ausgeliefert fuehlte. Dieser psychologische Effekt ist REAL: " +
-      "Rituale reduzieren nachweislich Angst und erhoehen das " +
-      "Kontrollgefuehl (Studien von Brooks et al., 2016). Das ist keine " +
+      "für RITUELLE PSYCHOLOGIE: Das Herstellen und Vergraben des " +
+      "Fläschchens gibt dem Menschen ein Gefühl der Kontrolle und des " +
+      "Schutzes in einer Zeit, in der man sich Hexerei und böser Magie " +
+      "hilflos ausgeliefert fühlte. Dieser psychologische Effekt ist REAL: " +
+      "Rituale reduzieren nachweislich Angst und erhöhen das " +
+      "Kontrollgefühl (Studien von Brooks et al., 2016). Das ist keine " +
       "'Einbildung' — es ist eine wirksame Technik der " +
       "Angstreduktion, die heute in der Verhaltenstherapie als " +
       "'symbolische Handlung' anerkannt ist.",
     geheimtipp:
       "Wenn du bei Renovierungsarbeiten in einem alten Haus (vor 1800) " +
-      "ein versiegeltes Gefaess unter der Schwelle oder im Kamin findest — " +
-      "du hast moeglicherweise eine echte Witch Bottle entdeckt! " +
-      "In dem Fall: Nicht oeffnen, sondern ein lokales Museum oder eine " +
-      "archaeologische Stelle kontaktieren. Diese Funde sind historisch " +
+      "ein versiegeltes Gefäß unter der Schwelle oder im Kamin findest — " +
+      "du hast möglicherweise eine echte Witch Bottle entdeckt! " +
+      "In dem Fall: Nicht öffnen, sondern ein lokales Museum oder eine " +
+      "archäologische Stelle kontaktieren. Diese Funde sind historisch " +
       "wertvoll und selten gut erhalten.",
     vorsicht:
-      "Voellig ungefaehrlich. Die einzige 'Gefahr' sind Stecknadeln und " +
-      "Naegel (Vorsicht beim Einfuellen, nicht in Kindenaehe aufbewahren). " +
-      "Falls du die moderne Version ohne Urin machst, ist es ein schoenes, " +
+      "Völlig ungefährlich. Die einzige 'Gefahr' sind Stecknadeln und " +
+      "Nägel (Vorsicht beim Einfüllen, nicht in Kindenähe aufbewahren). " +
+      "Falls du die moderne Version ohne Urin machst, ist es ein schönes, " +
       "meditatives Schutzritual.",
     quelle:
       "Brian Hoggard, 'Magical House Protection: The Archaeology of " +
       "Counter-Witchcraft', 2019; Ralph Merrifield, 'The Archaeology of " +
       "Ritual and Magic', 1987; Greenwich Witch Bottle Fund, 2004",
     tags: [
-      "#WitchBottle", "#Hexenbanner", "#Schutzmagie", "#Archaeologie",
-      "#BartmannKrug", "#Volksmagie", "#Eisennaegel", "#Schutzzauber",
+      "#WitchBottle", "#Hexenbanner", "#Schutzmagie", "#Archäologie",
+      "#BartmannKrug", "#Volksmagie", "#Eisennägel", "#Schutzzauber",
       "#England", "#Deutschland"
     ],
     besonders_bei: [
       "Witch Bottle", "Hexenbanner", "Schutzmagie", "Hausschutz",
-      "Volksmagie", "Archaeologie"
+      "Volksmagie", "Archäologie"
     ]
   },
 
   {
     id: "druiden-schutzkreis",
-    name: "Druiden-Schutzkreis — Die neun heiligen Hoelzer",
+    name: "Druiden-Schutzkreis — Die neun heiligen Hölzer",
     kategorie: "Schutzmagie",
     schwierigkeit: "Mittel",
     beschreibung:
       "In der keltischen Tradition waren Baeume das Alphabet der Seele. " +
       "Die Ogham-Schrift ordnet jedem Buchstaben einen Baum zu, und neun " +
-      "von ihnen galten als besonders heilig. Diese neun Hoelzer bilden " +
-      "zusammen den staerksten Schutzkreis der druidischen Tradition — " +
-      "als Raeucherung oder als physischer Kreis aus Zweigen. Jeder Baum " +
+      "von ihnen galten als besonders heilig. Diese neun Hölzer bilden " +
+      "zusammen den stärksten Schutzkreis der druidischen Tradition — " +
+      "als Räucherung oder als physischer Kreis aus Zweigen. Jeder Baum " +
       "bringt seine eigene Kraft ein, zusammen bilden sie ein " +
-      "unueberwindliches Schutzschild.",
+      "unüberwindliches Schutzschild.",
     zutaten: [
       {
         name: "Birke (Betula pendula)",
-        menge: "Ein kleines Stueck Holz oder Rinde",
+        menge: "Ein kleines Stück Holz oder Rinde",
         wirkung:
           "REINIGUNG und NEUANFANG. Der erste Baum im Ogham-Alphabet " +
           "(Beth). Birke ist der Pionier — sie besiedelt als erste kahle " +
-          "Flaechen. Steht fuer das Wegfegen des Alten und den " +
+          "Flächen. Steht für das Wegfegen des Alten und den " +
           "frischen Start."
       },
       {
         name: "Eiche (Quercus robur)",
-        menge: "Ein kleines Stueck Holz",
+        menge: "Ein kleines Stück Holz",
         wirkung:
-          "STAERKE und BESTAENDIGKEIT. Der heiligste Baum der Kelten — " +
-          "das Wort 'Druide' kommt moeglicherweise von 'dru-wid' = " +
-          "'der die Eiche kennt'. Donars/Thors Baum. Unerschuetterliche " +
+          "STÄRKE und BESTÄNDIGKEIT. Der heiligste Baum der Kelten — " +
+          "das Wort 'Druide' kommt möglicherweise von 'dru-wid' = " +
+          "'der die Eiche kennt'. Donars/Thors Baum. Unerschütterliche " +
           "Standhaftigkeit."
       },
       {
         name: "Eberesche/Vogelbeere (Sorbus aucuparia)",
-        menge: "Ein kleines Stueck Holz oder getrocknete Beeren",
+        menge: "Ein kleines Stück Holz oder getrocknete Beeren",
         wirkung:
           "SCHUTZ GEGEN VERZAUBERUNG. In Schottland und Irland der " +
-          "wichtigste Schutzbaum ueberhaupt. Ebereschenkreuze wurden " +
-          "ueber Tuerrahmen genagelt, Ebereschenzweige an Viehaelle " +
-          "gebunden. Gilt als unueberwindbar fuer negative Magie."
+          "wichtigste Schutzbaum überhaupt. Ebereschenkreuze wurden " +
+          "über Türrahmen genagelt, Ebereschenzweige an Viehälle " +
+          "gebunden. Gilt als unüberwindbar für negative Magie."
       },
       {
         name: "Weide (Salix alba)",
-        menge: "Ein kleines Stueck Holz oder Rinde",
+        menge: "Ein kleines Stück Holz oder Rinde",
         wirkung:
-          "INTUITION und MONDKRAFT. Der Baum der Goettin, des Wassers " +
-          "und der Nacht. Steht fuer die weibliche, empfangende Seite " +
-          "des Schutzes — das SPUEREN von Gefahr."
+          "INTUITION und MONDKRAFT. Der Baum der Göttin, des Wassers " +
+          "und der Nacht. Steht für die weibliche, empfangende Seite " +
+          "des Schutzes — das SPÜREN von Gefahr."
       },
       {
-        name: "Weissdorn (Crataegus monogyna)",
-        menge: "Ein kleines Stueck Holz (Vorsicht: Dornen!)",
+        name: "Weißdorn (Crataegus monogyna)",
+        menge: "Ein kleines Stück Holz (Vorsicht: Dornen!)",
         wirkung:
-          "FEENWELT und GRENZE. Der Weissdorn markiert die Schwelle " +
+          "FEENWELT und GRENZE. Der Weißdorn markiert die Schwelle " +
           "zwischen unserer Welt und der Anderswelt. Einzeln stehende " +
           "Weissdornbaeume galten als Feentore und durften NIEMALS " +
-          "gefaellt werden (in Irland bis heute!)."
+          "gefällt werden (in Irland bis heute!)."
       },
       {
         name: "Haselnuss (Corylus avellana)",
-        menge: "Ein kleines Stueck Holz oder Haselnuesse",
+        menge: "Ein kleines Stück Holz oder Haselnüsse",
         wirkung:
           "WEISHEIT und ORAKEL. Der Baum der Dichtung und der Seher. " +
-          "Haselnusszweige als Wuenschelruten. In der irischen Sage: " +
-          "Die Haselnuesse der Weisheit fallen in den Brunnen der " +
+          "Haselnusszweige als Wünschelruten. In der irischen Sage: " +
+          "Die Haselnüsse der Weisheit fallen in den Brunnen der " +
           "Erkenntnis und werden vom Lachs des Wissens gefressen."
       },
       {
         name: "Apfelbaum (Malus domestica)",
-        menge: "Ein kleines Stueck Holz",
+        menge: "Ein kleines Stück Holz",
         wirkung:
           "LIEBE und HEILUNG. Avalon = 'Apfelinsel' — das keltische " +
-          "Paradies. Der Apfelbaum steht fuer Heilung, Liebe und " +
+          "Paradies. Der Apfelbaum steht für Heilung, Liebe und " +
           "Unsterblichkeit. Schneidet man einen Apfel quer, zeigt " +
           "sich das Pentagramm."
       },
       {
         name: "Weinrebe oder Efeu (Hedera helix)",
-        menge: "Ein kleines Stueck Ranke",
+        menge: "Ein kleines Stück Ranke",
         wirkung:
-          "FREUDE und TRANSFORMATION. Die Spiralpflanze — steht fuer " +
-          "den Kreislauf des Lebens, fuer Ekstase und Wandlung. Dem " +
+          "FREUDE und TRANSFORMATION. Die Spiralpflanze — steht für " +
+          "den Kreislauf des Lebens, für Ekstase und Wandlung. Dem " +
           "Gott Dionysos/Bacchus heilig."
       },
       {
         name: "Holunder (Sambucus nigra)",
-        menge: "Ein kleines Stueck Holz (NIEMALS Holunder verbrennen ohne die 'Erlaubnis' des Baumes zu erbitten!)",
+        menge: "Ein kleines Stück Holz (NIEMALS Holunder verbrennen ohne die 'Erlaubnis' des Baumes zu erbitten!)",
         wirkung:
           "DIE GROSSE MUTTER und TOR ZUM JENSEITS. Der Holunder ist der " +
-          "Baum der Goettin Holle/Holda/Frau Perchta. Er steht an der " +
-          "Grenze zwischen Leben und Tod. Holunderholz im Haus schuetzt — " +
+          "Baum der Göttin Holle/Holda/Frau Perchta. Er steht an der " +
+          "Grenze zwischen Leben und Tod. Holunderholz im Haus schützt — " +
           "aber man muss den Baum mit Respekt behandeln."
       }
     ],
     zubereitung:
-      "ALS RAEUCHERUNG (Schutzraeucherung):\n" +
-      "Von jedem der neun Baeume ein kleines Stueck Holz, Rinde oder " +
-      "getrocknetes Blatt sammeln. Die Stuecke klein schneiden. Auf " +
-      "eine gluehende Raeucherkohle legen — am besten alle neun zusammen " +
+      "ALS RÄUCHERUNG (Schutzräucherung):\n" +
+      "Von jedem der neun Baeume ein kleines Stück Holz, Rinde oder " +
+      "getrocknetes Blatt sammeln. Die Stücke klein schneiden. Auf " +
+      "eine glühende Räucherkohle legen — am besten alle neun zusammen " +
       "oder nacheinander, jeweils mit der Nennung des Baumes und seiner " +
       "Kraft.\n\n" +
-      "ALS SCHUTZKREIS (fuer Ritualarbeit):\n" +
-      "Neun Zweige der verschiedenen Baeume im Kreis auslegen — einen fuer " +
+      "ALS SCHUTZKREIS (für Ritualarbeit):\n" +
+      "Neun Zweige der verschiedenen Baeume im Kreis auslegen — einen für " +
       "jede Himmelsrichtung plus die Mitte. Den Kreis im Uhrzeigersinn " +
       "(Sonnenlauf) legen. Vor dem Betreten des Kreises eine Intention " +
       "sprechen.\n\n" +
       "ALS SCHUTZBEUTEL:\n" +
-      "Kleine Stuecke aller neun Hoelzer in einen Beutel aus natuerlichem " +
-      "Stoff fuellen. Als Amulett bei sich tragen oder im Haus aufhaengen.\n\n" +
+      "Kleine Stücke aller neun Hölzer in einen Beutel aus natürlichem " +
+      "Stoff füllen. Als Amulett bei sich tragen oder im Haus aufhängen.\n\n" +
       "WICHTIG: Beim Sammeln der Zweige traditionell die Erlaubnis des Baumes " +
       "erbitten und eine kleine Gabe hinterlassen (Wasser, Honig, Haar). " +
-      "Nie mehr nehmen als noetig.",
+      "Nie mehr nehmen als nötig.",
     anwendung:
-      "Die Schutzraeucherung eignet sich besonders fuer:\n" +
+      "Die Schutzräucherung eignet sich besonders für:\n" +
       "• Den Einzug in ein neues Haus/eine neue Wohnung\n" +
       "• Nach Konflikten oder belastenden Ereignissen\n" +
-      "• In den Rauhnaechten (25. Dez. - 6. Jan.)\n" +
+      "• In den Rauhnächten (25. Dez. - 6. Jan.)\n" +
       "• Bei Vollmond oder Jahreskreisfesten\n" +
-      "• Immer wenn das Gefuehl besteht, dass 'die Energie' in einem " +
+      "• Immer wenn das Gefühl besteht, dass 'die Energie' in einem " +
       "Raum 'schwer' geworden ist\n\n" +
-      "Der Schutzkreis ist fuer meditative oder rituelle Arbeit gedacht — " +
-      "ein sicherer Raum, in dem man sich oeffnen kann.",
+      "Der Schutzkreis ist für meditative oder rituelle Arbeit gedacht — " +
+      "ein sicherer Raum, in dem man sich öffnen kann.",
     hintergrund:
       "DIE OGHAM-SCHRIFT:\n" +
       "Die Kelten entwickelten ein einzigartiges Schriftsystem, in dem " +
@@ -1398,48 +1398,48 @@ export const GRIMOIRE_REZEPTE = [
       "'Oh-am'). Es ist auf Steinmonumenten in Irland und Wales erhalten. " +
       "Die Baeume waren mehr als ein Alphabet: Sie waren ein SYSTEM DES " +
       "WISSENS, eine Weltsicht, in der jeder Baum eine kosmische Kraft " +
-      "repraesentiert.\n\n" +
-      "DIE NEUN HOELZER:\n" +
-      "Die Tradition der 'neun heiligen Hoelzer' ist in verschiedenen " +
-      "Formen ueberliefert — am bekanntesten durch die schottisch-" +
-      "gaelische 'Carmina Gadelica' (Alexander Carmichael, 1900), eine " +
-      "Sammlung keltischer Gebete, Segenssprueche und Rituale aus den " +
+      "repräsentiert.\n\n" +
+      "DIE NEUN HÖLZER:\n" +
+      "Die Tradition der 'neun heiligen Hölzer' ist in verschiedenen " +
+      "Formen überliefert — am bekanntesten durch die schottisch-" +
+      "gälische 'Carmina Gadelica' (Alexander Carmichael, 1900), eine " +
+      "Sammlung keltischer Gebete, Segenssprüche und Rituale aus den " +
       "schottischen Highlands und Inseln. Die genaue Zusammensetzung " +
       "variiert regional, aber die hier genannten neun Baeume bilden " +
-      "den Kern der meisten Ueberlieferungen.\n\n" +
+      "den Kern der meisten Überlieferungen.\n\n" +
       "DIE KELTISCHE WELTSICHT:\n" +
-      "Fuer die Kelten waren Baeume LEBENDE WESEN mit eigener Kraft, " +
+      "Für die Kelten waren Baeume LEBENDE WESEN mit eigener Kraft, " +
       "eigenem Charakter und eigener Weisheit. Heilige Haine waren ihre " +
-      "Tempel, und das Faellen eines heiligen Baumes galt als schwerste " +
-      "Suende. Diese tiefe Verbindung zur Natur ist einer der Gruende, " +
+      "Tempel, und das Fällen eines heiligen Baumes galt als schwerste " +
+      "Sünde. Diese tiefe Verbindung zur Natur ist einer der Gründe, " +
       "warum die keltische Tradition heute so viele Menschen anspricht.",
     wissenschaft:
-      "Das Raeuchern von Hoelzern setzt terpene Verbindungen frei, die " +
+      "Das Räuchern von Hölzern setzt terpene Verbindungen frei, die " +
       "nachweislich psychoaktive Wirkungen haben:\n\n" +
-      "• Alpha-Pinen (in Birke, Eiche): Angstloesend, konzentrationsfoerdernd\n" +
-      "• Linalool (in verschiedenen Hoelzern): Beruhigend, anxiolytisch\n" +
+      "• Alpha-Pinen (in Birke, Eiche): Angstlösend, konzentrationsfördernd\n" +
+      "• Linalool (in verschiedenen Hölzern): Beruhigend, anxiolytisch\n" +
       "• Cineol (in Eukalyptus-verwandten): Atemwegsbefreiend, erfrischend\n\n" +
-      "Zusaetzlich: Der Rauch von Harzen und Hoelzern erzeugt negative " +
-      "Ionen, die die Luftqualitaet verbessern und die Stimmung heben " +
-      "(Perez et al., 2013). Und natuerlich: Das Ritual selbst — das " +
-      "bewusste Sammeln, Benennen und Raeuchern — ist eine Form der " +
+      "Zusätzlich: Der Rauch von Harzen und Hölzern erzeugt negative " +
+      "Ionen, die die Luftqualität verbessern und die Stimmung heben " +
+      "(Perez et al., 2013). Und natürlich: Das Ritual selbst — das " +
+      "bewusste Sammeln, Benennen und Räuchern — ist eine Form der " +
       "Achtsamkeitspraxis, die messbar Stress reduziert.",
     geheimtipp:
       "In Irland werden bis heute einzeln stehende Weissdornbaeume " +
-      "respektiert und nicht gefaellt — selbst wenn sie mitten auf einer " +
+      "respektiert und nicht gefällt — selbst wenn sie mitten auf einer " +
       "Baustelle stehen. Der Motorway M3 bei Tara wurde 2007 wegen eines " +
-      "Weissdorns an einem archaeologisch bedeutsamen Ort heftig debattiert. " +
+      "Weißdorns an einem archäologisch bedeutsamen Ort heftig debattiert. " +
       "Die 'Fairy Trees' (Feenbaeume) sind in der irischen Kultur so tief " +
       "verankert, dass selbst moderne Bauunternehmer sie nicht antasten — " +
-      "aus Angst vor dem 'Feenpech'. Das ist keine blosse Folklore: " +
+      "aus Angst vor dem 'Feenpech'. Das ist keine bloße Folklore: " +
       "Es zeigt, wie tief die keltische Baumverehrung in der Seele Europas " +
       "verwurzelt ist.",
     vorsicht:
-      "Voellig ungefaehrlich. Alle genannten Hoelzer koennen bedenkenlos " +
-      "geraeuchtert werden. Beim Raeuchern: Auf gute Belueftung achten " +
-      "(Fenster kippen), Raeucherkohle auf feuerfester Unterlage verwenden, " +
-      "nie unbeaufsichtigt lassen. Vorsicht bei Weissdorn (Dornen!) und " +
-      "Efeu (Blaetter sind bei Verschlucken leicht giftig — hier wird " +
+      "Völlig ungefährlich. Alle genannten Hölzer können bedenkenlos " +
+      "geräuchtert werden. Beim Räuchern: Auf gute Belüftung achten " +
+      "(Fenster kippen), Räucherkohle auf feuerfester Unterlage verwenden, " +
+      "nie unbeaufsichtigt lassen. Vorsicht bei Weißdorn (Dornen!) und " +
+      "Efeu (Blätter sind bei Verschlucken leicht giftig — hier wird " +
       "aber nur die Ranke als Holz verwendet).",
     quelle:
       "Alexander Carmichael, 'Carmina Gadelica', 1900; Robert Graves, " +
@@ -1447,13 +1447,13 @@ export const GRIMOIRE_REZEPTE = [
       "Peter Berresford Ellis, 'The Druids', 1994; Liz und Colin Murray, " +
       "'The Celtic Tree Oracle', 1988",
     tags: [
-      "#Druiden", "#Kelten", "#NeunHoelzer", "#Ogham", "#Schutzkreis",
-      "#Raeucherung", "#Baeume", "#Schutzmagie", "#Volksmagie",
-      "#Ungefaehrlich"
+      "#Druiden", "#Kelten", "#NeunHölzer", "#Ogham", "#Schutzkreis",
+      "#Räucherung", "#Baeume", "#Schutzmagie", "#Volksmagie",
+      "#Ungefährlich"
     ],
     besonders_bei: [
-      "Druiden", "Kelten", "Schutzkreis", "Raeucherung",
-      "Baeume", "Ogham", "neun Hoelzer"
+      "Druiden", "Kelten", "Schutzkreis", "Räucherung",
+      "Baeume", "Ogham", "neun Hölzer"
     ]
   },
 
@@ -1463,122 +1463,122 @@ export const GRIMOIRE_REZEPTE = [
 
   {
     id: "aqua-tofana",
-    name: "Aqua Tofana — Das beruehmteste Gift der Geschichte",
+    name: "Aqua Tofana — Das berühmteste Gift der Geschichte",
     kategorie: "Giftkunst",
     schwierigkeit: "Meister",
     beschreibung:
-      "Aqua Tofana war das toedlichste und beruehmteste Gift des 17. " +
+      "Aqua Tofana war das tödlichste und berühmteste Gift des 17. " +
       "Jahrhunderts — ein farb-, geruch- und geschmackloses Gift, das in " +
-      "4-5 kleinen Dosen ueber Wochen verabreicht einen langsamen, scheinbar " +
-      "natuerlichen Tod verursachte. Erfunden von Giulia Tofana in " +
+      "4-5 kleinen Dosen über Wochen verabreicht einen langsamen, scheinbar " +
+      "natürlichen Tod verursachte. Erfunden von Giulia Tofana in " +
       "Rom/Neapel, verkauft als 'Manna di San Nicola' (heiliges Wasser), " +
-      "soll es angeblich ueber 600 Ehemaenner getoetet haben. Hinter der " +
-      "Geschichte steckt ein erschuetterndes Kapitel der Frauengeschichte: " +
+      "soll es angeblich über 600 Ehemänner getötet haben. Hinter der " +
+      "Geschichte steckt ein erschütterndes Kapitel der Frauengeschichte: " +
       "In einer Welt ohne Scheidungsrecht war Gift manchmal der einzige " +
-      "Ausweg aus einer gewalttaetigen Ehe. REIN HISTORISCHE DOKUMENTATION.",
+      "Ausweg aus einer gewalttätigen Ehe. REIN HISTORISCHE DOKUMENTATION.",
     zutaten: [
       {
         name: "Arsentrioxid (Arsenicum album) — MUTMASSLICH",
         menge: "Historisch: Genaue Dosierung war das Geheimnis Tofanas",
         wirkung:
-          "TOEDLICH! Arsen in kleinen Dosen imitiert eine langsame Krankheit: " +
-          "Magenbeschwerden, Schwaeche, Haarausfall, blasse Haut. Der Tod " +
+          "TÖDLICH! Arsen in kleinen Dosen imitiert eine langsame Krankheit: " +
+          "Magenbeschwerden, Schwäche, Haarausfall, blasse Haut. Der Tod " +
           "tritt nach Wochen durch Organversagen ein. Im 17. Jh. war " +
-          "Arsenvergiftung schwer von natuerlicher Krankheit zu unterscheiden."
+          "Arsenvergiftung schwer von natürlicher Krankheit zu unterscheiden."
       },
       {
         name: "Bleiextrakt (Bleizucker/Bleiacetat) — MUTMASSLICH",
         menge: "Historisch: Beigemischt",
         wirkung:
-          "TOEDLICH! Chronische Bleivergiftung verursacht: Bauchkraempfe, " +
-          "Anamie, Nierenschaden, Hirnschaeden. Bleiacetat schmeckt suesslich — " +
-          "im Mittelalter wurde es tatsaechlich als Suessstoff verwendet!"
+          "TÖDLICH! Chronische Bleivergiftung verursacht: Bauchkrämpfe, " +
+          "Anamie, Nierenschaden, Hirnschäden. Bleiacetat schmeckt süßlich — " +
+          "im Mittelalter wurde es tatsächlich als Süßstoff verwendet!"
       },
       {
         name: "Belladonna-Extrakt (Atropa belladonna) — MUTMASSLICH",
         menge: "Historisch: In kleiner Menge beigemischt",
         wirkung:
-          "TOEDLICH GIFTIG! Tropan-Alkaloide. Moeglicherweise beigemischt " +
+          "TÖDLICH GIFTIG! Tropan-Alkaloide. Möglicherweise beigemischt " +
           "um die Symptome des Sterbenden zu verschleiern oder um " +
-          "Herzrhythmusstoerungen zu verstaerken."
+          "Herzrhythmusstörungen zu verstärken."
       }
     ],
     zubereitung:
-      "REIN HISTORISCH — NICHT NACHMACHEN! TOEDLICHE GIFTE!\n\n" +
+      "REIN HISTORISCH — NICHT NACHMACHEN! TÖDLICHE GIFTE!\n\n" +
       "Die genaue Zusammensetzung ist NICHT gesichert — Giulia Tofana " +
       "nahm das Rezept mit ins Grab. Die historischen Quellen sind sich " +
-      "uneins. Die obige Zusammensetzung ist die am haeufigsten zitierte " +
+      "uneins. Die obige Zusammensetzung ist die am häufigsten zitierte " +
       "Rekonstruktion. Das Entscheidende war die DOSIERUNG: Tofana wusste " +
-      "genau, wieviel man ueber welchen Zeitraum geben musste, damit der " +
-      "Tod nach 4-5 Gaben langsam und 'natuerlich' eintrat.\n\n" +
-      "Das Gift wurde in kleinen Flaeschchen verkauft, die als 'Manna di " +
-      "San Nicola' (heiliges Oel vom Grab des Heiligen Nikolaus in Bari) " +
+      "genau, wieviel man über welchen Zeitraum geben musste, damit der " +
+      "Tod nach 4-5 Gaben langsam und 'natürlich' eintrat.\n\n" +
+      "Das Gift wurde in kleinen Fläschchen verkauft, die als 'Manna di " +
+      "San Nicola' (heiliges Öl vom Grab des Heiligen Nikolaus in Bari) " +
       "getarnt waren. Eine genialer Deckmantel: Jede Frau konnte " +
-      "religioeses Devotionalienwasser besitzen, ohne Verdacht zu erregen.",
+      "religiöses Devotionalienwasser besitzen, ohne Verdacht zu erregen.",
     anwendung:
       "REIN HISTORISCH — NICHT NACHMACHEN!\n\n" +
-      "Die Kundinnen — fast ausschliesslich Ehefrauen — mischten das " +
+      "Die Kundinnen — fast ausschließlich Ehefrauen — mischten das " +
       "Gift in kleinen Dosen in die Mahlzeiten oder den Wein ihrer " +
-      "Ehemaenner. 4-5 Gaben ueber mehrere Wochen verteilt. Der Mann " +
-      "wurde langsam schwaecher, litt unter Magenbeschwerden, verlor " +
-      "an Gewicht und starb schliesslich an scheinbarem Organversagen. " +
-      "Da Arsenvergiftung die Symptome vieler natuerlicher Krankheiten " +
-      "imitiert, wurde selten Verdacht geschoepft.",
+      "Ehemänner. 4-5 Gaben über mehrere Wochen verteilt. Der Mann " +
+      "wurde langsam schwächer, litt unter Magenbeschwerden, verlor " +
+      "an Gewicht und starb schließlich an scheinbarem Organversagen. " +
+      "Da Arsenvergiftung die Symptome vieler natürlicher Krankheiten " +
+      "imitiert, wurde selten Verdacht geschöpft.",
     hintergrund:
       "Giulia Tofana (manchmal Tofania d'Adamo) lebte im 17. Jahrhundert " +
-      "in Rom und Neapel. Ueber ihr fruehes Leben ist wenig bekannt. " +
+      "in Rom und Neapel. Über ihr frühes Leben ist wenig bekannt. " +
       "Sie baute ein regelrechtes NETZWERK auf: Sie verkaufte das Gift an " +
-      "Frauen, die aus ungewollten oder gewalttaetigen Ehen fliehen wollten. " +
-      "In einer Zeit, in der Scheidung UNMOEGLICH war, Frauen keinerlei " +
-      "Rechte hatten und Maenner ihre Frauen legal misshandeln konnten, " +
+      "Frauen, die aus ungewollten oder gewalttätigen Ehen fliehen wollten. " +
+      "In einer Zeit, in der Scheidung UNMÖGLICH war, Frauen keinerlei " +
+      "Rechte hatten und Männer ihre Frauen legal misshandeln konnten, " +
       "war Gift manchmal der einzige Ausweg.\n\n" +
       "UMFANG: Verschiedene Quellen sprechen von 600+ Opfern — diese Zahl " +
-      "ist moeglicherweise uebertrieben (Gestaendnisse unter Folter " +
-      "sind unzuverlaessig), aber selbst eine Fraktion davon macht Aqua " +
-      "Tofana zum groessten Serienmord der Geschichte.\n\n" +
-      "DAS ENDE: 1659 wurde Tofana verraen — eine ihrer Kundinnen " +
+      "ist möglicherweise übertrieben (Geständnisse unter Folter " +
+      "sind unzuverlässig), aber selbst eine Fraktion davon macht Aqua " +
+      "Tofana zum größten Serienmord der Geschichte.\n\n" +
+      "DAS ENDE: 1659 wurde Tofana verrän — eine ihrer Kundinnen " +
       "gestand unter Druck. Tofana floh in ein Kloster (Kirchenasyl), " +
-      "wurde aber ausgeliefert. Nach Folter und Gestaendnis wurde sie " +
+      "wurde aber ausgeliefert. Nach Folter und Geständnis wurde sie " +
       "mit mehreren Mitarbeiterinnen hingerichtet.\n\n" +
-      "KULTURELLE FOLGEN: Aqua Tofana loeste eine Welle der Paranoia " +
-      "unter maennlichen Aristokraten aus. 'Vorkoster' wurden zum Standard " +
+      "KULTURELLE FOLGEN: Aqua Tofana löste eine Welle der Paranoia " +
+      "unter männlichen Aristokraten aus. 'Vorkoster' wurden zum Standard " +
       "an Adelshofen. In Frankreich folgte der 'Affaire des Poisons' " +
-      "(1677-1682) am Hof Ludwigs XIV. — ein aehnlicher Giftskandal mit " +
+      "(1677-1682) am Hof Ludwigs XIV. — ein ähnlicher Giftskandal mit " +
       "Verbindungen zu Liebesmagie und Mord.",
     wissenschaft:
       "ARSENVERGIFTUNG — Warum sie so lange unerkannt blieb:\n\n" +
       "Arsenicum album (Arsentrioxid, As2O3) ist geruch- und geschmacklos. " +
       "Chronische Arsenvergiftung erzeugt Symptome, die zahlreiche " +
-      "natuerliche Krankheiten imitieren:\n" +
+      "natürliche Krankheiten imitieren:\n" +
       "• Magen-Darm-Beschwerden (wie Gastritis)\n" +
-      "• Schwaeche und Muedigkeit (wie Anamie)\n" +
+      "• Schwäche und Müdigkeit (wie Anamie)\n" +
       "• Haarausfall (wie Stress oder Alter)\n" +
       "• Blasse, wachsige Haut (wie Herzkrankheit)\n" +
       "• Periphere Neuropathie (wie Diabetes)\n\n" +
       "Erst 1836 entwickelte James Marsh den 'Marsh-Test' — den ersten " +
-      "zuverlaessigen Nachweis fuer Arsenvergiftung. Vorher war Arsen " +
+      "zuverlässigen Nachweis für Arsenvergiftung. Vorher war Arsen " +
       "das PERFEKTE Gift: unsichtbar, geschmacklos, nicht nachweisbar.\n\n" +
       "HEUTE: Arsen ist mit modernster Forensik (Massenspektrometrie, " +
       "Haaranalyse) LEICHT nachweisbar — selbst Jahrhunderte nach dem Tod. " +
-      "Napoleon Bonapartes Haarproben zeigten erhoehte Arsenwerte " +
+      "Napoleon Bonapartes Haarproben zeigten erhöhte Arsenwerte " +
       "(ob durch Vergiftung oder arsenhaltige Tapeten ist umstritten).",
     geheimtipp:
       "Das tragischste Detail: Viele von Tofanas Kundinnen waren keine " +
-      "Moerderinnen aus Habgier, sondern verzweifelte Frauen in " +
-      "gewalttaetigen Ehen. Im 17. Jahrhundert konnte ein Ehemann seine " +
+      "Mörderinnen aus Habgier, sondern verzweifelte Frauen in " +
+      "gewalttätigen Ehen. Im 17. Jahrhundert konnte ein Ehemann seine " +
       "Frau legal schlagen, vergewaltigen und einsperren — und die Frau " +
       "hatte KEIN Recht auf Scheidung. Die Kirche lehrte Unterwerfung. " +
       "Aqua Tofana war, in den Worten der Historikerin Tracy Borman, " +
       "'das Scheidungsmittel der Verzweifelten'. Das entschuldigt keinen " +
-      "Mord — aber es erklaert den historischen Kontext.",
+      "Mord — aber es erklärt den historischen Kontext.",
     vorsicht:
       "REIN HISTORISCH — NICHT NACHMACHEN!\n\n" +
-      "ARSEN (Arsentrioxid): TOEDLICH! Bereits 60-120mg koennen einen " +
-      "Erwachsenen toeten. Chronische Exposition in kleinen Dosen " +
-      "fuehrt zu Krebs, Organversagen und Tod.\n\n" +
-      "BLEI (Bleiacetat): TOEDLICH! Chronische Bleivergiftung " +
-      "verursacht irreversible Hirn- und Nierenschaeden.\n\n" +
-      "BELLADONNA: TOEDLICH! Tropan-Alkaloide (siehe Flugsalben-Eintraege).\n\n" +
+      "ARSEN (Arsentrioxid): TÖDLICH! Bereits 60-120mg können einen " +
+      "Erwachsenen töten. Chronische Exposition in kleinen Dosen " +
+      "führt zu Krebs, Organversagen und Tod.\n\n" +
+      "BLEI (Bleiacetat): TÖDLICH! Chronische Bleivergiftung " +
+      "verursacht irreversible Hirn- und Nierenschäden.\n\n" +
+      "BELLADONNA: TÖDLICH! Tropan-Alkaloide (siehe Flugsalben-Einträge).\n\n" +
       "Alle diese Substanzen sind LEICHT NACHWEISBAR mit moderner Forensik. " +
       "Vergiftung ist MORD und wird entsprechend bestraft.",
     quelle:
@@ -1598,78 +1598,78 @@ export const GRIMOIRE_REZEPTE = [
 
   {
     id: "belladonna-geschichte",
-    name: "Belladonna — Die schoene Toedliche",
+    name: "Belladonna — Die schöne Tödliche",
     kategorie: "Giftkunst",
     schwierigkeit: "Fortgeschritten",
     beschreibung:
-      "Keine Pflanze verkoepert die Doppelnatur von Gift und Medizin so " +
+      "Keine Pflanze verköpert die Doppelnatur von Gift und Medizin so " +
       "perfekt wie die Tollkirsche — Atropa belladonna. Ihr Name vereint " +
-      "den Tod (Atropos, die griechische Schicksalsgoettin, die den " +
-      "Lebensfaden durchschneidet) mit der Schoenheit (bella donna = " +
-      "'schoene Frau', weil Renaissance-Frauen sich den Saft in die " +
-      "Augen traeufrelten, um die Pupillen zu weiten). Paracelsus' " +
-      "beruehmter Satz wird durch Belladonna perfekt illustriert: " +
+      "den Tod (Atropos, die griechische Schicksalsgöttin, die den " +
+      "Lebensfaden durchschneidet) mit der Schönheit (bella donna = " +
+      "'schöne Frau', weil Renaissance-Frauen sich den Saft in die " +
+      "Augen träufrelten, um die Pupillen zu weiten). Paracelsus' " +
+      "berühmter Satz wird durch Belladonna perfekt illustriert: " +
       "'Alle Dinge sind Gift, und nichts ist ohne Gift. Allein die Dosis " +
       "macht, dass ein Ding kein Gift ist.'",
     zutaten: [
       {
         name: "Tollkirsche (Atropa belladonna) — GESAMTE PFLANZE",
-        menge: "REIN HISTORISCH — keinerlei Mengenangabe, da TOEDLICH",
+        menge: "REIN HISTORISCH — keinerlei Mengenangabe, da TÖDLICH",
         wirkung:
           "Hauptalkaloide: Atropin, Scopolamin, Hyoscyamin (Tropan-Alkaloide). " +
           "Anticholinerg — blockiert Acetylcholin-Rezeptoren. Wirkungen: " +
           "Pupillenerweiterung (Mydriasis), Mundtrockenheit, Herzrasen, " +
-          "Halluzinationen, Verwirrtheit, Kraempfe. TOEDLICH bei Ueberdosis."
+          "Halluzinationen, Verwirrtheit, Krämpfe. TÖDLICH bei Überdosis."
       }
     ],
     zubereitung:
-      "REIN HISTORISCH — NICHT NACHMACHEN! TOEDLICH GIFTIG!\n\n" +
+      "REIN HISTORISCH — NICHT NACHMACHEN! TÖDLICH GIFTIG!\n\n" +
       "Dieser Eintrag dokumentiert die GESCHICHTE der Tollkirsche, " +
-      "nicht ihre Verwendung. Jede Verwendung ausserhalb kontrollierter " +
-      "medizinischer/pharmazeutischer Umgebungen ist LEBENSGEFAEHRLICH.",
+      "nicht ihre Verwendung. Jede Verwendung außerhalb kontrollierter " +
+      "medizinischer/pharmazeutischer Umgebungen ist LEBENSGEFÄHRLICH.",
     anwendung:
-      "REIN HISTORISCH — NICHT NACHMACHEN! TOEDLICH GIFTIG!\n\n" +
+      "REIN HISTORISCH — NICHT NACHMACHEN! TÖDLICH GIFTIG!\n\n" +
       "HISTORISCHE VERWENDUNGEN:\n\n" +
-      "1. KOSMETIK (Renaissance): Frauen traeufrelten verdueunnten " +
+      "1. KOSMETIK (Renaissance): Frauen träufrelten verdüunnten " +
       "Tollkirschensaft in die Augen — die Pupillen weiteten sich " +
-      "(Mydriasis), was den Augen einen 'leuchtenden, verfuehrerischen' " +
+      "(Mydriasis), was den Augen einen 'leuchtenden, verführerischen' " +
       "Blick gab. Daher der Name 'Bella Donna'. Die Folge bei " +
-      "Dauergebrauch: Sehschaeden bis zur Erblindung.\n\n" +
+      "Dauergebrauch: Sehschäden bis zur Erblindung.\n\n" +
       "2. FLUGSALBEN: Zentraler Bestandteil der meisten dokumentierten " +
-      "Hexensalben (siehe Flugsalben-Eintraege).\n\n" +
-      "3. GIFT: In der Renaissance ein gaengiges Mordgift — geschmacklos " +
-      "in Wein aufgeloest.\n\n" +
-      "4. MEDIZIN: Als Betaeubungsmittel bei Operationen (gefaehrlich!), " +
-      "als Spasmolytikum (krampfloesend), als Pupillenerweiterer.\n\n" +
-      "5. KRIEGSFUEHRUNG: Die Schotten sollen einmal einen Vorrat an " +
-      "Tollkirschen-Wein zurueckgelassen haben, den daenische Eindringlinge " +
-      "tranken — die Vergifteten wurden im Schlaf ueberwaltigt.",
+      "Hexensalben (siehe Flugsalben-Einträge).\n\n" +
+      "3. GIFT: In der Renaissance ein gängiges Mordgift — geschmacklos " +
+      "in Wein aufgelöst.\n\n" +
+      "4. MEDIZIN: Als Betäubungsmittel bei Operationen (gefährlich!), " +
+      "als Spasmolytikum (krampflösend), als Pupillenerweiterer.\n\n" +
+      "5. KRIEGSFÜHRUNG: Die Schotten sollen einmal einen Vorrat an " +
+      "Tollkirschen-Wein zurückgelassen haben, den dänische Eindringlinge " +
+      "tranken — die Vergifteten wurden im Schlaf überwaltigt.",
     hintergrund:
-      "DIE GOETTIN DES TODES:\n" +
+      "DIE GÖTTIN DES TODES:\n" +
       "Der Gattungsname 'Atropa' stammt von Atropos — der dritten der drei " +
-      "griechischen Moiren (Schicksalsgoettinnen). Klotho spinnt den " +
+      "griechischen Moiren (Schicksalsgöttinnen). Klotho spinnt den " +
       "Lebensfaden, Lachesis misst ihn ab, und Atropos — die " +
-      "'Unabwendbare' — schneidet ihn durch. Ein passenderer Name fuer " +
-      "eine toedliche Pflanze ist kaum denkbar.\n\n" +
-      "DIE SCHOENE FRAU:\n" +
+      "'Unabwendbare' — schneidet ihn durch. Ein passenderer Name für " +
+      "eine tödliche Pflanze ist kaum denkbar.\n\n" +
+      "DIE SCHÖNE FRAU:\n" +
       "Der Artname 'belladonna' entstand in der Renaissance. " +
       "Venezianische Frauen verwendeten Tollkirschenextrakt als " +
-      "Augentropfen. Grosse Pupillen galten als Zeichen von Erregung " +
-      "und Schoenheit — die 'Puppenaugen'. Dass dieser Schoenheitstrick " +
-      "langfristig zur Erblindung fuehren konnte, nahmen sie in Kauf.\n\n" +
+      "Augentropfen. Große Pupillen galten als Zeichen von Erregung " +
+      "und Schönheit — die 'Puppenaugen'. Dass dieser Schönheitstrick " +
+      "langfristig zur Erblindung führen konnte, nahmen sie in Kauf.\n\n" +
       "DIE VENEFICAE:\n" +
       "Im antiken Rom gab es die 'Veneficae' — Frauen, die sowohl " +
       "Giftmischerinnen als auch Heilerinnen waren. Die Grenze zwischen " +
-      "Gift und Heilmittel war fliessend. Das Wort 'Veneficium' bedeutet " +
+      "Gift und Heilmittel war fließend. Das Wort 'Veneficium' bedeutet " +
       "sowohl 'Giftmischerei' als auch 'Zauberei' — und genau diese " +
-      "Verschmelzung fuehrte spaeter zur Hexenverfolgung: Kraeuterkundige " +
-      "Frauen wurden automatisch der Hexerei verdaechtigt.\n\n" +
+      "Verschmelzung führte später zur Hexenverfolgung: Kräuterkundige " +
+      "Frauen wurden automatisch der Hexerei verdächtigt.\n\n" +
       "PARACELSUS (1493-1541):\n" +
       "'Alle Dinge sind Gift, und nichts ist ohne Gift. Allein die Dosis " +
       "macht, dass ein Ding kein Gift ist.' Dieser Satz — der " +
       "Grundstein der Toxikologie — wird durch Belladonna perfekt " +
       "illustriert: In der richtigen Dosis ist Atropin ein " +
-      "LEBENSRETTENDES Medikament, in der falschen ein toedliches Gift.",
+      "LEBENSRETTENDES Medikament, in der falschen ein tödliches Gift.",
     wissenschaft:
       "ATROPIN IN DER MODERNEN MEDIZIN:\n\n" +
       "Das Alkaloid Atropin aus der Tollkirsche ist HEUTE ein " +
@@ -1681,50 +1681,50 @@ export const GRIMOIRE_REZEPTE = [
       "Organophosphaten (Nervengase wie Sarin, bestimmte Insektizide). " +
       "Es rettet LEBEN.\n\n" +
       "• HERZMEDIZIN: Bei zu langsamem Herzschlag (Bradykardie) wird " +
-      "Atropin intravenoes gegeben.\n\n" +
-      "• NARKOSE: Als Praemedikation, um Speichelfluss zu reduzieren.\n\n" +
+      "Atropin intravenös gegeben.\n\n" +
+      "• NARKOSE: Als Prämedikation, um Speichelfluss zu reduzieren.\n\n" +
       "• REISEKRANKHEIT: Scopolamin (ebenfalls aus Belladonna) als " +
       "transdermales Pflaster.\n\n" +
       "DIE GIFTIGE SEITE:\n" +
-      "Die letale Dosis von Atropin liegt bei ca. 10mg fuer einen " +
+      "Die letale Dosis von Atropin liegt bei ca. 10mg für einen " +
       "Erwachsenen (oral). Bei Kindern kann sie DEUTLICH niedriger sein. " +
-      "Vergiftungssymptome (mnemonisch: 'heiss wie ein Hase, blind wie " +
-      "eine Fledermaus, trocken wie ein Knochen, rot wie eine Ruebe, " +
-      "verrueckt wie ein Hutmacher'): Fieber, Mydriasis, Mundtrockenheit, " +
-      "Hautroutung, Halluzinationen, Verwirrtheit, Kraempfe, Koma.\n\n" +
+      "Vergiftungssymptome (mnemonisch: 'heiß wie ein Hase, blind wie " +
+      "eine Fledermaus, trocken wie ein Knochen, rot wie eine Rübe, " +
+      "verrückt wie ein Hutmacher'): Fieber, Mydriasis, Mundtrockenheit, " +
+      "Hautroutung, Halluzinationen, Verwirrtheit, Krämpfe, Koma.\n\n" +
       "BELLADONNA IN DEUTSCHLAND:\n" +
-      "Atropa belladonna waechst WILD in deutschen Waeldern und Gebirgen! " +
-      "Die schwarzen, kirschengrossen, suesslich schmeckenden Beeren " +
-      "sind besonders fuer KINDER gefaehrlich: 3-4 Beeren koennen ein " +
-      "Kind toeten. Die glockenfoermigen, braun-violetten Blueten und " +
-      "die glaenzend schwarzen Beeren machen die Pflanze erkennbar.",
+      "Atropa belladonna wächst WILD in deutschen Wäldern und Gebirgen! " +
+      "Die schwarzen, kirschengroßen, süßlich schmeckenden Beeren " +
+      "sind besonders für KINDER gefährlich: 3-4 Beeren können ein " +
+      "Kind töten. Die glockenförmigen, braun-violetten Blüten und " +
+      "die glänzend schwarzen Beeren machen die Pflanze erkennbar.",
     geheimtipp:
       "Die tiefste Ironie der Tollkirsche: Dasselbe Atropin, das als " +
-      "Gift toedlich wirkt, rettet als Medikament taeglich Leben. Bei " +
+      "Gift tödlich wirkt, rettet als Medikament täglich Leben. Bei " +
       "einem Nervengasangriff (wie dem Sarin-Anschlag in der Tokioter " +
       "U-Bahn 1995) ist Atropin das Gegenmittel — es blockiert die " +
-      "Ueberstimulation der Acetylcholin-Rezeptoren, die der Nervenkampfstoff " +
+      "Überstimulation der Acetylcholin-Rezeptoren, die der Nervenkampfstoff " +
       "verursacht. Soldaten tragen Atropin-Autoinjektoren bei sich. " +
-      "Die 'schoene Toedliche' ist gleichzeitig eine der wichtigsten " +
+      "Die 'schöne Tödliche' ist gleichzeitig eine der wichtigsten " +
       "Rettungssubstanzen der Notfallmedizin. Paracelsus hatte Recht: " +
       "Es liegt an der Dosis.",
     vorsicht:
-      "REIN HISTORISCH — NICHT NACHMACHEN! TOEDLICH GIFTIG!\n\n" +
-      "Atropa belladonna waechst WILD in Deutschland, Oesterreich und der " +
-      "Schweiz (Waldraender, Lichtungen, Gebirge bis 1700m). " +
+      "REIN HISTORISCH — NICHT NACHMACHEN! TÖDLICH GIFTIG!\n\n" +
+      "Atropa belladonna wächst WILD in Deutschland, Österreich und der " +
+      "Schweiz (Waldränder, Lichtungen, Gebirge bis 1700m). " +
       "ERKENNUNGSMERKMALE:\n" +
       "• Strauch, 50-150cm hoch\n" +
-      "• Glockenfoermige, braun-violette Blueten\n" +
-      "• Glaenzend schwarze, kirschengrosse Beeren (reif ab August)\n" +
-      "• Beeren schmecken suesslich — DESHALB fuer Kinder so gefaehrlich!\n\n" +
+      "• Glockenförmige, braun-violette Blüten\n" +
+      "• Glänzend schwarze, kirschengroße Beeren (reif ab August)\n" +
+      "• Beeren schmecken süßlich — DESHALB für Kinder so gefährlich!\n\n" +
       "LETALE DOSIS:\n" +
       "• Erwachsene: 10-20 Beeren\n" +
-      "• Kinder: 3-4 Beeren koennen TOEDLICH sein!\n\n" +
+      "• Kinder: 3-4 Beeren können TÖDLICH sein!\n\n" +
       "NIEMALS sammeln, zubereiten oder einnehmen!\n" +
       "Bei Verdacht auf Tollkirschen-Verzehr: SOFORT Notarzt (112) und " +
       "Giftinformationszentrale!\n\n" +
       "Fotografieren und stehen lassen — die Pflanze hat ihren Platz im " +
-      "Oekosystem.",
+      "Ökosystem.",
     quelle:
       "Dioskurides, 'De Materia Medica', 1. Jh.; Pietro Andrea Matthioli, " +
       "'Commentarii in libros sex Pedacii Dioscoridis', 1554; Paracelsus, " +
@@ -1751,128 +1751,128 @@ export const GRIMOIRE_REZEPTE = [
     schwierigkeit: "Einfach",
     beschreibung:
       "Der Johannistag (24. Juni) liegt nahe der Sommersonnenwende und ist " +
-      "seit vorchristlicher Zeit einer der maechtigsten Tage im europaeischen " +
+      "seit vorchristlicher Zeit einer der mächtigsten Tage im europäischen " +
       "Jahreskreis. Das Johanniskraut (Hypericum perforatum) — 'die Sonne " +
-      "unter den Pflanzen' — steht an diesem Tag in voller Bluete. Die " +
+      "unter den Pflanzen' — steht an diesem Tag in voller Blüte. Die " +
       "Volksmagie rund um Johanniskraut und Sonnenwende ist uralt und " +
-      "wunderschoen — und die moderne Wissenschaft gibt ihr Recht: " +
+      "wunderschön — und die moderne Wissenschaft gibt ihr Recht: " +
       "Hypericin, der rote Pflanzensaft, ist ein potentes Antidepressivum.",
     zutaten: [
       {
         name: "Johanniskraut (Hypericum perforatum)",
-        menge: "Frische Blueten und Kraut, idealerweise am Johannistag gepflueckt",
+        menge: "Frische Blüten und Kraut, idealerweise am Johannistag gepflückt",
         wirkung:
           "Hypericin, Hyperforin, Flavonoide — klinisch belegt antidepressiv, " +
-          "stimmungsaufhellend, entzuendungshemmend, wundheilend. Der rote Saft " +
-          "(Hypericin) faerbt die Finger — das 'Blut des Johannes'."
+          "stimmungsaufhellend, entzündungshemmend, wundheilend. Der rote Saft " +
+          "(Hypericin) färbt die Finger — das 'Blut des Johannes'."
       }
     ],
     zubereitung:
       "JOHANNISTAG-ORAKEL (24. Juni):\n\n" +
-      "1. Am Johannistag (24. Juni) Johanniskraut pfluecken — am besten " +
-      "um die Mittagszeit, wenn die Sonne am hoechsten steht.\n\n" +
-      "2. Die Stiele der Blueten zwischen den Fingern zerreiben. " +
-      "Wenn sie sich ROT faerben (vom Hypericin-Saft), bringt das " +
-      "Glueck fuer das kommende Halbjahr. Je intensiver die Faerbung, " +
-      "desto groesser das Glueck.\n\n" +
+      "1. Am Johannistag (24. Juni) Johanniskraut pflücken — am besten " +
+      "um die Mittagszeit, wenn die Sonne am höchsten steht.\n\n" +
+      "2. Die Stiele der Blüten zwischen den Fingern zerreiben. " +
+      "Wenn sie sich ROT färben (vom Hypericin-Saft), bringt das " +
+      "Glück für das kommende Halbjahr. Je intensiver die Färbung, " +
+      "desto größer das Glück.\n\n" +
       "PROPHETISCHE TRAEUME:\n" +
       "3. Frisches Johanniskraut unter das Kopfkissen legen. Die Traeume " +
       "in der Johannisnacht (23./24. Juni) gelten als prophetisch — " +
       "sie zeigen die Zukunft des kommenden Halbjahres.\n\n" +
       "SCHUTZ:\n" +
-      "4. Johanniskrautkraenze winden und an die Haustuer oder ueber " +
-      "Fenster haengen — Schutz gegen boesen Zauber und Blitzschlag " +
-      "(Johanniskraut heisst im Volksmund auch 'Donnerkraut').\n\n" +
+      "4. Johanniskrautkränze winden und an die Haustür oder über " +
+      "Fenster hängen — Schutz gegen bösen Zauber und Blitzschlag " +
+      "(Johanniskraut heißt im Volksmund auch 'Donnerkraut').\n\n" +
       "SONNWENDFEUER:\n" +
-      "5. Getrocknete Johanniskrautbueschel symbolisch ins Sonnwendfeuer " +
+      "5. Getrocknete Johanniskrautbüschel symbolisch ins Sonnwendfeuer " +
       "werfen (oder in ein Lagerfeuer). Das Loslassen des Krauts " +
       "symbolisiert das Loslassen dessen, was nicht mehr dient.\n\n" +
-      "JOHANNISKRAUT-ROTOEL:\n" +
-      "6. Frische Johanniskrautblueten in ein Glas fuellen, mit " +
-      "hochwertigem Olivenoel uebergiessen. 6 Wochen in der Sonne " +
-      "stehen lassen. Das Oel faerbt sich tiefrot (Hypericin!). " +
-      "Abseihen — fertig ist das 'Rotoel', eines der " +
-      "kraeftigsten Heiloele der Volksmedizin.",
+      "JOHANNISKRAUT-ROTÖL:\n" +
+      "6. Frische Johanniskrautblüten in ein Glas füllen, mit " +
+      "hochwertigem Olivenöl übergießen. 6 Wochen in der Sonne " +
+      "stehen lassen. Das Öl färbt sich tiefrot (Hypericin!). " +
+      "Abseihen — fertig ist das 'Rotöl', eines der " +
+      "kräftigsten Heilöle der Volksmedizin.",
     anwendung:
-      "DAS ORAKEL: Am Johannistag (24. Juni) Blueten zerreiben und die " +
-      "Faerbung lesen.\n\n" +
+      "DAS ORAKEL: Am Johannistag (24. Juni) Blüten zerreiben und die " +
+      "Färbung lesen.\n\n" +
       "PROPHETISCHE TRAEUME: Johanniskraut unter dem Kopfkissen in der " +
       "Johannisnacht.\n\n" +
-      "SCHUTZ: Kraenze an die Tuer, Bueschel im Haus aufhaengen.\n\n" +
-      "ROTOEL: Aeusserlich bei Verbrennungen, Nervenschmerzen, " +
-      "Muskelschmerzen, Wunden. Das Rotoel ist tatsaechlich hochwirksam!\n\n" +
+      "SCHUTZ: Kränze an die Tür, Büschel im Haus aufhängen.\n\n" +
+      "ROTÖL: Äußerlich bei Verbrennungen, Nervenschmerzen, " +
+      "Muskelschmerzen, Wunden. Das Rotöl ist tatsächlich hochwirksam!\n\n" +
       "ALS TEE: 2-3g getrocknetes Kraut auf 250ml Wasser, 10 Min ziehen " +
-      "lassen. Taeglich 2-3 Tassen bei leichten Depressionen und " +
-      "nervoeser Unruhe.",
+      "lassen. Täglich 2-3 Tassen bei leichten Depressionen und " +
+      "nervöser Unruhe.",
     hintergrund:
       "DER JOHANNISTAG:\n" +
-      "Der 24. Juni (Geburt Johannes des Taeufers) wurde von der Kirche " +
+      "Der 24. Juni (Geburt Johannes des Täufers) wurde von der Kirche " +
       "bewusst nahe der Sommersonnenwende platziert — um heidnische " +
       "Sonnenwendefeiern zu christianisieren. Die Brauche sind aber " +
-      "AELTER als das Christentum: Das Sonnwendfeuer, das Kraeutersammeln, " +
+      "ÄLTER als das Christentum: Das Sonnwendfeuer, das Kräutersammeln, " +
       "die prophetischen Traeume — all das geht auf vorchristliche, " +
-      "vermutlich keltisch-germanische Traditionen zurueck.\n\n" +
+      "vermutlich keltisch-germanische Traditionen zurück.\n\n" +
       "JOHANNISKRAUT IN DER VOLKSMEDIZIN:\n" +
       "In der Volksmedizin galt Johanniskraut als 'Fuga daemonum' — " +
-      "'Teufelsflucht'. Es vertrieb boese Geister, schuetzte vor Blitz " +
+      "'Teufelsflucht'. Es vertrieb böse Geister, schützte vor Blitz " +
       "(als 'Donnerkraut') und heilte Wunden ('Wundkraut'). Die " +
-      "durchscheinenden Punkte auf den Blaettern (Oeldruesen, sichtbar " +
-      "wenn man das Blatt gegen das Licht haelt) galten als Zeichen: " +
-      "Der Teufel hatte versucht, die Pflanze zu zerstoeren, indem er " +
-      "Loecher hineinschoss — aber die Pflanze ueberlebte. Daher der " +
-      "botanische Name 'perforatum' (durchloechert).\n\n" +
+      "durchscheinenden Punkte auf den Blättern (Öldrüsen, sichtbar " +
+      "wenn man das Blatt gegen das Licht hält) galten als Zeichen: " +
+      "Der Teufel hatte versucht, die Pflanze zu zerstören, indem er " +
+      "Löcher hineinschoss — aber die Pflanze überlebte. Daher der " +
+      "botanische Name 'perforatum' (durchlöchert).\n\n" +
       "Hildegard von Bingen, Paracelsus und praktisch jeder " +
-      "mittelalterliche Kraeuterkundige empfahl Johanniskraut.",
+      "mittelalterliche Kräuterkundige empfahl Johanniskraut.",
     wissenschaft:
       "JOHANNISKRAUT IST EINES DER BEST ERFORSCHTEN PFLANZLICHEN " +
       "ANTIDEPRESSIVA:\n\n" +
       "• Hypericin und Hyperforin sind die Hauptwirkstoffe\n" +
       "• Wirkungsmechanismus: Hemmung der Wiederaufnahme von Serotonin, " +
-      "Noradrenalin und Dopamin — aehnlich wie synthetische " +
+      "Noradrenalin und Dopamin — ähnlich wie synthetische " +
       "Antidepressiva (SSRI/SNRI)\n" +
       "• Klinische Studien (Cochrane Review, 2008): Bei leichten bis " +
       "mittelschweren Depressionen EBENSO WIRKSAM wie synthetische " +
       "Antidepressiva, bei WENIGER Nebenwirkungen\n" +
       "• WICHTIGE Wechselwirkungen: Johanniskraut beschleunigt den Abbau " +
-      "vieler Medikamente (CYP3A4-Induktion): Pille, Bluverduenner, " +
+      "vieler Medikamente (CYP3A4-Induktion): Pille, Bluverdünner, " +
       "Immunsuppressiva, HIV-Medikamente u.v.m.\n\n" +
-      "DAS ROTOEL:\n" +
-      "• Hypericin im Oel ist entzuendungshemmend und wundheilend\n" +
+      "DAS ROTÖL:\n" +
+      "• Hypericin im Öl ist entzündungshemmend und wundheilend\n" +
       "• Nachgewiesene Wirkung bei leichten Verbrennungen und " +
       "Nervenschmerzen (Neuralgie)\n" +
-      "• Der Hypericin-Gehalt ist tatsaechlich am HOECHSTEN wenn die " +
+      "• Der Hypericin-Gehalt ist tatsächlich am HÖCHSTEN wenn die " +
       "Pflanze um die Sommersonnenwende herum bluhet — die Volksmagie " +
       "hatte pharmakologisch Recht!\n\n" +
       "DAS ROTE ORAKEL:\n" +
       "Der rote Saft ist Hypericin — ein Naphthodianthron. Dass es " +
-      "'Glueck bringt' wenn die Finger sich rot faerben, hat einen " +
-      "realen Hintergrund: Starke Rotfaerbung = hoher Hypericin-Gehalt " +
-      "= besonders wirksame Pflanze fuer die Medizin.",
+      "'Glück bringt' wenn die Finger sich rot färben, hat einen " +
+      "realen Hintergrund: Starke Rotfärbung = hoher Hypericin-Gehalt " +
+      "= besonders wirksame Pflanze für die Medizin.",
     geheimtipp:
-      "Johanniskraut-Rotoel ist TATSAECHLICH am kraftvollsten, wenn es " +
+      "Johanniskraut-Rotöl ist TATSÄCHLICH am kraftvollsten, wenn es " +
       "um die Sommersonnenwende herum angesetzt wird — dann ist der " +
-      "Hypericin-Gehalt am hoechsten. Die Volksmagie wusste das " +
-      "seit Jahrhunderten, die Wissenschaft hat es bestaetigt. " +
-      "Wer im Juni Johanniskrautblueten sammelt, in Olivenoel einlegt " +
-      "und 6 Wochen in die Sonne stellt, erhaelt ein tiefroetes, " +
-      "hochwirksames Heiloel — eines der besten Hausmittel, die es gibt. " +
-      "Fuer Verbrennungen, Nervenschmerzen, Muskelverspannungen und " +
+      "Hypericin-Gehalt am höchsten. Die Volksmagie wusste das " +
+      "seit Jahrhunderten, die Wissenschaft hat es bestätigt. " +
+      "Wer im Juni Johanniskrautblüten sammelt, in Olivenöl einlegt " +
+      "und 6 Wochen in die Sonne stellt, erhält ein tiefrötes, " +
+      "hochwirksames Heilöl — eines der besten Hausmittel, die es gibt. " +
+      "Für Verbrennungen, Nervenschmerzen, Muskelverspannungen und " +
       "Narbenpflege.",
     vorsicht:
-      "Johanniskraut als Tee oder Kraut: Grundsaetzlich sicher, ABER:\n\n" +
+      "Johanniskraut als Tee oder Kraut: Grundsätzlich sicher, ABER:\n\n" +
       "• PHOTOSENSIBILISIERUNG: Johanniskraut macht die Haut empfindlicher " +
-      "fuer UV-Licht! Bei innerlicher Einnahme: Keine langen Sonnenbader, " +
+      "für UV-Licht! Bei innerlicher Einnahme: Keine langen Sonnenbader, " +
       "Sonnenschutz verwenden.\n\n" +
       "• WECHSELWIRKUNGEN: Johanniskraut beschleunigt den Abbau vieler " +
       "Medikamente durch CYP3A4-Induktion. NICHT kombinieren mit:\n" +
       "  - Antibabypille (Wirkungsverlust!)\n" +
-      "  - Blutverduennern (Warfarin)\n" +
+      "  - Blutverdünnern (Warfarin)\n" +
       "  - Immunsuppressiva (Cyclosporin)\n" +
       "  - HIV-Medikamenten\n" +
       "  - Anderen Antidepressiva (Serotonin-Syndrom!)\n\n" +
       "• Bei SCHWEREN Depressionen: Johanniskraut ersetzt KEINE " +
-      "aerztliche Behandlung!\n\n" +
-      "Das Rotoel (aeusserlich): Unbedenklich. Nach dem Auftragen " +
+      "ärztliche Behandlung!\n\n" +
+      "Das Rotöl (aeusserlich): Unbedenklich. Nach dem Auftragen " +
       "direkte Sonne meiden (Photosensibilisierung).",
     quelle:
       "Deutsche Volkstradition, Johannistag (24. Juni); Hildegard von Bingen, " +
@@ -1880,66 +1880,66 @@ export const GRIMOIRE_REZEPTE = [
       "2008; Kommission E Monographie 'Hyperici herba'",
     tags: [
       "#Johanniskraut", "#Sonnenwende", "#Johannistag", "#Volksmagie",
-      "#Rotoel", "#Hypericin", "#Antidepressivum", "#Orakel",
-      "#Sommersonnenwende", "#TatsaechlichMachbar"
+      "#Rotöl", "#Hypericin", "#Antidepressivum", "#Orakel",
+      "#Sommersonnenwende", "#TatsächlichMachbar"
     ],
     besonders_bei: [
       "Johanniskraut", "Sonnenwende", "Johannistag",
-      "Rotoel", "Orakel", "Antidepressivum"
+      "Rotöl", "Orakel", "Antidepressivum"
     ]
   },
 
   {
     id: "rauhnacht-kalender",
-    name: "Rauhnacht-Raeucherkalender — Die 12 heiligen Naechte",
+    name: "Rauhnacht-Räucherkalender — Die 12 heiligen Nächte",
     kategorie: "Volksmagie",
     schwierigkeit: "Mittel",
     beschreibung:
-      "Die Rauhnaechte — die zwoelf Naechte zwischen Weihnachten (25. Dez.) " +
-      "und Dreikoenig/Epiphanie (6. Jan.) — sind die aelteste und tiefste " +
+      "Die Rauhnächte — die zwölf Nächte zwischen Weihnachten (25. Dez.) " +
+      "und Dreikönig/Epiphanie (6. Jan.) — sind die älteste und tiefste " +
       "magische Tradition des deutschsprachigen Raums. Vorchristlich, " +
-      "germanisch-alpenlaendisch, verwurzelt in einer Zeit, in der die " +
-      "Dunkelheit am laengsten war und die Grenze zwischen den Welten als " +
-      "besonders duenn galt. Jede Nacht steht fuer einen Monat des " +
-      "kommenden Jahres — und jede Nacht hat ihre eigene Raeucherung, " +
+      "germanisch-alpenländisch, verwurzelt in einer Zeit, in der die " +
+      "Dunkelheit am längsten war und die Grenze zwischen den Welten als " +
+      "besonders dünn galt. Jede Nacht steht für einen Monat des " +
+      "kommenden Jahres — und jede Nacht hat ihre eigene Räucherung, " +
       "ihre eigene Kraft, ihre eigene Botschaft.",
     zutaten: [
       {
         name: "Nacht 1 (25./26. Dez.) = Januar: Weihrauch (Olibanum)",
-        menge: "1-2 Stuecke Weihrauchharz auf Kohle",
+        menge: "1-2 Stücke Weihrauchharz auf Kohle",
         wirkung:
-          "NEUANFANG. Boswelliasaeure — entzuendungshemmend, stimmungshebend. " +
-          "Der Klassiker der sakralen Raeucherung. Reinigt den Raum und " +
-          "oeffnet fuer das Neue."
+          "NEUANFANG. Boswelliasäure — entzündungshemmend, stimmungshebend. " +
+          "Der Klassiker der sakralen Räucherung. Reinigt den Raum und " +
+          "öffnet für das Neue."
       },
       {
         name: "Nacht 2 (26./27. Dez.) = Februar: Myrrhe (Commiphora myrrha)",
-        menge: "1-2 Stuecke Myrrheharz auf Kohle",
+        menge: "1-2 Stücke Myrrheharz auf Kohle",
         wirkung:
           "REINIGUNG. Sesquiterpene — antiseptisch, beruhigend, erdend. " +
-          "Myrrhe reinigt das Alte und bereitet den Boden fuer Verwandlung."
+          "Myrrhe reinigt das Alte und bereitet den Boden für Verwandlung."
       },
       {
-        name: "Nacht 3 (27./28. Dez.) = Maerz: Salbei (Salvia officinalis)",
+        name: "Nacht 3 (27./28. Dez.) = März: Salbei (Salvia officinalis)",
         menge: "Eine Handvoll getrockneter Salbei",
         wirkung:
-          "SCHUTZ. Thujon, Campher — stark reinigend, klaerend, schuetzend. " +
+          "SCHUTZ. Thujon, Campher — stark reinigend, klärend, schützend. " +
           "'Salvia' = retten. Vertreibt negative Energie."
       },
       {
-        name: "Nacht 4 (28./29. Dez.) = April: Beifuss (Artemisia vulgaris)",
-        menge: "Eine Handvoll getrockneter Beifuss",
+        name: "Nacht 4 (28./29. Dez.) = April: Beifuß (Artemisia vulgaris)",
+        menge: "Eine Handvoll getrockneter Beifuß",
         wirkung:
           "FRUCHTBARKEIT und VISION. Thujon, Cineol — leicht psychoaktiv, " +
-          "traumverstaerkend. Das Kraut der Artemis/Diana. Fuer Traeume " +
-          "und fruchtbare Plaene."
+          "traumverstärkend. Das Kraut der Artemis/Diana. Für Traeume " +
+          "und fruchtbare Pläne."
       },
       {
-        name: "Nacht 5 (29./30. Dez.) = Mai: Rosenblueten (Rosa damascena)",
-        menge: "Eine Handvoll getrocknete Rosenblaetter",
+        name: "Nacht 5 (29./30. Dez.) = Mai: Rosenblüten (Rosa damascena)",
+        menge: "Eine Handvoll getrocknete Rosenblätter",
         wirkung:
           "LIEBE. Geraniol, Citronellol — anxiolytisch, herzoffnend, " +
-          "stimmungsaufhellend. Der Duft der Rose oeffnet das Herz."
+          "stimmungsaufhellend. Der Duft der Rose öffnet das Herz."
       },
       {
         name: "Nacht 6 (30./31. Dez.) = Juni: Johanniskraut (Hypericum perforatum)",
@@ -1950,165 +1950,165 @@ export const GRIMOIRE_REZEPTE = [
       },
       {
         name: "Nacht 7 (31. Dez./1. Jan.) = Juli: Lavendel (Lavandula angustifolia)",
-        menge: "Eine Handvoll getrocknete Lavendelblueten",
+        menge: "Eine Handvoll getrocknete Lavendelblüten",
         wirkung:
           "HARMONIE. Linalool, Linalylacetat — stark beruhigend, " +
-          "angstloesend, harmonisierend. Die Silvesternacht — Ruhe " +
+          "angstlösend, harmonisierend. Die Silvesternacht — Ruhe " +
           "und Klarheit inmitten des Larms."
       },
       {
         name: "Nacht 8 (1./2. Jan.) = August: Kamille (Matricaria chamomilla)",
         menge: "Eine Handvoll getrocknete Kamillenblüten",
         wirkung:
-          "ERNTE und FUELLE. Bisabolol, Chamazulen — beruhigend, " +
-          "entzuendungshemmend, naehrend. Dankbarkeit fuer das, " +
+          "ERNTE und FÜLLE. Bisabolol, Chamazulen — beruhigend, " +
+          "entzündungshemmend, nährend. Dankbarkeit für das, " +
           "was reifen wird."
       },
       {
         name: "Nacht 9 (2./3. Jan.) = September: Wacholder (Juniperus communis)",
         menge: "Einige Wacholderbeeren und Zweigspitzen",
         wirkung:
-          "WANDLUNG. Alpha-Pinen, Sabinen — stark reinigend, klaerend. " +
-          "Die staerkste Schutzraeucherung der alpenlaendischen Tradition. " +
+          "WANDLUNG. Alpha-Pinen, Sabinen — stark reinigend, klärend. " +
+          "Die stärkste Schutzräucherung der alpenländischen Tradition. " +
           "Wacholder vertreibt ALLES Negative."
       },
       {
         name: "Nacht 10 (3./4. Jan.) = Oktober: Holunder (Sambucus nigra)",
-        menge: "Getrocknete Holunderblueten oder Rinde",
+        menge: "Getrocknete Holunderblüten oder Rinde",
         wirkung:
-          "AHNEN. Der Baum der Goettin Holle/Holda. Die Nacht der Ahnen — " +
+          "AHNEN. Der Baum der Göttin Holle/Holda. Die Nacht der Ahnen — " +
           "sich mit den Vorfahren verbinden, um ihren Segen bitten."
       },
       {
         name: "Nacht 11 (4./5. Jan.) = November: Engelwurz (Angelica archangelica)",
         menge: "Getrocknete Wurzel, klein geschnitten",
         wirkung:
-          "LICHT IN DER DUNKELHEIT. Angelicin, Imperatorin — waermend, " +
-          "staerkend, ermutigend. Der 'Engel unter den Pflanzen' — bringt " +
-          "Licht und Staerke in die dunkelsten Zeiten."
+          "LICHT IN DER DUNKELHEIT. Angelicin, Imperatorin — wärmend, " +
+          "stärkend, ermutigend. Der 'Engel unter den Pflanzen' — bringt " +
+          "Licht und Stärke in die dunkelsten Zeiten."
       },
       {
         name: "Nacht 12 (5./6. Jan.) = Dezember: ALLE ZUSAMMEN",
-        menge: "Eine Mischung aus allen 11 vorangegangenen Raeucherstoffen",
+        menge: "Eine Mischung aus allen 11 vorangegangenen Räucherstoffen",
         wirkung:
-          "VOLLENDUNG. Die Perchta-Nacht / Epiphanie / Dreikoenig. " +
-          "Alle Kraefte vereinen sich. Der Kreis schliesst sich. " +
+          "VOLLENDUNG. Die Perchta-Nacht / Epiphanie / Dreikönig. " +
+          "Alle Kräfte vereinen sich. Der Kreis schließt sich. " +
           "Die Wilde Jagd kommt zur Ruhe."
       }
     ],
     zubereitung:
-      "JEDEN ABEND DER 12 RAUHNAECHTE:\n\n" +
-      "1. Nach Einbruch der Dunkelheit: Raeucherkohle auf einem feuerfesten " +
-      "Gefaess (Raeucherschale, Pfanne mit Sand) entzuenden.\n\n" +
-      "2. Das Raeucherwerk der jeweiligen Nacht auf die gluehende Kohle legen.\n\n" +
+      "JEDEN ABEND DER 12 RAUHNÄCHTE:\n\n" +
+      "1. Nach Einbruch der Dunkelheit: Räucherkohle auf einem feuerfesten " +
+      "Gefäß (Räucherschale, Pfanne mit Sand) entzünden.\n\n" +
+      "2. Das Räucherwerk der jeweiligen Nacht auf die glühende Kohle legen.\n\n" +
       "3. Mit der rauchenden Schale durch ALLE Raeume des Hauses gehen — " +
-      "auch Keller, Dachboden, Ecken und Schraenke. Fenster dabei einen " +
-      "Spalt oeffnen, damit das 'Alte' hinaus kann.\n\n" +
-      "4. In jedem Raum die Intention fuer den entsprechenden Monat " +
+      "auch Keller, Dachboden, Ecken und Schränke. Fenster dabei einen " +
+      "Spalt öffnen, damit das 'Alte' hinaus kann.\n\n" +
+      "4. In jedem Raum die Intention für den entsprechenden Monat " +
       "aussprechen oder still halten.\n\n" +
-      "5. Danach: Fenster schliessen. Sich hinsetzen. Den Rauch beobachten.\n\n" +
+      "5. Danach: Fenster schließen. Sich hinsetzen. Den Rauch beobachten.\n\n" +
       "6. Die TRAEUME der Nacht aufschreiben — sie gelten als prophetisch " +
-      "fuer den entsprechenden Monat.\n\n" +
-      "7. Am naechsten Morgen das Traumbuch lesen und reflektieren.",
+      "für den entsprechenden Monat.\n\n" +
+      "7. Am nächsten Morgen das Traumbuch lesen und reflektieren.",
     anwendung:
-      "Jeden Abend zwischen dem 25. Dezember und dem 6. Januar raeuchern. " +
-      "Die Traeume jeder Nacht aufschreiben. Am Ende der zwoelf Naechte " +
-      "hat man ein 'Traum-Orakel' fuer das gesamte kommende Jahr.\n\n" +
-      "ZUSAETZLICHE RAUHNAECHTE-REGELN (alpenlaendische Tradition):\n" +
-      "• Keine Waesche waschen (die Wilde Jagd verfaengt sich in der " +
-      "aufgehaengten Waesche!)\n" +
-      "• Keine grossen Entscheidungen treffen — es ist die Zeit der " +
+      "Jeden Abend zwischen dem 25. Dezember und dem 6. Januar räuchern. " +
+      "Die Traeume jeder Nacht aufschreiben. Am Ende der zwölf Nächte " +
+      "hat man ein 'Traum-Orakel' für das gesamte kommende Jahr.\n\n" +
+      "ZUSÄTZLICHE RAUHNÄCHTE-REGELN (alpenländische Tradition):\n" +
+      "• Keine Wäsche waschen (die Wilde Jagd verfängt sich in der " +
+      "aufgehängten Wäsche!)\n" +
+      "• Keine großen Entscheidungen treffen — es ist die Zeit der " +
       "STILLE und EINKEHR\n" +
-      "• Keine Raeder drehen (Spinnraeder, Muehlen — die Schicksals" +
-      "goettinnen spinnen in diesen Naechten)\n" +
-      "• Haus und Hof ordnen, aufraeuemen\n" +
+      "• Keine Räder drehen (Spinnräder, Mühlen — die Schicksals" +
+      "göttinnen spinnen in diesen Nächten)\n" +
+      "• Haus und Hof ordnen, aufräuemen\n" +
       "• Schulden begleichen\n" +
       "• Streit beilegen\n" +
-      "• Tiere besonders gut behandeln (sie koennen in der Heiligen Nacht " +
+      "• Tiere besonders gut behandeln (sie können in der Heiligen Nacht " +
       "sprechen!)",
     hintergrund:
-      "DIE RAUHNAECHTE — HERKUNFT:\n\n" +
-      "Das Wort 'Rauhnaechte' hat mehrere moegliche Etymologien:\n" +
-      "• 'Rauh' = rauh/wild (die Wilde Jagd tobt durch die Luefte)\n" +
-      "• 'Rauch' = Raeucherung (die Naechte des Raeucherns)\n" +
+      "DIE RAUHNÄCHTE — HERKUNFT:\n\n" +
+      "Das Wort 'Rauhnächte' hat mehrere mögliche Etymologien:\n" +
+      "• 'Rauh' = rauh/wild (die Wilde Jagd tobt durch die Lüfte)\n" +
+      "• 'Rauch' = Räucherung (die Nächte des Räucherns)\n" +
       "• 'Ruch' = behaart/pelzig (Perchta/Frau Holle erscheint in " +
       "Fellkleidung)\n\n" +
       "Der Ursprung ist vorchristlich und vermutlich germanisch-keltisch. " +
-      "Die zwoelf Naechte ergeben sich aus der Differenz zwischen " +
+      "Die zwölf Nächte ergeben sich aus der Differenz zwischen " +
       "Mond- und Sonnenjahr: Das Mondjahr hat 354 Tage, das Sonnenjahr " +
       "365 — die 11 (bzw. 12 mit Silvester) fehlenden Tage sind die " +
-      "Rauhnaechte, eine 'Zeit ausserhalb der Zeit'.\n\n" +
+      "Rauhnächte, eine 'Zeit außerhalb der Zeit'.\n\n" +
       "DIE WILDE JAGD:\n" +
-      "In den Rauhnaechten zieht die 'Wilde Jagd' durch die Luefte — " +
-      "ein Heer aus Toten, Geistern und wilden Jaegern, angefuehrt von " +
-      "Wotan/Odin oder Frau Perchta/Holle. Wer draussen ist, kann von " +
+      "In den Rauhnächten zieht die 'Wilde Jagd' durch die Lüfte — " +
+      "ein Heer aus Toten, Geistern und wilden Jägern, angeführt von " +
+      "Wotan/Odin oder Frau Perchta/Holle. Wer draußen ist, kann von " +
       "der Wilden Jagd mitgerissen werden. Deshalb: Drinnen bleiben, " +
-      "raeuchern, stille Einkehr halten.\n\n" +
+      "räuchern, stille Einkehr halten.\n\n" +
       "PERCHTA/FRAU HOLLE:\n" +
       "Die 12. Rauhnacht (5./6. Januar, Perchta-Nacht/Epiphanie) ist " +
-      "Frau Perchtas Nacht. Perchta ('die Glaenzende') ist die " +
-      "vorchristliche Wintergoettin des Alpenraums. Sie prueft, ob " +
-      "die Haeuser ordentlich und die Rauhnaechte-Regeln eingehalten " +
+      "Frau Perchtas Nacht. Perchta ('die Glänzende') ist die " +
+      "vorchristliche Wintergöttin des Alpenraums. Sie prüft, ob " +
+      "die Haeuser ordentlich und die Rauhnächte-Regeln eingehalten " +
       "wurden. Gute Hausfrauen belohnt sie — nachlassige bestraft sie. " +
-      "Im Maerchen wurde sie zu 'Frau Holle'.",
+      "Im Märchen wurde sie zu 'Frau Holle'.",
     wissenschaft:
       "AROMATHERAPIE UND NEUROCHEMIE:\n\n" +
-      "Jede der zwoelf Raeucherungen hat eine nachweisbare " +
+      "Jede der zwölf Räucherungen hat eine nachweisbare " +
       "pharmakologische Wirkung:\n\n" +
       "• Weihrauch: Incensol-Acetat aktiviert TRPV3-Rezeptoren — " +
-      "angstloesend und antidepressiv (Moussaieff et al., 2008)\n" +
+      "angstlösend und antidepressiv (Moussaieff et al., 2008)\n" +
       "• Myrrhe: Sesquiterpene wirken auf Opioid-Rezeptoren — " +
       "leicht schmerzlindernd und beruhigend\n" +
-      "• Salbei: Thujon in geringer Dosis (Raeucherung) — klaerend, " +
-      "konzentrationsfoerdernd\n" +
-      "• Beifuss: Leicht psychoaktiv — foerdert luzide Traeume " +
+      "• Salbei: Thujon in geringer Dosis (Räucherung) — klärend, " +
+      "konzentrationsfördernd\n" +
+      "• Beifuß: Leicht psychoaktiv — fördert luzide Traeume " +
       "(traditionelle Verwendung als 'Traumpflanze')\n" +
       "• Rose: Geraniol — anxiolytisch, herzfrequenzsenkend\n" +
       "• Johanniskraut: Hypericin — stimmungsaufhellend\n" +
       "• Lavendel: Linalool — eines der am besten erforschten " +
-      "natuerlichen Anxiolytika\n" +
-      "• Kamille: Bisabolol — beruhigend, Schlaf foerdernd\n" +
+      "natürlichen Anxiolytika\n" +
+      "• Kamille: Bisabolol — beruhigend, Schlaf fördernd\n" +
       "• Wacholder: Alpha-Pinen — erfrischend, reinigend\n" +
       "• Holunder: Triterpene — immunstimulierend\n" +
-      "• Engelwurz: Angelicin — waermend, staerkend, " +
-      "verdauungsfoerdernd\n\n" +
+      "• Engelwurz: Angelicin — wärmend, stärkend, " +
+      "verdauungsfördernd\n\n" +
       "DIE PROPHETISCHEN TRAEUME:\n" +
-      "Mehrere der Raeucherstoffe (besonders Beifuss, Salbei, Lavendel) " +
-      "sind dafuer bekannt, die Traumintensitaet und -erinnerung zu " +
-      "foerdern. Die Tradition der prophetischen Rauhnaechte-Traeume " +
-      "hat also eine biochemische Basis: Die Raeucherungen VOR dem " +
+      "Mehrere der Räucherstoffe (besonders Beifuß, Salbei, Lavendel) " +
+      "sind dafür bekannt, die Traumintensität und -erinnerung zu " +
+      "fördern. Die Tradition der prophetischen Rauhnächte-Traeume " +
+      "hat also eine biochemische Basis: Die Räucherungen VOR dem " +
       "Schlafengehen erzeugen genau die neurochemische Umgebung, " +
-      "die zu intensiven, erinnerbaren Traeumen fuehrt.",
+      "die zu intensiven, erinnerbaren Traeumen führt.",
     geheimtipp:
-      "Zwischen den Jahren soll keine Waesche gewaschen werden — die " +
-      "Wilde Jagd verfaengt sich darin! Diese Regel klingt wie " +
-      "Aberglaube, aber sie hat eine tiefe Weisheit: Die Rauhnaechte " +
+      "Zwischen den Jahren soll keine Wäsche gewaschen werden — die " +
+      "Wilde Jagd verfängt sich darin! Diese Regel klingt wie " +
+      "Aberglaube, aber sie hat eine tiefe Weisheit: Die Rauhnächte " +
       "sind eine Einladung zur STILLE und EINKEHR. In einer Welt, die " +
-      "niemals anhalt, sind die zwoelf heiligen Naechte eine Erlaubnis, " +
+      "niemals anhalt, sind die zwölf heiligen Nächte eine Erlaubnis, " +
       "NICHTS zu tun. Keine Arbeit, keine Entscheidungen, kein Antrieb — " +
-      "nur raeuchern, traeumen, zuhoeren. Wer sich das erlaubt, beginnt " +
-      "das neue Jahr nicht erschoepft vom Feiern, sondern gennaehrt " +
-      "von der Stille. DAS ist die eigentliche Magie der Rauhnaechte.",
+      "nur räuchern, traeumen, zuhören. Wer sich das erlaubt, beginnt " +
+      "das neue Jahr nicht erschöpft vom Feiern, sondern gennährt " +
+      "von der Stille. DAS ist die eigentliche Magie der Rauhnächte.",
     vorsicht:
-      "Alle Raeucherstoffe sind pflanzlich und ungefaehrlich. " +
-      "Beim Raeuchern: Gute Belueftung (Fenster kippen), Raeucherkohle " +
+      "Alle Räucherstoffe sind pflanzlich und ungefährlich. " +
+      "Beim Räuchern: Gute Belüftung (Fenster kippen), Räucherkohle " +
       "nur auf feuerfester Unterlage verwenden, nie unbeaufsichtigt " +
-      "lassen. Nicht in Raeumen mit Saeuglingen oder Kleinkindern " +
-      "raeuchern (empfindliche Atemwege). Asthmatiker sollten " +
-      "vorsichtig sein oder auf oel-basierte Raumbeduftung ausweichen.",
+      "lassen. Nicht in Raeumen mit Säuglingen oder Kleinkindern " +
+      "räuchern (empfindliche Atemwege). Asthmatiker sollten " +
+      "vorsichtig sein oder auf öl-basierte Raumbeduftung ausweichen.",
     quelle:
-      "Alpenlaendische und germanische Tradition, vorchristlich; Karl " +
-      "Meuli, 'Bettelumzuege im Totenkultus, Opferritual und Volksbrauch', " +
+      "Alpenländische und germanische Tradition, vorchristlich; Karl " +
+      "Meuli, 'Bettelumzüge im Totenkultus, Opferritual und Volksbrauch', " +
       "1928; Erika Brunner-Traut, diverse; Alexander Carmichael, 'Carmina " +
       "Gadelica' (schottische Parallelen); Moussaieff et al., " +
       "'Incensole Acetate — An Incense Component', FASEB Journal, 2008",
     tags: [
-      "#Rauhnaechte", "#Raeucherung", "#WildeJagd", "#Perchta",
+      "#Rauhnächte", "#Räucherung", "#WildeJagd", "#Perchta",
       "#FrauHolle", "#Jahreskreis", "#Winterbrauch", "#Volksmagie",
-      "#Traeume", "#TatsaechlichMachbar", "#ZwoelfNaechte"
+      "#Traeume", "#TatsächlichMachbar", "#ZwölfNächte"
     ],
     besonders_bei: [
-      "Rauhnaechte", "Rauhnacht", "Raeucherung", "Wilde Jagd",
+      "Rauhnächte", "Rauhnacht", "Räucherung", "Wilde Jagd",
       "Perchta", "Frau Holle", "Winterbrauch", "Jahreskreis"
     ]
   }

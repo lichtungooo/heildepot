@@ -222,7 +222,7 @@ export const PRODUCTS = [
     inhaltsstoffe: 'Montmorillonit (Dreischicht-Silikat der Smektit-Gruppe), Siliziumdioxid, Aluminiumoxid (kristallgebunden), natürliche Spurenelemente (Kalzium, Magnesium, Eisen)',
     qualitaet: 'Reines Naturmineral. Hohe Quellfähigkeit. Frei von Schadstoffen. Regelmäßig laborgeprüft auf Reinheit und Bindungskapazität.',
     vorsicht: 'Nicht in Plastikdosen aufbewahren. Trocken in Glas oder Keramik lagern. Bindet Medikamentenwirkstoffe — 1 Stunde Abstand! Kindersicher aufbewahren. Bei anhaltenden Beschwerden ärztliche Rücksprache.',
-    tags: ['#montmorillonit', '#bentonit', '#heilerde', '#darm', '#schleimhaut', '#haarwaesche'],
+    tags: ['#montmorillonit', '#bentonit', '#heilerde', '#darm', '#schleimhaut', '#haarwäsche'],
     symptome: ['verdauung', 'sodbrennen', 'allergie', 'haut', 'candida', 'parasiten', 'leber', 'entzuendung', 'immunschwaeche']
   },
 
@@ -262,7 +262,7 @@ export const PRODUCTS = [
     inhaltsstoffe: 'Süßholzwurzel (Glycyrrhiza glabra, enthält Glycyrrhizin), Fenchel (Foeniculum vulgare, enthält Anethol), Pfefferminze (Mentha piperita, enthält Menthol), Basilikum (Ocimum basilicum, enthält Eugenol, Rosmarinsäure, Linalool)',
     qualitaet: 'Kräuter aus kontrolliertem Anbau. Koffeinfrei. Ohne künstliche Aromen oder Zusätze.',
     vorsicht: 'Süßholzwurzel kann bei übermäßigem Konsum den Blutdruck erhöhen. Bei Bluthochdruck maximal 1 Tasse täglich. Nicht in der Schwangerschaft in großen Mengen.',
-    tags: ['#tee', '#basisch', '#entsaeuerung', '#kraeuter', '#koffeinfrei'],
+    tags: ['#tee', '#basisch', '#entsäuerung', '#kräuter', '#koffeinfrei'],
     symptome: ['verdauung', 'sodbrennen', 'stress', 'schlaf', 'wechseljahre', 'kopfschmerzen', 'migraene', 'entzuendung', 'depression', 'bluthochdruck']
   },
 
@@ -280,7 +280,7 @@ export const PRODUCTS = [
     inhaltsstoffe: 'Süßholzwurzel (Glycyrrhizin), Fenchel (Anethol), Pfefferminze (Menthol), Basilikum (Eugenol, Rosmarinsäure, Linalool)',
     qualitaet: 'Kontrollierter Anbau. Koffeinfrei. Ohne Zusätze.',
     vorsicht: 'Süßholzwurzel kann bei übermäßigem Konsum den Blutdruck erhöhen. Bei Bluthochdruck maximal 1 Tasse täglich.',
-    tags: ['#tee', '#basisch', '#entsaeuerung', '#vorratspackung'],
+    tags: ['#tee', '#basisch', '#entsäuerung', '#vorratspackung'],
     symptome: ['verdauung', 'sodbrennen', 'stress', 'schlaf', 'wechseljahre', 'kopfschmerzen', 'migraene', 'entzuendung', 'depression', 'bluthochdruck']
   },
 
@@ -324,7 +324,7 @@ export const PRODUCTS = [
     inhaltsstoffe: 'Natriumtetraborat-Decahydrat (Na2B4O7·10H2O), 99,9+% rein. Enthält 11,3% elementares Bor.',
     qualitaet: '99,9+% Reinheit. Pharmaqualität. Frei von Verunreinigungen.',
     vorsicht: 'Verkauf an Privatverbraucher seit 1. Juni 2009 durch die Chemikalien-Verbotsverordnung eingeschränkt — im Freundeskreis geteilt. Schnelle Entgiftung kann Kopfschmerzen verursachen (Fluorid wird mobilisiert). Kindersicher aufbewahren. Nicht in großen Mengen einnehmen.',
-    tags: ['#borax', '#bor', '#zirbeldruese', '#fluorid', '#entgiftung', '#basisch', '#knochen'],
+    tags: ['#borax', '#bor', '#zirbeldrüse', '#fluorid', '#entgiftung', '#basisch', '#knochen'],
     symptome: ['arthrose', 'rheuma', 'osteoporose', 'schlaf', 'depression', 'entzuendung', 'schmerzen', 'wechseljahre', 'schilddruese', 'zahnprobleme']
   },
 
@@ -342,7 +342,7 @@ export const PRODUCTS = [
     inhaltsstoffe: 'Natriumtetraborat-Decahydrat (Na2B4O7·10H2O), 99,9+% rein, 11,3% elementares Bor',
     qualitaet: '99,9+% Reinheit. Pharmaqualität.',
     vorsicht: 'Verkauf eingeschränkt seit 2009. Im Freundeskreis geteilt. Entgiftungskopfschmerzen möglich. Kindersicher aufbewahren.',
-    tags: ['#borax', '#bor', '#zirbeldruese', '#vorratspackung'],
+    tags: ['#borax', '#bor', '#zirbeldrüse', '#vorratspackung'],
     symptome: ['arthrose', 'rheuma', 'osteoporose', 'schlaf', 'depression', 'entzuendung', 'schmerzen', 'wechseljahre', 'schilddruese', 'zahnprobleme']
   },
 
@@ -516,7 +516,7 @@ export const PRODUCTS = [
     inhaltsstoffe: 'Naturkautschuk-Latex (NUK-Qualität), extra-langer Saugschlauch, extra-große Portion für Erwachsene',
     qualitaet: 'NUK Medizinprodukt. PZN 02681292. In jeder Apotheke erhältlich. Naturkautschuk-Latex.',
     vorsicht: 'Nicht bei Latex-Allergie verwenden! Gaumen muss normal hoch sein. Nasenatmung bevorzugt. Regelmäßig auf Beschädigungen prüfen und bei Rissen ersetzen. Kindersicher aufbewahren (Erstickungsgefahr für Kleinkinder durch Kleinteile).',
-    tags: ['#therapiesauger', '#bruxismus', '#zaehneknirschen', '#kiefergelenk', '#schlaf', '#stress'],
+    tags: ['#therapiesauger', '#bruxismus', '#zähneknirschen', '#kiefergelenk', '#schlaf', '#stress'],
     symptome: ['stress', 'angst', 'schlaf', 'kopfschmerzen', 'zahnprobleme', 'burnout', 'uebergewicht', 'schmerzen', 'migraene']
   }
 

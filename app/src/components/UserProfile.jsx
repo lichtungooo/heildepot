@@ -113,7 +113,7 @@ export function UserProfileDrawer({ open, onClose, user, onLogin, onLogout, favo
           <div className="w-14 h-14 rounded-full bg-green-pale/50 flex items-center justify-center mx-auto mb-3">
             <User size={28} className="text-green-main" />
           </div>
-          <h3 className="font-serif text-lg font-semibold text-green-dark">Willkommen zurueck</h3>
+          <h3 className="font-serif text-lg font-semibold text-green-dark">Willkommen zurück</h3>
           <p className="text-xs text-text-muted mt-1">Melde dich im Freundeskreis an</p>
         </div>
 
@@ -244,7 +244,7 @@ export function UserProfileDrawer({ open, onClose, user, onLogin, onLogout, favo
           <input type="text" placeholder="Nachname" defaultValue={user.nachname || ''} onBlur={e => { form.nachname = e.target.value }}
             className="px-3 py-2 rounded-lg border border-green-pale text-sm focus:outline-none focus:border-green-main" />
         </div>
-        <input type="text" placeholder="Strasse & Hausnummer" defaultValue={user.strasse || ''} onBlur={e => { form.strasse = e.target.value }}
+        <input type="text" placeholder="Straße & Hausnummer" defaultValue={user.strasse || ''} onBlur={e => { form.strasse = e.target.value }}
           className="w-full px-3 py-2 rounded-lg border border-green-pale text-sm focus:outline-none focus:border-green-main" />
         <div className="grid grid-cols-3 gap-2">
           <input type="text" placeholder="PLZ" defaultValue={user.plz || ''} onBlur={e => { form.plz = e.target.value }}
@@ -266,7 +266,7 @@ export function UserProfileDrawer({ open, onClose, user, onLogin, onLogout, favo
 
   function renderFavoritenTab() {
     if (favProducts.length === 0) {
-      return <p className="text-sm text-text-muted text-center py-8">Noch keine Favoriten. Druecke das Herz bei Produkten.</p>
+      return <p className="text-sm text-text-muted text-center py-8">Noch keine Favoriten. Drücke das Herz bei Produkten.</p>
     }
     return (
       <div className="space-y-2">

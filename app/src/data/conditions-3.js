@@ -223,7 +223,7 @@ export const CONDITIONS_3 = [
     },
     bewegung: {
       text: "Krafttraining schützt die Knochen und verbessert die Körperzusammensetzung. Yoga reguliert das Hormonsystem. Tanzen bringt die weibliche Lebensfreude zurück.",
-      praktiken: ["Krafttraining (2-3x/Woche)", 'Hormon-Yoga nach Dinah Rodrigues', 'Tanzen', 'Wandern in der Natur', "Schwimmen"]
+      praktiken: ["Krafttraining (2-3x/Woche)", 'Hormon-Yoga nach Dinah Rodrigüs', 'Tanzen', 'Wandern in der Natur', "Schwimmen"]
     },
     geist: {
       einheit: "Die Wechseljahre sind eine Initiation in die Kraft der weisen Frau. Die Energie, die bisher in die Fortpflanzung floss, steht nun der eigenen Entfaltung zur Verfügung. Es ist ein zweiter Frühling, wenn er bewusst gelebt wird.",

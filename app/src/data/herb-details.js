@@ -9,7 +9,7 @@ export const HERB_DEEP = {
   // 1. BRENNNESSEL
   // ═══════════════════════════════════════════════════════════════════════════
   'Brennnessel': {
-    vollname: 'Grosse Brennnessel (Urtica dioica)',
+    vollname: 'Große Brennnessel (Urtica dioica)',
     familie: 'Nesselgewächse (Urticaceae)',
     beschreibung: `Die Brennnessel ist eine der kraftvollsten und vielseitigsten Heilpflanzen Europas. Sie wächst überall dort, wo der Boden nährstoffreich ist -- an Wegrändern, in Gärten, auf Brachflächen. Ihre brennenden Härchen sind ein natürlicher Schutzmechanismus: Sie enthalten Ameisensäure, Histamin und Acetylcholin. Was auf der Haut brennt, heilt von innen.
 
@@ -17,7 +17,7 @@ Die Brennnessel ist ein wahres Nährstoffwunder: Sie enthält mehr Eisen als Spi
 
 In der Volksmedizin galt die Brennnessel als "Apotheke Gottes" -- kaum eine Pflanze wurde vielseitiger eingesetzt. Von der Blutreinigungskur im Frühling bis zur Rheuma-Behandlung, von der Haarwäsche bis zum Spinatersatz.
 
-Die Wurzel der Brennnessel hat nochmals eigene Heilkräfte: Sie wird bei gutartiger Prostatavergrösserung eingesetzt und ist in vielen Prostatapräparaten enthalten. Die Samen wiederum gelten als kraftvolles Tonikum und wurden früher an Pferde verfüttert, um ihr Fell zum Glänzen zu bringen.`,
+Die Wurzel der Brennnessel hat nochmals eigene Heilkräfte: Sie wird bei gutartiger Prostatavergrößerung eingesetzt und ist in vielen Prostatapräparaten enthalten. Die Samen wiederum gelten als kraftvolles Tonikum und wurden früher an Pferde verfüttert, um ihr Fell zum Glänzen zu bringen.`,
     geschichte: `Die Brennnessel begleitet den Menschen seit der Steinzeit. Die Germanen verehrten sie als Pflanze des Donnergottes Thor -- wer Brennnesseln trug, war vor Blitzschlag geschützt. Im Mittelalter galt sie als Schutz gegen Hexerei und böse Geister. Hildegard von Bingen empfahl Brennnesselsaft bei Magenerkrankungen.
 
 In Notzeiten war die Brennnessel überlebenswichtige Nahrung -- Brennnesselsuppe, Brennnesselspinat, Brennnesselbier. Im Ersten Weltkrieg wurde aus ihren Fasern sogar Stoff gewebt, als Baumwolle knapp war. Die alten Ägypter verwendeten Brennnesseltee gegen Arthritis und Rückenschmerzen.`,
@@ -28,13 +28,13 @@ In Notzeiten war die Brennnessel überlebenswichtige Nahrung -- Brennnesselsuppe
     ernte: {
       zeit: 'Junge Triebe: März bis Mai (vor der Blüte). Blätter: Mai bis September. Samen: August bis Oktober. Wurzeln: Herbst oder Frühjahr.',
       teile: 'Blätter, Samen, Wurzeln -- alle Teile sind nutzbar.',
-      tipps: 'Junge Triebe im Frühling sind am zartesten und nährstoffreichsten. Mit Handschuhen ernten. Zum Trocknen Bündel kopfüber aufhängen. Abseits von Strassen sammeln.',
+      tipps: 'Junge Triebe im Frühling sind am zartesten und nährstoffreichsten. Mit Handschuhen ernten. Zum Trocknen Bündel kopfüber aufhängen. Abseits von Straßen sammeln.',
       mond: 'Blätter bei zunehmendem Mond, Wurzeln bei abnehmendem Mond ernten.',
     },
     zubereitungen: [
       {
         name: 'Brennnesseltee (Blätter)',
-        anleitung: '2 TL getrocknete Blätter oder eine Handvoll frische mit 250ml kochendem Wasser übergiessen. 10-15 Minuten zugedeckt ziehen lassen. 3 Tassen täglich für eine Kur über 4-6 Wochen.',
+        anleitung: '2 TL getrocknete Blätter oder eine Handvoll frische mit 250ml kochendem Wasser übergießen. 10-15 Minuten zugedeckt ziehen lassen. 3 Tassen täglich für eine Kur über 4-6 Wochen.',
         wirkung: 'Blutreinigung, Entwässerung, Allergie-Linderung, Eisenzufuhr.',
       },
       {
@@ -75,18 +75,18 @@ In Notzeiten war die Brennnessel überlebenswichtige Nahrung -- Brennnesselsuppe
 
 Ihre Heilkraft liegt vor allem im ätherischen Öl, das den kostbaren Wirkstoff Chamazulen enthält -- eine Substanz, die sich erst beim Destillieren bildet und das Kamillenöl tiefblau färbt. Zusammen mit Bisabolol und den Flavonoiden bildet es ein Wirkstofftrio, das entzündungshemmend, krampflösend und wundheilend wirkt.
 
-Die Kamille ist die sanfteste unter den grossen Heilpflanzen. Sie eignet sich für Säuglinge, Kinder, Schwangere und empfindliche Menschen gleichermassen. Ein Kamillentee beruhigt den Magen, ein Kamillendampfbad befreit die Atemwege, eine Kamillenspülung heilt entzündetes Zahnfleisch. Kaum eine Pflanze ist so vielseitig und dabei so mild.
+Die Kamille ist die sanfteste unter den großen Heilpflanzen. Sie eignet sich für Säuglinge, Kinder, Schwangere und empfindliche Menschen gleichermaßen. Ein Kamillentee beruhigt den Magen, ein Kamillendampfbad befreit die Atemwege, eine Kamillenspülung heilt entzündetes Zahnfleisch. Kaum eine Pflanze ist so vielseitig und dabei so mild.
 
 Besonders wertvoll ist die Kamille bei allen Beschwerden des Magen-Darm-Trakts. Sie entspannt verkrampfte Muskulatur, hemmt Entzündungen der Schleimhäute und fördert die Heilung von Geschwüren. Auch auf der Haut entfaltet sie ihre sanfte Kraft bei Ekzemen, Wunden und Hautreizungen.`,
     geschichte: `Die Kamille wurde bereits im alten Ägypten dem Sonnengott Ra geweiht. Die Ägypter nutzten sie bei Fieber und als Schönheitsmittel. Im antiken Griechenland war sie das wichtigste Heilkraut der Ärzte. Dioskurides empfahl sie bei Blasenleiden und Leberbeschwerden.
 
-Im Mittelalter gehörte die Kamille zu den neun heiligen Kräutern der Angelsachsen. Karl der Grosse liess sie in allen Klostergärten anbauen. Hildegard von Bingen schätzte sie als Mittel gegen Darmerkrankungen. Bis heute ist die Kamille die meistverwendete Heilpflanze in Europa -- und das aus gutem Grund.`,
+Im Mittelalter gehörte die Kamille zu den neun heiligen Kräutern der Angelsachsen. Karl der Große ließ sie in allen Klostergärten anbauen. Hildegard von Bingen schätzte sie als Mittel gegen Darmerkrankungen. Bis heute ist die Kamille die meistverwendete Heilpflanze in Europa -- und das aus gutem Grund.`,
     wirkungen: {
       hauptwirkungen: ['Entzündungshemmend', 'Krampflösend', 'Wundheilend', 'Beruhigend', 'Blähungswidrig', 'Antibakteriell', 'Magenberuhigend', 'Hautpflegend'],
       inhaltsstoffe: ['Chamazulen', 'Alpha-Bisabolol', 'Apigenin', 'Flavonoide', 'Cumarine', 'Schleimstoffe', 'Ätherisches Öl', 'Matricin', 'Bitterstoffe', 'Cholin'],
     },
     ernte: {
-      zeit: 'Mai bis August, bei voller Blüte ernten, wenn die weissen Zungenblüten waagerecht stehen oder sich leicht nach unten neigen.',
+      zeit: 'Mai bis August, bei voller Blüte ernten, wenn die weißen Zungenblüten waagerecht stehen oder sich leicht nach unten neigen.',
       teile: 'Blütenköpfe -- nur die vollständig geöffneten Blüten verwenden.',
       tipps: 'An einem trockenen, sonnigen Vormittag ernten, wenn der Tau abgetrocknet ist. Schnell und schonend trocknen, damit das ätherische Öl erhalten bleibt.',
       mond: 'Bei zunehmendem Mond an einem Blütentag (Zwillinge, Waage, Wassermann) ernten für höchsten Gehalt an ätherischem Öl.',
@@ -94,12 +94,12 @@ Im Mittelalter gehörte die Kamille zu den neun heiligen Kräutern der Angelsach
     zubereitungen: [
       {
         name: 'Kamillentee',
-        anleitung: '2 TL getrocknete Kamillenblüten mit 250ml kochendem Wasser übergiessen, zugedeckt 10 Minuten ziehen lassen, abseihen. Bis zu 3-4 Tassen täglich.',
+        anleitung: '2 TL getrocknete Kamillenblüten mit 250ml kochendem Wasser übergießen, zugedeckt 10 Minuten ziehen lassen, abseihen. Bis zu 3-4 Tassen täglich.',
         wirkung: 'Beruhigt Magen und Darm, lindert Krämpfe, fördert den Schlaf.',
       },
       {
         name: 'Kamillendampfbad',
-        anleitung: 'Eine Handvoll Kamillenblüten in eine Schüssel geben, mit einem Liter kochendem Wasser übergiessen. Kopf mit einem Handtuch bedecken und 10-15 Minuten den Dampf einatmen.',
+        anleitung: 'Eine Handvoll Kamillenblüten in eine Schüssel geben, mit einem Liter kochendem Wasser übergießen. Kopf mit einem Handtuch bedecken und 10-15 Minuten den Dampf einatmen.',
         wirkung: 'Befreit die Atemwege, wirkt bei Erkältungen, Nebenhöhlenentzündung und unreiner Haut.',
       },
       {
@@ -130,14 +130,14 @@ Im Mittelalter gehörte die Kamille zu den neun heiligen Kräutern der Angelsach
 
 Zerreibt man eine Blüte zwischen den Fingern, färben sie sich blutrot -- das ist Hypericin, einer der wichtigsten Wirkstoffe. Dieses Hypericin, zusammen mit Hyperforin und zahlreichen Flavonoiden, macht das Johanniskraut zu einem der wirksamsten pflanzlichen Antidepressiva. Klinische Studien haben gezeigt, dass es bei leichten bis mittelschweren Depressionen ebenso wirksam sein kann wie synthetische Antidepressiva -- mit deutlich weniger Nebenwirkungen.
 
-Die stimmungsaufhellende Wirkung entfaltet sich nicht sofort, sondern braucht 2-3 Wochen regelmässige Einnahme. Das Johanniskraut wirkt nicht betäubend oder sedierend, sondern bringt buchstäblich "Licht in die Seele". Es stärkt die innere Widerstandskraft und hilft, auch in dunklen Zeiten wieder Zuversicht zu finden.
+Die stimmungsaufhellende Wirkung entfaltet sich nicht sofort, sondern braucht 2-3 Wochen regelmäßige Einnahme. Das Johanniskraut wirkt nicht betäubend oder sedierend, sondern bringt buchstäblich "Licht in die Seele". Es stärkt die innere Widerstandskraft und hilft, auch in dunklen Zeiten wieder Zuversicht zu finden.
 
-Äusserlich ist das berühmte Rotöl (Johanniskrautöl) ein bewährtes Wundheilmittel. Es hilft bei Verbrennungen, Nervenschmerzen, Muskelzerrungen und Narben. Die rote Farbe des Öls entsteht durch das Hypericin, das sich im Olivenöl löst.`,
+Äußerlich ist das berühmte Rotöl (Johanniskrautöl) ein bewährtes Wundheilmittel. Es hilft bei Verbrennungen, Nervenschmerzen, Muskelzerrungen und Narben. Die rote Farbe des Öls entsteht durch das Hypericin, das sich im Olivenöl löst.`,
     geschichte: `Der Name verweist auf Johannes den Täufer -- die Pflanze blüht um seinen Namenstag am 24. Juni. Im Volksglauben war Johanniskraut eines der mächtigsten Schutzkräuter: Am Johannistag gesammelt und über der Tür aufgehängt, hielt es böse Geister, Dämonen und Blitzschlag fern.
 
 Paracelsus erkannte bereits im 16. Jahrhundert die Wirkung gegen "Phantasmata" -- Wahnvorstellungen und Melancholie. Die Signaturenlehre sah in den "durchlöcherten" Blättern ein Zeichen: Die Pflanze heilt dort, wo der Mensch "Löcher" hat -- in der Seele. Das Rotöl wurde über Jahrhunderte als "Wundöl" bei Verbrennungen und Verletzungen eingesetzt.`,
     wirkungen: {
-      hauptwirkungen: ['Stimmungsaufhellend (antidepressiv)', 'Angstlösend', 'Nervenstärkend', 'Wundheilend (äusserlich)', 'Entzündungshemmend', 'Antivirall', 'Schmerzlindernd bei Nervenschmerzen', 'Narbenglättend'],
+      hauptwirkungen: ['Stimmungsaufhellend (antidepressiv)', 'Angstlösend', 'Nervenstärkend', 'Wundheilend (äußerlich)', 'Entzündungshemmend', 'Antivirall', 'Schmerzlindernd bei Nervenschmerzen', 'Narbenglättend'],
       inhaltsstoffe: ['Hypericin', 'Hyperforin', 'Flavonoide (Rutin, Quercetin)', 'Gerbstoffe', 'Ätherisches Öl', 'Xanthone', 'Procyanidine', 'Phloroglucine', 'Vitamin C', 'Carotinoide'],
     },
     ernte: {
@@ -149,13 +149,13 @@ Paracelsus erkannte bereits im 16. Jahrhundert die Wirkung gegen "Phantasmata" -
     zubereitungen: [
       {
         name: 'Johanniskraut-Tee',
-        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergiessen, 10 Minuten zugedeckt ziehen lassen. 2-3 Tassen täglich über mindestens 4-6 Wochen trinken.',
+        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergießen, 10 Minuten zugedeckt ziehen lassen. 2-3 Tassen täglich über mindestens 4-6 Wochen trinken.',
         wirkung: 'Stimmungsaufhellend bei leichten Verstimmungen, nervösen Unruhezuständen und Winterdepression.',
       },
       {
         name: 'Rotöl (Johanniskrautöl)',
         anleitung: 'Frische Johanniskrautblüten locker in ein Schraubglas füllen, mit gutem Olivenöl bedecken. 6-8 Wochen an einem sonnigen Fensterplatz stehen lassen. Das Öl färbt sich tiefrot. Abseihen und dunkel aufbewahren.',
-        wirkung: 'Äusserlich bei Verbrennungen, Sonnenbrand, Nervenschmerzen, Hexenschuss, Muskelzerrungen und zur Narbenpflege.',
+        wirkung: 'Äußerlich bei Verbrennungen, Sonnenbrand, Nervenschmerzen, Hexenschuss, Muskelzerrungen und zur Narbenpflege.',
       },
       {
         name: 'Johanniskraut-Tinktur',
@@ -169,9 +169,9 @@ Paracelsus erkannte bereits im 16. Jahrhundert die Wirkung gegen "Phantasmata" -
       },
     ],
     mischungen: ['Nervenstärketee (mit Melisse und Passionsblume)', 'Stimmungstee (mit Lavendel und Rose)', 'Wintertee (mit Orangenschale und Zimt)'],
-    tcm: 'Johanniskraut zerstreut Leber-Qi-Stagnation und klärt aufgestaute Emotionen -- es lässt das Qi wieder frei fliessen.',
+    tcm: 'Johanniskraut zerstreut Leber-Qi-Stagnation und klärt aufgestaute Emotionen -- es lässt das Qi wieder frei fließen.',
     ayurveda: 'Johanniskraut reduziert überhöhtes Vata, nährt das Nervensystem und stärkt Prana (Lebenskraft).',
-    volksmedizin: 'Das Rotöl hiess im Volksmund "Herrgottsblut" und galt als eines der kostbarsten Hausmittel -- eine Flasche stand in fast jedem Bauernhaus bereit.',
+    volksmedizin: 'Das Rotöl hieß im Volksmund "Herrgottsblut" und galt als eines der kostbarsten Hausmittel -- eine Flasche stand in fast jedem Bauernhaus bereit.',
     besonders_bei: ['depression', 'angst', 'schlafprobleme', 'burnout', 'schmerzen', 'wunden', 'nervositaet', 'wechseljahre'],
   },
 
@@ -183,34 +183,34 @@ Paracelsus erkannte bereits im 16. Jahrhundert die Wirkung gegen "Phantasmata" -
     familie: 'Lippenblütler (Lamiaceae)',
     beschreibung: `"Warum sollte ein Mensch sterben, wenn Salbei in seinem Garten wächst?" -- so lautet ein altes Sprichwort aus der Schule von Salerno. Der Name Salvia kommt vom lateinischen "salvare" -- heilen, retten. Und tatsächlich gehört der Salbei zu den mächtigsten Heilpflanzen der europäischen Tradition.
 
-Die samtigen, graugrünen Blätter des Salbeis sind vollgepackt mit ätherischen Ölen, vor allem Thujon, Cineol und Campher. Diese Kombination macht den Salbei zu einem der stärksten natürlichen Antiseptika. Er desinfiziert den Rachenraum, hemmt Schweissbildung, reguliert die Verdauung und stärkt das Nervensystem.
+Die samtigen, graugrünen Blätter des Salbeis sind vollgepackt mit ätherischen Ölen, vor allem Thujon, Cineol und Campher. Diese Kombination macht den Salbei zu einem der stärksten natürlichen Antiseptika. Er desinfiziert den Rachenraum, hemmt Schweißbildung, reguliert die Verdauung und stärkt das Nervensystem.
 
-Besonders wertvoll ist der Salbei bei Halsschmerzen und Entzündungen im Mund- und Rachenraum -- hier ist er der unbestrittene König unter den Heilkräutern. Eine Salbei-Gurgellösung wirkt oft schneller als manches Medikament. Auch bei übermässigem Schwitzen, besonders in den Wechseljahren, ist Salbei das Mittel der Wahl.
+Besonders wertvoll ist der Salbei bei Halsschmerzen und Entzündungen im Mund- und Rachenraum -- hier ist er der unbestrittene König unter den Heilkräutern. Eine Salbei-Gurgellösung wirkt oft schneller als manches Medikament. Auch bei übermäßigem Schwitzen, besonders in den Wechseljahren, ist Salbei das Mittel der Wahl.
 
 Salbei ist auch ein Kraut der Weisheit. Sein lateinischer Name "Salvia" ist mit "sapiens" (weise) verwandt. Er schärft den Geist, verbessert die Konzentration und wurde in neueren Studien sogar als unterstützend bei leichter Demenz erforscht.`,
-    geschichte: `Der Salbei war bereits in der Antike heilig. Die Ägypter gaben ihn unfruchtbaren Frauen als Fruchtbarkeitsmedizin. Die Römer sammelten ihn in einem rituellen Akt -- barfuss, in weisser Tunika, nachdem sie Jupiter ein Opfer dargebracht hatten. Karl der Grosse befahl den Anbau in allen Klostergärten.
+    geschichte: `Der Salbei war bereits in der Antike heilig. Die Ägypter gaben ihn unfruchtbaren Frauen als Fruchtbarkeitsmedizin. Die Römer sammelten ihn in einem rituellen Akt -- barfuß, in weißer Tunika, nachdem sie Jupiter ein Opfer dargebracht hatten. Karl der Große befahl den Anbau in allen Klostergärten.
 
-Die Indianer Nordamerikas verwenden den verwandten Weissen Salbei zum Räuchern und zur spirituellen Reinigung -- eine Tradition, die Jahrtausende alt ist. Im Mittelalter war Salbei Bestandteil des berühmten "Vierräuberessigs", der vor der Pest schützen sollte.`,
+Die Indianer Nordamerikas verwenden den verwandten Weißen Salbei zum Räuchern und zur spirituellen Reinigung -- eine Tradition, die Jahrtausende alt ist. Im Mittelalter war Salbei Bestandteil des berühmten "Vierräuberessigs", der vor der Pest schützen sollte.`,
     wirkungen: {
-      hauptwirkungen: ['Stark antiseptisch', 'Schweisshemmend', 'Entzündungshemmend', 'Zusammenziehend (adstringierend)', 'Verdauungsfördernd', 'Nervenstärkend', 'Gedächtnisfördernd', 'Östrogenähnlich'],
+      hauptwirkungen: ['Stark antiseptisch', 'Schweißhemmend', 'Entzündungshemmend', 'Zusammenziehend (adstringierend)', 'Verdauungsfördernd', 'Nervenstärkend', 'Gedächtnisfördernd', 'Östrogenähnlich'],
       inhaltsstoffe: ['Thujon', 'Cineol', 'Campher', 'Rosmarinsäure', 'Carnosol', 'Salvianolsäure', 'Bitterstoffe', 'Gerbstoffe', 'Flavonoide', 'Ätherisches Öl'],
     },
     ernte: {
       zeit: 'Mai bis September. Die höchste Konzentration an ätherischen Ölen ist kurz vor der Blüte (Juni) erreicht.',
       teile: 'Blätter -- bevorzugt die jüngeren, aber bereits voll entwickelten Blätter.',
       tipps: 'Am besten am späten Vormittag ernten, wenn der Tau abgetrocknet ist. Nicht zu tief zurückschneiden, damit die Pflanze weiterwächst. Trocknet gut und schnell an der Luft.',
-      mond: 'Bei zunehmendem Mond an warmen Tagen ernten. Für die schweisshemmende Wirkung bei Vollmond sammeln.',
+      mond: 'Bei zunehmendem Mond an warmen Tagen ernten. Für die schweißhemmende Wirkung bei Vollmond sammeln.',
     },
     zubereitungen: [
       {
         name: 'Salbeitee (zum Gurgeln)',
-        anleitung: '3 TL frische oder 1.5 TL getrocknete Salbeiblätter mit 250ml kochendem Wasser übergiessen. 15 Minuten zugedeckt ziehen lassen -- so lange, damit die Gerbstoffe gut ausgezogen werden. Mehrmals täglich lauwarm gurgeln.',
+        anleitung: '3 TL frische oder 1.5 TL getrocknete Salbeiblätter mit 250ml kochendem Wasser übergießen. 15 Minuten zugedeckt ziehen lassen -- so lange, damit die Gerbstoffe gut ausgezogen werden. Mehrmals täglich lauwarm gurgeln.',
         wirkung: 'Halsschmerzen, Mandelentzündung, Zahnfleischentzündung, Aphten im Mund.',
       },
       {
         name: 'Salbeitee (gegen Schwitzen)',
-        anleitung: '2 TL getrocknete Blätter mit 250ml kochendem Wasser aufgiessen, 10 Minuten ziehen lassen. Lauwarm oder kalt trinken. 2-3 Tassen täglich, die Wirkung setzt nach wenigen Tagen ein.',
-        wirkung: 'Reduziert übermässiges Schwitzen, besonders bei Nachtschwveiss in den Wechseljahren.',
+        anleitung: '2 TL getrocknete Blätter mit 250ml kochendem Wasser aufgießen, 10 Minuten ziehen lassen. Lauwarm oder kalt trinken. 2-3 Tassen täglich, die Wirkung setzt nach wenigen Tagen ein.',
+        wirkung: 'Reduziert übermäßiges Schwitzen, besonders bei Nachtschwveiss in den Wechseljahren.',
       },
       {
         name: 'Salbei-Honig',
@@ -226,7 +226,7 @@ Die Indianer Nordamerikas verwenden den verwandten Weissen Salbei zum Räuchern 
     mischungen: ['Halstee (mit Kamille und Thymian)', 'Wechseljahrtee (mit Frauenmantel und Hopfen)', 'Verdauungstee (mit Pfefferminze und Fenchel)'],
     tcm: 'Salbei klärt Hitze, trocknet Feuchtigkeit und stärkt das Wei-Qi (Abwehr-Qi) -- er schützt die Oberfläche.',
     ayurveda: 'Salbei reduziert Kapha und beruhigt Vata, er stärkt Agni und trocknet überschüssige Feuchtigkeit (Ama).',
-    volksmedizin: 'Im Volksmund hiess es: "Salbei im Garten, der Tod kann warten." Stillende Mütter tranken Salbeitee zum Abstillen, da er die Milchproduktion hemmt.',
+    volksmedizin: 'Im Volksmund hieß es: "Salbei im Garten, der Tod kann warten." Stillende Mütter tranken Salbeitee zum Abstillen, da er die Milchproduktion hemmt.',
     besonders_bei: ['halsschmerzen', 'erkaeltung', 'wechseljahre', 'verdauung', 'entzuendung', 'schwitzen', 'mund', 'demenz'],
   },
 
@@ -253,13 +253,13 @@ Im Mittelalter stickten Frauen ihren Rittern Thymianzweige auf die Schals als Ze
     ernte: {
       zeit: 'Juni bis August, kurz vor oder während der Blüte, wenn der Gehalt an ätherischem Öl am höchsten ist.',
       teile: 'Blühendes Kraut -- die oberen, weichen Triebspitzen.',
-      tipps: 'Am sonnigen Mittag ernten, wenn die ätherischen Öle am konzentriertesten sind. In kleinen Sträussen kopfüber trocknen. Behält getrocknet sein Aroma sehr gut.',
+      tipps: 'Am sonnigen Mittag ernten, wenn die ätherischen Öle am konzentriertesten sind. In kleinen Sträußen kopfüber trocknen. Behält getrocknet sein Aroma sehr gut.',
       mond: 'Bei zunehmendem Mond an warmen Tagen (Widder, Löwe, Schütze) für maximalen Gehalt an ätherischem Öl.',
     },
     zubereitungen: [
       {
         name: 'Thymiantee',
-        anleitung: '2 TL frisches oder 1 TL getrocknetes Thymiankraut mit 250ml kochendem Wasser übergiessen. 10 Minuten zugedeckt ziehen lassen. Mit Honig süssen. 3-5 Tassen täglich bei akutem Husten.',
+        anleitung: '2 TL frisches oder 1 TL getrocknetes Thymiankraut mit 250ml kochendem Wasser übergießen. 10 Minuten zugedeckt ziehen lassen. Mit Honig süßen. 3-5 Tassen täglich bei akutem Husten.',
         wirkung: 'Löst Schleim, entkrampft die Bronchien, desinfiziert die Atemwege. Das wichtigste Hustenmittel der Pflanzenheilkunde.',
       },
       {
@@ -269,7 +269,7 @@ Im Mittelalter stickten Frauen ihren Rittern Thymianzweige auf die Schals als Ze
       },
       {
         name: 'Thymianbad',
-        anleitung: '100g Thymiankraut mit 2 Liter kochendem Wasser übergiessen, 20 Minuten ziehen lassen, abseihen und ins Badewasser geben. 15-20 Minuten bei 37-38°C baden.',
+        anleitung: '100g Thymiankraut mit 2 Liter kochendem Wasser übergießen, 20 Minuten ziehen lassen, abseihen und ins Badewasser geben. 15-20 Minuten bei 37-38°C baden.',
         wirkung: 'Befreit die Atemwege, wärmt bei Erkältung, stärkt bei Erschöpfung.',
       },
       {
@@ -278,10 +278,10 @@ Im Mittelalter stickten Frauen ihren Rittern Thymianzweige auf die Schals als Ze
         wirkung: 'Wohlschmeckender Hustensirup, auch für Kinder geeignet (ab 1 Jahr).',
       },
     ],
-    mischungen: ['Hustentee (mit Spitzwegerich und Süssholz)', 'Erkältungstee (mit Holunder und Linde)', 'Verdauungstee (mit Fenchel und Anis)'],
+    mischungen: ['Hustentee (mit Spitzwegerich und Süßholz)', 'Erkältungstee (mit Holunder und Linde)', 'Verdauungstee (mit Fenchel und Anis)'],
     tcm: 'Thymian ist warm und scharf, er vertreibt Kälte aus der Lunge und transformiert Schleim-Kälte.',
     ayurveda: 'Thymian reduziert Kapha stark und bringt Vata in Bewegung, er stärkt Agni und verbrennt Ama (Schlacken).',
-    volksmedizin: 'Die Grossmütter wussten: "Thymiantee und Bettruhe heilen jeden Husten." Kinder bekamen Thymianhonig auf einem Löffel -- schmeckt gut und hilft zuverlässig.',
+    volksmedizin: 'Die Großmütter wussten: "Thymiantee und Bettruhe heilen jeden Husten." Kinder bekamen Thymianhonig auf einem Löffel -- schmeckt gut und hilft zuverlässig.',
     besonders_bei: ['husten', 'bronchitis', 'erkaeltung', 'asthma', 'verdauung', 'erschoepfung', 'immunschwaeche', 'atemwege'],
   },
 
@@ -297,10 +297,10 @@ Menthol, der Hauptwirkstoff, hat eine faszinierende Doppelwirkung: Es aktiviert 
 
 Die Pfefferminze ist das wichtigste Magenkraut der Pflanzenheilkunde. Sie regt den Gallenfluss an, entspannt den Darm, lindert Übelkeit und vertreibt Blähungen. Bei Kopfschmerzen ist Pfefferminzöl auf den Schläfen eine bewährte Alternative zu Schmerztabletten -- Studien zeigen eine vergleichbare Wirksamkeit.
 
-Doch Vorsicht: Für Säuglinge und Kleinkinder ist Menthol zu stark. Bei Reflux kann Pfefferminze den Schliessmuskel der Speiseröhre entspannen und die Beschwerden verschlimmern. Wie bei allen kraftvollen Heilpflanzen kommt es auf die richtige Anwendung an.`,
+Doch Vorsicht: Für Säuglinge und Kleinkinder ist Menthol zu stark. Bei Reflux kann Pfefferminze den Schließmuskel der Speiseröhre entspannen und die Beschwerden verschlimmern. Wie bei allen kraftvollen Heilpflanzen kommt es auf die richtige Anwendung an.`,
     geschichte: `Die Pfefferminze wurde 1696 in England entdeckt -- als natürliche Kreuzung in einem Minzfeld. Doch Minze allgemein ist uralt: Die Griechen nannten sie "Minthe" nach einer Nymphe, die von Persephone in eine Pflanze verwandelt wurde. Die Ägypter legten Minzblätter in die Gräber ihrer Pharaonen.
 
-Im 18. Jahrhundert begann der grossflächige Anbau in England und Thüringen. Die Pfefferminze wurde zum wichtigsten Heilkraut der Apotheken. In der amerikanischen Kolonialzeit war Pfefferminztee das bevorzugte Getränk der Unabhängigkeitskämpfer, als sie englischen Tee boykottierten.`,
+Im 18. Jahrhundert begann der großflächige Anbau in England und Thüringen. Die Pfefferminze wurde zum wichtigsten Heilkraut der Apotheken. In der amerikanischen Kolonialzeit war Pfefferminztee das bevorzugte Getränk der Unabhängigkeitskämpfer, als sie englischen Tee boykottierten.`,
     wirkungen: {
       hauptwirkungen: ['Krampflösend (spasmolytisch)', 'Kühlend', 'Gallefördernd', 'Blähungswidrig', 'Schmerzlindernd', 'Erfrischend und belebend', 'Übelkeit lindernd', 'Antibakteriell'],
       inhaltsstoffe: ['Menthol', 'Menthon', 'Menthylacetat', 'Flavonoide', 'Rosmarinsäure', 'Gerbstoffe', 'Bitterstoffe', 'Ätherisches Öl (bis 2.5%)', 'Kaffeesäure', 'Triterpene'],
@@ -314,7 +314,7 @@ Im 18. Jahrhundert begann der grossflächige Anbau in England und Thüringen. Di
     zubereitungen: [
       {
         name: 'Pfefferminztee',
-        anleitung: '2 TL frische oder 1 TL getrocknete Blätter mit 250ml kochendem Wasser übergiessen. Nur 5-8 Minuten ziehen lassen (wird sonst bitter). Nach dem Essen trinken.',
+        anleitung: '2 TL frische oder 1 TL getrocknete Blätter mit 250ml kochendem Wasser übergießen. Nur 5-8 Minuten ziehen lassen (wird sonst bitter). Nach dem Essen trinken.',
         wirkung: 'Verdauungsfördernd, blähungswidrig, erfrischend. Das klassische Hausmittel bei Magenbeschwerden.',
       },
       {
@@ -329,8 +329,8 @@ Im 18. Jahrhundert begann der grossflächige Anbau in England und Thüringen. Di
       },
       {
         name: 'Erfrischungstee (kalt)',
-        anleitung: 'Eine grosse Handvoll frische Pfefferminze in eine Karaffe geben, mit kaltem Wasser auffüllen und 2 Stunden im Kühlschrank ziehen lassen. Mit Zitronenscheiben servieren.',
-        wirkung: 'Erfrischend an heissen Tagen, fördert die Verdauung und kühlt von innen.',
+        anleitung: 'Eine große Handvoll frische Pfefferminze in eine Karaffe geben, mit kaltem Wasser auffüllen und 2 Stunden im Kühlschrank ziehen lassen. Mit Zitronenscheiben servieren.',
+        wirkung: 'Erfrischend an heißen Tagen, fördert die Verdauung und kühlt von innen.',
       },
     ],
     mischungen: ['Magentee (mit Kamille und Melisse)', 'Erkältungstee (mit Holunder und Lindenblüte)', 'Konzentrationstee (mit Rosmarin und Ginkgo)'],
@@ -350,7 +350,7 @@ Im 18. Jahrhundert begann der grossflächige Anbau in England und Thüringen. Di
 
 Klinische Studien haben gezeigt, dass Lavendelöl bei Angststörungen ebenso wirksam sein kann wie das Medikament Lorazepam -- ohne dessen Suchtpotenzial und Nebenwirkungen. Diese Erkenntnis hat die Wissenschaft verblüfft und der alten Heilpflanze neue Anerkennung gebracht. Der Wirkstoff Linalool hemmt die Überaktivität bestimmter Kalziumkanäle im Nervensystem und beruhigt so auf zellulärer Ebene.
 
-Lavendel ist universell einsetzbar: Als Tee beruhigt er den Magen und die Nerven. Als ätherisches Öl lindert er Angst, Schlafstörungen und Unruhe. Äusserlich heilt er kleine Verbrennungen und Insektenstiche. Im Kleiderschrank vertreibt er Motten, im Garten Blattläuse.
+Lavendel ist universell einsetzbar: Als Tee beruhigt er den Magen und die Nerven. Als ätherisches Öl lindert er Angst, Schlafstörungen und Unruhe. Äußerlich heilt er kleine Verbrennungen und Insektenstiche. Im Kleiderschrank vertreibt er Motten, im Garten Blattläuse.
 
 Die Provence-Landschaft mit ihren endlosen Lavendelfeldern ist zum Sinnbild der Heilung durch Natur geworden. Doch der Echte Lavendel wächst auch in unseren Gärten und auf dem Balkon -- ein treuer, genügsamer Begleiter, der Jahr für Jahr blüht und heilt.`,
     geschichte: `Lavendel wurde im alten Ägypten zur Einbalsamierung verwendet. Die Römer verbrannten ihn als Räucherwerk und nutzten ihn in ihren berühmten Thermen. Kleopatra soll Lavendelparfüm getragen haben, als sie Julius Caesar verführte.
@@ -363,23 +363,23 @@ Im Mittelalter war Lavendel Bestandteil des "Vierräuberessigs" -- ein Schutzmit
     ernte: {
       zeit: 'Juli bis August, wenn die Blüten gerade aufgehen und die Farbe am intensivsten ist.',
       teile: 'Blüten und Blütenstängel.',
-      tipps: 'Am besten mittags bei Sonnenschein ernten. Die Blütenstängel handbreit über dem Holz abschneiden. In Sträussen kopfüber an einem luftigen Ort trocknen.',
+      tipps: 'Am besten mittags bei Sonnenschein ernten. Die Blütenstängel handbreit über dem Holz abschneiden. In Sträußen kopfüber an einem luftigen Ort trocknen.',
       mond: 'Bei zunehmendem Mond an einem Blütentag ernten für stärksten Duft.',
     },
     zubereitungen: [
       {
         name: 'Lavendeltee',
-        anleitung: '1-2 TL getrocknete Lavendelblüten mit 250ml kochendem Wasser übergiessen. 5-8 Minuten ziehen lassen -- nicht zu lange, sonst wird er seifig. Mit Honig süssen.',
+        anleitung: '1-2 TL getrocknete Lavendelblüten mit 250ml kochendem Wasser übergießen. 5-8 Minuten ziehen lassen -- nicht zu lange, sonst wird er seifig. Mit Honig süßen.',
         wirkung: 'Beruhigend bei Nervosität, Einschlafhilfe, lindert Magen-Darm-Krämpfe.',
       },
       {
         name: 'Lavendelkissen',
-        anleitung: 'Getrocknete Lavendelblüten in ein Stoffsäckchen füllen und neben das Kopfkissen legen. Regelmässig zwischen den Händen reiben, um den Duft zu erneuern.',
+        anleitung: 'Getrocknete Lavendelblüten in ein Stoffsäckchen füllen und neben das Kopfkissen legen. Regelmäßig zwischen den Händen reiben, um den Duft zu erneuern.',
         wirkung: 'Fördert ruhigen, tiefen Schlaf und vertreibt nächtliche Unruhe.',
       },
       {
-        name: 'Lavendelöl (äusserlich)',
-        anleitung: '2-3 Tropfen reines Lavendelöl in 1 EL Trägeröl (Mandel oder Jojoba) mischen. Auf Schläfen, Handgelenke oder Fusssohlen auftragen.',
+        name: 'Lavendelöl (äußerlich)',
+        anleitung: '2-3 Tropfen reines Lavendelöl in 1 EL Trägeröl (Mandel oder Jojoba) mischen. Auf Schläfen, Handgelenke oder Fußsohlen auftragen.',
         wirkung: 'Sofortige Beruhigung bei Angst und Panikattacken. Eines der wenigen ätherischen Öle, das auch pur auf kleine Wunden und Verbrennungen aufgetragen werden darf.',
       },
       {
@@ -390,7 +390,7 @@ Im Mittelalter war Lavendel Bestandteil des "Vierräuberessigs" -- ein Schutzmit
     ],
     mischungen: ['Schlaftee (mit Hopfen und Baldrian)', 'Nerventee (mit Melisse und Passionsblume)', 'Entspannungsbad (mit Rose und Kamille)'],
     tcm: 'Lavendel bewegt das Leber-Qi, beruhigt den Shen (Geist) und kühlt aufsteigende Hitze aus dem Herzen.',
-    ayurveda: 'Lavendel beruhigt Pitta und Vata gleichermassen, er bringt Sattva (Reinheit und Klarheit) in den Geist.',
+    ayurveda: 'Lavendel beruhigt Pitta und Vata gleichermaßen, er bringt Sattva (Reinheit und Klarheit) in den Geist.',
     volksmedizin: 'Lavendelsträusschen unter dem Kopfkissen vertrieben böse Träume. Wöchnerinnen wurde Lavendelwasser ans Bett gestellt, um Mutter und Kind zu schützen.',
     besonders_bei: ['schlafprobleme', 'angst', 'nervositaet', 'burnout', 'kopfschmerzen', 'haut', 'depression', 'schmerzen'],
   },
@@ -400,12 +400,12 @@ Im Mittelalter war Lavendel Bestandteil des "Vierräuberessigs" -- ein Schutzmit
   // ═══════════════════════════════════════════════════════════════════════════
   'Baldrian': {
     vollname: 'Echter Baldrian (Valeriana officinalis)',
-    familie: 'Geissblattgewächse (Caprifoliaceae)',
+    familie: 'Geißblattgewächse (Caprifoliaceae)',
     beschreibung: `Der Baldrian ist die älteste und bekannteste Beruhigungspflanze Europas. Seine Wurzel -- und nur die Wurzel -- enthält die wirksamen Substanzen: Valerensäure, Valepotriate und ätherische Öle, die auf die GABA-Rezeptoren im Gehirn wirken. GABA ist der wichtigste hemmende Neurotransmitter -- er bremst die neuronale Überaktivität, die zu Unruhe, Angst und Schlaflosigkeit führt.
 
 Der Geruch frischer Baldrianwurzel ist intensiv und gewöhnungsbedürftig -- Katzen hingegen lieben ihn und geraten in Ekstase. Dieser Geruch ist ein Qualitätsmerkmal: Je stärker die Wurzel riecht, desto wirkungsvoller ist sie. Bei der Zubereitung als Tee sollte man kein kochendes Wasser verwenden, sondern einen Kaltauszug herstellen, da die flüchtigen Wirkstoffe hitzeempfindlich sind.
 
-Baldrian wirkt nicht sofort wie eine Schlaftablette -- er braucht regelmässige Einnahme über 2-4 Wochen, um seine volle Wirkung zu entfalten. Dafür macht er nicht abhängig, verursacht keinen Hangover und beeinträchtigt nicht die natürliche Schlafarchitektur. Er fördert das Einschlafen, verbessert die Schlafqualität und beruhigt die innere Unruhe auf sanfte Weise.
+Baldrian wirkt nicht sofort wie eine Schlaftablette -- er braucht regelmäßige Einnahme über 2-4 Wochen, um seine volle Wirkung zu entfalten. Dafür macht er nicht abhängig, verursacht keinen Hangover und beeinträchtigt nicht die natürliche Schlafarchitektur. Er fördert das Einschlafen, verbessert die Schlafqualität und beruhigt die innere Unruhe auf sanfte Weise.
 
 Baldrian ist besonders wertvoll in Kombination mit Hopfen und Melisse -- diese drei Pflanzen verstärken sich gegenseitig in ihrer beruhigenden Wirkung.`,
     geschichte: `Der Name "Baldrian" leitet sich vermutlich vom nordischen Lichtgott Balder ab -- oder vom lateinischen "valere" (kräftig sein, gesund sein). Bereits Hippokrates und Dioskurides empfahlen Baldrian bei Schlaflosigkeit. Im Mittelalter galt er als Allheilmittel und wurde "Theriak der Armen" genannt.
@@ -455,12 +455,12 @@ Eine bekannte Legende besagt, der Rattenfänger von Hameln habe Baldrian in sein
 
 Die Wärme des Ingwers ist keine Metapher: Er steigert tatsächlich die Körpertemperatur, regt die Durchblutung an und bringt den gesamten Stoffwechsel in Schwung. Diese thermogene Wirkung macht ihn zum idealen Mittel bei Erkältungen, Frösteln und allgemeiner Schwäche. Gleichzeitig ist er eines der zuverlässigsten natürlichen Mittel gegen Übelkeit -- ob Reiseübelkeit, Schwangerschaftsübelkeit oder Übelkeit nach Operationen.
 
-Besonders beeindruckend ist die entzündungshemmende Wirkung des Ingwers. Gingerole hemmen die gleichen Enzyme (COX-2) wie synthetische Entzündungshemmer, aber auf sanftere Weise. Studien zeigen positive Effekte bei Arthrose, Muskelschmerzen und sogar Migräne. Regelmässiger Ingwerkonsum kann Muskelkater nach dem Sport um bis zu 25% reduzieren.
+Besonders beeindruckend ist die entzündungshemmende Wirkung des Ingwers. Gingerole hemmen die gleichen Enzyme (COX-2) wie synthetische Entzündungshemmer, aber auf sanftere Weise. Studien zeigen positive Effekte bei Arthrose, Muskelschmerzen und sogar Migräne. Regelmäßiger Ingwerkonsum kann Muskelkater nach dem Sport um bis zu 25% reduzieren.
 
 In der Küche ist Ingwer nicht nur Gewürz, sondern tägliche Medizin. Ein Stück frischer Ingwer im Essen oder als Tee stärkt die Verdauung, wärmt von innen und hält das Immunsystem auf Trab.`,
     geschichte: `Ingwer stammt ursprünglich aus Südostasien und wurde bereits in den ältesten chinesischen und indischen Schriften als Heilmittel erwähnt. Konfuzius soll keiner Mahlzeit ohne Ingwer berührt haben. Über die arabischen Handelsrouten gelangte er nach Europa, wo er im Mittelalter zu den teuersten Gewürzen gehörte.
 
-Im 16. Jahrhundert brachten die Spanier Ingwer nach Jamaika, das bis heute einer der grössten Produzenten ist. König Heinrich VIII. von England soll Ingwer als Pestschutz empfohlen haben. In der Seefahrt war eingelegter Ingwer das wichtigste Mittel gegen Seekrankheit.`,
+Im 16. Jahrhundert brachten die Spanier Ingwer nach Jamaika, das bis heute einer der größten Produzenten ist. König Heinrich VIII. von England soll Ingwer als Pestschutz empfohlen haben. In der Seefahrt war eingelegter Ingwer das wichtigste Mittel gegen Seekrankheit.`,
     wirkungen: {
       hauptwirkungen: ['Entzündungshemmend', 'Antiemetisch (gegen Übelkeit)', 'Wärmend und durchblutungsfördernd', 'Verdauungsfördernd', 'Immunstärkend', 'Schmerzlindernd', 'Stoffwechselanregend', 'Antioxidativ'],
       inhaltsstoffe: ['Gingerole', 'Shogaole', 'Zingeron', 'Ätherisches Öl', 'Zingiberen', 'Vitamin C', 'Magnesium', 'Eisen', 'Kalzium', 'Kalium', 'Phosphor', 'Borneol'],
@@ -474,12 +474,12 @@ Im 16. Jahrhundert brachten die Spanier Ingwer nach Jamaika, das bis heute einer
     zubereitungen: [
       {
         name: 'Ingwertee (frisch)',
-        anleitung: 'Ein daumendickes Stück frischen Ingwer in dünne Scheiben schneiden oder reiben. Mit 500ml kochendem Wasser übergiessen und 10-15 Minuten ziehen lassen. Mit Honig und Zitrone verfeinern.',
+        anleitung: 'Ein daumendickes Stück frischen Ingwer in dünne Scheiben schneiden oder reiben. Mit 500ml kochendem Wasser übergießen und 10-15 Minuten ziehen lassen. Mit Honig und Zitrone verfeinern.',
         wirkung: 'Wärmt von innen, stärkt die Abwehr, hilft bei Erkältung und Übelkeit.',
       },
       {
         name: 'Ingwer-Shot',
-        anleitung: 'Ein grosses Stück Ingwer (ca. 50g) mit dem Saft von 2 Zitronen und 1 EL Honig im Mixer pürieren. Durch ein Sieb pressen. Morgens 1 Schnapsglas trinken.',
+        anleitung: 'Ein großes Stück Ingwer (ca. 50g) mit dem Saft von 2 Zitronen und 1 EL Honig im Mixer pürieren. Durch ein Sieb pressen. Morgens 1 Schnapsglas trinken.',
         wirkung: 'Immunbooster, Energiespender, Stoffwechselankurbler. Ideal in der Erkältungszeit.',
       },
       {
@@ -489,13 +489,13 @@ Im 16. Jahrhundert brachten die Spanier Ingwer nach Jamaika, das bis heute einer
       },
       {
         name: 'Ingwer-Honig',
-        anleitung: 'Frischen Ingwer in dünne Scheiben schneiden und in ein Glas schichten. Mit Honig bedecken. Im Kühlschrank aufbewahren. Bei Bedarf 1 TL in heisses Wasser einrühren.',
+        anleitung: 'Frischen Ingwer in dünne Scheiben schneiden und in ein Glas schichten. Mit Honig bedecken. Im Kühlschrank aufbewahren. Bei Bedarf 1 TL in heißes Wasser einrühren.',
         wirkung: 'Hält sich monatelang. Perfektes Hausmittel bei Halsschmerzen und Erkältung.',
       },
     ],
     mischungen: ['Erkältungstee (mit Zitrone und Honig)', 'Verdauungstee (mit Fenchel und Kardamom)', 'Goldene Milch (mit Kurkuma und Zimt)'],
-    tcm: 'Ingwer ist eines der wichtigsten Kräuter der TCM. Frischer Ingwer (Sheng Jiang) vertreibt äussere Kälte und wärmt die Mitte. Getrockneter Ingwer (Gan Jiang) wärmt stärker das Innere.',
-    ayurveda: 'Ingwer heisst im Ayurveda "Vishwabhesaj" -- die universelle Medizin. Er stärkt Agni (Verdauungsfeuer) wie kaum eine andere Pflanze und reduziert Kapha und Vata.',
+    tcm: 'Ingwer ist eines der wichtigsten Kräuter der TCM. Frischer Ingwer (Sheng Jiang) vertreibt äußere Kälte und wärmt die Mitte. Getrockneter Ingwer (Gan Jiang) wärmt stärker das Innere.',
+    ayurveda: 'Ingwer heißt im Ayurveda "Vishwabhesaj" -- die universelle Medizin. Er stärkt Agni (Verdauungsfeuer) wie kaum eine andere Pflanze und reduziert Kapha und Vata.',
     volksmedizin: 'Die Seemänner kauten Ingwerwurzeln gegen die Seekrankheit. In Asien wird schwangeren Frauen Ingwertee gegen Morgenübelkeit gereicht -- eine Tradition, die die Wissenschaft bestätigt hat.',
     besonders_bei: ['uebelkeit', 'erkaeltung', 'verdauung', 'arthrose', 'schmerzen', 'immunschwaeche', 'erschoepfung', 'rheuma'],
   },
@@ -508,14 +508,14 @@ Im 16. Jahrhundert brachten die Spanier Ingwer nach Jamaika, das bis heute einer
     familie: 'Ingwergewächse (Zingiberaceae)',
     beschreibung: `Kurkuma ist das goldene Gewürz Indiens -- seit Jahrtausenden dort als "heilige Pflanze" verehrt und als Heilmittel eingesetzt. Sein leuchtend gelber Farbstoff Curcumin ist einer der am intensivsten erforschten Pflanzenstoffe der modernen Wissenschaft. Über 10.000 wissenschaftliche Studien belegen seine vielfältigen Wirkungen.
 
-Curcumin ist ein aussergewöhnlich starkes Antioxidans und Entzündungshemmer. Es greift auf molekularer Ebene in Entzündungsprozesse ein und hemmt den Transkriptionsfaktor NF-kB, der bei fast allen chronischen Entzündungen eine Schlüsselrolle spielt. Das macht Kurkuma relevant bei Arthritis, Darmentzündungen, Herz-Kreislauf-Erkrankungen und sogar in der Krebsforschung.
+Curcumin ist ein außergewöhnlich starkes Antioxidans und Entzündungshemmer. Es greift auf molekularer Ebene in Entzündungsprozesse ein und hemmt den Transkriptionsfaktor NF-kB, der bei fast allen chronischen Entzündungen eine Schlüsselrolle spielt. Das macht Kurkuma relevant bei Arthritis, Darmentzündungen, Herz-Kreislauf-Erkrankungen und sogar in der Krebsforschung.
 
-Die grösste Herausforderung bei Kurkuma ist die Bioverfügbarkeit: Curcumin wird vom Darm schlecht aufgenommen und schnell von der Leber abgebaut. Doch die Natur bietet eine einfache Lösung: Schwarzer Pfeffer enthält Piperin, das die Aufnahme von Curcumin um das 20-fache steigern kann. Auch Fett verbessert die Aufnahme erheblich -- daher die traditionelle Zubereitung mit Öl oder Milch.
+Die größte Herausforderung bei Kurkuma ist die Bioverfügbarkeit: Curcumin wird vom Darm schlecht aufgenommen und schnell von der Leber abgebaut. Doch die Natur bietet eine einfache Lösung: Schwarzer Pfeffer enthält Piperin, das die Aufnahme von Curcumin um das 20-fache steigern kann. Auch Fett verbessert die Aufnahme erheblich -- daher die traditionelle Zubereitung mit Öl oder Milch.
 
 Die "Goldene Milch" (Kurkuma-Latte) ist die perfekte Verbindung von Genuss und Heilkraft: Kurkuma mit Milch, Pfeffer, Honig und Zimt -- ein wärmendes Getränk, das entzündungshemmend, immunstärkend und beruhigend zugleich wirkt.`,
     geschichte: `Kurkuma wird in Indien seit mindestens 4000 Jahren kultiviert. In der vedischen Kultur war es Symbol für Fruchtbarkeit und Wohlstand. Bräute werden bis heute mit Kurkumapaste eingerieben. Marco Polo beschrieb Kurkuma im 13. Jahrhundert als ein Gewürz, das "alle Eigenschaften von Safran besitzt".
 
-In der traditionellen indischen Medizin (Ayurveda) ist Kurkuma eines der am häufigsten verwendeten Kräuter -- es findet sich in fast jedem ayurvedischen Rezept. In Südostasien wird es als "Gewürz des Lebens" bezeichnet. Die moderne Forschung bestätigt seit den 1990er Jahren zunehmend, was die traditionelle Medizin seit Jahrtausenden weiss.`,
+In der traditionellen indischen Medizin (Ayurveda) ist Kurkuma eines der am häufigsten verwendeten Kräuter -- es findet sich in fast jedem ayurvedischen Rezept. In Südostasien wird es als "Gewürz des Lebens" bezeichnet. Die moderne Forschung bestätigt seit den 1990er Jahren zunehmend, was die traditionelle Medizin seit Jahrtausenden weiß.`,
     wirkungen: {
       hauptwirkungen: ['Stark entzündungshemmend', 'Antioxidativ', 'Leberschützend', 'Verdauungsfördernd', 'Galleflussfördernd', 'Immunmodulierend', 'Schmerzlindernd', 'Krebshemmend (in Forschung)'],
       inhaltsstoffe: ['Curcumin', 'Demethoxycurcumin', 'Bisdemethoxycurcumin', 'Ätherisches Öl', 'Turmeron', 'Zingiberen', 'Vitamin C', 'Eisen', 'Kalium', 'Mangan', 'Vitamin B6', 'Ballaststoffe'],
@@ -529,7 +529,7 @@ In der traditionellen indischen Medizin (Ayurveda) ist Kurkuma eines der am häu
     zubereitungen: [
       {
         name: 'Goldene Milch',
-        anleitung: '1 TL Kurkumapulver (oder 2cm frische Wurzel, gerieben) mit 250ml Pflanzenmilch, einer Prise schwarzem Pfeffer, 1/2 TL Kokosöl, etwas Zimt und Honig in einem Topf erwärmen (nicht kochen). Warm geniessen.',
+        anleitung: '1 TL Kurkumapulver (oder 2cm frische Wurzel, gerieben) mit 250ml Pflanzenmilch, einer Prise schwarzem Pfeffer, 1/2 TL Kokosöl, etwas Zimt und Honig in einem Topf erwärmen (nicht kochen). Warm genießen.',
         wirkung: 'Entzündungshemmend, immunstärkend, beruhigend. Perfektes Abendgetränk.',
       },
       {
@@ -578,13 +578,13 @@ Im Krieg war Löwenzahnwurzel ein Kaffeeersatz. Die Russen entwickelten aus dem 
     ernte: {
       zeit: 'Blätter: März bis Mai (junge Blätter vor der Blüte). Blüten: April bis Mai. Wurzeln: Herbst (September-Oktober) oder zeitiges Frühjahr.',
       teile: 'Alle Teile nutzbar: Blätter, Blüten, Stängel, Wurzeln.',
-      tipps: 'Die jüngsten Blätter im Zentrum der Rosette sind am zartesten und am wenigsten bitter. Abseits von Strassen und ungespritzten Wiesen sammeln. Die Wurzeln sind im Herbst am inulinreichsten.',
+      tipps: 'Die jüngsten Blätter im Zentrum der Rosette sind am zartesten und am wenigsten bitter. Abseits von Straßen und ungespritzten Wiesen sammeln. Die Wurzeln sind im Herbst am inulinreichsten.',
       mond: 'Blätter bei zunehmendem Mond, Wurzeln bei abnehmendem Mond ernten.',
     },
     zubereitungen: [
       {
         name: 'Löwenzahn-Blatttee',
-        anleitung: '2 TL getrocknete oder eine Handvoll frische Blätter mit 250ml kochendem Wasser übergiessen. 10 Minuten ziehen lassen. 3 Tassen täglich als Frühjahrskur für 4-6 Wochen.',
+        anleitung: '2 TL getrocknete oder eine Handvoll frische Blätter mit 250ml kochendem Wasser übergießen. 10 Minuten ziehen lassen. 3 Tassen täglich als Frühjahrskur für 4-6 Wochen.',
         wirkung: 'Entwässernd, blutreinigend, stoffwechselanregend. Die klassische Frühjahrskur.',
       },
       {
@@ -606,7 +606,7 @@ Im Krieg war Löwenzahnwurzel ein Kaffeeersatz. Die Russen entwickelten aus dem 
     mischungen: ['Blutreinigungstee (mit Brennnessel und Birke)', 'Lebertee (mit Mariendistel und Artischocke)', 'Frühjahrskur (mit Bärlauch und Brennnessel)'],
     tcm: 'Löwenzahn (Pu Gong Ying) klärt Hitze und Toxine, besonders aus Leber und Magen. Er wird bei Abszessen und Mastitis eingesetzt.',
     ayurveda: 'Löwenzahn reduziert Pitta und Kapha, er reinigt das Blut und stärkt die Leber als Sitz von Ranjaka Pitta.',
-    volksmedizin: 'Der weisse Milchsaft der Stängel wurde direkt auf Warzen getupft -- mehrmals täglich über Wochen angewendet, sollen sie verschwinden. Löwenzahn-Kaffee aus gerösteter Wurzel war das Getränk der armen Leute.',
+    volksmedizin: 'Der weiße Milchsaft der Stängel wurde direkt auf Warzen getupft -- mehrmals täglich über Wochen angewendet, sollen sie verschwinden. Löwenzahn-Kaffee aus gerösteter Wurzel war das Getränk der armen Leute.',
     besonders_bei: ['leber', 'verdauung', 'niere', 'haut', 'allergie', 'rheuma', 'erschoepfung', 'bluthochdruck'],
   },
 
@@ -618,12 +618,12 @@ Im Krieg war Löwenzahnwurzel ein Kaffeeersatz. Die Russen entwickelten aus dem 
     familie: 'Korbblütler (Asteraceae)',
     beschreibung: `Die Schafgarbe trägt den Namen des griechischen Helden Achilles -- er soll die Wunden seiner Krieger mit diesem Kraut geheilt haben. Ihr lateinischer Name "millefolium" (tausendblättrig) beschreibt die fein zerteilten, federartigen Blätter, die wie grüne Spitze aussehen.
 
-Die Schafgarbe ist ein Meisterkraut der Frauenheilkunde. Sie reguliert die Menstruation, lindert Krämpfe und hilft bei zu starker oder zu schwacher Blutung gleichermassen -- eine seltene Fähigkeit unter den Heilpflanzen. Ihre zusammenziehende (adstringierende) Wirkung stillt Blutungen, während ihre krampflösende Seite verkrampfte Muskulatur entspannt.
+Die Schafgarbe ist ein Meisterkraut der Frauenheilkunde. Sie reguliert die Menstruation, lindert Krämpfe und hilft bei zu starker oder zu schwacher Blutung gleichermaßen -- eine seltene Fähigkeit unter den Heilpflanzen. Ihre zusammenziehende (adstringierende) Wirkung stillt Blutungen, während ihre krampflösende Seite verkrampfte Muskulatur entspannt.
 
 Gleichzeitig ist sie ein ausgezeichnetes Verdauungskraut. Die Bitterstoffe regen Magen, Galle und Bauchspeicheldrüse an. Wer vor dem Essen einen Schluck Schafgarbentee trinkt, bereitet den gesamten Verdauungstrakt optimal vor. Bei Magen-Darm-Krämpfen wirkt sie entkrampfend und beruhigend.
 
-Das ätherische Öl der Schafgarbe enthält Chamazulen -- den gleichen tiefblauen Wirkstoff wie die Kamille. Daher auch der Beiname "Bauernkamille". Äusserlich ist Schafgarbentee ein bewährtes Mittel bei schlecht heilenden Wunden und Hautentzündungen.`,
-    geschichte: `Achilles, der grösste Krieger der Griechen vor Troja, soll von dem Kentauren Chiron in der Heilkunde unterwiesen worden sein. Die Schafgarbe war seine wichtigste Medizin auf dem Schlachtfeld. Dioskurides nannte sie "Soldatenkraut" und "Wundkraut".
+Das ätherische Öl der Schafgarbe enthält Chamazulen -- den gleichen tiefblauen Wirkstoff wie die Kamille. Daher auch der Beiname "Bauernkamille". Äußerlich ist Schafgarbentee ein bewährtes Mittel bei schlecht heilenden Wunden und Hautentzündungen.`,
+    geschichte: `Achilles, der größte Krieger der Griechen vor Troja, soll von dem Kentauren Chiron in der Heilkunde unterwiesen worden sein. Die Schafgarbe war seine wichtigste Medizin auf dem Schlachtfeld. Dioskurides nannte sie "Soldatenkraut" und "Wundkraut".
 
 Hildegard von Bingen lobte die Schafgarbe bei Wunden und Fieber. Im I Ging, dem chinesischen Buch der Wandlungen, werden traditionell 50 Schafgarbenstängel zum Orakeln verwendet. In der Volksmedizin galt: "Schafgarbe im Leib tut wohl jedem Weib."`,
     wirkungen: {
@@ -633,13 +633,13 @@ Hildegard von Bingen lobte die Schafgarbe bei Wunden und Fieber. Im I Ging, dem 
     ernte: {
       zeit: 'Juni bis September, wenn die Pflanze in voller Blüte steht.',
       teile: 'Blühendes Kraut -- das obere Drittel der Pflanze abschneiden.',
-      tipps: 'An sonnigen Standorten wachsende Pflanzen haben den höchsten Gehalt an ätherischem Öl. In Sträussen kopfüber trocknen. Die Blütenfarbe kann von weiss bis rosa variieren.',
+      tipps: 'An sonnigen Standorten wachsende Pflanzen haben den höchsten Gehalt an ätherischem Öl. In Sträußen kopfüber trocknen. Die Blütenfarbe kann von weiß bis rosa variieren.',
       mond: 'Bei zunehmendem Mond an Blütentagen ernten.',
     },
     zubereitungen: [
       {
         name: 'Schafgarbentee',
-        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergiessen. 10-15 Minuten zugedeckt ziehen lassen. 2-3 Tassen täglich, bei Menstruationsbeschwerden ab einige Tage vor der Regel beginnen.',
+        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergießen. 10-15 Minuten zugedeckt ziehen lassen. 2-3 Tassen täglich, bei Menstruationsbeschwerden ab einige Tage vor der Regel beginnen.',
         wirkung: 'Lindert Menstruationskrämpfe, reguliert die Blutung, stärkt die Verdauung.',
       },
       {
@@ -650,7 +650,7 @@ Hildegard von Bingen lobte die Schafgarbe bei Wunden und Fieber. Im I Ging, dem 
       {
         name: 'Schafgarben-Tinktur',
         anleitung: 'Frisches blühendes Kraut zerkleinern, in ein Glas füllen und mit 40%igem Alkohol bedecken. 4 Wochen ziehen lassen. Abseihen. 3x täglich 20-30 Tropfen in Wasser.',
-        wirkung: 'Konzentrierte Wirkung bei Verdauungsbeschwerden, Krämpfen und zur Wundbehandlung (verdünnt äusserlich).',
+        wirkung: 'Konzentrierte Wirkung bei Verdauungsbeschwerden, Krämpfen und zur Wundbehandlung (verdünnt äußerlich).',
       },
       {
         name: 'Schafgarben-Presssaft',
@@ -678,7 +678,7 @@ Seine langen, spitzen Blätter enthalten Schleimstoffe, die sich wie ein Schutzf
 Bei Insektenstichen ist er die schnellste Erste Hilfe in der Natur: Ein Blatt zerreiben und auf den Stich pressen -- der Juckreiz und die Schwellung lassen rasch nach. Das funktioniert auch bei kleinen Wunden, Brennnesselstichen und Kratzern.
 
 Der Spitzwegerich wurde 2014 zur "Arzneipflanze des Jahres" gewählt -- eine verdiente Auszeichnung für einen bescheidenen Helfer, der keine Apotheke braucht und an jeder Ecke bereitsteht.`,
-    geschichte: `Die Germanen zählten den Wegerich zu den neun heiligen Kräutern. In der angelsächsischen Dichtung wird er als "Mutter der Kräuter" besungen. Die nordamerikanischen Ureinwohner nannten ihn "Fussabdruck des weissen Mannes", weil er überall dort auftauchte, wo Europäer hingegangen waren.
+    geschichte: `Die Germanen zählten den Wegerich zu den neun heiligen Kräutern. In der angelsächsischen Dichtung wird er als "Mutter der Kräuter" besungen. Die nordamerikanischen Ureinwohner nannten ihn "Fußabdruck des weißen Mannes", weil er überall dort auftauchte, wo Europäer hingegangen waren.
 
 Dioskurides empfahl ihn bei Wunden und Geschwüren. Im Mittelalter war er in keiner Kräuterapotheke wegzudenken. Pfarrer Kneipp lobte den Spitzwegerich als bestes Lungenkraut und setzte ihn bei hartnäckigem Husten ein.`,
     wirkungen: {
@@ -689,12 +689,12 @@ Dioskurides empfahl ihn bei Wunden und Geschwüren. Im Mittelalter war er in kei
       zeit: 'Mai bis September. Die Blätter können den ganzen Sommer über geerntet werden.',
       teile: 'Blätter -- die frischen, saftigen Blätter bevorzugen, keine welken oder verfärbten.',
       tipps: 'Am besten frisch verwenden für die Wundheilung. Zum Trocknen die Blätter einzeln auslegen, nicht übereinander stapeln. An Wegen sammeln, die nicht gespritzt werden.',
-      mond: 'Bei zunehmendem Mond für Tee und Sirup, bei Vollmond für äusserliche Anwendungen.',
+      mond: 'Bei zunehmendem Mond für Tee und Sirup, bei Vollmond für äußerliche Anwendungen.',
     },
     zubereitungen: [
       {
         name: 'Spitzwegerich-Hustentee',
-        anleitung: '2 TL getrocknete Blätter mit 250ml kochendem Wasser übergiessen, 10-15 Minuten zugedeckt ziehen lassen. Mit Honig süssen. 3-4 Tassen täglich bei Husten.',
+        anleitung: '2 TL getrocknete Blätter mit 250ml kochendem Wasser übergießen, 10-15 Minuten zugedeckt ziehen lassen. Mit Honig süßen. 3-4 Tassen täglich bei Husten.',
         wirkung: 'Beruhigt Reizhusten, löst Schleim, schützt die Schleimhäute der Atemwege.',
       },
       {
@@ -713,10 +713,10 @@ Dioskurides empfahl ihn bei Wunden und Geschwüren. Im Mittelalter war er in kei
         wirkung: 'Haltbares Hustenmittel für die Hausapotheke.',
       },
     ],
-    mischungen: ['Hustentee (mit Thymian und Süssholz)', 'Lungentee (mit Königskerze und Malve)', 'Wundtee (mit Ringelblume und Schafgarbe)'],
+    mischungen: ['Hustentee (mit Thymian und Süßholz)', 'Lungentee (mit Königskerze und Malve)', 'Wundtee (mit Ringelblume und Schafgarbe)'],
     tcm: 'Spitzwegerich (Che Qian Zi -- die Samen) klärt Hitze, fördert die Diurese und transformiert Schleim in der Lunge.',
     ayurveda: 'Spitzwegerich kühlt Pitta und löst Kapha in den Atemwegen. Er wirkt beruhigend auf gereizte Schleimhäute.',
-    volksmedizin: 'Wanderer legten Spitzwegerichblätter in ihre Schuhe gegen Blasen und wunde Füsse. Bei Ohrenschmerzen wurde der frische Presssaft ins Ohr geträufelt.',
+    volksmedizin: 'Wanderer legten Spitzwegerichblätter in ihre Schuhe gegen Blasen und wunde Füße. Bei Ohrenschmerzen wurde der frische Presssaft ins Ohr geträufelt.',
     besonders_bei: ['husten', 'bronchitis', 'erkaeltung', 'haut', 'wunden', 'insektenstiche', 'atemwege', 'entzuendung'],
   },
 
@@ -737,11 +737,11 @@ Achtung: Rohe Holunderbeeren und alle grünen Pflanzenteile enthalten Sambunigri
 
 Hippokrates nannte den Holunder seine "Hausapotheke". Im Mittelalter galt er als "Apotheke des kleinen Mannes" -- von der Wurzel bis zur Blüte war alles nutzbar. Pfarrer Kneipp sagte: "Es vergeht kein Tag, an dem ich nicht Holunder empfehle."`,
     wirkungen: {
-      hauptwirkungen: ['Schweisstreibend (Blüten)', 'Immunstärkend (Beeren)', 'Antiviral', 'Fiebersenkend', 'Schleimlösend', 'Entzündungshemmend', 'Antioxidativ', 'Leicht entwässernd'],
+      hauptwirkungen: ['Schweißtreibend (Blüten)', 'Immunstärkend (Beeren)', 'Antiviral', 'Fiebersenkend', 'Schleimlösend', 'Entzündungshemmend', 'Antioxidativ', 'Leicht entwässernd'],
       inhaltsstoffe: ['Flavonoide (Rutin, Quercetin)', 'Anthocyane (in Beeren)', 'Ätherisches Öl', 'Schleimstoffe', 'Gerbstoffe', 'Vitamin C', 'Vitamin A', 'Vitamin B6', 'Kalium', 'Sambunigrin (roh giftig)'],
     },
     ernte: {
-      zeit: 'Blüten: Juni bis Juli, wenn sie voll aufgeblüht sind und süss duften. Beeren: September bis Oktober, wenn sie vollreif und tiefschwarz sind.',
+      zeit: 'Blüten: Juni bis Juli, wenn sie voll aufgeblüht sind und süß duften. Beeren: September bis Oktober, wenn sie vollreif und tiefschwarz sind.',
       teile: 'Blüten (Dolden) und reife Beeren.',
       tipps: 'Blüten an trockenen, sonnigen Tagen ernten -- nicht waschen, nur Insekten abschütteln. Beeren mit der ganzen Dolde ernten und dann abstreifen. Immer kochen vor dem Verzehr!',
       mond: 'Blüten bei zunehmendem Mond ernten, Beeren bei Vollmond für höchsten Vitamingehalt.',
@@ -749,17 +749,17 @@ Hippokrates nannte den Holunder seine "Hausapotheke". Im Mittelalter galt er als
     zubereitungen: [
       {
         name: 'Holunderblütentee (Schwitzteee)',
-        anleitung: '2 TL getrocknete Holunderblüten mit 250ml kochendem Wasser übergiessen, 10 Minuten zugedeckt ziehen lassen. So heiss wie möglich trinken, ins Bett legen und zudecken.',
-        wirkung: 'Treibt den Schweiss bei fieberhaften Erkältungen. Am wirksamsten, wenn man sich danach warm einpackt.',
+        anleitung: '2 TL getrocknete Holunderblüten mit 250ml kochendem Wasser übergießen, 10 Minuten zugedeckt ziehen lassen. So heiß wie möglich trinken, ins Bett legen und zudecken.',
+        wirkung: 'Treibt den Schweiß bei fieberhaften Erkältungen. Am wirksamsten, wenn man sich danach warm einpackt.',
       },
       {
         name: 'Holunderbeerensaft',
-        anleitung: 'Reife Holunderbeeren von den Stielen streifen, mit wenig Wasser aufkochen und 20 Minuten köcheln lassen. Durch ein Tuch abseihen und mit Honig süssen. Im Kühlschrank aufbewahren.',
+        anleitung: 'Reife Holunderbeeren von den Stielen streifen, mit wenig Wasser aufkochen und 20 Minuten köcheln lassen. Durch ein Tuch abseihen und mit Honig süßen. Im Kühlschrank aufbewahren.',
         wirkung: 'Immunstärkend, antiviral, reich an Anthocyanen und Vitamin C. Ideal als täglicher Löffel in der Grippezeit.',
       },
       {
         name: 'Holunderblütensirup',
-        anleitung: '20 grosse Holunderblütendolden mit 1.5 Liter Wasser, 1.5kg Zucker und 3 aufgeschnittenen Zitronen ansetzen. 3 Tage zugedeckt stehen lassen, täglich umrühren. Abseihen und abfüllen.',
+        anleitung: '20 große Holunderblütendolden mit 1.5 Liter Wasser, 1.5kg Zucker und 3 aufgeschnittenen Zitronen ansetzen. 3 Tage zugedeckt stehen lassen, täglich umrühren. Abseihen und abfüllen.',
         wirkung: 'Erfrischender Sirup für Limonaden und Desserts, mit leicht immunstärkender Wirkung.',
       },
       {
@@ -768,10 +768,10 @@ Hippokrates nannte den Holunder seine "Hausapotheke". Im Mittelalter galt er als
         wirkung: 'Traditionelles Stärkungsmittel für den Winter, vereint die Kraft von Holunder, Honig und Essig.',
       },
     ],
-    mischungen: ['Erkältungstee (mit Lindenblüte und Mädesüss)', 'Schwitzteee (mit Lindenblüte und Kamille)', 'Immunstärkung (mit Hagebutte und Sanddorn)'],
+    mischungen: ['Erkältungstee (mit Lindenblüte und Mädesüß)', 'Schwitzteee (mit Lindenblüte und Kamille)', 'Immunstärkung (mit Hagebutte und Sanddorn)'],
     tcm: 'Holunderblüte befreit die Oberfläche von Wind-Hitze und fördert das Schwitzen. Die Beeren nähren das Yin und stärken das Blut.',
     ayurveda: 'Holunder reduziert Kapha in den Atemwegen und stärkt das Immunsystem. Die Blüten öffnen die Srotas (Körperkanäle).',
-    volksmedizin: 'Drei Sachen musst du im Vorrat haben: Holundersaft, Kamillentee und Honig -- dann bist du gewappnet für jeden Winter. So hiess es auf dem Land.',
+    volksmedizin: 'Drei Sachen musst du im Vorrat haben: Holundersaft, Kamillentee und Honig -- dann bist du gewappnet für jeden Winter. So hieß es auf dem Land.',
     besonders_bei: ['erkaeltung', 'fieber', 'immunschwaeche', 'grippe', 'husten', 'atemwege', 'allergie', 'entzuendung'],
   },
 
@@ -787,7 +787,7 @@ Ihre Heilkraft basiert auf einem Zusammenspiel verschiedener Wirkstoffe: Triterp
 
 Innerlich als Tee wirkt die Ringelblume auf die Schleimhäute des Verdauungstrakts -- sie hilft bei Magen- und Darmschleimhautentzündungen, bei Menstruationsbeschwerden und bei geschwollenen Lymphknoten. Die leicht krampflösende Wirkung macht sie auch bei Regelschmerzen nützlich.
 
-Im Garten ist die Ringelblume ein wahrer Segen: Sie verbessert den Boden, vertreibt Schädlinge und zeigt das Wetter an -- schliesst sie morgens ihre Blüten nicht, wird es regnen.`,
+Im Garten ist die Ringelblume ein wahrer Segen: Sie verbessert den Boden, vertreibt Schädlinge und zeigt das Wetter an -- schließt sie morgens ihre Blüten nicht, wird es regnen.`,
     geschichte: `Die Ringelblume wurde bereits in der Antike als Heilpflanze geschätzt. Im alten Indien war sie der Göttin Lakshmi geweiht. Im Mittelalter gehörte sie zu den Kräutern, die den Teufel vertreiben konnten -- wer Ringelblumen pflückte und dabei an einen bestimmten Menschen dachte, konnte sehen, ob dieser es gut mit einem meinte.
 
 Hildegard von Bingen nannte sie "Ringula" und empfahl sie bei Hautausschlägen. Im Amerikanischen Bürgerkrieg und im Ersten Weltkrieg wurden Ringelblumenblüten direkt in Wunden gelegt, um Infektionen zu verhindern und die Heilung zu beschleunigen.`,
@@ -809,12 +809,12 @@ Hildegard von Bingen nannte sie "Ringula" und empfahl sie bei Hautausschlägen. 
       },
       {
         name: 'Ringelblumentee',
-        anleitung: '2 TL getrocknete Blüten mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. Innerlich: 2-3 Tassen täglich. Äusserlich: als Kompresse auf Wunden oder als Gurgellösung.',
-        wirkung: 'Innerlich bei Magen-Darm-Entzündungen und Menstruationsbeschwerden. Äusserlich zur Wundreinigung.',
+        anleitung: '2 TL getrocknete Blüten mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. Innerlich: 2-3 Tassen täglich. Äußerlich: als Kompresse auf Wunden oder als Gurgellösung.',
+        wirkung: 'Innerlich bei Magen-Darm-Entzündungen und Menstruationsbeschwerden. Äußerlich zur Wundreinigung.',
       },
       {
         name: 'Ringelblumen-Tinktur',
-        anleitung: 'Frische Blüten in ein Glas füllen und mit 40%igem Alkohol bedecken. 3-4 Wochen ziehen lassen. Abseihen. Äusserlich verdünnt (1:3 mit Wasser) auf Wunden tupfen.',
+        anleitung: 'Frische Blüten in ein Glas füllen und mit 40%igem Alkohol bedecken. 3-4 Wochen ziehen lassen. Abseihen. Äußerlich verdünnt (1:3 mit Wasser) auf Wunden tupfen.',
         wirkung: 'Desinfizierend und wundheilend. Haltbares Hausmittel für die Wundversorgung.',
       },
       {
@@ -843,7 +843,7 @@ Die Melisse ist eine der wenigen Pflanzen, die gleichzeitig beruhigt und aufheit
 Besonders bekannt ist die Melisse für ihre antivirale Wirkung gegen Herpesviren. Melissenextrakt kann die Vermehrung von Herpes-simplex-Viren hemmen und die Heilung von Lippenbläschen beschleunigen. In Studien war eine Melissencreme wirksamer als Placebo und zeigte Ergebnisse, die mit antiviralen Medikamenten vergleichbar waren.
 
 Im "Klosterfrau Melissengeist", einem seit 1826 hergestellten Destillat, lebt die alte Klostertradition der Melissenverarbeitung weiter. Doch frischer Melissentee ist unübertroffen -- er vereint Genuss und Heilkraft wie kaum ein anderer Kräutertee.`,
-    geschichte: `Die Melisse war im antiken Griechenland dem Tempel der Diana geweiht. Arabische Ärzte des 10. Jahrhunderts priesen sie als "Herzkraut", das Traurigkeit vertreibt und das Herz fröhlich macht. Karl der Grosse ordnete den Anbau in allen Klostergärten an.
+    geschichte: `Die Melisse war im antiken Griechenland dem Tempel der Diana geweiht. Arabische Ärzte des 10. Jahrhunderts priesen sie als "Herzkraut", das Traurigkeit vertreibt und das Herz fröhlich macht. Karl der Große ordnete den Anbau in allen Klostergärten an.
 
 Paracelsus nannte die Melisse "Elixier des Lebens" und versprach, sie könne den Menschen vollständig verjüngen. Die Karmeliterinnen entwickelten im 17. Jahrhundert ihren berühmten "Karmelitergeist" -- ein Melissenspiritus, der gegen allerlei Leiden helfen sollte. Avicenna empfahl die Melisse als Mittel gegen "schwarze Melancholie".`,
     wirkungen: {
@@ -859,7 +859,7 @@ Paracelsus nannte die Melisse "Elixier des Lebens" und versprach, sie könne den
     zubereitungen: [
       {
         name: 'Melissentee',
-        anleitung: '2-3 TL frische oder 1-2 TL getrocknete Blätter mit 250ml kochendem Wasser übergiessen. Nur 5-8 Minuten zugedeckt ziehen lassen (sonst verliert er den feinen Duft). 2-3 Tassen täglich.',
+        anleitung: '2-3 TL frische oder 1-2 TL getrocknete Blätter mit 250ml kochendem Wasser übergießen. Nur 5-8 Minuten zugedeckt ziehen lassen (sonst verliert er den feinen Duft). 2-3 Tassen täglich.',
         wirkung: 'Beruhigt Nerven und Herz, hilft beim Einschlafen, fördert die Verdauung.',
       },
       {
@@ -895,10 +895,10 @@ Paracelsus nannte die Melisse "Elixier des Lebens" und versprach, sie könne den
 
 Der wichtigste Wirkstoffkomplex sind die Sesquiterpenlactone, allen voran Helenalin. Diese Substanzen hemmen Entzündungen auf mehreren Ebenen gleichzeitig und sind dabei effektiver als viele synthetische Entzündungshemmer. Arnika-Salbe oder -Gel ist das Mittel der Wahl bei stumpfen Verletzungen: Prellungen, Verstauchungen, Zerrungen, Blutergüssen und Schwellungen.
 
-Wichtig: Arnika ist ausschliesslich für die äusserliche Anwendung auf unverletzter Haut bestimmt. Innerlich eingenommen ist sie giftig, und auf offenen Wunden kann sie Reizungen verursachen. In homöopathischer Verdünnung (Arnica C30) wird sie jedoch häufig innerlich bei Schock und Verletzungen eingesetzt.
+Wichtig: Arnika ist ausschließlich für die äußerliche Anwendung auf unverletzter Haut bestimmt. Innerlich eingenommen ist sie giftig, und auf offenen Wunden kann sie Reizungen verursachen. In homöopathischer Verdünnung (Arnica C30) wird sie jedoch häufig innerlich bei Schock und Verletzungen eingesetzt.
 
 Arnika steht unter Naturschutz und darf in vielen Regionen nicht mehr gesammelt werden. Für die Herstellung von Arnika-Präparaten wird sie heute kultiviert. Ihr wilder Bestand geht leider durch Überdüngung und intensive Landwirtschaft zurück -- ein Grund mehr, die verbliebenen Standorte zu schützen.`,
-    geschichte: `Arnika war das Geheimmittel der Bergbauern und Senner. In den Alpen hiess sie "Bergwohlverleih" -- sie verlieh Wohlbefinden nach schwerer Arbeit. Die erste schriftliche Erwähnung als Heilpflanze stammt aus dem 14. Jahrhundert. Goethe soll sich in hohem Alter regelmässig Arnikatee zubereitet haben -- gegen seine Herzprobleme.
+    geschichte: `Arnika war das Geheimmittel der Bergbauern und Senner. In den Alpen hieß sie "Bergwohlverleih" -- sie verlieh Wohlbefinden nach schwerer Arbeit. Die erste schriftliche Erwähnung als Heilpflanze stammt aus dem 14. Jahrhundert. Goethe soll sich in hohem Alter regelmäßig Arnikatee zubereitet haben -- gegen seine Herzprobleme.
 
 Hildegard von Bingen erwähnte die Arnika als "Wolfsblume". In der Volksmedizin wurde sie "Fallkraut" und "Stichkraut" genannt -- Hinweise auf ihre Hauptanwendung bei Verletzungen. Im 18. Jahrhundert wurde sie von Ärzten als "Panacea lapsorum" (Allheilmittel bei Stürzen) gepriesen.`,
     wirkungen: {
@@ -913,7 +913,7 @@ Hildegard von Bingen erwähnte die Arnika als "Wolfsblume". In der Volksmedizin 
     },
     zubereitungen: [
       {
-        name: 'Arnika-Tinktur (äusserlich)',
+        name: 'Arnika-Tinktur (äußerlich)',
         anleitung: 'Frische Arnikablüten in ein Glas füllen und mit 40-50%igem Alkohol bedecken. 3-4 Wochen an einem dunklen Ort ziehen lassen. Abseihen. Zum Gebrauch 1:3 mit Wasser verdünnen und als Umschlag auf Prellungen und Verstauchungen auflegen.',
         wirkung: 'Wirkt abschwellend, schmerzlindernd und beschleunigt die Heilung bei stumpfen Verletzungen.',
       },
@@ -930,7 +930,7 @@ Hildegard von Bingen erwähnte die Arnika als "Wolfsblume". In der Volksmedizin 
     ],
     mischungen: ['Sportgel (mit Beinwell und Rosmarin)', 'Schmerzsalbe (mit Johanniskraut und Teufelskralle)', 'Rheumaöl (mit Wacholder und Wintergrün)'],
     tcm: 'Arnika bewegt das Blut, löst Blut-Stase und lindert Schmerzen bei Traumata -- sie wird bei akuten Verletzungen des Qi und Blutes eingesetzt.',
-    ayurveda: 'Arnika reduziert lokales Pitta und bewegt stagnierendes Blut (Rakta), sie wird äusserlich bei Entzündungen und Schwellungen angewendet.',
+    ayurveda: 'Arnika reduziert lokales Pitta und bewegt stagnierendes Blut (Rakta), sie wird äußerlich bei Entzündungen und Schwellungen angewendet.',
     volksmedizin: 'Die Bergbauern legten Arnikablüten in Schnaps und hatten so immer eine "Wundtinktur" parat. Ein Arnikawickel um das verstauchte Gelenk war das Erste-Hilfe-Mittel der Alm.',
     besonders_bei: ['schmerzen', 'arthrose', 'rheuma', 'rueckenschmerzen', 'sport', 'entzuendung', 'wunden', 'bluterguss'],
   },
@@ -938,21 +938,21 @@ Hildegard von Bingen erwähnte die Arnika als "Wolfsblume". In der Volksmedizin 
   // ═══════════════════════════════════════════════════════════════════════════
   // 18. WEISSDORN
   // ═══════════════════════════════════════════════════════════════════════════
-  'Weissdorn': {
-    vollname: 'Zweigriffeliger Weissdorn (Crataegus laevigata)',
+  'Weißdorn': {
+    vollname: 'Zweigriffeliger Weißdorn (Crataegus lävigata)',
     familie: 'Rosengewächse (Rosaceae)',
-    beschreibung: `Der Weissdorn ist die Herzpflanze schlechthin -- kein anderes pflanzliches Mittel stärkt das Herz so sanft und so nachhaltig wie er. Seine weissen Blüten im Mai und seine roten Beeren im Herbst sind wie Geschenke an das menschliche Herz. Die Wirksamkeit bei Herzinsuffizienz (Herzschwäche) ist durch zahlreiche klinische Studien belegt und von der Europäischen Arzneimittelagentur anerkannt.
+    beschreibung: `Der Weißdorn ist die Herzpflanze schlechthin -- kein anderes pflanzliches Mittel stärkt das Herz so sanft und so nachhaltig wie er. Seine weißen Blüten im Mai und seine roten Beeren im Herbst sind wie Geschenke an das menschliche Herz. Die Wirksamkeit bei Herzinsuffizienz (Herzschwäche) ist durch zahlreiche klinische Studien belegt und von der Europäischen Arzneimittelagentur anerkannt.
 
-Die Wirkstoffe des Weissdorns -- Procyanidine, Flavonoide und Crataegussäure -- verbessern die Durchblutung der Herzkranzgefässe, stärken die Kontraktionskraft des Herzmuskels und regulieren den Herzrhythmus. Anders als viele Herzmedikamente hat Weissdorn praktisch keine Nebenwirkungen und kann langfristig eingenommen werden.
+Die Wirkstoffe des Weißdorns -- Procyanidine, Flavonoide und Crataegussäure -- verbessern die Durchblutung der Herzkranzgefäße, stärken die Kontraktionskraft des Herzmuskels und regulieren den Herzrhythmus. Anders als viele Herzmedikamente hat Weißdorn praktisch keine Nebenwirkungen und kann langfristig eingenommen werden.
 
-Die Wirkung des Weissdorns entfaltet sich langsam -- über Wochen und Monate regelmässiger Einnahme. Er ist kein Notfallmittel, sondern ein treuer Begleiter, der das Herz Tag für Tag ein wenig stärker macht. Besonders wertvoll ist er bei altersbedingter Herzschwäche, Altersherz, leichten Herzrhythmusstörungen und nervösen Herzbeschwerden.
+Die Wirkung des Weißdorns entfaltet sich langsam -- über Wochen und Monate regelmäßiger Einnahme. Er ist kein Notfallmittel, sondern ein treuer Begleiter, der das Herz Tag für Tag ein wenig stärker macht. Besonders wertvoll ist er bei altersbedingter Herzschwäche, Altersherz, leichten Herzrhythmusstörungen und nervösen Herzbeschwerden.
 
-Auch emotional ist der Weissdorn eine Herzpflanze: Er hilft bei Kummer, Trauer und gebrochenem Herzen. In der Naturheilkunde wird er bei Menschen eingesetzt, die "herzlosen" Stress erleben -- wenn die Seele das Herz belastet.`,
-    geschichte: `Der Weissdorn ist ein uralter Schutzbaum. In der keltischen Mythologie galt er als Tor zur Anderswelt und war den Feen heilig. Man durfte einen Weissdorn nie fällen, ohne Unglück zu riskieren. Dornröschen soll in einem Weissdornbusch geschlafen haben.
+Auch emotional ist der Weißdorn eine Herzpflanze: Er hilft bei Kummer, Trauer und gebrochenem Herzen. In der Naturheilkunde wird er bei Menschen eingesetzt, die "herzlosen" Stress erleben -- wenn die Seele das Herz belastet.`,
+    geschichte: `Der Weißdorn ist ein uralter Schutzbaum. In der keltischen Mythologie galt er als Tor zur Anderswelt und war den Feen heilig. Man durfte einen Weißdorn nie fällen, ohne Unglück zu riskieren. Dornröschen soll in einem Weissdornbusch geschlafen haben.
 
-In der christlichen Tradition war der Weissdorn mit der Dornenkrone Christi verbunden. Pfarrer Kneipp entdeckte den Weissdorn im 19. Jahrhundert als Herzmittel wieder und machte ihn in der Naturheilkunde populär. Seit den 1990er Jahren ist seine Wirksamkeit durch grosse klinische Studien bestätigt.`,
+In der christlichen Tradition war der Weißdorn mit der Dornenkrone Christi verbunden. Pfarrer Kneipp entdeckte den Weißdorn im 19. Jahrhundert als Herzmittel wieder und machte ihn in der Naturheilkunde populär. Seit den 1990er Jahren ist seine Wirksamkeit durch große klinische Studien bestätigt.`,
     wirkungen: {
-      hauptwirkungen: ['Herzstärkend', 'Durchblutungsfördernd (Koronargefässe)', 'Herzrhythmus-regulierend', 'Blutdruckregulierend', 'Beruhigend auf das Herznerven-System', 'Antioxidativ', 'Gefässschützend', 'Leistungssteigernd (Herz)'],
+      hauptwirkungen: ['Herzstärkend', 'Durchblutungsfördernd (Koronargefässe)', 'Herzrhythmus-regulierend', 'Blutdruckregulierend', 'Beruhigend auf das Herznerven-System', 'Antioxidativ', 'Gefäßschützend', 'Leistungssteigernd (Herz)'],
       inhaltsstoffe: ['Procyanidine (OPC)', 'Flavonoide (Vitexin, Hyperosid)', 'Crataegussäure', 'Triterpensäuren', 'Phenolcarbonsäuren', 'Amine', 'Vitamin C (in den Beeren)', 'Gerbstoffe', 'Ätherisches Öl', 'Pektin'],
     },
     ernte: {
@@ -964,24 +964,24 @@ In der christlichen Tradition war der Weissdorn mit der Dornenkrone Christi verb
     zubereitungen: [
       {
         name: 'Weissdorntee',
-        anleitung: '2 TL getrocknete Blüten und Blätter (oder zerkleinerte Beeren) mit 250ml kochendem Wasser übergiessen. 15-20 Minuten zugedeckt ziehen lassen. 2-3 Tassen täglich über mindestens 6-8 Wochen trinken.',
+        anleitung: '2 TL getrocknete Blüten und Blätter (oder zerkleinerte Beeren) mit 250ml kochendem Wasser übergießen. 15-20 Minuten zugedeckt ziehen lassen. 2-3 Tassen täglich über mindestens 6-8 Wochen trinken.',
         wirkung: 'Stärkt das Herz bei leichter Herzinsuffizienz, Altersherz und nervösen Herzbeschwerden. Langzeiteinnahme empfohlen.',
       },
       {
-        name: 'Weissdorn-Tinktur',
+        name: 'Weißdorn-Tinktur',
         anleitung: 'Frische Blüten und Blätter (oder zerkleinerte Beeren) mit 40%igem Alkohol ansetzen. 4-6 Wochen ziehen lassen. 3x täglich 20-30 Tropfen in Wasser einnehmen.',
         wirkung: 'Konzentrierte Herzstärkung. Gut geeignet für die tägliche Einnahme über längere Zeit.',
       },
       {
-        name: 'Weissdorn-Beeren-Mus',
-        anleitung: 'Reife Weissdornbeeren mit wenig Wasser weich kochen, durch ein Sieb streichen. Mit Honig nach Geschmack süssen. Täglich 1-2 EL einnehmen.',
+        name: 'Weißdorn-Beeren-Mus',
+        anleitung: 'Reife Weissdornbeeren mit wenig Wasser weich kochen, durch ein Sieb streichen. Mit Honig nach Geschmack süßen. Täglich 1-2 EL einnehmen.',
         wirkung: 'Sanftes Herztonikum, besonders reich an Vitamin C und Flavonoiden.',
       },
     ],
     mischungen: ['Herztee (mit Melisse und Herzgespann)', 'Kreislauftee (mit Rosmarin und Mistel)', 'Beruhigungstee (mit Baldrian und Lavendel)'],
-    tcm: 'Weissdorn (Shan Zha) bewegt das Blut im Herzen, löst Nahrungsstagnation und stärkt die Milz.',
-    ayurveda: 'Weissdorn stärkt das Herz-Prana und beruhigt Sadhaka Pitta -- das Pitta des Herzens, das Emotionen verarbeitet.',
-    volksmedizin: 'Die alten Bauern sagten: "Der Weissdorn schützt das Herz wie seine Dornen die Hecke." Weissdornhecken um Haus und Hof galten als Schutz gegen alles Böse.',
+    tcm: 'Weißdorn (Shan Zha) bewegt das Blut im Herzen, löst Nahrungsstagnation und stärkt die Milz.',
+    ayurveda: 'Weißdorn stärkt das Herz-Prana und beruhigt Sadhaka Pitta -- das Pitta des Herzens, das Emotionen verarbeitet.',
+    volksmedizin: 'Die alten Bauern sagten: "Der Weißdorn schützt das Herz wie seine Dornen die Hecke." Weissdornhecken um Haus und Hof galten als Schutz gegen alles Böse.',
     besonders_bei: ['herz', 'bluthochdruck', 'angst', 'erschoepfung', 'schlafprobleme', 'wechseljahre', 'schwindel', 'durchblutung'],
   },
 
@@ -991,30 +991,30 @@ In der christlichen Tradition war der Weissdorn mit der Dornenkrone Christi verb
   'Mariendistel': {
     vollname: 'Mariendistel (Silybum marianum)',
     familie: 'Korbblütler (Asteraceae)',
-    beschreibung: `Die Mariendistel ist die mächtigste Leberheilpflanze der westlichen Welt. Ihr Wirkstoff Silymarin -- ein Komplex aus Silibinin, Silychristin und Silidianin -- schützt die Leberzellen vor Giftstoffen, fördert ihre Regeneration und regt die Neubildung gesunder Leberzellen an. Kein anderer Pflanzenwirkstoff kann das in diesem Ausmass.
+    beschreibung: `Die Mariendistel ist die mächtigste Leberheilpflanze der westlichen Welt. Ihr Wirkstoff Silymarin -- ein Komplex aus Silibinin, Silychristin und Silidianin -- schützt die Leberzellen vor Giftstoffen, fördert ihre Regeneration und regt die Neubildung gesunder Leberzellen an. Kein anderer Pflanzenwirkstoff kann das in diesem Ausmaß.
 
 Die Schutzwirkung ist so stark, dass Silymarin sogar als Gegenmittel bei Knollenblätterpilz-Vergiftung eingesetzt wird -- intravenös verabreicht, kann es die tödliche Leberzerstörung aufhalten. Diese extreme Wirksamkeit in einer Notfallsituation zeigt, welche Kraft in dieser stacheligen Pflanze steckt.
 
 Im Alltag schützt die Mariendistel die Leber vor den vielen Belastungen des modernen Lebens: Alkohol, Medikamente, Umweltgifte, Fehlernährung. Sie ist das Leberkraut für alle, die ihrer Leber etwas Gutes tun wollen -- zur Vorbeugung oder zur Unterstützung bei bestehenden Lebererkrankungen.
 
-Die Pflanze selbst ist eine stattliche Distel mit auffällig weiss marmorierten Blättern. Der Legende nach stammen die weissen Flecken von der Milch der Jungfrau Maria, die beim Stillen auf die Blätter tropfte -- daher der Name "Mariendistel".`,
-    geschichte: `Die weiss gefleckten Blätter gaben der Pflanze ihren Namen: Die Milch der Jungfrau Maria soll auf die Blätter getropft sein. Bereits Plinius der Ältere empfahl den Saft der Mariendistel, "gemischt mit Honig, zum Abführen der Galle". Hildegard von Bingen nannte sie "Vehedistel" und setzte sie bei "Stechen in der Seite" ein.
+Die Pflanze selbst ist eine stattliche Distel mit auffällig weiß marmorierten Blättern. Der Legende nach stammen die weißen Flecken von der Milch der Jungfrau Maria, die beim Stillen auf die Blätter tropfte -- daher der Name "Mariendistel".`,
+    geschichte: `Die weiß gefleckten Blätter gaben der Pflanze ihren Namen: Die Milch der Jungfrau Maria soll auf die Blätter getropft sein. Bereits Plinius der Ältere empfahl den Saft der Mariendistel, "gemischt mit Honig, zum Abführen der Galle". Hildegard von Bingen nannte sie "Vehedistel" und setzte sie bei "Stechen in der Seite" ein.
 
 Die moderne Erforschung begann in den 1960er Jahren an der Universität München. Seitdem ist Silymarin einer der am besten erforschten Pflanzenwirkstoffe weltweit, mit Hunderten von klinischen Studien, die seine leberschützende und leberregenerierende Wirkung belegen.`,
     wirkungen: {
       hauptwirkungen: ['Leberschützend (hepatoprotektiv)', 'Leberregenerierend', 'Entgiftend', 'Antioxidativ', 'Galleflussfördernd', 'Entzündungshemmend', 'Zellmembran-stabilisierend', 'Verdauungsfördernd'],
-      inhaltsstoffe: ['Silymarin (Silibinin, Silychristin, Silidianin)', 'Flavonoide', 'Ätherisches Öl', 'Bitterstoffe', 'Gerbstoffe', 'Vitamin E', 'Sterole', 'Schleimstoffe', 'Linolsäure', 'Eiweiss'],
+      inhaltsstoffe: ['Silymarin (Silibinin, Silychristin, Silidianin)', 'Flavonoide', 'Ätherisches Öl', 'Bitterstoffe', 'Gerbstoffe', 'Vitamin E', 'Sterole', 'Schleimstoffe', 'Linolsäure', 'Eiweiß'],
     },
     ernte: {
       zeit: 'August bis September, wenn die Blütenköpfe trocken werden und die Samen ausreifen.',
       teile: 'Samen (Früchte) -- hier steckt das wertvolle Silymarin.',
-      tipps: 'Die Samen aus den trockenen Blütenköpfen klopfen. Handschuhe tragen wegen der Stacheln. Samen vor dem Tee oder Pulverisieren mörsern, da die harte Schale das Silymarin einschliesst.',
+      tipps: 'Die Samen aus den trockenen Blütenköpfen klopfen. Handschuhe tragen wegen der Stacheln. Samen vor dem Tee oder Pulverisieren mörsern, da die harte Schale das Silymarin einschließt.',
       mond: 'Samen bei abnehmendem Mond ernten für maximalen Wirkstoffgehalt.',
     },
     zubereitungen: [
       {
         name: 'Mariendistel-Tee',
-        anleitung: '1 TL frisch gemörserte Mariendistelsamen mit 250ml kochendem Wasser übergiessen. 15-20 Minuten zugedeckt ziehen lassen. 3 Tassen täglich, 30 Minuten vor den Mahlzeiten.',
+        anleitung: '1 TL frisch gemörserte Mariendistelsamen mit 250ml kochendem Wasser übergießen. 15-20 Minuten zugedeckt ziehen lassen. 3 Tassen täglich, 30 Minuten vor den Mahlzeiten.',
         wirkung: 'Leberschutz und -regeneration, Galleflussförderung. Der Tee kann die Wirkung der Samen nur begrenzt extrahieren.',
       },
       {
@@ -1038,19 +1038,19 @@ Die moderne Erforschung begann in den 1960er Jahren an der Universität München
   // ═══════════════════════════════════════════════════════════════════════════
   // 20. BEIFUSS
   // ═══════════════════════════════════════════════════════════════════════════
-  'Beifuss': {
-    vollname: 'Gemeiner Beifuss (Artemisia vulgaris)',
+  'Beifuß': {
+    vollname: 'Gemeiner Beifuß (Artemisia vulgaris)',
     familie: 'Korbblütler (Asteraceae)',
-    beschreibung: `Der Beifuss ist eines der ältesten Heilkräuter der Menschheit und die "Mutter aller Kräuter" -- Artemisia, benannt nach der griechischen Göttin Artemis, der Beschützerin der Frauen. Sein deutscher Name kommt von "beifüssig" -- man legte ihn in die Schuhe, um auf langen Wanderungen die Füsse nicht wund zu laufen.
+    beschreibung: `Der Beifuß ist eines der ältesten Heilkräuter der Menschheit und die "Mutter aller Kräuter" -- Artemisia, benannt nach der griechischen Göttin Artemis, der Beschützerin der Frauen. Sein deutscher Name kommt von "beifüssig" -- man legte ihn in die Schuhe, um auf langen Wanderungen die Füße nicht wund zu laufen.
 
-Der Beifuss ist ein ausgezeichnetes Verdauungskraut. Seine Bitterstoffe regen den gesamten Verdauungstrakt an: Speichelfluss, Magensaft, Gallenfluss und Darmbewegung. Er macht schwere, fette Speisen bekömmlich -- daher sein traditioneller Einsatz beim Gänsebraten. Doch er kann viel mehr als das.
+Der Beifuß ist ein ausgezeichnetes Verdauungskraut. Seine Bitterstoffe regen den gesamten Verdauungstrakt an: Speichelfluss, Magensaft, Gallenfluss und Darmbewegung. Er macht schwere, fette Speisen bekömmlich -- daher sein traditioneller Einsatz beim Gänsebraten. Doch er kann viel mehr als das.
 
-In der Frauenheilkunde ist der Beifuss seit der Antike ein wichtiges Kraut: Er reguliert die Menstruation, wärmt den Unterleib und lindert Menstruationsschmerzen. In der TCM wird er als "Moxa-Kraut" verwendet -- getrockneter Beifuss wird zu Kegeln geformt und auf Akupunkturpunkten abgebrannt, um tiefe Wärme in den Körper zu bringen.
+In der Frauenheilkunde ist der Beifuß seit der Antike ein wichtiges Kraut: Er reguliert die Menstruation, wärmt den Unterleib und lindert Menstruationsschmerzen. In der TCM wird er als "Moxa-Kraut" verwendet -- getrockneter Beifuß wird zu Kegeln geformt und auf Akupunkturpunkten abgebrannt, um tiefe Wärme in den Körper zu bringen.
 
-Beifuss wächst überall -- an Strassenrändern, auf Brachflächen, an Bahndämmen. Er wird bis zu 2 Meter hoch und hat auf der Unterseite silbrig behaarte Blätter. Sein herber, aromatischer Duft ist unverwechselbar.`,
-    geschichte: `Beifuss war eines der neun heiligen Kräuter der Angelsachsen. Die Germanen weihten ihn der Sonnenwende und flochten Beifusskränze, die übers Feuer geworfen und dann aufbewahrt wurden. Am Gürtel getragen, schützte er vor Ermüdung und bösen Geistern.
+Beifuß wächst überall -- an Strassenrändern, auf Brachflächen, an Bahndämmen. Er wird bis zu 2 Meter hoch und hat auf der Unterseite silbrig behaarte Blätter. Sein herber, aromatischer Duft ist unverwechselbar.`,
+    geschichte: `Beifuß war eines der neun heiligen Kräuter der Angelsachsen. Die Germanen weihten ihn der Sonnenwende und flochten Beifußkränze, die übers Feuer geworfen und dann aufbewahrt wurden. Am Gürtel getragen, schützte er vor Ermüdung und bösen Geistern.
 
-In der chinesischen Medizin wird Beifuss seit über 3000 Jahren als Moxa-Kraut verwendet -- die Moxibustion ist eine der ältesten Heilmethoden Asiens. Im Mittelalter war Beifuss eines der wichtigsten Kräuter der Kräuterhexen und Hebammen.`,
+In der chinesischen Medizin wird Beifuß seit über 3000 Jahren als Moxa-Kraut verwendet -- die Moxibustion ist eine der ältesten Heilmethoden Asiens. Im Mittelalter war Beifuß eines der wichtigsten Kräuter der Kräuterhexen und Hebammen.`,
     wirkungen: {
       hauptwirkungen: ['Verdauungsfördernd (Bittermittel)', 'Menstruationsfördernd', 'Wärmend', 'Krampflösend', 'Galleflussfördernd', 'Appetitanregend', 'Wurmtreibend', 'Nervenstärkend'],
       inhaltsstoffe: ['Thujon', 'Cineol', 'Bitterstoffe (Absinthin)', 'Flavonoide', 'Gerbstoffe', 'Cumarine', 'Inulin', 'Ätherisches Öl', 'Carotinoide', 'Oxalate'],
@@ -1059,34 +1059,34 @@ In der chinesischen Medizin wird Beifuss seit über 3000 Jahren als Moxa-Kraut v
       zeit: 'Juli bis September, kurz vor der Blüte für höchsten Wirkstoffgehalt. Für Moxa: im August.',
       teile: 'Blühendes Kraut, obere Triebspitzen. Wurzeln im Herbst.',
       tipps: 'Die Blätter haben auf der Unterseite ein silbriges Filzhaar -- das ist das Erkennungsmerkmal. Nicht zu viel auf einmal trocknen, da er stark duftet.',
-      mond: 'Um die Sommersonnenwende (21. Juni) ist die Kraft des Beifusses am stärksten.',
+      mond: 'Um die Sommersonnenwende (21. Juni) ist die Kraft des Beifußes am stärksten.',
     },
     zubereitungen: [
       {
-        name: 'Beifusstee',
-        anleitung: '1 TL getrocknetes Kraut mit 250ml kochendem Wasser übergiessen. 5-8 Minuten ziehen lassen (nicht zu lange, wird sonst sehr bitter). 1-2 Tassen vor den Mahlzeiten.',
+        name: 'Beifußtee',
+        anleitung: '1 TL getrocknetes Kraut mit 250ml kochendem Wasser übergießen. 5-8 Minuten ziehen lassen (nicht zu lange, wird sonst sehr bitter). 1-2 Tassen vor den Mahlzeiten.',
         wirkung: 'Regt die Verdauung an, fördert den Gallenfluss, hilft bei Blähungen und Völlegefühl.',
       },
       {
-        name: 'Beifuss-Fussbad',
-        anleitung: 'Eine Handvoll Beifusskraut mit 2 Liter kochendem Wasser übergiessen. 15 Minuten ziehen lassen. Abkühlen auf angenehme Temperatur und die Füsse 15-20 Minuten baden.',
-        wirkung: 'Wärmt bei kalten Füssen, lindert Fussschmerzen und hilft gegen Ermüdung nach langem Stehen.',
+        name: 'Beifuß-Fußbad',
+        anleitung: 'Eine Handvoll Beifußkraut mit 2 Liter kochendem Wasser übergießen. 15 Minuten ziehen lassen. Abkühlen auf angenehme Temperatur und die Füße 15-20 Minuten baden.',
+        wirkung: 'Wärmt bei kalten Füßen, lindert Fußschmerzen und hilft gegen Ermüdung nach langem Stehen.',
       },
       {
-        name: 'Beifuss-Räucherung',
-        anleitung: 'Getrockneten Beifuss auf einer feuerfesten Schale oder einem Räucherstövchen anzünden und den Rauch durch den Raum ziehen lassen.',
+        name: 'Beifuß-Räucherung',
+        anleitung: 'Getrockneten Beifuß auf einer feuerfesten Schale oder einem Räucherstövchen anzünden und den Rauch durch den Raum ziehen lassen.',
         wirkung: 'Reinigt die Raumenergie, vertreibt nach altem Glauben negative Energien. Wird traditionell zur Sonnenwende geräuchert.',
       },
       {
-        name: 'Beifuss-Kissen (bei Menstruationsschmerzen)',
-        anleitung: 'Getrockneten Beifuss in ein kleines Stoffsäckchen füllen und erwärmen (auf der Heizung oder kurz im Backofen). Warm auf den Unterbauch legen.',
+        name: 'Beifuß-Kissen (bei Menstruationsschmerzen)',
+        anleitung: 'Getrockneten Beifuß in ein kleines Stoffsäckchen füllen und erwärmen (auf der Heizung oder kurz im Backofen). Warm auf den Unterbauch legen.',
         wirkung: 'Wärmt den Unterleib, lindert Krämpfe und fördert die Menstruation.',
       },
     ],
     mischungen: ['Verdauungstee (mit Wermut und Schafgarbe)', 'Frauentee (mit Frauenmantel und Schafgarbe)', 'Räuchermischung (mit Salbei und Wacholder)'],
-    tcm: 'Beifuss (Ai Ye) ist das wichtigste Moxa-Kraut der TCM. Er wärmt die Meridiane, vertreibt Kälte und Feuchtigkeit und stärkt das Yang.',
-    ayurveda: 'Beifuss reduziert Vata und Kapha durch seine wärmende Natur. Er stärkt Agni und vertreibt Ama.',
-    volksmedizin: 'An der Sommersonnenwende wurden Beifusskränze geflochten und übers Feuer geworfen -- wer hindurchsprang, war ein Jahr lang vor Krankheit geschützt. Der Beifussgürtel schützte Reisende vor Erschöpfung.',
+    tcm: 'Beifuß (Ai Ye) ist das wichtigste Moxa-Kraut der TCM. Er wärmt die Meridiane, vertreibt Kälte und Feuchtigkeit und stärkt das Yang.',
+    ayurveda: 'Beifuß reduziert Vata und Kapha durch seine wärmende Natur. Er stärkt Agni und vertreibt Ama.',
+    volksmedizin: 'An der Sommersonnenwende wurden Beifußkränze geflochten und übers Feuer geworfen -- wer hindurchsprang, war ein Jahr lang vor Krankheit geschützt. Der Beifußgürtel schützte Reisende vor Erschöpfung.',
     besonders_bei: ['verdauung', 'menstruation', 'blaehungen', 'erkaeltung', 'erschoepfung', 'reizdarm', 'parasiten', 'schmerzen'],
   },
 
@@ -1098,11 +1098,11 @@ In der chinesischen Medizin wird Beifuss seit über 3000 Jahren als Moxa-Kraut v
     familie: 'Korbblütler (Asteraceae)',
     beschreibung: `Wermut ist das bitterste Kraut Europas -- und gerade diese Bitterkeit macht ihn so wertvoll. "Bitter im Mund, dem Magen gesund" -- dieses Sprichwort könnte für den Wermut erfunden worden sein. Schon ein kleiner Schluck Wermuttee aktiviert über die Bitterrezeptoren der Zunge eine Kaskade an Verdauungsreaktionen: Speichelfluss, Magensaftsekretion, Gallenfluss und Darmperistaltik.
 
-Der Wermut ist der grosse Bruder des Beifusses -- beide gehören zur Gattung Artemisia. Doch der Wermut ist konzentrierter, stärker und fordernder. Sein Hauptbitterstoff Absinthin gehört zu den bittersten natürlichen Substanzen -- noch in einer Verdünnung von 1:70.000 schmeckbar.
+Der Wermut ist der große Bruder des Beifußes -- beide gehören zur Gattung Artemisia. Doch der Wermut ist konzentrierter, stärker und fordernder. Sein Hauptbitterstoff Absinthin gehört zu den bittersten natürlichen Substanzen -- noch in einer Verdünnung von 1:70.000 schmeckbar.
 
 In der Parasitologie spielt der Wermut eine wichtige Rolle: Er wirkt nachweislich gegen Darmparasiten und Würmer. In Kombination mit Gewürznelke und Walnussschalen bildet er die klassische "Parasitenkur" nach Dr. Hulda Clark. Auch bei Malaria ist ein Verwandter -- Artemisia annua -- das wirksamste pflanzliche Mittel.
 
-Wermut sollte nicht dauerhaft und nicht in hohen Dosen eingenommen werden, da das enthaltene Thujon in grösseren Mengen neurotoxisch wirken kann. Als kurweise angewendetes Bitterkraut ist er jedoch von unschätzbarem Wert.`,
+Wermut sollte nicht dauerhaft und nicht in hohen Dosen eingenommen werden, da das enthaltene Thujon in größeren Mengen neurotoxisch wirken kann. Als kurweise angewendetes Bitterkraut ist er jedoch von unschätzbarem Wert.`,
     geschichte: `Wermut war die Grundlage des berühmten Absinth -- des "grünen Feen"-Likörs, der im 19. Jahrhundert Künstler wie Van Gogh, Toulouse-Lautrec und Baudelaire inspirierte (und zuweilen in den Wahnsinn trieb). 1915 wurde Absinth in vielen Ländern verboten.
 
 Im alten Ägypten war Wermut ein geschätztes Heilmittel. In der Bibel ist er Symbol für Bitterkeit und Leid. Hildegard von Bingen empfahl ihn als "Meister aller Erschöpfung". Die alten Römer gaben den Siegern von Wagenrennen Wermut-Wein zu trinken -- die Bitterkeit des Erfolgs.`,
@@ -1113,13 +1113,13 @@ Im alten Ägypten war Wermut ein geschätztes Heilmittel. In der Bibel ist er Sy
     ernte: {
       zeit: 'Juli bis September, zu Beginn der Blüte.',
       teile: 'Blühendes Kraut, obere Triebspitzen.',
-      tipps: 'Der Geruch ist intensiv und herb. Nicht mit Beifuss verwechseln -- Wermut hat silbergraue Blätter und ist viel bitterer. In kleinen Mengen ernten, man braucht wenig.',
+      tipps: 'Der Geruch ist intensiv und herb. Nicht mit Beifuß verwechseln -- Wermut hat silbergraue Blätter und ist viel bitterer. In kleinen Mengen ernten, man braucht wenig.',
       mond: 'Bei zunehmendem Mond ernten für maximale Bitterstoffkonzentration.',
     },
     zubereitungen: [
       {
         name: 'Wermuttee',
-        anleitung: '1/2 TL getrocknetes Kraut (wirklich nur wenig!) mit 250ml kochendem Wasser übergiessen. Nur 3-5 Minuten ziehen lassen. Vor den Mahlzeiten in kleinen Schlucken trinken. Maximal 2 Wochen am Stück, dann Pause.',
+        anleitung: '1/2 TL getrocknetes Kraut (wirklich nur wenig!) mit 250ml kochendem Wasser übergießen. Nur 3-5 Minuten ziehen lassen. Vor den Mahlzeiten in kleinen Schlucken trinken. Maximal 2 Wochen am Stück, dann Pause.',
         wirkung: 'Regt den gesamten Verdauungstrakt an, hilft bei Appetitlosigkeit und Verdauungsschwäche.',
       },
       {
@@ -1133,10 +1133,10 @@ Im alten Ägypten war Wermut ein geschätztes Heilmittel. In der Bibel ist er Sy
         wirkung: 'Verdauungsfördernd und appetitanregend, traditionell auch bei Wurmbefall.',
       },
     ],
-    mischungen: ['Bittermischung (mit Enzian und Tausendgüldenkraut)', 'Verdauungstee (mit Beifuss und Schafgarbe)', 'Schwedenbitter (mit Enzian, Myrrhe, Angelika und weiteren)'],
+    mischungen: ['Bittermischung (mit Enzian und Tausendgüldenkraut)', 'Verdauungstee (mit Beifuß und Schafgarbe)', 'Schwedenbitter (mit Enzian, Myrrhe, Angelika und weiteren)'],
     tcm: 'Wermut trocknet Feuchtigkeit, klärt Hitze und tötet Parasiten. Er stärkt die Milz und den Magen.',
     ayurveda: 'Wermut ist eines der stärksten Kräuter zur Stärkung von Agni. Er verbrennt Ama (Schlacken) und reduziert Kapha massiv.',
-    volksmedizin: 'Im Volksmund hiess es: "Wermut macht alles gesund -- ausser das, was dem Glück im Weg steht." Er wurde auch als Mottenschutz in Schränke gelegt.',
+    volksmedizin: 'Im Volksmund hieß es: "Wermut macht alles gesund -- außer das, was dem Glück im Weg steht." Er wurde auch als Mottenschutz in Schränke gelegt.',
     besonders_bei: ['verdauung', 'parasiten', 'appetitlosigkeit', 'leber', 'blaehungen', 'erschoepfung', 'fieber', 'magen'],
   },
 
@@ -1146,13 +1146,13 @@ Im alten Ägypten war Wermut ein geschätztes Heilmittel. In der Bibel ist er Sy
   'Beinwell': {
     vollname: 'Echter Beinwell (Symphytum officinale)',
     familie: 'Raublattgewächse (Boraginaceae)',
-    beschreibung: `Der Beinwell heisst nicht zufällig so: "Bein" bedeutet Knochen, "well" heisst zusammenwachsen. Sein lateinischer Name "Symphytum" kommt vom griechischen "symphysis" -- Zusammenwachsen. Er ist die Pflanze für Knochen, Gelenke, Sehnen und Bänder. Kein anderes Kraut fördert die Knochenbildung und Geweberegeneration so wirkungsvoll.
+    beschreibung: `Der Beinwell heißt nicht zufällig so: "Bein" bedeutet Knochen, "well" heißt zusammenwachsen. Sein lateinischer Name "Symphytum" kommt vom griechischen "symphysis" -- Zusammenwachsen. Er ist die Pflanze für Knochen, Gelenke, Sehnen und Bänder. Kein anderes Kraut fördert die Knochenbildung und Geweberegeneration so wirkungsvoll.
 
 Sein Schlüsselwirkstoff ist Allantoin -- eine Substanz, die die Zellteilung und Zellneubildung beschleunigt. Allantoin findet sich heute in vielen Kosmetikprodukten, doch in der Beinwellwurzel ist es in seiner natürlichen Matrix eingebettet, zusammen mit Schleimstoffen, Gerbstoffen und Rosmarinsäure.
 
-Beinwell wird heute ausschliesslich äusserlich angewendet -- als Salbe, Umschlag oder Wickel bei Knochenbrüchen, Prellungen, Zerrungen, Gelenkschmerzen und Sehnenscheidenentzündungen. Die innerliche Anwendung wird nicht mehr empfohlen, da die enthaltenen Pyrrolizidinalkaloide in höheren Dosen leberschädigend wirken können.
+Beinwell wird heute ausschließlich äußerlich angewendet -- als Salbe, Umschlag oder Wickel bei Knochenbrüchen, Prellungen, Zerrungen, Gelenkschmerzen und Sehnenscheidenentzündungen. Die innerliche Anwendung wird nicht mehr empfohlen, da die enthaltenen Pyrrolizidinalkaloide in höheren Dosen leberschädigend wirken können.
 
-Äusserlich aufgetragen ist Beinwell ein kleines Wunder: Er beschleunigt die Heilung von Knochenbrüchen messbar, lindert Gelenkschmerzen bei Arthrose und regeneriert geschädigtes Gewebe. Studien zeigen, dass Beinwell-Salbe bei Verstauchungen des Sprunggelenks ebenso wirksam sein kann wie ein entzündungshemmendes Gel.`,
+Äußerlich aufgetragen ist Beinwell ein kleines Wunder: Er beschleunigt die Heilung von Knochenbrüchen messbar, lindert Gelenkschmerzen bei Arthrose und regeneriert geschädigtes Gewebe. Studien zeigen, dass Beinwell-Salbe bei Verstauchungen des Sprunggelenks ebenso wirksam sein kann wie ein entzündungshemmendes Gel.`,
     geschichte: `Beinwell wurde bereits in der Antike als "Wundkraut" und "Knochenheiler" geschätzt. Dioskurides empfahl ihn bei Knochenbrüchen und Wunden. Im Mittelalter war er das wichtigste Heilkraut der Knochensetzer und Bader.
 
 Pfarrer Kneipp lobte den Beinwell: "Für den Beinwell allein lohnt es sich, einen Garten zu haben." Im Ersten Weltkrieg wurden Beinwellumschläge bei Knochenbrüchen und Wunden der Soldaten angewendet. In Japan wird eine verwandte Art als Gemüse angebaut.`,
@@ -1162,8 +1162,8 @@ Pfarrer Kneipp lobte den Beinwell: "Für den Beinwell allein lohnt es sich, eine
     },
     ernte: {
       zeit: 'Wurzeln: Herbst (Oktober-November) oder Frühjahr (März-April). Blätter: Mai bis August.',
-      teile: 'Wurzeln (Hauptdroge) und Blätter -- nur für äusserliche Anwendung.',
-      tipps: 'Die Wurzeln sind schwarz-braun aussen und weiss und schleimig innen. Sie lassen sich schlecht trocknen -- am besten frisch verarbeiten oder in Scheiben geschnitten langsam trocknen.',
+      teile: 'Wurzeln (Hauptdroge) und Blätter -- nur für äußerliche Anwendung.',
+      tipps: 'Die Wurzeln sind schwarz-braun außen und weiß und schleimig innen. Sie lassen sich schlecht trocknen -- am besten frisch verarbeiten oder in Scheiben geschnitten langsam trocknen.',
       mond: 'Wurzeln bei abnehmendem Mond ernten, wenn die Kraft in der Wurzel konzentriert ist.',
     },
     zubereitungen: [
@@ -1174,7 +1174,7 @@ Pfarrer Kneipp lobte den Beinwell: "Für den Beinwell allein lohnt es sich, eine
       },
       {
         name: 'Beinwell-Umschlag',
-        anleitung: 'Frische Beinwellwurzel fein reiben oder getrocknete Wurzel mit heissem Wasser zu einem Brei anrühren. Auf ein Tuch streichen und auf die betroffene Stelle legen. Mit einem Verband fixieren. Über Nacht wirken lassen.',
+        anleitung: 'Frische Beinwellwurzel fein reiben oder getrocknete Wurzel mit heißem Wasser zu einem Brei anrühren. Auf ein Tuch streichen und auf die betroffene Stelle legen. Mit einem Verband fixieren. Über Nacht wirken lassen.',
         wirkung: 'Intensive Wirkung bei akuten Verletzungen, beschleunigt die Knochenbruchheilung messbar.',
       },
       {
@@ -1186,7 +1186,7 @@ Pfarrer Kneipp lobte den Beinwell: "Für den Beinwell allein lohnt es sich, eine
     mischungen: ['Gelenksalbe (mit Arnika und Rosmarin)', 'Sportsalbe (mit Arnika und Johanniskraut)', 'Rückensalbe (mit Teufelskralle und Beinwell)'],
     tcm: 'Beinwell stärkt die Knochen (Nieren-Essenz), nährt das Yin und fördert die Geweberegeneration.',
     ayurveda: 'Beinwell nährt Asthi Dhatu (Knochengewebe) und Majja Dhatu (Knochenmark) und reduziert Vata in den Gelenken.',
-    volksmedizin: 'Die Bauern sagten: "Beinwell heilt Bein und Knochen." Verletzte Tiere auf dem Hof wurden mit Beinwellumschlägen behandelt. Wanderer trugen Beinwellwurzel bei sich gegen Blasen an den Füssen.',
+    volksmedizin: 'Die Bauern sagten: "Beinwell heilt Bein und Knochen." Verletzte Tiere auf dem Hof wurden mit Beinwellumschlägen behandelt. Wanderer trugen Beinwellwurzel bei sich gegen Blasen an den Füßen.',
     besonders_bei: ['arthrose', 'rueckenschmerzen', 'schmerzen', 'rheuma', 'sport', 'wunden', 'knochen', 'entzuendung'],
   },
 
@@ -1198,17 +1198,17 @@ Pfarrer Kneipp lobte den Beinwell: "Für den Beinwell allein lohnt es sich, eine
     familie: 'Ginkgogewächse (Ginkgoaceae)',
     beschreibung: `Der Ginkgo ist ein lebendes Fossil -- er existiert seit über 250 Millionen Jahren nahezu unverändert und hat sogar die Dinosaurier überlebt. Ein einzelner Ginkgobaum in Hiroshima überlebte die Atombombe und trieb im nächsten Frühjahr wieder aus. Diese beispiellose Widerstandskraft spiegelt sich in seiner Heilkraft wider.
 
-Ginkgo-Extrakt ist das meisterforschte pflanzliche Mittel für das Gehirn. Die Wirkstoffe -- Ginkgolide, Bilobalid und Flavonoide -- verbessern die Durchblutung der feinsten Blutgefässe, besonders im Gehirn, in den Augen und in den Extremitäten. Sie schützen die Nervenzellen vor oxidativem Stress und verbessern die Signalübertragung zwischen den Neuronen.
+Ginkgo-Extrakt ist das meisterforschte pflanzliche Mittel für das Gehirn. Die Wirkstoffe -- Ginkgolide, Bilobalid und Flavonoide -- verbessern die Durchblutung der feinsten Blutgefäße, besonders im Gehirn, in den Augen und in den Extremitäten. Sie schützen die Nervenzellen vor oxidativem Stress und verbessern die Signalübertragung zwischen den Neuronen.
 
-Die Einsatzgebiete sind vielfältig: Konzentrationsstörungen, Gedächtnisprobleme, Schwindel, Tinnitus, Durchblutungsstörungen in den Beinen, kalte Hände und Füsse. Bei beginnender Demenz kann Ginkgo den geistigen Abbau verlangsamen -- je früher man beginnt, desto besser.
+Die Einsatzgebiete sind vielfältig: Konzentrationsstörungen, Gedächtnisprobleme, Schwindel, Tinnitus, Durchblutungsstörungen in den Beinen, kalte Hände und Füße. Bei beginnender Demenz kann Ginkgo den geistigen Abbau verlangsamen -- je früher man beginnt, desto besser.
 
 Wichtig: Ginkgo-Blätter sollten nicht einfach als Tee aufgebrüht werden, da die rohen Blätter Ginkgolsäuren enthalten, die allergisch wirken können. Standardisierte Extrakte, bei denen die Ginkgolsäuren entfernt wurden, sind sicherer und wirksamer.`,
     geschichte: `Der Ginkgo stammt aus China und ist dort seit Jahrtausenden heilig. Konfuzius soll unter einem Ginkgobaum gelehrt haben. In japanischen und chinesischen Tempeln stehen uralte Ginkgobäume als Symbol für Langlebigkeit und Beständigkeit.
 
 Goethe widmete dem Ginkgo ein berühmtes Gedicht über das zweigeteilte Blatt: "Ist es ein lebendig Wesen, das sich in sich selbst getrennt? Sind es zwei, die sich erlesen, dass man sie als eines kennt?" Der Ginkgo kam im 18. Jahrhundert nach Europa und ist heute einer der beliebtesten Stadtbäume.`,
     wirkungen: {
-      hauptwirkungen: ['Durchblutungsfördernd (besonders im Gehirn)', 'Gedächtnisverbessernd', 'Neuroprotektiv', 'Antioxidativ', 'Tinnitus-lindernd', 'Schwindellindernd', 'Konzentrationsfördernd', 'Gefässschützend'],
-      inhaltsstoffe: ['Ginkgolide A, B, C', 'Bilobalid', 'Flavonoide (Quercetin, Kaempferol)', 'Proanthocyanidine', 'Ginkgolsäuren (in rohen Blättern)', 'Terpenlactone', 'Biflavone', 'Sterole', 'Catechine'],
+      hauptwirkungen: ['Durchblutungsfördernd (besonders im Gehirn)', 'Gedächtnisverbessernd', 'Neuroprotektiv', 'Antioxidativ', 'Tinnitus-lindernd', 'Schwindellindernd', 'Konzentrationsfördernd', 'Gefäßschützend'],
+      inhaltsstoffe: ['Ginkgolide A, B, C', 'Bilobalid', 'Flavonoide (Quercetin, Kämpferol)', 'Proanthocyanidine', 'Ginkgolsäuren (in rohen Blättern)', 'Terpenlactone', 'Biflavone', 'Sterole', 'Catechine'],
     },
     ernte: {
       zeit: 'Blätter: September bis Oktober, wenn sie sich gelb färben (höchster Flavonoidgehalt).',
@@ -1224,7 +1224,7 @@ Goethe widmete dem Ginkgo ein berühmtes Gedicht über das zweigeteilte Blatt: "
       },
       {
         name: 'Ginkgo-Tee (mild)',
-        anleitung: '1 TL getrocknete Ginkgoblätter mit 250ml kochendem Wasser übergiessen. 5-7 Minuten ziehen lassen. 2 Tassen täglich. Weniger konzentriert als Extrakt, aber als milde Unterstützung geeignet.',
+        anleitung: '1 TL getrocknete Ginkgoblätter mit 250ml kochendem Wasser übergießen. 5-7 Minuten ziehen lassen. 2 Tassen täglich. Weniger konzentriert als Extrakt, aber als milde Unterstützung geeignet.',
         wirkung: 'Milde Förderung der Durchblutung und Konzentration.',
       },
       {
@@ -1233,7 +1233,7 @@ Goethe widmete dem Ginkgo ein berühmtes Gedicht über das zweigeteilte Blatt: "
         wirkung: 'Die wirksamste Form für Gedächtnis, Tinnitus, Schwindel und Durchblutungsstörungen.',
       },
     ],
-    mischungen: ['Konzentrationstee (mit Rosmarin und Pfefferminze)', 'Gedächtnistee (mit Rosenwurz und Brahmi)', 'Kreislauftee (mit Weissdorn und Mistel)'],
+    mischungen: ['Konzentrationstee (mit Rosmarin und Pfefferminze)', 'Gedächtnistee (mit Rosenwurz und Brahmi)', 'Kreislauftee (mit Weißdorn und Mistel)'],
     tcm: 'Ginkgo-Samen (Bai Guo) beruhigen die Lunge und stärken die Nieren-Essenz. Die Blätter bewegen das Blut und klären die Sinne.',
     ayurveda: 'Ginkgo stärkt Prana Vata (den Aspekt von Vata im Kopf), verbessert Dhi (Lernfähigkeit), Dhriti (Merkfähigkeit) und Smriti (Erinnerung).',
     volksmedizin: 'In China essen ältere Menschen traditionell Ginkgo-Nüsse (gekocht) für ein langes Leben und einen klaren Geist.',
@@ -1319,7 +1319,7 @@ In Tibet und der Mongolei galt die Rosenwurz als "goldene Wurzel" und war ein Ge
     zubereitungen: [
       {
         name: 'Rosenwurz-Tee',
-        anleitung: '1 TL getrocknete, zerkleinerte Rosenwurzwurzel mit 250ml kochendem Wasser übergiessen. 10-15 Minuten ziehen lassen. 1-2 Tassen am Morgen oder Vormittag trinken. Nicht am Abend.',
+        anleitung: '1 TL getrocknete, zerkleinerte Rosenwurzwurzel mit 250ml kochendem Wasser übergießen. 10-15 Minuten ziehen lassen. 1-2 Tassen am Morgen oder Vormittag trinken. Nicht am Abend.',
         wirkung: 'Belebend, konzentrationsfördernd, stimmungsaufhellend. Milder als Extrakt.',
       },
       {

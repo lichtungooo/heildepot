@@ -16,7 +16,7 @@ export const HERB_DEEP_13 = {
 Die Pappelknospen werden seit Jahrhunderten zu Salben verarbeitet, die bei Hämorrhoiden, Wunden, Verbrennungen und Gelenkschmerzen Anwendung finden. Die berühmte "Unguentum Populi" -- die Pappelsalbe -- war über Jahrhunderte in jeder Apotheke vorrätig. Auch innerlich als Tee wirken die Knospen fiebersenkend und schmerzlindernd, ähnlich der verwandten Weide.
 
 Die Rinde enthält ebenfalls Salicin -- den natürlichen Vorläufer der Acetylsalicylsäure -- und wird bei Fieber, Erkältungen und rheumatischen Beschwerden eingesetzt.`,
-    geschichte: `Bereits Hippokrates empfahl Pappelrinde bei Fieber und Schmerzen. Im alten Ägypten wurden Pappelknospen in Salben zur Wundbehandlung verarbeitet. Die mittelalterliche "Unguentum Populi" galt als Universalsalbe und wurde in den Klosterapotheken in grossen Mengen hergestellt.
+    geschichte: `Bereits Hippokrates empfahl Pappelrinde bei Fieber und Schmerzen. Im alten Ägypten wurden Pappelknospen in Salben zur Wundbehandlung verarbeitet. Die mittelalterliche "Unguentum Populi" galt als Universalsalbe und wurde in den Klosterapotheken in großen Mengen hergestellt.
 
 Hildegard von Bingen beschrieb die Pappel als Baum mit kühlender Kraft und setzte sie bei Hitze-Zuständen und Entzündungen ein. In der Volksmedizin galt die Pappel als der "Aspirin-Baum" -- sie war die milde Alternative zur Weide.`,
     wirkungen: {
@@ -27,7 +27,7 @@ Hildegard von Bingen beschrieb die Pappel als Baum mit kühlender Kraft und setz
       zeit: 'Knospen im späten Winter bis zeitigen Frühjahr (Februar bis März), bevor sie sich öffnen.',
       teile: 'Klebrige Blattknospen, junge Rinde.',
       tipps: 'Die Knospen sollten noch fest geschlossen und stark klebrig sein. Am besten nach einem milden Wintertag sammeln, wenn das Harz weich ist. Handschuhe tragen -- das Harz klebt hartnäckig.',
-      mond: 'Bei zunehmendem Mond ernten für äusserliche Anwendungen, bei abnehmendem Mond für innerliche Präparate.',
+      mond: 'Bei zunehmendem Mond ernten für äußerliche Anwendungen, bei abnehmendem Mond für innerliche Präparate.',
     },
     zubereitungen: [
       {
@@ -37,7 +37,7 @@ Hildegard von Bingen beschrieb die Pappel als Baum mit kühlender Kraft und setz
       },
       {
         name: 'Pappelknospen-Tee',
-        anleitung: '1 TL zerkleinerte Knospen mit 250ml kochendem Wasser übergiessen, 15 Minuten ziehen lassen. 2-3 Tassen täglich.',
+        anleitung: '1 TL zerkleinerte Knospen mit 250ml kochendem Wasser übergießen, 15 Minuten ziehen lassen. 2-3 Tassen täglich.',
         wirkung: 'Fiebersenkend, schmerzlindernd bei Erkältungen und Rheuma.',
       },
       {
@@ -61,14 +61,14 @@ Hildegard von Bingen beschrieb die Pappel als Baum mit kühlender Kraft und setz
     familie: 'Melonenbaumgewächse (Caricaceae)',
     beschreibung: `Die Papaya ist ein tropischer Baum mit hohlem Stamm, der ursprünglich aus Mittelamerika stammt und heute weltweit in warmen Regionen kultiviert wird. Ihre goldgelben Früchte sind nicht nur ein köstliches Obst, sondern ein kraftvolles Heilmittel -- vor allem dank des Enzyms Papain, das in unreifen Früchten und im Milchsaft des Baumes hochkonzentriert vorkommt.
 
-Papain ist ein Eiweiss-spaltendes Enzym mit bemerkenswerten entzündungshemmenden und verdauungsfördernden Eigenschaften. Es hilft bei Verdauungsschwäche, Blähungen und Völlegefühl, indem es die Aufspaltung von Proteinen unterstützt. Äusserlich angewandt löst Papain abgestorbenes Gewebe und fördert die Wundheilung.
+Papain ist ein Eiweiß-spaltendes Enzym mit bemerkenswerten entzündungshemmenden und verdauungsfördernden Eigenschaften. Es hilft bei Verdauungsschwäche, Blähungen und Völlegefühl, indem es die Aufspaltung von Proteinen unterstützt. Äußerlich angewandt löst Papain abgestorbenes Gewebe und fördert die Wundheilung.
 
-Auch die Blätter der Papaya haben grosse Bedeutung. In der traditionellen Medizin tropischer Länder wird Papayablättertee bei Dengue-Fieber eingesetzt, da er die Blutplättchenzahl erhöhen kann. Die Samen wirken antiparasitär und werden traditionell gegen Darmwürmer verwendet.`,
+Auch die Blätter der Papaya haben große Bedeutung. In der traditionellen Medizin tropischer Länder wird Papayablättertee bei Dengue-Fieber eingesetzt, da er die Blutplättchenzahl erhöhen kann. Die Samen wirken antiparasitär und werden traditionell gegen Darmwürmer verwendet.`,
     geschichte: `Die Maya und Azteken nannten die Papaya "Frucht der Engel" und nutzten sie als Verdauungshilfe und Wundheilmittel. Christoph Kolumbus berichtete, dass die Einheimischen nach üppigen Fleischmahlzeiten Papaya assen, um die Verdauung zu unterstützen.
 
 Im 18. Jahrhundert brachten spanische und portugiesische Seefahrer die Papaya nach Asien und Afrika. In der ayurvedischen Medizin Indiens wurde sie schnell als "Erandakarkati" bekannt und in das traditionelle Heilsystem integriert.`,
     wirkungen: {
-      hauptwirkungen: ['Verdauungsfördernd', 'Entzündungshemmend', 'Wundheilend', 'Antiparasitär', 'Immunstärkend', 'Eiweiss-spaltend'],
+      hauptwirkungen: ['Verdauungsfördernd', 'Entzündungshemmend', 'Wundheilend', 'Antiparasitär', 'Immunstärkend', 'Eiweiß-spaltend'],
       inhaltsstoffe: ['Papain', 'Chymopapain', 'Vitamin C', 'Vitamin A (Beta-Carotin)', 'Folsäure', 'Flavonoide', 'Carpain (Blätter)', 'Myrosin (Samen)'],
     },
     ernte: {
@@ -80,28 +80,28 @@ Im 18. Jahrhundert brachten spanische und portugiesische Seefahrer die Papaya na
     zubereitungen: [
       {
         name: 'Papayablätter-Tee',
-        anleitung: '2 TL getrocknete Papayablätter mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. 2 Tassen täglich. Schmeckt leicht bitter.',
+        anleitung: '2 TL getrocknete Papayablätter mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 2 Tassen täglich. Schmeckt leicht bitter.',
         wirkung: 'Verdauungsfördernd, immunstärkend, unterstützend bei Dengue-Fieber.',
       },
       {
         name: 'Papaya-Verdauungstrunk',
         anleitung: 'Ein Stück halbreife Papaya mit etwas Zitronensaft und Wasser pürieren. Vor den Mahlzeiten trinken.',
-        wirkung: 'Fördert die Eiweissverdauung, lindert Blähungen und Völlegefühl.',
+        wirkung: 'Fördert die Eiweißverdauung, lindert Blähungen und Völlegefühl.',
       },
       {
         name: 'Papayasamen-Kur (Antiparasitär)',
-        anleitung: 'Getrocknete Papayasamen im Mörser zerstossen. 1 TL morgens nüchtern mit Honig einnehmen. 7 Tage lang.',
+        anleitung: 'Getrocknete Papayasamen im Mörser zerstoßen. 1 TL morgens nüchtern mit Honig einnehmen. 7 Tage lang.',
         wirkung: 'Wirkt gegen Darmparasiten und Würmer.',
       },
       {
-        name: 'Papaya-Wundauflage (äusserlich)',
+        name: 'Papaya-Wundauflage (äußerlich)',
         anleitung: 'Fruchtfleisch einer halbreifen Papaya auf die Wunde auflegen und mit einem Tuch fixieren. 2x täglich wechseln.',
         wirkung: 'Löst abgestorbenes Gewebe, fördert die Wundreinigung und Heilung.',
       },
     ],
     mischungen: ['Verdauungstee (mit Fenchel und Ingwer)', 'Tropische Immunmischung (mit Moringa und Kurkuma)', 'Enzym-Smoothie (mit Ananas und frischer Papaya)'],
-    tcm: 'Die Papaya wirkt süss und neutral bis leicht warm. Sie stärkt die Mitte (Milz-Magen), löst Nahrungsstagnation und fördert die Verdauung. Die Samen vertreiben Parasiten.',
-    ayurveda: 'Als Erandakarkati bekannt. Süss und leicht erhitzend, sie stärkt Agni (Verdauungsfeuer), reduziert Kapha und Vata. Die unreife Frucht ist schärfer und medizinisch wirksamer.',
+    tcm: 'Die Papaya wirkt süß und neutral bis leicht warm. Sie stärkt die Mitte (Milz-Magen), löst Nahrungsstagnation und fördert die Verdauung. Die Samen vertreiben Parasiten.',
+    ayurveda: 'Als Erandakarkati bekannt. Süß und leicht erhitzend, sie stärkt Agni (Verdauungsfeuer), reduziert Kapha und Vata. Die unreife Frucht ist schärfer und medizinisch wirksamer.',
     volksmedizin: 'In der tropischen Volksmedizin ist die Papaya ein Allheilmittel. Der Milchsaft wird auf Warzen aufgetragen, die Blätter als Umschlag bei Schwellungen verwendet, die Samen gegen Würmer eingenommen und der Fruchtbrei als Gesichtsmaske bei unreiner Haut aufgelegt.',
     besonders_bei: ['verdauungsschwaeche', 'blaehungen', 'parasiten', 'wundheilung', 'immunschwaeche', 'eiweissunvertraeglichkeit'],
   },
@@ -114,7 +114,7 @@ Im 18. Jahrhundert brachten spanische und portugiesische Seefahrer die Papaya na
     familie: 'Nachtschattengewächse (Solanaceae)',
     beschreibung: `Paprika ist eine der vielseitigsten Heilpflanzen der Nachtschattengewächse. Während die milden Sorten als Gemüse geschätzt werden, sind es vor allem die schärferen Varianten mit ihrem Wirkstoff Capsaicin, die medizinisch bedeutsam sind. Capsaicin wirkt schmerzlindernd, durchblutungsfördernd und entzündungshemmend.
 
-Der milde Gemüsepaprika besticht durch seinen ausserordentlichen Vitamin-C-Gehalt -- er enthält mehr Vitamin C als Zitronen. Bereits eine halbe rote Paprikaschote deckt den Tagesbedarf eines Erwachsenen. Dazu kommen reichlich Carotinoide, die als Antioxidantien die Zellen schützen.
+Der milde Gemüsepaprika besticht durch seinen außerordentlichen Vitamin-C-Gehalt -- er enthält mehr Vitamin C als Zitronen. Bereits eine halbe rote Paprikaschote deckt den Tagesbedarf eines Erwachsenen. Dazu kommen reichlich Carotinoide, die als Antioxidantien die Zellen schützen.
 
 Capsaicin entfaltet seine Wirkung über die Schmerzrezeptoren der Haut. Es bindet an den TRPV1-Rezeptor und erzeugt zunächst ein Brennen, das nach wiederholter Anwendung einer Schmerzunempfindlichkeit weicht -- ein Prinzip, das in der modernen Schmerztherapie bei Nervenschmerzen, Arthrose und Muskelverspannungen genutzt wird.`,
     geschichte: `Paprika stammt aus Mittel- und Südamerika und wurde von den Maya und Azteken sowohl als Gewürz als auch als Heilpflanze kultiviert. Kolumbus brachte sie nach Europa, wo sie zunächst als Zierpflanze bewundert wurde.
@@ -128,11 +128,11 @@ Capsaicin entfaltet seine Wirkung über die Schmerzrezeptoren der Haut. Es binde
       zeit: 'Sommer bis Herbst, wenn die Früchte voll ausgereift und farbig sind.',
       teile: 'Früchte -- grüne sind unreif und weniger vitaminreich, rote sind voll ausgereift.',
       tipps: 'Rote Paprika haben den höchsten Vitamin-C-Gehalt. Für Capsaicin die schärferen Sorten wählen. An einem warmen, trockenen Tag ernten.',
-      mond: 'Bei zunehmendem Mond im Fruchtzeichen ernten für maximale Süsse und Vitamingehalt.',
+      mond: 'Bei zunehmendem Mond im Fruchtzeichen ernten für maximale Süße und Vitamingehalt.',
     },
     zubereitungen: [
       {
-        name: 'Capsaicin-Wärmesalbe (äusserlich)',
+        name: 'Capsaicin-Wärmesalbe (äußerlich)',
         anleitung: 'Eine Messerspitze Cayennepfeffer in 50ml Kokosöl einrühren. Dünn auf schmerzende Gelenke oder Muskeln auftragen. Nicht auf offene Wunden!',
         wirkung: 'Stark durchblutungsfördernd und schmerzlindernd bei Rheuma und Muskelverspannungen.',
       },
@@ -142,15 +142,15 @@ Capsaicin entfaltet seine Wirkung über die Schmerzrezeptoren der Haut. Es binde
         wirkung: 'Stärkt das Immunsystem, schützt die Zellen vor oxidativem Stress.',
       },
       {
-        name: 'Capsaicin-Tinktur (äusserlich)',
-        anleitung: '10g getrocknete scharfe Paprika in 100ml 70%igem Alkohol 2 Wochen ansetzen. Abseihen. Äusserlich als Einreibung verwenden.',
+        name: 'Capsaicin-Tinktur (äußerlich)',
+        anleitung: '10g getrocknete scharfe Paprika in 100ml 70%igem Alkohol 2 Wochen ansetzen. Abseihen. Äußerlich als Einreibung verwenden.',
         wirkung: 'Schmerzlindernd bei Nervenschmerzen und Gelenkbeschwerden.',
       },
     ],
     mischungen: ['Wärmende Einreibung (mit Ingwer und Rosmarin)', 'Immunstärkender Saft (mit Karotte und Orange)', 'Verdauungsgewürz (mit Kurkuma und schwarzem Pfeffer)'],
-    tcm: 'Capsicum ist heiss und scharf. Es vertreibt innere Kälte, belebt das Yang und bewegt stagniertes Blut. Wirkt auf Milz, Magen und Herz.',
-    ayurveda: 'Scharf und heiss, erhöht Pitta und reduziert Kapha und Vata. Capsaicin stärkt Agni und verbrennt Ama. In Massen ein kraftvolles Verdauungstonikum.',
-    volksmedizin: 'In der Volksmedizin wurde scharfer Paprika als Wärmepflaster auf schmerzende Rücken geklebt, als Gurgelmittel bei Halsschmerzen verdünnt und als Fusspulver gegen kalte Füsse in die Socken gestreut. Milder Paprika galt als tägliches Vitamintonikum.',
+    tcm: 'Capsicum ist heiß und scharf. Es vertreibt innere Kälte, belebt das Yang und bewegt stagniertes Blut. Wirkt auf Milz, Magen und Herz.',
+    ayurveda: 'Scharf und heiß, erhöht Pitta und reduziert Kapha und Vata. Capsaicin stärkt Agni und verbrennt Ama. In Massen ein kraftvolles Verdauungstonikum.',
+    volksmedizin: 'In der Volksmedizin wurde scharfer Paprika als Wärmepflaster auf schmerzende Rücken geklebt, als Gurgelmittel bei Halsschmerzen verdünnt und als Fußpulver gegen kalte Füße in die Socken gestreut. Milder Paprika galt als tägliches Vitamintonikum.',
     besonders_bei: ['gelenkschmerzen', 'muskelverspannungen', 'nervenschmerzen', 'immunschwaeche', 'durchblutungsstoerungen', 'erkaeltung'],
   },
 
@@ -160,12 +160,12 @@ Capsaicin entfaltet seine Wirkung über die Schmerzrezeptoren der Haut. Es binde
   'Pastinake': {
     vollname: 'Pastinake (Pastinaca sativa)',
     familie: 'Doldenblütler (Apiaceae)',
-    beschreibung: `Die Pastinake ist ein altes Wurzelgemüse, das vor der Einführung der Kartoffel zu den wichtigsten Nahrungspflanzen Europas gehörte. Ihre cremefarbene, aromatische Rübe schmeckt süsslich-nussig und ist eine wahre Nährstoffquelle. Reich an Kalium, Folsäure, Vitamin C und Ballaststoffen, unterstützt sie Verdauung, Herz und Nieren.
+    beschreibung: `Die Pastinake ist ein altes Wurzelgemüse, das vor der Einführung der Kartoffel zu den wichtigsten Nahrungspflanzen Europas gehörte. Ihre cremefarbene, aromatische Rübe schmeckt süßlich-nussig und ist eine wahre Nährstoffquelle. Reich an Kalium, Folsäure, Vitamin C und Ballaststoffen, unterstützt sie Verdauung, Herz und Nieren.
 
 Heilkundlich wird die Pastinake vor allem wegen ihrer harntreibenden und verdauungsfördernden Eigenschaften geschätzt. Die Wurzel enthält Furanocumarine, die in der Phytotherapie bei Hauterkrankungen wie Psoriasis eingesetzt werden -- allerdings machen dieselben Stoffe die Pflanze bei Hautkontakt und Sonnenlicht auch phototoxisch.
 
 Die Samen der Pastinake wirken krampflösend und blähungstreibend und wurden in der Volksmedizin bei Magen-Darm-Beschwerden und Menstruationsschmerzen eingesetzt. Die Wurzel ist zudem ein mildes Beruhigungsmittel und hilft bei Schlafstörungen.`,
-    geschichte: `Die Pastinake wurde bereits von den Römern kultiviert -- Kaiser Tiberius liess sie eigens aus dem Rheinland nach Rom liefern. Im Mittelalter war sie das wichtigste Wurzelgemüse Europas und wurde als "Pestnacke" auch gegen Fieberkrankheiten eingesetzt.
+    geschichte: `Die Pastinake wurde bereits von den Römern kultiviert -- Kaiser Tiberius ließ sie eigens aus dem Rheinland nach Rom liefern. Im Mittelalter war sie das wichtigste Wurzelgemüse Europas und wurde als "Pestnacke" auch gegen Fieberkrankheiten eingesetzt.
 
 Mit der Einführung der Kartoffel im 18. Jahrhundert geriet die Pastinake in Vergessenheit. Erst seit der Wiederentdeckung alter Gemüsesorten erlebt sie eine Renaissance. In England und Irland blieb sie als traditionelles Wintergemüse durchgehend beliebt.`,
     wirkungen: {
@@ -173,7 +173,7 @@ Mit der Einführung der Kartoffel im 18. Jahrhundert geriet die Pastinake in Ver
       inhaltsstoffe: ['Furanocumarine (Psoralen, Bergapten)', 'Kalium', 'Folsäure', 'Vitamin C', 'Ballaststoffe (Pektin, Inulin)', 'Ätherisches Öl', 'Falcarinol', 'Stärke'],
     },
     ernte: {
-      zeit: 'Wurzeln ab Oktober, am besten nach dem ersten Frost, da sie dann süsser werden.',
+      zeit: 'Wurzeln ab Oktober, am besten nach dem ersten Frost, da sie dann süßer werden.',
       teile: 'Wurzel, Samen (im Herbst des zweiten Jahres).',
       tipps: 'Pastinaken sind zweijährig -- im ersten Jahr bilden sie die Wurzel, im zweiten blühen sie und bilden Samen. Nach dem Frost steigt der Zuckergehalt deutlich an. Vorsicht beim Ernten des blühenden Krauts bei Sonnenschein -- Furanocumarine können Hautreizungen verursachen.',
       mond: 'Bei abnehmendem Mond in einem Wurzelzeichen ernten für optimale Lagerfähigkeit.',
@@ -186,18 +186,18 @@ Mit der Einführung der Kartoffel im 18. Jahrhundert geriet die Pastinake in Ver
       },
       {
         name: 'Pastinakensamen-Tee',
-        anleitung: '1 TL zerdrückte Pastinakensamen mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. 2 Tassen täglich.',
+        anleitung: '1 TL zerdrückte Pastinakensamen mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 2 Tassen täglich.',
         wirkung: 'Blähungstreibend, krampflösend, hilfreich bei Verdauungsbeschwerden.',
       },
       {
         name: 'Pastinaken-Sirup',
-        anleitung: 'Pastinakenwurzel raspeln, mit Honig schichten und 24 Stunden ziehen lassen. Den austretenden Saft abgiessen. 3x täglich 1 EL.',
+        anleitung: 'Pastinakenwurzel raspeln, mit Honig schichten und 24 Stunden ziehen lassen. Den austretenden Saft abgießen. 3x täglich 1 EL.',
         wirkung: 'Beruhigend, schlaffördernd und nährend bei Erschöpfung.',
       },
     ],
     mischungen: ['Wintergemüse-Heilsuppe (mit Karotte und Sellerie)', 'Verdauungstee (mit Fenchel und Kümmel)', 'Stärkende Kur (mit Hafer und Honig)'],
-    tcm: 'Süss und leicht warm. Stärkt Milz-Qi und nährt das Blut. Löst Feuchtigkeit und unterstützt die Verdauung. Besonders geeignet für Qi-Mangel mit Müdigkeit.',
-    ayurveda: 'Süss und wärmend, reduziert Vata und nährt die Gewebe (Dhatus). Stärkt Ojas und Agni gleichermassen. Ideal als Winternahrung für geschwächte Konstitutionen.',
+    tcm: 'Süß und leicht warm. Stärkt Milz-Qi und nährt das Blut. Löst Feuchtigkeit und unterstützt die Verdauung. Besonders geeignet für Qi-Mangel mit Müdigkeit.',
+    ayurveda: 'Süß und wärmend, reduziert Vata und nährt die Gewebe (Dhatus). Stärkt Ojas und Agni gleichermaßen. Ideal als Winternahrung für geschwächte Konstitutionen.',
     volksmedizin: 'Die Pastinake war im Mittelalter ein "Arme-Leute-Heilmittel". Sie wurde als Suppe bei Fieber gereicht, als Breiumschlag bei Schwellungen aufgelegt und die Samen als Tee bei Koliken getrunken. Stillende Mütter assen Pastinaken zur Milchbildung.',
     besonders_bei: ['verdauungsschwaeche', 'blaehungen', 'erschoepfung', 'schlaflosigkeit', 'harnwegsprobleme', 'naehrstoffmangel'],
   },
@@ -210,7 +210,7 @@ Mit der Einführung der Kartoffel im 18. Jahrhundert geriet die Pastinake in Ver
     familie: 'Pfeffergewächse (Piperaceae)',
     beschreibung: `Der Schwarze Pfeffer -- einst wertvoller als Gold -- ist nicht nur das meistverwendete Gewürz der Welt, sondern auch eine bedeutende Heilpflanze. Sein Hauptwirkstoff Piperin verleiht ihm die charakteristische Schärfe und besitzt bemerkenswerte medizinische Eigenschaften: Es steigert die Bioverfügbarkeit zahlreicher Wirkstoffe, regt die Verdauung an und wirkt entzündungshemmend.
 
-Die Pfefferpflanze ist eine tropische Kletterpflanze, deren Beeren in langen Rispen herabhängen. Je nach Erntezeitpunkt und Verarbeitung entstehen schwarzer, weisser oder grüner Pfeffer. Schwarzer Pfeffer wird unreif geerntet und fermentiert, was ihm den höchsten Piperingehalt verleiht.
+Die Pfefferpflanze ist eine tropische Kletterpflanze, deren Beeren in langen Rispen herabhängen. Je nach Erntezeitpunkt und Verarbeitung entstehen schwarzer, weißer oder grüner Pfeffer. Schwarzer Pfeffer wird unreif geerntet und fermentiert, was ihm den höchsten Piperingehalt verleiht.
 
 Besonders bemerkenswert ist die Fähigkeit von Piperin, die Aufnahme anderer Heilstoffe drastisch zu erhöhen. Curcumin aus Kurkuma wird durch Piperin um bis zu 2000% besser aufgenommen -- ein synergistischer Effekt, der in der modernen Phytotherapie gezielt genutzt wird.`,
     geschichte: `Pfeffer war das "schwarze Gold" des Mittelalters und trieb den Gewürzhandel an, der ganze Imperien formte. Venedig und Genua verdankten ihren Reichtum dem Pfefferhandel, und die Suche nach dem Seeweg nach Indien -- dem Pfefferland -- führte zur Entdeckung Amerikas.
@@ -221,7 +221,7 @@ In der ayurvedischen Medizin ist Pfeffer seit über 4000 Jahren ein zentrales He
       inhaltsstoffe: ['Piperin', 'Ätherisches Öl', 'Piperanin', 'Chavicin', 'Terpene (Limonen, Pinen)', 'Flavonoide', 'Vitamin K', 'Mangan'],
     },
     ernte: {
-      zeit: 'Beeren werden unreif (für schwarzen Pfeffer) oder reif (für weissen Pfeffer) geerntet.',
+      zeit: 'Beeren werden unreif (für schwarzen Pfeffer) oder reif (für weißen Pfeffer) geerntet.',
       teile: 'Früchte (Pfefferkörner) -- in unseren Breiten nur als Importware erhältlich.',
       tipps: 'Ganze Pfefferkörner kaufen und frisch mahlen -- so bleiben die ätherischen Öle erhalten. Hochwertiger Pfeffer duftet intensiv aromatisch und schmeckt komplex, nicht nur scharf.',
       mond: 'Traditionell keine spezifischen Empfehlungen, da Pfeffer in Anbauländern geerntet wird.',
@@ -234,7 +234,7 @@ In der ayurvedischen Medizin ist Pfeffer seit über 4000 Jahren ein zentrales He
       },
       {
         name: 'Goldene Milch mit Pfeffer',
-        anleitung: '1 TL Kurkuma und eine Prise frisch gemahlenen Pfeffer in 250ml warme Milch (oder Pflanzenmilch) einrühren. Mit Honig süssen.',
+        anleitung: '1 TL Kurkuma und eine Prise frisch gemahlenen Pfeffer in 250ml warme Milch (oder Pflanzenmilch) einrühren. Mit Honig süßen.',
         wirkung: 'Entzündungshemmend, immunstärkend. Der Pfeffer verstärkt die Curcumin-Aufnahme enorm.',
       },
       {
@@ -244,9 +244,9 @@ In der ayurvedischen Medizin ist Pfeffer seit über 4000 Jahren ein zentrales He
       },
     ],
     mischungen: ['Trikatu (mit Ingwer und Langem Pfeffer)', 'Kurkuma-Pfeffer-Kapsel (mit Curcuma)', 'Verdauungsgewürz (mit Kreuzkümmel und Koriander)'],
-    tcm: 'Pfeffer ist heiss und scharf. Er wärmt die Mitte, vertreibt Kälte-Nässe und regt das Yang an. Wirkt auf Magen, Dickdarm und Lunge.',
-    ayurveda: 'Marica (Pfeffer) ist scharf, heiss und leicht. Er entzündet Agni, verbrennt Ama und reduziert Kapha. Teil der legendären Trikatu-Formel. In Übermass erhöht er Pitta.',
-    volksmedizin: 'In der Volksmedizin wurde Pfeffer in warmer Milch bei Erkältungen getrunken, als Gurgelmittel bei Halsschmerzen verwendet und äusserlich in Pflastern bei Zahnschmerzen aufgelegt. Pfefferkörner im Mund kauen galt als Mittel gegen Übelkeit auf Seereisen.',
+    tcm: 'Pfeffer ist heiß und scharf. Er wärmt die Mitte, vertreibt Kälte-Nässe und regt das Yang an. Wirkt auf Magen, Dickdarm und Lunge.',
+    ayurveda: 'Marica (Pfeffer) ist scharf, heiß und leicht. Er entzündet Agni, verbrennt Ama und reduziert Kapha. Teil der legendären Trikatu-Formel. In Übermaß erhöht er Pitta.',
+    volksmedizin: 'In der Volksmedizin wurde Pfeffer in warmer Milch bei Erkältungen getrunken, als Gurgelmittel bei Halsschmerzen verwendet und äußerlich in Pflastern bei Zahnschmerzen aufgelegt. Pfefferkörner im Mund kauen galt als Mittel gegen Übelkeit auf Seereisen.',
     besonders_bei: ['verdauungsschwaeche', 'erkaeltung', 'schleim', 'stoffwechseltraegheit', 'naehrstoffaufnahme', 'appetitlosigkeit'],
   },
 
@@ -256,7 +256,7 @@ In der ayurvedischen Medizin ist Pfeffer seit über 4000 Jahren ein zentrales He
   'Pfingstrose': {
     vollname: 'Gemeine Pfingstrose (Paeonia officinalis)',
     familie: 'Pfingstrosengewächse (Paeoniaceae)',
-    beschreibung: `Die Pfingstrose ist eine der ältesten Heilpflanzen der Menschheit -- ihr Name leitet sich von Paion ab, dem Heilgott der griechischen Mythologie. Ihre prächtigen, duftenden Blüten in Rot, Rosa und Weiss zieren seit Jahrhunderten Gärten, doch unter der Erde verbirgt sich ihre eigentliche Heilkraft: Die knollige Wurzel.
+    beschreibung: `Die Pfingstrose ist eine der ältesten Heilpflanzen der Menschheit -- ihr Name leitet sich von Paion ab, dem Heilgott der griechischen Mythologie. Ihre prächtigen, duftenden Blüten in Rot, Rosa und Weiß zieren seit Jahrhunderten Gärten, doch unter der Erde verbirgt sich ihre eigentliche Heilkraft: Die knollige Wurzel.
 
 Die Pfingstrosenwurzel enthält Paeoniflorin, einen Wirkstoff mit krampflösenden, schmerzlindernden und entzündungshemmenden Eigenschaften. In der Volksmedizin galt sie als das Mittel gegen Krämpfe aller Art -- von Epilepsie über Menstruationskrämpfe bis hin zu Koliken. Noch heute werden Pfingstrosenwurzel-Halsketten Kindern beim Zahnen angelegt.
 
@@ -282,7 +282,7 @@ In China wird die Pfingstrose seit über 2000 Jahren kultiviert und gilt als "K�
       },
       {
         name: 'Pfingstrosenblüten-Tee',
-        anleitung: '2 TL getrocknete Blütenblätter mit 250ml heissem Wasser übergiessen, 8 Minuten ziehen lassen.',
+        anleitung: '2 TL getrocknete Blütenblätter mit 250ml heißem Wasser übergießen, 8 Minuten ziehen lassen.',
         wirkung: 'Mild beruhigend, harmonisierend, hilfreich bei innerer Unruhe.',
       },
       {
@@ -292,7 +292,7 @@ In China wird die Pfingstrose seit über 2000 Jahren kultiviert und gilt als "K�
       },
     ],
     mischungen: ['Frauenkräuter-Tee (mit Frauenmantel und Schafgarbe)', 'Beruhigungsmischung (mit Baldrian und Hopfen)', 'Krampflösender Tee (mit Kamille und Melisse)'],
-    tcm: 'Bai Shao (Weisse Pfingstrose) nährt Blut, bewahrt Yin, beruhigt die Leber und lindert Schmerzen. Chi Shao (Rote Pfingstrose) kühlt Blut und belebt die Durchblutung. Beide gehören zu den am häufigsten verschriebenen TCM-Kräutern.',
+    tcm: 'Bai Shao (Weiße Pfingstrose) nährt Blut, bewahrt Yin, beruhigt die Leber und lindert Schmerzen. Chi Shao (Rote Pfingstrose) kühlt Blut und belebt die Durchblutung. Beide gehören zu den am häufigsten verschriebenen TCM-Kräutern.',
     ayurveda: 'Kühlend und bitter, reduziert Pitta. Wirkt krampflösend auf die glatte Muskulatur und beruhigend auf das Nervensystem. Unterstützt den weiblichen Zyklus.',
     volksmedizin: 'Die Pfingstrose war das Krampfmittel der Volksmedizin. Kindern beim Zahnen wurden Halsketten aus Pfingstrosenwurzelstücken umgehängt. Bei Epilepsie trug man die Wurzel als Amulett. Der Tee half bei Menstruationsbeschwerden und nervöser Unruhe.',
     besonders_bei: ['menstruationsschmerzen', 'kraempfe', 'nervositaet', 'schlaflosigkeit', 'leberbeschwerden', 'gelenkschmerzen'],
@@ -325,12 +325,12 @@ Im 17. Jahrhundert wurde Piment zum wichtigsten Exportgut Jamaikas. Die englisch
     zubereitungen: [
       {
         name: 'Piment-Verdauungstee',
-        anleitung: '3-4 Pimentbeeren leicht andrücken und mit 250ml kochendem Wasser übergiessen. 10 Minuten ziehen lassen. Nach dem Essen trinken.',
+        anleitung: '3-4 Pimentbeeren leicht andrücken und mit 250ml kochendem Wasser übergießen. 10 Minuten ziehen lassen. Nach dem Essen trinken.',
         wirkung: 'Wärmend, blähungstreibend, krampflösend bei Verdauungsbeschwerden.',
       },
       {
         name: 'Piment-Zahnschmerz-Öl',
-        anleitung: 'Ein Pimentkorn zerbeissen und auf den schmerzenden Zahn legen. Alternativ 1 Tropfen Pimentöl auf ein Wattestäbchen geben und auftupfen.',
+        anleitung: 'Ein Pimentkorn zerbeißen und auf den schmerzenden Zahn legen. Alternativ 1 Tropfen Pimentöl auf ein Wattestäbchen geben und auftupfen.',
         wirkung: 'Betäubend und schmerzlindernd bei Zahnschmerzen (durch Eugenol).',
       },
       {
@@ -340,9 +340,9 @@ Im 17. Jahrhundert wurde Piment zum wichtigsten Exportgut Jamaikas. Die englisch
       },
     ],
     mischungen: ['Weihnachtsgewürz (mit Zimt, Nelken und Muskat)', 'Verdauungsgewürz (mit Koriander und Kümmel)', 'Wärmende Teemischung (mit Ingwer und Kardamom)'],
-    tcm: 'Heiss und scharf. Wärmt die Mitte, vertreibt Kälte und löst Qi-Stagnation im mittleren Erwärmer. Wirkt auf Milz, Magen und Niere.',
-    ayurveda: 'Scharf, süss und wärmend. Reduziert Vata und Kapha, kann Pitta bei Übermass erhöhen. Stärkt Agni und wirkt Ama-ausleitend. Ein sattvisches Gewürz in massvollen Mengen.',
-    volksmedizin: 'In der karibischen Volksmedizin ist Piment ein Universalmittel. Der Tee wird bei Erkältungen, Bauchschmerzen und Menstruationskrämpfen getrunken. Äusserlich wird Pimentöl bei Muskelschmerzen eingerieben. Zerkaute Beeren werden auf Insektenstiche gelegt.',
+    tcm: 'Heiß und scharf. Wärmt die Mitte, vertreibt Kälte und löst Qi-Stagnation im mittleren Erwärmer. Wirkt auf Milz, Magen und Niere.',
+    ayurveda: 'Scharf, süß und wärmend. Reduziert Vata und Kapha, kann Pitta bei Übermaß erhöhen. Stärkt Agni und wirkt Ama-ausleitend. Ein sattvisches Gewürz in maßvollen Mengen.',
+    volksmedizin: 'In der karibischen Volksmedizin ist Piment ein Universalmittel. Der Tee wird bei Erkältungen, Bauchschmerzen und Menstruationskrämpfen getrunken. Äußerlich wird Pimentöl bei Muskelschmerzen eingerieben. Zerkaute Beeren werden auf Insektenstiche gelegt.',
     besonders_bei: ['verdauungsbeschwerden', 'blaehungen', 'zahnschmerzen', 'erkaeltung', 'muskelverspannungen', 'appetitlosigkeit'],
   },
 
@@ -357,7 +357,7 @@ Im 17. Jahrhundert wurde Piment zum wichtigsten Exportgut Jamaikas. Die englisch
 Die dicken, saftigen Blätter und Stängel schmecken leicht säuerlich-nussig und sind roh wie gekocht ein Genuss. In der Heilkunde wird Portulak als kühlendes, entzündungshemmendes und blutstillendes Mittel geschätzt. Er wirkt harntreibend und hilft bei Harnwegsentzündungen.
 
 Besonders wertvoll ist seine schleimhautschützende Wirkung -- die Schleimstoffe der Pflanze legen sich wie ein Film über entzündete Schleimhäute und fördern deren Heilung. Bei Sodbrennen, Magenentzündung und Durchfall ist Portulak ein sanftes, nährendes Heilmittel.`,
-    geschichte: `Portulak war bereits im alten Ägypten, in Persien und im antiken Griechenland als Heilpflanze und Gemüse bekannt. Hippokrates setzte ihn bei Blutungen und Entzündungen ein. Die Römer assen ihn regelmässig als Salat und schätzten ihn als Wurmmittel.
+    geschichte: `Portulak war bereits im alten Ägypten, in Persien und im antiken Griechenland als Heilpflanze und Gemüse bekannt. Hippokrates setzte ihn bei Blutungen und Entzündungen ein. Die Römer assen ihn regelmäßig als Salat und schätzten ihn als Wurmmittel.
 
 Im Mittelalter gehörte Portulak zu den Standardpflanzen der Klostergärten. Hildegard von Bingen empfahl ihn bei Fieber und Verdauungsbeschwerden. In der arabischen Medizin galt er als wichtiges Kühlmittel bei Hitze-Zuständen.`,
     wirkungen: {
@@ -367,7 +367,7 @@ Im Mittelalter gehörte Portulak zu den Standardpflanzen der Klostergärten. Hil
     ernte: {
       zeit: 'Sommer bis Herbst, die jungen Triebspitzen und Blätter vor der Blüte.',
       teile: 'Junge Blätter, Triebspitzen und Stängel.',
-      tipps: 'Am besten frisch verwenden -- Portulak welkt schnell. Regelmässig die Triebspitzen ernten, dann treibt die Pflanze buschig nach. Bei Nierensteinen wegen des Oxalsäuregehalts vorsichtig dosieren.',
+      tipps: 'Am besten frisch verwenden -- Portulak welkt schnell. Regelmäßig die Triebspitzen ernten, dann treibt die Pflanze buschig nach. Bei Nierensteinen wegen des Oxalsäuregehalts vorsichtig dosieren.',
       mond: 'Bei zunehmendem Mond ernten für maximalen Saftgehalt.',
     },
     zubereitungen: [
@@ -382,7 +382,7 @@ Im Mittelalter gehörte Portulak zu den Standardpflanzen der Klostergärten. Hil
         wirkung: 'Kühlend bei Hitze-Zuständen, schleimhautschützend bei Sodbrennen.',
       },
       {
-        name: 'Portulak-Umschlag (äusserlich)',
+        name: 'Portulak-Umschlag (äußerlich)',
         anleitung: 'Frische Blätter zerquetschen und als Breiumschlag auf entzündete Hautstellen oder leichte Verbrennungen auflegen.',
         wirkung: 'Kühlend, entzündungshemmend und heilungsfördernd bei Hautreizungen.',
       },
@@ -390,7 +390,7 @@ Im Mittelalter gehörte Portulak zu den Standardpflanzen der Klostergärten. Hil
     mischungen: ['Sommersalat (mit Gurke und Minze)', 'Omega-3-Smoothie (mit Leinsamen und Walnüssen)', 'Kühlender Tee (mit Malve und Lindenblüten)'],
     tcm: 'Ma Chi Xian -- kalt, sauer. Klärt Hitze, entgiftet, kühlt das Blut und stillt Blutungen. Wird bei Ruhr, blutigem Durchfall und Hautgeschwüren eingesetzt.',
     ayurveda: 'Kühlend und feucht, reduziert Pitta stark. Nährt Rasa und Rakta Dhatu (Plasma und Blut). Hilfreich bei Hitze-Erkrankungen, Blutungen und Entzündungen.',
-    volksmedizin: 'In der Volksmedizin galt Portulak als "Salat für die Kranken". Er wurde bei Fieber, Durchfall, Sodbrennen und Zahnfleischentzündungen gereicht. Äusserlich legte man die frischen Blätter auf Insektenstiche, Verbrennungen und entzündete Augen.',
+    volksmedizin: 'In der Volksmedizin galt Portulak als "Salat für die Kranken". Er wurde bei Fieber, Durchfall, Sodbrennen und Zahnfleischentzündungen gereicht. Äußerlich legte man die frischen Blätter auf Insektenstiche, Verbrennungen und entzündete Augen.',
     besonders_bei: ['sodbrennen', 'magenentzuendung', 'hautentzuendung', 'omega3mangel', 'harnwegsentzuendung', 'durchfall'],
   },
 
@@ -399,10 +399,10 @@ Im Mittelalter gehörte Portulak zu den Standardpflanzen der Klostergärten. Hil
   // ═══════════════════════════════════════════════════════════════════════════
   'Quecke': {
     vollname: 'Gemeine Quecke (Elymus repens)',
-    familie: 'Süssgräser (Poaceae)',
+    familie: 'Süßgräser (Poaceae)',
     beschreibung: `Die Quecke ist der Albtraum jedes Gärtners -- und eine der besten Nierenheilpflanzen Europas. Ihr Wurzelgeflecht, das sich unaufhaltsam durch den Boden zieht, enthält Schleimstoffe, Saponine und das Kohlenhydrat Triticin, die zusammen eine stark harntreibende und entzündungshemmende Wirkung entfalten.
 
-In der Phytotherapie wird die Queckenwurzel bei Harnwegsinfekten, Blasenentzündungen und Nierengriesss eingesetzt. Die Schleimstoffe legen sich schützend auf die entzündeten Schleimhäute der Harnwege, während die harntreibende Wirkung Bakterien ausspült und die Bildung von Nierensteinen verhindert.
+In der Phytotherapie wird die Queckenwurzel bei Harnwegsinfekten, Blasenentzündungen und Nierengrieß eingesetzt. Die Schleimstoffe legen sich schützend auf die entzündeten Schleimhäute der Harnwege, während die harntreibende Wirkung Bakterien ausspült und die Bildung von Nierensteinen verhindert.
 
 Auch als Blutreinigungsmittel hat die Quecke eine lange Tradition. Bei Hautunreinheiten, Gicht und rheumatischen Beschwerden wird sie als Frühjahrskur eingesetzt, um den Stoffwechsel anzuregen und Schlackenstoffe auszuleiten.`,
     geschichte: `Bereits Dioskurides empfahl die Queckenwurzel bei Harnsteinen und Blasenbeschwerden. Im Mittelalter wurde sie als "Hundsgras" bekannt, weil Hunde und Katzen instinktiv Queckenhalme fressen, wenn sie Verdauungsprobleme haben.
@@ -414,7 +414,7 @@ Sebastian Kneipp schätzte die Quecke als Blutreinigungsmittel und empfahl Queck
     },
     ernte: {
       zeit: 'Wurzeln im Frühjahr oder Herbst ausgraben.',
-      teile: 'Wurzelstock (Rhizom) -- die weissen, kriechenden Ausläufer.',
+      teile: 'Wurzelstock (Rhizom) -- die weißen, kriechenden Ausläufer.',
       tipps: 'Die Wurzeln gründlich waschen und von Erde befreien. In Stücke schneiden und bei guter Belüftung trocknen. Beim Jäten im Garten die Wurzeln nicht wegwerfen, sondern als Heilpflanze nutzen!',
       mond: 'Bei abnehmendem Mond ernten für maximale Ausleitung und Reinigung.',
     },
@@ -436,9 +436,9 @@ Sebastian Kneipp schätzte die Quecke als Blutreinigungsmittel und empfahl Queck
       },
     ],
     mischungen: ['Blasentee (mit Bärentraube und Goldrutenkraut)', 'Nierentee (mit Birkenblättern und Schachtelhalm)', 'Frühjahrskur-Tee (mit Brennnessel und Löwenzahn)'],
-    tcm: 'Süss, kalt. Fördert die Wasserausleitung, klärt feuchte Hitze im unteren Erwärmer. Wirkt auf Blase und Niere.',
+    tcm: 'Süß, kalt. Fördert die Wasserausleitung, klärt feuchte Hitze im unteren Erwärmer. Wirkt auf Blase und Niere.',
     ayurveda: 'Kühlend und feucht, reduziert Pitta. Wirkt auf Mutra Vaha Srotas (Harnwege) und unterstützt die Nierenreinigung. Mildert Vata-bedingte Trockenheit der Schleimhäute.',
-    volksmedizin: 'Die Quecke war das "Unkraut-Heilmittel" der Bauern. Der Wurzeltee wurde bei Blasenentzündung, Nierengriesss und Wassersucht getrunken. Bei Hautkrankheiten und "unreinem Blut" machte man Frühjahrskuren mit Queckenwurzel.',
+    volksmedizin: 'Die Quecke war das "Unkraut-Heilmittel" der Bauern. Der Wurzeltee wurde bei Blasenentzündung, Nierengrieß und Wassersucht getrunken. Bei Hautkrankheiten und "unreinem Blut" machte man Frühjahrskuren mit Queckenwurzel.',
     besonders_bei: ['harnwegsinfekt', 'blasenentzuendung', 'nierengriesss', 'gicht', 'hautprobleme', 'wassereinlagerungen'],
   },
 
@@ -448,7 +448,7 @@ Sebastian Kneipp schätzte die Quecke als Blutreinigungsmittel und empfahl Queck
   'Quitte': {
     vollname: 'Quitte (Cydonia oblonga)',
     familie: 'Rosengewächse (Rosaceae)',
-    beschreibung: `Die Quitte ist eine der ältesten Kulturfrüchte der Menschheit und war im Mittelmeerraum lange vor dem Apfel bekannt. Ihre goldgelben, pelzigen Früchte verströmen einen betörenden Duft und sind roh kaum geniessbar -- doch gekocht entfalten sie ein einzigartiges Aroma. Die heilkundlich wertvollsten Teile sind die Samen, die einen reichhaltigen Schleim enthalten.
+    beschreibung: `Die Quitte ist eine der ältesten Kulturfrüchte der Menschheit und war im Mittelmeerraum lange vor dem Apfel bekannt. Ihre goldgelben, pelzigen Früchte verströmen einen betörenden Duft und sind roh kaum genießbar -- doch gekocht entfalten sie ein einzigartiges Aroma. Die heilkundlich wertvollsten Teile sind die Samen, die einen reichhaltigen Schleim enthalten.
 
 Quittenschleim -- gewonnen durch Einweichen der Samen in Wasser -- ist eines der besten natürlichen Mittel bei entzündeten Schleimhäuten. Er legt sich wie ein schützender Film über gereizte Haut und Schleimhäute und fördert deren Heilung. Bei Husten, Halsschmerzen, Magen-Darm-Entzündungen und Hautreizungen ist der Quittenschleim ein sanftes, hochwirksames Mittel.
 
@@ -498,7 +498,7 @@ Hippokrates empfahl Quittensaft bei Fieber und Durchfall. Im Mittelalter war Qui
     familie: 'Kreuzblütler (Brassicaceae)',
     beschreibung: `Der Raps verwandelt im Frühjahr ganze Landstriche in ein leuchtendes Gelb. Während er heute vor allem als Ölpflanze angebaut wird, hat er auch eine bescheidene Tradition als Heilpflanze. Das kaltgepresste Rapsöl ist reich an Omega-3-Fettsäuren und Vitamin E und gehört zu den gesündesten Speiseölen überhaupt.
 
-Heilkundlich wird Rapsöl vor allem äusserlich bei Hautpflege, trockener Haut und als Grundlage für Salben und Öleinreibungen verwendet. Innerlich unterstützt es als Omega-3-Quelle die Herzgesundheit und wirkt entzündungshemmend. Die Blüten geben einen aromatischen Honig, der seinerseits als Hustenmittel geschätzt wird.
+Heilkundlich wird Rapsöl vor allem äußerlich bei Hautpflege, trockener Haut und als Grundlage für Salben und Öleinreibungen verwendet. Innerlich unterstützt es als Omega-3-Quelle die Herzgesundheit und wirkt entzündungshemmend. Die Blüten geben einen aromatischen Honig, der seinerseits als Hustenmittel geschätzt wird.
 
 Die jungen Blätter und Blütenstände des Rapses können als Gemüse gegessen werden und liefern wertvolle Glucosinolate -- schwefelhaltige Verbindungen, die krebshemmende Eigenschaften besitzen und das Immunsystem stärken.`,
     geschichte: `Raps wurde bereits in der Antike im Mittelmeerraum kultiviert, vor allem als Lampenöllieferant. Als Speise- und Heilöl gewann er erst im 20. Jahrhundert an Bedeutung, als bitterstoffarme Sorten gezüchtet wurden.
@@ -532,8 +532,8 @@ In der Volksmedizin wurde Rapsöl als Einreibung bei Brustleiden, als Abführmit
       },
     ],
     mischungen: ['Hautpflegeöl (mit Nachtkerzenöl und Lavendel)', 'Salatdressing (mit Leinöl und Kräutern)', 'Brustbalsam (mit Thymian und Eukalyptus als Grundlage)'],
-    tcm: 'Ölige Samen sind süss und neutral. Befeuchten Trockenheit, nähren Yin und glätten den Darm. Das Öl wird äusserlich zur Hautpflege verwendet.',
-    ayurveda: 'Süss und ölig, nährt die Gewebe und mildert Vata. Als Speiseöl geeignet für alle Konstitutionen in massvollen Mengen. Unterstützt Sneha (Öligkeit) und schützt die Haut.',
+    tcm: 'Ölige Samen sind süß und neutral. Befeuchten Trockenheit, nähren Yin und glätten den Darm. Das Öl wird äußerlich zur Hautpflege verwendet.',
+    ayurveda: 'Süß und ölig, nährt die Gewebe und mildert Vata. Als Speiseöl geeignet für alle Konstitutionen in maßvollen Mengen. Unterstützt Sneha (Öligkeit) und schützt die Haut.',
     volksmedizin: 'In der bäuerlichen Volksmedizin wurde Rapsöl als Einreibung bei Erkältungen auf die Brust gerieben, als mildes Abführmittel eingenommen und als Haarkur bei sprödem Haar verwendet. Rapshonig galt als besonders magenfreundlich.',
     besonders_bei: ['trockene_haut', 'herzgesundheit', 'entzuendungen', 'omega3mangel', 'mundgesundheit', 'haarpflege'],
   },
@@ -543,7 +543,7 @@ In der Volksmedizin wurde Rapsöl als Einreibung bei Brustleiden, als Abführmit
   // ═══════════════════════════════════════════════════════════════════════════
   'Reis': {
     vollname: 'Reis (Oryza sativa)',
-    familie: 'Süssgräser (Poaceae)',
+    familie: 'Süßgräser (Poaceae)',
     beschreibung: `Reis ist das Grundnahrungsmittel für über die Hälfte der Weltbevölkerung und zugleich ein wichtiges Heilmittel in der asiatischen Medizin. In der Heilkunde wird nicht nur das Korn selbst, sondern auch das Reiswasser, die Reiskleie und die Reiskeime therapeutisch eingesetzt.
 
 Reiswasser -- das Kochwasser vom Reis -- ist eines der ältesten und wirksamsten Hausmittel bei Durchfall, besonders bei Säuglingen und Kleinkindern. Es ersetzt verlorene Flüssigkeit und Elektrolyte, schont den Darm und liefert leicht verdauliche Stärke. Auch bei Übelkeit und Magenverstimmung ist Reiswasser ein bewährtes Mittel.
@@ -551,7 +551,7 @@ Reiswasser -- das Kochwasser vom Reis -- ist eines der ältesten und wirksamsten
 Die Reiskleie enthält Gamma-Oryzanol, einen Pflanzenstoff, der den Cholesterinspiegel senkt und antioxidativ wirkt. Reiskeimöl wird in der asiatischen Hautpflege geschätzt und enthält Vitamin E, Ferulasäure und Squalen, die die Hautalterung verlangsamen.`,
     geschichte: `Reis wird seit über 8000 Jahren in China und Südostasien kultiviert und hat die asiatischen Zivilisationen geprägt wie kein anderes Nahrungsmittel. In der TCM ist Reis (Geng Mi) ein zentrales Nahrungsheilmittel und Teil unzähliger Rezepturen.
 
-Die Entdeckung, dass polierter weisser Reis zu Beriberi führt, war ein Meilenstein der Ernährungsmedizin. Der holländische Arzt Christiaan Eijkman bewies 1897, dass die Reiskleie den Schutzstoff enthält -- heute als Vitamin B1 (Thiamin) bekannt. Diese Erkenntnis begründete die moderne Vitaminforschung.`,
+Die Entdeckung, dass polierter weißer Reis zu Beriberi führt, war ein Meilenstein der Ernährungsmedizin. Der holländische Arzt Christiaan Eijkman bewies 1897, dass die Reiskleie den Schutzstoff enthält -- heute als Vitamin B1 (Thiamin) bekannt. Diese Erkenntnis begründete die moderne Vitaminforschung.`,
     wirkungen: {
       hauptwirkungen: ['Stopfend (bei Durchfall)', 'Nährend und stärkend', 'Elektrolyt-Ersatz', 'Cholesterinsenkend (Reiskleie)', 'Hautpflegend (Reiskeimöl)', 'Entgiftend'],
       inhaltsstoffe: ['Stärke', 'Gamma-Oryzanol (Kleie)', 'Vitamin B1', 'Vitamin E (Keime)', 'Ferulasäure', 'Phytinsäure', 'Kalium', 'Magnesium'],
@@ -559,13 +559,13 @@ Die Entdeckung, dass polierter weisser Reis zu Beriberi führt, war ein Meilenst
     ernte: {
       zeit: 'In Anbaugebieten im Herbst -- in unseren Breiten als Importware.',
       teile: 'Ganze Körner (Vollreis), Reiskleie, Reiskeime.',
-      tipps: 'Für den maximalen Heilwert Vollreis (brauner Reis) verwenden. Weisser Reis hat weniger Nährstoffe, ist aber bei Durchfall besser geeignet, da er schneller verdaulich ist.',
+      tipps: 'Für den maximalen Heilwert Vollreis (brauner Reis) verwenden. Weißer Reis hat weniger Nährstoffe, ist aber bei Durchfall besser geeignet, da er schneller verdaulich ist.',
       mond: 'Keine spezifischen Mondempfehlungen.',
     },
     zubereitungen: [
       {
         name: 'Reiswasser (bei Durchfall)',
-        anleitung: '50g weissen Reis in 1 Liter Wasser 30 Minuten köcheln lassen. Abseihen. Das Wasser über den Tag verteilt trinken. Leicht salzen.',
+        anleitung: '50g weißen Reis in 1 Liter Wasser 30 Minuten köcheln lassen. Abseihen. Das Wasser über den Tag verteilt trinken. Leicht salzen.',
         wirkung: 'Stopft, ersetzt Flüssigkeit und Elektrolyte, schont den Darm.',
       },
       {
@@ -580,8 +580,8 @@ Die Entdeckung, dass polierter weisser Reis zu Beriberi führt, war ein Meilenst
       },
     ],
     mischungen: ['Schonkost (mit Karotte und Fenchel)', 'TCM-Congee (mit Datteln und Goji-Beeren)', 'Aufbaunahrung (mit Hafer und Mandeln)'],
-    tcm: 'Geng Mi (Reis) ist süss und neutral. Stärkt Milz und Magen, nährt Qi und Körpersäfte. Congee ist das grundlegendste Heilnahrungsmittel der TCM und wird als Basis für medizinische Reissuppen verwendet.',
-    ayurveda: 'Reis (Shali) ist süss, kühlend und leicht. Er nährt alle sieben Dhatus, stärkt Ojas und ist das sattvischste aller Getreide. Basmati gilt als der beste Reis für die Gesundheit.',
+    tcm: 'Geng Mi (Reis) ist süß und neutral. Stärkt Milz und Magen, nährt Qi und Körpersäfte. Congee ist das grundlegendste Heilnahrungsmittel der TCM und wird als Basis für medizinische Reissuppen verwendet.',
+    ayurveda: 'Reis (Shali) ist süß, kühlend und leicht. Er nährt alle sieben Dhatus, stärkt Ojas und ist das sattvischste aller Getreide. Basmati gilt als der beste Reis für die Gesundheit.',
     volksmedizin: 'Reiswasser war das Universal-Hausmittel bei Durchfall in der ganzen Welt. Reismehl wurde als Puder bei Hautausschlägen verwendet. In Asien galt fermentiertes Reiswasser als Schönheitselixier für Haut und Haare.',
     besonders_bei: ['durchfall', 'uebelkeit', 'erschoepfung', 'cholesterin', 'hautpflege', 'genesung'],
   },
@@ -591,17 +591,17 @@ Die Entdeckung, dass polierter weisser Reis zu Beriberi führt, war ein Meilenst
   // ═══════════════════════════════════════════════════════════════════════════
   'Rittersporn': {
     vollname: 'Feldrittersporn (Consolida regalis)',
-    familie: 'Hahnenfussgewächse (Ranunculaceae)',
+    familie: 'Hahnenfußgewächse (Ranunculaceae)',
     beschreibung: `Der Rittersporn besticht durch seine leuchtend blauen bis violetten Blüten, die wie kleine Rittersporne geformt sind -- daher der Name. Als Ackerbegleitpflanze war er früher auf Getreidefeldern weit verbreitet, ist heute aber durch intensive Landwirtschaft selten geworden.
 
-Obwohl der Rittersporn giftige Alkaloide enthält, wurde er in der Volksmedizin äusserlich und in der Homöopathie vielfältig eingesetzt. Die Blüten enthalten Delphinin und andere Diterpen-Alkaloide, die in geringster Dosierung krampflösend, schmerzlindernd und wurmtreibend wirken.
+Obwohl der Rittersporn giftige Alkaloide enthält, wurde er in der Volksmedizin äußerlich und in der Homöopathie vielfältig eingesetzt. Die Blüten enthalten Delphinin und andere Diterpen-Alkaloide, die in geringster Dosierung krampflösend, schmerzlindernd und wurmtreibend wirken.
 
-Heute wird der Rittersporn vor allem in der Homöopathie (Delphinium / Staphisagria) bei Insektenstichen, Hautparasiten und nervösen Beschwerden verordnet. Äusserlich wurde der Blütenaufguss als Haar- und Kopfhautmittel gegen Läuse verwendet. Die getrockneten Blüten finden sich in Teemischungen als Schmuckdroge -- sie verleihen dem Tee eine schöne blaue Farbe.`,
+Heute wird der Rittersporn vor allem in der Homöopathie (Delphinium / Staphisagria) bei Insektenstichen, Hautparasiten und nervösen Beschwerden verordnet. Äußerlich wurde der Blütenaufguss als Haar- und Kopfhautmittel gegen Läuse verwendet. Die getrockneten Blüten finden sich in Teemischungen als Schmuckdroge -- sie verleihen dem Tee eine schöne blaue Farbe.`,
     geschichte: `Der Name "Consolida" deutet auf die alte Verwendung als Wundheilmittel hin (von lateinisch "consolidare" -- zusammenheilen). Im Mittelalter wurden Rittersporn-Blüten in Wein eingelegt und als Augenmittel verwendet.
 
 Dioskurides beschrieb die Pflanze als Mittel gegen Skorpionsstiche. In der Signaturenlehre galt die sporenförmige Blüte als Zeichen dafür, dass die Pflanze den Menschen im "Ritterkampf" gegen Krankheiten unterstützt.`,
     wirkungen: {
-      hauptwirkungen: ['Schmuckdroge (Tee-Färbung)', 'Krampflösend (homöopathisch)', 'Antiparasitär (äusserlich)', 'Wundheilend (traditionell)', 'Schmerzlindernd (homöopathisch)'],
+      hauptwirkungen: ['Schmuckdroge (Tee-Färbung)', 'Krampflösend (homöopathisch)', 'Antiparasitär (äußerlich)', 'Wundheilend (traditionell)', 'Schmerzlindernd (homöopathisch)'],
       inhaltsstoffe: ['Delphinin', 'Diterpen-Alkaloide', 'Anthocyane (blaue Farbstoffe)', 'Flavonoide', 'Gerbstoffe'],
     },
     ernte: {
@@ -623,7 +623,7 @@ Dioskurides beschrieb die Pflanze als Mittel gegen Skorpionsstiche. In der Signa
       },
       {
         name: 'Rittersporn-Haarwasser (historisch)',
-        anleitung: '2 EL getrocknete Blüten mit 500ml Essig übergiessen, 2 Wochen ziehen lassen. Abseihen. Als Kopfhaut-Spülung verwenden.',
+        anleitung: '2 EL getrocknete Blüten mit 500ml Essig übergießen, 2 Wochen ziehen lassen. Abseihen. Als Kopfhaut-Spülung verwenden.',
         wirkung: 'Traditionell gegen Kopfläuse und bei juckender Kopfhaut.',
       },
     ],
@@ -640,9 +640,9 @@ Dioskurides beschrieb die Pflanze als Mittel gegen Skorpionsstiche. In der Signa
   'Robinie': {
     vollname: 'Gewöhnliche Robinie (Robinia pseudoacacia)',
     familie: 'Hülsenfrüchtler (Fabaceae)',
-    beschreibung: `Die Robinie -- oft fälschlich "Akazie" genannt -- ist ein stattlicher Baum mit gefiederten Blättern und hängenden Trauben weisser, intensiv duftender Blüten. Ursprünglich aus Nordamerika stammend, hat sie sich in ganz Europa ausgebreitet. Ihre Blüten sind der heilkundlich wertvollste Teil und liefern zudem einen der feinsten Honige.
+    beschreibung: `Die Robinie -- oft fälschlich "Akazie" genannt -- ist ein stattlicher Baum mit gefiederten Blättern und hängenden Trauben weißer, intensiv duftender Blüten. Ursprünglich aus Nordamerika stammend, hat sie sich in ganz Europa ausgebreitet. Ihre Blüten sind der heilkundlich wertvollste Teil und liefern zudem einen der feinsten Honige.
 
-Die Robinienblüten wirken krampflösend, beruhigend und entzündungshemmend. Ihr süsser Duft enthält ätherische Öle mit milden nervenstärkenden Eigenschaften. Traditionell werden sie als Tee bei Magenkrämpfen, nervöser Unruhe und Kopfschmerzen eingesetzt. Das Robinol in der Rinde und den Samen ist allerdings giftig -- daher werden nur die Blüten verwendet.
+Die Robinienblüten wirken krampflösend, beruhigend und entzündungshemmend. Ihr süßer Duft enthält ätherische Öle mit milden nervenstärkenden Eigenschaften. Traditionell werden sie als Tee bei Magenkrämpfen, nervöser Unruhe und Kopfschmerzen eingesetzt. Das Robinol in der Rinde und den Samen ist allerdings giftig -- daher werden nur die Blüten verwendet.
 
 Der Robinienhonig (fälschlich als "Akazienhonig" verkauft) ist besonders mild, bleibt lange flüssig und hat einen niedrigen glykämischen Index. Er wird in der Volksmedizin bei Husten und Heiserkeit geschätzt.`,
     geschichte: `Die Robinie wurde 1601 vom französischen Botaniker Jean Robin nach Europa eingeführt und trägt seinen Namen. Ihre Widerstandsfähigkeit und Schnellwüchsigkeit machten sie zum beliebten Park- und Strassenbaum.
@@ -661,12 +661,12 @@ In Nordamerika nutzten die Cherokee und andere indigene Völker die Blüten als 
     zubereitungen: [
       {
         name: 'Robinienblüten-Tee',
-        anleitung: '2 TL getrocknete Robinienblüten mit 250ml heissem Wasser übergiessen, 8 Minuten ziehen lassen. 2 Tassen täglich.',
+        anleitung: '2 TL getrocknete Robinienblüten mit 250ml heißem Wasser übergießen, 8 Minuten ziehen lassen. 2 Tassen täglich.',
         wirkung: 'Krampflösend, beruhigend, hilfreich bei Magenkrämpfen und nervöser Unruhe.',
       },
       {
         name: 'Gebackene Robinienblüten',
-        anleitung: 'Frische Blütentrauben in einen Backteig aus Mehl, Ei und Milch tauchen und in heissem Öl goldbraun backen. Mit Puderzucker bestäuben.',
+        anleitung: 'Frische Blütentrauben in einen Backteig aus Mehl, Ei und Milch tauchen und in heißem Öl goldbraun backen. Mit Puderzucker bestäuben.',
         wirkung: 'Aromatische Delikatesse mit mild krampflösender und stimmungsaufhellender Wirkung.',
       },
       {
@@ -676,8 +676,8 @@ In Nordamerika nutzten die Cherokee und andere indigene Völker die Blüten als 
       },
     ],
     mischungen: ['Beruhigungstee (mit Melisse und Lavendel)', 'Magentee (mit Kamille und Fenchel)', 'Blütenhonig-Kur (Robinienhonig mit Thymian)'],
-    tcm: 'Süss, leicht kühl. Die Blüten klären leichte Hitze und beruhigen den Geist. Wirken auf Magen und Leber.',
-    ayurveda: 'Süss und kühlend, beruhigt Pitta und Vata. Die aromatischen Blüten werden als mild nervenstärkend eingestuft.',
+    tcm: 'Süß, leicht kühl. Die Blüten klären leichte Hitze und beruhigen den Geist. Wirken auf Magen und Leber.',
+    ayurveda: 'Süß und kühlend, beruhigt Pitta und Vata. Die aromatischen Blüten werden als mild nervenstärkend eingestuft.',
     volksmedizin: 'Die Robinienblüten waren in Südosteuropa ein beliebtes Volksheilmittel. In Ungarn und Rumänien wurden sie als Tee bei Magenbeschwerden getrunken und als "Akazienküchlein" gebacken. Der Honig galt als besonders magenfreundlich und wurde bei Sodbrennen gelöffelt.',
     besonders_bei: ['magenkraempfe', 'nervositaet', 'kopfschmerzen', 'husten', 'sodbrennen', 'unruhe'],
   },
@@ -688,7 +688,7 @@ In Nordamerika nutzten die Cherokee und andere indigene Völker die Blüten als 
   'Rooibos': {
     vollname: 'Rooibos (Aspalathus linearis)',
     familie: 'Hülsenfrüchtler (Fabaceae)',
-    beschreibung: `Rooibos -- der "Rotbusch" -- ist eine einzigartige Heilpflanze, die nur in den Zederbergen Südafrikas wild wächst. Nirgendwo sonst auf der Welt gedeiht sie. Die nadelartigen Blätter werden nach der Ernte fermentiert und entwickeln dabei ihre charakteristische rotbraune Farbe und den milden, leicht süsslichen Geschmack.
+    beschreibung: `Rooibos -- der "Rotbusch" -- ist eine einzigartige Heilpflanze, die nur in den Zederbergen Südafrikas wild wächst. Nirgendwo sonst auf der Welt gedeiht sie. Die nadelartigen Blätter werden nach der Ernte fermentiert und entwickeln dabei ihre charakteristische rotbraune Farbe und den milden, leicht süßlichen Geschmack.
 
 Rooibos ist frei von Koffein und Oxalsäure und arm an Gerbstoffen -- das macht ihn zu einem idealen Getränk für Menschen, die Kaffee und Schwarztee nicht vertragen. Er enthält eine Vielzahl von Flavonoiden, darunter Aspalathin und Nothofagin, die antioxidativ, entzündungshemmend und blutzuckerregulierend wirken.
 
@@ -709,11 +709,11 @@ Erst 1904 begann der russische Einwanderer Benjamin Ginsberg, Rooibos kommerziel
     zubereitungen: [
       {
         name: 'Rooibos-Tee (klassisch)',
-        anleitung: '1-2 TL Rooibos mit 250ml kochendem Wasser übergiessen. 5-10 Minuten ziehen lassen. Kann unbedenklich lange ziehen -- wird nicht bitter.',
+        anleitung: '1-2 TL Rooibos mit 250ml kochendem Wasser übergießen. 5-10 Minuten ziehen lassen. Kann unbedenklich lange ziehen -- wird nicht bitter.',
         wirkung: 'Antioxidativ, beruhigend, verdauungsfördernd. Ideal als Alltagsgetränk.',
       },
       {
-        name: 'Rooibos-Bad (äusserlich)',
+        name: 'Rooibos-Bad (äußerlich)',
         anleitung: '5 EL Rooibos in 1 Liter Wasser 15 Minuten kochen, abseihen und dem Badewasser zufügen. 20 Minuten baden.',
         wirkung: 'Beruhigend bei Hautekzemen, Neurodermitis und Hautallergien.',
       },
@@ -725,7 +725,7 @@ Erst 1904 begann der russische Einwanderer Benjamin Ginsberg, Rooibos kommerziel
     ],
     mischungen: ['Abendtee (mit Kamille und Honigbusch)', 'Allergie-Tee (mit Brennnessel und Augentrost)', 'Kindertee (mit Fenchel und Melisse)'],
     tcm: 'Mild kühlend bis neutral. Nährt Yin, klärt leichte Hitze und beruhigt den Geist. Durch seine mineralstoffreiche Natur stärkt er die Mitte.',
-    ayurveda: 'Süss, leicht adstringierend und kühlend. Tridosha -- für alle drei Doshas geeignet. Nährt die Gewebe ohne zu erhitzen. Ein ideales Rasayana-Getränk für den Alltag.',
+    ayurveda: 'Süß, leicht adstringierend und kühlend. Tridosha -- für alle drei Doshas geeignet. Nährt die Gewebe ohne zu erhitzen. Ein ideales Rasayana-Getränk für den Alltag.',
     volksmedizin: 'In Südafrika ist Rooibos das Allheilmittel der Volksmedizin. Er wird bei Koliken, Allergien, Schlafproblemen, Hautausschlägen und nervöser Unruhe gegeben. Stillende Mütter trinken ihn zur Beruhigung des Babys, und Säuglinge erhalten ihn verdünnt bei Bauchkrämpfen.',
     besonders_bei: ['allergien', 'hautekzem', 'schlafprobleme', 'koliken', 'oxidativer_stress', 'nervositaet'],
   },
@@ -738,7 +738,7 @@ Erst 1904 begann der russische Einwanderer Benjamin Ginsberg, Rooibos kommerziel
     familie: 'Nelkengewächse (Caryophyllaceae)',
     beschreibung: `Die Rote Lichtnelke ist eine zarte Wildpflanze mit leuchtend rosaroten Blüten, die an Waldrändern, Wiesen und in feuchten Gebüschen wächst. Obwohl sie keine prominente Stellung in der modernen Phytotherapie einnimmt, wurde sie in der Volksmedizin durchaus geschätzt.
 
-Die Pflanze enthält Saponine, Flavonoide und Schleimstoffe. In der traditionellen Heilkunde wurde ein Tee aus dem Kraut als mildes Expektorans bei Husten und Bronchitis eingesetzt. Die Saponine lösen festsitzenden Schleim und erleichtern das Abhusten. Auch bei Hautproblemen wurde die Rote Lichtnelke äusserlich als Waschung verwendet.
+Die Pflanze enthält Saponine, Flavonoide und Schleimstoffe. In der traditionellen Heilkunde wurde ein Tee aus dem Kraut als mildes Expektorans bei Husten und Bronchitis eingesetzt. Die Saponine lösen festsitzenden Schleim und erleichtern das Abhusten. Auch bei Hautproblemen wurde die Rote Lichtnelke äußerlich als Waschung verwendet.
 
 Ihren Namen "Lichtnelke" verdankt sie der alten Praxis, die trockenen, öligen Stängel als Dochte für Öllampen zu verwenden. In der Signaturenlehre wurde ihre rote Farbe als Hinweis auf eine blutreinigende Wirkung gedeutet.`,
     geschichte: `In der keltischen Tradition war die Rote Lichtnelke eine Pflanze der Anderswelt und wurde bei Sommersonnenwendfeiern in Kränze geflochten. Ihr Aufblühen im Frühsommer galt als Zeichen, dass die Natur in voller Kraft steht.
@@ -757,11 +757,11 @@ In der mittelalterlichen Volksmedizin wurde sie als "Kuckucksblume" bezeichnet u
     zubereitungen: [
       {
         name: 'Lichtnelken-Tee',
-        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. 2-3 Tassen täglich.',
+        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 2-3 Tassen täglich.',
         wirkung: 'Schleimlösend bei Husten, mild entzündungshemmend bei Erkältungen.',
       },
       {
-        name: 'Lichtnelken-Waschung (äusserlich)',
+        name: 'Lichtnelken-Waschung (äußerlich)',
         anleitung: '3 EL getrocknetes Kraut in 500ml Wasser 10 Minuten köcheln lassen. Abseihen und lauwarm als Waschung oder Kompresse verwenden.',
         wirkung: 'Reinigend und beruhigend bei Hautunreinheiten und leichten Entzündungen.',
       },
@@ -771,10 +771,10 @@ In der mittelalterlichen Volksmedizin wurde sie als "Kuckucksblume" bezeichnet u
         wirkung: 'Blutreinigend und schleimlösend in konzentrierter Form.',
       },
     ],
-    mischungen: ['Hustentee (mit Spitzwegerich und Thymian)', 'Frühjahrskur (mit Brennnessel und Gänseblümchen)', 'Blütentee (mit Mädesüss und Holunder)'],
+    mischungen: ['Hustentee (mit Spitzwegerich und Thymian)', 'Frühjahrskur (mit Brennnessel und Gänseblümchen)', 'Blütentee (mit Mädesüß und Holunder)'],
     tcm: 'In der TCM nicht gebräuchlich. Würde als leicht kühlendes, Schleim-transformierendes Kraut eingestuft.',
     ayurveda: 'Im klassischen Ayurveda nicht bekannt. Aufgrund ihrer leichten, bitteren Qualität würde sie als Kapha-reduzierend betrachtet.',
-    volksmedizin: 'In der Volksmedizin wurde die Rote Lichtnelke als Hustenmittel und Blutreinigungsmittel eingesetzt. Man gab den Tee bei Erkältungen und "dickem Blut". Die Blüten wurden von Kindern ausgezogen und der süsse Nektarsaft geschlürft -- ein harmloses Naschvergnügen am Wegrand.',
+    volksmedizin: 'In der Volksmedizin wurde die Rote Lichtnelke als Hustenmittel und Blutreinigungsmittel eingesetzt. Man gab den Tee bei Erkältungen und "dickem Blut". Die Blüten wurden von Kindern ausgezogen und der süße Nektarsaft geschlürft -- ein harmloses Naschvergnügen am Wegrand.',
     besonders_bei: ['husten', 'bronchitis', 'hautprobleme', 'blutreinigung', 'erkaeltung'],
   },
 
@@ -782,7 +782,7 @@ In der mittelalterlichen Volksmedizin wurde sie als "Kuckucksblume" bezeichnet u
   // 17. SENF
   // ═══════════════════════════════════════════════════════════════════════════
   'Senf': {
-    vollname: 'Weisser Senf (Sinapis alba)',
+    vollname: 'Weißer Senf (Sinapis alba)',
     familie: 'Kreuzblütler (Brassicaceae)',
     beschreibung: `Der Senf gehört zu den ältesten Gewürz- und Heilpflanzen der Menschheit. Seine kleinen, unscheinbaren Samen bergen eine explosive Schärfe, die erst beim Zerkleinern und Kontakt mit Wasser freigesetzt wird. Die dabei entstehenden Senfölglykoside (Glucosinolate) wandeln sich in Isothiocyanate um -- scharfe Verbindungen mit starker durchblutungsfördernder und antibakterieller Wirkung.
 
@@ -791,10 +791,10 @@ Das Senfpflaster und der Senfwickel sind klassische Naturheilverfahren, die in d
 Innerlich regen Senfkörner die Verdauung an, wirken antibakteriell im Darm und steigern den Appetit. In der modernen Forschung zeigen die Glucosinolate des Senfs vielversprechende krebshemmende Eigenschaften.`,
     geschichte: `Senf wurde bereits 3000 v. Chr. in Indien und China als Heilmittel verwendet. Im antiken Griechenland empfahl Hippokrates Senfumschläge bei Lungenleiden. Jesus verwendete das Senfkorn als Gleichnis für den Glauben.
 
-In der europäischen Klosterheilkunde war Senf ein unverzichtbares Heilmittel. Karl der Grosse ordnete den Anbau von Senf in seinen Gärten an. Sebastian Kneipp machte den Senfwickel zu einem Standardverfahren der Naturheilkunde.`,
+In der europäischen Klosterheilkunde war Senf ein unverzichtbares Heilmittel. Karl der Große ordnete den Anbau von Senf in seinen Gärten an. Sebastian Kneipp machte den Senfwickel zu einem Standardverfahren der Naturheilkunde.`,
     wirkungen: {
       hauptwirkungen: ['Durchblutungsfördernd', 'Antibakteriell', 'Schleimlösend', 'Verdauungsanregend', 'Hautreizend (therapeutisch)', 'Krebshemmend (Glucosinolate)'],
-      inhaltsstoffe: ['Senfölglykoside (Sinigrin, Sinalbin)', 'Isothiocyanate', 'Fettes Öl', 'Eiweiss', 'Schleimstoffe', 'Myrosinase (Enzym)', 'Sinapin', 'Mineralstoffe'],
+      inhaltsstoffe: ['Senfölglykoside (Sinigrin, Sinalbin)', 'Isothiocyanate', 'Fettes Öl', 'Eiweiß', 'Schleimstoffe', 'Myrosinase (Enzym)', 'Sinapin', 'Mineralstoffe'],
     },
     ernte: {
       zeit: 'Samen im Spätsommer, wenn die Schoten reif und trocken sind.',
@@ -804,25 +804,25 @@ In der europäischen Klosterheilkunde war Senf ein unverzichtbares Heilmittel. K
     },
     zubereitungen: [
       {
-        name: 'Senfwickel (äusserlich)',
+        name: 'Senfwickel (äußerlich)',
         anleitung: '4 EL frisch gemahlenes Senfmehl mit lauwarmem Wasser zu einem Brei anrühren. Auf ein Tuch streichen und auf die Brust oder den Rücken legen. Nach 5-15 Minuten entfernen, wenn die Haut sich deutlich rötet.',
         wirkung: 'Stark durchblutungsfördernd, schleimlösend bei Bronchitis und Erkältung.',
       },
       {
         name: 'Senfkörner-Kur (innerlich)',
-        anleitung: 'Morgens nüchtern 1 TL ganze weisse Senfkörner unzerkaut mit Wasser schlucken. Über 2 Wochen als Kur.',
+        anleitung: 'Morgens nüchtern 1 TL ganze weiße Senfkörner unzerkaut mit Wasser schlucken. Über 2 Wochen als Kur.',
         wirkung: 'Verdauungsanregend, entschlackend, hilfreich bei träger Verdauung.',
       },
       {
-        name: 'Senffussbad',
-        anleitung: '2 EL Senfmehl in eine Schüssel mit warmem Wasser (38°C) einrühren. Füsse 10-15 Minuten darin baden. Danach gut abwaschen.',
+        name: 'Senffußbad',
+        anleitung: '2 EL Senfmehl in eine Schüssel mit warmem Wasser (38°C) einrühren. Füße 10-15 Minuten darin baden. Danach gut abwaschen.',
         wirkung: 'Durchblutungsfördernd, wärmend, hilfreich bei Kopfschmerzen und Erkältung.',
       },
     ],
     mischungen: ['Brustwickel (mit Leinsamen als Schutzschicht)', 'Verdauungsgewürz (mit Kümmel und Koriander)', 'Erkältungsbad (mit Thymian und Rosmarin)'],
-    tcm: 'Heiss und scharf. Wärmt die Lunge, löst Kälte-Schleim und belebt die Durchblutung. Äusserlich vertreibt er Wind-Kälte aus den Leitbahnen.',
-    ayurveda: 'Sarshapa (Senf) ist scharf, heiss und leicht. Reduziert Kapha und Vata, erhöht Pitta. Stärkt Agni und wirkt Ama-ausleitend. Das Senfkornöl wird zur Abhyanga (Ölmassage) bei Kapha-Typen verwendet.',
-    volksmedizin: 'Senfwickel und Senfpflaster waren die stärksten Hausmittel der Volksmedizin bei Erkältungen. Man legte sie auf die Brust bei Bronchitis, auf den Nacken bei Kopfschmerzen und auf die Füsse bei Fieber. Senfkörner im Schuh sollten gegen Rheuma helfen.',
+    tcm: 'Heiß und scharf. Wärmt die Lunge, löst Kälte-Schleim und belebt die Durchblutung. Äußerlich vertreibt er Wind-Kälte aus den Leitbahnen.',
+    ayurveda: 'Sarshapa (Senf) ist scharf, heiß und leicht. Reduziert Kapha und Vata, erhöht Pitta. Stärkt Agni und wirkt Ama-ausleitend. Das Senfkornöl wird zur Abhyanga (Ölmassage) bei Kapha-Typen verwendet.',
+    volksmedizin: 'Senfwickel und Senfpflaster waren die stärksten Hausmittel der Volksmedizin bei Erkältungen. Man legte sie auf die Brust bei Bronchitis, auf den Nacken bei Kopfschmerzen und auf die Füße bei Fieber. Senfkörner im Schuh sollten gegen Rheuma helfen.',
     besonders_bei: ['bronchitis', 'muskelverspannungen', 'erkaeltung', 'verdauungsschwaeche', 'kopfschmerzen', 'durchblutungsstoerungen'],
   },
 
@@ -834,9 +834,9 @@ In der europäischen Klosterheilkunde war Senf ein unverzichtbares Heilmittel. K
     familie: 'Sesamgewächse (Pedaliaceae)',
     beschreibung: `Sesam ist eine der ältesten Ölpflanzen der Menschheit -- "Sesam öffne dich!" aus Tausendundeiner Nacht spielt auf die aufspringenden Samenkapseln an. Die kleinen, ölreichen Samen sind ein Kraftpaket an Nährstoffen: Sie enthalten mehr Kalzium als Milch, reichlich Eisen, Magnesium und hochwertige Fettsäuren.
 
-In der Heilkunde ist besonders das Sesamöl von Bedeutung. Im Ayurveda gilt es als das "König der Öle" und wird sowohl innerlich als auch äusserlich für Massagen, Ölziehen und als Grundlage für medizinische Öle verwendet. Sesamöl enthält Sesamin und Sesamolin -- Lignane mit starker antioxidativer und zellschützender Wirkung.
+In der Heilkunde ist besonders das Sesamöl von Bedeutung. Im Ayurveda gilt es als das "König der Öle" und wird sowohl innerlich als auch äußerlich für Massagen, Ölziehen und als Grundlage für medizinische Öle verwendet. Sesamöl enthält Sesamin und Sesamolin -- Lignane mit starker antioxidativer und zellschützender Wirkung.
 
-Schwarzer Sesam gilt in der TCM und im Ayurveda als besonders wertvoll. Er nährt die Essenz (Jing), stärkt Knochen und Haare und wirkt dem Altern entgegen. Regelmässiger Sesamverzehr unterstützt die Knochengesundheit, senkt den Cholesterinspiegel und schützt die Leber.`,
+Schwarzer Sesam gilt in der TCM und im Ayurveda als besonders wertvoll. Er nährt die Essenz (Jing), stärkt Knochen und Haare und wirkt dem Altern entgegen. Regelmäßiger Sesamverzehr unterstützt die Knochengesundheit, senkt den Cholesterinspiegel und schützt die Leber.`,
     geschichte: `Sesam wurde vor über 5000 Jahren in Indien domestiziert und verbreitete sich von dort nach Mesopotamien, Ägypten und China. In babylonischen Keilschrifttafeln wird Sesamöl als Nahrung der Götter erwähnt.
 
 Im alten Ägypten wurde Sesam als Heilmittel und Gewürz in Gräbern beigegeben. In der ayurvedischen Medizin ist Sesamöl seit Jahrtausenden das wichtigste Basisöl für therapeutische Anwendungen. Hippokrates empfahl Sesam als kräftigendes Nahrungsmittel.`,
@@ -846,8 +846,8 @@ Im alten Ägypten wurde Sesam als Heilmittel und Gewürz in Gräbern beigegeben.
     },
     ernte: {
       zeit: 'In Anbaugebieten im Herbst -- bei uns als Importware.',
-      teile: 'Samen (weiss, braun oder schwarz), Öl.',
-      tipps: 'Ungeschälter Sesam hat einen höheren Kalziumgehalt als geschälter. Schwarzer Sesam ist in der Heilkunde wertvoller als weisser. Sesamöl kaltgepresst und in Bioqualität wählen. Gerösteter Sesam schmeckt intensiver, verliert aber Wirkstoffe.',
+      teile: 'Samen (weiß, braun oder schwarz), Öl.',
+      tipps: 'Ungeschälter Sesam hat einen höheren Kalziumgehalt als geschälter. Schwarzer Sesam ist in der Heilkunde wertvoller als weißer. Sesamöl kaltgepresst und in Bioqualität wählen. Gerösteter Sesam schmeckt intensiver, verliert aber Wirkstoffe.',
       mond: 'Keine spezifischen Mondempfehlungen.',
     },
     zubereitungen: [
@@ -868,8 +868,8 @@ Im alten Ägypten wurde Sesam als Heilmittel und Gewürz in Gräbern beigegeben.
       },
     ],
     mischungen: ['Kalzium-Mix (mit Mohn und Mandeln)', 'Gomasio (Sesamsalz mit Meersalz)', 'Sesamöl-Kräuteröl (mit Ashwagandha und Brahmi)'],
-    tcm: 'Hei Zhi Ma (Schwarzer Sesam) ist süss und neutral. Nährt Leber und Niere, ergänzt Essenz und Blut, befeuchtet den Darm. Eines der wichtigsten Jing-Tonika der TCM.',
-    ayurveda: 'Tila (Sesam) ist süss, bitter, zusammenziehend und heiss. Reduziert Vata, kann Pitta und Kapha erhöhen. Das Öl ist das wichtigste Vehikel (Anupana) im Ayurveda und die Grundlage für unzählige medizinische Ölpräparate.',
+    tcm: 'Hei Zhi Ma (Schwarzer Sesam) ist süß und neutral. Nährt Leber und Niere, ergänzt Essenz und Blut, befeuchtet den Darm. Eines der wichtigsten Jing-Tonika der TCM.',
+    ayurveda: 'Tila (Sesam) ist süß, bitter, zusammenziehend und heiß. Reduziert Vata, kann Pitta und Kapha erhöhen. Das Öl ist das wichtigste Vehikel (Anupana) im Ayurveda und die Grundlage für unzählige medizinische Ölpräparate.',
     volksmedizin: 'In der arabischen und indischen Volksmedizin galt Sesam als Kraftnahrung. Stillende Mütter assen Sesamkugeln mit Honig zur Milchbildung. Sesamöl wurde bei Ohrenschmerzen eingeträufelt, bei Verstopfung geschluckt und bei trockener Haut eingerieben.',
     besonders_bei: ['knochenschwaeche', 'haarverlust', 'mundgesundheit', 'trockene_haut', 'cholesterin', 'eisenmangel'],
   },
@@ -880,22 +880,22 @@ Im alten Ägypten wurde Sesam als Heilmittel und Gewürz in Gräbern beigegeben.
   'Soja': {
     vollname: 'Sojabohne (Glycine max)',
     familie: 'Hülsenfrüchtler (Fabaceae)',
-    beschreibung: `Die Sojabohne ist eine der nährstoffreichsten Pflanzen der Welt und liefert hochwertiges pflanzliches Eiweiss mit allen essentiellen Aminosäuren. In der Heilkunde sind besonders die Isoflavone der Soja von Bedeutung -- pflanzliche Östrogene (Phytoöstrogene), die eine milde hormonähnliche Wirkung entfalten.
+    beschreibung: `Die Sojabohne ist eine der nährstoffreichsten Pflanzen der Welt und liefert hochwertiges pflanzliches Eiweiß mit allen essentiellen Aminosäuren. In der Heilkunde sind besonders die Isoflavone der Soja von Bedeutung -- pflanzliche Östrogene (Phytoöstrogene), die eine milde hormonähnliche Wirkung entfalten.
 
-Soja-Isoflavone wie Genistein und Daidzein können Wechseljahresbeschwerden lindern, indem sie die nachlassende körpereigene Östrogenproduktion teilweise ausgleichen. Hitzewallungen, Schweissausbrüche und Stimmungsschwankungen werden durch regelmässigen Sojakonsum nachweislich gemildert.
+Soja-Isoflavone wie Genistein und Daidzein können Wechseljahresbeschwerden lindern, indem sie die nachlassende körpereigene Östrogenproduktion teilweise ausgleichen. Hitzewallungen, Schweißausbrüche und Stimmungsschwankungen werden durch regelmäßigen Sojakonsum nachweislich gemildert.
 
 Fermentierte Sojaprodukte -- wie Miso, Tempeh und Natto -- sind besonders wertvoll, da die Fermentation die Nährstoffverfügbarkeit erhöht und zusätzliche probiotische Eigenschaften schafft. Natto enthält das Enzym Nattokinase, das die Blutgerinnung hemmt und die Durchblutung fördert.`,
     geschichte: `Die Sojabohne wird seit über 5000 Jahren in China kultiviert und gilt dort als eine der "fünf heiligen Körnerfrüchte". In der TCM werden verschiedene Sojaprodukte als Heilmittel eingesetzt -- fermentierte schwarze Sojabohnen (Dou Chi) bei Erkältungen und Tofu als kühlendes Nahrungsmittel.
 
 In Japan ist Soja seit Jahrhunderten ein Grundnahrungsmittel. Die auffallend niedrige Rate an Wechseljahresbeschwerden und hormonabhängigen Krebserkrankungen bei japanischen Frauen wird auf den hohen Sojakonsum zurückgeführt.`,
     wirkungen: {
-      hauptwirkungen: ['Phytoöstrogen (hormonausgleichend)', 'Cholesterinsenkend', 'Knochenschützend', 'Eiweisslieferant', 'Blutverdünnend (Natto)', 'Antioxidativ'],
-      inhaltsstoffe: ['Isoflavone (Genistein, Daidzein)', 'Hochwertiges Eiweiss', 'Lecithin', 'Saponine', 'Phytosterole', 'Vitamin K2 (in Natto)', 'Nattokinase (in Natto)', 'Kalzium', 'Eisen'],
+      hauptwirkungen: ['Phytoöstrogen (hormonausgleichend)', 'Cholesterinsenkend', 'Knochenschützend', 'Eiweißlieferant', 'Blutverdünnend (Natto)', 'Antioxidativ'],
+      inhaltsstoffe: ['Isoflavone (Genistein, Daidzein)', 'Hochwertiges Eiweiß', 'Lecithin', 'Saponine', 'Phytosterole', 'Vitamin K2 (in Natto)', 'Nattokinase (in Natto)', 'Kalzium', 'Eisen'],
     },
     ernte: {
       zeit: 'Im Herbst, wenn die Hülsen trocken sind -- in unseren Breiten zunehmend als Bio-Anbau.',
       teile: 'Reife Samen (Bohnen), Sprossen, fermentierte Produkte.',
-      tipps: 'Sojabohnen immer gut kochen -- roh enthalten sie Trypsininhibitoren, die die Eiweissverdauung hemmen. Fermentierte Produkte (Miso, Tempeh, Natto) sind bekömmlicher und nährstoffreicher als unfermentierte.',
+      tipps: 'Sojabohnen immer gut kochen -- roh enthalten sie Trypsininhibitoren, die die Eiweißverdauung hemmen. Fermentierte Produkte (Miso, Tempeh, Natto) sind bekömmlicher und nährstoffreicher als unfermentierte.',
       mond: 'Bei abnehmendem Mond ernten für gute Lagerfähigkeit.',
     },
     zubereitungen: [
@@ -916,8 +916,8 @@ In Japan ist Soja seit Jahrhunderten ein Grundnahrungsmittel. Die auffallend nie
       },
     ],
     mischungen: ['Wechseljahre-Kur (mit Rotklee und Traubensilberkerze)', 'Knochenstärkung (mit Sesam und Kalzium-Algen)', 'Probiotik-Mix (Miso mit Sauerkraut)'],
-    tcm: 'Dou (Sojabohne) ist süss und neutral. Stärkt Milz, befeuchtet Trockenheit und entgiftet. Dou Chi (fermentierte schwarze Sojabohnen) sind leicht kalt und zerstreuen äussere Wind-Kälte bei Erkältungen.',
-    ayurveda: 'Schwer und ölig, nährt die Gewebe. Fermentierte Formen sind leichter verdaulich und stärken Agni. Kann in Übermass Kapha erhöhen. Besonders wertvoll für Frauen in der Lebensmitte.',
+    tcm: 'Dou (Sojabohne) ist süß und neutral. Stärkt Milz, befeuchtet Trockenheit und entgiftet. Dou Chi (fermentierte schwarze Sojabohnen) sind leicht kalt und zerstreuen äußere Wind-Kälte bei Erkältungen.',
+    ayurveda: 'Schwer und ölig, nährt die Gewebe. Fermentierte Formen sind leichter verdaulich und stärken Agni. Kann in Übermaß Kapha erhöhen. Besonders wertvoll für Frauen in der Lebensmitte.',
     volksmedizin: 'In der ostasiatischen Volksmedizin galt Soja als Lebenselixier. Miso-Suppe wurde täglich zur Gesunderhaltung getrunken. Sojamilch gab man Kindern mit Milchunverträglichkeit. Natto galt in Japan als Langlebigkeitsmittel.',
     besonders_bei: ['wechseljahresbeschwerden', 'cholesterin', 'osteoporose', 'eiweissmangel', 'darmgesundheit', 'herz_kreislauf'],
   },
@@ -930,12 +930,12 @@ In Japan ist Soja seit Jahrhunderten ein Grundnahrungsmittel. Die auffallend nie
     familie: 'Korbblütler (Asteraceae)',
     beschreibung: `Die Sonnenblume ist nicht nur ein Symbol der Lebensfreude, sondern auch eine vielseitige Heilpflanze. Ihre ölreichen Samen sind eine hervorragende Quelle für Vitamin E, Linolsäure und Phytosterole, die das Herz-Kreislauf-System schützen und die Hautgesundheit fördern.
 
-Das kaltgepresste Sonnenblumenöl wird äusserlich bei trockener, rissiger Haut und als Basis für Heilsalben verwendet. Innerlich unterstützt es den Cholesterinstoffwechsel und liefert wichtige ungesättigte Fettsäuren. Die Blütenblätter ergeben einen milden, leicht harntreibenden Tee, der bei Fieber und Erkältungen getrunken wird.
+Das kaltgepresste Sonnenblumenöl wird äußerlich bei trockener, rissiger Haut und als Basis für Heilsalben verwendet. Innerlich unterstützt es den Cholesterinstoffwechsel und liefert wichtige ungesättigte Fettsäuren. Die Blütenblätter ergeben einen milden, leicht harntreibenden Tee, der bei Fieber und Erkältungen getrunken wird.
 
 Weniger bekannt ist die Heilkraft der Blätter und Stängel: Ein Aufguss der Blätter wirkt fiebersenkend und harntreibend und wurde in der nordamerikanischen Volksmedizin bei Malaria-ähnlichen Fieberzuständen eingesetzt. Die Wurzel wurde als schleimlösendes Mittel verwendet.`,
     geschichte: `Die Sonnenblume stammt aus Nordamerika und wurde von indigenen Völkern seit mindestens 3000 Jahren kultiviert. Die Hopi, Navajo und andere Stämme nutzten die Samen als Nahrung und das Öl als Hautpflegemittel und Sonnenschutz.
 
-Spanische Konquistadoren brachten die Sonnenblume im 16. Jahrhundert nach Europa, wo sie zunächst als Zierpflanze bewundert wurde. Peter der Grosse machte sie in Russland populär, wo sie zum wichtigsten Öllieferanten aufstieg. In der russischen Volksmedizin galt Sonnenblumentee als Fiebermittel.`,
+Spanische Konquistadoren brachten die Sonnenblume im 16. Jahrhundert nach Europa, wo sie zunächst als Zierpflanze bewundert wurde. Peter der Große machte sie in Russland populär, wo sie zum wichtigsten Öllieferanten aufstieg. In der russischen Volksmedizin galt Sonnenblumentee als Fiebermittel.`,
     wirkungen: {
       hauptwirkungen: ['Hautpflegend', 'Cholesterinregulierend', 'Entzündungshemmend', 'Fiebersenkend (Blätter)', 'Harntreibend', 'Antioxidativ (Vitamin E)'],
       inhaltsstoffe: ['Linolsäure', 'Ölsäure', 'Vitamin E (Tocopherole)', 'Phytosterole', 'Lecithin', 'Selen', 'Magnesium', 'Chlorogensäure', 'Flavonoide (Blüten)'],
@@ -949,7 +949,7 @@ Spanische Konquistadoren brachten die Sonnenblume im 16. Jahrhundert nach Europa
     zubereitungen: [
       {
         name: 'Sonnenblumenblüten-Tee',
-        anleitung: '2 TL getrocknete Blütenblätter mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. 2-3 Tassen täglich.',
+        anleitung: '2 TL getrocknete Blütenblätter mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 2-3 Tassen täglich.',
         wirkung: 'Fiebersenkend, harntreibend, hilfreich bei Erkältungen.',
       },
       {
@@ -964,8 +964,8 @@ Spanische Konquistadoren brachten die Sonnenblume im 16. Jahrhundert nach Europa
       },
     ],
     mischungen: ['Hautpflegeöl (mit Jojobaöl und Vitamin E)', 'Erkältungstee (mit Holunder und Lindenblüten)', 'Nussmischung (mit Kürbiskernen und Walnüssen)'],
-    tcm: 'Süss und warm. Nährt Yin und Blut, befeuchtet den Darm und senkt den Blutdruck. Die Blüten klären leichte Hitze.',
-    ayurveda: 'Süss und leicht wärmend. Nährt die Gewebe und stärkt Ojas. Das Öl wird äusserlich zur Hautpflege bei Vata-Trockenheit empfohlen.',
+    tcm: 'Süß und warm. Nährt Yin und Blut, befeuchtet den Darm und senkt den Blutdruck. Die Blüten klären leichte Hitze.',
+    ayurveda: 'Süß und leicht wärmend. Nährt die Gewebe und stärkt Ojas. Das Öl wird äußerlich zur Hautpflege bei Vata-Trockenheit empfohlen.',
     volksmedizin: 'In der russischen und ukrainischen Volksmedizin wurde Sonnenblumentee bei Fieber und Malaria getrunken. Die Samen wurden als Nervennahrung bei Erschöpfung gegessen. Sonnenblumenöl diente als Einreibung bei Rheuma und als Ölzieh-Mittel zur Zahnpflege.',
     besonders_bei: ['trockene_haut', 'herzgesundheit', 'fieber', 'cholesterin', 'vitamin_e_mangel', 'erschoepfung'],
   },
@@ -991,7 +991,7 @@ Im Mittelalter wurde Spargel in Klostergärten als Heilpflanze angebaut. Die Wur
     ernte: {
       zeit: 'Triebe von April bis Juni (Spargelsaison). Wurzeln im Herbst.',
       teile: 'Junge Triebe (Stangen), Wurzeln (Rhizome).',
-      tipps: 'Weisser Spargel wird gestochen, bevor er aus der Erde kommt, grüner Spargel wächst oberirdisch und enthält mehr Vitamine. Die Wurzeln älterer Pflanzen ausgraben, waschen und trocknen.',
+      tipps: 'Weißer Spargel wird gestochen, bevor er aus der Erde kommt, grüner Spargel wächst oberirdisch und enthält mehr Vitamine. Die Wurzeln älterer Pflanzen ausgraben, waschen und trocknen.',
       mond: 'Triebe bei zunehmendem Mond stechen, Wurzeln bei abnehmendem Mond ernten.',
     },
     zubereitungen: [
@@ -1013,7 +1013,7 @@ Im Mittelalter wurde Spargel in Klostergärten als Heilpflanze angebaut. Die Wur
     ],
     mischungen: ['Entwässerungstee (mit Birkenblättern und Brennnessel)', 'Nierenstärkungs-Tee (mit Goldrutenkraut und Schachtelhalm)', 'Frühlingskur (mit Löwenzahn und Bärlauch)'],
     tcm: 'Bitter, leicht kalt. Klärt Hitze, fördert die Diurese und nährt Yin. Wirkt auf Lunge, Niere und Blase.',
-    ayurveda: 'Shatavari (wilder Spargel) ist süss, bitter und kühlend. Das wichtigste Rasayana für Frauen -- nährt Ojas, stärkt die Fruchtbarkeit, harmonisiert den weiblichen Zyklus und unterstützt die Milchbildung. Reduziert Pitta und Vata.',
+    ayurveda: 'Shatavari (wilder Spargel) ist süß, bitter und kühlend. Das wichtigste Rasayana für Frauen -- nährt Ojas, stärkt die Fruchtbarkeit, harmonisiert den weiblichen Zyklus und unterstützt die Milchbildung. Reduziert Pitta und Vata.',
     volksmedizin: 'In der Volksmedizin war Spargel das Entwässerungsmittel schlechthin. Der Wurzeltee wurde bei "Wassersucht", Gicht und Blasensteinen getrunken. Spargelkochsud galt als Schönheitstrunk für die Haut. Stillende Mütter mieden Spargel -- er galt als "austrocknend" für die Milch.',
     besonders_bei: ['wassereinlagerungen', 'harnwegsinfekt', 'gicht', 'nierensteine', 'entschlackung', 'hormonbalance'],
   },
@@ -1024,45 +1024,45 @@ Im Mittelalter wurde Spargel in Klostergärten als Heilpflanze angebaut. Die Wur
   'Stevia': {
     vollname: 'Stevia (Stevia rebaudiana)',
     familie: 'Korbblütler (Asteraceae)',
-    beschreibung: `Stevia -- das "Süsskraut" der Guaraní -- ist eine kleine, unscheinbare Pflanze aus Paraguay mit einer aussergewöhnlichen Eigenschaft: Ihre Blätter sind bis zu 300-mal süsser als Zucker, enthalten dabei aber keine Kalorien und beeinflussen den Blutzucker nicht. Die süssenden Wirkstoffe sind Steviolglykoside, allen voran Steviosid und Rebaudiosid A.
+    beschreibung: `Stevia -- das "Süßkraut" der Guaraní -- ist eine kleine, unscheinbare Pflanze aus Paraguay mit einer außergewöhnlichen Eigenschaft: Ihre Blätter sind bis zu 300-mal süßer als Zucker, enthalten dabei aber keine Kalorien und beeinflussen den Blutzucker nicht. Die süßenden Wirkstoffe sind Steviolglykoside, allen voran Steviosid und Rebaudiosid A.
 
-Neben der Süsskraft besitzt Stevia auch Heilwirkungen, die in der Volksmedizin Südamerikas seit Jahrhunderten genutzt werden. Die Blätter wirken leicht blutdrucksenkend, blutzuckerregulierend und antimikrobiell. Bei Diabetes, Bluthochdruck und Übergewicht ist Stevia daher doppelt wertvoll -- als Zuckerersatz und als sanftes Heilmittel.
+Neben der Süßkraft besitzt Stevia auch Heilwirkungen, die in der Volksmedizin Südamerikas seit Jahrhunderten genutzt werden. Die Blätter wirken leicht blutdrucksenkend, blutzuckerregulierend und antimikrobiell. Bei Diabetes, Bluthochdruck und Übergewicht ist Stevia daher doppelt wertvoll -- als Zuckerersatz und als sanftes Heilmittel.
 
-Stevia kann problemlos auf der Fensterbank oder im Garten angebaut werden. Die frischen Blätter schmecken leicht lakritzig-süss und können direkt in Tee oder Speisen verwendet werden.`,
-    geschichte: `Die Guaraní-Indianer Paraguays nutzen Stevia seit Jahrhunderten als Süssmittel für ihren bitteren Mate-Tee und als Heilpflanze. Sie nannten es "Ka'a he'e" -- süsses Kraut. In der Volksmedizin wurde es bei Herzleiden, Diabetes und als Verhütungsmittel eingesetzt.
+Stevia kann problemlos auf der Fensterbank oder im Garten angebaut werden. Die frischen Blätter schmecken leicht lakritzig-süß und können direkt in Tee oder Speisen verwendet werden.`,
+    geschichte: `Die Guaraní-Indianer Paraguays nutzen Stevia seit Jahrhunderten als Süßmittel für ihren bitteren Mate-Tee und als Heilpflanze. Sie nannten es "Ka'a he'e" -- süßes Kraut. In der Volksmedizin wurde es bei Herzleiden, Diabetes und als Verhütungsmittel eingesetzt.
 
-Der Schweizer Botaniker Moisés Santiago Bertoni beschrieb die Pflanze 1899 wissenschaftlich. In Japan wird Stevia seit den 1970er Jahren als Süssstoff verwendet und hat dort einen Marktanteil von über 40% aller Süssmittel. In der EU wurde Stevia erst 2011 als Lebensmittelzusatz zugelassen.`,
+Der Schweizer Botaniker Moisés Santiago Bertoni beschrieb die Pflanze 1899 wissenschaftlich. In Japan wird Stevia seit den 1970er Jahren als Süßstoff verwendet und hat dort einen Marktanteil von über 40% aller Süßmittel. In der EU wurde Stevia erst 2011 als Lebensmittelzusatz zugelassen.`,
     wirkungen: {
-      hauptwirkungen: ['Natürliches Süssmittel (kalorienfrei)', 'Blutzuckerregulierend', 'Leicht blutdrucksenkend', 'Antimikrobiell', 'Kariesvorbeugend', 'Antioxidativ'],
+      hauptwirkungen: ['Natürliches Süßmittel (kalorienfrei)', 'Blutzuckerregulierend', 'Leicht blutdrucksenkend', 'Antimikrobiell', 'Kariesvorbeugend', 'Antioxidativ'],
       inhaltsstoffe: ['Steviosid', 'Rebaudiosid A-F', 'Flavonoide', 'Terpene', 'Chlorogensäure', 'Vitamin C', 'Beta-Carotin', 'Mineralstoffe'],
     },
     ernte: {
-      zeit: 'Blätter von Juni bis September, vor der Blüte für maximale Süsskraft.',
+      zeit: 'Blätter von Juni bis September, vor der Blüte für maximale Süßkraft.',
       teile: 'Blätter -- frisch oder getrocknet.',
-      tipps: 'Stevia vor der Blüte ernten, da die Süsskraft danach abnimmt. Die Blätter schonend bei niedriger Temperatur trocknen und zu Pulver zermahlen. Als Topfpflanze auf der Fensterbank kultivieren -- sie braucht Wärme und Licht.',
-      mond: 'Bei zunehmendem Mond ernten für maximale Süsskraft.',
+      tipps: 'Stevia vor der Blüte ernten, da die Süßkraft danach abnimmt. Die Blätter schonend bei niedriger Temperatur trocknen und zu Pulver zermahlen. Als Topfpflanze auf der Fensterbank kultivieren -- sie braucht Wärme und Licht.',
+      mond: 'Bei zunehmendem Mond ernten für maximale Süßkraft.',
     },
     zubereitungen: [
       {
-        name: 'Stevia-Tee (Süssmittel)',
-        anleitung: '1 frisches oder getrocknetes Steviablatt direkt in den Tee geben. Oder: 1/2 TL Stevia-Blattpulver als Süssmittel verwenden.',
-        wirkung: 'Kalorienfrei süssen, ohne den Blutzucker zu beeinflussen.',
+        name: 'Stevia-Tee (Süßmittel)',
+        anleitung: '1 frisches oder getrocknetes Steviablatt direkt in den Tee geben. Oder: 1/2 TL Stevia-Blattpulver als Süßmittel verwenden.',
+        wirkung: 'Kalorienfrei süßen, ohne den Blutzucker zu beeinflussen.',
       },
       {
         name: 'Stevia-Extrakt (flüssig)',
-        anleitung: '20g getrocknete Steviablätter mit 200ml warmem Wasser übergiessen, 24 Stunden ziehen lassen, abseihen. Im Kühlschrank aufbewahren. Tropfenweise zum Süssen verwenden.',
-        wirkung: 'Konzentriertes natürliches Süssmittel für Getränke und Speisen.',
+        anleitung: '20g getrocknete Steviablätter mit 200ml warmem Wasser übergießen, 24 Stunden ziehen lassen, abseihen. Im Kühlschrank aufbewahren. Tropfenweise zum Süßen verwenden.',
+        wirkung: 'Konzentriertes natürliches Süßmittel für Getränke und Speisen.',
       },
       {
         name: 'Stevia-Mundspülung',
-        anleitung: '2 TL getrocknete Steviablätter mit 250ml kochendem Wasser übergiessen, 15 Minuten ziehen lassen. Abkühlen lassen und als Mundspülung verwenden.',
+        anleitung: '2 TL getrocknete Steviablätter mit 250ml kochendem Wasser übergießen, 15 Minuten ziehen lassen. Abkühlen lassen und als Mundspülung verwenden.',
         wirkung: 'Antimikrobiell, kariesvorbeugend, erfrischt den Mundraum.',
       },
     ],
-    mischungen: ['Diabetiker-Tee (mit Bittergurke und Zimt)', 'Süsser Kräutertee (mit Minze und Zitronenmelisse)', 'Mate-Stevia (traditionelle Guaraní-Mischung)'],
-    tcm: 'Süss und kühl. Klärt Hitze und erzeugt Körperflüssigkeiten. Als Süssmittel ohne die befeuchtenden Nebenwirkungen von Zucker.',
-    ayurveda: 'Süss und kühlend, ohne die Kapha-erhöhende Wirkung von Zucker. Ideal für Pitta-Typen und Menschen mit Kapha-Überschuss. Unterstützt den Stoffwechsel ohne Agni zu schwächen.',
-    volksmedizin: 'Die Guaraní nutzten Stevia nicht nur als Süssmittel, sondern auch als Heilpflanze. Es wurde bei Herzproblemen als Tee getrunken, bei Diabetes eingesetzt und äusserlich bei Hautwunden aufgelegt. In Paraguay gilt es bis heute als mildes Herz- und Kreislaufmittel.',
+    mischungen: ['Diabetiker-Tee (mit Bittergurke und Zimt)', 'Süßer Kräutertee (mit Minze und Zitronenmelisse)', 'Mate-Stevia (traditionelle Guaraní-Mischung)'],
+    tcm: 'Süß und kühl. Klärt Hitze und erzeugt Körperflüssigkeiten. Als Süßmittel ohne die befeuchtenden Nebenwirkungen von Zucker.',
+    ayurveda: 'Süß und kühlend, ohne die Kapha-erhöhende Wirkung von Zucker. Ideal für Pitta-Typen und Menschen mit Kapha-Überschuss. Unterstützt den Stoffwechsel ohne Agni zu schwächen.',
+    volksmedizin: 'Die Guaraní nutzten Stevia nicht nur als Süßmittel, sondern auch als Heilpflanze. Es wurde bei Herzproblemen als Tee getrunken, bei Diabetes eingesetzt und äußerlich bei Hautwunden aufgelegt. In Paraguay gilt es bis heute als mildes Herz- und Kreislaufmittel.',
     besonders_bei: ['diabetes', 'uebergewicht', 'bluthochdruck', 'karies', 'zuckerersatz', 'stoffwechsel'],
   },
 
@@ -1072,7 +1072,7 @@ Der Schweizer Botaniker Moisés Santiago Bertoni beschrieb die Pflanze 1899 wiss
   'Stockrose': {
     vollname: 'Stockrose (Alcea rosea)',
     familie: 'Malvengewächse (Malvaceae)',
-    beschreibung: `Die Stockrose ist eine majestätische Pflanze, die mit ihren bis zu zwei Meter hohen Blütenstielen und den grossen, tellerförmigen Blüten in Rot, Rosa, Gelb, Weiss und fast Schwarz Bauerngärten und Hauswände ziert. Als enge Verwandte der Wilden Malve teilt sie deren hervorragende Heilwirkungen.
+    beschreibung: `Die Stockrose ist eine majestätische Pflanze, die mit ihren bis zu zwei Meter hohen Blütenstielen und den großen, tellerförmigen Blüten in Rot, Rosa, Gelb, Weiß und fast Schwarz Bauerngärten und Hauswände ziert. Als enge Verwandte der Wilden Malve teilt sie deren hervorragende Heilwirkungen.
 
 Die Blüten -- besonders die dunkelroten bis schwarzen Sorten -- sind reich an Schleimstoffen und Anthocyanen. Sie wirken reizmildernd, schleimhautschützend und entzündungshemmend. Bei Husten, Halsschmerzen, Heiserkeit und Magen-Darm-Entzündungen legen sich die Schleimstoffe wie ein schützender Film über die gereizten Schleimhäute.
 
@@ -1093,24 +1093,24 @@ Hildegard von Bingen empfahl die Stockrose bei Husten und Halsentzündungen. In 
     zubereitungen: [
       {
         name: 'Stockrosen-Tee',
-        anleitung: '2 TL getrocknete Blütenblätter mit 250ml heissem Wasser (nicht kochend!) übergiessen, 10 Minuten ziehen lassen. Mit Honig süssen.',
+        anleitung: '2 TL getrocknete Blütenblätter mit 250ml heißem Wasser (nicht kochend!) übergießen, 10 Minuten ziehen lassen. Mit Honig süßen.',
         wirkung: 'Schleimhautschützend bei Husten, Halsschmerzen und Heiserkeit.',
       },
       {
         name: 'Stockrosen-Gurgellösung',
-        anleitung: '3 TL Blüten mit 250ml heissem Wasser übergiessen, 15 Minuten ziehen lassen. Lauwarm mehrmals täglich gurgeln.',
+        anleitung: '3 TL Blüten mit 250ml heißem Wasser übergießen, 15 Minuten ziehen lassen. Lauwarm mehrmals täglich gurgeln.',
         wirkung: 'Entzündungshemmend und reizmildernd bei Halsentzündungen und Mundschleimhautentzündungen.',
       },
       {
         name: 'Stockrosen-Sirup',
-        anleitung: 'Frische dunkle Blüten mit Zucker schichten und mit kochendem Wasser übergiessen. 24 Stunden ziehen lassen, abseihen und nochmals aufkochen.',
+        anleitung: 'Frische dunkle Blüten mit Zucker schichten und mit kochendem Wasser übergießen. 24 Stunden ziehen lassen, abseihen und nochmals aufkochen.',
         wirkung: 'Hustenlindernd, wohlschmeckend, ideal für Kinder.',
       },
     ],
     mischungen: ['Hustentee (mit Spitzwegerich und Thymian)', 'Halsschmerz-Gurgeltee (mit Salbei und Kamille)', 'Schmuck-Teemischung (mit Kornblume und Ringelblume)'],
-    tcm: 'Kühl und süss. Befeuchtet die Lunge, klärt Hitze und stillt Husten. Ähnliche Wirkung wie die verwandte Malve (Wilde Malve).',
-    ayurveda: 'Kühlend, süss und schleimig. Beruhigt Pitta und Vata. Die Schleimstoffe nähren und schützen die Schleimhäute. Ideal bei Trockenheit der Atemwege.',
-    volksmedizin: 'In der Volksmedizin war die Stockrose die "grosse Schwester" der Malve. Der Blütentee wurde bei Husten, Heiserkeit und Halsweh getrunken. Die schwarzen Blüten dienten als Färbemittel für Wein -- ein "geschwärzter Wein" galt als besonders heilkräftig. Äusserlich wurden Blütenumschläge auf entzündete Augen gelegt.',
+    tcm: 'Kühl und süß. Befeuchtet die Lunge, klärt Hitze und stillt Husten. Ähnliche Wirkung wie die verwandte Malve (Wilde Malve).',
+    ayurveda: 'Kühlend, süß und schleimig. Beruhigt Pitta und Vata. Die Schleimstoffe nähren und schützen die Schleimhäute. Ideal bei Trockenheit der Atemwege.',
+    volksmedizin: 'In der Volksmedizin war die Stockrose die "große Schwester" der Malve. Der Blütentee wurde bei Husten, Heiserkeit und Halsweh getrunken. Die schwarzen Blüten dienten als Färbemittel für Wein -- ein "geschwärzter Wein" galt als besonders heilkräftig. Äußerlich wurden Blütenumschläge auf entzündete Augen gelegt.',
     besonders_bei: ['husten', 'halsschmerzen', 'heiserkeit', 'mundschleimhaut', 'magenentzuendung', 'hautpflege'],
   },
 
@@ -1124,7 +1124,7 @@ Hildegard von Bingen empfahl die Stockrose bei Husten und Halsentzündungen. In 
 
 Trotz seines unattraktiven Namens ist der Storchschnabel eine bemerkenswerte Heilpflanze. Er enthält reichlich Gerbstoffe, Bitterstoffe und das seltene Element Germanium in organischer Form. In der Volksmedizin gilt er als blutstillendes, zusammenziehendes und wundheilendes Mittel. Bei Durchfall, Blutungen, Entzündungen und Geschwüren im Mund- und Rachenraum wird er eingesetzt.
 
-Äusserlich ist das Ruprechtskraut ein ausgezeichnetes Wundheilmittel. Die Gerbstoffe ziehen das Gewebe zusammen, stillen Blutungen und fördern die Narbenbildung. Auch bei Hautausschlägen, Furunkeln und Insektenstichen findet es Anwendung.`,
+Äußerlich ist das Ruprechtskraut ein ausgezeichnetes Wundheilmittel. Die Gerbstoffe ziehen das Gewebe zusammen, stillen Blutungen und fördern die Narbenbildung. Auch bei Hautausschlägen, Furunkeln und Insektenstichen findet es Anwendung.`,
     geschichte: `Der Name "Ruprechtskraut" geht auf den heiligen Ruprecht von Salzburg zurück, der die Pflanze der Legende nach als Heilmittel offenbart haben soll. Im Mittelalter galt sie als magisches Schutzkraut -- über die Tür gehängt, sollte sie böse Geister und Schlangen fernhalten.
 
 Paracelsus schätzte das Ruprechtskraut als Wundmittel und nannte es "Herba vulneralis" -- Wundkraut. In der Signaturenlehre wurde die storchschnabelförmige Frucht als Hinweis auf eine Wirkung bei Fruchtbarkeitsproblemen gedeutet.`,
@@ -1141,23 +1141,23 @@ Paracelsus schätzte das Ruprechtskraut als Wundmittel und nannte es "Herba vuln
     zubereitungen: [
       {
         name: 'Storchschnabel-Tee',
-        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. 2-3 Tassen täglich.',
+        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 2-3 Tassen täglich.',
         wirkung: 'Adstringierend, hilfreich bei Durchfall, Blutungen und Entzündungen.',
       },
       {
         name: 'Storchschnabel-Gurgellösung',
-        anleitung: '3 TL Kraut mit 250ml kochendem Wasser übergiessen, 15 Minuten ziehen lassen. Mehrmals täglich lauwarm gurgeln.',
+        anleitung: '3 TL Kraut mit 250ml kochendem Wasser übergießen, 15 Minuten ziehen lassen. Mehrmals täglich lauwarm gurgeln.',
         wirkung: 'Entzündungshemmend bei Zahnfleischentzündung, Aphten und Halsentzündung.',
       },
       {
-        name: 'Storchschnabel-Wundauflage (äusserlich)',
+        name: 'Storchschnabel-Wundauflage (äußerlich)',
         anleitung: 'Frisches Kraut zerquetschen und als Breiumschlag auf kleine Wunden, Insektenstiche oder Hautausschläge auflegen.',
         wirkung: 'Blutstillend, wundheilend und entzündungshemmend.',
       },
     ],
     mischungen: ['Durchfalltee (mit Blutwurz und Heidelbeerblättern)', 'Wundheil-Mischung (mit Schafgarbe und Ringelblume)', 'Mundpflege-Gurgeltee (mit Salbei und Myrrhe)'],
     tcm: 'Bitter, leicht kühl. Klärt Hitze, stoppt Blutungen und entgiftet. Wird bei Hitze-Durchfall und Blutungen im unteren Erwärmer eingesetzt.',
-    ayurveda: 'Bitter und zusammenziehend, kühlend. Reduziert Pitta und Kapha. Die adstringierenden Gerbstoffe festigen die Gewebe und stoppen übermässige Ausscheidungen.',
+    ayurveda: 'Bitter und zusammenziehend, kühlend. Reduziert Pitta und Kapha. Die adstringierenden Gerbstoffe festigen die Gewebe und stoppen übermäßige Ausscheidungen.',
     volksmedizin: 'Das Ruprechtskraut war das "Wundkraut" der Bauern. Frische Blätter wurden direkt auf blutende Wunden gedrückt. Der Tee wurde bei Durchfall und Nasenbluten getrunken. Schwangere hängten das Kraut über die Wiege, um das Neugeborene zu schützen.',
     besonders_bei: ['wundheilung', 'durchfall', 'zahnfleischentzuendung', 'blutungen', 'insektenstiche', 'mundschleimhaut'],
   },
@@ -1168,7 +1168,7 @@ Paracelsus schätzte das Ruprechtskraut als Wundmittel und nannte es "Herba vuln
   'Tamarinde': {
     vollname: 'Tamarinde (Tamarindus indica)',
     familie: 'Hülsenfrüchtler (Fabaceae)',
-    beschreibung: `Die Tamarinde ist ein mächtiger, langlebiger Tropenbaum, dessen schotenförmige Früchte ein süss-saures, klebriges Fruchtmus enthalten. Dieses Mus ist in der tropischen Küche und Heilkunde gleichermassen bedeutsam. Der hohe Gehalt an Weinsäure, Apfelsäure und Zitronensäure verleiht der Tamarinde ihre charakteristische Säure.
+    beschreibung: `Die Tamarinde ist ein mächtiger, langlebiger Tropenbaum, dessen schotenförmige Früchte ein süß-saures, klebriges Fruchtmus enthalten. Dieses Mus ist in der tropischen Küche und Heilkunde gleichermaßen bedeutsam. Der hohe Gehalt an Weinsäure, Apfelsäure und Zitronensäure verleiht der Tamarinde ihre charakteristische Säure.
 
 In der Heilkunde wird Tamarinde vor allem als mildes, angenehm schmeckendes Abführmittel geschätzt. Das Fruchtmus regt die Darmtätigkeit an, ohne Krämpfe zu verursachen, und ist daher auch für Kinder und ältere Menschen geeignet. Zudem wirkt Tamarinde fiebersenkend, entzündungshemmend und leberprotektiv.
 
@@ -1194,7 +1194,7 @@ In der ayurvedischen Medizin wird Tamarinde seit Jahrtausenden als Verdauungshil
       },
       {
         name: 'Tamarinden-Fiebertee',
-        anleitung: '1 EL Tamarindenmus in 300ml heissem Wasser auflösen. Leicht süssen und warm trinken.',
+        anleitung: '1 EL Tamarindenmus in 300ml heißem Wasser auflösen. Leicht süßen und warm trinken.',
         wirkung: 'Fiebersenkend, durstlöschend und erfrischend bei Fieber und Infekten.',
       },
       {
@@ -1205,7 +1205,7 @@ In der ayurvedischen Medizin wird Tamarinde seit Jahrtausenden als Verdauungshil
     ],
     mischungen: ['Verdauungstrunk (mit Ingwer und Kreuzkümmel)', 'Fiebermischung (mit Hibiskus und Zitronengras)', 'Leberkur (mit Kurkuma und Artischocke)'],
     tcm: 'Sauer, kühl. Erzeugt Körperflüssigkeiten, stillt Durst und führt Hitze ab. Wirkt auf Magen und Dickdarm. Leitet sanft über den Darm aus.',
-    ayurveda: 'Imli (Tamarinde) ist sauer, süss und erhitzend. Reduziert Vata, kann Pitta und Kapha bei Übermass erhöhen. In kleinen Mengen appetitanregend und verdauungsfördernd. Wird als Churna (Pulver) bei Verdauungsschwäche eingesetzt.',
+    ayurveda: 'Imli (Tamarinde) ist sauer, süß und erhitzend. Reduziert Vata, kann Pitta und Kapha bei Übermaß erhöhen. In kleinen Mengen appetitanregend und verdauungsfördernd. Wird als Churna (Pulver) bei Verdauungsschwäche eingesetzt.',
     volksmedizin: 'In der tropischen Volksmedizin ist Tamarinde ein Alltagsheilmittel. Der Trunk wird bei Fieber, Verstopfung und Leberbeschwerden getrunken. Die Blätter werden als Umschlag bei Gelenkschmerzen verwendet. In Afrika wird das Fruchtmus auf Wunden aufgelegt und der Rindensud bei Durchfall getrunken.',
     besonders_bei: ['verstopfung', 'fieber', 'leberbeschwerden', 'verdauungsschwaeche', 'entzuendungen', 'trockene_augen'],
   },

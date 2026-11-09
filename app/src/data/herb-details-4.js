@@ -12,11 +12,11 @@ export const HERB_DEEP_4 = {
   'Klee': {
     vollname: 'Rotklee (Trifolium pratense)',
     familie: 'Hülsenfrüchtler (Fabaceae)',
-    beschreibung: `Der Rotklee ist eine jener Pflanzen, die man auf jeder Wiese findet und deren Heilkraft doch viel zu selten genutzt wird. Seine kugelförmigen, rosaroten Blütenköpfe leuchten von Mai bis September in Wiesen und an Wegrändern. Die Blüten duften zart süsslich und schmecken leicht honigartig -- Kinder saugen seit jeher den Nektar aus den einzelnen Blütenröhrchen.
+    beschreibung: `Der Rotklee ist eine jener Pflanzen, die man auf jeder Wiese findet und deren Heilkraft doch viel zu selten genutzt wird. Seine kugelförmigen, rosaroten Blütenköpfe leuchten von Mai bis September in Wiesen und an Wegrändern. Die Blüten duften zart süßlich und schmecken leicht honigartig -- Kinder saugen seit jeher den Nektar aus den einzelnen Blütenröhrchen.
 
 Rotklee enthält Isoflavone -- pflanzliche Substanzen, die dem weiblichen Östrogen ähneln. Diese Phytoöstrogene machen ihn zu einer der wichtigsten Heilpflanzen für Frauen in den Wechseljahren. Er lindert Hitzewallungen, Stimmungsschwankungen und unterstützt die Knochendichte. Gleichzeitig wirkt er blutreinigend und wird traditionell bei Hauterkrankungen eingesetzt.
 
-Die Blüten sind reich an Mineralien, Vitaminen und Eiweiss. In der Küche lassen sie sich frisch in Salate streuen, zu Sirup verarbeiten oder als Tee geniessen. Auch das junge Grün kann als Salatbeigabe verwendet werden.`,
+Die Blüten sind reich an Mineralien, Vitaminen und Eiweiß. In der Küche lassen sie sich frisch in Salate streuen, zu Sirup verarbeiten oder als Tee genießen. Auch das junge Grün kann als Salatbeigabe verwendet werden.`,
     geschichte: `Der Klee galt bei den Kelten als heilige Pflanze -- das dreiblättrige Kleeblatt symbolisierte die dreifache Göttin. Der irische Heilige Patrick nutzte das Kleeblatt, um die Dreifaltigkeit zu erklären. Im Mittelalter verwendeten Kräuterkundige den Rotklee als Blutreinigungsmittel und bei Hautkrankheiten.
 
 In der nordamerikanischen Volksmedizin der Siedler wurde Rotklee-Tee als Krebsheilmittel geschätzt. Die berühmte Essiac-Teemischung enthält Rotklee als einen ihrer Bestandteile. Seit den 1990er Jahren wird Rotklee intensiv wegen seiner Isoflavone erforscht.`,
@@ -33,7 +33,7 @@ In der nordamerikanischen Volksmedizin der Siedler wurde Rotklee-Tee als Krebshe
     zubereitungen: [
       {
         name: 'Rotklee-Tee',
-        anleitung: '2-3 TL getrocknete Rotkleeblüten mit 250ml kochendem Wasser übergiessen, 10 Minuten zugedeckt ziehen lassen. 2-3 Tassen täglich über mehrere Wochen.',
+        anleitung: '2-3 TL getrocknete Rotkleeblüten mit 250ml kochendem Wasser übergießen, 10 Minuten zugedeckt ziehen lassen. 2-3 Tassen täglich über mehrere Wochen.',
         wirkung: 'Lindert Wechseljahresbeschwerden, reinigt das Blut, unterstützt die Haut.',
       },
       {
@@ -43,13 +43,13 @@ In der nordamerikanischen Volksmedizin der Siedler wurde Rotklee-Tee als Krebshe
       },
       {
         name: 'Rotklee-Blütenessig',
-        anleitung: 'Eine Handvoll frische Rotkleeblüten in eine Flasche geben und mit Apfelessig übergiessen. 3 Wochen ziehen lassen. Als Salatdressing oder 1 EL in einem Glas Wasser täglich.',
+        anleitung: 'Eine Handvoll frische Rotkleeblüten in eine Flasche geben und mit Apfelessig übergießen. 3 Wochen ziehen lassen. Als Salatdressing oder 1 EL in einem Glas Wasser täglich.',
         wirkung: 'Mineralienreich, unterstützt die Verdauung und den Säure-Basen-Haushalt.',
       },
     ],
     mischungen: ['Wechseljahres-Tee (mit Salbei und Frauenmantel)', 'Blutreinigungstee (mit Brennnessel und Löwenzahn)', 'Hauttee (mit Stiefmütterchen und Viola)'],
     tcm: 'Rotklee wirkt in der TCM kühlend und befeuchtend, er nährt das Yin und klärt Blut-Hitze.',
-    ayurveda: 'Rotklee beruhigt Pitta und nährt das Rasa-Dhatu (Nährstoffgewebe). Er wird bei übermässiger Hitze und Trockenheit empfohlen.',
+    ayurveda: 'Rotklee beruhigt Pitta und nährt das Rasa-Dhatu (Nährstoffgewebe). Er wird bei übermäßiger Hitze und Trockenheit empfohlen.',
     volksmedizin: 'Bäuerinnen legten Rotkleeblüten-Umschläge auf entzündete Brüste und schmerzhafte Schwellungen. Der Tee galt als sanftes Beruhigungsmittel für nervöse Kinder.',
     besonders_bei: ['wechseljahre', 'haut', 'osteoporose', 'husten', 'blutreinigung', 'entzuendung'],
   },
@@ -65,12 +65,12 @@ In der nordamerikanischen Volksmedizin der Siedler wurde Rotklee-Tee als Krebshe
 Der aus den getrockneten Knollen gewonnene Salep ist eines der mildesten und zugleich wirksamsten Mittel bei gereizten Schleimhäuten. Er legt sich wie ein schützender Film über entzündete Magen- und Darmwände, beruhigt hartnäckigen Reizhusten und nährt geschwächte Kranke. Gerade für Kinder und alte Menschen ist Salep ein sanftes Stärkungsmittel.
 
 Wichtig: Alle heimischen Orchideen stehen unter strengem Naturschutz. Knabenkraut darf nicht in der Natur gesammelt werden. Salep aus kontrolliertem Anbau oder aus dem Handel verwenden.`,
-    geschichte: `Schon Dioskurides beschrieb die Orchisknollen als Aphrodisiakum -- wer die grössere Knolle ass, sollte einen Sohn zeugen. Im osmanischen Reich war Salep ein Nationalgetränk, das an jeder Strassenecke verkauft wurde. Es galt als wärmend, stärkend und potenzfördernd.
+    geschichte: `Schon Dioskurides beschrieb die Orchisknollen als Aphrodisiakum -- wer die größere Knolle ass, sollte einen Sohn zeugen. Im osmanischen Reich war Salep ein Nationalgetränk, das an jeder Straßenecke verkauft wurde. Es galt als wärmend, stärkend und potenzfördernd.
 
-In der europäischen Volksmedizin wurde Salep als Kräftigungsmittel für Rekonvaleszente, Kinder und Schwache eingesetzt. Bis ins 19. Jahrhundert war Salep-Suppe ein verbreitetes Krankenessen. Heute ist Salep vor allem in der Türkei noch beliebt -- als Heissgetränk "Sahlep" und als Zutat für Dondurma-Eis.`,
+In der europäischen Volksmedizin wurde Salep als Kräftigungsmittel für Rekonvaleszente, Kinder und Schwache eingesetzt. Bis ins 19. Jahrhundert war Salep-Suppe ein verbreitetes Krankenessen. Heute ist Salep vor allem in der Türkei noch beliebt -- als Heißgetränk "Sahlep" und als Zutat für Dondurma-Eis.`,
     wirkungen: {
       hauptwirkungen: ['Schleimhautschützend', 'Reizlindernd', 'Nährend', 'Kräftigend', 'Einhüllend', 'Durchfallhemmend'],
-      inhaltsstoffe: ['Schleimstoffe (Glucomannan)', 'Stärke', 'Zucker', 'Eiweiss', 'Mineralstoffe', 'Spurenelemente'],
+      inhaltsstoffe: ['Schleimstoffe (Glucomannan)', 'Stärke', 'Zucker', 'Eiweiß', 'Mineralstoffe', 'Spurenelemente'],
     },
     ernte: {
       zeit: 'Nicht in der Natur sammeln -- streng geschützt! Salep nur aus dem Handel beziehen.',
@@ -81,12 +81,12 @@ In der europäischen Volksmedizin wurde Salep als Kräftigungsmittel für Rekonv
     zubereitungen: [
       {
         name: 'Salep-Getränk',
-        anleitung: '1 TL Salep-Pulver in 250ml heisse Milch (oder Pflanzenmilch) einrühren, mit Zimt und etwas Honig würzen. Langsam erwärmen, bis es leicht eindickt.',
+        anleitung: '1 TL Salep-Pulver in 250ml heiße Milch (oder Pflanzenmilch) einrühren, mit Zimt und etwas Honig würzen. Langsam erwärmen, bis es leicht eindickt.',
         wirkung: 'Wärmt, nährt und stärkt bei Erschöpfung, Erkältung und Magen-Darm-Beschwerden.',
       },
       {
         name: 'Salep-Schleim bei Durchfall',
-        anleitung: '1 TL Salep-Pulver in kaltem Wasser anrühren, dann mit 250ml kochendem Wasser übergiessen und gut verrühren. In kleinen Schlucken trinken.',
+        anleitung: '1 TL Salep-Pulver in kaltem Wasser anrühren, dann mit 250ml kochendem Wasser übergießen und gut verrühren. In kleinen Schlucken trinken.',
         wirkung: 'Beruhigt den Darm, stoppt Durchfall, schützt die gereizte Schleimhaut.',
       },
       {
@@ -115,7 +115,7 @@ Koriandersamen gehören zu den ältesten Gewürzen der Welt und sind ein erstkla
 Besonders spannend ist die Fähigkeit des Korianderkrauts, Schwermetalle zu binden. Diese chelatierende Eigenschaft macht ihn zu einem beliebten Begleiter bei Entgiftungskuren. Zusammen mit Chlorella-Algen wird frisches Koriandergrün in naturheilkundlichen Schwermetall-Ausleitungen eingesetzt.`,
     geschichte: `Koriander wurde bereits vor 7000 Jahren im östlichen Mittelmeerraum kultiviert und gehört damit zu den ältesten Kulturpflanzen. Man fand Koriandersamen im Grab des Pharao Tutanchamun. In der Bibel wird er mit dem Manna verglichen, das die Israeliten in der Wüste nährte.
 
-Die Römer brachten den Koriander nach Mitteleuropa. Karl der Grosse liess ihn in seinen Klostergärten anbauen. Im Mittelalter war Koriander Bestandteil von Liebestränken und galt als Aphrodisiakum.`,
+Die Römer brachten den Koriander nach Mitteleuropa. Karl der Große ließ ihn in seinen Klostergärten anbauen. Im Mittelalter war Koriander Bestandteil von Liebestränken und galt als Aphrodisiakum.`,
     wirkungen: {
       hauptwirkungen: ['Blähungswidrig (karminativ)', 'Krampflösend', 'Verdauungsfördernd', 'Schwermetallausleitend', 'Antibakteriell', 'Appetitanregend'],
       inhaltsstoffe: ['Ätherisches Öl (Linalool)', 'Fettsäuren', 'Flavonoide', 'Cumarine', 'Gerbstoffe', 'Vitamin C', 'Vitamin K', 'Kalium', 'Eisen'],
@@ -129,17 +129,17 @@ Die Römer brachten den Koriander nach Mitteleuropa. Karl der Grosse liess ihn i
     zubereitungen: [
       {
         name: 'Koriander-Verdauungstee (Samen)',
-        anleitung: '1 TL Koriandersamen leicht im Mörser andrücken, mit 250ml kochendem Wasser übergiessen, 10 Minuten zugedeckt ziehen lassen. Nach den Mahlzeiten trinken.',
+        anleitung: '1 TL Koriandersamen leicht im Mörser andrücken, mit 250ml kochendem Wasser übergießen, 10 Minuten zugedeckt ziehen lassen. Nach den Mahlzeiten trinken.',
         wirkung: 'Löst Blähungen, lindert Bauchkrämpfe und fördert die Verdauung.',
       },
       {
         name: 'Dreiwind-Tee',
-        anleitung: 'Je 1 TL Koriandersamen, Fenchelsamen und Kümmelsamen mischen, leicht andrücken und mit 500ml kochendem Wasser übergiessen. 10 Minuten ziehen lassen.',
+        anleitung: 'Je 1 TL Koriandersamen, Fenchelsamen und Kümmelsamen mischen, leicht andrücken und mit 500ml kochendem Wasser übergießen. 10 Minuten ziehen lassen.',
         wirkung: 'Das klassische Mittel gegen Blähungen und Völlegefühl.',
       },
       {
         name: 'Koriander-Entgiftungs-Pesto',
-        anleitung: 'Ein grosses Bund frischen Koriander mit Knoblauch, Olivenöl, Zitronensaft, Pinienkernen und Salz pürieren. Täglich 1-2 EL zum Essen über 2-3 Wochen.',
+        anleitung: 'Ein großes Bund frischen Koriander mit Knoblauch, Olivenöl, Zitronensaft, Pinienkernen und Salz pürieren. Täglich 1-2 EL zum Essen über 2-3 Wochen.',
         wirkung: 'Unterstützt die Schwermetall-Ausleitung, besonders in Kombination mit Chlorella.',
       },
       {
@@ -166,7 +166,7 @@ Die Römer brachten den Koriander nach Mitteleuropa. Karl der Grosse liess ihn i
 Die Kornblume ist eine sanfte Augenheilpflanze. Ihre Aufgüsse beruhigen müde, gereizte und entzündete Augen. Auch als Schmuckdroge in Teemischungen ist sie beliebt, denn sie behält beim Trocknen ihre intensive Farbe. Innerlich wirkt sie leicht harntreibend und fiebersenkend.
 
 Ihr Bitterstoffgehalt macht sie zu einem guten Verdauungshelfer. Die Blüten lassen sich frisch in Salate streuen oder zu einem duftenden Blütenwasser destillieren, das in der Naturkosmetik für empfindliche Haut und Augenpflege geschätzt wird.`,
-    geschichte: `Die Kornblume war die Lieblingsblume von Kaiser Wilhelm I. und wurde zum Symbol des deutschen Kaiserreichs. Der Sage nach floh Königin Luise von Preussen mit ihren Kindern vor Napoleon und flocht ihnen Kornblumenkränze, um sie ruhig zu halten. In der ägyptischen Antike fand man Kornblumenreste in Grabbeigaben.
+    geschichte: `Die Kornblume war die Lieblingsblume von Kaiser Wilhelm I. und wurde zum Symbol des deutschen Kaiserreichs. Der Sage nach floh Königin Luise von Preußen mit ihren Kindern vor Napoleon und flocht ihnen Kornblumenkränze, um sie ruhig zu halten. In der ägyptischen Antike fand man Kornblumenreste in Grabbeigaben.
 
 In der mittelalterlichen Klostermedizin wurde die Kornblume als Augenheilmittel geschätzt. Hieronymus Bock schrieb 1539, dass der Saft der Blüten "die entzündeten Augen kühle und stärke".`,
     wirkungen: {
@@ -182,12 +182,12 @@ In der mittelalterlichen Klostermedizin wurde die Kornblume als Augenheilmittel 
     zubereitungen: [
       {
         name: 'Kornblumen-Augenwasser',
-        anleitung: '1 EL getrocknete Kornblumenblüten mit 250ml kochendem Wasser übergiessen, 15 Minuten zugedeckt ziehen lassen, sorgfältig durch einen Kaffeefilter abseihen. Lauwarm als Augenspülung oder mit Wattepads als Kompresse verwenden.',
+        anleitung: '1 EL getrocknete Kornblumenblüten mit 250ml kochendem Wasser übergießen, 15 Minuten zugedeckt ziehen lassen, sorgfältig durch einen Kaffeefilter abseihen. Lauwarm als Augenspülung oder mit Wattepads als Kompresse verwenden.',
         wirkung: 'Beruhigt müde, gereizte und gerötete Augen, lindert Bindehautentzündung.',
       },
       {
         name: 'Kornblumen-Tee',
-        anleitung: '2 TL getrocknete Kornblumenblüten mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. 2-3 Tassen täglich.',
+        anleitung: '2 TL getrocknete Kornblumenblüten mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 2-3 Tassen täglich.',
         wirkung: 'Leicht harntreibend, fiebersenkend, unterstützt die Verdauung.',
       },
       {
@@ -219,7 +219,7 @@ Besonders wertvoll ist Kümmel für Säuglinge und Kleinkinder. Kümmelöl, auf 
 Im Mittelalter war Kümmel eines der wichtigsten Gewürze. Man würzte nicht nur Speisen damit, sondern streute ihn auch in die Wiege, um böse Geister von Neugeborenen fernzuhalten. In vielen Regionen ist Kümmel bis heute das wichtigste Brotgewürz.`,
     wirkungen: {
       hauptwirkungen: ['Blähungswidrig (karminativ)', 'Krampflösend', 'Verdauungsfördernd', 'Gallenanregend', 'Milchfördernd', 'Antibakteriell'],
-      inhaltsstoffe: ['Ätherisches Öl (Carvon, Limonen)', 'Flavonoide', 'Fettsäuren', 'Cumarine', 'Gerbstoffe', 'Eiweiss', 'Mineralstoffe (Eisen, Kalzium)'],
+      inhaltsstoffe: ['Ätherisches Öl (Carvon, Limonen)', 'Flavonoide', 'Fettsäuren', 'Cumarine', 'Gerbstoffe', 'Eiweiß', 'Mineralstoffe (Eisen, Kalzium)'],
     },
     ernte: {
       zeit: 'Juni bis Juli, wenn die Früchte braun werden, aber noch nicht von selbst abfallen.',
@@ -230,7 +230,7 @@ Im Mittelalter war Kümmel eines der wichtigsten Gewürze. Man würzte nicht nur
     zubereitungen: [
       {
         name: 'Kümmeltee',
-        anleitung: '1 TL Kümmelfrüchte im Mörser leicht andrücken, mit 250ml kochendem Wasser übergiessen. 10 Minuten zugedeckt ziehen lassen. Nach dem Essen trinken.',
+        anleitung: '1 TL Kümmelfrüchte im Mörser leicht andrücken, mit 250ml kochendem Wasser übergießen. 10 Minuten zugedeckt ziehen lassen. Nach dem Essen trinken.',
         wirkung: 'Löst Blähungen und Krämpfe, fördert die Verdauung.',
       },
       {
@@ -245,7 +245,7 @@ Im Mittelalter war Kümmel eines der wichtigsten Gewürze. Man würzte nicht nur
       },
       {
         name: 'Stilltee mit Kümmel',
-        anleitung: 'Je 1 TL Kümmel, Fenchel und Anis leicht andrücken, mit 500ml kochendem Wasser übergiessen. 10 Minuten ziehen lassen. 2-3 Tassen täglich.',
+        anleitung: 'Je 1 TL Kümmel, Fenchel und Anis leicht andrücken, mit 500ml kochendem Wasser übergießen. 10 Minuten ziehen lassen. 2-3 Tassen täglich.',
         wirkung: 'Fördert die Milchbildung und macht die Muttermilch für das Baby bekömmlicher.',
       },
     ],
@@ -264,7 +264,7 @@ Im Mittelalter war Kümmel eines der wichtigsten Gewürze. Man würzte nicht nur
     familie: 'Kürbisgewächse (Cucurbitaceae)',
     beschreibung: `Der Kürbis ist weit mehr als ein herbstliches Dekorationselement. Seine Samen -- besonders die schalenfreien des Steirischen Ölkürbis -- gehören zu den wertvollsten pflanzlichen Heilmitteln für die Blase und die Prostata. Das dunkelgrüne Kürbiskernöl ist ein kulinarisches und medizinisches Juwel zugleich.
 
-Kürbiskerne enthalten eine einzigartige Kombination aus Phytosterolen, Zink, Selen, Vitamin E und ungesättigten Fettsäuren. Die Phytosterole hemmen das Enzym 5-Alpha-Reduktase, das Testosteron in Dihydrotestosteron umwandelt -- genau jene Substanz, die bei der gutartigen Prostatavergrösserung eine zentrale Rolle spielt.
+Kürbiskerne enthalten eine einzigartige Kombination aus Phytosterolen, Zink, Selen, Vitamin E und ungesättigten Fettsäuren. Die Phytosterole hemmen das Enzym 5-Alpha-Reduktase, das Testosteron in Dihydrotestosteron umwandelt -- genau jene Substanz, die bei der gutartigen Prostatavergrößerung eine zentrale Rolle spielt.
 
 Auch für die Blase sind Kürbiskerne ein Segen: Sie stärken die Blasenmuskulatur, lindern Reizblase und häufigen Harndrang. Frauen profitieren bei Blasenschwäche und stressbedingter Inkontinenz. Das Fruchtfleisch selbst ist ballaststoffreich, kalorienarm und ein hervorragender Betacarotin-Lieferant.`,
     geschichte: `Kürbisse gehören zu den ältesten Kulturpflanzen Amerikas -- in Mexiko wurden 10.000 Jahre alte Kürbissamen gefunden. Die indigenen Völker Nordamerikas nutzten Kürbiskerne als Wurmmittel und Nahrungsquelle. Mit der Entdeckung Amerikas kam der Kürbis nach Europa.
@@ -310,7 +310,7 @@ Die Steirischen Bauern züchteten im 19. Jahrhundert die schalenlosen Kürbisker
   'Linde': {
     vollname: 'Winterlinde (Tilia cordata) / Sommerlinde (Tilia platyphyllos)',
     familie: 'Lindengewächse (Tiliaceae)',
-    beschreibung: `Die Linde ist der Baum der Mitte -- jahrhundertelang stand sie im Dorfzentrum als Versammlungs- und Gerichtsbaum. Wenn sie im Juni blüht, erfüllt ihr süsser, honigartiger Duft ganze Strassenzüge. Bienen summen in ihren Kronen, und kundige Sammler pflücken die zartgelben Blüten mitsamt dem Hochblatt für den Lindenblütentee.
+    beschreibung: `Die Linde ist der Baum der Mitte -- jahrhundertelang stand sie im Dorfzentrum als Versammlungs- und Gerichtsbaum. Wenn sie im Juni blüht, erfüllt ihr süßer, honigartiger Duft ganze Straßenzüge. Bienen summen in ihren Kronen, und kundige Sammler pflücken die zartgelben Blüten mitsamt dem Hochblatt für den Lindenblütentee.
 
 Lindenblüten gehören zu den mildesten und sichersten Heilmitteln überhaupt. Ihr Haupteinsatzgebiet sind fiebrige Erkältungen: Der Tee fördert das Schwitzen und hilft dem Körper, die Temperatur auf natürliche Weise zu regulieren. Gleichzeitig beruhigt er die Nerven und fördert einen erholsamen Schlaf.
 
@@ -319,7 +319,7 @@ Die Schleimstoffe der Lindenblüte legen sich schützend über gereizte Atemwegs
 
 Hildegard von Bingen empfahl Lindenholzkohle bei Magenleiden. In der Volksmedizin war Lindenblütentee das erste Mittel bei jeder Erkältung. Noch heute gehört er zu den meistverkauften Kräutertees in Deutschland.`,
     wirkungen: {
-      hauptwirkungen: ['Schweisstreibend', 'Fiebersenkend', 'Beruhigend', 'Schleimlösend', 'Schlaffördernd', 'Krampflösend', 'Immunstärkend'],
+      hauptwirkungen: ['Schweißtreibend', 'Fiebersenkend', 'Beruhigend', 'Schleimlösend', 'Schlaffördernd', 'Krampflösend', 'Immunstärkend'],
       inhaltsstoffe: ['Flavonoide (Quercetin, Kämpferol)', 'Schleimstoffe', 'Ätherisches Öl (Farnesol)', 'Gerbstoffe', 'Phenolcarbonsäuren', 'Vitamin C', 'Mangan'],
     },
     ernte: {
@@ -331,24 +331,24 @@ Hildegard von Bingen empfahl Lindenholzkohle bei Magenleiden. In der Volksmedizi
     zubereitungen: [
       {
         name: 'Lindenblütentee (Schwitztee)',
-        anleitung: '2 TL getrocknete Lindenblüten mit 250ml kochendem Wasser übergiessen, 10 Minuten zugedeckt ziehen lassen. So heiss wie möglich trinken, ins Bett legen und zudecken. 3-4 Tassen bei Fieber.',
+        anleitung: '2 TL getrocknete Lindenblüten mit 250ml kochendem Wasser übergießen, 10 Minuten zugedeckt ziehen lassen. So heiß wie möglich trinken, ins Bett legen und zudecken. 3-4 Tassen bei Fieber.',
         wirkung: 'Fördert das Schwitzen, senkt Fieber auf natürliche Weise, stärkt die Abwehr.',
       },
       {
         name: 'Lindenblüten-Schlaftee',
-        anleitung: '2 TL Lindenblüten mit 250ml kochendem Wasser übergiessen, 10 Minuten ziehen lassen. Mit etwas Honig süssen und eine halbe Stunde vor dem Schlafengehen trinken.',
+        anleitung: '2 TL Lindenblüten mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. Mit etwas Honig süßen und eine halbe Stunde vor dem Schlafengehen trinken.',
         wirkung: 'Beruhigt die Nerven, fördert einen sanften, natürlichen Schlaf.',
       },
       {
         name: 'Lindenblüten-Bad',
-        anleitung: '50g Lindenblüten mit 1 Liter kochendem Wasser übergiessen, 20 Minuten ziehen lassen, abseihen und ins Badewasser geben. 20 Minuten bei 37-38°C baden.',
+        anleitung: '50g Lindenblüten mit 1 Liter kochendem Wasser übergießen, 20 Minuten ziehen lassen, abseihen und ins Badewasser geben. 20 Minuten bei 37-38°C baden.',
         wirkung: 'Entspannt Körper und Geist, hilft bei Erkältungen und Einschlafproblemen.',
       },
     ],
-    mischungen: ['Erkältungstee (mit Holunder und Mädesüss)', 'Schlaftee (mit Hopfen und Passionsblume)', 'Hustentee (mit Thymian und Spitzwegerich)'],
+    mischungen: ['Erkältungstee (mit Holunder und Mädesüß)', 'Schlaftee (mit Hopfen und Passionsblume)', 'Hustentee (mit Thymian und Spitzwegerich)'],
     tcm: 'Lindenblüte wirkt in der TCM leicht kühlend und zerstreuend, sie befreit die Oberfläche und öffnet die Poren bei Wind-Hitze-Erkältungen.',
     ayurveda: 'Lindenblüte beruhigt Vata und Pitta, sie bringt Sattva (Klarheit und Frieden) in den Geist und unterstützt das natürliche Schwitzen.',
-    volksmedizin: 'Jede Grossmutter wusste: Bei der ersten Erkältung Lindenblütentee trinken, heiss ins Bett und schwitzen lassen. Am nächsten Morgen war man wieder auf den Beinen.',
+    volksmedizin: 'Jede Großmutter wusste: Bei der ersten Erkältung Lindenblütentee trinken, heiß ins Bett und schwitzen lassen. Am nächsten Morgen war man wieder auf den Beinen.',
     besonders_bei: ['erkaeltung', 'fieber', 'schlafprobleme', 'husten', 'angst', 'nervositaet'],
   },
 
@@ -363,7 +363,7 @@ Hildegard von Bingen empfahl Lindenholzkohle bei Magenleiden. In der Volksmedizi
 Frisch schmeckt das Löffelkraut scharf und kresseartig -- ähnlich wie Meerrettich, mit dem es verwandt ist. Es enthält Senfölglykoside, die antibakteriell und appetitanregend wirken, dazu beachtliche Mengen an Vitamin C, Mineralstoffen und Bitterstoffen.
 
 Heute wird Löffelkraut vor allem als Frühlings- und Vitalpflanze geschätzt. Es reinigt das Blut, regt den Stoffwechsel an und stärkt das Immunsystem. In der Zahnpflege wurde es früher gegen Zahnfleischbluten und lockere Zähne eingesetzt -- beides Symptome von Vitamin-C-Mangel.`,
-    geschichte: `Das Löffelkraut war die "Vitamin-C-Tablette" der Seefahrer. Ab dem 16. Jahrhundert führten kluge Kapitäne Fässer mit eingesalzenem Löffelkraut an Bord, um ihre Mannschaft vor Skorbut zu bewahren. Der englische Seefahrer James Cook liess auf seinen Reisen regelmässig Löffelkraut sammeln.
+    geschichte: `Das Löffelkraut war die "Vitamin-C-Tablette" der Seefahrer. Ab dem 16. Jahrhundert führten kluge Kapitäne Fässer mit eingesalzenem Löffelkraut an Bord, um ihre Mannschaft vor Skorbut zu bewahren. Der englische Seefahrer James Cook ließ auf seinen Reisen regelmäßig Löffelkraut sammeln.
 
 In den Küstenregionen Nordeuropas war Löffelkraut ein wichtiges Frühlingskraut, das nach dem langen Winter frisches Vitamin C lieferte. Die Klostermedizin nutzte es als "Herba Cochleariae" bei Zahnfleischentzündungen und Blutarmut.`,
     wirkungen: {
@@ -389,7 +389,7 @@ In den Küstenregionen Nordeuropas war Löffelkraut ein wichtiges Frühlingskrau
       },
       {
         name: 'Löffelkraut-Mundspülung',
-        anleitung: '2 EL frisches Löffelkraut klein hacken, mit 250ml warmem Wasser übergiessen, 15 Minuten ziehen lassen. Mehrmals täglich den Mund damit spülen.',
+        anleitung: '2 EL frisches Löffelkraut klein hacken, mit 250ml warmem Wasser übergießen, 15 Minuten ziehen lassen. Mehrmals täglich den Mund damit spülen.',
         wirkung: 'Stärkt das Zahnfleisch, wirkt antibakteriell im Mundraum.',
       },
     ],
@@ -410,12 +410,12 @@ In den Küstenregionen Nordeuropas war Löffelkraut ein wichtiges Frühlingskrau
 
 Die Blätter enthalten ein komplexes ätherisches Öl mit Cineol als Hauptbestandteil, dazu Bitterstoffe, Gerbstoffe und Schleimstoffe. Diese Kombination macht den Lorbeer zu einem vielseitigen Heilmittel: Er fördert die Verdauung, löst Krämpfe, lindert Gelenkschmerzen und stärkt die Atemwege.
 
-Äusserlich wird Lorbeeröl bei rheumatischen Beschwerden, Prellungen und Verstauchungen eingesetzt. Es durchblutet das Gewebe und löst Verspannungen. In der Hautpflege ist die traditionelle Aleppo-Seife mit Lorbeeröl berühmt -- sie pflegt empfindliche und problematische Haut auf natürliche Weise.`,
+Äußerlich wird Lorbeeröl bei rheumatischen Beschwerden, Prellungen und Verstauchungen eingesetzt. Es durchblutet das Gewebe und löst Verspannungen. In der Hautpflege ist die traditionelle Aleppo-Seife mit Lorbeeröl berühmt -- sie pflegt empfindliche und problematische Haut auf natürliche Weise.`,
     geschichte: `Im antiken Griechenland war der Lorbeer dem Gott Apollon heilig. Der Legende nach verwandelte sich die Nymphe Daphne in einen Lorbeerbaum, um Apollon zu entkommen. Olympische Sieger und siegreiche Feldherren wurden mit Lorbeerkränzen gekrönt -- daher die Redewendung "sich auf seinen Lorbeeren ausruhen".
 
 Das Orakel von Delphi kaute Lorbeerblätter, um in Trance zu fallen und prophetische Visionen zu empfangen. In der römischen Medizin setzte Plinius Lorbeer gegen Verdauungsbeschwerden und Gelenkschmerzen ein.`,
     wirkungen: {
-      hauptwirkungen: ['Verdauungsfördernd', 'Krampflösend', 'Schmerzlindernd (äusserlich)', 'Durchblutungsfördernd', 'Schleimlösend', 'Appetitanregend'],
+      hauptwirkungen: ['Verdauungsfördernd', 'Krampflösend', 'Schmerzlindernd (äußerlich)', 'Durchblutungsfördernd', 'Schleimlösend', 'Appetitanregend'],
       inhaltsstoffe: ['Ätherisches Öl (Cineol, Linalool)', 'Bitterstoffe', 'Gerbstoffe', 'Schleimstoffe', 'Laurinsäure', 'Flavonoide', 'Geraniol'],
     },
     ernte: {
@@ -427,7 +427,7 @@ Das Orakel von Delphi kaute Lorbeerblätter, um in Trance zu fallen und propheti
     zubereitungen: [
       {
         name: 'Lorbeer-Verdauungstee',
-        anleitung: '2-3 Lorbeerblätter mit 250ml kochendem Wasser übergiessen, 10 Minuten zugedeckt ziehen lassen. Nach schweren Mahlzeiten eine Tasse trinken.',
+        anleitung: '2-3 Lorbeerblätter mit 250ml kochendem Wasser übergießen, 10 Minuten zugedeckt ziehen lassen. Nach schweren Mahlzeiten eine Tasse trinken.',
         wirkung: 'Fördert die Verdauung, lindert Völlegefühl und Blähungen.',
       },
       {
@@ -456,14 +456,14 @@ Das Orakel von Delphi kaute Lorbeerblätter, um in Trance zu fallen und propheti
     familie: 'Spargelgewächse (Asparagaceae)',
     beschreibung: `Der Mäusedorn ist ein immergrüner Zwergstrauch des Mittelmeerraums, der mit seinen stechenden Blattgebilden (es sind eigentlich abgeflachte Sprossachsen -- sogenannte Phyllokladien) auffällt. An ihrer Mitte sitzen im Frühling winzige Blüten, aus denen sich leuchtend rote Beeren entwickeln. Medizinisch werden vor allem die Wurzelstöcke verwendet.
 
-Die Wurzeln des Mäusedorns enthalten Ruscogenin und Neoruscogenin -- Steroidsaponine, die eine bemerkenswerte Wirkung auf die Blutgefässe haben. Sie verengen die erweiterten Venen, stärken die Gefässwände und verbessern den Blutfluss zurück zum Herzen. Damit ist der Mäusedorn eine der wichtigsten Venenheilpflanzen.
+Die Wurzeln des Mäusedorns enthalten Ruscogenin und Neoruscogenin -- Steroidsaponine, die eine bemerkenswerte Wirkung auf die Blutgefäße haben. Sie verengen die erweiterten Venen, stärken die Gefäßwände und verbessern den Blutfluss zurück zum Herzen. Damit ist der Mäusedorn eine der wichtigsten Venenheilpflanzen.
 
 Besonders wertvoll ist er bei chronisch-venöser Insuffizienz, Krampfadern, Besenreisern, schweren Beinen und Hämorrhoiden. Die Wirkung ist wissenschaftlich gut belegt und der Mäusedorn findet sich in vielen zugelassenen Venenpräparaten.`,
     geschichte: `Im antiken Griechenland wurde der Mäusedorn bereits von Dioskurides als Heilpflanze beschrieben. Er empfahl die Wurzel bei Harnbeschwerden und Wasseransammlungen. Sein deutscher Name stammt daher, dass man die stechenden Zweige früher um Vorräte legte, um Mäuse fernzuhalten.
 
-In der Renaissance entdeckten Kräuterkundige seine Wirkung auf die Venen. Im 20. Jahrhundert wurden die Ruscogenine isoliert und ihre gefässstärkende Wirkung wissenschaftlich bestätigt. Heute ist Mäusedorn in der europäischen Phytotherapie als Venenheilmittel anerkannt.`,
+In der Renaissance entdeckten Kräuterkundige seine Wirkung auf die Venen. Im 20. Jahrhundert wurden die Ruscogenine isoliert und ihre gefäßstärkende Wirkung wissenschaftlich bestätigt. Heute ist Mäusedorn in der europäischen Phytotherapie als Venenheilmittel anerkannt.`,
     wirkungen: {
-      hauptwirkungen: ['Venenstärkend', 'Gefässverengend (venentonisierend)', 'Entzündungshemmend', 'Abschwellend', 'Durchblutungsfördernd', 'Lymphflussfördernd'],
+      hauptwirkungen: ['Venenstärkend', 'Gefäßverengend (venentonisierend)', 'Entzündungshemmend', 'Abschwellend', 'Durchblutungsfördernd', 'Lymphflussfördernd'],
       inhaltsstoffe: ['Ruscogenin', 'Neoruscogenin', 'Steroidsaponine', 'Flavonoide', 'Triterpene', 'Ätherisches Öl', 'Phytosterole'],
     },
     ernte: {
@@ -486,13 +486,13 @@ In der Renaissance entdeckten Kräuterkundige seine Wirkung auf die Venen. Im 20
       {
         name: 'Mäusedorn-Salbe',
         anleitung: '50ml Mäusedorn-Ölauszug (Wurzel in Olivenöl 4 Wochen ausgezogen) mit 5g Bienenwachs erwärmen, bis das Wachs schmilzt. Rühren bis die Salbe fest wird. In Tiegel füllen.',
-        wirkung: 'Zur äusseren Anwendung bei Krampfadern, müden Beinen und Hämorrhoiden.',
+        wirkung: 'Zur äußeren Anwendung bei Krampfadern, müden Beinen und Hämorrhoiden.',
       },
     ],
     mischungen: ['Venentee (mit Rosskastanie und Steinklee)', 'Beinwell-Mäusedorn-Salbe (mit Beinwell)', 'Hämorrhoiden-Mischung (mit Hamamelis und Schafgarbe)'],
     tcm: 'Mäusedorn bewegt das Blut, löst Blut-Stase und stärkt die Milz bei der Blut-Haltung.',
     ayurveda: 'Mäusedorn reduziert Kapha in den unteren Extremitäten und stärkt den Rasa-Dhatu-Kreislauf (Lymphe und Plasma).',
-    volksmedizin: 'Mediterrane Landbevölkerung bereitete aus Mäusedornwurzeln einen Absud gegen "schwere Beine" nach langer Arbeit auf dem Feld. Schwangere badeten ihre geschwollenen Füsse in Mäusedorn-Wasser.',
+    volksmedizin: 'Mediterrane Landbevölkerung bereitete aus Mäusedornwurzeln einen Absud gegen "schwere Beine" nach langer Arbeit auf dem Feld. Schwangere badeten ihre geschwollenen Füße in Mäusedorn-Wasser.',
     besonders_bei: ['krampfadern', 'haemorrhoiden', 'schwere_beine', 'venenschwaeche', 'oedeme', 'durchblutung'],
   },
 
@@ -501,10 +501,10 @@ In der Renaissance entdeckten Kräuterkundige seine Wirkung auf die Venen. Im 20
   // ═══════════════════════════════════════════════════════════════════════════
   'Mais': {
     vollname: 'Mais (Zea mays)',
-    familie: 'Süssgräser (Poaceae)',
+    familie: 'Süßgräser (Poaceae)',
     beschreibung: `Mais kennt jeder als Nahrungspflanze -- doch die seidigen Fäden, die aus dem Maiskolben herausragen (die sogenannten Maisbart- oder Maisgriffel), sind ein kraftvolles Heilmittel für Nieren und Blase. Diese zarten, goldgelben Fäden enthalten eine Fülle an harntreibenden und entzündungshemmenden Wirkstoffen.
 
-Maisbart-Tee ist eines der sanftesten und wirksamsten natürlichen Diuretika. Er spült die Harnwege durch, ohne dabei wertvolle Mineralien aus dem Körper zu schwemmen -- ein entscheidender Vorteil gegenüber synthetischen Entwässerungsmitteln. Bei Blasenentzündungen, Nierengriess und Wassereinlagerungen leistet er hervorragende Dienste.
+Maisbart-Tee ist eines der sanftesten und wirksamsten natürlichen Diuretika. Er spült die Harnwege durch, ohne dabei wertvolle Mineralien aus dem Körper zu schwemmen -- ein entscheidender Vorteil gegenüber synthetischen Entwässerungsmitteln. Bei Blasenentzündungen, Nierengrieß und Wassereinlagerungen leistet er hervorragende Dienste.
 
 Darüber hinaus senkt Maisbart nachweislich den Blutzuckerspiegel und kann bei leichtem Diabetes Typ 2 unterstützend eingesetzt werden. Er enthält Allantoin (das auch Beinwell so wertvoll macht), Saponine, Gerbstoffe und wertvolle Mineralien wie Kalium und Zink.`,
     geschichte: `Mais wurde vor etwa 9000 Jahren in Mexiko aus der Wildgrasart Teosinte domestiziert -- eine der bemerkenswertesten Züchtungsleistungen der Menschheit. Für die Maya und Azteken war Mais eine heilige Pflanze, der Mensch selbst sei aus Maismehl geformt worden.
@@ -523,8 +523,8 @@ Die indigenen Völker Nordamerikas nutzten Maisbart seit Jahrhunderten als Heilm
     zubereitungen: [
       {
         name: 'Maisbart-Tee',
-        anleitung: '2 EL frische oder 1 EL getrocknete Maisfäden mit 250ml kochendem Wasser übergiessen, 15 Minuten zugedeckt ziehen lassen. 3-4 Tassen täglich zwischen den Mahlzeiten.',
-        wirkung: 'Spült die Harnwege, lindert Blasenentzündungen, hilft bei Nierengriess.',
+        anleitung: '2 EL frische oder 1 EL getrocknete Maisfäden mit 250ml kochendem Wasser übergießen, 15 Minuten zugedeckt ziehen lassen. 3-4 Tassen täglich zwischen den Mahlzeiten.',
+        wirkung: 'Spült die Harnwege, lindert Blasenentzündungen, hilft bei Nierengrieß.',
       },
       {
         name: 'Maisbart-Kaltauszug',
@@ -550,14 +550,14 @@ Die indigenen Völker Nordamerikas nutzten Maisbart seit Jahrhunderten als Heilm
   'Malve': {
     vollname: 'Wilde Malve (Malva sylvestris)',
     familie: 'Malvengewächse (Malvaceae)',
-    beschreibung: `Die Malve ist eine der ältesten Heilpflanzen Europas und war in der Antike so hoch geschätzt, dass Pythagoras sie als "heiligste aller Pflanzen" bezeichnete. Ihre grossen, rosafarbenen bis violetten Blüten mit den charakteristischen dunklen Adern sind eine Zierde für jeden Garten -- und ein Geschenk für die Gesundheit.
+    beschreibung: `Die Malve ist eine der ältesten Heilpflanzen Europas und war in der Antike so hoch geschätzt, dass Pythagoras sie als "heiligste aller Pflanzen" bezeichnete. Ihre großen, rosafarbenen bis violetten Blüten mit den charakteristischen dunklen Adern sind eine Zierde für jeden Garten -- und ein Geschenk für die Gesundheit.
 
 Der heilende Reichtum der Malve liegt in ihren Schleimstoffen. Diese natürlichen Polysaccharide quellen in Wasser auf und bilden einen schützenden, kühlenden Film über gereizte und entzündete Schleimhäute. Ob im Mund, im Rachen, im Magen oder im Darm -- überall, wo Schleimhaut leidet, bringt die Malve Linderung.
 
 Der violette Malventee ist auch optisch ein Erlebnis: Er schimmert tiefblau und verfärbt sich mit einem Spritzer Zitrone sofort pink. Malvenblüten sind essbar und eine wunderschöne Dekoration für Salate und Desserts. Die Blätter können wie Spinat zubereitet werden.`,
-    geschichte: `Im antiken Griechenland und Rom galt die Malve als Allheilmittel. Horaz schrieb, er ernähre sich von Oliven, Malven und Zichorien. Karl der Grosse liess die Malve in seinen Capitulare de villis als Pflichtpflanze in Klostergärten aufnehmen.
+    geschichte: `Im antiken Griechenland und Rom galt die Malve als Allheilmittel. Horaz schrieb, er ernähre sich von Oliven, Malven und Zichorien. Karl der Große ließ die Malve in seinen Capitulare de villis als Pflichtpflanze in Klostergärten aufnehmen.
 
-Hildegard von Bingen empfahl Malventee bei Fieber und Magen-Darm-Beschwerden. Im arabischen Raum ist die Malve als "Khubbaza" bis heute ein beliebtes Nahrungsmittel und Heilmittel. Die berühmte Marshmallow-Süssigkeit wurde ursprünglich aus Eibischwurzel hergestellt -- einem nahen Verwandten der Malve.`,
+Hildegard von Bingen empfahl Malventee bei Fieber und Magen-Darm-Beschwerden. Im arabischen Raum ist die Malve als "Khubbaza" bis heute ein beliebtes Nahrungsmittel und Heilmittel. Die berühmte Marshmallow-Süßigkeit wurde ursprünglich aus Eibischwurzel hergestellt -- einem nahen Verwandten der Malve.`,
     wirkungen: {
       hauptwirkungen: ['Schleimhautschützend', 'Reizlindernd', 'Entzündungshemmend', 'Hustenlindernd', 'Wundheilend', 'Kühlend'],
       inhaltsstoffe: ['Schleimstoffe (Polysaccharide)', 'Anthocyane (Malvin)', 'Gerbstoffe', 'Flavonoide', 'Vitamin C', 'Vitamin E', 'Ätherisches Öl'],
@@ -585,7 +585,7 @@ Hildegard von Bingen empfahl Malventee bei Fieber und Magen-Darm-Beschwerden. Im
         wirkung: 'Kühlt, lindert Entzündungen und fördert die Wundheilung.',
       },
     ],
-    mischungen: ['Hustentee (mit Spitzwegerich und Thymian)', 'Magentee (mit Kamille und Süssholz)', 'Halstee (mit Salbei und Eibisch)'],
+    mischungen: ['Hustentee (mit Spitzwegerich und Thymian)', 'Magentee (mit Kamille und Süßholz)', 'Halstee (mit Salbei und Eibisch)'],
     tcm: 'Malve befeuchtet die Lunge, kühlt Hitze und löst Schleim. Sie wird bei trockenem Husten und Yin-Mangel eingesetzt.',
     ayurveda: 'Malve beruhigt Pitta und Vata, sie nährt das Rasa-Dhatu (Plasma und Lymphe) und wirkt als Snigdha (befeuchtend).',
     volksmedizin: 'In der bäuerlichen Medizin war Malventee das erste Mittel bei Halsschmerzen und trockenem Husten. Wickel aus gekochten Malvenblättern wurden auf Geschwüre und entzündete Wunden gelegt.',
@@ -598,21 +598,21 @@ Hildegard von Bingen empfahl Malventee bei Fieber und Magen-Darm-Beschwerden. Im
   'Mandel': {
     vollname: 'Mandelbaum (Prunus dulcis)',
     familie: 'Rosengewächse (Rosaceae)',
-    beschreibung: `Der Mandelbaum ist einer der ersten Bäume, die im Frühling blühen -- seine zarten, rosafarbenen Blüten erscheinen noch vor den Blättern und künden vom nahenden Ende des Winters. Die Süssmandel (Prunus dulcis var. dulcis) ist sowohl ein kostbares Nahrungsmittel als auch ein vielseitiges Heilmittel, vor allem in der äusseren Anwendung.
+    beschreibung: `Der Mandelbaum ist einer der ersten Bäume, die im Frühling blühen -- seine zarten, rosafarbenen Blüten erscheinen noch vor den Blättern und künden vom nahenden Ende des Winters. Die Süßmandel (Prunus dulcis var. dulcis) ist sowohl ein kostbares Nahrungsmittel als auch ein vielseitiges Heilmittel, vor allem in der äußeren Anwendung.
 
 Mandelöl ist das sanfteste und hautverträglichste aller Pflanzenöle. Es enthält reichlich Ölsäure, Linolsäure, Vitamin E und Vitamin A. Die Haut nimmt es begierig auf, ohne dass ein fettiger Film zurückbleibt. Mandelöl eignet sich für die empfindlichste Haut -- auch für Babyhaut und die Pflege in der Schwangerschaft.
 
-Innerlich liefern Mandeln hochwertiges pflanzliches Eiweiss, gesunde Fette, Magnesium, Kalzium und B-Vitamine. Bereits eine Handvoll Mandeln täglich senkt nachweislich den LDL-Cholesterinspiegel und schützt das Herz. Die enthaltene Blausäure der Bittermandel macht sie in grösserer Menge giftig -- süsse Mandeln sind dagegen unbedenklich.`,
-    geschichte: `Die Mandel stammt aus Zentralasien und wurde bereits vor 5000 Jahren kultiviert. In der Bibel ist der Mandelbaum ein Symbol für Gottes Wachsamkeit -- auf hebräisch heisst er "Schaked" (der Wachende). Aarons Stab aus Mandelholz trieb Blüten und Früchte.
+Innerlich liefern Mandeln hochwertiges pflanzliches Eiweiß, gesunde Fette, Magnesium, Kalzium und B-Vitamine. Bereits eine Handvoll Mandeln täglich senkt nachweislich den LDL-Cholesterinspiegel und schützt das Herz. Die enthaltene Blausäure der Bittermandel macht sie in größerer Menge giftig -- süße Mandeln sind dagegen unbedenklich.`,
+    geschichte: `Die Mandel stammt aus Zentralasien und wurde bereits vor 5000 Jahren kultiviert. In der Bibel ist der Mandelbaum ein Symbol für Gottes Wachsamkeit -- auf hebräisch heißt er "Schaked" (der Wachende). Aarons Stab aus Mandelholz trieb Blüten und Früchte.
 
 Im Ayurveda gilt Mandelöl seit Jahrtausenden als "Königin der Öle" für die Haut. Die arabische Medizin des Mittelalters verwendete Mandelmilch als Schonkost für Kranke. Hildegard von Bingen empfahl Mandeln bei Kopfschmerzen und bleichem Gesicht.`,
     wirkungen: {
-      hauptwirkungen: ['Hautpflegend', 'Cholesterinsenkend', 'Nervenstärkend', 'Befeuchtend', 'Nährend', 'Entzündungshemmend (äusserlich)'],
-      inhaltsstoffe: ['Ölsäure', 'Linolsäure', 'Vitamin E', 'Vitamin A', 'Magnesium', 'Kalzium', 'B-Vitamine', 'Eiweiss', 'Ballaststoffe', 'Phytosterole'],
+      hauptwirkungen: ['Hautpflegend', 'Cholesterinsenkend', 'Nervenstärkend', 'Befeuchtend', 'Nährend', 'Entzündungshemmend (äußerlich)'],
+      inhaltsstoffe: ['Ölsäure', 'Linolsäure', 'Vitamin E', 'Vitamin A', 'Magnesium', 'Kalzium', 'B-Vitamine', 'Eiweiß', 'Ballaststoffe', 'Phytosterole'],
     },
     ernte: {
       zeit: 'September bis Oktober, wenn die Fruchthülle aufplatzt.',
-      teile: 'Süsse Mandeln (Kerne), kaltgepresstes Mandelöl.',
+      teile: 'Süße Mandeln (Kerne), kaltgepresstes Mandelöl.',
       tipps: 'Mandeln über Nacht in Wasser einweichen ("aktivierte Mandeln") -- das neutralisiert die Phytinsäure und macht die Nährstoffe besser verfügbar.',
       mond: 'Bei abnehmendem Mond ernten für beste Lagerfähigkeit.',
     },
@@ -624,7 +624,7 @@ Im Ayurveda gilt Mandelöl seit Jahrtausenden als "Königin der Öle" für die H
       },
       {
         name: 'Mandelmilch',
-        anleitung: '100g Mandeln über Nacht einweichen, abgiessen und mit 500ml frischem Wasser im Mixer pürieren. Durch ein Nussmilchtuch abseihen. Optional mit einer Dattel süssen.',
+        anleitung: '100g Mandeln über Nacht einweichen, abgießen und mit 500ml frischem Wasser im Mixer pürieren. Durch ein Nussmilchtuch abseihen. Optional mit einer Dattel süßen.',
         wirkung: 'Basische, nährende Milchalternative, gut für Magen und Darm, reich an Kalzium.',
       },
       {
@@ -636,7 +636,7 @@ Im Ayurveda gilt Mandelöl seit Jahrtausenden als "Königin der Öle" für die H
     mischungen: ['Hautöl (mit Jojobaöl und Lavendel)', 'Nervennahrung (mit Walnüssen und Honig)', 'Basische Milch (mit Hafermilch und Datteln)'],
     tcm: 'Mandeln befeuchten die Lunge, stillen Husten und nähren das Yin. Sie werden bei trockenem Husten und Verstopfung eingesetzt.',
     ayurveda: 'Mandeln sind im Ayurveda Sattvisch und nähren Ojas (Lebenskraft). Sie stärken Majja-Dhatu (Nervensystem) und beruhigen Vata. Eingeweichte Mandeln am Morgen sind ein ayurvedisches Grundrezept.',
-    volksmedizin: 'Grossmütter rieben spröde, rissige Hände mit Mandelöl ein und wickelten sie über Nacht in Baumwollhandschuhe. Am Morgen waren die Hände zart wie Seide.',
+    volksmedizin: 'Großmütter rieben spröde, rissige Hände mit Mandelöl ein und wickelten sie über Nacht in Baumwollhandschuhe. Am Morgen waren die Hände zart wie Seide.',
     besonders_bei: ['haut', 'cholesterin', 'nervositaet', 'trockene_haut', 'schwangerschaft', 'erschoepfung'],
   },
 
@@ -646,14 +646,14 @@ Im Ayurveda gilt Mandelöl seit Jahrtausenden als "Königin der Öle" für die H
   'Mate': {
     vollname: 'Mate-Strauch (Ilex paraguariensis)',
     familie: 'Stechpalmengewächse (Aquifoliaceae)',
-    beschreibung: `Mate ist das Nationalgetränk Südamerikas -- in Argentinien, Uruguay, Paraguay und Südbrasilien wird er aus der Kalebasse (Mate-Gefäss) durch die Bombilla (Metalltrinkhalm) getrunken. Doch Mate ist weit mehr als ein gesellschaftliches Ritual: Die Blätter dieses immergrünen Baumes vereinen die stimulierende Wirkung von Koffein mit einer Fülle an Nährstoffen.
+    beschreibung: `Mate ist das Nationalgetränk Südamerikas -- in Argentinien, Uruguay, Paraguay und Südbrasilien wird er aus der Kalebasse (Mate-Gefäß) durch die Bombilla (Metalltrinkhalm) getrunken. Doch Mate ist weit mehr als ein gesellschaftliches Ritual: Die Blätter dieses immergrünen Baumes vereinen die stimulierende Wirkung von Koffein mit einer Fülle an Nährstoffen.
 
-Mate enthält etwa so viel Koffein wie Kaffee, doch die Wirkung fühlt sich anders an: sanfter, gleichmässiger, ohne den nervösen Koffein-Peak. Das liegt an den enthaltenen Saponinen und Polyphenolen, die das Koffein langsamer freisetzen. Dazu kommen Vitamine (A, B1, B2, C), Mineralstoffe und über 200 weitere bioaktive Substanzen.
+Mate enthält etwa so viel Koffein wie Kaffee, doch die Wirkung fühlt sich anders an: sanfter, gleichmäßiger, ohne den nervösen Koffein-Peak. Das liegt an den enthaltenen Saponinen und Polyphenolen, die das Koffein langsamer freisetzen. Dazu kommen Vitamine (A, B1, B2, C), Mineralstoffe und über 200 weitere bioaktive Substanzen.
 
 Mate steigert die geistige und körperliche Leistungsfähigkeit, unterdrückt den Appetit und kurbelt den Fettstoffwechsel an. Er wirkt leicht harntreibend und fördert die Verdauung. In Südamerika gilt er als "Getränk der Götter" und ist tief in der Kultur verwurzelt.`,
     geschichte: `Die Guarani-Indianer Paraguays nutzten Mate seit Jahrhunderten als Heil- und Energiepflanze. Sie nannten ihn "Ka'a" und bereiteten ihn in Kalebassen zu. Die Jesuiten-Missionare übernahmen den Mate im 17. Jahrhundert und legten die ersten Plantagen an -- daher auch der Name "Jesuiten-Tee".
 
-Mate wurde schnell zum Volksgetränk ganz Südamerikas. Gauchos auf der Pampa, Hafenarbeiter in Buenos Aires, Präsidenten in ihren Palästen -- alle teilen die Mate-Runde. Das gemeinsame Trinken aus einem Gefäss symbolisiert Freundschaft und Zugehörigkeit.`,
+Mate wurde schnell zum Volksgetränk ganz Südamerikas. Gauchos auf der Pampa, Hafenarbeiter in Buenos Aires, Präsidenten in ihren Palästen -- alle teilen die Mate-Runde. Das gemeinsame Trinken aus einem Gefäß symbolisiert Freundschaft und Zugehörigkeit.`,
     wirkungen: {
       hauptwirkungen: ['Anregend (Koffein)', 'Stoffwechselsteigernd', 'Appetithemmend', 'Leicht harntreibend', 'Antioxidativ', 'Leistungssteigernd'],
       inhaltsstoffe: ['Koffein (Matein)', 'Theobromin', 'Theophyllin', 'Saponine', 'Polyphenole', 'Chlorogensäure', 'Vitamine (A, B, C)', 'Mineralstoffe (Kalium, Magnesium, Eisen)'],
@@ -667,23 +667,23 @@ Mate wurde schnell zum Volksgetränk ganz Südamerikas. Gauchos auf der Pampa, H
     zubereitungen: [
       {
         name: 'Traditioneller Mate',
-        anleitung: 'Mate-Gefäss (Kalebasse oder Becher) zu zwei Dritteln mit Yerba Mate füllen. Mit der Hand abdecken und kurz umdrehen, damit feines Pulver oben bleibt. Bombilla einsetzen. Mit 70-80°C heissem Wasser (nicht kochend!) aufgiessen. Mehrfach nachgiessen.',
+        anleitung: 'Mate-Gefäß (Kalebasse oder Becher) zu zwei Dritteln mit Yerba Mate füllen. Mit der Hand abdecken und kurz umdrehen, damit feines Pulver oben bleibt. Bombilla einsetzen. Mit 70-80°C heißem Wasser (nicht kochend!) aufgießen. Mehrfach nachgießen.',
         wirkung: 'Belebt Körper und Geist, fördert Konzentration und geselliges Beisammensein.',
       },
       {
         name: 'Mate-Tee (einfach)',
-        anleitung: '2 TL Mate-Blätter mit 250ml heissem Wasser (ca. 80°C) übergiessen, 5-8 Minuten ziehen lassen. Nicht mit kochendem Wasser -- das macht ihn bitter.',
+        anleitung: '2 TL Mate-Blätter mit 250ml heißem Wasser (ca. 80°C) übergießen, 5-8 Minuten ziehen lassen. Nicht mit kochendem Wasser -- das macht ihn bitter.',
         wirkung: 'Sanfte Anregung, Stoffwechselaktivierung, Appetitregulierung.',
       },
       {
         name: 'Terere (kalter Mate)',
-        anleitung: 'Mate wie gewohnt in die Kalebasse füllen, aber mit eiskaltem Wasser oder Saft (Grapefruit, Orange) aufgiessen. Erfrischend im Sommer.',
+        anleitung: 'Mate wie gewohnt in die Kalebasse füllen, aber mit eiskaltem Wasser oder Saft (Grapefruit, Orange) aufgießen. Erfrischend im Sommer.',
         wirkung: 'Erfrischt, belebt und hydriert gleichzeitig.',
       },
     ],
     mischungen: ['Energie-Tee (mit Guarana und Grüntee)', 'Diät-Tee (mit Brennnessel und Löwenzahn)', 'Konzentrations-Mischung (mit Ginkgo und Rosenwurz)'],
     tcm: 'Mate wird in der TCM als leicht kühlend und Qi-bewegend betrachtet, er klärt den Geist und hebt das klare Yang empor.',
-    ayurveda: 'Mate wirkt rajasisch und steigert die geistige Aktivität. Er reduziert Kapha und Tamas, kann aber bei übermässigem Konsum Vata und Pitta erhöhen.',
+    ayurveda: 'Mate wirkt rajasisch und steigert die geistige Aktivität. Er reduziert Kapha und Tamas, kann aber bei übermäßigem Konsum Vata und Pitta erhöhen.',
     volksmedizin: 'Die Guarani sagen: "Mate ist mehr als ein Getränk -- er ist Medizin, Nahrung und Gesellschaft in einer Pflanze." In Südamerika wird Mate auch bei Kopfschmerzen, rheumatischen Beschwerden und Müdigkeit getrunken.',
     besonders_bei: ['muedigkeit', 'konzentration', 'stoffwechsel', 'uebergewicht', 'erschoepfung', 'kopfschmerzen'],
   },
@@ -730,12 +730,12 @@ In der österreichischen und bayerischen Küche ist der "Kren" unverzichtbar. In
       },
       {
         name: 'Meerrettich-Quark (Brotaufstrich)',
-        anleitung: '2 EL frisch geriebenen Meerrettich in 200g Quark einrühren, mit Salz und etwas Zitronensaft abschmecken. Auf Vollkornbrot geniessen.',
+        anleitung: '2 EL frisch geriebenen Meerrettich in 200g Quark einrühren, mit Salz und etwas Zitronensaft abschmecken. Auf Vollkornbrot genießen.',
         wirkung: 'Tägliche Gesundheitsvorsorge, stärkt die Abwehr und fördert die Verdauung.',
       },
     ],
     mischungen: ['Natürliches Antibiotikum (mit Kapuzinerkresse)', 'Erkältungsmittel (mit Ingwer und Zitrone)', 'Immun-Tonikum (mit Knoblauch und Kurkuma)'],
-    tcm: 'Meerrettich ist in der TCM heiss und scharf, er vertreibt Kälte aus der Lunge, öffnet die Nase und transformiert Schleim.',
+    tcm: 'Meerrettich ist in der TCM heiß und scharf, er vertreibt Kälte aus der Lunge, öffnet die Nase und transformiert Schleim.',
     ayurveda: 'Meerrettich ist extrem Pitta-erhöhend und reduziert Kapha stark. Er entzündet das Verdauungsfeuer und sollte bei Pitta-Konstitution gemieden werden.',
     volksmedizin: 'In Bauernhäusern stand immer ein Glas mit frisch geriebenem "Kren" auf dem Tisch -- zum Essen und als Medizin zugleich. Bei verstopfter Nase genügte ein kräftiger Schnüffler an der geriebenen Wurzel.',
     besonders_bei: ['erkaeltung', 'bronchitis', 'blasenentzuendung', 'immunschwaeche', 'nebenhoehlenentzuendung', 'rheuma'],
@@ -768,7 +768,7 @@ Bauern kauten auf langen Bergwanderungen ein Stück Meisterwurz gegen Müdigkeit
     zubereitungen: [
       {
         name: 'Meisterwurz-Tee',
-        anleitung: '1 TL getrocknete, zerkleinerte Meisterwurz mit 250ml kochendem Wasser übergiessen, 10 Minuten zugedeckt ziehen lassen. 2-3 Tassen täglich bei Erkältung und Verdauungsbeschwerden.',
+        anleitung: '1 TL getrocknete, zerkleinerte Meisterwurz mit 250ml kochendem Wasser übergießen, 10 Minuten zugedeckt ziehen lassen. 2-3 Tassen täglich bei Erkältung und Verdauungsbeschwerden.',
         wirkung: 'Wärmt, stärkt die Verdauung, löst Schleim und aktiviert die Abwehr.',
       },
       {
@@ -795,11 +795,11 @@ Bauern kauten auf langen Bergwanderungen ein Stück Meisterwurz gegen Müdigkeit
   'Moringa': {
     vollname: 'Moringa (Moringa oleifera)',
     familie: 'Bennussgewächse (Moringaceae)',
-    beschreibung: `Moringa wird nicht ohne Grund "Wunderbaum" oder "Baum des Lebens" genannt. Dieser schnellwachsende tropische Baum aus Nordwestindien enthält in seinen Blättern eine nahezu unglaubliche Nährstoffdichte: 7x mehr Vitamin C als Orangen, 4x mehr Vitamin A als Karotten, 4x mehr Kalzium als Milch, 3x mehr Kalium als Bananen und 2x mehr Eiweiss als Joghurt -- und das auf Trockengewichtsbasis.
+    beschreibung: `Moringa wird nicht ohne Grund "Wunderbaum" oder "Baum des Lebens" genannt. Dieser schnellwachsende tropische Baum aus Nordwestindien enthält in seinen Blättern eine nahezu unglaubliche Nährstoffdichte: 7x mehr Vitamin C als Orangen, 4x mehr Vitamin A als Karotten, 4x mehr Kalzium als Milch, 3x mehr Kalium als Bananen und 2x mehr Eiweiß als Joghurt -- und das auf Trockengewichtsbasis.
 
 Die Blätter, Samen, Blüten und sogar die Rinde des Moringa-Baums werden seit Jahrtausenden in der traditionellen Medizin verwendet. Moringa ist ein Adaptogen -- es hilft dem Körper, sich an Stress anzupassen und in seine Balance zurückzufinden. Es stärkt das Immunsystem, nährt bei Mangelzuständen und wirkt gleichzeitig entzündungshemmend.
 
-Besonders wertvoll sind die Moringa-Samen: Sie enthalten Proteine, die verschmutztes Wasser reinigen können -- ein zerstossener Samen klärt bis zu einem Liter Flusswasser. Aus den Samen wird zudem das kostbare Ben-Öl gewonnen, ein nicht ranzigendes Feinöl für Haut und Haare.`,
+Besonders wertvoll sind die Moringa-Samen: Sie enthalten Proteine, die verschmutztes Wasser reinigen können -- ein zerstoßener Samen klärt bis zu einem Liter Flusswasser. Aus den Samen wird zudem das kostbare Ben-Öl gewonnen, ein nicht ranzigendes Feinöl für Haut und Haare.`,
     geschichte: `In der indischen Ayurveda-Medizin wird Moringa seit über 3000 Jahren als Heilpflanze geschätzt. Die alten Schriften beschreiben über 300 Krankheiten, die mit Moringa behandelt werden können. Die Römer, Griechen und Ägypter nutzten Moringa-Öl als Parfüm und Hautpflegemittel.
 
 In vielen tropischen Ländern Afrikas und Asiens ist Moringa heute ein Schlüssel im Kampf gegen Mangelernährung. Organisationen verteilen Moringa-Pulver an unterernährte Kinder und stillende Mütter. Die WHO hat Moringa als eine der nährstoffreichsten Pflanzen der Welt anerkannt.`,
@@ -821,7 +821,7 @@ In vielen tropischen Ländern Afrikas und Asiens ist Moringa heute ein Schlüsse
       },
       {
         name: 'Moringa-Tee',
-        anleitung: '1 TL Moringa-Blätter (getrocknet) oder 1/2 TL Pulver mit 250ml heissem Wasser (nicht kochend, ca. 80°C) übergiessen. 5 Minuten ziehen lassen.',
+        anleitung: '1 TL Moringa-Blätter (getrocknet) oder 1/2 TL Pulver mit 250ml heißem Wasser (nicht kochend, ca. 80°C) übergießen. 5 Minuten ziehen lassen.',
         wirkung: 'Sanfte Nährstoffzufuhr, unterstützt die Verdauung und stärkt die Abwehr.',
       },
       {
@@ -847,7 +847,7 @@ In vielen tropischen Ländern Afrikas und Asiens ist Moringa heute ein Schlüsse
 
 Die Pflanze wächst buschig, hat gefiederte, hellgrüne Blätter mit einem kamillenähnlichen, aber deutlich herberen Duft. Im Gegensatz zur Kamille riecht das Mutterkraut beim Zerreiben der Blätter intensiv aromatisch und leicht bitter. Die Blätter schmecken bitter -- ein Hinweis auf ihre medizinische Kraft.
 
-Wichtig ist die vorbeugende Einnahme: Mutterkraut wirkt am besten, wenn es regelmässig über Wochen eingenommen wird, um Migräneattacken zu reduzieren. Es senkt die Häufigkeit, Intensität und Dauer der Anfälle. Auch bei Regelschmerzen, Fieber und rheumatischen Beschwerden hat es sich bewährt -- der Name "Mutterkraut" verweist auf die alte Anwendung bei Frauenleiden.`,
+Wichtig ist die vorbeugende Einnahme: Mutterkraut wirkt am besten, wenn es regelmäßig über Wochen eingenommen wird, um Migräneattacken zu reduzieren. Es senkt die Häufigkeit, Intensität und Dauer der Anfälle. Auch bei Regelschmerzen, Fieber und rheumatischen Beschwerden hat es sich bewährt -- der Name "Mutterkraut" verweist auf die alte Anwendung bei Frauenleiden.`,
     geschichte: `Bereits Dioskurides empfahl das Mutterkraut bei Gebärmutterbeschwerden und Fieber. Im Mittelalter wurde es als "Febrifuga" (Fieberkraut) in Klostergärten angebaut. In England ass man im 17. Jahrhundert frische Mutterkrautblätter in Brot gegen Kopfschmerzen.
 
 In den 1980er Jahren brachte eine britische Studie das Mutterkraut wieder ins Rampenlicht: Migränepatienten, die täglich frische Blätter assen, hatten deutlich weniger Anfälle. Seitdem ist Mutterkraut Gegenstand zahlreicher klinischer Studien und gilt als eines der bestuntersuchten pflanzlichen Migränemittel.`,
@@ -869,7 +869,7 @@ In den 1980er Jahren brachte eine britische Studie das Mutterkraut wieder ins Ra
       },
       {
         name: 'Mutterkraut-Tee',
-        anleitung: '1-2 TL getrocknetes Mutterkraut mit 250ml kochendem Wasser übergiessen, 10 Minuten zugedeckt ziehen lassen. 1-2 Tassen täglich.',
+        anleitung: '1-2 TL getrocknetes Mutterkraut mit 250ml kochendem Wasser übergießen, 10 Minuten zugedeckt ziehen lassen. 1-2 Tassen täglich.',
         wirkung: 'Mild migräneprophylaktisch, lindernd bei Regelschmerzen und Fieber.',
       },
       {
@@ -878,7 +878,7 @@ In den 1980er Jahren brachte eine britische Studie das Mutterkraut wieder ins Ra
         wirkung: 'Standardisierte Migräne-Prophylaxe, auch bei Regelschmerzen und Gelenkbeschwerden.',
       },
     ],
-    mischungen: ['Migräne-Prophylaxe-Tee (mit Pestwurz und Mädesüss)', 'Frauentee (mit Frauenmantel und Schafgarbe)', 'Fiebertee (mit Mädesüss und Linde)'],
+    mischungen: ['Migräne-Prophylaxe-Tee (mit Pestwurz und Mädesüß)', 'Frauentee (mit Frauenmantel und Schafgarbe)', 'Fiebertee (mit Mädesüß und Linde)'],
     tcm: 'Mutterkraut kühlt Leber-Hitze und bewegt aufsteigendes Leber-Yang -- die TCM-Entsprechung der Migräne.',
     ayurveda: 'Mutterkraut reduziert überschüssiges Pitta im Kopfbereich und beruhigt Sadhaka Pitta (das emotionale Feuer).',
     volksmedizin: 'In englischen Bauerngärten stand Mutterkraut an jeder Haustür -- es galt als Schutzpflanze und wurde bei Kopfweh, Frauenleiden und als Insektenschutz verwendet.',
@@ -891,7 +891,7 @@ In den 1980er Jahren brachte eine britische Studie das Mutterkraut wieder ins Ra
   'Myrrhe': {
     vollname: 'Myrrhe (Commiphora myrrha)',
     familie: 'Balsambaumgewächse (Burseraceae)',
-    beschreibung: `Myrrhe ist eines der ältesten und kostbarsten Heilmittel der Menschheitsgeschichte. Das goldbraune, aromatische Harz fliesst aus der verletzten Rinde des Myrrhebaums in den Trockengebieten Nordostafrikas und der Arabischen Halbinsel. Sein warmer, balsamischer, leicht bitterer Duft berührt etwas Uraltes in der Seele.
+    beschreibung: `Myrrhe ist eines der ältesten und kostbarsten Heilmittel der Menschheitsgeschichte. Das goldbraune, aromatische Harz fließt aus der verletzten Rinde des Myrrhebaums in den Trockengebieten Nordostafrikas und der Arabischen Halbinsel. Sein warmer, balsamischer, leicht bitterer Duft berührt etwas Uraltes in der Seele.
 
 In der Heilkunde ist Myrrhe vor allem für ihre Wirkung auf die Schleimhäute des Mundes und des Magen-Darm-Trakts bekannt. Die Myrrhentinktur desinfiziert, adstringiert und heilt -- bei Zahnfleischentzündungen, Aphten, Halsentzündungen und Mundgeruch ist sie eines der besten natürlichen Mittel überhaupt.
 
@@ -944,14 +944,14 @@ In der griechischen Mythologie entstand Myrrhe aus den Tränen der Myrrha, die i
   'Nachtkerze': {
     vollname: 'Gemeine Nachtkerze (Oenothera biennis)',
     familie: 'Nachtkerzengewächse (Onagraceae)',
-    beschreibung: `Die Nachtkerze öffnet ihre leuchtend gelben Blüten in der Abenddämmerung -- ein zauberhafter Anblick, der ihr den Namen gab. Innerhalb weniger Minuten entfalten sich die Blütenblätter und verströmen einen süssen Duft, der Nachtfalter anlockt. Am nächsten Morgen verwelken die Blüten bereits, doch neue öffnen sich am folgenden Abend.
+    beschreibung: `Die Nachtkerze öffnet ihre leuchtend gelben Blüten in der Abenddämmerung -- ein zauberhafter Anblick, der ihr den Namen gab. Innerhalb weniger Minuten entfalten sich die Blütenblätter und verströmen einen süßen Duft, der Nachtfalter anlockt. Am nächsten Morgen verwelken die Blüten bereits, doch neue öffnen sich am folgenden Abend.
 
 Der wahre Schatz der Nachtkerze liegt in ihren winzigen Samen: Sie enthalten das kostbare Nachtkerzenöl, eines der reichsten natürlichen Quellen für Gamma-Linolensäure (GLA). Diese seltene Omega-6-Fettsäure ist ein Baustein für entzündungshemmende Prostaglandine und spielt eine Schlüsselrolle bei Hauterkrankungen, hormonellen Störungen und Nervenfunktionen.
 
-Nachtkerzenöl ist besonders wertvoll bei Neurodermitis, trockener Haut, prämenstruellem Syndrom (PMS) und Wechseljahresbeschwerden. Die GLA reguliert die Hautzellbildung, stärkt die Hautbarriere und dämpft entzündliche Prozesse. Auch äusserlich aufgetragen pflegt es trockene, rissige und gereizte Haut.`,
+Nachtkerzenöl ist besonders wertvoll bei Neurodermitis, trockener Haut, prämenstruellem Syndrom (PMS) und Wechseljahresbeschwerden. Die GLA reguliert die Hautzellbildung, stärkt die Hautbarriere und dämpft entzündliche Prozesse. Auch äußerlich aufgetragen pflegt es trockene, rissige und gereizte Haut.`,
     geschichte: `Die Nachtkerze stammt ursprünglich aus Nordamerika, wo die indigenen Völker alle Teile der Pflanze nutzten: die Wurzel als Gemüse ("Schinkenwurzel"), die Blätter als Wundauflage, die Samen als Nahrung. Im 17. Jahrhundert kam sie als Zierpflanze nach Europa und verwilderte schnell.
 
-Erst in den 1980er Jahren entdeckte man den aussergewöhnlichen GLA-Gehalt der Samen. Seitdem hat sich Nachtkerzenöl zu einem der wichtigsten pflanzlichen Nahrungsergänzungsmittel entwickelt. In England wurde es zeitweise sogar als zugelassenes Arzneimittel gegen Neurodermitis verschrieben.`,
+Erst in den 1980er Jahren entdeckte man den außergewöhnlichen GLA-Gehalt der Samen. Seitdem hat sich Nachtkerzenöl zu einem der wichtigsten pflanzlichen Nahrungsergänzungsmittel entwickelt. In England wurde es zeitweise sogar als zugelassenes Arzneimittel gegen Neurodermitis verschrieben.`,
     wirkungen: {
       hauptwirkungen: ['Hautnährend (bei Neurodermitis)', 'Entzündungshemmend', 'Hormonregulierend', 'Nervenschützend', 'Feuchtigkeitsspendend', 'PMS-lindernd'],
       inhaltsstoffe: ['Gamma-Linolensäure (GLA, 8-14%)', 'Linolsäure', 'Ölsäure', 'Vitamin E', 'Phytosterole', 'Aminosäuren', 'Mineralstoffe'],
@@ -969,7 +969,7 @@ Erst in den 1980er Jahren entdeckte man den aussergewöhnlichen GLA-Gehalt der S
         wirkung: 'Bessert Neurodermitis, lindert PMS, stärkt Haut und Haare von innen.',
       },
       {
-        name: 'Nachtkerzenöl-Hautpflege (äusserlich)',
+        name: 'Nachtkerzenöl-Hautpflege (äußerlich)',
         anleitung: 'Reines Nachtkerzenöl direkt auf trockene, gereizte oder neurodermitische Hautstellen auftragen und sanft einmassieren. Morgens und abends.',
         wirkung: 'Stärkt die Hautbarriere, lindert Juckreiz und Rötungen, spendet Feuchtigkeit.',
       },
@@ -994,12 +994,12 @@ Erst in den 1980er Jahren entdeckte man den aussergewöhnlichen GLA-Gehalt der S
     familie: 'Mahagonigewächse (Meliaceae)',
     beschreibung: `Der Neembaum ist in Indien als "Dorfapotheke" bekannt -- fast jedes indische Dorf hat seinen Neembaum, und fast jeder Teil dieses Baumes wird medizinisch genutzt: Blätter, Rinde, Samen, Öl, Blüten und sogar die Wurzeln. In der ayurvedischen Medizin gilt Neem als eine der wichtigsten Heilpflanzen überhaupt.
 
-Neemöl und Neem-Extrakte haben eine aussergewöhnlich breite antimikrobielle Wirkung: Sie wirken gegen Bakterien, Viren, Pilze und Parasiten. Besonders bekannt ist Neem als natürliches Pflanzenschutzmittel -- der Wirkstoff Azadirachtin stört den Hormonhaushalt von Insekten und verhindert ihre Fortpflanzung, ohne nützliche Insekten zu schädigen.
+Neemöl und Neem-Extrakte haben eine außergewöhnlich breite antimikrobielle Wirkung: Sie wirken gegen Bakterien, Viren, Pilze und Parasiten. Besonders bekannt ist Neem als natürliches Pflanzenschutzmittel -- der Wirkstoff Azadirachtin stört den Hormonhaushalt von Insekten und verhindert ihre Fortpflanzung, ohne nützliche Insekten zu schädigen.
 
 Für die menschliche Gesundheit ist Neem vor allem bei Hautproblemen wertvoll: Akne, Ekzeme, Schuppenflechte und Pilzinfektionen sprechen gut auf Neem-Zubereitungen an. Innerlich reinigt Neem das Blut, senkt den Blutzucker und stärkt die Leber. Der Geschmack ist extrem bitter -- ein Zeichen seiner starken reinigenden Kraft.`,
     geschichte: `In den Veden, den ältesten Schriften Indiens, wird der Neembaum als "Sarva Roga Nivarini" beschrieben -- "die Heilerin aller Krankheiten". Seit über 4000 Jahren ist er fester Bestandteil der ayurvedischen Medizin. In indischen Dörfern kauen die Menschen Neem-Zweige als natürliche Zahnbürste.
 
-Mahatma Gandhi trank regelmässig Neem-Tee und ass Neem-Chutney. Die Vereinten Nationen nannten den Neembaum den "Baum des 21. Jahrhunderts" wegen seines Potenzials als nachhaltiges Pflanzenschutzmittel und Heilmittel.`,
+Mahatma Gandhi trank regelmäßig Neem-Tee und ass Neem-Chutney. Die Vereinten Nationen nannten den Neembaum den "Baum des 21. Jahrhunderts" wegen seines Potenzials als nachhaltiges Pflanzenschutzmittel und Heilmittel.`,
     wirkungen: {
       hauptwirkungen: ['Antibakteriell', 'Antimykotisch', 'Antiparasitär', 'Blutreinigend', 'Blutzuckersenkend', 'Hautklärend'],
       inhaltsstoffe: ['Azadirachtin', 'Nimbin', 'Nimbidin', 'Gedunin', 'Quercetin', 'Limonoide', 'Fettsäuren', 'Bitterstoffe'],
@@ -1007,7 +1007,7 @@ Mahatma Gandhi trank regelmässig Neem-Tee und ass Neem-Chutney. Die Vereinten N
     ernte: {
       zeit: 'In Indien ganzjährig. In Europa Neem-Produkte aus dem Handel beziehen.',
       teile: 'Blätter, Rinde, Samen, Neemöl.',
-      tipps: 'Neemöl in Bio-Qualität kaufen -- es hat einen starken, eigenen Geruch und sollte äusserlich verdünnt angewendet werden. Neem-Blätter als Tee sind sehr bitter.',
+      tipps: 'Neemöl in Bio-Qualität kaufen -- es hat einen starken, eigenen Geruch und sollte äußerlich verdünnt angewendet werden. Neem-Blätter als Tee sind sehr bitter.',
       mond: 'Bei abnehmendem Mond anwenden für stärkste reinigende Wirkung.',
     },
     zubereitungen: [
@@ -1018,7 +1018,7 @@ Mahatma Gandhi trank regelmässig Neem-Tee und ass Neem-Chutney. Die Vereinten N
       },
       {
         name: 'Neem-Tee (Blutreinigung)',
-        anleitung: '1/2 TL getrocknete Neem-Blätter mit 250ml kochendem Wasser übergiessen, 5-10 Minuten ziehen lassen. Sehr bitter -- mit Honig mildern. 1 Tasse täglich für maximal 2 Wochen.',
+        anleitung: '1/2 TL getrocknete Neem-Blätter mit 250ml kochendem Wasser übergießen, 5-10 Minuten ziehen lassen. Sehr bitter -- mit Honig mildern. 1 Tasse täglich für maximal 2 Wochen.',
         wirkung: 'Reinigt das Blut, unterstützt die Leber, senkt den Blutzucker.',
       },
       {
@@ -1045,7 +1045,7 @@ Mahatma Gandhi trank regelmässig Neem-Tee und ass Neem-Chutney. Die Vereinten N
 Die Nelkenwurz ist ein mildes, aber vielseitiges Heilkraut. Ihre Gerbstoffe adstringieren und heilen entzündete Schleimhäute, das Eugenol wirkt schmerzlindernd und desinfizierend. Bei Durchfall, Zahnfleischentzündungen, Halsschmerzen und Magenverstimmungen leistet sie gute Dienste.
 
 Im Mittelalter galt die Nelkenwurz als magische Pflanze -- man trug die Wurzel als Amulett gegen böse Geister und Schlangenbisse. In der klösterlichen Heilkunde war sie als preiswerte Alternative zu den teuren importierten Gewürznelken geschätzt: Ihr Nelkenaroma verfeinerte Wein und Speisen.`,
-    geschichte: `Die Nelkenwurz heisst im Lateinischen "Herba benedicta" -- das gesegnete Kraut. Im Mittelalter galt die dreiblättrige Grundrosette als Symbol der Dreifaltigkeit, die fünfzählige Blüte als Sinnbild der fünf Wunden Christi. Mönche pflanzten sie in jeden Klostergarten.
+    geschichte: `Die Nelkenwurz heißt im Lateinischen "Herba benedicta" -- das gesegnete Kraut. Im Mittelalter galt die dreiblättrige Grundrosette als Symbol der Dreifaltigkeit, die fünfzählige Blüte als Sinnbild der fünf Wunden Christi. Mönche pflanzten sie in jeden Klostergarten.
 
 Hieronymus Bock beschrieb sie 1539 als Mittel gegen Gifte und Durchfall. Pfarrer Kneipp empfahl die Nelkenwurz bei Magen-Darm-Beschwerden und als Mundpflegemittel. In der Volksheilkunde wurde sie als "arme Leute Nelke" geschätzt.`,
     wirkungen: {
@@ -1061,7 +1061,7 @@ Hieronymus Bock beschrieb sie 1539 als Mittel gegen Gifte und Durchfall. Pfarrer
     zubereitungen: [
       {
         name: 'Nelkenwurz-Tee',
-        anleitung: '1 TL getrocknete, zerkleinerte Nelkenwurz-Wurzel mit 250ml kochendem Wasser übergiessen, 10 Minuten zugedeckt ziehen lassen. Bei Durchfall 3 Tassen täglich.',
+        anleitung: '1 TL getrocknete, zerkleinerte Nelkenwurz-Wurzel mit 250ml kochendem Wasser übergießen, 10 Minuten zugedeckt ziehen lassen. Bei Durchfall 3 Tassen täglich.',
         wirkung: 'Stoppt Durchfall, beruhigt den Magen, wirkt entzündungshemmend.',
       },
       {
@@ -1071,7 +1071,7 @@ Hieronymus Bock beschrieb sie 1539 als Mittel gegen Gifte und Durchfall. Pfarrer
       },
       {
         name: 'Nelkenwurz-Wein',
-        anleitung: '30g getrocknete Nelkenwurz-Wurzel in 1 Liter guten Weisswein geben. 10 Tage ziehen lassen, abseihen. Ein kleines Glas vor dem Essen.',
+        anleitung: '30g getrocknete Nelkenwurz-Wurzel in 1 Liter guten Weißwein geben. 10 Tage ziehen lassen, abseihen. Ein kleines Glas vor dem Essen.',
         wirkung: 'Traditioneller Magenwein, fördert den Appetit und die Verdauung.',
       },
     ],
@@ -1088,14 +1088,14 @@ Hieronymus Bock beschrieb sie 1539 als Mittel gegen Gifte und Durchfall. Pfarrer
   'Odermennig': {
     vollname: 'Gemeiner Odermennig (Agrimonia eupatoria)',
     familie: 'Rosengewächse (Rosaceae)',
-    beschreibung: `Der Odermennig ist ein stiller Helfer am Wegesrand -- seine aufrechten, gelben Blütenkerzen leuchten im Sommer auf Wiesen, an Wegrändern und in lichten Wäldern. Die kleine Pflanze mit den gefiederten Blättern wurde schon im antiken Griechenland als "Eupatorion" geschätzt, benannt nach König Mithridates Eupator, der als grosser Kenner der Heilkräuter galt.
+    beschreibung: `Der Odermennig ist ein stiller Helfer am Wegesrand -- seine aufrechten, gelben Blütenkerzen leuchten im Sommer auf Wiesen, an Wegrändern und in lichten Wäldern. Die kleine Pflanze mit den gefiederten Blättern wurde schon im antiken Griechenland als "Eupatorion" geschätzt, benannt nach König Mithridates Eupator, der als großer Kenner der Heilkräuter galt.
 
 Die Stärke des Odermennigs liegt in seinem hohen Gerbstoffgehalt, der ihn zu einem der besten pflanzlichen Mittel bei Magen-Darm-Beschwerden macht. Er adstringiert entzündete Schleimhäute, hemmt Durchfall und reguliert die Gallenproduktion. Bei Leberbelastung und Gallenschwäche ist er ein treuer Begleiter.
 
-Äusserlich entfaltet der Odermennig seine heilende Kraft bei Hautproblemen, schlecht heilenden Wunden und Rachenentzündungen. Als Gurgelmittel bei Heiserkeit und Halsschmerzen hat er sich seit Jahrhunderten bewährt. Seine milde, aber zuverlässige Wirkung macht ihn zu einer Pflanze, die man immer im Haus haben sollte.`,
+Äußerlich entfaltet der Odermennig seine heilende Kraft bei Hautproblemen, schlecht heilenden Wunden und Rachenentzündungen. Als Gurgelmittel bei Heiserkeit und Halsschmerzen hat er sich seit Jahrhunderten bewährt. Seine milde, aber zuverlässige Wirkung macht ihn zu einer Pflanze, die man immer im Haus haben sollte.`,
     geschichte: `Die angelsächsischen Heilkundigen zählten Odermennig zu den heiligsten Kräutern. Im "Herbarium Apulei" aus dem 4. Jahrhundert wird er als Mittel gegen Schlangenbisse, Verdauungsbeschwerden und Zauberei empfohlen. Im Mittelalter war er Bestandteil des berühmten "Arquebusade-Wasser" zur Wundbehandlung.
 
-Hildegard von Bingen empfahl Odermennig bei Verdauungsschwäche. In der englischen Volksmedizin hiess er "Church Steeples" (Kirchtürme) wegen seiner aufrechten Blütenähren. Pfarrer Kneipp lobte ihn als Mittel für Leber und Galle.`,
+Hildegard von Bingen empfahl Odermennig bei Verdauungsschwäche. In der englischen Volksmedizin hieß er "Church Steeples" (Kirchtürme) wegen seiner aufrechten Blütenähren. Pfarrer Kneipp lobte ihn als Mittel für Leber und Galle.`,
     wirkungen: {
       hauptwirkungen: ['Adstringierend', 'Leberunterstützend', 'Gallenanregend', 'Durchfallhemmend', 'Wundheilend', 'Entzündungshemmend'],
       inhaltsstoffe: ['Gerbstoffe (Ellagitannine, Catechine)', 'Bitterstoffe', 'Flavonoide', 'Triterpene', 'Kieselsäure', 'Ätherisches Öl', 'Schleimstoffe', 'Vitamin B und K'],
@@ -1109,7 +1109,7 @@ Hildegard von Bingen empfahl Odermennig bei Verdauungsschwäche. In der englisch
     zubereitungen: [
       {
         name: 'Odermennig-Tee',
-        anleitung: '2 TL getrocknetes Odermennig-Kraut mit 250ml kochendem Wasser übergiessen, 10-15 Minuten zugedeckt ziehen lassen. 3 Tassen täglich zwischen den Mahlzeiten.',
+        anleitung: '2 TL getrocknetes Odermennig-Kraut mit 250ml kochendem Wasser übergießen, 10-15 Minuten zugedeckt ziehen lassen. 3 Tassen täglich zwischen den Mahlzeiten.',
         wirkung: 'Stärkt Leber und Galle, lindert Durchfall und Verdauungsbeschwerden.',
       },
       {
@@ -1143,7 +1143,7 @@ Olivenöl ist weit mehr als ein Speiseöl: Es ist ein Heilmittel ersten Ranges. 
 Weniger bekannt sind die Olivenblätter: Sie enthalten Oleuropein, einen Wirkstoff mit starker antibakterieller, antiviraler und blutdrucksenkender Wirkung. Olivenblätter-Extrakt wird zunehmend als natürliches Mittel bei Bluthochdruck, Infektionen und Diabetes erforscht.`,
     geschichte: `Der Olivenbaum wurde vor etwa 6000 Jahren im östlichen Mittelmeerraum kultiviert. In der griechischen Mythologie schenkte Athene den Athenern den Olivenbaum -- und gewann damit den Wettstreit mit Poseidon um die Schutzherrschaft über die Stadt. In der Bibel brachte eine Taube den Ölzweig als Zeichen des Friedens nach der Sintflut.
 
-Im antiken Griechenland salbten sich Athleten mit Olivenöl, Hippokrates empfahl es als "grossen Heiler". In der arabischen Medizin ist der Olivenbaum als "gesegneter Baum" bekannt. Die mediterrane Ernährung mit reichlich Olivenöl gilt heute als eine der gesündesten Ernährungsformen der Welt.`,
+Im antiken Griechenland salbten sich Athleten mit Olivenöl, Hippokrates empfahl es als "großen Heiler". In der arabischen Medizin ist der Olivenbaum als "gesegneter Baum" bekannt. Die mediterrane Ernährung mit reichlich Olivenöl gilt heute als eine der gesündesten Ernährungsformen der Welt.`,
     wirkungen: {
       hauptwirkungen: ['Herzschützend', 'Entzündungshemmend', 'Cholesterinsenkend', 'Blutdrucksenkend', 'Antioxidativ', 'Hautpflegend'],
       inhaltsstoffe: ['Ölsäure', 'Oleocanthal', 'Oleuropein (in Blättern)', 'Polyphenole', 'Vitamin E', 'Squalen', 'Phytosterole', 'Hydroxytyrosol'],
@@ -1157,12 +1157,12 @@ Im antiken Griechenland salbten sich Athleten mit Olivenöl, Hippokrates empfahl
     zubereitungen: [
       {
         name: 'Olivenöl als tägliches Heilmittel',
-        anleitung: '1-2 EL hochwertiges extra natives Olivenöl morgens nüchtern trinken oder grosszügig in der täglichen Küche verwenden. Nicht über 180°C erhitzen.',
-        wirkung: 'Schützt Herz und Gefässe, senkt Cholesterin, wirkt entzündungshemmend, pflegt von innen.',
+        anleitung: '1-2 EL hochwertiges extra natives Olivenöl morgens nüchtern trinken oder großzügig in der täglichen Küche verwenden. Nicht über 180°C erhitzen.',
+        wirkung: 'Schützt Herz und Gefäße, senkt Cholesterin, wirkt entzündungshemmend, pflegt von innen.',
       },
       {
         name: 'Olivenblätter-Tee',
-        anleitung: '1 EL getrocknete Olivenblätter (zerkleinert) mit 250ml kochendem Wasser übergiessen, 10-15 Minuten ziehen lassen. 2-3 Tassen täglich.',
+        anleitung: '1 EL getrocknete Olivenblätter (zerkleinert) mit 250ml kochendem Wasser übergießen, 10-15 Minuten ziehen lassen. 2-3 Tassen täglich.',
         wirkung: 'Senkt den Blutdruck, unterstützt das Immunsystem, reguliert den Blutzucker.',
       },
       {
@@ -1172,14 +1172,14 @@ Im antiken Griechenland salbten sich Athleten mit Olivenöl, Hippokrates empfahl
       },
       {
         name: 'Olivenöl-Ziehen (Ölziehen)',
-        anleitung: 'Morgens nüchtern 1 EL Olivenöl in den Mund nehmen und 15-20 Minuten langsam hin und her bewegen (ziehen, saugen, kauen). Das Öl wird weiss und dünn -- dann ausspucken (nicht schlucken). Mund mit warmem Wasser ausspülen.',
+        anleitung: 'Morgens nüchtern 1 EL Olivenöl in den Mund nehmen und 15-20 Minuten langsam hin und her bewegen (ziehen, saugen, kauen). Das Öl wird weiß und dünn -- dann ausspucken (nicht schlucken). Mund mit warmem Wasser ausspülen.',
         wirkung: 'Uralte Entgiftungsmethode, stärkt Zahnfleisch, entfernt Bakterien, fördert die Mundgesundheit.',
       },
     ],
-    mischungen: ['Herz-Kreislauf-Kur (mit Knoblauch und Weissdorn)', 'Blutdruck-Tee (mit Olivenblättern und Mistel)', 'Hautöl (mit Lavendel und Rosenöl)'],
+    mischungen: ['Herz-Kreislauf-Kur (mit Knoblauch und Weißdorn)', 'Blutdruck-Tee (mit Olivenblättern und Mistel)', 'Hautöl (mit Lavendel und Rosenöl)'],
     tcm: 'Olivenöl nährt das Yin, befeuchtet Trockenheit und beruhigt die Leber. Olivenblätter klären Hitze und senken aufsteigendes Leber-Yang.',
-    ayurveda: 'Olivenöl ist im Ayurveda kühlend und schwer, es nährt Ojas und beruhigt Pitta. Besonders für die äussere Anwendung (Abhyanga) bei Pitta-Konstitution geeignet.',
-    volksmedizin: 'Im Mittelmeerraum ist Olivenöl das Allheilmittel der Grossmütter: Bei Ohrenschmerzen wurde ein warmer Tropfen ins Ohr gegeben, bei Verstopfung ein Löffel nüchtern getrunken, bei trockener Haut grosszügig einmassiert.',
+    ayurveda: 'Olivenöl ist im Ayurveda kühlend und schwer, es nährt Ojas und beruhigt Pitta. Besonders für die äußere Anwendung (Abhyanga) bei Pitta-Konstitution geeignet.',
+    volksmedizin: 'Im Mittelmeerraum ist Olivenöl das Allheilmittel der Großmütter: Bei Ohrenschmerzen wurde ein warmer Tropfen ins Ohr gegeben, bei Verstopfung ein Löffel nüchtern getrunken, bei trockener Haut großzügig einmassiert.',
     besonders_bei: ['herz', 'cholesterin', 'bluthochdruck', 'haut', 'entzuendung', 'immunschwaeche'],
   },
 
