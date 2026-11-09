@@ -247,7 +247,7 @@ export function ProduktePage({ products, onAddToCart, favorites = [], onToggleFa
                       >
                         {item.variants.map(v => (
                           <option key={v.id} value={v.id}>
-                            {v.menge || v.name}{v.preis != null ? ` — ${v.preis},-` : ''}
+                            {v.menge || v.name}{v.preis != null ? ` · ${v.preis},-` : ''}
                           </option>
                         ))}
                       </select>

@@ -11,21 +11,21 @@ export const HERB_DEEP_6 = {
   'Astragalus': {
     vollname: 'Tragant / Astragalus (Astragalus membranaceus)',
     familie: 'Hülsenfrüchtler (Fabaceae)',
-    beschreibung: `Astragalus ist eine der wichtigsten Heilpflanzen der Traditionellen Chinesischen Medizin -- dort als "Huang Qi" bekannt, was so viel bedeutet wie "Gelber Anführer". Die Wurzel wird seit über 2000 Jahren als Tonikum verwendet, um die Lebenskraft zu stärken und das Immunsystem aufzubauen.
+    beschreibung: `Astragalus ist eine der wichtigsten Heilpflanzen der Traditionellen Chinesischen Medizin, dort als "Huang Qi" bekannt, was so viel bedeutet wie "Gelber Anführer". Die Wurzel wird seit über 2000 Jahren als Tonikum verwendet, um die Lebenskraft zu stärken und das Immunsystem aufzubauen.
 
-Was Astragalus besonders macht: Er wirkt nicht als kurzfristiger Immun-Booster wie etwa Echinacea, sondern baut die Abwehrkraft langsam und nachhaltig auf. Sein Geheimnis liegt in den Polysacchariden und dem Wirkstoff Astragalosid IV, der die Telomere -- die Schutzkappen unserer Chromosomen -- schützen kann. In der modernen Forschung wird Astragalus deshalb als "Anti-Aging-Pflanze" untersucht.
+Was Astragalus besonders macht: Er wirkt nicht als kurzfristiger Immun-Booster wie etwa Echinacea, sondern baut die Abwehrkraft langsam und nachhaltig auf. Sein Geheimnis liegt in den Polysacchariden und dem Wirkstoff Astragalosid IV, der die Telomere, die Schutzkappen unserer Chromosomen, schützen kann. In der modernen Forschung wird Astragalus deshalb als "Anti-Aging-Pflanze" untersucht.
 
-Die Wurzel hat einen milden, leicht süßen Geschmack und lässt sich hervorragend in Suppen und Eintöpfe einkochen -- eine uralte chinesische Tradition, um die ganze Familie zu stärken.`,
-    geschichte: `In der TCM gehört Astragalus zu den "Oberen Kräutern" -- jenen Pflanzen, die man täglich nehmen kann, weil sie den Körper nähren, ohne zu schaden. Das älteste chinesische Kräuterbuch, das Shennong Ben Cao Jing (ca. 200 v. Chr.), beschreibt ihn als lebensverlängernd.
+Die Wurzel hat einen milden, leicht süßen Geschmack und lässt sich hervorragend in Suppen und Eintöpfe einkochen, eine uralte chinesische Tradition, um die ganze Familie zu stärken.`,
+    geschichte: `In der TCM gehört Astragalus zu den "Oberen Kräutern", jenen Pflanzen, die man täglich nehmen kann, weil sie den Körper nähren, ohne zu schaden. Das älteste chinesische Kräuterbuch, das Shennong Ben Cao Jing (ca. 200 v. Chr.), beschreibt ihn als lebensverlängernd.
 
-In China ist es bis heute üblich, Astragalus-Wurzelscheiben in die Hühnersuppe zu geben -- besonders im Winter oder wenn jemand geschwächt ist. In der westlichen Welt wurde Astragalus erst in den 1980er Jahren bekannt, als Forscher seine immunstimulierenden Eigenschaften entdeckten.`,
+In China ist es bis heute üblich, Astragalus-Wurzelscheiben in die Hühnersuppe zu geben, besonders im Winter oder wenn jemand geschwächt ist. In der westlichen Welt wurde Astragalus erst in den 1980er Jahren bekannt, als Forscher seine immunstimulierenden Eigenschaften entdeckten.`,
     wirkungen: {
       hauptwirkungen: ['Immunstärkend (Aufbau)', 'Adaptogen', 'Telomerschützend', 'Entzündungshemmend', 'Herzstärkend', 'Leberschützend', 'Energiesteigernd', 'Antioxidativ'],
       inhaltsstoffe: ['Astragaloside (I-VII)', 'Polysaccharide', 'Flavonoide', 'Saponine', 'Aminosäuren', 'Spurenelemente (Selen, Zink)', 'Betain', 'Cumarine'],
     },
     ernte: {
       zeit: 'Die Wurzel wird in China nach 4-7 Jahren Wachstum im Herbst geerntet. In Europa als getrocknete Wurzelscheiben oder Extrakt erhältlich.',
-      teile: 'Wurzel -- sie wird in Scheiben geschnitten und getrocknet.',
+      teile: 'Wurzel, sie wird in Scheiben geschnitten und getrocknet.',
       tipps: 'Beim Kauf auf dicke, gelbliche Wurzelscheiben achten, die leicht süßlich riechen. Bio-Qualität und Herkunftsnachweis sind wichtig.',
       mond: 'Zubereitungen bei zunehmendem Mond ansetzen für die aufbauende Wirkung.',
     },
@@ -38,7 +38,7 @@ In China ist es bis heute üblich, Astragalus-Wurzelscheiben in die Hühnersuppe
       {
         name: 'Astragalus in der Suppe',
         anleitung: '3-5 Wurzelscheiben beim Kochen in Suppen oder Eintöpfe geben und mindestens 30 Minuten mitkochen. Vor dem Servieren die Scheiben entfernen (sie werden nicht gegessen).',
-        wirkung: 'Sanfte, tägliche Immunstärkung -- die traditionelle chinesische Art.',
+        wirkung: 'Sanfte, tägliche Immunstärkung, die traditionelle chinesische Art.',
       },
       {
         name: 'Astragalus-Tinktur',
@@ -59,21 +59,21 @@ In China ist es bis heute üblich, Astragalus-Wurzelscheiben in die Hühnersuppe
   'Brahmi': {
     vollname: 'Brahmi / Kleines Fettblatt (Bacopa monnieri)',
     familie: 'Wegerichgewächse (Plantaginaceae)',
-    beschreibung: `Brahmi ist die legendäre "Gehirnpflanze" des Ayurveda. Ihr Name leitet sich von "Brahman" ab -- dem kosmischen Bewusstsein im Hinduismus. Das allein zeigt, welchen Stellenwert diese unscheinbare Sumpfpflanze in der indischen Heilkunde hat: Sie soll den Geist öffnen und das Bewusstsein erweitern.
+    beschreibung: `Brahmi ist die legendäre "Gehirnpflanze" des Ayurveda. Ihr Name leitet sich von "Brahman" ab, dem kosmischen Bewusstsein im Hinduismus. Das allein zeigt, welchen Stellenwert diese unscheinbare Sumpfpflanze in der indischen Heilkunde hat: Sie soll den Geist öffnen und das Bewusstsein erweitern.
 
 Moderne Studien bestätigen die traditionelle Nutzung auf beeindruckende Weise: Brahmi verbessert nachweislich das Gedächtnis, die Lernfähigkeit und die Informationsverarbeitung. Die enthaltenen Bacoside schützen die Nervenzellen vor oxidativem Stress und fördern die Bildung neuer synaptischer Verbindungen.
 
-Brahmi wächst an feuchten Standorten in tropischen Regionen. Die kleinen, fleischigen Blätter mit ihren zarten weißen Blüten wirken unscheinbar -- doch sie bergen eine der potentesten nootropischen Pflanzen, die die Natur zu bieten hat.`,
-    geschichte: `Brahmi wird in den vedischen Schriften seit über 3000 Jahren erwähnt. Indische Gelehrte nahmen Brahmi ein, um lange Texte auswendig zu lernen -- die Veden wurden jahrhundertelang mündlich überliefert, und Brahmi galt als Schlüssel zu diesem erstaunlichen Gedächtnis.
+Brahmi wächst an feuchten Standorten in tropischen Regionen. Die kleinen, fleischigen Blätter mit ihren zarten weißen Blüten wirken unscheinbar, doch sie bergen eine der potentesten nootropischen Pflanzen, die die Natur zu bieten hat.`,
+    geschichte: `Brahmi wird in den vedischen Schriften seit über 3000 Jahren erwähnt. Indische Gelehrte nahmen Brahmi ein, um lange Texte auswendig zu lernen, die Veden wurden jahrhundertelang mündlich überliefert, und Brahmi galt als Schlüssel zu diesem erstaunlichen Gedächtnis.
 
-In der Charaka Samhita wird Brahmi als "Medhya Rasayana" klassifiziert -- ein Verjüngungsmittel für den Geist. Seit den 1960er Jahren wird Brahmi intensiv wissenschaftlich erforscht, besonders in Indien und Australien.`,
+In der Charaka Samhita wird Brahmi als "Medhya Rasayana" klassifiziert, ein Verjüngungsmittel für den Geist. Seit den 1960er Jahren wird Brahmi intensiv wissenschaftlich erforscht, besonders in Indien und Australien.`,
     wirkungen: {
       hauptwirkungen: ['Gedächtnisfördernd', 'Nootropisch (geistesschärfend)', 'Angstlösend', 'Neuroprotektiv', 'Antioxidativ', 'Adaptogen', 'Konzentrationssteigernd', 'Stresslindernd'],
       inhaltsstoffe: ['Bacoside A und B', 'Brahmine', 'Herpestin', 'Flavonoide', 'Saponine', 'Alkaloide', 'Stigmasterol', 'Beta-Sitosterol'],
     },
     ernte: {
       zeit: 'In tropischen Regionen ganzjährig. In Europa als Zimmerpflanze kultivierbar, Ernte der Blätter im Sommer.',
-      teile: 'Blätter und Kraut -- die ganze oberirdische Pflanze wird verwendet.',
+      teile: 'Blätter und Kraut, die ganze oberirdische Pflanze wird verwendet.',
       tipps: 'Frische Blätter haben den höchsten Wirkstoffgehalt. Als Pulver oder standardisierter Extrakt (mind. 20% Bacoside) erhältlich.',
       mond: 'Zubereitungen bei zunehmendem Mond ansetzen für die aufbauende Wirkung auf den Geist.',
     },
@@ -90,13 +90,13 @@ In der Charaka Samhita wird Brahmi als "Medhya Rasayana" klassifiziert -- ein Ve
       },
       {
         name: 'Brahmi-Extrakt (Kapseln)',
-        anleitung: '300mg standardisierter Extrakt (50% Bacoside), 2x täglich zu den Mahlzeiten. Mindestens 8-12 Wochen einnehmen -- Brahmi braucht Zeit, um seine volle Wirkung zu entfalten.',
+        anleitung: '300mg standardisierter Extrakt (50% Bacoside), 2x täglich zu den Mahlzeiten. Mindestens 8-12 Wochen einnehmen: Brahmi braucht Zeit, um seine volle Wirkung zu entfalten.',
         wirkung: 'Wissenschaftlich am besten belegt für Gedächtnis und kognitive Leistung.',
       },
     ],
     mischungen: ['Geist-Tonikum (mit Gotu Kola und Rosenwurz)', 'Lern-Elixier (mit Ginkgo und Grüntee)', 'Nerventee (mit Melisse und Lavendel)'],
     tcm: 'Brahmi wird in der TCM als kühlend betrachtet, sie klärt Hitze im Herzen und nährt das Herz-Yin, was den Geist beruhigt und gleichzeitig schärft.',
-    ayurveda: 'Brahmi ist eines der wichtigsten Medhya Rasayanas -- Verjüngungsmittel für den Geist. Sie gleicht alle drei Doshas aus, besonders Pitta und Vata im Kopfbereich.',
+    ayurveda: 'Brahmi ist eines der wichtigsten Medhya Rasayanas: Verjüngungsmittel für den Geist. Sie gleicht alle drei Doshas aus, besonders Pitta und Vata im Kopfbereich.',
     volksmedizin: 'In Indien geben Eltern ihren Schulkindern bis heute Brahmi-Milch vor Prüfungen. Meditierende nutzen sie seit Jahrtausenden, um den Geist zu beruhigen und gleichzeitig wach zu halten.',
     besonders_bei: ['konzentration', 'gedaechtnis', 'angst', 'stress', 'lernen', 'nervositaet', 'alter', 'burnout'],
   },
@@ -107,9 +107,9 @@ In der Charaka Samhita wird Brahmi als "Medhya Rasayana" klassifiziert -- ein Ve
   'Maca': {
     vollname: 'Maca / Peruanischer Ginseng (Lepidium meyenii)',
     familie: 'Kreuzblütler (Brassicaceae)',
-    beschreibung: `Maca wächst dort, wo kaum etwas anderes überlebt -- auf den kargen Hochebenen der peruanischen Anden, zwischen 4000 und 4500 Metern Höhe. Wind, Kälte, intensive UV-Strahlung und nährstoffarme Böden formen eine Knolle, die vor Lebenskraft nur so strotzt.
+    beschreibung: `Maca wächst dort, wo kaum etwas anderes überlebt, auf den kargen Hochebenen der peruanischen Anden, zwischen 4000 und 4500 Metern Höhe. Wind, Kälte, intensive UV-Strahlung und nährstoffarme Böden formen eine Knolle, die vor Lebenskraft nur so strotzt.
 
-Die Inka nannten Maca "Nahrung der Krieger" -- vor Schlachten erhielten die Soldaten große Mengen davon. Danach wurde der Verzehr allerdings eingeschränkt, um die Frauen der besiegten Städte zu schützen -- so stark wirkte Maca auf die Libido.
+Die Inka nannten Maca "Nahrung der Krieger", vor Schlachten erhielten die Soldaten große Mengen davon. Danach wurde der Verzehr allerdings eingeschränkt, um die Frauen der besiegten Städte zu schützen, so stark wirkte Maca auf die Libido.
 
 Maca enthält keine Hormone, beeinflusst aber das Hormonsystem auf regulierende Weise. Es gibt verschiedene Sorten: Gelbe Maca ist der Allrounder, rote Maca wirkt stärker auf die Prostata und den weiblichen Hormonhaushalt, schwarze Maca gilt als besonders potent für Energie, Gedächtnis und männliche Fruchtbarkeit.`,
     geschichte: `Maca wird seit mindestens 2000 Jahren in Peru angebaut. Archäologische Funde zeigen, dass die Pflanze bereits in der Vor-Inka-Zeit kultiviert wurde. Die Inka schätzten Maca so hoch, dass sie als Zahlungsmittel und Tribut akzeptiert wurde.
@@ -121,7 +121,7 @@ Nach der spanischen Eroberung geriet Maca fast in Vergessenheit. Erst in den 196
     },
     ernte: {
       zeit: 'In Peru nach 7-9 Monaten Wachstumszeit. In Europa nur als Pulver, Kapseln oder Extrakt erhältlich.',
-      teile: 'Knolle -- sie wird traditionell getrocknet und gemahlen.',
+      teile: 'Knolle, sie wird traditionell getrocknet und gemahlen.',
       tipps: 'Gelatiniertes Maca-Pulver ist besser verdaulich als rohes. Auf Herkunft aus Peru (Junin-Region) und Bio-Zertifizierung achten.',
       mond: 'Zubereitungen bei zunehmendem Mond beginnen für aufbauende, energetisierende Wirkung.',
     },
@@ -134,7 +134,7 @@ Nach der spanischen Eroberung geriet Maca fast in Vergessenheit. Erst in den 196
       {
         name: 'Maca-Kakao (peruanisch)',
         anleitung: '1 TL Maca-Pulver in heiße Schokolade (Kakao mit Pflanzenmilch) einrühren. Mit Zimt und einer Prise Cayenne würzen.',
-        wirkung: 'Wärmend, belebend und stimmungsaufhellend -- Maca und Kakao verstärken sich gegenseitig.',
+        wirkung: 'Wärmend, belebend und stimmungsaufhellend: Maca und Kakao verstärken sich gegenseitig.',
       },
       {
         name: 'Maca-Kur (Pulver)',
@@ -155,21 +155,21 @@ Nach der spanischen Eroberung geriet Maca fast in Vergessenheit. Erst in den 196
   'Mucuna': {
     vollname: 'Juckbohne / Samtbohne (Mucuna pruriens)',
     familie: 'Hülsenfrüchtler (Fabaceae)',
-    beschreibung: `Mucuna pruriens ist eine der faszinierendsten Heilpflanzen des Ayurveda -- und gleichzeitig eine der am besten wissenschaftlich erforschten. Ihr Geheimnis: Sie enthält natürliches L-Dopa, die direkte Vorstufe des Glücks-Neurotransmitters Dopamin. Keine andere Pflanze liefert so viel bioverfügbares L-Dopa.
+    beschreibung: `Mucuna pruriens ist eine der faszinierendsten Heilpflanzen des Ayurveda, und gleichzeitig eine der am besten wissenschaftlich erforschten. Ihr Geheimnis: Sie enthält natürliches L-Dopa, die direkte Vorstufe des Glücks-Neurotransmitters Dopamin. Keine andere Pflanze liefert so viel bioverfügbares L-Dopa.
 
 Der Name "pruriens" (juckend) bezieht sich auf die Haare der Samenschoten, die bei Hautkontakt starken Juckreiz auslösen. Die Samen selbst sind ungefährlich und seit Jahrtausenden als Heilmittel und Nahrung im Einsatz.
 
-Mucuna steigert die Dopaminproduktion und damit Motivation, Antrieb und Lebensfreude. Gleichzeitig ist sie adaptogen und unterstützt das Hormonsystem -- sie fördert die Testosteronproduktion und senkt Prolaktin. Im Ayurveda gilt sie als kraftvolles Verjüngungsmittel.`,
-    geschichte: `In den alten ayurvedischen Texten wird Mucuna als "Kapikacchu" beschrieben -- ein mächtiges Vajikarana (Fruchtbarkeitstonikum). Krieger und Könige nahmen sie für Kraft und Vitalität.
+Mucuna steigert die Dopaminproduktion und damit Motivation, Antrieb und Lebensfreude. Gleichzeitig ist sie adaptogen und unterstützt das Hormonsystem, sie fördert die Testosteronproduktion und senkt Prolaktin. Im Ayurveda gilt sie als kraftvolles Verjüngungsmittel.`,
+    geschichte: `In den alten ayurvedischen Texten wird Mucuna als "Kapikacchu" beschrieben, ein mächtiges Vajikarana (Fruchtbarkeitstonikum). Krieger und Könige nahmen sie für Kraft und Vitalität.
 
-In der modernen Medizin wurde Mucuna relevant, als Forscher feststellten, dass sie bei Parkinson-Patienten ähnlich wirksam sein kann wie synthetisches L-Dopa -- aber mit weniger Nebenwirkungen. Studien aus Indien zeigen, dass Mucuna die Spermienqualität verbessert und den Testosteronspiegel anhebt.`,
+In der modernen Medizin wurde Mucuna relevant, als Forscher feststellten, dass sie bei Parkinson-Patienten ähnlich wirksam sein kann wie synthetisches L-Dopa, aber mit weniger Nebenwirkungen. Studien aus Indien zeigen, dass Mucuna die Spermienqualität verbessert und den Testosteronspiegel anhebt.`,
     wirkungen: {
       hauptwirkungen: ['Dopaminfördernd', 'Stimmungsaufhellend', 'Fruchtbarkeitsfördernd', 'Testosteronsteigernd', 'Neuroprotektiv', 'Adaptogen', 'Antioxidativ', 'Muskelaufbaufördernd'],
       inhaltsstoffe: ['L-Dopa (3-6%)', 'Serotonin', '5-HTP', 'Nikotin (Spuren)', 'Mucunain', 'Prurienidin', 'Eisen', 'Magnesium', 'Zink', 'Aminosäuren'],
     },
     ernte: {
       zeit: 'Die Samen werden in tropischen Regionen nach der Reife der Schoten geerntet. In Europa als Pulver oder Extrakt erhältlich.',
-      teile: 'Samen -- sie werden geröstet oder gekocht, um die juckreizauslösenden Stoffe zu neutralisieren.',
+      teile: 'Samen, sie werden geröstet oder gekocht, um die juckreizauslösenden Stoffe zu neutralisieren.',
       tipps: 'Auf standardisierten L-Dopa-Gehalt achten (meist 15% oder 20%). Nicht zusammen mit MAO-Hemmern oder synthetischem L-Dopa einnehmen.',
       mond: 'Einnahme bei zunehmendem Mond beginnen für aufbauende Wirkung.',
     },
@@ -187,7 +187,7 @@ In der modernen Medizin wurde Mucuna relevant, als Forscher feststellten, dass s
       {
         name: 'Mucuna-Smoothie',
         anleitung: '1/2 TL Mucuna-Pulver mit Banane, Kakao und Mandelmilch mixen. Die Kombination mit Kakao verstärkt die stimmungshebende Wirkung.',
-        wirkung: 'Natürliches "Glücksgetränk" -- Dopamin und Serotonin werden gleichzeitig unterstützt.',
+        wirkung: 'Natürliches "Glücksgetränk": Dopamin und Serotonin werden gleichzeitig unterstützt.',
       },
     ],
     mischungen: ['Motivations-Mischung (mit Rosenwurz und Grüntee)', 'Männertonikum (mit Ashwagandha und Tribulus)', 'Gute-Laune-Blend (mit Kakao und Maca)'],
@@ -203,21 +203,21 @@ In der modernen Medizin wurde Mucuna relevant, als Forscher feststellten, dass s
   'Cordyceps': {
     vollname: 'Raupenpilz / Cordyceps (Cordyceps sinensis / Cordyceps militaris)',
     familie: 'Kernkeulengewächse (Cordycipitaceae)',
-    beschreibung: `Cordyceps ist einer der faszinierendsten Organismen der Natur. In der Wildform wächst er aus dem Körper einer Raupenlarve heraus -- ein parasitischer Pilz, der die Raupe von innen besiedelt und schließlich einen Fruchtkörper aus ihrem Kopf treibt. So unheimlich das klingt -- die Heilwirkung ist außergewöhnlich.
+    beschreibung: `Cordyceps ist einer der faszinierendsten Organismen der Natur. In der Wildform wächst er aus dem Körper einer Raupenlarve heraus, ein parasitischer Pilz, der die Raupe von innen besiedelt und schließlich einen Fruchtkörper aus ihrem Kopf treibt. So unheimlich das klingt, die Heilwirkung ist außergewöhnlich.
 
-In der tibetischen und chinesischen Medizin gilt Cordyceps als eines der kostbarsten Heilmittel überhaupt. Wilder Cordyceps aus Tibet kann bis zu 50.000 Euro pro Kilogramm kosten. Heute wird hauptsächlich Cordyceps militaris kultiviert -- auf Getreidebasis, vegan und deutlich günstiger, aber mit vergleichbarer Wirkung.
+In der tibetischen und chinesischen Medizin gilt Cordyceps als eines der kostbarsten Heilmittel überhaupt. Wilder Cordyceps aus Tibet kann bis zu 50.000 Euro pro Kilogramm kosten. Heute wird hauptsächlich Cordyceps militaris kultiviert, auf Getreidebasis, vegan und deutlich günstiger, aber mit vergleichbarer Wirkung.
 
-Cordyceps steigert die Sauerstoffaufnahme der Zellen, fördert die ATP-Produktion (Zellenergie) und verbessert die Ausdauerleistung. 1993 brachen chinesische Läuferinnen bei den Nationalen Spielen mehrere Weltrekorde -- ihr Trainer führte den Erfolg auf Cordyceps-Supplemente zurück.`,
+Cordyceps steigert die Sauerstoffaufnahme der Zellen, fördert die ATP-Produktion (Zellenergie) und verbessert die Ausdauerleistung. 1993 brachen chinesische Läuferinnen bei den Nationalen Spielen mehrere Weltrekorde, ihr Trainer führte den Erfolg auf Cordyceps-Supplemente zurück.`,
     geschichte: `Die Entdeckung des Cordyceps wird tibetischen Yak-Hirten zugeschrieben, die beobachteten, dass ihre Tiere nach dem Fressen des Pilzes besonders vital und fortpflanzungsfreudig waren. Seit mindestens 1500 Jahren wird er in der Traditionellen Tibetischen und Chinesischen Medizin als Stärkungsmittel eingesetzt.
 
-Im alten China war Cordyceps dem Kaiserhaus vorbehalten -- er galt als so kostbar, dass gewöhnliche Menschen ihn nicht nehmen durften. Erst mit der Kultivierung von Cordyceps militaris wurde er für alle zugänglich.`,
+Im alten China war Cordyceps dem Kaiserhaus vorbehalten, er galt als so kostbar, dass gewöhnliche Menschen ihn nicht nehmen durften. Erst mit der Kultivierung von Cordyceps militaris wurde er für alle zugänglich.`,
     wirkungen: {
       hauptwirkungen: ['Energiesteigernd', 'Ausdauerfördernd', 'Lungenstärkend', 'Nierenstärkend', 'Immunmodulierend', 'Libidofördernd', 'Antioxidativ', 'Leistungssteigernd'],
       inhaltsstoffe: ['Cordycepin', 'Adenosin', 'Beta-Glucane', 'Polysaccharide', 'Ergosterol', 'Aminosäuren', 'Vitamine (B1, B2, B12)', 'Spurenelemente'],
     },
     ernte: {
       zeit: 'Cordyceps militaris wird auf Substrat kultiviert und nach der Reife der Fruchtkörper geerntet. Als Pulver, Extrakt oder Kapseln erhältlich.',
-      teile: 'Fruchtkörper und Myzel -- beide enthalten wertvolle Wirkstoffe.',
+      teile: 'Fruchtkörper und Myzel, beide enthalten wertvolle Wirkstoffe.',
       tipps: 'Auf Extrakte aus Fruchtkörpern achten (nicht nur Myzel auf Getreide). Beta-Glucan-Gehalt von mindestens 25% ist ein Qualitätsmerkmal. Cordyceps militaris ist die vegane Alternative.',
       mond: 'Einnahme bei zunehmendem Mond beginnen für aufbauende Wirkung.',
     },
@@ -239,9 +239,9 @@ Im alten China war Cordyceps dem Kaiserhaus vorbehalten -- er galt als so kostba
       },
     ],
     mischungen: ['Sportler-Mischung (mit Maca und Eleuthero)', 'Lungen-Tonikum (mit Astragalus und Süßholz)', 'Energiepilz-Blend (mit Reishi und Lions Mane)'],
-    tcm: 'Cordyceps stärkt Nieren-Yang und Lungen-Yin gleichzeitig -- eine seltene Kombination. Er nährt die Essenz (Jing) und tonisiert das Qi.',
+    tcm: 'Cordyceps stärkt Nieren-Yang und Lungen-Yin gleichzeitig, eine seltene Kombination. Er nährt die Essenz (Jing) und tonisiert das Qi.',
     ayurveda: 'Cordyceps wird als Rasayana (Verjüngungsmittel) betrachtet, das Vata und Kapha ausgleicht. Er stärkt Ojas und Prana.',
-    volksmedizin: 'In Tibet und Nepal sammeln Dorfbewohner bis heute wilden Cordyceps -- er ist eine wichtige Einnahmequelle. Eine einzelne Saison kann das Jahreseinkommen einer Familie sichern.',
+    volksmedizin: 'In Tibet und Nepal sammeln Dorfbewohner bis heute wilden Cordyceps, er ist eine wichtige Einnahmequelle. Eine einzelne Saison kann das Jahreseinkommen einer Familie sichern.',
     besonders_bei: ['erschoepfung', 'sport', 'lunge', 'niere', 'libido', 'immunschwaeche', 'alter', 'asthma'],
   },
 
@@ -251,28 +251,28 @@ Im alten China war Cordyceps dem Kaiserhaus vorbehalten -- er galt als so kostba
   'Reishi': {
     vollname: 'Glänzender Lackporling / Reishi / Ling Zhi (Ganoderma lucidum)',
     familie: 'Lackporlingsverwandte (Ganodermataceae)',
-    beschreibung: `Reishi ist der "Pilz der Unsterblichkeit" -- so wird er in der chinesischen Medizin seit über 2000 Jahren genannt. Sein chinesischer Name "Ling Zhi" bedeutet "Geist-Pflanze" oder "Pilz der spirituellen Kraft". In der Rangordnung der chinesischen Heilmittel steht er ganz oben -- noch über Ginseng.
+    beschreibung: `Reishi ist der "Pilz der Unsterblichkeit", so wird er in der chinesischen Medizin seit über 2000 Jahren genannt. Sein chinesischer Name "Ling Zhi" bedeutet "Geist-Pflanze" oder "Pilz der spirituellen Kraft". In der Rangordnung der chinesischen Heilmittel steht er ganz oben, noch über Ginseng.
 
 Der Reishi ist ein Baumpilz mit einem markanten, lackglänzenden Hut in Rot- bis Brauntönen. In der Natur ist er selten, was zu seinem legendären Ruf beigetragen hat. Wer einen wilden Reishi fand, galt als vom Schicksal begünstigt.
 
-Reishi ist kein Energiespender im klassischen Sinn -- er ist ein Beruhiger, ein Harmonisierer. Er stärkt das Immunsystem auf intelligente Weise (immunmodulierend, nicht nur stimulierend), beruhigt das Nervensystem und unterstützt die Leber. Er ist der Pilz für Menschen, die unter Dauerstress stehen, schlecht schlafen und innerlich nicht zur Ruhe kommen.`,
+Reishi ist kein Energiespender im klassischen Sinn, er ist ein Beruhiger, ein Harmonisierer. Er stärkt das Immunsystem auf intelligente Weise (immunmodulierend, nicht nur stimulierend), beruhigt das Nervensystem und unterstützt die Leber. Er ist der Pilz für Menschen, die unter Dauerstress stehen, schlecht schlafen und innerlich nicht zur Ruhe kommen.`,
     geschichte: `In der chinesischen Malerei und Dichtung erscheint Reishi als Symbol für Langlebigkeit, Weisheit und Glück. Kaiser der Ming-Dynastie ließen ihre Paläste mit Reishi-Motiven schmücken. Im Shennong Ben Cao Jing wird er als "Oberstes Kraut" eingestuft.
 
-Japanische Mönche nutzten Reishi seit Jahrhunderten zur Meditation -- er beruhigt den Geist, ohne müde zu machen. Heute ist Reishi einer der meistuntersuchten Vitalpilze mit über 400 bioaktiven Verbindungen.`,
+Japanische Mönche nutzten Reishi seit Jahrhunderten zur Meditation, er beruhigt den Geist, ohne müde zu machen. Heute ist Reishi einer der meistuntersuchten Vitalpilze mit über 400 bioaktiven Verbindungen.`,
     wirkungen: {
       hauptwirkungen: ['Immunmodulierend', 'Beruhigend', 'Leberschützend', 'Entzündungshemmend', 'Schlaffördernd', 'Blutdrucksenkend', 'Antitumoral', 'Antiallergisch'],
       inhaltsstoffe: ['Triterpene (Ganodersäuren)', 'Beta-Glucane', 'Polysaccharide', 'Germanium', 'Adenosin', 'Ergosterol', 'Aminosäuren', 'Antioxidantien'],
     },
     ernte: {
       zeit: 'Wild: Sommer bis Herbst an Laubbäumen. Kultiviert: ganzjährig auf Holzstämmen oder Substrat.',
-      teile: 'Fruchtkörper -- je älter und dunkler, desto wirkstoffreicher.',
+      teile: 'Fruchtkörper, je älter und dunkler, desto wirkstoffreicher.',
       tipps: 'Dualextrakte (Heißwasser + Alkohol) erfassen sowohl die wasserlöslichen Beta-Glucane als auch die alkohollöslichen Triterpene. Qualitätsmerkmale: mind. 30% Polysaccharide.',
       mond: 'Zubereitungen bei abnehmendem Mond ansetzen für die beruhigende, ausleitende Wirkung.',
     },
     zubereitungen: [
       {
         name: 'Reishi-Tee (Dekokt)',
-        anleitung: 'Getrocknete Reishi-Scheiben (5-10g) in 1 Liter Wasser mindestens 1 Stunde auf kleiner Flamme köcheln lassen. Der Tee schmeckt bitter -- mit Honig und Ingwer mildern. Über den Tag verteilt trinken.',
+        anleitung: 'Getrocknete Reishi-Scheiben (5-10g) in 1 Liter Wasser mindestens 1 Stunde auf kleiner Flamme köcheln lassen. Der Tee schmeckt bitter, mit Honig und Ingwer mildern. Über den Tag verteilt trinken.',
         wirkung: 'Tiefgreifende Immunstärkung, Beruhigung, Leberpflege.',
       },
       {
@@ -289,7 +289,7 @@ Japanische Mönche nutzten Reishi seit Jahrhunderten zur Meditation -- er beruhi
     mischungen: ['Schlafmischung (mit Ashwagandha und Passionsblume)', 'Immunpilz-Trio (mit Chaga und Lions Mane)', 'Lebertee (mit Mariendistel und Löwenzahn)'],
     tcm: 'Ling Zhi nährt das Herz-Qi, beruhigt den Shen (Geist) und stärkt das Wei-Qi. Er harmonisiert alle fünf Organsysteme.',
     ayurveda: 'Reishi wird als sattvisch (geisterhellend) betrachtet. Er gleicht alle drei Doshas aus und fördert inneren Frieden.',
-    volksmedizin: 'In Japan heißt es: "Reishi heilt tausend Krankheiten, indem er eine heilt -- das Ungleichgewicht." Taoistische Mönche betrachteten ihn als Schlüssel zur Erleuchtung.',
+    volksmedizin: 'In Japan heißt es: "Reishi heilt tausend Krankheiten, indem er eine heilt, das Ungleichgewicht." Taoistische Mönche betrachteten ihn als Schlüssel zur Erleuchtung.',
     besonders_bei: ['schlafprobleme', 'immunschwaeche', 'allergie', 'leber', 'stress', 'bluthochdruck', 'angst', 'krebs'],
   },
 
@@ -299,34 +299,34 @@ Japanische Mönche nutzten Reishi seit Jahrhunderten zur Meditation -- er beruhi
   'Chaga': {
     vollname: 'Schiefer Schillerporling / Chaga (Inonotus obliquus)',
     familie: 'Borstenscheiblingsartige (Hymenochaetaceae)',
-    beschreibung: `Chaga sieht aus wie ein Stück verbrannte Kohle, das aus einem Birkenstamm wächst -- und genau das ist sein Erkennungsmerkmal. Dieser unscheinbare Pilz ist einer der kraftvollsten Antioxidantien der Natur. Sein ORAC-Wert (Maß für antioxidative Kapazität) übertrifft den von Acai-Beeren, Blaubeeren und Kakao um ein Vielfaches.
+    beschreibung: `Chaga sieht aus wie ein Stück verbrannte Kohle, das aus einem Birkenstamm wächst, und genau das ist sein Erkennungsmerkmal. Dieser unscheinbare Pilz ist einer der kraftvollsten Antioxidantien der Natur. Sein ORAC-Wert (Maß für antioxidative Kapazität) übertrifft den von Acai-Beeren, Blaubeeren und Kakao um ein Vielfaches.
 
 Chaga wächst vornehmlich auf Birken in den borealen Wäldern Sibiriens, Skandinaviens und Kanadas. Er braucht 15-20 Jahre, um seine volle Wirkstoffdichte zu erreichen. Dabei nimmt er die Heilkraft der Birke in sich auf und konzentriert sie: Betulin, Betulinsäure und die berühmten Melanine, die ihm seine dunkle Farbe geben.
 
-In Sibirien wird Chaga seit Jahrhunderten als Alltagsgetränk genossen -- nicht als Medizin, sondern als täglicher Tee. Die Menschen in den Chaga-Regionen fallen durch ungewöhnliche Langlebigkeit und niedrige Krebsraten auf.`,
-    geschichte: `Die erste schriftliche Erwähnung von Chaga stammt aus dem 12. Jahrhundert -- der russische Großfürst Wladimir Monomach soll seine Lippengeschwulst mit Chaga geheilt haben. In der russischen Volksmedizin wird er als "Geschenk Gottes" verehrt.
+In Sibirien wird Chaga seit Jahrhunderten als Alltagsgetränk genossen, nicht als Medizin, sondern als täglicher Tee. Die Menschen in den Chaga-Regionen fallen durch ungewöhnliche Langlebigkeit und niedrige Krebsraten auf.`,
+    geschichte: `Die erste schriftliche Erwähnung von Chaga stammt aus dem 12. Jahrhundert, der russische Großfürst Wladimir Monomach soll seine Lippengeschwulst mit Chaga geheilt haben. In der russischen Volksmedizin wird er als "Geschenk Gottes" verehrt.
 
-Der russische Nobelpreisträger Alexander Solschenizyn beschrieb in seinem Roman "Krebsstation" die Anwendung von Chaga bei Krebspatienten -- basierend auf realen Beobachtungen in sibirischen Krankenhäusern. In Russland ist Chaga als offizielles Arzneimittel (Befungin) zugelassen.`,
+Der russische Nobelpreisträger Alexander Solschenizyn beschrieb in seinem Roman "Krebsstation" die Anwendung von Chaga bei Krebspatienten, basierend auf realen Beobachtungen in sibirischen Krankenhäusern. In Russland ist Chaga als offizielles Arzneimittel (Befungin) zugelassen.`,
     wirkungen: {
       hauptwirkungen: ['Hochpotentes Antioxidans', 'Immunmodulierend', 'Entzündungshemmend', 'Antitumoral', 'Blutzuckerregulierend', 'Leberschützend', 'Hautschützend', 'Verdauungsfördernd'],
       inhaltsstoffe: ['Betulin', 'Betulinsäure', 'Melanine', 'Beta-Glucane', 'Polysaccharide', 'Superoxiddismutase (SOD)', 'Triterpene', 'Germanium', 'Zink', 'Selen'],
     },
     ernte: {
       zeit: 'Wildsammlung: Am besten im Winter, wenn die Wirkstoffe am konzentriertesten sind. Der Pilz braucht mindestens 5 Jahre Wachstum.',
-      teile: 'Der Konk (schwarze Auswuchs am Baum) -- das Innere ist goldbraun und korkartig.',
+      teile: 'Der Konk (schwarze Auswuchs am Baum), das Innere ist goldbraun und korkartig.',
       tipps: 'Nur von lebenden Birken sammeln. Qualitäts-Chaga kommt aus Sibirien, Finnland oder Kanada. Wild gesammelter Chaga ist kultiviertem weit überlegen.',
       mond: 'Wildsammlung bei abnehmendem Mond für höchste Wirkstoffkonzentration.',
     },
     zubereitungen: [
       {
         name: 'Chaga-Tee (sibirisch)',
-        anleitung: 'Chaga-Brocken zerkleinern und 5-10g in 1 Liter Wasser 20-30 Minuten köcheln (nicht kochen -- unter 80°C halten, um die Enzyme zu schonen). Über den Tag trinken. Die Brocken können 3-4x aufgekocht werden.',
+        anleitung: 'Chaga-Brocken zerkleinern und 5-10g in 1 Liter Wasser 20-30 Minuten köcheln (nicht kochen, unter 80°C halten, um die Enzyme zu schonen). Über den Tag trinken. Die Brocken können 3-4x aufgekocht werden.',
         wirkung: 'Tägliche Antioxidantien-Versorgung, Immunstärkung, Verdauungspflege.',
       },
       {
         name: 'Chaga-Dualextrakt',
         anleitung: 'Fertigen Dualextrakt (Wasser + Alkohol) kaufen. 1-2ml täglich in Tee, Kaffee oder Wasser geben.',
-        wirkung: 'Erfasst alle Wirkstoffe -- wasserlösliche und alkohollösliche. Höchste Bioverfügbarkeit.',
+        wirkung: 'Erfasst alle Wirkstoffe, wasserlösliche und alkohollösliche. Höchste Bioverfügbarkeit.',
       },
       {
         name: 'Chaga-Kaffeeersatz',
@@ -337,7 +337,7 @@ Der russische Nobelpreisträger Alexander Solschenizyn beschrieb in seinem Roman
     mischungen: ['Antioxidans-Blend (mit Grüntee und Kurkuma)', 'Vitalpilz-Trio (mit Reishi und Lions Mane)', 'Winterstärkung (mit Hagebutte und Ingwer)'],
     tcm: 'Chaga wird als kühlend und nährend betrachtet. Er stärkt das Yin und klärt toxische Hitze. Besonders wertvoll für Magen und Milz.',
     ayurveda: 'Chaga gleicht Pitta aus und stärkt die Verdauungskraft (Agni), ohne zu erhitzen. Er wird als sattvisch und reinigend betrachtet.',
-    volksmedizin: 'In Sibirien trinken die Menschen Chaga-Tee wie andere Kaffee trinken -- jeden Tag. Die Region um den Baikalsee ist bekannt für langlebige Menschen, und viele führen das auf ihren Chaga-Konsum zurück.',
+    volksmedizin: 'In Sibirien trinken die Menschen Chaga-Tee wie andere Kaffee trinken, jeden Tag. Die Region um den Baikalsee ist bekannt für langlebige Menschen, und viele führen das auf ihren Chaga-Konsum zurück.',
     besonders_bei: ['immunschwaeche', 'entzuendung', 'magen', 'leber', 'haut', 'krebs', 'alter', 'diabetes'],
   },
 
@@ -347,21 +347,21 @@ Der russische Nobelpreisträger Alexander Solschenizyn beschrieb in seinem Roman
   'Hericium': {
     vollname: 'Igelstachelbart / Lions Mane (Hericium erinaceus)',
     familie: 'Hericiaceae',
-    beschreibung: `Hericium ist der "Gehirnpilz" unter den Vitalpilzen -- und er sieht tatsächlich aus wie ein weißes Gehirn oder eine Löwenmähne, die an einem Baumstamm hängt. Sein Äußeres ist einzigartig: Lange, weiße Stacheln hängen wie ein Wasserfall herab.
+    beschreibung: `Hericium ist der "Gehirnpilz" unter den Vitalpilzen, und er sieht tatsächlich aus wie ein weißes Gehirn oder eine Löwenmähne, die an einem Baumstamm hängt. Sein Äußeres ist einzigartig: Lange, weiße Stacheln hängen wie ein Wasserfall herab.
 
-Was Hericium so besonders macht: Er enthält Erinacine und Hericenone -- Substanzen, die den Nervenwachstumsfaktor (NGF) im Gehirn stimulieren. NGF ist entscheidend für das Wachstum, die Reparatur und den Erhalt von Nervenzellen. Kein anderer bekannter Naturstoff kann das in diesem Masse.
+Was Hericium so besonders macht: Er enthält Erinacine und Hericenone: Substanzen, die den Nervenwachstumsfaktor (NGF) im Gehirn stimulieren. NGF ist entscheidend für das Wachstum, die Reparatur und den Erhalt von Nervenzellen. Kein anderer bekannter Naturstoff kann das in diesem Masse.
 
 Das bedeutet: Hericium kann tatsächlich helfen, neue Nervenverbindungen zu bilden und geschädigte Nerven zu regenerieren. Er wird deshalb intensiv bei neurodegenerativen Erkrankungen wie Alzheimer, Parkinson und MS erforscht. Aber auch gesunde Menschen profitieren: bessere Konzentration, klareres Denken, schnellere Informationsverarbeitung.`,
-    geschichte: `In China und Japan wird Hericium seit Jahrhunderten als Delikatesse und Heilmittel geschätzt. Buddhistische Mönche nutzten ihn, um die Meditation zu vertiefen und den Geist zu schärfen. In der TCM heißt er "Hou Tou Gu" -- Affenkopfpilz.
+    geschichte: `In China und Japan wird Hericium seit Jahrhunderten als Delikatesse und Heilmittel geschätzt. Buddhistische Mönche nutzten ihn, um die Meditation zu vertiefen und den Geist zu schärfen. In der TCM heißt er "Hou Tou Gu": Affenkopfpilz.
 
-Erst in den 1990er Jahren entdeckten japanische Forscher die einzigartigen NGF-stimulierenden Eigenschaften. Seitdem explodiert das wissenschaftliche Interesse -- Hericium gehört heute zu den am intensivsten erforschten Vitalpilzen.`,
+Erst in den 1990er Jahren entdeckten japanische Forscher die einzigartigen NGF-stimulierenden Eigenschaften. Seitdem explodiert das wissenschaftliche Interesse: Hericium gehört heute zu den am intensivsten erforschten Vitalpilzen.`,
     wirkungen: {
       hauptwirkungen: ['Nervenwachstumsfaktor (NGF) stimulierend', 'Neuroprotektiv', 'Gedächtnisfördernd', 'Magenschleimhaut schützend', 'Immunmodulierend', 'Angstlösend', 'Stimmungsaufhellend', 'Nervenheilend'],
       inhaltsstoffe: ['Erinacine', 'Hericenone', 'Beta-Glucane', 'Polysaccharide', 'Aminosäuren', 'Ergosterol', 'Mineralstoffe', 'Antioxidantien'],
     },
     ernte: {
       zeit: 'Wild: Herbst an Laubbäumen (selten). Kultiviert: ganzjährig auf Holzsubstrat.',
-      teile: 'Fruchtkörper -- weiße, stachelige Struktur. Auch das Myzel enthält wertvolle Erinacine.',
+      teile: 'Fruchtkörper, weiße, stachelige Struktur. Auch das Myzel enthält wertvolle Erinacine.',
       tipps: 'Dualextrakt (Heißwasser + Alkohol) erfasst die volle Bandbreite. Frisch ist Hericium eine Delikatesse und schmeckt nach Hummer. Bio-Qualität und Fruchtkörper-Extrakt bevorzugen.',
       mond: 'Zubereitungen bei zunehmendem Mond ansetzen für die aufbauende Wirkung auf das Nervensystem.',
     },
@@ -379,12 +379,12 @@ Erst in den 1990er Jahren entdeckten japanische Forscher die einzigartigen NGF-s
       {
         name: 'Hericium in der Küche',
         anleitung: 'Frischen Hericium in Scheiben schneiden und in Butter oder Olivenöl goldbraun braten. Leicht salzen. Er hat eine Konsistenz und einen Geschmack, der an Meeresfrüchte erinnert.',
-        wirkung: 'Genuss und Heilwirkung vereint -- eine Delikatesse mit Nervennahrung.',
+        wirkung: 'Genuss und Heilwirkung vereint, eine Delikatesse mit Nervennahrung.',
       },
     ],
     mischungen: ['Gehirnpilz-Blend (mit Cordyceps und Reishi)', 'Konzentrations-Mix (mit Brahmi und Ginkgo)', 'Nerventee (mit Melisse und Hafer)'],
     tcm: 'Hericium stärkt Milz und Magen, nährt das Qi und beruhigt den Shen. Er wird bei Verdauungsschwäche und Unruhezuständen eingesetzt.',
-    ayurveda: 'Hericium wird als sattvisch betrachtet -- er klärt den Geist und fördert höheres Bewusstsein. Er gleicht Vata im Nervensystem aus.',
+    ayurveda: 'Hericium wird als sattvisch betrachtet, er klärt den Geist und fördert höheres Bewusstsein. Er gleicht Vata im Nervensystem aus.',
     volksmedizin: 'Buddhistische Mönche in Japan und China nutzten Hericium als "Meditationspilz". Sie berichteten von tieferer Konzentration und klareren geistigen Zuständen.',
     besonders_bei: ['konzentration', 'gedaechtnis', 'nervositaet', 'magen', 'depression', 'angst', 'demenz', 'nervenschaeden'],
   },
@@ -395,21 +395,21 @@ Erst in den 1990er Jahren entdeckten japanische Forscher die einzigartigen NGF-s
   'Tulsi': {
     vollname: 'Heiliges Basilikum / Tulsi (Ocimum tenuiflorum / O. sanctum)',
     familie: 'Lippenblütler (Lamiaceae)',
-    beschreibung: `Tulsi ist die heiligste Pflanze Indiens -- in Millionen hinduistischer Haushalte wächst sie vor der Tür oder auf dem Balkon, als lebendiger Schrein. Ihr Name bedeutet "die Unvergleichliche". Sie ist weit mehr als ein Gewürz: Tulsi ist Medizin, Schutzpflanze und spirituelle Kraft in einem.
+    beschreibung: `Tulsi ist die heiligste Pflanze Indiens, in Millionen hinduistischer Haushalte wächst sie vor der Tür oder auf dem Balkon, als lebendiger Schrein. Ihr Name bedeutet "die Unvergleichliche". Sie ist weit mehr als ein Gewürz: Tulsi ist Medizin, Schutzpflanze und spirituelle Kraft in einem.
 
-Anders als das mediterrane Basilikum hat Tulsi einen intensiveren, pfeffrig-nelkenartigen Geschmack und ein breiteres Wirkspektrum. Als Adaptogen hilft Tulsi dem Körper, mit Stress umzugehen -- sie senkt Cortisol, hebt die Stimmung und stärkt gleichzeitig die Widerstandskraft.
+Anders als das mediterrane Basilikum hat Tulsi einen intensiveren, pfeffrig-nelkenartigen Geschmack und ein breiteres Wirkspektrum. Als Adaptogen hilft Tulsi dem Körper, mit Stress umzugehen, sie senkt Cortisol, hebt die Stimmung und stärkt gleichzeitig die Widerstandskraft.
 
 Besonders bemerkenswert ist die antibakterielle und antivirale Wirkung: Tulsi ist eines der stärksten natürlichen Antiseptika. In Indien kaut man frische Blätter bei Erkältung, Husten und Fieber. Gleichzeitig schützt Tulsi die Leber, reguliert den Blutzucker und senkt das Cholesterin.`,
-    geschichte: `Tulsi wird in der Bhagavad Gita und den Puranas erwähnt -- sie ist die Manifestation der Göttin Lakshmi. Krishna-Anhänger tragen Tulsi-Ketten (Mala) um den Hals. Im ayurvedischen Haushalt ist es Tradition, Tulsi jeden Tag zu gießen und um ihren Segen zu bitten.
+    geschichte: `Tulsi wird in der Bhagavad Gita und den Puranas erwähnt, sie ist die Manifestation der Göttin Lakshmi. Krishna-Anhänger tragen Tulsi-Ketten (Mala) um den Hals. Im ayurvedischen Haushalt ist es Tradition, Tulsi jeden Tag zu gießen und um ihren Segen zu bitten.
 
-In der Ayurveda-Medizin wird Tulsi seit über 3000 Jahren als "Lebenselixier" eingesetzt. Die drei Hauptvarietäten -- Rama Tulsi (grün), Krishna Tulsi (violett) und Vana Tulsi (wild) -- haben leicht unterschiedliche Wirkungsprofile, sind aber alle hochwirksam.`,
+In der Ayurveda-Medizin wird Tulsi seit über 3000 Jahren als "Lebenselixier" eingesetzt. Die drei Hauptvarietäten: Rama Tulsi (grün), Krishna Tulsi (violett) und Vana Tulsi (wild), haben leicht unterschiedliche Wirkungsprofile, sind aber alle hochwirksam.`,
     wirkungen: {
       hauptwirkungen: ['Adaptogen', 'Antibakteriell', 'Antiviral', 'Stresslindernd', 'Entzündungshemmend', 'Blutzuckerregulierend', 'Leberschützend', 'Immunstärkend'],
       inhaltsstoffe: ['Eugenol', 'Ursolsäure', 'Rosmarinsäure', 'Apigenin', 'Luteolin', 'Ocimumosid', 'Beta-Caryophyllen', 'Vitamin C', 'Vitamin A', 'Kalzium', 'Eisen'],
     },
     ernte: {
       zeit: 'In tropischen Regionen ganzjährig. In Europa als Zimmerpflanze oder Sommerkultur im Garten möglich. Blätter vor der Blüte ernten.',
-      teile: 'Blätter und Blütenspitzen -- die ganze oberirdische Pflanze ist nutzbar.',
+      teile: 'Blätter und Blütenspitzen, die ganze oberirdische Pflanze ist nutzbar.',
       tipps: 'Frische Blätter haben die stärkste Wirkung. Für Tee auch getrocknet sehr gut. Tulsi lässt sich leicht aus Samen ziehen und auf der Fensterbank kultivieren.',
       mond: 'Blätter bei zunehmendem Mond ernten für die aufbauende Wirkung.',
     },
@@ -433,7 +433,7 @@ In der Ayurveda-Medizin wird Tulsi seit über 3000 Jahren als "Lebenselixier" ei
     mischungen: ['Adaptogen-Tee (mit Ashwagandha und Rosenwurz)', 'Erkältungsmischung (mit Ingwer und Zitrone)', 'Beruhigungstee (mit Kamille und Lavendel)'],
     tcm: 'Tulsi bewegt das Qi, klärt Wind-Kälte und stärkt das Wei-Qi. Wärmende Natur, scharfer und süßer Geschmack.',
     ayurveda: 'Tulsi öffnet Herz und Geist, stärkt Prana und reinigt die Srotas (Körperkanäle). Sie gleicht Kapha und Vata aus, kann Pitta leicht erhöhen.',
-    volksmedizin: 'In Indien sagt man: "Wo Tulsi wächst, hat Krankheit keinen Platz." Hochzeitszeremonien, Sterberituale und tägliche Gebete -- Tulsi begleitet das gesamte indische Leben.',
+    volksmedizin: 'In Indien sagt man: "Wo Tulsi wächst, hat Krankheit keinen Platz." Hochzeitszeremonien, Sterberituale und tägliche Gebete: Tulsi begleitet das gesamte indische Leben.',
     besonders_bei: ['stress', 'erkaeltung', 'immunschwaeche', 'diabetes', 'leber', 'entzuendung', 'verdauung', 'atemwege'],
   },
 
@@ -457,7 +457,7 @@ In den 1970er Jahren brachte der österreichische Forscher Klaus Keplinger die P
     },
     ernte: {
       zeit: 'Die Rinde wird in Peru nachhaltig geerntet, ohne die Pflanze zu töten. In Europa als Rinde, Pulver oder Extrakt erhältlich.',
-      teile: 'Innere Rinde und Wurzel -- die Rinde enthält die höchste Alkaloidkonzentration.',
+      teile: 'Innere Rinde und Wurzel, die Rinde enthält die höchste Alkaloidkonzentration.',
       tipps: 'Auf "Uncaria tomentosa" achten, nicht verwechseln mit Uncaria guianensis (andere Wirkung). TOA-freie Extrakte gelten als wirksamer.',
       mond: 'Zubereitungen bei abnehmendem Mond ansetzen für die reinigende, entzündungshemmende Wirkung.',
     },
@@ -481,7 +481,7 @@ In den 1970er Jahren brachte der österreichische Forscher Klaus Keplinger die P
     mischungen: ['Gelenktee (mit Teufelskralle und Weidenrinde)', 'Immunmischung (mit Astragalus und Reishi)', 'Magen-Tee (mit Kamille und Süßholz)'],
     tcm: 'Katzenkralle klärt feuchte Hitze, bewegt das Blut und löst Stagnation. Sie stärkt das Wei-Qi und klärt Toxine.',
     ayurveda: 'Katzenkralle wird als reinigend und entzündungshemmend betrachtet. Sie gleicht Pitta und Kapha aus und reinigt das Blut.',
-    volksmedizin: 'Die Ashaninka-Heiler sagen: "Una de Gato reinigt den Körper bis in die tiefste Zelle." Sie kochen einen extrem starken Sud, der über mehrere Tage getrunken wird -- eine Art innere Reinigungskur.',
+    volksmedizin: 'Die Ashaninka-Heiler sagen: "Una de Gato reinigt den Körper bis in die tiefste Zelle." Sie kochen einen extrem starken Sud, der über mehrere Tage getrunken wird, eine Art innere Reinigungskur.',
     besonders_bei: ['rheuma', 'arthrose', 'immunschwaeche', 'entzuendung', 'magen', 'darm', 'infekte', 'krebs'],
   },
 
@@ -491,12 +491,12 @@ In den 1970er Jahren brachte der österreichische Forscher Klaus Keplinger die P
   'Lapacho': {
     vollname: 'Lapacho / Pau d\'Arco (Tabebuia impetiginosa / Handroanthus impetiginosus)',
     familie: 'Trompetenbaumgewächse (Bignoniaceae)',
-    beschreibung: `Der Lapacho ist ein majestätischer Baum Südamerikas, der bis zu 30 Meter hoch wird und im Frühling in einem atemberaubenden Rosa erblüht -- noch bevor die Blätter austreiben. Sein Holz ist so hart und widerstandsfähig, dass es "Holz des Lebens" genannt wird.
+    beschreibung: `Der Lapacho ist ein majestätischer Baum Südamerikas, der bis zu 30 Meter hoch wird und im Frühling in einem atemberaubenden Rosa erblüht, noch bevor die Blätter austreiben. Sein Holz ist so hart und widerstandsfähig, dass es "Holz des Lebens" genannt wird.
 
-Für die Heilkunde wird die innere Rinde verwendet. Sie enthält Lapachol und Beta-Lapachon -- Naphthochinone mit bemerkenswerten Eigenschaften: Sie wirken antimikrobiell gegen Bakterien, Viren, Pilze und Parasiten gleichzeitig. Besonders die antifungale Wirkung bei Candida-Infektionen ist klinisch gut belegt.
+Für die Heilkunde wird die innere Rinde verwendet. Sie enthält Lapachol und Beta-Lapachon: Naphthochinone mit bemerkenswerten Eigenschaften: Sie wirken antimikrobiell gegen Bakterien, Viren, Pilze und Parasiten gleichzeitig. Besonders die antifungale Wirkung bei Candida-Infektionen ist klinisch gut belegt.
 
-Der Lapacho-Tee hat einen angenehm erdigen, leicht vanilligen Geschmack und enthält kein Koffein. In Brasilien und Argentinien ist er ein beliebtes Alltagsgetränk -- nicht nur für Kranke, sondern als tägliches Gesundheitsritual.`,
-    geschichte: `Die Guarani-Indianer nannten den Lapacho "Tajy" -- Baum der Kraft. Die Inka verwendeten die Rinde als Universalheilmittel. Spanische Eroberer berichteten staunend von der Gesundheit der Völker, die regelmäßig Lapacho tranken.
+Der Lapacho-Tee hat einen angenehm erdigen, leicht vanilligen Geschmack und enthält kein Koffein. In Brasilien und Argentinien ist er ein beliebtes Alltagsgetränk, nicht nur für Kranke, sondern als tägliches Gesundheitsritual.`,
+    geschichte: `Die Guarani-Indianer nannten den Lapacho "Tajy": Baum der Kraft. Die Inka verwendeten die Rinde als Universalheilmittel. Spanische Eroberer berichteten staunend von der Gesundheit der Völker, die regelmäßig Lapacho tranken.
 
 In den 1960er Jahren entdeckte der brasilianische Arzt Dr. Walter Accorsi die Heilwirkung neu und behandelte Krebspatienten damit. Die moderne Forschung zu Lapachol und Beta-Lapachon hat hunderte Studien hervorgebracht, besonders im Bereich der Krebsforschung.`,
     wirkungen: {
@@ -505,8 +505,8 @@ In den 1960er Jahren entdeckte der brasilianische Arzt Dr. Walter Accorsi die He
     },
     ernte: {
       zeit: 'Die innere Rinde wird in Südamerika nachhaltig geerntet. In Europa als geschnittene Rinde oder Pulver erhältlich.',
-      teile: 'Innere Rinde (zwischen äußerer Rinde und Kernholz) -- hier sitzen die Wirkstoffe.',
-      tipps: 'Die Rinde muss als Dekokt (Abkochung) zubereitet werden, da ein Aufguss nicht ausreicht. Auf rotbraune Farbe des Tees achten -- je dunkler, desto wirksamer.',
+      teile: 'Innere Rinde (zwischen äußerer Rinde und Kernholz), hier sitzen die Wirkstoffe.',
+      tipps: 'Die Rinde muss als Dekokt (Abkochung) zubereitet werden, da ein Aufguss nicht ausreicht. Auf rotbraune Farbe des Tees achten, je dunkler, desto wirksamer.',
       mond: 'Kuren bei abnehmendem Mond beginnen für die reinigende, antimykotische Wirkung.',
     },
     zubereitungen: [
@@ -529,7 +529,7 @@ In den 1960er Jahren entdeckte der brasilianische Arzt Dr. Walter Accorsi die He
     mischungen: ['Anti-Candida-Kur (mit Oregano-Öl und Kokosöl)', 'Immunstärkung (mit Katzenkralle und Astragalus)', 'Hautpflege-Tee (mit Stiefmütterchen und Brennnessel)'],
     tcm: 'Lapacho klärt feuchte Hitze und toxische Hitze. Er bewegt das Blut und löst Stagnation. Besonders für den Unteren Erwärmer.',
     ayurveda: 'Lapacho reduziert übermäßiges Kapha und Ama (Toxine). Er reinigt das Blut und stärkt Agni.',
-    volksmedizin: 'In Brasilien sagt man: "Lapacho-Trinker kennen keinen Pilz." Indigene Heiler setzen ihn bei praktisch jeder Infektion ein -- innerlich als Tee, äußerlich als Waschung.',
+    volksmedizin: 'In Brasilien sagt man: "Lapacho-Trinker kennen keinen Pilz." Indigene Heiler setzen ihn bei praktisch jeder Infektion ein, innerlich als Tee, äußerlich als Waschung.',
     besonders_bei: ['candida', 'pilzinfektion', 'immunschwaeche', 'haut', 'entzuendung', 'infekte', 'darm', 'wunden'],
   },
 
@@ -539,34 +539,34 @@ In den 1960er Jahren entdeckte der brasilianische Arzt Dr. Walter Accorsi die He
   'Amla': {
     vollname: 'Indische Stachelbeere / Amla / Amalaki (Phyllanthus emblica)',
     familie: 'Phyllanthusgewächse (Phyllanthaceae)',
-    beschreibung: `Amla ist die Vitamin-C-Bombe des Ayurveda -- eine einzige Frucht enthält so viel Vitamin C wie 20 Orangen. Und das Besondere: Dieses Vitamin C ist hitzestabil und bleibt auch beim Kochen und Trocknen weitgehend erhalten, weil es durch Gerbstoffe geschützt wird.
+    beschreibung: `Amla ist die Vitamin-C-Bombe des Ayurveda, eine einzige Frucht enthält so viel Vitamin C wie 20 Orangen. Und das Besondere: Dieses Vitamin C ist hitzestabil und bleibt auch beim Kochen und Trocknen weitgehend erhalten, weil es durch Gerbstoffe geschützt wird.
 
-Im Ayurveda gilt Amla als die wichtigste Verjüngungsfrucht. Sie ist Hauptbestandteil von Triphala und Chyawanprash -- zwei der bekanntesten ayurvedischen Formeln überhaupt. Amla ist eine der wenigen Substanzen, die alle drei Doshas ausgleicht.
+Im Ayurveda gilt Amla als die wichtigste Verjüngungsfrucht. Sie ist Hauptbestandteil von Triphala und Chyawanprash, zwei der bekanntesten ayurvedischen Formeln überhaupt. Amla ist eine der wenigen Substanzen, die alle drei Doshas ausgleicht.
 
-Die Frucht schmeckt zunächst herb-sauer, dann süß, mit einem erstaunlich komplexen Geschmacksprofil. Im Ayurveda sagt man, Amla enthalte fünf der sechs Geschmäcker -- nur salzig fehlt. Diese Geschmacksvielfalt zeigt ihre umfassende Heilkraft an.`,
-    geschichte: `Amla wird in den ältesten ayurvedischen Texten als "Dhatri" erwähnt -- "die Nährende", "die Mutter". Der Legende nach entstand Amla aus den Freudentränen Brahmas. In der Charaka Samhita wird sie als das beste unter den Verjüngungsmitteln gepriesen.
+Die Frucht schmeckt zunächst herb-sauer, dann süß, mit einem erstaunlich komplexen Geschmacksprofil. Im Ayurveda sagt man, Amla enthalte fünf der sechs Geschmäcker, nur salzig fehlt. Diese Geschmacksvielfalt zeigt ihre umfassende Heilkraft an.`,
+    geschichte: `Amla wird in den ältesten ayurvedischen Texten als "Dhatri" erwähnt, "die Nährende", "die Mutter". Der Legende nach entstand Amla aus den Freudentränen Brahmas. In der Charaka Samhita wird sie als das beste unter den Verjüngungsmitteln gepriesen.
 
-Chyawanprash -- ein Amla-Mus mit Gewürzen und Honig -- wird seit über 2000 Jahren in Indien hergestellt. Der Legende nach wurde es von den göttlichen Ärzten Ashvins erschaffen, um den alten Weisen Chyawan zu verjüngen.`,
+Chyawanprash, ein Amla-Mus mit Gewürzen und Honig, wird seit über 2000 Jahren in Indien hergestellt. Der Legende nach wurde es von den göttlichen Ärzten Ashvins erschaffen, um den alten Weisen Chyawan zu verjüngen.`,
     wirkungen: {
       hauptwirkungen: ['Hochpotentes Vitamin-C-Lieferant', 'Antioxidativ', 'Verjüngend (Rasayana)', 'Verdauungsfördernd', 'Haarpflegend', 'Leberschützend', 'Blutzuckerregulierend', 'Immunstärkend'],
       inhaltsstoffe: ['Vitamin C (bis zu 900mg/100g)', 'Gallussäure', 'Ellagsäure', 'Tannine', 'Flavonoide', 'Pektine', 'Aminosäuren', 'Eisen', 'Kalzium', 'Phosphor'],
     },
     ernte: {
       zeit: 'Die Früchte werden in Indien von Oktober bis Februar geerntet. In Europa als Pulver, Saft oder in Triphala erhältlich.',
-      teile: 'Früchte -- frisch, getrocknet oder als Pulver.',
+      teile: 'Früchte, frisch, getrocknet oder als Pulver.',
       tipps: 'Amla-Pulver in Bio-Qualität ist die einfachste Art, regelmäßig davon zu profitieren. In Kombination mit Triphala noch vielseitiger.',
       mond: 'Einnahme bei zunehmendem Mond für die aufbauende, nährende Wirkung.',
     },
     zubereitungen: [
       {
         name: 'Amla-Pulver täglich',
-        anleitung: '1/2-1 TL Amla-Pulver in Wasser, Saft oder Smoothie einrühren. Der Geschmack ist sauer-herb -- mit Honig angenehmer. Morgens auf nüchternen Magen oder zu den Mahlzeiten.',
+        anleitung: '1/2-1 TL Amla-Pulver in Wasser, Saft oder Smoothie einrühren. Der Geschmack ist sauer-herb, mit Honig angenehmer. Morgens auf nüchternen Magen oder zu den Mahlzeiten.',
         wirkung: 'Tägliche Vitamin-C-Versorgung, Antioxidantien-Schutz, Verdauungsförderung.',
       },
       {
         name: 'Chyawanprash (klassisch)',
         anleitung: '1 TL morgens auf nüchternen Magen, pur oder in warmer Milch aufgelöst. Fertig kaufen (traditionelle Rezeptur mit 40+ Zutaten) oder selbst zubereiten.',
-        wirkung: 'Das ultimative ayurvedische Verjüngungsmittel -- stärkt Immunsystem, Verdauung und Vitalität.',
+        wirkung: 'Das ultimative ayurvedische Verjüngungsmittel, stärkt Immunsystem, Verdauung und Vitalität.',
       },
       {
         name: 'Amla-Haaröl',
@@ -577,7 +577,7 @@ Chyawanprash -- ein Amla-Mus mit Gewürzen und Honig -- wird seit über 2000 Jah
     mischungen: ['Triphala (mit Haritaki und Bibhitaki)', 'Immunstärkung (mit Tulsi und Ingwer)', 'Haarpflege (mit Brahmi und Bhringaraj)'],
     tcm: 'Amla nährt das Yin, klärt Hitze und stärkt die Nieren. Sie wird als kühlend und süß-sauer betrachtet.',
     ayurveda: 'Amla ist eines der drei großen Rasayanas neben Haritaki und Guduchi. Sie gleicht alle drei Doshas aus und nährt alle sieben Dhatus (Gewebe).',
-    volksmedizin: 'In indischen Dörfern ist Amla ein tägliches Nahrungsmittel -- eingelegt, im Chutney, gekocht oder roh. Kinder kauen getrocknete Amla-Stücke als gesunden Snack.',
+    volksmedizin: 'In indischen Dörfern ist Amla ein tägliches Nahrungsmittel, eingelegt, im Chutney, gekocht oder roh. Kinder kauen getrocknete Amla-Stücke als gesunden Snack.',
     besonders_bei: ['immunschwaeche', 'haarverlust', 'verdauung', 'alter', 'haut', 'leber', 'diabetes', 'erkaeltung'],
   },
 
@@ -591,7 +591,7 @@ Chyawanprash -- ein Amla-Mus mit Gewürzen und Honig -- wird seit über 2000 Jah
 
 Camu Camu ist weit mehr als nur Vitamin C. Die Frucht enthält ein komplexes Zusammenspiel von Polyphenolen, Flavonoiden und Carotinoiden, die gemeinsam antioxidativ und entzündungshemmend wirken. Studien zeigen, dass natürliches Vitamin C aus Camu Camu deutlich besser aufgenommen wird als synthetische Ascorbinsäure.
 
-Die Beeren wachsen an Sträuchern entlang der Ufer des Amazonas und seiner Nebenflüsse. In der Regenzeit stehen die Pflanzen bis zu fünf Monate im Wasser -- eine extreme Anpassungsleistung, die sich in der Nährstoffdichte der Früchte widerspiegelt.`,
+Die Beeren wachsen an Sträuchern entlang der Ufer des Amazonas und seiner Nebenflüsse. In der Regenzeit stehen die Pflanzen bis zu fünf Monate im Wasser, eine extreme Anpassungsleistung, die sich in der Nährstoffdichte der Früchte widerspiegelt.`,
     geschichte: `Die indigenen Völker des Amazonas ernten Camu Camu seit Generationen direkt von den Sträuchern am Flussufer. Sie essen die Beeren frisch oder pressen den Saft. In der traditionellen Medizin wird Camu Camu bei Fieber, Infektionen und als allgemeines Stärkungsmittel eingesetzt.
 
 In der westlichen Welt wurde Camu Camu erst in den 1990er Jahren bekannt, als japanische Forscher den unglaublichen Vitamin-C-Gehalt entdeckten. Seitdem hat sich ein Markt entwickelt, und Peru fördert aktiv den nachhaltigen Anbau.`,
@@ -601,14 +601,14 @@ In der westlichen Welt wurde Camu Camu erst in den 1990er Jahren bekannt, als ja
     },
     ernte: {
       zeit: 'In Peru von Dezember bis März. In Europa ausschließlich als Pulver, Kapseln oder gefriergetrocknete Beeren erhältlich.',
-      teile: 'Früchte -- frisch sind sie sehr sauer, deshalb meist als Pulver verarbeitet.',
+      teile: 'Früchte, frisch sind sie sehr sauer, deshalb meist als Pulver verarbeitet.',
       tipps: 'Gefriergetrocknetes Pulver bewahrt die Nährstoffe am besten. Nicht in heiße Getränke geben (Vitamin C ist hitzeempfindlich). Bio und Wildsammlung bevorzugen.',
       mond: 'Einnahme bei zunehmendem Mond für die aufbauende, immunstärkende Wirkung.',
     },
     zubereitungen: [
       {
         name: 'Camu-Camu-Smoothie',
-        anleitung: '1/2-1 TL Camu-Camu-Pulver in Smoothie, kalten Saft oder Müsli einrühren. Der Geschmack ist intensiv sauer-fruchtig -- gut mit Banane und Beeren kombinierbar.',
+        anleitung: '1/2-1 TL Camu-Camu-Pulver in Smoothie, kalten Saft oder Müsli einrühren. Der Geschmack ist intensiv sauer-fruchtig, gut mit Banane und Beeren kombinierbar.',
         wirkung: 'Tägliche Vitamin-C-Bombe, Immunschutz, Antioxidantien-Versorgung.',
       },
       {
@@ -635,12 +635,12 @@ In der westlichen Welt wurde Camu Camu erst in den 1990er Jahren bekannt, als ja
   'Berberitze': {
     vollname: 'Gewöhnliche Berberitze / Sauerdorn (Berberis vulgaris)',
     familie: 'Berberitzengewächse (Berberidaceae)',
-    beschreibung: `Die Berberitze ist ein dorniger Strauch, der in Europa heimisch ist und mit seinen leuchtend roten, länglichen Beeren im Herbst sofort auffällt. Ihr Geschmack ist intensiv sauer -- daher der Volksname "Sauerdorn". Doch hinter der Säure verbirgt sich ein mächtiger Heilstoff: Berberin.
+    beschreibung: `Die Berberitze ist ein dorniger Strauch, der in Europa heimisch ist und mit seinen leuchtend roten, länglichen Beeren im Herbst sofort auffällt. Ihr Geschmack ist intensiv sauer, daher der Volksname "Sauerdorn". Doch hinter der Säure verbirgt sich ein mächtiger Heilstoff: Berberin.
 
 Berberin ist eine der am besten erforschten Pflanzensubstanzen überhaupt. Es senkt den Blutzucker ähnlich effektiv wie das Diabetes-Medikament Metformin, reguliert die Blutfette, hemmt Entzündungen und wirkt antimikrobiell. In der TCM und im Ayurveda werden berberinhaltige Pflanzen seit Jahrtausenden bei Infektionen und Verdauungsbeschwerden eingesetzt.
 
-Die Berberitze selbst ist mehr als nur ein Berberin-Lieferant: Die Beeren sind reich an Vitamin C und ergeben ein wunderbares Gelee. Die Rinde und Wurzel enthalten die höchste Berberin-Konzentration und färben sich leuchtend gelb -- ein Zeichen der Wirkkraft.`,
-    geschichte: `Die Berberitze war im Mittelalter eine wichtige Heilpflanze. Hildegard von Bingen empfahl sie bei Verdauungsbeschwerden und Fieber. In Persien und im Iran werden die getrockneten Beeren (Zereshk) bis heute als Gewürz und Heilmittel verwendet -- sie sind fester Bestandteil der iranischen Küche.
+Die Berberitze selbst ist mehr als nur ein Berberin-Lieferant: Die Beeren sind reich an Vitamin C und ergeben ein wunderbares Gelee. Die Rinde und Wurzel enthalten die höchste Berberin-Konzentration und färben sich leuchtend gelb, ein Zeichen der Wirkkraft.`,
+    geschichte: `Die Berberitze war im Mittelalter eine wichtige Heilpflanze. Hildegard von Bingen empfahl sie bei Verdauungsbeschwerden und Fieber. In Persien und im Iran werden die getrockneten Beeren (Zereshk) bis heute als Gewürz und Heilmittel verwendet, sie sind fester Bestandteil der iranischen Küche.
 
 Im 18. Jahrhundert wurde die Berberitze in England großflächig gerodet, weil sie als Zwischenwirt für Getreide-Schwarzrost galt. Dadurch ging viel Wissen um ihre Heilkraft verloren. Die moderne Berberin-Forschung hat sie wieder ins Rampenlicht gerückt.`,
     wirkungen: {
@@ -649,7 +649,7 @@ Im 18. Jahrhundert wurde die Berberitze in England großflächig gerodet, weil s
     },
     ernte: {
       zeit: 'Beeren: September bis November, nach dem ersten Frost werden sie milder. Rinde und Wurzel: Herbst oder Frühjahr.',
-      teile: 'Beeren, Rinde und Wurzel -- jeder Teil hat seinen eigenen Schwerpunkt.',
+      teile: 'Beeren, Rinde und Wurzel, jeder Teil hat seinen eigenen Schwerpunkt.',
       tipps: 'Die Beeren sind essbar und vitaminreich. Für die medizinische Berberin-Wirkung die gelbe Wurzelrinde verwenden. Achtung: Nur reife Beeren essen, unreife können Übelkeit verursachen.',
       mond: 'Beeren bei zunehmendem Mond ernten, Wurzeln bei abnehmendem Mond.',
     },
@@ -683,12 +683,12 @@ Im 18. Jahrhundert wurde die Berberitze in England großflächig gerodet, weil s
   'Granatapfel': {
     vollname: 'Granatapfel (Punica granatum)',
     familie: 'Weiderichgewächse (Lythraceae)',
-    beschreibung: `Der Granatapfel ist eine der ältesten Kulturfrüchte der Menschheit -- Symbol für Fruchtbarkeit, Liebe und ewiges Leben. Wenn man ihn aufbricht, offenbart sich ein Juwel: Hunderte rubinroter Samenkerne, jeder umhüllt von saftigem, süß-herbem Fruchtfleisch.
+    beschreibung: `Der Granatapfel ist eine der ältesten Kulturfrüchte der Menschheit: Symbol für Fruchtbarkeit, Liebe und ewiges Leben. Wenn man ihn aufbricht, offenbart sich ein Juwel: Hunderte rubinroter Samenkerne, jeder umhüllt von saftigem, süß-herbem Fruchtfleisch.
 
-In der modernen Forschung erweist sich der Granatapfel als eines der potentesten Antioxidantien der Natur. Sein Geheimnis ist Punicalagin -- ein Polyphenol, das nur im Granatapfel vorkommt und dessen antioxidative Kraft die von Rotwein und Grüntee übertrifft. Im Darm wird Punicalagin zu Urolithin A umgewandelt -- einer Substanz, die die Mitochondrien (Zellkraftwerke) erneuert.
+In der modernen Forschung erweist sich der Granatapfel als eines der potentesten Antioxidantien der Natur. Sein Geheimnis ist Punicalagin, ein Polyphenol, das nur im Granatapfel vorkommt und dessen antioxidative Kraft die von Rotwein und Grüntee übertrifft. Im Darm wird Punicalagin zu Urolithin A umgewandelt, einer Substanz, die die Mitochondrien (Zellkraftwerke) erneuert.
 
 Granatapfelsaft senkt nachweislich den Blutdruck, verbessert die Durchblutung und schützt die Gefäße vor Arteriosklerose. Für die Prostata ist er besonders wertvoll: Studien zeigen, dass er das Wachstum von Prostatakrebszellen hemmen kann.`,
-    geschichte: `Der Granatapfel stammt vermutlich aus Persien und wird seit über 5000 Jahren kultiviert. In der griechischen Mythologie war er die Frucht der Persephone -- wer im Totenreich davon isst, bleibt für immer dort. Im Judentum symbolisiert er die 613 Gebote der Tora (man sagt, er enthalte genau so viele Kerne).
+    geschichte: `Der Granatapfel stammt vermutlich aus Persien und wird seit über 5000 Jahren kultiviert. In der griechischen Mythologie war er die Frucht der Persephone, wer im Totenreich davon isst, bleibt für immer dort. Im Judentum symbolisiert er die 613 Gebote der Tora (man sagt, er enthalte genau so viele Kerne).
 
 Im Islam gilt der Granatapfel als eine der Früchte des Paradieses. Im Ayurveda wird er als "Dadima" verehrt und ist Bestandteil vieler Formeln. Die Rinde wurde in der Volksmedizin als Wurmmittel verwendet.`,
     wirkungen: {
@@ -697,7 +697,7 @@ Im Islam gilt der Granatapfel als eine der Früchte des Paradieses. Im Ayurveda 
     },
     ernte: {
       zeit: 'September bis November. Reife Früchte klingen beim Klopfen hohl und haben eine ledrige, rissige Schale.',
-      teile: 'Samenkerne mit Fruchtfleisch, Saft, Schalenextrakt -- alles hat Heilwert.',
+      teile: 'Samenkerne mit Fruchtfleisch, Saft, Schalenextrakt, alles hat Heilwert.',
       tipps: 'Frischen Granatapfelsaft selbst pressen (die ganzen Kerne mitpressen, nicht nur das Fruchtfleisch). Bei fertigem Saft auf 100% Direktsaft ohne Zuckerzusatz achten.',
       mond: 'Frischen Saft bei zunehmendem Mond trinken für aufbauende Wirkung.',
     },
@@ -714,13 +714,13 @@ Im Islam gilt der Granatapfel als eine der Früchte des Paradieses. Im Ayurveda 
       },
       {
         name: 'Granatapfelschalenextrakt',
-        anleitung: 'Getrocknete Granatapfelschale zerkleinern und als Tee aufgießen (1 TL auf 250ml, 10 Minuten). Sehr herb -- mit Honig trinken. Oder als Kapseln (500mg) einnehmen.',
+        anleitung: 'Getrocknete Granatapfelschale zerkleinern und als Tee aufgießen (1 TL auf 250ml, 10 Minuten). Sehr herb, mit Honig trinken. Oder als Kapseln (500mg) einnehmen.',
         wirkung: 'Höchste Polyphenol-Konzentration, besonders bei Darmgesundheit und Entzündungen.',
       },
     ],
     mischungen: ['Herzschutz-Blend (mit Weißdorn und Olivenblatt)', 'Männergesundheit (mit Kürbiskern und Brennnessel)', 'Antioxidantien-Mix (mit Aronia und Acai)'],
     tcm: 'Granatapfel stärkt das Herz-Blut und das Nieren-Yin. Er nährt die Säfte und kühlt leichte Hitze.',
-    ayurveda: 'Dadima gleicht alle drei Doshas aus -- eine seltene Eigenschaft. Er stärkt Agni (Verdauungsfeuer), nährt Rasa Dhatu und stärkt das Herz.',
+    ayurveda: 'Dadima gleicht alle drei Doshas aus, eine seltene Eigenschaft. Er stärkt Agni (Verdauungsfeuer), nährt Rasa Dhatu und stärkt das Herz.',
     volksmedizin: 'Im Nahen Osten gilt der Granatapfel als Frucht des Paradieses. Persische Großmütter kochen Granatapfelsirup (Narsharab) als Allheilmittel. Bei Durchfall wurde die Schale gekaut.',
     besonders_bei: ['herz', 'bluthochdruck', 'prostata', 'entzuendung', 'alter', 'gefaesse', 'haut', 'darm'],
   },
@@ -731,12 +731,12 @@ Im Islam gilt der Granatapfel als eine der Früchte des Paradieses. Im Ayurveda 
   'Chlorella': {
     vollname: 'Chlorella (Chlorella vulgaris / Chlorella pyrenoidosa)',
     familie: 'Chlorellaceae (Süßwasseralge)',
-    beschreibung: `Chlorella ist eine einzellige Süßwasseralge -- so klein, dass man sie mit bloßem Auge nicht sehen kann. Doch was ihr an Größe fehlt, macht sie durch Nährstoffdichte mehr als wett: Chlorella enthält mehr Chlorophyll als jede andere Pflanze auf der Erde. Dieses "grüne Blut" hat eine Struktur, die dem menschlichen Hämoglobin verblüffend ähnelt.
+    beschreibung: `Chlorella ist eine einzellige Süßwasseralge, so klein, dass man sie mit bloßem Auge nicht sehen kann. Doch was ihr an Größe fehlt, macht sie durch Nährstoffdichte mehr als wett: Chlorella enthält mehr Chlorophyll als jede andere Pflanze auf der Erde. Dieses "grüne Blut" hat eine Struktur, die dem menschlichen Hämoglobin verblüffend ähnelt.
 
 Chlorella ist vor allem als Entgifterin bekannt. Ihre einzigartige Zellwand bindet Schwermetalle wie Quecksilber, Blei und Cadmium und transportiert sie aus dem Körper. Nach Zahnamalgam-Entfernungen, bei Quecksilberbelastung oder allgemeiner Umweltgiftbelastung ist Chlorella das Mittel der Wahl.
 
 Daneben ist Chlorella ein komplettes Nahrungsmittel: 50-60% hochwertiges Protein, alle essentiellen Aminosäuren, B-Vitamine (einschließlich B12), Eisen, Omega-3-Fettsäuren und der einzigartige Chlorella Growth Factor (CGF), der die Zellregeneration fördert.`,
-    geschichte: `Chlorella existiert seit über 2 Milliarden Jahren -- sie war einer der ersten Organismen mit einem echten Zellkern. In den 1940er Jahren erkannte man ihr Potenzial als Nahrungsquelle für die wachsende Weltbevölkerung.
+    geschichte: `Chlorella existiert seit über 2 Milliarden Jahren, sie war einer der ersten Organismen mit einem echten Zellkern. In den 1940er Jahren erkannte man ihr Potenzial als Nahrungsquelle für die wachsende Weltbevölkerung.
 
 In Japan ist Chlorella seit den 1960er Jahren eines der meistverkauften Nahrungsergänzungsmittel überhaupt. Nach Hiroshima und Nagasaki begann man, die entgiftenden Eigenschaften systematisch zu erforschen. Über 10 Millionen Japaner nehmen Chlorella regelmäßig ein.`,
     wirkungen: {
@@ -744,9 +744,9 @@ In Japan ist Chlorella seit den 1960er Jahren eines der meistverkauften Nahrungs
       inhaltsstoffe: ['Chlorophyll', 'Chlorella Growth Factor (CGF)', 'Protein (50-60%)', 'Vitamin B12', 'Eisen', 'Omega-3', 'Beta-Glucane', 'Lutein', 'Nukleinsäuren (RNA/DNA)', 'Sporopollein'],
     },
     ernte: {
-      zeit: 'Chlorella wird in kontrollierten Anlagen kultiviert -- in Glasröhren oder offenen Becken. Ganzjährig verfügbar.',
-      teile: 'Die gesamte Alge -- getrocknet als Tabletten, Pulver oder Presslinge.',
-      tipps: 'Auf "gebrochene Zellwand" achten -- nur so können die Nährstoffe aufgenommen werden. Bio-Qualität und Reinheitszertifikate (Schwermetall-Tests) sind wichtig. Langsam einschleichen.',
+      zeit: 'Chlorella wird in kontrollierten Anlagen kultiviert, in Glasröhren oder offenen Becken. Ganzjährig verfügbar.',
+      teile: 'Die gesamte Alge, getrocknet als Tabletten, Pulver oder Presslinge.',
+      tipps: 'Auf "gebrochene Zellwand" achten, nur so können die Nährstoffe aufgenommen werden. Bio-Qualität und Reinheitszertifikate (Schwermetall-Tests) sind wichtig. Langsam einschleichen.',
       mond: 'Entgiftungskuren bei abnehmendem Mond beginnen.',
     },
     zubereitungen: [
@@ -769,7 +769,7 @@ In Japan ist Chlorella seit den 1960er Jahren eines der meistverkauften Nahrungs
     mischungen: ['Entgiftungs-Protokoll (mit Bärlauch und Koriander)', 'Grüner Powerblend (mit Spirulina und Weizengras)', 'Basenkur (mit Gerstengras und Brennnessel)'],
     tcm: 'Chlorella nährt das Blut, stärkt die Leber und klärt Toxine. Sie gilt als kühlend und nährend.',
     ayurveda: 'Chlorella wird als reinigend und nährend zugleich betrachtet. Sie stärkt Rasa Dhatu (Plasma) und reinigt Ama (Stoffwechselschlacken).',
-    volksmedizin: 'In Japan gehört Chlorella zur täglichen Gesundheitspflege wie bei uns das Zähneputzen. Viele Japaner nehmen sie ihr ganzes Leben lang -- und Japan hat eine der höchsten Lebenserwartungen der Welt.',
+    volksmedizin: 'In Japan gehört Chlorella zur täglichen Gesundheitspflege wie bei uns das Zähneputzen. Viele Japaner nehmen sie ihr ganzes Leben lang, und Japan hat eine der höchsten Lebenserwartungen der Welt.',
     besonders_bei: ['entgiftung', 'schwermetalle', 'amalgam', 'eisenmangel', 'immunschwaeche', 'darm', 'haut', 'erschoepfung'],
   },
 
@@ -779,21 +779,21 @@ In Japan ist Chlorella seit den 1960er Jahren eines der meistverkauften Nahrungs
   'Spirulina': {
     vollname: 'Spirulina (Arthrospira platensis / Spirulina platensis)',
     familie: 'Cyanobakterie (Oscillatoriaceae)',
-    beschreibung: `Spirulina ist genau genommen keine Alge, sondern ein Cyanobakterium -- eines der ältesten Lebewesen der Erde, das seit 3,5 Milliarden Jahren existiert. Diese blaugrüne Mikroorganismen bilden spiralförmige Fäden (daher der Name) und gedeihen in alkalischen Seen tropischer Regionen.
+    beschreibung: `Spirulina ist genau genommen keine Alge, sondern ein Cyanobakterium, eines der ältesten Lebewesen der Erde, das seit 3,5 Milliarden Jahren existiert. Diese blaugrüne Mikroorganismen bilden spiralförmige Fäden (daher der Name) und gedeihen in alkalischen Seen tropischer Regionen.
 
-Spirulina ist das nährstoffreichste Lebensmittel, das die Natur hervorgebracht hat: 60-70% hochwertiges, leicht verdauliches Protein, alle essentiellen Aminosäuren, Gamma-Linolensäure (GLA), Beta-Carotin in riesigen Mengen, Eisen, B-Vitamine und das einzigartige Phycocyanin -- ein blauer Farbstoff mit starker antioxidativer und entzündungshemmender Wirkung.
+Spirulina ist das nährstoffreichste Lebensmittel, das die Natur hervorgebracht hat: 60-70% hochwertiges, leicht verdauliches Protein, alle essentiellen Aminosäuren, Gamma-Linolensäure (GLA), Beta-Carotin in riesigen Mengen, Eisen, B-Vitamine und das einzigartige Phycocyanin, ein blauer Farbstoff mit starker antioxidativer und entzündungshemmender Wirkung.
 
-Die Weltgesundheitsorganisation (WHO) und die UNO bezeichnen Spirulina als "Nahrung der Zukunft". In Mangelernährungsgebieten wird sie erfolgreich gegen Unterernährung eingesetzt -- besonders bei Kindern zeigen sich rasche Verbesserungen.`,
-    geschichte: `Die Azteken ernteten Spirulina aus dem Texcoco-See bei Tenochtitlan und formten grüne Fladen daraus -- "Tecuitlatl" genannt. Spanische Eroberer berichteten von diesen grünen Kuchen auf den Märkten.
+Die Weltgesundheitsorganisation (WHO) und die UNO bezeichnen Spirulina als "Nahrung der Zukunft". In Mangelernährungsgebieten wird sie erfolgreich gegen Unterernährung eingesetzt, besonders bei Kindern zeigen sich rasche Verbesserungen.`,
+    geschichte: `Die Azteken ernteten Spirulina aus dem Texcoco-See bei Tenochtitlan und formten grüne Fladen daraus, "Tecuitlatl" genannt. Spanische Eroberer berichteten von diesen grünen Kuchen auf den Märkten.
 
-In Afrika ernten die Kanembu-Frauen am Tschadsee bis heute Spirulina von Hand und trocknen sie zu Fladen ("Dihe"), die als Nahrung und Medizin dienen. Die moderne Spirulina-Produktion begann in den 1970er Jahren -- heute wird sie weltweit in kontrollierten Anlagen kultiviert.`,
+In Afrika ernten die Kanembu-Frauen am Tschadsee bis heute Spirulina von Hand und trocknen sie zu Fladen ("Dihe"), die als Nahrung und Medizin dienen. Die moderne Spirulina-Produktion begann in den 1970er Jahren, heute wird sie weltweit in kontrollierten Anlagen kultiviert.`,
     wirkungen: {
       hauptwirkungen: ['Extrem proteinreich', 'Antioxidativ (Phycocyanin)', 'Entzündungshemmend', 'Immunmodulierend', 'Allergie-lindernd', 'Entgiftend', 'Cholesterinsenkend', 'Nährstoffquelle'],
       inhaltsstoffe: ['Phycocyanin', 'Protein (60-70%)', 'Gamma-Linolensäure (GLA)', 'Beta-Carotin', 'Eisen', 'Vitamin K', 'B-Vitamine', 'Chlorophyll', 'Superoxiddismutase (SOD)', 'Polysaccharide'],
     },
     ernte: {
       zeit: 'Wird in Aquakulturen ganzjährig produziert. Als Pulver, Tabletten oder Presslinge erhältlich.',
-      teile: 'Der gesamte Organismus -- getrocknet und gemahlen.',
+      teile: 'Der gesamte Organismus, getrocknet und gemahlen.',
       tipps: 'Auf Bio-Zertifizierung und Reinheitsprüfungen achten (Schwermetall- und Mikrocystin-Tests). Hawaii-Spirulina (Spirulina pacifica) gilt als besonders rein. Langsam einschleichen.',
       mond: 'Bei zunehmendem Mond beginnen für aufbauende Wirkung.',
     },
@@ -827,22 +827,22 @@ In Afrika ernten die Kanembu-Frauen am Tschadsee bis heute Spirulina von Hand un
   'Moringa': {
     vollname: 'Meerrettichbaum / Moringa (Moringa oleifera)',
     familie: 'Bennussgewächse (Moringaceae)',
-    beschreibung: `Moringa wird zu Recht "Wunderbaum" genannt -- kein anderer Baum vereint so viele nützliche Eigenschaften. Seine Blätter enthalten 7x mehr Vitamin C als Orangen, 4x mehr Kalzium als Milch, 4x mehr Vitamin A als Karotten und 3x mehr Kalium als Bananen. Dazu 25% Protein mit allen essentiellen Aminosäuren.
+    beschreibung: `Moringa wird zu Recht "Wunderbaum" genannt, kein anderer Baum vereint so viele nützliche Eigenschaften. Seine Blätter enthalten 7x mehr Vitamin C als Orangen, 4x mehr Kalzium als Milch, 4x mehr Vitamin A als Karotten und 3x mehr Kalium als Bananen. Dazu 25% Protein mit allen essentiellen Aminosäuren.
 
-In den Tropen ist Moringa ein Überlebensbaum: Seine Blätter nähren, seine Samen reinigen Wasser (ein Samen klärt einen Liter trübes Wasser), sein Öl pflegt die Haut, seine Rinde heilt Wunden. Er wächst unglaublich schnell -- bis zu 3 Meter im ersten Jahr -- und gedeiht auch auf ärmsten Böden.
+In den Tropen ist Moringa ein Überlebensbaum: Seine Blätter nähren, seine Samen reinigen Wasser (ein Samen klärt einen Liter trübes Wasser), sein Öl pflegt die Haut, seine Rinde heilt Wunden. Er wächst unglaublich schnell, bis zu 3 Meter im ersten Jahr, und gedeiht auch auf ärmsten Böden.
 
-Besonders bemerkenswert sind die Isothiocyanate in Moringa -- schwefelhaltige Verbindungen, die stark entzündungshemmend und antikarzinogen wirken. In der modernen Forschung werden sie intensiv bei chronischen Entzündungskrankheiten untersucht.`,
+Besonders bemerkenswert sind die Isothiocyanate in Moringa, schwefelhaltige Verbindungen, die stark entzündungshemmend und antikarzinogen wirken. In der modernen Forschung werden sie intensiv bei chronischen Entzündungskrankheiten untersucht.`,
     geschichte: `Moringa stammt aus dem Himalaya-Vorland und wird in Indien seit über 4000 Jahren als Nahrungs- und Heilpflanze kultiviert. Im Ayurveda heißt es, Moringa könne über 300 Krankheiten heilen.
 
-Die alten Ägypter nutzten Moringa-Öl (Ben-Öl) als Salbengrundlage und für Parfüm. Die Römer verwendeten es in der Küche. In der Kolonialzeit geriet Moringa fast in Vergessenheit -- erst seit den 1990er Jahren erlebt der Baum eine Renaissance als "Superfood" und Entwicklungshilfe-Pflanze.`,
+Die alten Ägypter nutzten Moringa-Öl (Ben-Öl) als Salbengrundlage und für Parfüm. Die Römer verwendeten es in der Küche. In der Kolonialzeit geriet Moringa fast in Vergessenheit, erst seit den 1990er Jahren erlebt der Baum eine Renaissance als "Superfood" und Entwicklungshilfe-Pflanze.`,
     wirkungen: {
       hauptwirkungen: ['Extrem nährstoffreich', 'Entzündungshemmend', 'Blutzuckerregulierend', 'Antioxidativ', 'Cholesterinsenkend', 'Wasserreinigend (Samen)', 'Immunstärkend', 'Laktationsfördernd'],
       inhaltsstoffe: ['Isothiocyanate', 'Quercetin', 'Chlorogensäure', 'Beta-Carotin', 'Vitamin C', 'Kalzium', 'Eisen', 'Protein (25%)', 'Aminosäuren', 'Zeatin', 'Omega-3 und -9'],
     },
     ernte: {
       zeit: 'In tropischen Regionen ganzjährig. In Europa als Blattpulver, Kapseln oder Tee erhältlich.',
-      teile: 'Blätter (Hauptdroge), Samen, Blüten, Schoten, Rinde, Wurzeln -- alles ist nutzbar.',
-      tipps: 'Blattpulver in Bio-Qualität ist die praktischste Form. Auf intensive grüne Farbe achten -- bräunliches Pulver ist minderwertig.',
+      teile: 'Blätter (Hauptdroge), Samen, Blüten, Schoten, Rinde, Wurzeln, alles ist nutzbar.',
+      tipps: 'Blattpulver in Bio-Qualität ist die praktischste Form. Auf intensive grüne Farbe achten, bräunliches Pulver ist minderwertig.',
       mond: 'Bei zunehmendem Mond einnehmen für die aufbauende, nährende Wirkung.',
     },
     zubereitungen: [
@@ -875,11 +875,11 @@ Die alten Ägypter nutzten Moringa-Öl (Ben-Öl) als Salbengrundlage und für Pa
   'Acai': {
     vollname: 'Acai-Beere (Euterpe oleracea)',
     familie: 'Palmengewächse (Arecaceae)',
-    beschreibung: `Die Acai-Beere wächst an schlanken Palmen im Amazonas-Regenwald und ist dort seit Jahrtausenden das Grundnahrungsmittel der Flussbewohner. Die kleinen, dunkelvioletten Beeren enthalten nur 10% essbares Fruchtfleisch -- der Rest ist Kern. Doch dieses Fruchtfleisch hat es in sich.
+    beschreibung: `Die Acai-Beere wächst an schlanken Palmen im Amazonas-Regenwald und ist dort seit Jahrtausenden das Grundnahrungsmittel der Flussbewohner. Die kleinen, dunkelvioletten Beeren enthalten nur 10% essbares Fruchtfleisch, der Rest ist Kern. Doch dieses Fruchtfleisch hat es in sich.
 
-Acai gehört zu den antioxidantenreichsten Früchten der Welt. Die dunkle Farbe kommt von den Anthocyanen -- denselben Pflanzenfarbstoffen, die auch Blaubeeren und Rotwein ihre Farbe und Heilkraft geben. Nur hat Acai davon ein Vielfaches. Dazu kommen Omega-6- und Omega-9-Fettsäuren, die Acai ungewöhnlich sättigend machen.
+Acai gehört zu den antioxidantenreichsten Früchten der Welt. Die dunkle Farbe kommt von den Anthocyanen, denselben Pflanzenfarbstoffen, die auch Blaubeeren und Rotwein ihre Farbe und Heilkraft geben. Nur hat Acai davon ein Vielfaches. Dazu kommen Omega-6- und Omega-9-Fettsäuren, die Acai ungewöhnlich sättigend machen.
 
-Im Amazonas ist Acai kein Luxus-Superfood, sondern tägliche Nahrung. Die Caboclos (Flussbewohner) trinken Acai-Püree zu jeder Mahlzeit -- es gibt ihnen Energie für die harte körperliche Arbeit im Dschungel. Fischer nehmen gefrorenes Acai-Püree auf ihre Fahrten mit.`,
+Im Amazonas ist Acai kein Luxus-Superfood, sondern tägliche Nahrung. Die Caboclos (Flussbewohner) trinken Acai-Püree zu jeder Mahlzeit, es gibt ihnen Energie für die harte körperliche Arbeit im Dschungel. Fischer nehmen gefrorenes Acai-Püree auf ihre Fahrten mit.`,
     geschichte: `Die Legende der Tupi-Indianer erzählt von Iaca, einem Mädchen, das in Zeiten der Hungersnot starb. Aus ihren Tränen wuchs die erste Acai-Palme, die fortan das Volk ernährte. Der Name "Acai" leitet sich von ihrem Namen ab.
 
 In Brasilien ist Acai seit den 1990er Jahren ein Mega-Trend. Die Acai-Bowl wurde zum Nationalgericht der Surfer und Sportler. International bekannt wurde die Beere durch Oprah Winfrey und Dr. Oz, die sie als "Superfrucht Nr. 1" priesen.`,
@@ -889,7 +889,7 @@ In Brasilien ist Acai seit den 1990er Jahren ein Mega-Trend. Die Acai-Bowl wurde
     },
     ernte: {
       zeit: 'Im Amazonas zweimal jährlich. Die Beeren müssen innerhalb von 24 Stunden nach der Ernte verarbeitet werden, da sie schnell oxidieren.',
-      teile: 'Fruchtfleisch -- frisch, als gefrorenes Püree oder gefriergetrocknetes Pulver.',
+      teile: 'Fruchtfleisch, frisch, als gefrorenes Püree oder gefriergetrocknetes Pulver.',
       tipps: 'Gefriergetrocknetes Pulver bewahrt die Nährstoffe am besten. Auf Bio-Zertifizierung und dunkle, violette Farbe achten. Gefrorenes Püree ist dem Pulver geschmacklich überlegen.',
       mond: 'Bei zunehmendem Mond einnehmen für die aufbauende, nährende Wirkung.',
     },
@@ -897,7 +897,7 @@ In Brasilien ist Acai seit den 1990er Jahren ein Mega-Trend. Die Acai-Bowl wurde
       {
         name: 'Acai-Bowl (brasilianisch)',
         anleitung: '100g gefrorenes Acai-Püree mit einer Banane und wenig Saft im Mixer cremig pürieren. In eine Schale füllen und mit Granola, frischem Obst, Kokosflocken und Honig toppen.',
-        wirkung: 'Energiereiche Mahlzeit voller Antioxidantien -- das brasilianische Powerfrühstück.',
+        wirkung: 'Energiereiche Mahlzeit voller Antioxidantien, das brasilianische Powerfrühstück.',
       },
       {
         name: 'Acai-Smoothie',
@@ -923,12 +923,12 @@ In Brasilien ist Acai seit den 1990er Jahren ein Mega-Trend. Die Acai-Bowl wurde
   'Baobab': {
     vollname: 'Afrikanischer Affenbrotbaum / Baobab (Adansonia digitata)',
     familie: 'Malvengewächse (Malvaceae)',
-    beschreibung: `Der Baobab ist der Lebensbaum Afrikas -- ein uralter, knorriger Riese, der bis zu 3000 Jahre alt werden kann und dessen Stamm einen Umfang von über 30 Metern erreicht. In seinem Inneren kann er Tausende Liter Wasser speichern -- eine lebende Zisterne in der Savanne.
+    beschreibung: `Der Baobab ist der Lebensbaum Afrikas, ein uralter, knorriger Riese, der bis zu 3000 Jahre alt werden kann und dessen Stamm einen Umfang von über 30 Metern erreicht. In seinem Inneren kann er Tausende Liter Wasser speichern, eine lebende Zisterne in der Savanne.
 
 Das Fruchtfleisch des Baobab trocknet bereits am Baum auf natürliche Weise und fällt als fertiges Pulver aus der Frucht. Es enthält 6x mehr Vitamin C als Orangen, 2x mehr Kalzium als Milch und hat einen der höchsten Antioxidantien-Werte aller Früchte. Dazu kommen reichlich Ballaststoffe (50%), die als Präbiotikum die Darmflora nähren.
 
-Der Geschmack ist angenehm fruchtig-säuerlich, erinnert an eine Mischung aus Grapefruit, Birne und Vanille. In Afrika ist Baobab ein Alltagsnahrungsmittel -- die Kinder klettern auf die Bäume und naschen das Fruchtpulver direkt.`,
-    geschichte: `In der afrikanischen Mythologie ist der Baobab ein heiliger Baum. Die Legende sagt, Gott habe ihn verkehrt herum gepflanzt -- mit den Wurzeln in der Luft -- als Strafe für seine Eitelkeit. Unter Baobab-Bäumen werden Versammlungen abgehalten, Stammesgeschichten erzählt und Streitigkeiten geschlichtet.
+Der Geschmack ist angenehm fruchtig-säuerlich, erinnert an eine Mischung aus Grapefruit, Birne und Vanille. In Afrika ist Baobab ein Alltagsnahrungsmittel, die Kinder klettern auf die Bäume und naschen das Fruchtpulver direkt.`,
+    geschichte: `In der afrikanischen Mythologie ist der Baobab ein heiliger Baum. Die Legende sagt, Gott habe ihn verkehrt herum gepflanzt, mit den Wurzeln in der Luft, als Strafe für seine Eitelkeit. Unter Baobab-Bäumen werden Versammlungen abgehalten, Stammesgeschichten erzählt und Streitigkeiten geschlichtet.
 
 In der traditionellen afrikanischen Medizin werden alle Teile des Baumes verwendet: Die Frucht bei Fieber und Durchfall, die Rinde bei Malaria, die Blätter als Gemüse und Wundauflage. Der Baobab wurde 2008 von der EU als "Novel Food" zugelassen.`,
     wirkungen: {
@@ -937,7 +937,7 @@ In der traditionellen afrikanischen Medizin werden alle Teile des Baumes verwend
     },
     ernte: {
       zeit: 'Die Früchte reifen in der Trockenzeit (Januar-April in Westafrika). In Europa als fertiges Fruchtpulver erhältlich.',
-      teile: 'Fruchtpulver (Hauptprodukt), Blätter, Samen (Öl) -- alles ist nutzbar.',
+      teile: 'Fruchtpulver (Hauptprodukt), Blätter, Samen (Öl), alles ist nutzbar.',
       tipps: 'Das Pulver ist bereits naturgetrocknet und kann direkt verwendet werden. Auf Bio-Qualität und Fair-Trade achten. Löst sich gut in Flüssigkeiten.',
       mond: 'Bei zunehmendem Mond einnehmen für aufbauende Wirkung.',
     },
@@ -971,12 +971,12 @@ In der traditionellen afrikanischen Medizin werden alle Teile des Baumes verwend
   'Schwarznessel': {
     vollname: 'Schwarznessel / Ballota (Ballota nigra)',
     familie: 'Lippenblütler (Lamiaceae)',
-    beschreibung: `Die Schwarznessel ist eine vergessene Heilpflanze, die es verdient, wiederentdeckt zu werden. Sie wächst unauffällig an Wegrändern, Zäunen und Schuttplätzen -- überall dort, wo Menschen leben. Ihr Geruch ist streng und unangenehm, was ihr den Beinamen "Stinknessel" eingebracht hat. Doch genau diese ätherischen Öle tragen die Heilkraft.
+    beschreibung: `Die Schwarznessel ist eine vergessene Heilpflanze, die es verdient, wiederentdeckt zu werden. Sie wächst unauffällig an Wegrändern, Zäunen und Schuttplätzen, überall dort, wo Menschen leben. Ihr Geruch ist streng und unangenehm, was ihr den Beinamen "Stinknessel" eingebracht hat. Doch genau diese ätherischen Öle tragen die Heilkraft.
 
 Die Schwarznessel ist eine der stärksten pflanzlichen Mittel gegen Übelkeit und Erbrechen. Wo Ingwer nicht hilft, greift die Schwarznessel noch. Sie beruhigt den nervösen Magen, löst Brechreiz und entspannt die krampfende Magenmuskulatur. Besonders bei Reisekrankheit, Schwangerschaftsübelkeit und nervösem Magen ist sie Gold wert.
 
-Darüber hinaus wirkt die Schwarznessel beruhigend auf das Nervensystem -- sie löst innere Anspannung, mildert Angst und hilft bei Einschlafproblemen. Eine Pflanze, die gleichzeitig den Magen und die Nerven beruhigt -- eine seltene Kombination.`,
-    geschichte: `Dioskurides beschrieb die Schwarznessel bereits im 1. Jahrhundert als Mittel gegen Hunde- und Schlangenbisse. Im Mittelalter wurde sie als "Gottvergessenheit" bezeichnet -- weil sie so unansehnlich und übelriechend ist, dass man sie fast für einen Fehler der Schöpfung hielt.
+Darüber hinaus wirkt die Schwarznessel beruhigend auf das Nervensystem, sie löst innere Anspannung, mildert Angst und hilft bei Einschlafproblemen. Eine Pflanze, die gleichzeitig den Magen und die Nerven beruhigt, eine seltene Kombination.`,
+    geschichte: `Dioskurides beschrieb die Schwarznessel bereits im 1. Jahrhundert als Mittel gegen Hunde- und Schlangenbisse. Im Mittelalter wurde sie als "Gottvergessenheit" bezeichnet, weil sie so unansehnlich und übelriechend ist, dass man sie fast für einen Fehler der Schöpfung hielt.
 
 Hildegard von Bingen und Paracelsus setzten sie bei Verdauungsbeschwerden und Nervenleiden ein. In der modernen Phytotherapie wird sie vor allem in Frankreich geschätzt, wo sie als "Marrube noir" in vielen Verdauungspräparaten enthalten ist.`,
     wirkungen: {
@@ -985,8 +985,8 @@ Hildegard von Bingen und Paracelsus setzten sie bei Verdauungsbeschwerden und Ne
     },
     ernte: {
       zeit: 'Mai bis September, vor oder während der Blüte. Das blühende Kraut hat die höchste Wirkstoffdichte.',
-      teile: 'Blühendes Kraut (oberirdische Teile) -- Blätter und Blüten.',
-      tipps: 'Trotz des unangenehmen Geruchs ernten -- als Tee ist der Geschmack milder als erwartet. Zum Trocknen Bündel kopfüber an einem luftigen Ort aufhängen.',
+      teile: 'Blühendes Kraut (oberirdische Teile): Blätter und Blüten.',
+      tipps: 'Trotz des unangenehmen Geruchs ernten, als Tee ist der Geschmack milder als erwartet. Zum Trocknen Bündel kopfüber an einem luftigen Ort aufhängen.',
       mond: 'Bei abnehmendem Mond ernten für die beruhigende, krampflösende Wirkung.',
     },
     zubereitungen: [
@@ -1009,7 +1009,7 @@ Hildegard von Bingen und Paracelsus setzten sie bei Verdauungsbeschwerden und Ne
     mischungen: ['Magen-Nerven-Tee (mit Kamille und Melisse)', 'Reisemischung (mit Ingwer und Pfefferminze)', 'Schlaftee (mit Baldrian und Hopfen)'],
     tcm: 'Schwarznessel bewegt stagnierendes Magen-Qi nach unten (antiemetisch), beruhigt den Shen und löst Leber-Qi-Stagnation.',
     ayurveda: 'Schwarznessel beruhigt Vata im Magen-Darm-Trakt und im Nervensystem. Ihr bitterer Geschmack stärkt Agni und klärt übermäßiges Pitta.',
-    volksmedizin: 'In ländlichen Gegenden Europas war die Schwarznessel das Hausmittel Nr. 1 gegen Reisekrankheit und Schwangerschaftsübelkeit -- bevor sie in Vergessenheit geriet.',
+    volksmedizin: 'In ländlichen Gegenden Europas war die Schwarznessel das Hausmittel Nr. 1 gegen Reisekrankheit und Schwangerschaftsübelkeit, bevor sie in Vergessenheit geriet.',
     besonders_bei: ['uebelkeit', 'erbrechen', 'nervositaet', 'schlafprobleme', 'angst', 'magen', 'reisekrankheit', 'schwangerschaft'],
   },
 
@@ -1019,21 +1019,21 @@ Hildegard von Bingen und Paracelsus setzten sie bei Verdauungsbeschwerden und Ne
   'Taigawurzel': {
     vollname: 'Sibirischer Ginseng / Taigawurzel / Eleutherococcus (Eleutherococcus senticosus)',
     familie: 'Araliengewächse (Araliaceae)',
-    beschreibung: `Die Taigawurzel ist die Pflanze der sibirischen Weite -- sie wächst in den endlosen Wäldern der Taiga, wo die Winter eisig kalt und die Sommer kurz sind. Unter diesen extremen Bedingungen bildet sie eine Wurzel voller adaptogener Wirkstoffe, die den Menschen ebenso widerstandsfähig machen wie die Pflanze selbst.
+    beschreibung: `Die Taigawurzel ist die Pflanze der sibirischen Weite, sie wächst in den endlosen Wäldern der Taiga, wo die Winter eisig kalt und die Sommer kurz sind. Unter diesen extremen Bedingungen bildet sie eine Wurzel voller adaptogener Wirkstoffe, die den Menschen ebenso widerstandsfähig machen wie die Pflanze selbst.
 
-Der russische Wissenschaftler Nikolai Lazarev prägte in den 1940er Jahren den Begriff "Adaptogen" -- und er tat dies unter anderem anhand der Taigawurzel. Sie war die Pflanze, an der das Konzept entwickelt wurde: Ein Mittel, das die Stressresistenz erhöht, ohne spezifisch anregend oder beruhigend zu wirken. Sie bringt einfach ins Gleichgewicht, was aus dem Gleichgewicht geraten ist.
+Der russische Wissenschaftler Nikolai Lazarev prägte in den 1940er Jahren den Begriff "Adaptogen", und er tat dies unter anderem anhand der Taigawurzel. Sie war die Pflanze, an der das Konzept entwickelt wurde: Ein Mittel, das die Stressresistenz erhöht, ohne spezifisch anregend oder beruhigend zu wirken. Sie bringt einfach ins Gleichgewicht, was aus dem Gleichgewicht geraten ist.
 
 In der Sowjetunion wurde die Taigawurzel systematisch erforscht und eingesetzt: Kosmonauten, Olympia-Athleten, U-Boot-Besatzungen und Fabrikarbeiter erhielten sie, um Leistung, Ausdauer und Erholung zu optimieren. Über 1000 Studien belegen ihre Wirksamkeit.`,
-    geschichte: `Die Nanai und Udege -- indigene Völker Sibiriens -- nutzen die Taigawurzel seit Jahrhunderten als Stärkungsmittel für Jäger und Reisende. Sie kauten die Wurzel auf langen Wanderungen durch die Taiga.
+    geschichte: `Die Nanai und Udege, indigene Völker Sibiriens, nutzen die Taigawurzel seit Jahrhunderten als Stärkungsmittel für Jäger und Reisende. Sie kauten die Wurzel auf langen Wanderungen durch die Taiga.
 
-Der russische Forscher Israel Brekhman erforschte die Taigawurzel ab den 1960er Jahren intensiv und machte sie weltweit bekannt. Da sie nicht zur Gattung Panax gehört, darf sie nicht als "Ginseng" verkauft werden -- der Name "Sibirischer Ginseng" ist in der EU verboten, weshalb sie heute als "Taigawurzel" oder "Eleutherococcus" vermarktet wird.`,
+Der russische Forscher Israel Brekhman erforschte die Taigawurzel ab den 1960er Jahren intensiv und machte sie weltweit bekannt. Da sie nicht zur Gattung Panax gehört, darf sie nicht als "Ginseng" verkauft werden, der Name "Sibirischer Ginseng" ist in der EU verboten, weshalb sie heute als "Taigawurzel" oder "Eleutherococcus" vermarktet wird.`,
     wirkungen: {
       hauptwirkungen: ['Adaptogen', 'Leistungssteigernd', 'Immunstärkend', 'Stressresistenz erhöhend', 'Ausdauerfördernd', 'Konzentrationssteigernd', 'Blutzuckerregulierend', 'Erholungsfördernd'],
       inhaltsstoffe: ['Eleutherosid B und E', 'Syringin', 'Chlorogensäure', 'Isofraxidin', 'Polysaccharide', 'Beta-Carotin', 'Vitamin C und E', 'Cumarine', 'Sterole'],
     },
     ernte: {
       zeit: 'Die Wurzel wird im Herbst gegraben, wenn die oberirdischen Teile absterben. In Europa als Extrakt, Tinktur oder Pulver erhältlich.',
-      teile: 'Wurzel und Wurzelrinde -- hier sitzen die Eleutherosid-Wirkstoffe.',
+      teile: 'Wurzel und Wurzelrinde, hier sitzen die Eleutherosid-Wirkstoffe.',
       tipps: 'Auf standardisierten Extrakt (mind. 0,8% Eleutheroside) achten. Flüssigextrakte und Tinkturen wirken schneller als Kapseln.',
       mond: 'Bei zunehmendem Mond beginnen für die aufbauende, stärkende Wirkung.',
     },
@@ -1067,21 +1067,21 @@ Der russische Forscher Israel Brekhman erforschte die Taigawurzel ab den 1960er 
   'Schisandra': {
     vollname: 'Chinesisches Spaltkörbchen / Wu Wei Zi (Schisandra chinensis)',
     familie: 'Sternanisgewächse (Schisandraceae)',
-    beschreibung: `Schisandra ist die "Fünf-Geschmäcker-Frucht" -- auf Chinesisch "Wu Wei Zi". Und tatsächlich: Wenn man eine Schisandra-Beere kaut, schmeckt man süß, sauer, salzig, bitter und scharf gleichzeitig. In der TCM gilt das als Zeichen dafür, dass die Pflanze auf alle fünf Organsysteme wirkt.
+    beschreibung: `Schisandra ist die "Fünf-Geschmäcker-Frucht", auf Chinesisch "Wu Wei Zi". Und tatsächlich: Wenn man eine Schisandra-Beere kaut, schmeckt man süß, sauer, salzig, bitter und scharf gleichzeitig. In der TCM gilt das als Zeichen dafür, dass die Pflanze auf alle fünf Organsysteme wirkt.
 
 Schisandra ist ein Adaptogen der besonderen Art: Sie schärft den Geist, schützt die Leber und steigert gleichzeitig die körperliche Ausdauer. Russische Jäger und Piloten nutzten sie, um in Stresssituationen wach und konzentriert zu bleiben. Die enthaltenen Lignane (Schisandrine) verbessern die Leistung, ohne aufzuputschen.
 
-Besonders bemerkenswert ist die leberschützende Wirkung: Schisandra senkt erhöhte Leberwerte und fördert die Regeneration von Leberzellen. In China ist sie fester Bestandteil vieler Leberformeln. Auch die Haut profitiert -- in Korea wird Schisandra als Schönheitsbeere geschätzt.`,
-    geschichte: `Schisandra wird im Shennong Ben Cao Jing als "Oberes Kraut" klassifiziert -- eine Pflanze, die man täglich nehmen kann. Taoistische Mönche schätzten sie für die Meditation: Sie schärft die Sinne und beruhigt den Geist gleichzeitig. Es heißt, wer 100 Tage lang Schisandra nimmt, erlangt strahlende Haut und einen klaren Geist.
+Besonders bemerkenswert ist die leberschützende Wirkung: Schisandra senkt erhöhte Leberwerte und fördert die Regeneration von Leberzellen. In China ist sie fester Bestandteil vieler Leberformeln. Auch die Haut profitiert, in Korea wird Schisandra als Schönheitsbeere geschätzt.`,
+    geschichte: `Schisandra wird im Shennong Ben Cao Jing als "Oberes Kraut" klassifiziert, eine Pflanze, die man täglich nehmen kann. Taoistische Mönche schätzten sie für die Meditation: Sie schärft die Sinne und beruhigt den Geist gleichzeitig. Es heißt, wer 100 Tage lang Schisandra nimmt, erlangt strahlende Haut und einen klaren Geist.
 
-In der Sowjetunion wurde Schisandra ab den 1940er Jahren systematisch erforscht -- Scharfschützen, Piloten und Astronauten erhielten sie für bessere Nachtsicht und schnellere Reaktionszeit. Über 400 wissenschaftliche Studien belegen ihre vielfältigen Wirkungen.`,
+In der Sowjetunion wurde Schisandra ab den 1940er Jahren systematisch erforscht: Scharfschützen, Piloten und Astronauten erhielten sie für bessere Nachtsicht und schnellere Reaktionszeit. Über 400 wissenschaftliche Studien belegen ihre vielfältigen Wirkungen.`,
     wirkungen: {
       hauptwirkungen: ['Adaptogen', 'Leberschützend', 'Geistesschärfend', 'Ausdauersteigernd', 'Antioxidativ', 'Hautpflegend', 'Stressregulierend', 'Nierenstärkend'],
       inhaltsstoffe: ['Schisandrine A-C', 'Schisandrol A und B', 'Lignane', 'Ätherische Öle', 'Vitamin C', 'Vitamin E', 'Zitronensäure', 'Äpfelsäure', 'Triterpene', 'Phytosterole'],
     },
     ernte: {
       zeit: 'Die Beeren werden im Herbst (September-Oktober) geerntet, wenn sie leuchtend rot sind. In Europa als getrocknete Beeren, Pulver oder Extrakt erhältlich.',
-      teile: 'Beeren (Früchte) -- getrocknet oder als Extrakt.',
+      teile: 'Beeren (Früchte), getrocknet oder als Extrakt.',
       tipps: 'Getrocknete Beeren direkt kauen oder als Tee aufgießen. Beim Extrakt auf Schisandrin-Gehalt achten. Bio und wildgesammelt sind qualitativ am besten.',
       mond: 'Bei zunehmendem Mond einnehmen für die aufbauende, stärkende Wirkung.',
     },
@@ -1099,7 +1099,7 @@ In der Sowjetunion wurde Schisandra ab den 1940er Jahren systematisch erforscht 
       {
         name: 'Schisandra-Elixier (taoistisch)',
         anleitung: 'Getrocknete Beeren in Rotwein oder Reiswein einlegen (100g auf 500ml). 4 Wochen ziehen lassen. Abends ein kleines Glas (30ml) trinken.',
-        wirkung: 'Traditionelles Langlebigkeitstonikum -- stärkt Leber, Niere und die Essenz (Jing).',
+        wirkung: 'Traditionelles Langlebigkeitstonikum, stärkt Leber, Niere und die Essenz (Jing).',
       },
     ],
     mischungen: ['Lebertee (mit Mariendistel und Löwenzahn)', 'Adaptogen-Formel (mit Astragalus und Goji)', 'Schönheitsbeeren-Mix (mit Goji und Amla)'],
@@ -1115,12 +1115,12 @@ In der Sowjetunion wurde Schisandra ab den 1940er Jahren systematisch erforscht 
   'Aronia': {
     vollname: 'Apfelbeere / Aronia (Aronia melanocarpa)',
     familie: 'Rosengewächse (Rosaceae)',
-    beschreibung: `Die Aronia ist die "Gesundheitsbeere" Osteuropas -- eine kleine, dunkelviolette bis schwarze Frucht, die vor Anthocyanen und Antioxidantien nur so strotzt. Ihr ORAC-Wert (antioxidative Kapazität) übertrifft den von Blaubeeren, Cranberries und sogar Holunderbeeren deutlich.
+    beschreibung: `Die Aronia ist die "Gesundheitsbeere" Osteuropas, eine kleine, dunkelviolette bis schwarze Frucht, die vor Anthocyanen und Antioxidantien nur so strotzt. Ihr ORAC-Wert (antioxidative Kapazität) übertrifft den von Blaubeeren, Cranberries und sogar Holunderbeeren deutlich.
 
-Die Aronia stammt ursprünglich aus Nordamerika, wurde aber in Osteuropa -- besonders in Russland, Polen und dem Baltikum -- zur Kulturpflanze weiterentwickelt. Dort wird sie seit den 1950er Jahren großflächig angebaut und als Volksheilmittel geschätzt.
+Die Aronia stammt ursprünglich aus Nordamerika, wurde aber in Osteuropa, besonders in Russland, Polen und dem Baltikum, zur Kulturpflanze weiterentwickelt. Dort wird sie seit den 1950er Jahren großflächig angebaut und als Volksheilmittel geschätzt.
 
-Der Geschmack der frischen Beeren ist herb-adstringierend mit einer leichten Bitterkeit -- nicht jedermanns Sache. Doch als Saft, Marmelade oder getrocknet entfalten sie ein volles, beeriges Aroma. Aronia ist ein heimisches Superfood, das in seiner antioxidativen Kraft exotischen Beeren wie Acai und Goji in nichts nachsteht.`,
-    geschichte: `Die Algonkin-Indianer Nordamerikas nutzten Aronia als Nahrungsmittel und Heilpflanze. Sie mischten die getrockneten Beeren in Pemmikan -- ihre Reisenahrung -- und verwendeten den Saft bei Erkältungen.
+Der Geschmack der frischen Beeren ist herb-adstringierend mit einer leichten Bitterkeit, nicht jedermanns Sache. Doch als Saft, Marmelade oder getrocknet entfalten sie ein volles, beeriges Aroma. Aronia ist ein heimisches Superfood, das in seiner antioxidativen Kraft exotischen Beeren wie Acai und Goji in nichts nachsteht.`,
+    geschichte: `Die Algonkin-Indianer Nordamerikas nutzten Aronia als Nahrungsmittel und Heilpflanze. Sie mischten die getrockneten Beeren in Pemmikan, ihre Reisenahrung, und verwendeten den Saft bei Erkältungen.
 
 Der russische Biologe Iwan Mitschurin brachte die Aronia in den 1910er Jahren nach Russland und züchtete grossfruchtige Sorten. In der Sowjetunion wurde sie offizielles Heilmittel bei Bluthochdruck. In Polen, dem größten europäischen Anbaugebiet, trinkt man Aronia-Saft wie Orangensaft.`,
     wirkungen: {
@@ -1129,8 +1129,8 @@ Der russische Biologe Iwan Mitschurin brachte die Aronia in den 1910er Jahren na
     },
     ernte: {
       zeit: 'August bis September. Die Beeren sind reif, wenn sie tief schwarzviolett gefärbt sind und sich leicht vom Strauch lösen.',
-      teile: 'Beeren -- frisch, als Saft, getrocknet oder als Pulver.',
-      tipps: 'Aronia ist winterhart und pflegeleicht -- ein idealer Gartenstrauch für Selbstversorger. Die Beeren können eingefroren werden. Als Saft am besten mit milderem Saft (Apfel) mischen.',
+      teile: 'Beeren, frisch, als Saft, getrocknet oder als Pulver.',
+      tipps: 'Aronia ist winterhart und pflegeleicht, ein idealer Gartenstrauch für Selbstversorger. Die Beeren können eingefroren werden. Als Saft am besten mit milderem Saft (Apfel) mischen.',
       mond: 'Beeren bei zunehmendem Mond ernten für höchsten Wirkstoffgehalt.',
     },
     zubereitungen: [
@@ -1163,12 +1163,12 @@ Der russische Biologe Iwan Mitschurin brachte die Aronia in den 1910er Jahren na
   'Hafer': {
     vollname: 'Saathafer / Avena (Avena sativa)',
     familie: 'Süßgräser (Poaceae)',
-    beschreibung: `Hafer ist die unterschätzteste Heilpflanze Europas. Was die meisten als nüchternes Frühstücksgetreide kennen, ist in Wahrheit eines der nährstoffreichsten und heilkräftigsten Lebensmittel unserer Breiten. Und wenn wir vom Heilhafer sprechen, meinen wir nicht nur das Korn, sondern vor allem das grüne Haferkraut (Avena herba) -- die ganze Pflanze, geerntet kurz vor der Blüte.
+    beschreibung: `Hafer ist die unterschätzteste Heilpflanze Europas. Was die meisten als nüchternes Frühstücksgetreide kennen, ist in Wahrheit eines der nährstoffreichsten und heilkräftigsten Lebensmittel unserer Breiten. Und wenn wir vom Heilhafer sprechen, meinen wir nicht nur das Korn, sondern vor allem das grüne Haferkraut (Avena herba), die ganze Pflanze, geerntet kurz vor der Blüte.
 
-Das grüne Haferkraut ist ein kraftvolles Nerventonikum. Es nährt erschöpfte Nerven, beruhigt innere Unruhe und stärkt die seelische Widerstandskraft. Dabei macht es nicht müde, sondern schenkt eine ruhige Wachheit -- die ideale Basis für konzentriertes Arbeiten und erholsamen Schlaf.
+Das grüne Haferkraut ist ein kraftvolles Nerventonikum. Es nährt erschöpfte Nerven, beruhigt innere Unruhe und stärkt die seelische Widerstandskraft. Dabei macht es nicht müde, sondern schenkt eine ruhige Wachheit, die ideale Basis für konzentriertes Arbeiten und erholsamen Schlaf.
 
-Die Haferflocken selbst sind ebenfalls Medizin: Ihre löslichen Ballaststoffe (Beta-Glucane) senken nachweislich das Cholesterin und regulieren den Blutzucker. Ein Haferbrei morgens gibt langsam und gleichmäßig Energie frei -- kein Blutzucker-Achterbahn-Fahren. Dazu kommt ein beachtlicher Gehalt an B-Vitaminen, Eisen, Zink und Silizium.`,
-    geschichte: `Hafer wurde erst relativ spät kultiviert -- lange galt er als Unkraut im Weizen. Doch die Germanen und Kelten erkannten seinen Wert und machten ihn zum Grundnahrungsmittel. In Schottland ist Porridge seit Jahrhunderten das Nationalgericht.
+Die Haferflocken selbst sind ebenfalls Medizin: Ihre löslichen Ballaststoffe (Beta-Glucane) senken nachweislich das Cholesterin und regulieren den Blutzucker. Ein Haferbrei morgens gibt langsam und gleichmäßig Energie frei, kein Blutzucker-Achterbahn-Fahren. Dazu kommt ein beachtlicher Gehalt an B-Vitaminen, Eisen, Zink und Silizium.`,
+    geschichte: `Hafer wurde erst relativ spät kultiviert, lange galt er als Unkraut im Weizen. Doch die Germanen und Kelten erkannten seinen Wert und machten ihn zum Grundnahrungsmittel. In Schottland ist Porridge seit Jahrhunderten das Nationalgericht.
 
 Der Pfarrer Sebastian Kneipp war ein großer Verfechter des Hafers: "Haferkraut ist das beste Nervenmittel, das ich kenne." Er empfahl Haferbäder bei Nervosität, Hauterkrankungen und Erschöpfung. In der modernen Phytotherapie erlebt Haferkraut eine Renaissance als sanftes Nervenstärkungsmittel.`,
     wirkungen: {
@@ -1177,7 +1177,7 @@ Der Pfarrer Sebastian Kneipp war ein großer Verfechter des Hafers: "Haferkraut 
     },
     ernte: {
       zeit: 'Grünes Haferkraut: Juni-Juli, kurz vor der Blüte (Milchreife). Haferkorn: August-September.',
-      teile: 'Grünes Kraut (Herba Avenae), Haferkorn (Fructus Avenae), Haferstroh (Stramentum Avenae) -- alle haben Heilwert.',
+      teile: 'Grünes Kraut (Herba Avenae), Haferkorn (Fructus Avenae), Haferstroh (Stramentum Avenae), alle haben Heilwert.',
       tipps: 'Für die Nervenwirkung das grüne Kraut verwenden. Für Ernährung Vollkorn-Haferflocken. Bio-Qualität, möglichst unbehandelt. Haferstroh für Bäder.',
       mond: 'Grünes Kraut bei zunehmendem Mond ernten für die aufbauende, nährende Wirkung.',
     },
@@ -1205,7 +1205,7 @@ Der Pfarrer Sebastian Kneipp war ein großer Verfechter des Hafers: "Haferkraut 
     ],
     mischungen: ['Nerventee (mit Melisse und Lavendel)', 'Erschöpfungs-Mischung (mit Rosenwurz und Ashwagandha)', 'Schlaftee (mit Hopfen und Baldrian)'],
     tcm: 'Hafer stärkt das Milz-Qi und nährt das Herz-Blut. Er beruhigt den Shen und befeuchtet die Lunge. Wärmende Natur, süßer Geschmack.',
-    ayurveda: 'Hafer ist sattvisch -- er klärt den Geist und nährt Ojas. Er beruhigt Vata und stärkt die Nervenkraft (Majja Dhatu).',
+    ayurveda: 'Hafer ist sattvisch, er klärt den Geist und nährt Ojas. Er beruhigt Vata und stärkt die Nervenkraft (Majja Dhatu).',
     volksmedizin: 'Kneipp sagte: "Der Hafer ist das vielseitigste Getreide und ein Heilmittel ersten Ranges." In Schottland sagt man: "Wer Porridge isst, den holt der Teufel nicht." Haferbäder sind seit Jahrhunderten das Hausmittel bei juckender Haut.',
     besonders_bei: ['nervositaet', 'erschoepfung', 'schlafprobleme', 'burnout', 'haut', 'cholesterin', 'diabetes', 'konzentration'],
   },

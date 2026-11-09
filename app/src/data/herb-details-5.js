@@ -6,10 +6,10 @@ export const HERB_DEEP_5 = {
   'Passionsblume': {
     vollname: 'Passionsblume (Passiflora incarnata)',
     familie: 'Passionsblumengewächse (Passifloraceae)',
-    beschreibung: `Die Passionsblume ist eine der schönsten Heilpflanzen überhaupt -- ihre spektakuläre Blüte gleicht einem lebendigen Kunstwerk. Hinter dieser Schönheit verbirgt sich eine tiefe beruhigende Kraft, die das aufgewühlte Nervensystem sanft in die Stille führt. Sie wirkt dort, wo Gedanken kreisen und der Geist nicht zur Ruhe kommt -- bei Grübeln, Einschlafproblemen und innerer Anspannung.
+    beschreibung: `Die Passionsblume ist eine der schönsten Heilpflanzen überhaupt, ihre spektakuläre Blüte gleicht einem lebendigen Kunstwerk. Hinter dieser Schönheit verbirgt sich eine tiefe beruhigende Kraft, die das aufgewühlte Nervensystem sanft in die Stille führt. Sie wirkt dort, wo Gedanken kreisen und der Geist nicht zur Ruhe kommt, bei Grübeln, Einschlafproblemen und innerer Anspannung.
 
-Die Wirkstoffe der Passionsblume -- allen voran Flavonoide wie Chrysin und Vitexin -- binden an GABA-Rezeptoren im Gehirn und fördern so die natürliche Entspannung, ohne müde oder benommen zu machen. Damit unterscheidet sie sich von vielen synthetischen Beruhigungsmitteln grundlegend. Besonders wertvoll ist sie für Menschen, die tagsüber ruhig und klar bleiben wollen und abends leichter in den Schlaf finden möchten.`,
-    geschichte: `Die Passionsblume stammt aus Mittel- und Südamerika, wo die indigenen Völker sie seit Jahrhunderten als Beruhigungsmittel und bei Schlafstörungen einsetzten. Spanische Missionare gaben ihr den Namen "Passionsblume", weil sie in der Blüte die Leidenswerkzeuge Christi erkannten -- die Fäden als Dornenkrone, die fünf Staubblätter als Wunden, die drei Narben als Nägel. In Europa wurde sie ab dem 17. Jahrhundert als Heilpflanze bekannt und ist heute eine der am besten erforschten Beruhigungspflanzen.`,
+Die Wirkstoffe der Passionsblume, allen voran Flavonoide wie Chrysin und Vitexin, binden an GABA-Rezeptoren im Gehirn und fördern so die natürliche Entspannung, ohne müde oder benommen zu machen. Damit unterscheidet sie sich von vielen synthetischen Beruhigungsmitteln grundlegend. Besonders wertvoll ist sie für Menschen, die tagsüber ruhig und klar bleiben wollen und abends leichter in den Schlaf finden möchten.`,
+    geschichte: `Die Passionsblume stammt aus Mittel- und Südamerika, wo die indigenen Völker sie seit Jahrhunderten als Beruhigungsmittel und bei Schlafstörungen einsetzten. Spanische Missionare gaben ihr den Namen "Passionsblume", weil sie in der Blüte die Leidenswerkzeuge Christi erkannten, die Fäden als Dornenkrone, die fünf Staubblätter als Wunden, die drei Narben als Nägel. In Europa wurde sie ab dem 17. Jahrhundert als Heilpflanze bekannt und ist heute eine der am besten erforschten Beruhigungspflanzen.`,
     wirkungen: {
       hauptwirkungen: ['Beruhigend (anxiolytisch)', 'Schlaffördernd', 'Krampflösend', 'Angstlösend', 'Nervenstärkend', 'Blutdrucksenkend'],
       inhaltsstoffe: ['Flavonoide (Chrysin, Vitexin, Isovitexin)', 'Harman-Alkaloide', 'Cumarine', 'Maltol', 'Ätherisches Öl', 'Gamma-Aminobuttersäure (GABA)'],
@@ -39,7 +39,7 @@ Die Wirkstoffe der Passionsblume -- allen voran Flavonoide wie Chrysin und Vitex
     ],
     mischungen: ['Schlaftee (mit Baldrian und Hopfen)', 'Nerventee (mit Melisse und Lavendel)', 'Herztee (mit Weißdorn und Melisse)'],
     tcm: 'In der TCM wird die Passionsblume dem Herz- und Leber-Meridian zugeordnet. Sie beruhigt aufsteigendes Leber-Yang, kühlt Herz-Feuer und stillt den Shen (Geist).',
-    ayurveda: 'Die Passionsblume reduziert überschüssiges Vata und Pitta, beruhigt das Nervensystem und fördert Sattva -- die Qualität von Klarheit und innerem Frieden.',
+    ayurveda: 'Die Passionsblume reduziert überschüssiges Vata und Pitta, beruhigt das Nervensystem und fördert Sattva, die Qualität von Klarheit und innerem Frieden.',
     volksmedizin: 'In der nordamerikanischen Volksmedizin war die Passionsblume ein bewährtes Mittel gegen Schlaflosigkeit und Nervosität. Die Cherokee nutzten einen Wurzelaufguss bei Ohrenentzündungen und einen Blättertee zum Abstillen.',
     besonders_bei: ['schlafprobleme', 'angst', 'nervositaet', 'unruhe', 'herzklopfen', 'gedankenkreisen', 'pruefungsangst'],
   },
@@ -50,12 +50,12 @@ Die Wirkstoffe der Passionsblume -- allen voran Flavonoide wie Chrysin und Vitex
   'Pestwurz': {
     vollname: 'Pestwurz (Petasites hybridus)',
     familie: 'Korbblütler (Asteraceae)',
-    beschreibung: `Die Pestwurz ist eine mächtige Pflanze mit riesigen, schirmartigen Blättern, die an feuchten Bachufern und Flussauen wächst. Ihr Name verrät ihre historische Bedeutung -- in Zeiten der Pest legte man sich die großen Blätter auf die Pestbeulen. Heute ist die Pestwurz vor allem als starkes Mittel gegen Migräne und allergischen Heuschnupfen bekannt.
+    beschreibung: `Die Pestwurz ist eine mächtige Pflanze mit riesigen, schirmartigen Blättern, die an feuchten Bachufern und Flussauen wächst. Ihr Name verrät ihre historische Bedeutung, in Zeiten der Pest legte man sich die großen Blätter auf die Pestbeulen. Heute ist die Pestwurz vor allem als starkes Mittel gegen Migräne und allergischen Heuschnupfen bekannt.
 
-Ihre Hauptwirkstoffe Petasin und Isopetasin wirken krampflösend auf die glatte Muskulatur der Blutgefäße und Bronchien. Studien haben gezeigt, dass Pestwurz-Extrakt bei Migräne ähnlich wirksam sein kann wie herkömmliche Medikamente -- ohne deren Nebenwirkungen. Wichtig: Nur speziell aufbereitete Extrakte verwenden, die frei von leberschädigenden Pyrrolizidinalkaloiden (PA) sind.
+Ihre Hauptwirkstoffe Petasin und Isopetasin wirken krampflösend auf die glatte Muskulatur der Blutgefäße und Bronchien. Studien haben gezeigt, dass Pestwurz-Extrakt bei Migräne ähnlich wirksam sein kann wie herkömmliche Medikamente, ohne deren Nebenwirkungen. Wichtig: Nur speziell aufbereitete Extrakte verwenden, die frei von leberschädigenden Pyrrolizidinalkaloiden (PA) sind.
 
-Die Pflanze ist eine der ersten Frühlingsboten -- ihre blassrosa Blütentrauben erscheinen schon im März, noch bevor die gewaltigen Blätter austreiben, die bis zu einem Meter Durchmesser erreichen können.`,
-    geschichte: `Bereits Dioskurides beschrieb die Pestwurz im 1. Jahrhundert als Heilpflanze gegen Geschwüre. Im Mittelalter war sie eines der wichtigsten Pestmittel -- die Menschen trugen ihre Blätter als Schutz und legten sie als Umschläge auf. Paracelsus empfahl die Pestwurz bei der "Pestilenz" und bei Fieber. In der modernen Phytotherapie erlebte sie eine Renaissance, als Forscher in den 1970er Jahren ihre starke krampflösende Wirkung wissenschaftlich bestätigten.`,
+Die Pflanze ist eine der ersten Frühlingsboten, ihre blassrosa Blütentrauben erscheinen schon im März, noch bevor die gewaltigen Blätter austreiben, die bis zu einem Meter Durchmesser erreichen können.`,
+    geschichte: `Bereits Dioskurides beschrieb die Pestwurz im 1. Jahrhundert als Heilpflanze gegen Geschwüre. Im Mittelalter war sie eines der wichtigsten Pestmittel, die Menschen trugen ihre Blätter als Schutz und legten sie als Umschläge auf. Paracelsus empfahl die Pestwurz bei der "Pestilenz" und bei Fieber. In der modernen Phytotherapie erlebte sie eine Renaissance, als Forscher in den 1970er Jahren ihre starke krampflösende Wirkung wissenschaftlich bestätigten.`,
     wirkungen: {
       hauptwirkungen: ['Krampflösend (spasmolytisch)', 'Antiallergisch', 'Migräneprophylaxe', 'Schmerzlindernd', 'Entzündungshemmend', 'Bronchienerweiternd'],
       inhaltsstoffe: ['Petasin', 'Isopetasin', 'Sesquiterpene', 'Flavonoide', 'Ätherisches Öl', 'Schleimstoffe'],
@@ -63,7 +63,7 @@ Die Pflanze ist eine der ersten Frühlingsboten -- ihre blassrosa Blütentrauben
     ernte: {
       zeit: 'Wurzelstock im Herbst oder zeitigen Frühjahr. Blätter von Mai bis Juli.',
       teile: 'Wurzelstock (Rhizom), Blätter.',
-      tipps: 'Nur unter fachkundiger Anleitung sammeln. Der Gehalt an Pyrrolizidinalkaloiden macht die Selbstherstellung problematisch -- sichere Fertigpräparate bevorzugen.',
+      tipps: 'Nur unter fachkundiger Anleitung sammeln. Der Gehalt an Pyrrolizidinalkaloiden macht die Selbstherstellung problematisch, sichere Fertigpräparate bevorzugen.',
       mond: 'Wurzeln bei abnehmendem Mond ernten, Blätter bei zunehmendem Mond.',
     },
     zubereitungen: [
@@ -96,11 +96,11 @@ Die Pflanze ist eine der ersten Frühlingsboten -- ihre blassrosa Blütentrauben
   'Quecke': {
     vollname: 'Gemeine Quecke (Elymus repens)',
     familie: 'Süßgräser (Poaceae)',
-    beschreibung: `Die Quecke ist für Gärtner ein gefürchtetes Unkraut -- für Kräuterkundige jedoch ein wertvolles Heilkraut. Ihr weitverzweigtes Wurzelsystem, das sich so hartnäckig durch den Boden zieht, birgt eine sanfte, reinigende Kraft. Besonders für Nieren und Blase ist die Quecke ein verlässlicher Helfer, der still und bescheiden seine Dienste tut.
+    beschreibung: `Die Quecke ist für Gärtner ein gefürchtetes Unkraut, für Kräuterkundige jedoch ein wertvolles Heilkraut. Ihr weitverzweigtes Wurzelsystem, das sich so hartnäckig durch den Boden zieht, birgt eine sanfte, reinigende Kraft. Besonders für Nieren und Blase ist die Quecke ein verlässlicher Helfer, der still und bescheiden seine Dienste tut.
 
 Die Queckenwurzel enthält reichlich Schleimstoffe, die die gereizten Schleimhäute der Harnwege umhüllen und beruhigen. Dazu kommen Kieselsäure, Saponine und Polysaccharide, die harntreibend wirken und den Stoffwechsel anregen. In der Naturheilkunde wird die Quecke daher gern bei Blasenentzündungen, Harnwegsinfekten und zur Durchspülungstherapie eingesetzt.
 
-Hunde und Katzen suchen instinktiv Queckengras, wenn ihr Magen rebelliert -- ein Zeichen dafür, dass auch Tiere um die heilende Kraft dieser bescheidenen Pflanze wissen.`,
+Hunde und Katzen suchen instinktiv Queckengras, wenn ihr Magen rebelliert, ein Zeichen dafür, dass auch Tiere um die heilende Kraft dieser bescheidenen Pflanze wissen.`,
     geschichte: `Bereits in der Antike war die Quecke als Heilpflanze bekannt. Dioskurides empfahl sie bei Harnsteinen und Blasenbeschwerden. Im Mittelalter nannte man sie "Hundsgras", weil Hunde sie fraßen, wenn sie krank waren. Pfarrer Kneipp schätzte die Quecke als reinigendes Mittel und empfahl Queckenwurzeltee zur Entgiftung und bei Nierenbeschwerden.`,
     wirkungen: {
       hauptwirkungen: ['Harntreibend (diuretisch)', 'Entzündungshemmend', 'Schleimhautschützend', 'Stoffwechselanregend', 'Blutreinigend', 'Steinlösend'],
@@ -108,7 +108,7 @@ Hunde und Katzen suchen instinktiv Queckengras, wenn ihr Magen rebelliert -- ein
     },
     ernte: {
       zeit: 'Wurzelstöcke im Frühjahr (März-April) oder Herbst (September-Oktober).',
-      teile: 'Wurzelstock (Rhizom) -- die langen, weißen unterirdischen Ausläufer.',
+      teile: 'Wurzelstock (Rhizom), die langen, weißen unterirdischen Ausläufer.',
       tipps: 'Die Wurzeln beim Umgraben des Gartens sammeln, gründlich waschen und in Stücke schneiden. An der Luft oder bei niedriger Temperatur trocknen.',
       mond: 'Wurzeln bei abnehmendem Mond ernten, idealerweise in Erdzeichen (Stier, Jungfrau, Steinbock).',
     },
@@ -132,7 +132,7 @@ Hunde und Katzen suchen instinktiv Queckengras, wenn ihr Magen rebelliert -- ein
     mischungen: ['Blasentee (mit Bärentraube und Goldrute)', 'Nierentee (mit Birkenblättern und Schachtelhalm)', 'Entgiftungstee (mit Brennnessel und Löwenzahn)'],
     tcm: 'Die Quecke leitet feuchte Hitze aus dem unteren Erwärmer (Blase, Niere) aus. Sie kühlt und befeuchtet gleichzeitig.',
     ayurveda: 'Die Quecke reduziert Pitta im Harntrakt und löst angesammeltes Kapha. Sie hat eine kühlende, reinigende Energie (Virya).',
-    volksmedizin: 'In der bäuerlichen Volksmedizin war Queckenwurzeltee das einfachste Hausmittel bei Blasenproblemen. Kinder kauten auf den süßlichen Wurzeln herum wie auf Lakritze -- und reinigten dabei unbewusst ihre Nieren.',
+    volksmedizin: 'In der bäuerlichen Volksmedizin war Queckenwurzeltee das einfachste Hausmittel bei Blasenproblemen. Kinder kauten auf den süßlichen Wurzeln herum wie auf Lakritze, und reinigten dabei unbewusst ihre Nieren.',
     besonders_bei: ['blasenentzuendung', 'harnwege', 'niere', 'entgiftung', 'harnsteine', 'stoffwechsel', 'gicht'],
   },
 
@@ -140,21 +140,21 @@ Hunde und Katzen suchen instinktiv Queckengras, wenn ihr Magen rebelliert -- ein
   // 4. QUENDEL
   // ═══════════════════════════════════════════════════════════════════════════
   'Quendel': {
-    vollname: 'Quendel -- Wilder Thymian (Thymus serpyllum)',
+    vollname: 'Quendel: Wilder Thymian (Thymus serpyllum)',
     familie: 'Lippenblütler (Lamiaceae)',
-    beschreibung: `Der Quendel ist der wilde Bruder des Gartenthymians -- kleiner, zarter, aber nicht weniger heilkräftig. Er wächst an sonnigen, trockenen Standorten, auf Magerwiesen und Heideflächen, wo er sich wie ein duftender Teppich über den Boden ausbreitet. Wer über Quendel läuft, wird von seinem würzigen, herb-süßen Aroma umhüllt.
+    beschreibung: `Der Quendel ist der wilde Bruder des Gartenthymians, kleiner, zarter, aber nicht weniger heilkräftig. Er wächst an sonnigen, trockenen Standorten, auf Magerwiesen und Heideflächen, wo er sich wie ein duftender Teppich über den Boden ausbreitet. Wer über Quendel läuft, wird von seinem würzigen, herb-süßen Aroma umhüllt.
 
-In seiner Heilkraft dem Thymian sehr ähnlich, wirkt der Quendel stark auf die Atemwege -- er löst zähen Schleim, desinfiziert und beruhigt den Hustenreiz. Dabei ist er etwas milder als sein kultivierter Verwandter und eignet sich daher besonders gut für Kinder und empfindliche Menschen. Sein ätherisches Öl enthält Thymol und Carvacrol, zwei der stärksten natürlichen Antiseptika.
+In seiner Heilkraft dem Thymian sehr ähnlich, wirkt der Quendel stark auf die Atemwege, er löst zähen Schleim, desinfiziert und beruhigt den Hustenreiz. Dabei ist er etwas milder als sein kultivierter Verwandter und eignet sich daher besonders gut für Kinder und empfindliche Menschen. Sein ätherisches Öl enthält Thymol und Carvacrol, zwei der stärksten natürlichen Antiseptika.
 
-In der Volksheilkunde galt der Quendel auch als "Frauenkraut" -- er wurde bei Menstruationsbeschwerden, Unterleibskrämpfen und Erschöpfung nach der Geburt eingesetzt.`,
-    geschichte: `Der Quendel war den Germanen heilig -- er galt als Pflanze der Elfen und wurde in Räucherungen verwendet, um böse Geister zu vertreiben. Im Mittelalter steckten sich Ritter Quendelzweige an den Helm, weil man glaubte, er verleihe Mut und Tapferkeit. Hildegard von Bingen empfahl Quendel bei Hautausschlägen und Atemnot. In den Alpen räucherte man mit Quendel die Krankenstuben aus.`,
+In der Volksheilkunde galt der Quendel auch als "Frauenkraut", er wurde bei Menstruationsbeschwerden, Unterleibskrämpfen und Erschöpfung nach der Geburt eingesetzt.`,
+    geschichte: `Der Quendel war den Germanen heilig, er galt als Pflanze der Elfen und wurde in Räucherungen verwendet, um böse Geister zu vertreiben. Im Mittelalter steckten sich Ritter Quendelzweige an den Helm, weil man glaubte, er verleihe Mut und Tapferkeit. Hildegard von Bingen empfahl Quendel bei Hautausschlägen und Atemnot. In den Alpen räucherte man mit Quendel die Krankenstuben aus.`,
     wirkungen: {
       hauptwirkungen: ['Schleimlösend (expektorierend)', 'Antibakteriell', 'Krampflösend', 'Hustenstillend', 'Verdauungsfördernd', 'Durchblutungsfördernd', 'Stimmungsaufhellend'],
       inhaltsstoffe: ['Thymol', 'Carvacrol', 'Ätherisches Öl', 'Gerbstoffe', 'Flavonoide', 'Bitterstoffe', 'Triterpene', 'Rosmarinsäure'],
     },
     ernte: {
       zeit: 'Juni bis August, zur Blütezeit.',
-      teile: 'Das blühende Kraut -- obere Triebspitzen abschneiden.',
+      teile: 'Das blühende Kraut, obere Triebspitzen abschneiden.',
       tipps: 'An sonnigen Tagen ernten, wenn der Gehalt an ätherischem Öl am höchsten ist. In Bündeln im Schatten trocknen.',
       mond: 'Bei zunehmendem Mond in Luftzeichen (Zwillinge, Waage, Wassermann) ernten für beste Atemwegswirkung.',
     },
@@ -188,11 +188,11 @@ In der Volksheilkunde galt der Quendel auch als "Frauenkraut" -- er wurde bei Me
   'Rhabarber': {
     vollname: 'Medizinalrhabarber (Rheum palmatum)',
     familie: 'Knöterichgewächse (Polygonaceae)',
-    beschreibung: `Der Medizinalrhabarber ist nicht zu verwechseln mit dem Gartenrhabarber -- er ist eine eigenständige Heilpflanze mit einer beeindruckend starken Wirkung auf die Verdauung. Seine mächtigen, handförmig gelappten Blätter und der dicke, goldgelbe Wurzelstock unterscheiden ihn deutlich vom gewöhnlichen Küchenrhabarber.
+    beschreibung: `Der Medizinalrhabarber ist nicht zu verwechseln mit dem Gartenrhabarber, er ist eine eigenständige Heilpflanze mit einer beeindruckend starken Wirkung auf die Verdauung. Seine mächtigen, handförmig gelappten Blätter und der dicke, goldgelbe Wurzelstock unterscheiden ihn deutlich vom gewöhnlichen Küchenrhabarber.
 
 Die Wurzel des Medizinalrhabarbers enthält zwei gegensätzlich wirkende Wirkstoffgruppen: In niedriger Dosis wirken die Gerbstoffe zusammenziehend und stopfend bei Durchfall. In höherer Dosis überwiegen die Anthrachinone (Sennoside), die abführend wirken. Diese duale Wirkung macht ihn zu einem besonders vielseitigen Verdauungsmittel.
 
-In der Traditionellen Chinesischen Medizin gehört Da Huang (Rhabarber) zu den wichtigsten Arzneimitteln überhaupt -- er gilt als der große "Reiniger", der Hitze und Stagnation aus dem Körper leitet.`,
+In der Traditionellen Chinesischen Medizin gehört Da Huang (Rhabarber) zu den wichtigsten Arzneimitteln überhaupt, er gilt als der große "Reiniger", der Hitze und Stagnation aus dem Körper leitet.`,
     geschichte: `Der Medizinalrhabarber stammt aus dem Hochland von Tibet und Nordwestchina, wo er seit über 4.000 Jahren als Heilmittel verwendet wird. Im alten China war er so wertvoll, dass er zeitweise teurer gehandelt wurde als Zimt oder Opium. Über die Seidenstraße gelangte er nach Europa, wo er im Mittelalter als kostbares Abführmittel in den Apotheken stand. Marco Polo berichtete staunend über die Rhabarbermärkte in China.`,
     wirkungen: {
       hauptwirkungen: ['Abführend (in höherer Dosis)', 'Stopfend (in niedriger Dosis)', 'Galleanregend', 'Entzündungshemmend', 'Appetitanregend', 'Leberschützend'],
@@ -200,7 +200,7 @@ In der Traditionellen Chinesischen Medizin gehört Da Huang (Rhabarber) zu den w
     },
     ernte: {
       zeit: 'Wurzelstock im Herbst des 3. oder 4. Jahres.',
-      teile: 'Wurzelstock (Rhizom) -- wird geschält, in Stücke geschnitten und getrocknet.',
+      teile: 'Wurzelstock (Rhizom), wird geschält, in Stücke geschnitten und getrocknet.',
       tipps: 'Die Wurzel sollte innen leuchtend gelb bis orange sein. Langsam bei niedrigen Temperaturen trocknen. Medizinalrhabarber nicht mit Gartenrhabarber verwechseln.',
       mond: 'Bei abnehmendem Mond in Erdzeichen ernten für stärkste Verdauungswirkung.',
     },
@@ -234,11 +234,11 @@ In der Traditionellen Chinesischen Medizin gehört Da Huang (Rhabarber) zu den w
   'Rooibos': {
     vollname: 'Rooibos (Aspalathus linearis)',
     familie: 'Hülsenfrüchtler (Fabaceae)',
-    beschreibung: `Rooibos -- der "rote Busch" -- wächst ausschließlich in der Cederberg-Region Südafrikas, einem kleinen Gebiet von etwa 200 Quadratkilometern. Nirgendwo sonst auf der Welt gedeiht diese Pflanze, was sie zu einem wahren Geschenk der Natur macht. Die nadelartigen Blätter werden fermentiert, wodurch sie ihre charakteristische rotbraune Farbe und ihren mild-süßlichen Geschmack erhalten.
+    beschreibung: `Rooibos, der "rote Busch", wächst ausschließlich in der Cederberg-Region Südafrikas, einem kleinen Gebiet von etwa 200 Quadratkilometern. Nirgendwo sonst auf der Welt gedeiht diese Pflanze, was sie zu einem wahren Geschenk der Natur macht. Die nadelartigen Blätter werden fermentiert, wodurch sie ihre charakteristische rotbraune Farbe und ihren mild-süßlichen Geschmack erhalten.
 
-Was Rooibos so besonders macht: Er ist völlig koffeinfrei und arm an Gerbstoffen, was ihn zum idealen Getränk für Kinder, Schwangere und empfindliche Menschen macht. Gleichzeitig steckt er voller Antioxidantien -- insbesondere Aspalathin, ein Flavonoid, das nur in Rooibos vorkommt und freie Radikale wirksam neutralisiert.
+Was Rooibos so besonders macht: Er ist völlig koffeinfrei und arm an Gerbstoffen, was ihn zum idealen Getränk für Kinder, Schwangere und empfindliche Menschen macht. Gleichzeitig steckt er voller Antioxidantien, insbesondere Aspalathin, ein Flavonoid, das nur in Rooibos vorkommt und freie Radikale wirksam neutralisiert.
 
-Rooibos ist mehr als ein Genusstee -- er beruhigt den Magen, lindert Koliken bei Säuglingen, unterstützt das Immunsystem und schützt die Zellen vor oxidativem Stress. In Südafrika gilt er als Nationalgetränk und Hausmittel für nahezu alles.`,
+Rooibos ist mehr als ein Genusstee, er beruhigt den Magen, lindert Koliken bei Säuglingen, unterstützt das Immunsystem und schützt die Zellen vor oxidativem Stress. In Südafrika gilt er als Nationalgetränk und Hausmittel für nahezu alles.`,
     geschichte: `Die Khoisan, die Ureinwohner der Cederberg-Region, nutzten Rooibos seit Hunderten von Jahren als Heilgetränk. Der russische Botaniker Carl Humboldt beschrieb die Pflanze erstmals 1772. Ab den 1930er Jahren wurde Rooibos kommerziell angebaut, als der südafrikanische Arzt Dr. Pieter le Fras Nortier die Kultivierung vorantrieb. Heute ist Rooibos weltweit beliebt und ein wichtiger Exportartikel Südafrikas.`,
     wirkungen: {
       hauptwirkungen: ['Antioxidativ', 'Entzündungshemmend', 'Krampflösend', 'Beruhigend', 'Antiallergisch', 'Blutzuckerregulierend', 'Koffeinfrei'],
@@ -254,7 +254,7 @@ Rooibos ist mehr als ein Genusstee -- er beruhigt den Magen, lindert Koliken bei
       {
         name: 'Rooibos-Tee (klassisch)',
         anleitung: '1-2 TL Rooibos mit 250ml kochendem Wasser übergießen, 5-10 Minuten ziehen lassen. Kann beliebig lange ziehen, wird nicht bitter. Pur, mit Honig oder mit Milch genießen.',
-        wirkung: 'Beruhigend, antioxidativ, magenschonend -- ein wunderbarer Alltagstee für die ganze Familie.',
+        wirkung: 'Beruhigend, antioxidativ, magenschonend, ein wunderbarer Alltagstee für die ganze Familie.',
       },
       {
         name: 'Rooibos-Babytee',
@@ -269,7 +269,7 @@ Rooibos ist mehr als ein Genusstee -- er beruhigt den Magen, lindert Koliken bei
     ],
     mischungen: ['Abendtee (mit Vanille und Kamille)', 'Kindertee (mit Fenchel und Melisse)', 'Immuntee (mit Honigbusch und Hagebutte)'],
     tcm: 'Rooibos wirkt neutral bis leicht kühlend und befeuchtet das Yin. Er beruhigt den Magen und harmonisiert die Mitte.',
-    ayurveda: 'Rooibos ist tridoshisch -- er gleicht alle drei Doshas aus. Besonders günstig bei Pitta-Überschuss durch seine kühlende, beruhigende Qualität.',
+    ayurveda: 'Rooibos ist tridoshisch, er gleicht alle drei Doshas aus. Besonders günstig bei Pitta-Überschuss durch seine kühlende, beruhigende Qualität.',
     volksmedizin: 'Die Khoisan-Frauen gaben Rooibos-Aufgüsse an unruhige Säuglinge und stillende Mütter. In Südafrika ist Rooibos bis heute das erste Hausmittel bei Koliken, Hautausschlägen und Verdauungsproblemen.',
     besonders_bei: ['antioxidantien', 'allergie', 'haut', 'magen', 'koliken', 'schlafprobleme', 'entzuendung', 'immunsystem'],
   },
@@ -280,11 +280,11 @@ Rooibos ist mehr als ein Genusstee -- er beruhigt den Magen, lindert Koliken bei
   'Rose': {
     vollname: 'Damaszenerrose (Rosa damascena)',
     familie: 'Rosengewächse (Rosaceae)',
-    beschreibung: `Die Rose ist die Königin der Blumen -- und eine der ältesten Heilpflanzen der Menschheit. Weit über ihre Schönheit und ihren berauschenden Duft hinaus besitzt sie eine tiefe heilende Kraft, die Herz, Haut und Seele gleichermaßen berührt. Die Damaszenerrose gilt als die edelste unter den Heilrosen -- aus ihren Blütenblättern wird das kostbare Rosenöl gewonnen, für das man etwa 5.000 Kilogramm Blüten für einen einzigen Liter benötigt.
+    beschreibung: `Die Rose ist die Königin der Blumen, und eine der ältesten Heilpflanzen der Menschheit. Weit über ihre Schönheit und ihren berauschenden Duft hinaus besitzt sie eine tiefe heilende Kraft, die Herz, Haut und Seele gleichermaßen berührt. Die Damaszenerrose gilt als die edelste unter den Heilrosen, aus ihren Blütenblättern wird das kostbare Rosenöl gewonnen, für das man etwa 5.000 Kilogramm Blüten für einen einzigen Liter benötigt.
 
-Rosenblüten wirken entzündungshemmend, adstringierend und stimmungsaufhellend. Ihr Duft allein kann den Herzschlag beruhigen, Ängste lindern und ein Gefühl von Geborgenheit schenken. In der Aromatherapie gilt Rosenöl als das tiefgreifendste Mittel bei Herzschmerz -- im körperlichen wie im seelischen Sinne.
+Rosenblüten wirken entzündungshemmend, adstringierend und stimmungsaufhellend. Ihr Duft allein kann den Herzschlag beruhigen, Ängste lindern und ein Gefühl von Geborgenheit schenken. In der Aromatherapie gilt Rosenöl als das tiefgreifendste Mittel bei Herzschmerz, im körperlichen wie im seelischen Sinne.
 
-Die Rose öffnet das Herz. Sie tröstet bei Trauer, heilt bei Liebeskummer und erinnert daran, dass Verletzlichkeit und Stärke keine Gegensätze sind -- sondern zwei Seiten derselben Blüte.`,
+Die Rose öffnet das Herz. Sie tröstet bei Trauer, heilt bei Liebeskummer und erinnert daran, dass Verletzlichkeit und Stärke keine Gegensätze sind, sondern zwei Seiten derselben Blüte.`,
     geschichte: `Die Rose wird seit über 5.000 Jahren kultiviert. Die Perser destillierten bereits Rosenwasser und verwendeten es in der Medizin und Küche. Avicenna, der große persische Arzt, beschrieb die Rosendestillation im 10. Jahrhundert. In der griechischen Mythologie entstand die Rose aus dem Blut der Aphrodite. Hildegard von Bingen empfahl Rosenblüten bei Augenleiden und Hautentzündungen. Im Orient gilt Rosenwasser bis heute als heilig.`,
     wirkungen: {
       hauptwirkungen: ['Entzündungshemmend', 'Adstringierend', 'Stimmungsaufhellend', 'Hautpflegend', 'Herzstärkend', 'Krampflösend', 'Hormonregulierend'],
@@ -292,7 +292,7 @@ Die Rose öffnet das Herz. Sie tröstet bei Trauer, heilt bei Liebeskummer und e
     },
     ernte: {
       zeit: 'Juni bis Juli, am frühen Morgen, wenn der Tau gerade getrocknet ist.',
-      teile: 'Blütenblätter -- nur von ungespritzten, duftenden Rosen.',
+      teile: 'Blütenblätter, nur von ungespritzten, duftenden Rosen.',
       tipps: 'Am besten duftende alte Sorten verwenden (Damaszenerrose, Zentifolie, Apothekerrose). Morgens pflücken, wenn der Ölgehalt am höchsten ist. Sofort verarbeiten oder zügig trocknen.',
       mond: 'Bei zunehmendem Mond in Blütenzeichen (Waage, Zwillinge) pflücken für intensivsten Duft.',
     },
@@ -304,7 +304,7 @@ Die Rose öffnet das Herz. Sie tröstet bei Trauer, heilt bei Liebeskummer und e
       },
       {
         name: 'Rosenwasser',
-        anleitung: 'Frische Rosenblüten in einen Topf mit Siebeinsatz geben, mit Wasser bedecken, abgedeckt langsam erhitzen. Das Kondenswasser auffangen -- das ist Rosenwasser. Kühl aufbewahren.',
+        anleitung: 'Frische Rosenblüten in einen Topf mit Siebeinsatz geben, mit Wasser bedecken, abgedeckt langsam erhitzen. Das Kondenswasser auffangen, das ist Rosenwasser. Kühl aufbewahren.',
         wirkung: 'Als Gesichtswasser: Verfeinert die Poren, beruhigt gereizte Haut. Innerlich: Kühlt und beruhigt.',
       },
       {
@@ -316,7 +316,7 @@ Die Rose öffnet das Herz. Sie tröstet bei Trauer, heilt bei Liebeskummer und e
     mischungen: ['Herztee (mit Weißdorn und Melisse)', 'Frauentee (mit Frauenmantel und Schafgarbe)', 'Seelentrost-Tee (mit Johanniskraut und Lavendel)'],
     tcm: 'Die Rose (Mei Gui Hua) bewegt das Leber-Qi, löst Stagnation und harmonisiert den Blutfluss. Sie beruhigt den Shen und öffnet das Herz.',
     ayurveda: 'Die Rose ist kühlend (Sheeta Virya) und reduziert Pitta. Sie stärkt Ojas (Lebenskraft) und wird als Rasayana (Verjüngungsmittel) für Herz und Haut eingesetzt.',
-    volksmedizin: 'Im Mittelalter war Rosenwasser Bestandteil vieler Arzneien. Rosenblüten wurden auf Wunden gelegt, Rosenhonig bei Halsschmerzen verabreicht und Rosenkränze zur Beruhigung des Geistes gebetet -- die Verbindung von Rose und innerem Frieden ist uralt.',
+    volksmedizin: 'Im Mittelalter war Rosenwasser Bestandteil vieler Arzneien. Rosenblüten wurden auf Wunden gelegt, Rosenhonig bei Halsschmerzen verabreicht und Rosenkränze zur Beruhigung des Geistes gebetet, die Verbindung von Rose und innerem Frieden ist uralt.',
     besonders_bei: ['herz', 'trauer', 'haut', 'liebeskummer', 'entzuendung', 'wechseljahre', 'stress', 'angst'],
   },
 
@@ -326,18 +326,18 @@ Die Rose öffnet das Herz. Sie tröstet bei Trauer, heilt bei Liebeskummer und e
   'Safran': {
     vollname: 'Safran (Crocus sativus)',
     familie: 'Schwertliliengewächse (Iridaceae)',
-    beschreibung: `Safran ist das teuerste Gewürz der Welt -- und zugleich eine der bemerkenswertesten Heilpflanzen. Für ein Kilogramm Safran müssen etwa 150.000 Blüten von Hand geerntet und ihre zarten, roten Narbenfäden einzeln herausgezupft werden. Dieser immense Aufwand erklärt den hohen Preis, doch schon winzige Mengen entfalten eine starke Wirkung.
+    beschreibung: `Safran ist das teuerste Gewürz der Welt, und zugleich eine der bemerkenswertesten Heilpflanzen. Für ein Kilogramm Safran müssen etwa 150.000 Blüten von Hand geerntet und ihre zarten, roten Narbenfäden einzeln herausgezupft werden. Dieser immense Aufwand erklärt den hohen Preis, doch schon winzige Mengen entfalten eine starke Wirkung.
 
-Die Forschung der letzten Jahre hat gezeigt, dass Safran eine erstaunlich starke antidepressive Wirkung besitzt. In mehreren klinischen Studien wirkte er bei leichten bis mittleren Depressionen ebenso gut wie herkömmliche Antidepressiva -- ohne deren Nebenwirkungen. Verantwortlich dafür sind die Wirkstoffe Crocin und Safranal, die auf den Serotonin-Stoffwechsel wirken.
+Die Forschung der letzten Jahre hat gezeigt, dass Safran eine erstaunlich starke antidepressive Wirkung besitzt. In mehreren klinischen Studien wirkte er bei leichten bis mittleren Depressionen ebenso gut wie herkömmliche Antidepressiva, ohne deren Nebenwirkungen. Verantwortlich dafür sind die Wirkstoffe Crocin und Safranal, die auf den Serotonin-Stoffwechsel wirken.
 
-Safran bringt buchstäblich Farbe ins Leben -- er färbt Speisen goldgelb, hebt die Stimmung und schenkt dem Körper wertvolle Antioxidantien. In der persischen Kultur heißt es: "Safran macht den Menschen glücklich."`,
+Safran bringt buchstäblich Farbe ins Leben, er färbt Speisen goldgelb, hebt die Stimmung und schenkt dem Körper wertvolle Antioxidantien. In der persischen Kultur heißt es: "Safran macht den Menschen glücklich."`,
     geschichte: `Safran wird seit über 3.500 Jahren angebaut. Die alten Ägypter, Griechen und Römer verwendeten ihn als Heilmittel, Gewürz und kostbaren Farbstoff. Kleopatra soll darin gebadet haben. Im antiken Griechenland streute man Safranfäden in die Theater, damit der Duft die Zuschauer erfreute. Über die Mauren gelangte der Safrananbau nach Spanien, das bis heute eines der größten Anbaugebiete ist. Im Mittelalter stand auf Safranfälschung die Todesstrafe.`,
     wirkungen: {
       hauptwirkungen: ['Antidepressiv', 'Stimmungsaufhellend', 'Antioxidativ', 'Entzündungshemmend', 'Gedächtnisfördernd', 'Durchblutungsfördernd', 'Verdauungsanregend'],
       inhaltsstoffe: ['Crocin', 'Safranal', 'Picrocrocin', 'Carotinoide', 'Vitamin B2', 'Kalium', 'Magnesium', 'Eisen', 'Mangan'],
     },
     ernte: {
-      zeit: 'Oktober bis November -- nur wenige Wochen im Jahr blüht der Safran.',
+      zeit: 'Oktober bis November, nur wenige Wochen im Jahr blüht der Safran.',
       teile: 'Die drei roten Narbenfäden (Stigmata) jeder Blüte.',
       tipps: 'Blüten am frühen Morgen pflücken, bevor sie sich ganz öffnen. Die Narbenfäden sofort herauslösen und bei niedriger Temperatur trocknen. Dunkel und luftdicht aufbewahren.',
       mond: 'Die Ernte folgt dem natürlichen Rhythmus der Herbstblüte.',
@@ -361,7 +361,7 @@ Safran bringt buchstäblich Farbe ins Leben -- er färbt Speisen goldgelb, hebt 
     ],
     mischungen: ['Gute-Laune-Tee (mit Johanniskraut und Rose)', 'Frauentee (mit Frauenmantel und Rosenblüten)', 'Schlafmilch (mit Ashwagandha und Muskatnuss)'],
     tcm: 'Safran (Zang Hong Hua) belebt das Blut, löst Blut-Stase und kühlt das Blut. Er wird bei Menstruationsstörungen, Depression und Herz-Blut-Stagnation eingesetzt.',
-    ayurveda: 'Safran (Kesar/Kumkuma) ist ein Rasayana -- ein Verjüngungsmittel allerersten Ranges. Er gleicht alle drei Doshas aus, stärkt Ojas und wird in der ayurvedischen Medizin bei Depression, Unfruchtbarkeit und als Aphrodisiakum geschätzt.',
+    ayurveda: 'Safran (Kesar/Kumkuma) ist ein Rasayana, ein Verjüngungsmittel allerersten Ranges. Er gleicht alle drei Doshas aus, stärkt Ojas und wird in der ayurvedischen Medizin bei Depression, Unfruchtbarkeit und als Aphrodisiakum geschätzt.',
     volksmedizin: 'In der persischen Volksmedizin galt Safran als "Gewürz des Glücks". In Europa wurde Safranmilch bei Kinderkrankheiten, Melancholie und Gedächtnisschwäche verabreicht. Stillende Mütter tranken Safranwasser, um ihre Milch nahrhafter zu machen.',
     besonders_bei: ['depression', 'stimmung', 'pms', 'gedaechtnis', 'menstruation', 'schlafprobleme', 'herz'],
   },
@@ -372,11 +372,11 @@ Safran bringt buchstäblich Farbe ins Leben -- er färbt Speisen goldgelb, hebt 
   'Sanikel': {
     vollname: 'Sanikel (Sanicula europaea)',
     familie: 'Doldenblütler (Apiaceae)',
-    beschreibung: `Der Sanikel ist eine eher unscheinbare Waldpflanze mit kleinen, weißen Blütenköpfchen -- doch sein lateinischer Name verrät seine Bedeutung: "Sanicula" leitet sich von "sanare" ab -- heilen. In der mittelalterlichen Heilkunde hieß es: "Wer Sanikel hat, braucht keinen Arzt." Dieses alte Sprichwort zeugt von dem hohen Ansehen, das diese Pflanze einst genoss.
+    beschreibung: `Der Sanikel ist eine eher unscheinbare Waldpflanze mit kleinen, weißen Blütenköpfchen, doch sein lateinischer Name verrät seine Bedeutung: "Sanicula" leitet sich von "sanare" ab, heilen. In der mittelalterlichen Heilkunde hieß es: "Wer Sanikel hat, braucht keinen Arzt." Dieses alte Sprichwort zeugt von dem hohen Ansehen, das diese Pflanze einst genoss.
 
 Der Sanikel wirkt besonders stark auf Wunden und Entzündungen. Seine Saponine, Gerbstoffe und ätherischen Öle machen ihn zu einem vielseitigen Wundheiler, der sowohl innerlich als auch äußerlich eingesetzt wird. Er stoppt Blutungen, reinigt Wunden und fördert die Geweberegeneration.
 
-Heute ist der Sanikel leider fast in Vergessenheit geraten -- zu Unrecht, denn seine Heilkraft bei Atemwegserkrankungen, Verdauungsproblemen und schlecht heilenden Wunden ist bemerkenswert. Er wächst still im Schatten alter Laubwälder und wartet darauf, wiederentdeckt zu werden.`,
+Heute ist der Sanikel leider fast in Vergessenheit geraten, zu Unrecht, denn seine Heilkraft bei Atemwegserkrankungen, Verdauungsproblemen und schlecht heilenden Wunden ist bemerkenswert. Er wächst still im Schatten alter Laubwälder und wartet darauf, wiederentdeckt zu werden.`,
     geschichte: `Im Mittelalter galt der Sanikel als eine der wichtigsten Wundheilpflanzen. Paracelsus rühmte ihn als unentbehrliches Kraut der Wundärzte. In alten Kräuterbüchern wird er als "Heil aller Welt" bezeichnet. Hildegard von Bingen empfahl Sanikel bei Herz- und Lungenleiden. In der mittelalterlichen Signaturenlehre deuteten die handförmigen Blätter auf seine Fähigkeit hin, den ganzen Menschen zu "fassen" und zu heilen.`,
     wirkungen: {
       hauptwirkungen: ['Wundheilend', 'Blutstillend', 'Schleimlösend', 'Entzündungshemmend', 'Adstringierend', 'Hustenstillend'],
@@ -408,7 +408,7 @@ Heute ist der Sanikel leider fast in Vergessenheit geraten -- zu Unrecht, denn s
     mischungen: ['Wundtee (mit Ringelblume und Schafgarbe)', 'Hustentee (mit Spitzwegerich und Thymian)', 'Blutreinigungstee (mit Brennnessel und Löwenzahn)'],
     tcm: 'Der Sanikel kühlt Hitze, stillt Blutungen und transformiert Schleim. Er wirkt auf den Lungen- und Leber-Meridian.',
     ayurveda: 'Der Sanikel hat eine zusammenziehende, kühlende Qualität und reduziert Pitta und Kapha. Er reinigt das Blut und fördert die Geweberegeneraton.',
-    volksmedizin: 'In der europäischen Volksmedizin war der Sanikel ein fester Bestandteil der "Wundtränke" -- Kräutermischungen, die man bei Verletzungen sowohl trank als auch äußerlich anwendete. Bauern legten Sanikelblätter auf Schnittwunden, um die Blutung zu stoppen.',
+    volksmedizin: 'In der europäischen Volksmedizin war der Sanikel ein fester Bestandteil der "Wundtränke": Kräutermischungen, die man bei Verletzungen sowohl trank als auch äußerlich anwendete. Bauern legten Sanikelblätter auf Schnittwunden, um die Blutung zu stoppen.',
     besonders_bei: ['wundheilung', 'husten', 'hals', 'blutung', 'entzuendung', 'verdauung', 'atemwege'],
   },
 
@@ -418,20 +418,20 @@ Heute ist der Sanikel leider fast in Vergessenheit geraten -- zu Unrecht, denn s
   'Schachtelhalm': {
     vollname: 'Acker-Schachtelhalm (Equisetum arvense)',
     familie: 'Schachtelhalmgewächse (Equisetaceae)',
-    beschreibung: `Der Schachtelhalm ist ein lebendes Fossil -- seine Vorfahren bildeten vor 350 Millionen Jahren riesige Wälder, die heute als Steinkohle in der Erde liegen. Diese Urpflanze hat etwas Zeitloses, Unverwüstliches -- und genau diese Qualität schenkt sie auch dem menschlichen Körper. Kein anderes Kraut enthält so viel pflanzliche Kieselsäure (Silizium) wie der Schachtelhalm.
+    beschreibung: `Der Schachtelhalm ist ein lebendes Fossil, seine Vorfahren bildeten vor 350 Millionen Jahren riesige Wälder, die heute als Steinkohle in der Erde liegen. Diese Urpflanze hat etwas Zeitloses, Unverwüstliches, und genau diese Qualität schenkt sie auch dem menschlichen Körper. Kein anderes Kraut enthält so viel pflanzliche Kieselsäure (Silizium) wie der Schachtelhalm.
 
-Silizium ist der vergessene Mineralstoff -- unverzichtbar für Bindegewebe, Knorpel, Knochen, Haare und Nägel. Der Schachtelhalm liefert ihn in einer Form, die der Körper hervorragend aufnehmen kann. Deshalb ist er das Mittel der Wahl bei brüchigen Nägeln, dünnem Haar, schwachem Bindegewebe und Arthrose.
+Silizium ist der vergessene Mineralstoff, unverzichtbar für Bindegewebe, Knorpel, Knochen, Haare und Nägel. Der Schachtelhalm liefert ihn in einer Form, die der Körper hervorragend aufnehmen kann. Deshalb ist er das Mittel der Wahl bei brüchigen Nägeln, dünnem Haar, schwachem Bindegewebe und Arthrose.
 
-Darüber hinaus wirkt der Schachtelhalm harntreibend und blutstillend. Er strafft das Gewebe von innen, stärkt die Blasenfunktion und fördert die Wundheilung. Seine zusammenziehende Kraft macht ihn auch äußerlich wertvoll -- bei schlecht heilenden Wunden, Ekzemen und Cellulite.`,
-    geschichte: `Schon die Römer verwendeten den Schachtelhalm zur Blutstillung und als Scheuermittel -- sein hoher Kieselsäuregehalt machte ihn zum natürlichen Topfreiniger. Der Name "Zinnkraut" kommt von der Verwendung zum Polieren von Zinn. Pfarrer Kneipp machte den Schachtelhalm in der Neuzeit wieder als Heilpflanze bekannt und empfahl ihn bei Nieren- und Blasenleiden. In der anthroposophischen Medizin gilt er als Pflanze, die die "Formkräfte" des Körpers stärkt.`,
+Darüber hinaus wirkt der Schachtelhalm harntreibend und blutstillend. Er strafft das Gewebe von innen, stärkt die Blasenfunktion und fördert die Wundheilung. Seine zusammenziehende Kraft macht ihn auch äußerlich wertvoll, bei schlecht heilenden Wunden, Ekzemen und Cellulite.`,
+    geschichte: `Schon die Römer verwendeten den Schachtelhalm zur Blutstillung und als Scheuermittel, sein hoher Kieselsäuregehalt machte ihn zum natürlichen Topfreiniger. Der Name "Zinnkraut" kommt von der Verwendung zum Polieren von Zinn. Pfarrer Kneipp machte den Schachtelhalm in der Neuzeit wieder als Heilpflanze bekannt und empfahl ihn bei Nieren- und Blasenleiden. In der anthroposophischen Medizin gilt er als Pflanze, die die "Formkräfte" des Körpers stärkt.`,
     wirkungen: {
       hauptwirkungen: ['Bindegewebsstärkend', 'Harntreibend', 'Blutstillend', 'Kieselsäurelieferant', 'Wundheilend', 'Haarwuchsfördernd', 'Knochensstärkend'],
       inhaltsstoffe: ['Kieselsäure (bis 10%)', 'Flavonoide', 'Kalium', 'Saponine (Equisetonin)', 'Phenolcarbonsäuren', 'Phytosterole', 'Kalzium', 'Magnesium'],
     },
     ernte: {
-      zeit: 'Mai bis Juli -- die grünen Sommertriebe ernten.',
+      zeit: 'Mai bis Juli, die grünen Sommertriebe ernten.',
       teile: 'Die grünen, sterilen Sommertriebe (nicht die braunen Frühjahrssprosse).',
-      tipps: 'Nur den Acker-Schachtelhalm verwenden -- den giftigen Sumpf-Schachtelhalm unterscheidet man an den braunen Sporenträgern und dem sumpfigen Standort. An sonnigen Tagen ernten. Der Schachtelhalm muss gut durchtrocknen.',
+      tipps: 'Nur den Acker-Schachtelhalm verwenden, den giftigen Sumpf-Schachtelhalm unterscheidet man an den braunen Sporenträgern und dem sumpfigen Standort. An sonnigen Tagen ernten. Der Schachtelhalm muss gut durchtrocknen.',
       mond: 'Bei zunehmendem Mond ernten für die aufbauende, stärkende Wirkung.',
     },
     zubereitungen: [
@@ -462,14 +462,14 @@ Darüber hinaus wirkt der Schachtelhalm harntreibend und blutstillend. Er straff
   // 11. SCHLEHE
   // ═══════════════════════════════════════════════════════════════════════════
   'Schlehe': {
-    vollname: 'Schlehe -- Schwarzdorn (Prunus spinosa)',
+    vollname: 'Schlehe: Schwarzdorn (Prunus spinosa)',
     familie: 'Rosengewächse (Rosaceae)',
-    beschreibung: `Die Schlehe ist ein dorniger Strauch, der im zeitigen Frühjahr als einer der Ersten blüht -- ein weißes Blütenmeer, noch bevor die Blätter erscheinen. Dieses Bild von Stärke und Schönheit inmitten der Kälte beschreibt auch ihre Heilkraft: Die Schlehe stärkt und kräftigt, besonders nach langer Krankheit, in Zeiten der Erschöpfung und bei Rekonvaleszenz.
+    beschreibung: `Die Schlehe ist ein dorniger Strauch, der im zeitigen Frühjahr als einer der Ersten blüht, ein weißes Blütenmeer, noch bevor die Blätter erscheinen. Dieses Bild von Stärke und Schönheit inmitten der Kälte beschreibt auch ihre Heilkraft: Die Schlehe stärkt und kräftigt, besonders nach langer Krankheit, in Zeiten der Erschöpfung und bei Rekonvaleszenz.
 
-Die kleinen, blauschwarzen Früchte werden erst nach dem ersten Frost süß und genießbar. Sie stecken voller Vitamin C, Gerbstoffe und Flavonoide. Schlehenblüten dagegen wirken sanft abführend und blutreinigend -- sie sind der ideale Begleiter für eine Frühjahrskur, die den Stoffwechsel sanft in Schwung bringt.
+Die kleinen, blauschwarzen Früchte werden erst nach dem ersten Frost süß und genießbar. Sie stecken voller Vitamin C, Gerbstoffe und Flavonoide. Schlehenblüten dagegen wirken sanft abführend und blutreinigend, sie sind der ideale Begleiter für eine Frühjahrskur, die den Stoffwechsel sanft in Schwung bringt.
 
-In der anthroposophischen Medizin wird die Schlehe als Pflanze der "Aufrichtekraft" verstanden -- sie hilft dem Menschen, sich nach Krisen wieder aufzurichten, innerlich wie äußerlich.`,
-    geschichte: `Die Schlehe ist seit der Steinzeit bekannt -- in jungsteinzeitlichen Siedlungen fand man getrocknete Schlehen als Wintervorrat. Die Germanen verehrten den Schwarzdorn als Schutzpflanze und pflanzten ihn um ihre Höfe, um böse Geister fernzuhalten. Die Dornen der Schlehe galten als so mächtig, dass man ihnen magische Schutzkraft zusprach. Im Mittelalter war Schlehenwein ein beliebtes Stärkungsmittel für Genesende.`,
+In der anthroposophischen Medizin wird die Schlehe als Pflanze der "Aufrichtekraft" verstanden, sie hilft dem Menschen, sich nach Krisen wieder aufzurichten, innerlich wie äußerlich.`,
+    geschichte: `Die Schlehe ist seit der Steinzeit bekannt, in jungsteinzeitlichen Siedlungen fand man getrocknete Schlehen als Wintervorrat. Die Germanen verehrten den Schwarzdorn als Schutzpflanze und pflanzten ihn um ihre Höfe, um böse Geister fernzuhalten. Die Dornen der Schlehe galten als so mächtig, dass man ihnen magische Schutzkraft zusprach. Im Mittelalter war Schlehenwein ein beliebtes Stärkungsmittel für Genesende.`,
     wirkungen: {
       hauptwirkungen: ['Stärkend (tonisierend)', 'Immunstärkend', 'Adstringierend', 'Blutreinigend', 'Leicht abführend (Blüten)', 'Verdauungsfördernd', 'Vitamin-C-reich'],
       inhaltsstoffe: ['Vitamin C', 'Gerbstoffe', 'Flavonoide', 'Anthocyane', 'Fruchtsäuren', 'Pektin', 'Amygdalin (Kerne)', 'Cumarine', 'Mineralstoffe'],
@@ -477,14 +477,14 @@ In der anthroposophischen Medizin wird die Schlehe als Pflanze der "Aufrichtekra
     ernte: {
       zeit: 'Blüten: März bis April. Früchte: nach dem ersten Frost (Oktober-November). Rinde: im Frühjahr.',
       teile: 'Blüten, Früchte, Rinde.',
-      tipps: 'Die Blüten einzeln pflücken, um die Dornen zu vermeiden. Früchte nach dem ersten Frost ernten oder über Nacht ins Gefrierfach legen -- die Kälte wandelt die Gerbstoffe um und macht sie süßer.',
+      tipps: 'Die Blüten einzeln pflücken, um die Dornen zu vermeiden. Früchte nach dem ersten Frost ernten oder über Nacht ins Gefrierfach legen, die Kälte wandelt die Gerbstoffe um und macht sie süßer.',
       mond: 'Blüten bei zunehmendem Mond, Früchte bei abnehmendem Mond ernten.',
     },
     zubereitungen: [
       {
         name: 'Schlehenblütentee',
         anleitung: '2 TL getrocknete Schlehenblüten mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 2-3 Tassen täglich als Frühjahrskur über 3-4 Wochen.',
-        wirkung: 'Sanft abführend, blutreinigend, stoffwechselanregend -- ideal für die Frühjahrskur.',
+        wirkung: 'Sanft abführend, blutreinigend, stoffwechselanregend, ideal für die Frühjahrskur.',
       },
       {
         name: 'Schlehenmus',
@@ -500,7 +500,7 @@ In der anthroposophischen Medizin wird die Schlehe als Pflanze der "Aufrichtekra
     mischungen: ['Frühjahrskur-Tee (mit Birke und Brennnessel)', 'Stärkungstee (mit Hagebutte und Weißdorn)', 'Immuntee (mit Holunder und Lindenblüten)'],
     tcm: 'Die Schlehe stärkt das Milz-Qi und nährt das Blut. Die Blüten bewegen das Qi und lösen Stagnation im Frühling.',
     ayurveda: 'Die Schlehe ist zusammenziehend (Kashaya) und süß (Madhura). Sie stärkt und nährt, reduziert Vata und baut Ojas auf.',
-    volksmedizin: 'In der Volksmedizin galt Schlehenwein als "Arme-Leute-Tonikum" -- er kräftigte nach Krankheit und im Winter. Schlehenblütentee wurde als "Frühjahrsputz für den Körper" getrunken. Die dornigen Zweige stellte man ins Haus, um Krankheit fernzuhalten.',
+    volksmedizin: 'In der Volksmedizin galt Schlehenwein als "Arme-Leute-Tonikum", er kräftigte nach Krankheit und im Winter. Schlehenblütentee wurde als "Frühjahrsputz für den Körper" getrunken. Die dornigen Zweige stellte man ins Haus, um Krankheit fernzuhalten.',
     besonders_bei: ['erschoepfung', 'immunsystem', 'rekonvaleszenz', 'fruehjahrskur', 'verdauung', 'appetitlosigkeit', 'vitaminmangel'],
   },
 
@@ -510,12 +510,12 @@ In der anthroposophischen Medizin wird die Schlehe als Pflanze der "Aufrichtekra
   'Schlüsselblume': {
     vollname: 'Echte Schlüsselblume (Primula veris)',
     familie: 'Primelgewächse (Primulaceae)',
-    beschreibung: `Die Schlüsselblume gehört zu den lieblichsten Frühlingsboten -- ihre goldgelben, nickenden Blütenglöckchen öffnen sich wie kleine Schlüssel, die den Frühling aufschließen. In der Heilkunde ist sie ein wertvolles Mittel bei festsitzendem Husten, Bronchitis und Nasennebenhöhlenentzündung. Ihre Saponine verflüssigen den zähen Schleim und erleichtern das Abhusten.
+    beschreibung: `Die Schlüsselblume gehört zu den lieblichsten Frühlingsboten, ihre goldgelben, nickenden Blütenglöckchen öffnen sich wie kleine Schlüssel, die den Frühling aufschließen. In der Heilkunde ist sie ein wertvolles Mittel bei festsitzendem Husten, Bronchitis und Nasennebenhöhlenentzündung. Ihre Saponine verflüssigen den zähen Schleim und erleichtern das Abhusten.
 
-Die Schlüsselblume wirkt auf zweierlei Weise: Die Blüten beruhigen und lösen sanft -- sie eignen sich besonders für Kinder und ältere Menschen. Die Wurzel dagegen enthält deutlich mehr Saponine und wirkt stärker schleimlösend, kann aber bei empfindlichen Mägen Übelkeit auslösen.
+Die Schlüsselblume wirkt auf zweierlei Weise: Die Blüten beruhigen und lösen sanft, sie eignen sich besonders für Kinder und ältere Menschen. Die Wurzel dagegen enthält deutlich mehr Saponine und wirkt stärker schleimlösend, kann aber bei empfindlichen Mägen Übelkeit auslösen.
 
 Neben ihrer Atemwegswirkung hat die Schlüsselblume auch eine beruhigende, leicht schmerzlindernde Komponente. In der Volksheilkunde galt sie als Mittel gegen Kopfschmerzen, Schwindel und nervöse Unruhe.`,
-    geschichte: `Die Schlüsselblume war den Germanen heilig -- sie galt als Schlüssel der Frühlingsgöttin Freya, der die Erde nach dem Winter aufschloss. Im christlichen Volksglauben wurde sie "Petrusschlüssel" oder "Himmelsschlüsselchen" genannt, weil ihre herabhängenden Blüten an einen Schlüsselbund erinnern. Hildegard von Bingen empfahl die Schlüsselblume bei Melancholie. Heute ist sie in vielen Regionen geschützt und darf nicht wild gepflückt werden.`,
+    geschichte: `Die Schlüsselblume war den Germanen heilig, sie galt als Schlüssel der Frühlingsgöttin Freya, der die Erde nach dem Winter aufschloss. Im christlichen Volksglauben wurde sie "Petrusschlüssel" oder "Himmelsschlüsselchen" genannt, weil ihre herabhängenden Blüten an einen Schlüsselbund erinnern. Hildegard von Bingen empfahl die Schlüsselblume bei Melancholie. Heute ist sie in vielen Regionen geschützt und darf nicht wild gepflückt werden.`,
     wirkungen: {
       hauptwirkungen: ['Schleimlösend (sekretolytisch)', 'Auswurffördernd', 'Entzündungshemmend', 'Leicht beruhigend', 'Schmerzlindernd', 'Harntreibend'],
       inhaltsstoffe: ['Saponine (Primulasäure)', 'Flavonoide', 'Carotinoide', 'Phenolglykoside', 'Primulaverin', 'Ätherisches Öl', 'Kieselsäure', 'Gerbstoffe'],
@@ -523,7 +523,7 @@ Neben ihrer Atemwegswirkung hat die Schlüsselblume auch eine beruhigende, leich
     ernte: {
       zeit: 'Blüten: März bis Mai. Wurzel: im Herbst.',
       teile: 'Blüten mit Kelch, Wurzelstock.',
-      tipps: 'Die Schlüsselblume ist in vielen Gebieten geschützt -- nur aus dem eigenen Garten oder von zugelassenen Anbauflächen ernten. Alternativ getrocknete Blüten oder Wurzeln in der Apotheke kaufen.',
+      tipps: 'Die Schlüsselblume ist in vielen Gebieten geschützt, nur aus dem eigenen Garten oder von zugelassenen Anbauflächen ernten. Alternativ getrocknete Blüten oder Wurzeln in der Apotheke kaufen.',
       mond: 'Blüten bei zunehmendem Mond, Wurzeln bei abnehmendem Mond ernten.',
     },
     zubereitungen: [
@@ -540,7 +540,7 @@ Neben ihrer Atemwegswirkung hat die Schlüsselblume auch eine beruhigende, leich
       {
         name: 'Schlüsselblumen-Honig',
         anleitung: 'Frische Schlüsselblumenblüten in ein Glas schichten, mit flüssigem Honig bedecken. 4 Wochen an einem warmen Ort ziehen lassen.',
-        wirkung: 'Bei Husten löffelweise einnehmen -- besonders für Kinder ein sanftes, wohlschmeckendes Hustenmittel.',
+        wirkung: 'Bei Husten löffelweise einnehmen, besonders für Kinder ein sanftes, wohlschmeckendes Hustenmittel.',
       },
     ],
     mischungen: ['Hustentee (mit Thymian und Spitzwegerich)', 'Nebenhöhlentee (mit Eisenkraut und Holunder)', 'Beruhigungstee (mit Melisse und Lavendel)'],
@@ -556,12 +556,12 @@ Neben ihrer Atemwegswirkung hat die Schlüsselblume auch eine beruhigende, leich
   'Seifenkraut': {
     vollname: 'Echtes Seifenkraut (Saponaria officinalis)',
     familie: 'Nelkengewächse (Caryophyllaceae)',
-    beschreibung: `Das Seifenkraut trägt seinen Namen zu Recht: Reibt man seine Blätter oder Wurzeln in Wasser, entsteht ein seifiger Schaum. Dieser kommt von den reichlich enthaltenen Saponinen -- Pflanzenstoffen, die Fett lösen und Schleim verflüssigen. Was äußerlich reinigt, reinigt auch innerlich: Das Seifenkraut ist ein starkes schleimlösendes Mittel bei zähem Bronchialschleim.
+    beschreibung: `Das Seifenkraut trägt seinen Namen zu Recht: Reibt man seine Blätter oder Wurzeln in Wasser, entsteht ein seifiger Schaum. Dieser kommt von den reichlich enthaltenen Saponinen: Pflanzenstoffen, die Fett lösen und Schleim verflüssigen. Was äußerlich reinigt, reinigt auch innerlich: Das Seifenkraut ist ein starkes schleimlösendes Mittel bei zähem Bronchialschleim.
 
-Die rosa bis weißen Blüten duften abends besonders intensiv und locken Nachtfalter an. In der Heilkunde nutzt man vor allem die Wurzel, die den höchsten Saponingehalt aufweist. Die Saponine des Seifenkrauts erhöhen die Durchlässigkeit der Schleimhäute und verbessern so die Aufnahme anderer Heilstoffe -- daher findet man es häufig in Teemischungen als "Verstärker".
+Die rosa bis weißen Blüten duften abends besonders intensiv und locken Nachtfalter an. In der Heilkunde nutzt man vor allem die Wurzel, die den höchsten Saponingehalt aufweist. Die Saponine des Seifenkrauts erhöhen die Durchlässigkeit der Schleimhäute und verbessern so die Aufnahme anderer Heilstoffe, daher findet man es häufig in Teemischungen als "Verstärker".
 
-Äußerlich angewandt reinigt das Seifenkraut empfindliche Haut auf natürliche Weise -- ganz ohne synthetische Tenside. Es eignet sich besonders für Menschen mit Hautproblemen, die keine herkömmliche Seife vertragen.`,
-    geschichte: `Bereits in der Antike wurde das Seifenkraut zum Waschen und Reinigen verwendet. Die Römer nannten es "Herba fullonia" -- Walkerkraut -- weil es zum Walken und Reinigen von Wolle diente. In Klöstern wurde es als pflanzliche Seife für die Reinigung kostbarer Textilien und alter Bücher eingesetzt -- eine Tradition, die bis heute in der Restauration angewandt wird. Dioskurides empfahl es bei Leberleiden und Atemwegserkrankungen.`,
+Äußerlich angewandt reinigt das Seifenkraut empfindliche Haut auf natürliche Weise, ganz ohne synthetische Tenside. Es eignet sich besonders für Menschen mit Hautproblemen, die keine herkömmliche Seife vertragen.`,
+    geschichte: `Bereits in der Antike wurde das Seifenkraut zum Waschen und Reinigen verwendet. Die Römer nannten es "Herba fullonia": Walkerkraut, weil es zum Walken und Reinigen von Wolle diente. In Klöstern wurde es als pflanzliche Seife für die Reinigung kostbarer Textilien und alter Bücher eingesetzt, eine Tradition, die bis heute in der Restauration angewandt wird. Dioskurides empfahl es bei Leberleiden und Atemwegserkrankungen.`,
     wirkungen: {
       hauptwirkungen: ['Schleimlösend (expektorierend)', 'Hautreinigend', 'Stoffwechselanregend', 'Harntreibend', 'Galleanregend', 'Resorptionsfördernd'],
       inhaltsstoffe: ['Saponine (bis 5% in der Wurzel)', 'Flavonoide', 'Zucker', 'Vitamin C', 'Pektin', 'Schleimstoffe'],
@@ -569,7 +569,7 @@ Die rosa bis weißen Blüten duften abends besonders intensiv und locken Nachtfa
     ernte: {
       zeit: 'Wurzel im Herbst (September-Oktober) oder Frühjahr. Kraut während der Blütezeit (Juni-September).',
       teile: 'Wurzelstock, blühendes Kraut.',
-      tipps: 'Die Wurzel im Herbst graben, waschen, in Stücke schneiden und trocknen. Nicht in zu großen Mengen innerlich einnehmen -- hohe Dosen können die Magenschleimhaut reizen.',
+      tipps: 'Die Wurzel im Herbst graben, waschen, in Stücke schneiden und trocknen. Nicht in zu großen Mengen innerlich einnehmen, hohe Dosen können die Magenschleimhaut reizen.',
       mond: 'Wurzeln bei abnehmendem Mond, Kraut bei zunehmendem Mond ernten.',
     },
     zubereitungen: [
@@ -592,7 +592,7 @@ Die rosa bis weißen Blüten duften abends besonders intensiv und locken Nachtfa
     mischungen: ['Hustentee (mit Thymian und Schlüsselblume)', 'Stoffwechseltee (mit Birke und Brennnessel)', 'Hauttee (mit Stiefmütterchen und Ringelblume)'],
     tcm: 'Das Seifenkraut transformiert Schleim und leitet Feuchtigkeit aus. Es wirkt auf den Lungen- und Magen-Meridian.',
     ayurveda: 'Seifenkraut reduziert Kapha durch seine reinigende, trocknende Qualität. Es hat einen scharfen, bitteren Geschmack und eine wärmende Energie.',
-    volksmedizin: 'In der bäuerlichen Volksmedizin war das Seifenkraut die "Waschmittelpflanze" schlechthin. Man wusch damit nicht nur den Körper, sondern auch die Wäsche, und nutzte den Sud gleichzeitig gegen Husten und Hautleiden -- ein wahres Multitalent.',
+    volksmedizin: 'In der bäuerlichen Volksmedizin war das Seifenkraut die "Waschmittelpflanze" schlechthin. Man wusch damit nicht nur den Körper, sondern auch die Wäsche, und nutzte den Sud gleichzeitig gegen Husten und Hautleiden, ein wahres Multitalent.',
     besonders_bei: ['husten', 'bronchitis', 'haut', 'ekzem', 'schuppen', 'stoffwechsel', 'verschleimung'],
   },
 
@@ -602,12 +602,12 @@ Die rosa bis weißen Blüten duften abends besonders intensiv und locken Nachtfa
   'Sellerie': {
     vollname: 'Sellerie (Apium graveolens)',
     familie: 'Doldenblütler (Apiaceae)',
-    beschreibung: `Der Sellerie ist weit mehr als ein Suppengemüse -- er ist eine kraftvolle Heilpflanze mit einer langen Tradition in der Naturmedizin. Sein charakteristischer, intensiver Geschmack verrät den Reichtum an ätherischen Ölen und Bitterstoffen, die ihn zu einem wunderbaren Entgiftungs- und Entsäuerungsmittel machen.
+    beschreibung: `Der Sellerie ist weit mehr als ein Suppengemüse, er ist eine kraftvolle Heilpflanze mit einer langen Tradition in der Naturmedizin. Sein charakteristischer, intensiver Geschmack verrät den Reichtum an ätherischen Ölen und Bitterstoffen, die ihn zu einem wunderbaren Entgiftungs- und Entsäuerungsmittel machen.
 
-Besonders hervorzuheben ist die basische Wirkung des Selleries: Er zählt zu den stärksten basischen Lebensmitteln überhaupt und hilft dem Körper, überschüssige Säuren auszuscheiden. Der Selleriesaft erlebte in den letzten Jahren einen regelrechten Hype -- und das zu Recht, denn er wirkt entzündungshemmend, nervenstärkend und harntreibend.
+Besonders hervorzuheben ist die basische Wirkung des Selleries: Er zählt zu den stärksten basischen Lebensmitteln überhaupt und hilft dem Körper, überschüssige Säuren auszuscheiden. Der Selleriesaft erlebte in den letzten Jahren einen regelrechten Hype, und das zu Recht, denn er wirkt entzündungshemmend, nervenstärkend und harntreibend.
 
-Die in Sellerie enthaltenen Phthalide senken den Blutdruck, indem sie die glatte Gefäßmuskulatur entspannen. Gleichzeitig unterstützt er die Nierenfunktion und fördert die Ausscheidung von Harnsäure -- ein Segen bei Gicht und rheumatischen Beschwerden.`,
-    geschichte: `Im alten Ägypten und Griechenland galt Sellerie als heilige Pflanze. Die Griechen bekränzten ihre Sieger mit Selleriekränzen, und Homer erwähnte den Sellerie in der Odyssee. Hippokrates empfahl Sellerie als Nervenberuhigungsmittel. Im Mittelalter war Sellerie als Aphrodisiakum bekannt -- Karl der Große ließ ihn in seinen Gärten anbauen. In der Klostermedizin wurde er bei Blasensteinen und Verdauungsschwäche eingesetzt.`,
+Die in Sellerie enthaltenen Phthalide senken den Blutdruck, indem sie die glatte Gefäßmuskulatur entspannen. Gleichzeitig unterstützt er die Nierenfunktion und fördert die Ausscheidung von Harnsäure, ein Segen bei Gicht und rheumatischen Beschwerden.`,
+    geschichte: `Im alten Ägypten und Griechenland galt Sellerie als heilige Pflanze. Die Griechen bekränzten ihre Sieger mit Selleriekränzen, und Homer erwähnte den Sellerie in der Odyssee. Hippokrates empfahl Sellerie als Nervenberuhigungsmittel. Im Mittelalter war Sellerie als Aphrodisiakum bekannt: Karl der Große ließ ihn in seinen Gärten anbauen. In der Klostermedizin wurde er bei Blasensteinen und Verdauungsschwäche eingesetzt.`,
     wirkungen: {
       hauptwirkungen: ['Entsäuernd (basisch)', 'Harntreibend', 'Blutdrucksenkend', 'Entzündungshemmend', 'Nervenstärkend', 'Verdauungsfördernd', 'Entgiftend'],
       inhaltsstoffe: ['Ätherisches Öl (Limonen, Selinen)', 'Phthalide', 'Apigenin', 'Luteolin', 'Cumarine', 'Vitamin C', 'Vitamin K', 'Kalium', 'Natrium', 'Folsäure'],
@@ -648,18 +648,18 @@ Die in Sellerie enthaltenen Phthalide senken den Blutdruck, indem sie die glatte
   'Sonnentau': {
     vollname: 'Rundblättriger Sonnentau (Drosera rotundifolia)',
     familie: 'Sonnentaugewächse (Droseraceae)',
-    beschreibung: `Der Sonnentau ist eine faszinierende fleischfressende Pflanze, die in Hochmooren und nassen Heiden wächst. Seine kleinen, rosettenförmigen Blätter sind mit klebrigen, tautropfenähnlichen Drüsenhaaren besetzt, die in der Sonne wie Juwelen funkeln -- daher sein Name. Diese "Tautropfen" fangen kleine Insekten, die der Pflanze als Stickstoffquelle dienen.
+    beschreibung: `Der Sonnentau ist eine faszinierende fleischfressende Pflanze, die in Hochmooren und nassen Heiden wächst. Seine kleinen, rosettenförmigen Blätter sind mit klebrigen, tautropfenähnlichen Drüsenhaaren besetzt, die in der Sonne wie Juwelen funkeln, daher sein Name. Diese "Tautropfen" fangen kleine Insekten, die der Pflanze als Stickstoffquelle dienen.
 
-Was Insekten fängt, löst auch Schleim: Die im Sonnentau enthaltenen Naphthochinone -- insbesondere Plumbagin -- wirken stark krampflösend auf die Bronchialmuskulatur und beruhigen den Hustenreiz. Daher ist der Sonnentau eines der besten Mittel bei Reizhusten, Keuchhusten und spastischer Bronchitis.
+Was Insekten fängt, löst auch Schleim: Die im Sonnentau enthaltenen Naphthochinone, insbesondere Plumbagin, wirken stark krampflösend auf die Bronchialmuskulatur und beruhigen den Hustenreiz. Daher ist der Sonnentau eines der besten Mittel bei Reizhusten, Keuchhusten und spastischer Bronchitis.
 
 Der Sonnentau ist streng geschützt und darf nicht wild gesammelt werden. Für die Arzneimittelherstellung wird er heute kultiviert. In der Apotheke sind Sonnentau-Präparate als Tropfen und Sirup erhältlich.`,
-    geschichte: `Im 12. Jahrhundert empfahl die Äbtissin Hildegard von Bingen den Sonnentau als Hustenmittel. Im 16. Jahrhundert beschrieb der Arzt Leonhart Fuchs seine Wirkung bei "Brustkrankheiten". Die Alchemisten waren fasziniert von den glitzernden Tröpfchen und nannten die Pflanze "Ros solis" -- Sonnentau -- und destillierten daraus einen Likör. In der Volksmedizin galt Sonnentau als Mittel gegen Keuchhusten und Asthma.`,
+    geschichte: `Im 12. Jahrhundert empfahl die Äbtissin Hildegard von Bingen den Sonnentau als Hustenmittel. Im 16. Jahrhundert beschrieb der Arzt Leonhart Fuchs seine Wirkung bei "Brustkrankheiten". Die Alchemisten waren fasziniert von den glitzernden Tröpfchen und nannten die Pflanze "Ros solis": Sonnentau, und destillierten daraus einen Likör. In der Volksmedizin galt Sonnentau als Mittel gegen Keuchhusten und Asthma.`,
     wirkungen: {
       hauptwirkungen: ['Krampflösend (bronchial)', 'Hustenstillend', 'Antibakteriell', 'Entzündungshemmend', 'Sekretionsfördernd', 'Antivirial'],
       inhaltsstoffe: ['Naphthochinone (Plumbagin, Droseron)', 'Flavonoide', 'Ellagsäure', 'Ätherisches Öl', 'Anthocyanidine', 'Schleimstoffe', 'Enzyme'],
     },
     ernte: {
-      zeit: 'Der Sonnentau ist streng geschützt -- nicht wild sammeln!',
+      zeit: 'Der Sonnentau ist streng geschützt, nicht wild sammeln!',
       teile: 'Das gesamte blühende Kraut (nur aus Kultivierung).',
       tipps: 'Ausschließlich Fertigpräparate aus der Apotheke verwenden. Der Wildbestand ist in ganz Europa gefährdet.',
       mond: 'Nicht relevant, da nur kultivierte Pflanzen für die Arzneimittelproduktion verwendet werden.',
@@ -684,7 +684,7 @@ Der Sonnentau ist streng geschützt und darf nicht wild gesammelt werden. Für d
     mischungen: ['Reizhustentee (mit Eibisch und Malve)', 'Bronchialtee (mit Thymian und Spitzwegerich)', 'Kinderhustensaft (mit Efeu und Honig)'],
     tcm: 'Der Sonnentau kühlt Lungen-Hitze, stillt Husten und transformiert heißen Schleim. Er wirkt auf den Lungen-Meridian.',
     ayurveda: 'Der Sonnentau reduziert überschüssiges Kapha in den Atemwegen und beruhigt Vata-bedingten Krampfhusten. Er hat eine leicht scharfe und bittere Qualität.',
-    volksmedizin: 'In der Alpenvolksmedizin war Sonnentau-Schnaps ein geschätztes Hustenmittel. In Skandinavien legte man die Pflanze in Milch, um sie haltbar zu machen -- die antibakteriellen Naphthochinone konservierten tatsächlich. Fischer trugen Sonnentau bei sich als Schutz gegen Seekrankheit.',
+    volksmedizin: 'In der Alpenvolksmedizin war Sonnentau-Schnaps ein geschätztes Hustenmittel. In Skandinavien legte man die Pflanze in Milch, um sie haltbar zu machen, die antibakteriellen Naphthochinone konservierten tatsächlich. Fischer trugen Sonnentau bei sich als Schutz gegen Seekrankheit.',
     besonders_bei: ['reizhusten', 'keuchhusten', 'bronchitis', 'asthma', 'husten', 'bronchialkrampf'],
   },
 
@@ -694,12 +694,12 @@ Der Sonnentau ist streng geschützt und darf nicht wild gesammelt werden. Für d
   'Spargel': {
     vollname: 'Spargel (Asparagus officinalis)',
     familie: 'Spargelgewächse (Asparagaceae)',
-    beschreibung: `Der Spargel ist nicht nur ein edles Gemüse, sondern auch eine altbewährte Heilpflanze. Sein lateinischer Artname "officinalis" verrät, dass er einst zur festen Ausstattung jeder Apotheke gehörte. Besonders die Spargelwurzel -- weniger die Stangen -- enthält eine Fülle an harntreibenden und entgiftenden Wirkstoffen.
+    beschreibung: `Der Spargel ist nicht nur ein edles Gemüse, sondern auch eine altbewährte Heilpflanze. Sein lateinischer Artname "officinalis" verrät, dass er einst zur festen Ausstattung jeder Apotheke gehörte. Besonders die Spargelwurzel, weniger die Stangen, enthält eine Fülle an harntreibenden und entgiftenden Wirkstoffen.
 
 Die starke entwässernde Wirkung des Spargels kennt jeder, der nach einer Spargelmahlzeit den charakteristischen Geruch beim Wasserlassen bemerkt. Verantwortlich dafür ist die Asparagusinsäure, die im Körper zu schwefelhaltigen Abbauprodukten verstoffwechselt wird. Diese Entwässerung entlastet Nieren, Blase und das gesamte Lymphsystem.
 
-Spargel enthält zudem reichlich Folsäure, Kalium und Saponine. In der ayurvedischen Medizin zählt Shatavari -- der wilde indische Spargel -- zu den wichtigsten Rasayana-Pflanzen für die Frau.`,
-    geschichte: `Bereits die alten Ägypter kultivierten Spargel vor über 4.000 Jahren. In Griechenland und Rom galt er als Delikatesse und Heilmittel zugleich -- Hippokrates empfahl ihn bei Durchfall, Dioskurides bei Nierenleiden. Kaiser Augustus prägte den Ausdruck "citius quam asparagi coquantur" -- schneller als Spargel gekocht wird -- als Redewendung für Eile. Im Mittelalter wurde Spargel in Klostergärten kultiviert und als Heilpflanze für die Nieren geschätzt.`,
+Spargel enthält zudem reichlich Folsäure, Kalium und Saponine. In der ayurvedischen Medizin zählt Shatavari, der wilde indische Spargel, zu den wichtigsten Rasayana-Pflanzen für die Frau.`,
+    geschichte: `Bereits die alten Ägypter kultivierten Spargel vor über 4.000 Jahren. In Griechenland und Rom galt er als Delikatesse und Heilmittel zugleich: Hippokrates empfahl ihn bei Durchfall, Dioskurides bei Nierenleiden. Kaiser Augustus prägte den Ausdruck "citius quam asparagi coquantur", schneller als Spargel gekocht wird, als Redewendung für Eile. Im Mittelalter wurde Spargel in Klostergärten kultiviert und als Heilpflanze für die Nieren geschätzt.`,
     wirkungen: {
       hauptwirkungen: ['Stark harntreibend', 'Entgiftend', 'Entwässernd', 'Blutreinigend', 'Stoffwechselanregend', 'Folsäurelieferant', 'Leberunterstützend'],
       inhaltsstoffe: ['Asparaginsäure', 'Asparagusinsäure', 'Saponine (Protodioscin)', 'Folsäure', 'Kalium', 'Vitamin K', 'Vitamin C', 'Rutin', 'Glutathion'],
@@ -707,7 +707,7 @@ Spargel enthält zudem reichlich Folsäure, Kalium und Saponine. In der ayurvedi
     ernte: {
       zeit: 'Stangen: April bis Juni (traditionell bis Johannistag, 24. Juni). Wurzeln: im Herbst.',
       teile: 'Stangen (als Gemüse), Wurzelstock (als Heilmittel), Samen.',
-      tipps: 'Weißer Spargel wird unter Erde gestochen, grüner wächst oberirdisch und enthält mehr Vitamine. Spargelwasser nicht wegschütten -- es enthält wertvolle Mineralstoffe.',
+      tipps: 'Weißer Spargel wird unter Erde gestochen, grüner wächst oberirdisch und enthält mehr Vitamine. Spargelwasser nicht wegschütten, es enthält wertvolle Mineralstoffe.',
       mond: 'Stangen bei zunehmendem Mond stechen, Wurzeln bei abnehmendem Mond graben.',
     },
     zubereitungen: [
@@ -719,18 +719,18 @@ Spargel enthält zudem reichlich Folsäure, Kalium und Saponine. In der ayurvedi
       {
         name: 'Spargelwasser',
         anleitung: 'Das Kochwasser von frischem Spargel auffangen und als Getränk über den Tag verteilt trinken.',
-        wirkung: 'Sanft harntreibend und mineralstoffreich -- ein einfaches Hausmittel in der Spargelsaison.',
+        wirkung: 'Sanft harntreibend und mineralstoffreich, ein einfaches Hausmittel in der Spargelsaison.',
       },
       {
         name: 'Spargel-Frühjahrskur',
-        anleitung: 'Während der Spargelsaison täglich frischen Spargel essen -- gedünstet oder als Salat. Dazu reichlich Wasser trinken.',
+        anleitung: 'Während der Spargelsaison täglich frischen Spargel essen, gedünstet oder als Salat. Dazu reichlich Wasser trinken.',
         wirkung: 'Natürliche Entschlackung, Entsäuerung und Nährstoffversorgung mit Folsäure und Kalium.',
       },
     ],
     mischungen: ['Entwässerungstee (mit Birke und Goldrute)', 'Nierentee (mit Quecke und Schachtelhalm)', 'Entgiftungstee (mit Löwenzahn und Brennnessel)'],
     tcm: 'Spargel nährt das Nieren-Yin, klärt Hitze und leitet Feuchtigkeit aus. Er befeuchtet die Lunge und stärkt die Essenz.',
-    ayurveda: 'Shatavari (wilder Spargel) ist eines der wichtigsten Rasayanas für Frauen. Er stärkt Ojas, nährt das Fortpflanzungssystem und gleicht Pitta und Vata aus. Der Name bedeutet "die hundert Männer hat" -- ein Hinweis auf seine fruchtbarkeitsfördernde Wirkung.',
-    volksmedizin: 'In der europäischen Volksmedizin galt Spargel als "Besendes Nierenkrauts" -- er "kehrt" die Nieren aus. Spargelkuren im Frühling gehörten zum festen Gesundheitsritual. Das Spargelkochwasser wurde aufbewahrt und als Entschlackungstrank getrunken.',
+    ayurveda: 'Shatavari (wilder Spargel) ist eines der wichtigsten Rasayanas für Frauen. Er stärkt Ojas, nährt das Fortpflanzungssystem und gleicht Pitta und Vata aus. Der Name bedeutet "die hundert Männer hat", ein Hinweis auf seine fruchtbarkeitsfördernde Wirkung.',
+    volksmedizin: 'In der europäischen Volksmedizin galt Spargel als "Besendes Nierenkrauts", er "kehrt" die Nieren aus. Spargelkuren im Frühling gehörten zum festen Gesundheitsritual. Das Spargelkochwasser wurde aufbewahrt und als Entschlackungstrank getrunken.',
     besonders_bei: ['wassereinlagerungen', 'niere', 'blase', 'entgiftung', 'uebersaeuerung', 'gicht', 'folsaeuremangel'],
   },
 
@@ -738,14 +738,14 @@ Spargel enthält zudem reichlich Folsäure, Kalium und Saponine. In der ayurvedi
   // 17. STEVIA
   // ═══════════════════════════════════════════════════════════════════════════
   'Stevia': {
-    vollname: 'Stevia -- Süßkraut (Stevia rebaudiana)',
+    vollname: 'Stevia: Süßkraut (Stevia rebaudiana)',
     familie: 'Korbblütler (Asteraceae)',
-    beschreibung: `Stevia ist das natürliche Süßwunder: Die Blätter dieser unscheinbaren südamerikanischen Pflanze sind 30- bis 40-mal süßer als Zucker -- und das ganz ohne Kalorien und ohne den Blutzuckerspiegel zu beeinflussen. Die Steviolglycoside, die für die intensive Süße verantwortlich sind, werden vom Körper nicht verstoffwechselt und einfach wieder ausgeschieden.
+    beschreibung: `Stevia ist das natürliche Süßwunder: Die Blätter dieser unscheinbaren südamerikanischen Pflanze sind 30- bis 40-mal süßer als Zucker, und das ganz ohne Kalorien und ohne den Blutzuckerspiegel zu beeinflussen. Die Steviolglycoside, die für die intensive Süße verantwortlich sind, werden vom Körper nicht verstoffwechselt und einfach wieder ausgeschieden.
 
-Für Diabetiker und Menschen, die ihren Zuckerkonsum reduzieren möchten, ist Stevia ein wahrer Segen. Anders als synthetische Süßstoffe handelt es sich um ein natürliches Pflanzenprodukt, das seit Jahrhunderten verwendet wird -- ohne bekannte Nebenwirkungen.
+Für Diabetiker und Menschen, die ihren Zuckerkonsum reduzieren möchten, ist Stevia ein wahrer Segen. Anders als synthetische Süßstoffe handelt es sich um ein natürliches Pflanzenprodukt, das seit Jahrhunderten verwendet wird, ohne bekannte Nebenwirkungen.
 
 Über die Süßkraft hinaus hat Stevia auch heilende Eigenschaften: Die Blätter wirken blutdrucksenkend, antimikrobiell und zahnfreundlich. In Südamerika wird Stevia traditionell auch bei Sodbrennen und Hautproblemen eingesetzt.`,
-    geschichte: `Die Guarani-Indianer in Paraguay und Brasilien verwenden Stevia seit Jahrhunderten als Süssungsmittel und Heilpflanze -- sie nennen sie "Ka'a He'e" (süßes Kraut). Der Schweizer Botaniker Moisés Bertoni beschrieb die Pflanze 1899 erstmals wissenschaftlich. In Japan wird Stevia seit den 1970er Jahren großflächig als Zuckerersatz eingesetzt. In Europa wurde es erst 2011 als Lebensmittelzusatz zugelassen -- nach jahrzehntelangem Kampf gegen die Zuckerlobby.`,
+    geschichte: `Die Guarani-Indianer in Paraguay und Brasilien verwenden Stevia seit Jahrhunderten als Süssungsmittel und Heilpflanze, sie nennen sie "Ka'a He'e" (süßes Kraut). Der Schweizer Botaniker Moisés Bertoni beschrieb die Pflanze 1899 erstmals wissenschaftlich. In Japan wird Stevia seit den 1970er Jahren großflächig als Zuckerersatz eingesetzt. In Europa wurde es erst 2011 als Lebensmittelzusatz zugelassen, nach jahrzehntelangem Kampf gegen die Zuckerlobby.`,
     wirkungen: {
       hauptwirkungen: ['Natürlich süßend (kalorienfrei)', 'Blutzuckerneutral', 'Blutdrucksenkend', 'Antimikrobiell', 'Zahnfreundlich (antikariogen)', 'Entzündungshemmend'],
       inhaltsstoffe: ['Steviolglycosid', 'Rebaudiosid A', 'Steviosid', 'Flavonoide', 'Terpene', 'Chlorophyll', 'Vitamin C', 'Eisen', 'Kalzium'],
@@ -753,19 +753,19 @@ Für Diabetiker und Menschen, die ihren Zuckerkonsum reduzieren möchten, ist St
     ernte: {
       zeit: 'Blätter von Juni bis September, vor der Blüte ist der Süßgehalt am höchsten.',
       teile: 'Blätter.',
-      tipps: 'Stevia lässt sich gut im Topf auf der Fensterbank ziehen. Blätter vor der Blüte ernten und trocknen -- dann sind sie am süßesten. Getrocknete Blätter zu Pulver mahlen.',
+      tipps: 'Stevia lässt sich gut im Topf auf der Fensterbank ziehen. Blätter vor der Blüte ernten und trocknen, dann sind sie am süßesten. Getrocknete Blätter zu Pulver mahlen.',
       mond: 'Bei zunehmendem Mond in Blattzeichen (Krebs, Skorpion, Fische) ernten.',
     },
     zubereitungen: [
       {
         name: 'Stevia-Blätter im Tee',
         anleitung: '1-2 frische oder getrocknete Steviablätter zum Kräutertee hinzugeben. Mitziehen lassen. Kein zusätzlicher Zucker oder Honig nötig.',
-        wirkung: 'Natürliche Süße ohne Kalorien -- ideal für Diabetiker und bei Gewichtsreduktion.',
+        wirkung: 'Natürliche Süße ohne Kalorien, ideal für Diabetiker und bei Gewichtsreduktion.',
       },
       {
         name: 'Stevia-Sirup (selbstgemacht)',
         anleitung: 'Eine Handvoll frische Steviablätter mit 250ml Wasser aufkochen, 20 Minuten zugedeckt ziehen lassen, abseihen. Kühl aufbewahren. Tropfenweise zum Süßen verwenden.',
-        wirkung: 'Vielseitig einsetzbar zum Süßen von Getränken, Desserts und Müsli -- ohne Blutzuckerspitzen.',
+        wirkung: 'Vielseitig einsetzbar zum Süßen von Getränken, Desserts und Müsli, ohne Blutzuckerspitzen.',
       },
       {
         name: 'Stevia-Gesichtswasser',
@@ -774,9 +774,9 @@ Für Diabetiker und Menschen, die ihren Zuckerkonsum reduzieren möchten, ist St
       },
     ],
     mischungen: ['Diabetiker-Tee (mit Bockshornklee und Zimt)', 'Süßer Kräutertee (mit Minze und Zitronenmelisse)', 'Detox-Tee (mit Brennnessel und Löwenzahn)'],
-    tcm: 'Stevia hat eine süße, kühlende Qualität. Es stärkt das Milz-Qi, ohne Feuchtigkeit zu erzeugen -- eine seltene Eigenschaft unter süßen Substanzen.',
-    ayurveda: 'Stevia hat einen süßen Geschmack (Madhura Rasa) mit kühlender Wirkung (Sheeta Virya). Es reduziert Pitta, ohne Kapha zu erhöhen -- ideal für Pitta-Konstitutionen mit Süßhunger.',
-    volksmedizin: 'Die Guarani verwenden Stevia nicht nur als Süßmittel, sondern auch als Herztonikum und bei Magenbeschwerden. In Paraguay kauen Kinder Steviablätter wie Süßigkeiten -- eine gesunde Nascherei, die gleichzeitig die Zähne schützt.',
+    tcm: 'Stevia hat eine süße, kühlende Qualität. Es stärkt das Milz-Qi, ohne Feuchtigkeit zu erzeugen, eine seltene Eigenschaft unter süßen Substanzen.',
+    ayurveda: 'Stevia hat einen süßen Geschmack (Madhura Rasa) mit kühlender Wirkung (Sheeta Virya). Es reduziert Pitta, ohne Kapha zu erhöhen, ideal für Pitta-Konstitutionen mit Süßhunger.',
+    volksmedizin: 'Die Guarani verwenden Stevia nicht nur als Süßmittel, sondern auch als Herztonikum und bei Magenbeschwerden. In Paraguay kauen Kinder Steviablätter wie Süßigkeiten, eine gesunde Nascherei, die gleichzeitig die Zähne schützt.',
     besonders_bei: ['diabetes', 'uebergewicht', 'bluthochdruck', 'zucker_reduktion', 'haut', 'sodbrennen'],
   },
 
@@ -786,19 +786,19 @@ Für Diabetiker und Menschen, die ihren Zuckerkonsum reduzieren möchten, ist St
   'Stockrose': {
     vollname: 'Stockrose (Alcea rosea)',
     familie: 'Malvengewächse (Malvaceae)',
-    beschreibung: `Die Stockrose ist die majestätische Verwandte der Malve -- sie wächst bis zu zwei Meter hoch und schmückt mit ihren großen, samtig-weichen Blüten Bauerngärten und Hauswände. Besonders die dunkelroten bis schwarzen Sorten (Schwarze Malve) werden in der Heilkunde geschätzt, da sie den höchsten Gehalt an Schleimstoffen und Anthocyanen aufweisen.
+    beschreibung: `Die Stockrose ist die majestätische Verwandte der Malve, sie wächst bis zu zwei Meter hoch und schmückt mit ihren großen, samtig-weichen Blüten Bauerngärten und Hauswände. Besonders die dunkelroten bis schwarzen Sorten (Schwarze Malve) werden in der Heilkunde geschätzt, da sie den höchsten Gehalt an Schleimstoffen und Anthocyanen aufweisen.
 
-Wie alle Malvengewächse ist die Stockrose eine ausgesprochene Schleimhautpflanze. Ihre Blüten enthalten reichlich Schleimstoffe, die sich wie ein schützender Film über gereizte Schleimhäute legen -- im Mund, im Rachen, im Magen und im Darm. Dazu kommen Anthocyane, die dem Tee seine schöne dunkle Farbe verleihen und starke antioxidative Eigenschaften besitzen.
+Wie alle Malvengewächse ist die Stockrose eine ausgesprochene Schleimhautpflanze. Ihre Blüten enthalten reichlich Schleimstoffe, die sich wie ein schützender Film über gereizte Schleimhäute legen, im Mund, im Rachen, im Magen und im Darm. Dazu kommen Anthocyane, die dem Tee seine schöne dunkle Farbe verleihen und starke antioxidative Eigenschaften besitzen.
 
-Die Stockrose ist sanft und umhüllend -- sie schützt, was verletzlich ist. Kinder mögen ihren milden, leicht süßlichen Geschmack und die faszinierende Farbe des Tees.`,
-    geschichte: `Die Stockrose stammt vermutlich aus dem östlichen Mittelmeerraum und gelangte über die Kreuzzüge nach Mitteleuropa. Im Mittelalter war sie eine beliebte Klostergartenpflanze und wurde als Heilmittel bei Husten, Heiserkeit und Durchfall verwendet. Die Schwarze Malve diente auch als natürlicher Farbstoff für Wein und Lebensmittel. In der Bauerngartentradition gilt die Stockrose als Glücksbringer -- wo sie wächst, herrscht Frieden im Haus.`,
+Die Stockrose ist sanft und umhüllend, sie schützt, was verletzlich ist. Kinder mögen ihren milden, leicht süßlichen Geschmack und die faszinierende Farbe des Tees.`,
+    geschichte: `Die Stockrose stammt vermutlich aus dem östlichen Mittelmeerraum und gelangte über die Kreuzzüge nach Mitteleuropa. Im Mittelalter war sie eine beliebte Klostergartenpflanze und wurde als Heilmittel bei Husten, Heiserkeit und Durchfall verwendet. Die Schwarze Malve diente auch als natürlicher Farbstoff für Wein und Lebensmittel. In der Bauerngartentradition gilt die Stockrose als Glücksbringer, wo sie wächst, herrscht Frieden im Haus.`,
     wirkungen: {
       hauptwirkungen: ['Schleimhautschützend', 'Reizlindernd', 'Entzündungshemmend', 'Antioxidativ', 'Hustenlindernd', 'Adstringierend'],
       inhaltsstoffe: ['Schleimstoffe', 'Anthocyane (Malvidin)', 'Gerbstoffe', 'Flavonoide', 'Pektine', 'Ätherisches Öl'],
     },
     ernte: {
       zeit: 'Blüten von Juni bis September, am besten einzeln pflücken, wenn sie gerade aufgeblüht sind.',
-      teile: 'Blütenblätter -- besonders die dunklen Sorten.',
+      teile: 'Blütenblätter, besonders die dunklen Sorten.',
       tipps: 'Am Morgen pflücken, wenn die Blüten frisch geöffnet sind. Schnell und schonend im Schatten trocknen, damit die Farbe erhalten bleibt.',
       mond: 'Bei zunehmendem Mond in Blütenzeichen (Waage, Zwillinge) pflücken.',
     },
@@ -832,12 +832,12 @@ Die Stockrose ist sanft und umhüllend -- sie schützt, was verletzlich ist. Kin
   'Tamarinde': {
     vollname: 'Tamarinde (Tamarindus indica)',
     familie: 'Hülsenfrüchtler (Fabaceae)',
-    beschreibung: `Die Tamarinde ist ein mächtiger tropischer Baum, dessen braunschalige Hülsenfrüchte ein süß-saures, dattelpflaumartiges Fruchtmark enthalten. Dieses Fruchtmark ist in der asiatischen, afrikanischen und südamerikanischen Küche und Heilkunde seit Jahrtausenden unverzichtbar -- als Gewürz, Heilmittel und natürliches Abführmittel.
+    beschreibung: `Die Tamarinde ist ein mächtiger tropischer Baum, dessen braunschalige Hülsenfrüchte ein süß-saures, dattelpflaumartiges Fruchtmark enthalten. Dieses Fruchtmark ist in der asiatischen, afrikanischen und südamerikanischen Küche und Heilkunde seit Jahrtausenden unverzichtbar, als Gewürz, Heilmittel und natürliches Abführmittel.
 
-Die Tamarinde ist reich an Fruchtsäuren, insbesondere Weinsäure, die ihr den charakteristisch sauren Geschmack verleiht. Dazu kommen Pektine, Zucker und eine überraschend hohe Menge an Mineralstoffen. Ihre sanft abführende Wirkung macht sie zu einem milden, natürlichen Mittel bei Verstopfung -- besonders für Kinder und ältere Menschen geeignet.
+Die Tamarinde ist reich an Fruchtsäuren, insbesondere Weinsäure, die ihr den charakteristisch sauren Geschmack verleiht. Dazu kommen Pektine, Zucker und eine überraschend hohe Menge an Mineralstoffen. Ihre sanft abführende Wirkung macht sie zu einem milden, natürlichen Mittel bei Verstopfung, besonders für Kinder und ältere Menschen geeignet.
 
 Darüber hinaus besitzt die Tamarinde starke antioxidative Eigenschaften und unterstützt die Leberfunktion. In der indischen Medizin gilt sie als fiebersenkend, verdauungsfördernd und als Mittel gegen Übelkeit.`,
-    geschichte: `Der Name "Tamarinde" leitet sich vom arabischen "tamr hindi" ab -- "indische Dattel". Arabische Händler brachten die Frucht aus Indien nach Europa und Afrika. In der ayurvedischen Medizin wird die Tamarinde seit über 3.000 Jahren als Verdauungshilfe und Fiebermittel eingesetzt. In Ägypten fand man Tamarindensamen in Pharaonengräbern. In der Karibik und in Südamerika ist Tamarindenwasser ("Agua de Tamarindo") bis heute eines der beliebtesten Erfrischungsgetränke.`,
+    geschichte: `Der Name "Tamarinde" leitet sich vom arabischen "tamr hindi" ab, "indische Dattel". Arabische Händler brachten die Frucht aus Indien nach Europa und Afrika. In der ayurvedischen Medizin wird die Tamarinde seit über 3.000 Jahren als Verdauungshilfe und Fiebermittel eingesetzt. In Ägypten fand man Tamarindensamen in Pharaonengräbern. In der Karibik und in Südamerika ist Tamarindenwasser ("Agua de Tamarindo") bis heute eines der beliebtesten Erfrischungsgetränke.`,
     wirkungen: {
       hauptwirkungen: ['Mild abführend', 'Fiebersenkend', 'Verdauungsfördernd', 'Antioxidativ', 'Leberunterstützend', 'Appetitanregend', 'Entzündungshemmend'],
       inhaltsstoffe: ['Weinsäure', 'Zitronensäure', 'Äpfelsäure', 'Pektine', 'Zucker', 'Kalium', 'Magnesium', 'Phosphor', 'Eisen', 'Vitamin B1', 'Vitamin C'],
@@ -845,7 +845,7 @@ Darüber hinaus besitzt die Tamarinde starke antioxidative Eigenschaften und unt
     ernte: {
       zeit: 'Die Hülsen reifen in den Tropen je nach Region ganzjährig, Haupternte im Frühjahr.',
       teile: 'Fruchtmark (Pulpa), Blätter, Rinde.',
-      tipps: 'Reife Schoten haben eine spröde, braune Schale und ein dunkles, klebriges Fruchtmark. Tamarindenpaste ist in Asialäden erhältlich. Auf Zusatzstoffe achten -- reine Paste bevorzugen.',
+      tipps: 'Reife Schoten haben eine spröde, braune Schale und ein dunkles, klebriges Fruchtmark. Tamarindenpaste ist in Asialäden erhältlich. Auf Zusatzstoffe achten, reine Paste bevorzugen.',
       mond: 'In den Tropen traditionell bei abnehmendem Mond geerntet.',
     },
     zubereitungen: [
@@ -868,7 +868,7 @@ Darüber hinaus besitzt die Tamarinde starke antioxidative Eigenschaften und unt
     mischungen: ['Verdauungstrunk (mit Ingwer und Kreuzkümmel)', 'Fiebertee (mit Holunder und Lindenblüten)', 'Erfrischungstrank (mit Hibiskus und Minze)'],
     tcm: 'Die Tamarinde ist sauer und kühlend. Sie erzeugt Körperflüssigkeiten, stillt Durst und klärt Hitze. Sie wirkt auf den Magen- und Dickdarm-Meridian.',
     ayurveda: 'Die Tamarinde (Imli/Amlika) hat einen sauren Geschmack (Amla Rasa) und eine wärmende Wirkung. Sie fördert Agni, reduziert Vata und kann Pitta und Kapha bei übermäßigem Gebrauch erhöhen.',
-    volksmedizin: 'In Afrika und Asien ist Tamarindenwasser ein universelles Hausmittel gegen Fieber und Verdauungsprobleme. In Indien geben Mütter ihren Kindern Tamarinden-Honig-Paste bei Bauchschmerzen. In der Karibik ist "Tamarind Ball" -- Tamarindenpaste mit Zucker gerollt -- ein beliebtes Hausmittel und Naschwerk zugleich.',
+    volksmedizin: 'In Afrika und Asien ist Tamarindenwasser ein universelles Hausmittel gegen Fieber und Verdauungsprobleme. In Indien geben Mütter ihren Kindern Tamarinden-Honig-Paste bei Bauchschmerzen. In der Karibik ist "Tamarind Ball": Tamarindenpaste mit Zucker gerollt, ein beliebtes Hausmittel und Naschwerk zugleich.',
     besonders_bei: ['verstopfung', 'verdauung', 'fieber', 'appetitlosigkeit', 'uebelkeit', 'leber', 'hitze'],
   },
 
@@ -878,12 +878,12 @@ Darüber hinaus besitzt die Tamarinde starke antioxidative Eigenschaften und unt
   'Tanne': {
     vollname: 'Weisstanne (Abies alba)',
     familie: 'Kieferngewächse (Pinaceae)',
-    beschreibung: `Die Tanne ist ein Baum der Stille und der Kraft -- majestätisch, aufrecht und tief verwurzelt. Ihr Harz, ihre Nadeln und ihre jungen Triebe bergen eine Fülle an ätherischen Ölen, die besonders wohltuend auf die Atemwege wirken. Wer einen Tannenwald betritt, spürt sofort, wie sich die Lungen weiten und die Atmung tiefer wird.
+    beschreibung: `Die Tanne ist ein Baum der Stille und der Kraft, majestätisch, aufrecht und tief verwurzelt. Ihr Harz, ihre Nadeln und ihre jungen Triebe bergen eine Fülle an ätherischen Ölen, die besonders wohltuend auf die Atemwege wirken. Wer einen Tannenwald betritt, spürt sofort, wie sich die Lungen weiten und die Atmung tiefer wird.
 
-Das ätherische Tannenöl enthält reichlich Bornylacetat und Pinen -- Substanzen, die antibakteriell wirken, Schleim lösen und die Durchblutung fördern. Tannenharz (Balsam) hat wundheilende und desinfizierende Eigenschaften und wurde seit jeher als natürliches Pflaster verwendet.
+Das ätherische Tannenöl enthält reichlich Bornylacetat und Pinen: Substanzen, die antibakteriell wirken, Schleim lösen und die Durchblutung fördern. Tannenharz (Balsam) hat wundheilende und desinfizierende Eigenschaften und wurde seit jeher als natürliches Pflaster verwendet.
 
-Die jungen, hellgrünen Triebspitzen im Mai -- die sogenannten Maiwipfel -- sind ein wahres Vitamin-C-Wunder und die Grundlage des beliebten Tannenspitzen-Honigs, der bei Husten und Erkältungen wahre Wunder wirkt.`,
-    geschichte: `Die Tanne war den Kelten und Germanen heilig -- sie galt als Weltenbaum, der Himmel und Erde verbindet. Ihr immegrünes Kleid machte sie zum Symbol der ewigen Lebenskraft. Die Druiden verbrannten Tannenharz in ihren Ritualen, um die Luft zu reinigen und die Geister zu besänftigen. In der Volksmedizin war Tannenharz ein unverzichtbares Wundmittel für Waldarbeiter und Hirten. Sebastian Kneipp empfahl Tannenbäder bei Rheuma, Gicht und Erschöpfung.`,
+Die jungen, hellgrünen Triebspitzen im Mai, die sogenannten Maiwipfel, sind ein wahres Vitamin-C-Wunder und die Grundlage des beliebten Tannenspitzen-Honigs, der bei Husten und Erkältungen wahre Wunder wirkt.`,
+    geschichte: `Die Tanne war den Kelten und Germanen heilig, sie galt als Weltenbaum, der Himmel und Erde verbindet. Ihr immegrünes Kleid machte sie zum Symbol der ewigen Lebenskraft. Die Druiden verbrannten Tannenharz in ihren Ritualen, um die Luft zu reinigen und die Geister zu besänftigen. In der Volksmedizin war Tannenharz ein unverzichtbares Wundmittel für Waldarbeiter und Hirten. Sebastian Kneipp empfahl Tannenbäder bei Rheuma, Gicht und Erschöpfung.`,
     wirkungen: {
       hauptwirkungen: ['Schleimlösend', 'Antibakteriell', 'Durchblutungsfördernd', 'Wundheilend', 'Atemwegsbefreiend', 'Immunstärkend', 'Schmerzlindernd'],
       inhaltsstoffe: ['Ätherisches Öl (Bornylacetat, Pinen, Limonen)', 'Harz (Abietinsäure)', 'Terpene', 'Vitamin C (in Triebspitzen)', 'Gerbstoffe', 'Flavonoide'],
@@ -891,7 +891,7 @@ Die jungen, hellgrünen Triebspitzen im Mai -- die sogenannten Maiwipfel -- sind
     ernte: {
       zeit: 'Triebspitzen (Maiwipfel): Mai. Harz: ganzjährig (nur austretendes Harz sammeln). Nadeln: ganzjährig.',
       teile: 'Junge Triebspitzen, Nadeln, Harz.',
-      tipps: 'Maiwipfel nur von den unteren Ästen pflücken und nie zu viel von einem Baum nehmen. Harz nur sammeln, wo es natürlich ausgetreten ist -- nie den Baum verletzen. Auf die richtige Baumart achten: Tannennadeln haben zwei weiße Streifen auf der Unterseite.',
+      tipps: 'Maiwipfel nur von den unteren Ästen pflücken und nie zu viel von einem Baum nehmen. Harz nur sammeln, wo es natürlich ausgetreten ist, nie den Baum verletzen. Auf die richtige Baumart achten: Tannennadeln haben zwei weiße Streifen auf der Unterseite.',
       mond: 'Maiwipfel bei zunehmendem Mond ernten, Harz bei abnehmendem Mond sammeln.',
     },
     zubereitungen: [
@@ -914,7 +914,7 @@ Die jungen, hellgrünen Triebspitzen im Mai -- die sogenannten Maiwipfel -- sind
     mischungen: ['Atemtee (mit Thymian und Spitzwegerich)', 'Erkältungsbad (mit Eukalyptus und Lavendel)', 'Waldbad-Mischung (mit Fichte und Latschenkiefer)'],
     tcm: 'Die Tanne wärmt die Lunge, vertreibt Wind-Kälte und löst Schleim. Ihr Harz bewegt das Blut und löst Stagnation.',
     ayurveda: 'Die Tanne hat eine wärmende, scharfe Qualität. Sie reduziert Kapha in den Atemwegen und beruhigt Vata. Das Harz reinigt und entgiftet.',
-    volksmedizin: 'Waldarbeiter und Hirten kauten Tannenharz wie Kaugummi -- es reinigte die Zähne und stärkte das Zahnfleisch. Bei Verletzungen wurde frisches Harz direkt auf die Wunde aufgetragen. Tannenkissen (mit getrockneten Nadeln gefüllt) halfen bei Schlaflosigkeit und Atemwegsproblemen.',
+    volksmedizin: 'Waldarbeiter und Hirten kauten Tannenharz wie Kaugummi, es reinigte die Zähne und stärkte das Zahnfleisch. Bei Verletzungen wurde frisches Harz direkt auf die Wunde aufgetragen. Tannenkissen (mit getrockneten Nadeln gefüllt) halfen bei Schlaflosigkeit und Atemwegsproblemen.',
     besonders_bei: ['husten', 'erkaeltung', 'atemwege', 'muskelverspannung', 'rheuma', 'wundheilung', 'immunsystem'],
   },
 
@@ -922,21 +922,21 @@ Die jungen, hellgrünen Triebspitzen im Mai -- die sogenannten Maiwipfel -- sind
   // 21. TRAGANT
   // ═══════════════════════════════════════════════════════════════════════════
   'Tragant': {
-    vollname: 'Tragant -- Astragalus (Astragalus membranaceus)',
+    vollname: 'Tragant: Astragalus (Astragalus membranaceus)',
     familie: 'Hülsenfrüchtler (Fabaceae)',
-    beschreibung: `Der Tragant -- im Westen besser bekannt als Astragalus -- ist eine der bedeutendsten Heilpflanzen der Traditionellen Chinesischen Medizin. Seit über 2.000 Jahren wird seine Wurzel (Huang Qi) als kraftvolles Tonikum eingesetzt, das die Lebensenergie (Qi) stärkt und das Immunsystem auf eine Weise unterstützt, die in der westlichen Medizin ihresgleichen sucht.
+    beschreibung: `Der Tragant, im Westen besser bekannt als Astragalus, ist eine der bedeutendsten Heilpflanzen der Traditionellen Chinesischen Medizin. Seit über 2.000 Jahren wird seine Wurzel (Huang Qi) als kraftvolles Tonikum eingesetzt, das die Lebensenergie (Qi) stärkt und das Immunsystem auf eine Weise unterstützt, die in der westlichen Medizin ihresgleichen sucht.
 
-Moderne Forschung hat bestätigt, was die chinesische Medizin seit Jahrtausenden weiß: Astragalus enthält Polysaccharide, die das Immunsystem modulieren -- sie stärken eine schwache Abwehr und regulieren eine überschießende Immunantwort. Besonders bemerkenswert ist die Entdeckung von Cycloastragenol, einem Wirkstoff, der das Enzym Telomerase aktiviert und so möglicherweise die Zellalterung verlangsamt.
+Moderne Forschung hat bestätigt, was die chinesische Medizin seit Jahrtausenden weiß: Astragalus enthält Polysaccharide, die das Immunsystem modulieren, sie stärken eine schwache Abwehr und regulieren eine überschießende Immunantwort. Besonders bemerkenswert ist die Entdeckung von Cycloastragenol, einem Wirkstoff, der das Enzym Telomerase aktiviert und so möglicherweise die Zellalterung verlangsamt.
 
-Der Tragant ist ein Adaptogen -- eine Pflanze, die dem Körper hilft, sich an Stress anzupassen und sein Gleichgewicht zu finden. Er stärkt, ohne aufzuputschen, und schützt, ohne zu unterdrücken.`,
-    geschichte: `In der TCM wird Astragalus (Huang Qi) seit der Han-Dynastie (etwa 200 v. Chr.) verwendet. Er gilt als einer der "50 fundamentalen Kräuter" und wird in der ältesten chinesischen Arzneimittelschrift, dem Shen Nong Ben Cao Jing, als Pflanze der oberen Klasse aufgeführt -- das bedeutet, er kann langfristig ohne Nebenwirkungen eingenommen werden. In der modernen Forschung erregte Astragalus Aufsehen durch seine immunmodulierende und potentiell lebensverlängernde Wirkung.`,
+Der Tragant ist ein Adaptogen, eine Pflanze, die dem Körper hilft, sich an Stress anzupassen und sein Gleichgewicht zu finden. Er stärkt, ohne aufzuputschen, und schützt, ohne zu unterdrücken.`,
+    geschichte: `In der TCM wird Astragalus (Huang Qi) seit der Han-Dynastie (etwa 200 v. Chr.) verwendet. Er gilt als einer der "50 fundamentalen Kräuter" und wird in der ältesten chinesischen Arzneimittelschrift, dem Shen Nong Ben Cao Jing, als Pflanze der oberen Klasse aufgeführt, das bedeutet, er kann langfristig ohne Nebenwirkungen eingenommen werden. In der modernen Forschung erregte Astragalus Aufsehen durch seine immunmodulierende und potentiell lebensverlängernde Wirkung.`,
     wirkungen: {
       hauptwirkungen: ['Immunstärkend (immunmodulierend)', 'Adaptogen', 'Energiesteigernd', 'Antivirial', 'Leberschützend', 'Herzstärkend', 'Anti-Aging'],
       inhaltsstoffe: ['Astragaloside (Saponine)', 'Polysaccharide (Astragalane)', 'Cycloastragenol', 'Flavonoide', 'Aminosäuren', 'Spurenelemente (Selen)', 'Betain'],
     },
     ernte: {
       zeit: 'Wurzeln im Herbst des 4. bis 5. Jahres, wenn der Wirkstoffgehalt am höchsten ist.',
-      teile: 'Die getrocknete Wurzel -- sie wird in dünne Scheiben geschnitten.',
+      teile: 'Die getrocknete Wurzel, sie wird in dünne Scheiben geschnitten.',
       tipps: 'In Europa vor allem als getrocknete Wurzelscheiben oder als Pulver erhältlich. Gute Qualität erkennt man an dicken, festen, leicht süßlichen Wurzelscheiben mit gelbem Querschnitt.',
       mond: 'In der TCM-Tradition bei abnehmendem Mond in Erdzeichen geerntet.',
     },
@@ -960,7 +960,7 @@ Der Tragant ist ein Adaptogen -- eine Pflanze, die dem Körper hilft, sich an St
     mischungen: ['Immunstärkung (mit Echinacea und Holunder)', 'Qi-Tonikum (mit Ginseng und Süßholz)', 'Adaptogen-Mischung (mit Ashwagandha und Rosenwurz)'],
     tcm: 'Huang Qi ist das wichtigste Qi-Tonikum der TCM. Es stärkt das Wei-Qi (Abwehrenergie), hebt das Milz-Qi an und festigt die Oberfläche. Es wird bei Schwäche, Appetitlosigkeit, chronischer Müdigkeit und häufigen Erkältungen eingesetzt.',
     ayurveda: 'Astragalus stärkt Ojas (Immunkraft) und gleicht Vata und Kapha aus. Er hat eine süße, leicht wärmende Qualität und wird als Rasayana (Verjüngungsmittel) geschätzt.',
-    volksmedizin: 'In der chinesischen Volksmedizin wird Astragalus seit Generationen als "Suppen-Kraut" mitgekocht -- eine einfache, alltagstaugliche Weise, die Gesundheit der ganzen Familie zu stärken. In der westlichen Kräuterkunde wurde er erst in den letzten Jahrzehnten bekannt und wird zunehmend als eines der wichtigsten Adaptogene geschätzt.',
+    volksmedizin: 'In der chinesischen Volksmedizin wird Astragalus seit Generationen als "Suppen-Kraut" mitgekocht, eine einfache, alltagstaugliche Weise, die Gesundheit der ganzen Familie zu stärken. In der westlichen Kräuterkunde wurde er erst in den letzten Jahrzehnten bekannt und wird zunehmend als eines der wichtigsten Adaptogene geschätzt.',
     besonders_bei: ['immunsystem', 'erschoepfung', 'erkaeltung', 'stress', 'anti_aging', 'rekonvaleszenz', 'chronische_muedigkeit'],
   },
 
@@ -968,14 +968,14 @@ Der Tragant ist ein Adaptogen -- eine Pflanze, die dem Körper hilft, sich an St
   // 22. TULSI
   // ═══════════════════════════════════════════════════════════════════════════
   'Tulsi': {
-    vollname: 'Tulsi -- Heiliges Basilikum (Ocimum tenuiflorum)',
+    vollname: 'Tulsi: Heiliges Basilikum (Ocimum tenuiflorum)',
     familie: 'Lippenblütler (Lamiaceae)',
-    beschreibung: `Tulsi ist in Indien seit Jahrtausenden als "Königin der Kräuter" und "Das Unvergleichliche" verehrt -- kaum eine andere Pflanze genießt eine solche spirituelle und medizinische Bedeutung. In fast jedem hinduistischen Haushalt steht ein Tulsi-Strauch vor der Haustür oder im Innenhof, wo er als heilig gilt und täglich verehrt wird.
+    beschreibung: `Tulsi ist in Indien seit Jahrtausenden als "Königin der Kräuter" und "Das Unvergleichliche" verehrt, kaum eine andere Pflanze genießt eine solche spirituelle und medizinische Bedeutung. In fast jedem hinduistischen Haushalt steht ein Tulsi-Strauch vor der Haustür oder im Innenhof, wo er als heilig gilt und täglich verehrt wird.
 
 Die Heilkraft von Tulsi ist ebenso vielfältig wie tiefgreifend: Er wirkt als starkes Adaptogen, das den Körper gegen physischen, chemischen und emotionalen Stress wappnet. Seine ätherischen Öle (Eugenol, Linalool, Caryophyllen) wirken antibakteriell, antiviral und entzündungshemmend. Moderne Studien bestätigen seine blutdrucksenkende, blutzuckerregulierende und immunstärkende Wirkung.
 
-Tulsi beruhigt den Geist, klärt die Gedanken und fördert Sattva -- die Qualität von Klarheit, Reinheit und innerem Frieden. Er ist Medizin für Körper und Seele gleichermaßen.`,
-    geschichte: `In der hinduistischen Mythologie ist Tulsi eine Inkarnation der Göttin Lakshmi -- Göttin des Glücks, der Liebe und des Wohlstands. Seit über 5.000 Jahren wird Tulsi in der ayurvedischen Medizin als Rasayana (Verjüngungsmittel) eingesetzt. Der Name "Tulsi" bedeutet "die Unvergleichliche". In den vedischen Schriften heißt es, dass kein Gebet vollständig ist ohne Tulsi. Auch in der griechischen und römischen Medizin war Basilikum als Heilpflanze bekannt -- "Basilikum" leitet sich von "basileus" (König) ab.`,
+Tulsi beruhigt den Geist, klärt die Gedanken und fördert Sattva, die Qualität von Klarheit, Reinheit und innerem Frieden. Er ist Medizin für Körper und Seele gleichermaßen.`,
+    geschichte: `In der hinduistischen Mythologie ist Tulsi eine Inkarnation der Göttin Lakshmi: Göttin des Glücks, der Liebe und des Wohlstands. Seit über 5.000 Jahren wird Tulsi in der ayurvedischen Medizin als Rasayana (Verjüngungsmittel) eingesetzt. Der Name "Tulsi" bedeutet "die Unvergleichliche". In den vedischen Schriften heißt es, dass kein Gebet vollständig ist ohne Tulsi. Auch in der griechischen und römischen Medizin war Basilikum als Heilpflanze bekannt, "Basilikum" leitet sich von "basileus" (König) ab.`,
     wirkungen: {
       hauptwirkungen: ['Adaptogen (stressregulierend)', 'Immunstärkend', 'Antibakteriell', 'Antiviral', 'Blutzuckerregulierend', 'Entzündungshemmend', 'Nervenstärkend', 'Geistesklärend'],
       inhaltsstoffe: ['Eugenol', 'Linalool', 'Caryophyllen', 'Rosmarinsäure', 'Ursol- und Oleansäure', 'Vitamin C', 'Vitamin A', 'Kalzium', 'Eisen', 'Zink'],
@@ -1014,14 +1014,14 @@ Tulsi beruhigt den Geist, klärt die Gedanken und fördert Sattva -- die Qualit�
   // 23. UMCKALOABO
   // ═══════════════════════════════════════════════════════════════════════════
   'Umckaloabo': {
-    vollname: 'Umckaloabo -- Kapland-Pelargonie (Pelargonium sidoides)',
+    vollname: 'Umckaloabo: Kapland-Pelargonie (Pelargonium sidoides)',
     familie: 'Storchschnabelgewächse (Geraniaceae)',
-    beschreibung: `Umckaloabo -- der Name klingt exotisch und geheimnisvoll, und das ist er auch. Er stammt aus der Zulu-Sprache und bedeutet in etwa "schwerer Husten" oder "Brustschmerzen". Diese dunkelblühende Pelargonie aus Südafrika hat sich in den letzten Jahrzehnten als eines der wirksamsten pflanzlichen Mittel gegen akute Bronchitis und Atemwegsinfekte erwiesen.
+    beschreibung: `Umckaloabo, der Name klingt exotisch und geheimnisvoll, und das ist er auch. Er stammt aus der Zulu-Sprache und bedeutet in etwa "schwerer Husten" oder "Brustschmerzen". Diese dunkelblühende Pelargonie aus Südafrika hat sich in den letzten Jahrzehnten als eines der wirksamsten pflanzlichen Mittel gegen akute Bronchitis und Atemwegsinfekte erwiesen.
 
 Der Wurzelextrakt von Pelargonium sidoides wirkt auf dreifache Weise: Er ist antibakteriell (hindert Bakterien am Anheften an Schleimhautzellen), antiviral (hemmt die Virusvermehrung) und immunmodulierend (stimuliert die körpereigene Abwehr). Dazu kommt eine schleimlösende Wirkung, die das Abhusten erleichtert.
 
-Zahlreiche klinische Studien belegen die Wirksamkeit von Umckaloabo bei akuter Bronchitis -- er verkürzt die Krankheitsdauer und lindert die Symptome deutlich. Besonders wertvoll ist er in der frühen Phase eines Infekts, wenn schnelles Handeln den Verlauf positiv beeinflussen kann.`,
-    geschichte: `Die Geschichte von Umckaloabo in Europa beginnt mit dem Engländer Charles Henry Stevens, der 1897 an schwerer Tuberkulose litt und sich zur Behandlung nach Südafrika begab. Ein Zulu-Heiler behandelte ihn mit einem Wurzelextrakt der Kapland-Pelargonie -- und Stevens wurde gesund. Er brachte die Pflanze nach Europa, wo sie als "Stevens' Heilmittel" zunächst umstritten war. Erst moderne klinische Studien bestätigten die Wirksamkeit und machten Umckaloabo zu einem der meistverkauften pflanzlichen Arzneimittel Deutschlands.`,
+Zahlreiche klinische Studien belegen die Wirksamkeit von Umckaloabo bei akuter Bronchitis, er verkürzt die Krankheitsdauer und lindert die Symptome deutlich. Besonders wertvoll ist er in der frühen Phase eines Infekts, wenn schnelles Handeln den Verlauf positiv beeinflussen kann.`,
+    geschichte: `Die Geschichte von Umckaloabo in Europa beginnt mit dem Engländer Charles Henry Stevens, der 1897 an schwerer Tuberkulose litt und sich zur Behandlung nach Südafrika begab. Ein Zulu-Heiler behandelte ihn mit einem Wurzelextrakt der Kapland-Pelargonie, und Stevens wurde gesund. Er brachte die Pflanze nach Europa, wo sie als "Stevens' Heilmittel" zunächst umstritten war. Erst moderne klinische Studien bestätigten die Wirksamkeit und machten Umckaloabo zu einem der meistverkauften pflanzlichen Arzneimittel Deutschlands.`,
     wirkungen: {
       hauptwirkungen: ['Antibakteriell', 'Antiviral', 'Immunstimulierend', 'Schleimlösend', 'Entzündungshemmend', 'Hustenlindernd'],
       inhaltsstoffe: ['Cumarine (Umckalin, Scopoletin)', 'Gallussäure', 'Gerbstoffe (Proanthocyanidine)', 'Flavonoide', 'Phytosterole', 'Mineralstoffe'],
@@ -1060,14 +1060,14 @@ Zahlreiche klinische Studien belegen die Wirksamkeit von Umckaloabo bei akuter B
   // 24. VERBENA
   // ═══════════════════════════════════════════════════════════════════════════
   'Verbena': {
-    vollname: 'Eisenkraut -- Verbena (Verbena officinalis)',
+    vollname: 'Eisenkraut: Verbena (Verbena officinalis)',
     familie: 'Eisenkrautgewächse (Verbenaceae)',
-    beschreibung: `Das Eisenkraut ist eine der ältesten und am meisten verehrten Heilpflanzen Europas -- und zugleich eine der bescheidensten. Seine unscheinbaren, kleinen violetten Blüten an dünnen, kantigen Stängeln lassen kaum erahnen, welche Heilkraft in dieser Pflanze steckt. Doch wer sich ihr zuwendet, entdeckt ein vielseitiges Nervenmittel und Leberheilkraut.
+    beschreibung: `Das Eisenkraut ist eine der ältesten und am meisten verehrten Heilpflanzen Europas, und zugleich eine der bescheidensten. Seine unscheinbaren, kleinen violetten Blüten an dünnen, kantigen Stängeln lassen kaum erahnen, welche Heilkraft in dieser Pflanze steckt. Doch wer sich ihr zuwendet, entdeckt ein vielseitiges Nervenmittel und Leberheilkraut.
 
-Eisenkraut wirkt besonders auf die Leber und die Nerven. Es fördert den Gallenfluss, unterstützt die Leberentgiftung und wirkt gleichzeitig beruhigend auf das Nervensystem. Diese Doppelwirkung macht es zu einem idealen Mittel bei stressbedingten Verdauungsbeschwerden und bei dem, was die TCM "Leber-Qi-Stagnation" nennt -- wenn Stress sich in Magen und Darm bemerkbar macht.
+Eisenkraut wirkt besonders auf die Leber und die Nerven. Es fördert den Gallenfluss, unterstützt die Leberentgiftung und wirkt gleichzeitig beruhigend auf das Nervensystem. Diese Doppelwirkung macht es zu einem idealen Mittel bei stressbedingten Verdauungsbeschwerden und bei dem, was die TCM "Leber-Qi-Stagnation" nennt, wenn Stress sich in Magen und Darm bemerkbar macht.
 
-Nicht zu verwechseln ist das echte Eisenkraut (Verbena officinalis) mit der Zitronenverbene (Aloysia citriodora) -- einem duftenden Strauch aus Südamerika, der ebenfalls als Tee beliebt ist, aber andere Heilwirkungen hat.`,
-    geschichte: `Kaum eine Pflanze war in der Antike heiliger als das Eisenkraut. Die Kelten rechneten es zu ihren heiligen Pflanzen, die Druiden sammelten es mit besonderen Ritualen. Die Römer nannten es "Herba sacra" (heiliges Kraut) und reinigten damit ihre Tempel und Altäre. Im Mittelalter galt es als mächtiges Schutzkraut gegen Hexerei und bösen Blick -- man trug es als Amulett. In der Signaturenlehre deutete man die kantigen Stängel als Zeichen für die Kraft, innere Verhärtungen zu lösen.`,
+Nicht zu verwechseln ist das echte Eisenkraut (Verbena officinalis) mit der Zitronenverbene (Aloysia citriodora), einem duftenden Strauch aus Südamerika, der ebenfalls als Tee beliebt ist, aber andere Heilwirkungen hat.`,
+    geschichte: `Kaum eine Pflanze war in der Antike heiliger als das Eisenkraut. Die Kelten rechneten es zu ihren heiligen Pflanzen, die Druiden sammelten es mit besonderen Ritualen. Die Römer nannten es "Herba sacra" (heiliges Kraut) und reinigten damit ihre Tempel und Altäre. Im Mittelalter galt es als mächtiges Schutzkraut gegen Hexerei und bösen Blick, man trug es als Amulett. In der Signaturenlehre deutete man die kantigen Stängel als Zeichen für die Kraft, innere Verhärtungen zu lösen.`,
     wirkungen: {
       hauptwirkungen: ['Leberunterstützend', 'Galleanregend', 'Nervenstärkend', 'Entzündungshemmend', 'Fiebersenkend', 'Schleimlösend', 'Milchbildend'],
       inhaltsstoffe: ['Verbenalin (Iridoidglykosid)', 'Hastatoside', 'Flavonoide', 'Gerbstoffe', 'Kaffeesäure', 'Ätherisches Öl', 'Kieselsäure', 'Bitterstoffe'],
@@ -1110,17 +1110,17 @@ Nicht zu verwechseln ist das echte Eisenkraut (Verbena officinalis) mit der Zitr
     familie: 'Nelkengewächse (Caryophyllaceae)',
     beschreibung: `Die Vogelmiere ist das wohl am meisten unterschätzte "Unkraut" in unseren Gärten. Dieses zarte, niederliegende Pflänzchen mit seinen kleinen, sternförmigen weißen Blüten (der lateinische Name "Stellaria" bedeutet "Sternchen") wächst fast das ganze Jahr über und bietet eine erstaunliche Nährstoffdichte. Sie enthält doppelt so viel Kalzium, dreimal so viel Kalium und siebenmal so viel Eisen wie Kopfsalat.
 
-Als Heilpflanze wirkt die Vogelmiere kühlend und befeuchtend -- sie lindert juckende Hautausschläge, Ekzeme und trockene Haut. Innerlich angewandt unterstützt sie den Stoffwechsel, hilft bei Husten und wirkt sanft harntreibend. Ihr hoher Gehalt an Saponinen macht sie zu einem guten Schleimlöser.
+Als Heilpflanze wirkt die Vogelmiere kühlend und befeuchtend, sie lindert juckende Hautausschläge, Ekzeme und trockene Haut. Innerlich angewandt unterstützt sie den Stoffwechsel, hilft bei Husten und wirkt sanft harntreibend. Ihr hoher Gehalt an Saponinen macht sie zu einem guten Schleimlöser.
 
-Die Vogelmiere ist essbar und schmeckt mild und frisch -- ähnlich wie junger Mais. Sie ist ein wunderbares Wildgemüse für Salate, Smoothies und Pestos und eine der besten Frühjahrspflanzen für eine sanfte Entgiftungskur.`,
-    geschichte: `Die Vogelmiere begleitet den Menschen seit der Jungsteinzeit -- sie gehört zu den ältesten Kulturfolger-Pflanzen. Ihren Namen verdankt sie den Vögeln, die ihre Samen und Blätter besonders gern fressen. In der mittelalterlichen Klostermedizin wurde sie als Wundheilmittel und bei Augenleiden eingesetzt. Pfarrer Kneipp empfahl die Vogelmiere bei Lungenkrankheiten und Hautproblemen. In der traditionellen chinesischen Kräuterkunde wird sie als kühlendes, entgiftendes Kraut geschätzt.`,
+Die Vogelmiere ist essbar und schmeckt mild und frisch, ähnlich wie junger Mais. Sie ist ein wunderbares Wildgemüse für Salate, Smoothies und Pestos und eine der besten Frühjahrspflanzen für eine sanfte Entgiftungskur.`,
+    geschichte: `Die Vogelmiere begleitet den Menschen seit der Jungsteinzeit, sie gehört zu den ältesten Kulturfolger-Pflanzen. Ihren Namen verdankt sie den Vögeln, die ihre Samen und Blätter besonders gern fressen. In der mittelalterlichen Klostermedizin wurde sie als Wundheilmittel und bei Augenleiden eingesetzt. Pfarrer Kneipp empfahl die Vogelmiere bei Lungenkrankheiten und Hautproblemen. In der traditionellen chinesischen Kräuterkunde wird sie als kühlendes, entgiftendes Kraut geschätzt.`,
     wirkungen: {
       hauptwirkungen: ['Hautberuhigend', 'Juckreizlindernd', 'Kühlend', 'Schleimlösend', 'Stoffwechselanregend', 'Nährstoffreich', 'Wundheilend'],
       inhaltsstoffe: ['Vitamin C (bis 680mg/100g!)', 'Vitamin A', 'Vitamin B-Komplex', 'Kalzium', 'Kalium', 'Eisen', 'Magnesium', 'Saponine', 'Flavonoide', 'Cumarine', 'Kieselsäure'],
     },
     ernte: {
-      zeit: 'Fast ganzjährig -- von März bis November, auch in milden Wintern.',
-      teile: 'Das gesamte oberirdische Kraut -- Stängel, Blätter und Blüten.',
+      zeit: 'Fast ganzjährig, von März bis November, auch in milden Wintern.',
+      teile: 'Das gesamte oberirdische Kraut: Stängel, Blätter und Blüten.',
       tipps: 'Büschelweise mit der Schere abschneiden. Wächst schnell nach. Am besten frisch verwenden. Abseits von gedüngten Flächen und Hundespazierwegen sammeln.',
       mond: 'Bei zunehmendem Mond ernten für den höchsten Nährstoffgehalt.',
     },
@@ -1128,7 +1128,7 @@ Die Vogelmiere ist essbar und schmeckt mild und frisch -- ähnlich wie junger Ma
       {
         name: 'Vogelmiere-Frischsaft',
         anleitung: 'Eine große Handvoll frische Vogelmiere waschen und im Mixer mit etwas Wasser pürieren, durch ein Tuch abseihen. 2-3 EL täglich pur oder in Saft gemischt trinken.',
-        wirkung: 'Intensive Nährstoffversorgung, Blutreinigung und Stoffwechselaktivierung -- besonders im Frühling.',
+        wirkung: 'Intensive Nährstoffversorgung, Blutreinigung und Stoffwechselaktivierung, besonders im Frühling.',
       },
       {
         name: 'Vogelmiere-Salbe',

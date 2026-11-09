@@ -61,7 +61,7 @@ export function Cart({ open, onClose, items, products, onChangeQty, onRemove, us
   }
 
   function buildMailBody() {
-    const lines = cartProducts.map(p => `  ${p.qty}x ${p.name}${p.menge ? ' (' + p.menge + ')' : ''} -- ${p.preis}`)
+    const lines = cartProducts.map(p => `  ${p.qty}x ${p.name}${p.menge ? ' (' + p.menge + ')' : ''} · ${p.preis}`)
     const beilagen = []
     if (options.anwendungsblaetter) beilagen.push('Anwendungsblätter gewünscht')
     if (options.infomaterial) beilagen.push('Infomaterial gewünscht')
@@ -100,7 +100,7 @@ export function Cart({ open, onClose, items, products, onChangeQty, onRemove, us
 
   function buildMailto() {
     const body = encodeURIComponent(buildMailBody())
-    const subject = encodeURIComponent(`Anfrage von ${form.vorname || ''} ${form.nachname || ''} -- Heildepot Freundeskreis`)
+    const subject = encodeURIComponent(`Anfrage von ${form.vorname || ''} ${form.nachname || ''} · Heildepot Freundeskreis`)
     return `mailto:?subject=${subject}&body=${body}`
   }
 
@@ -219,7 +219,7 @@ export function Cart({ open, onClose, items, products, onChangeQty, onRemove, us
             </button>
 
             <p className="text-xs text-text-muted text-center">
-              Kein Online-Shop -- du sendest eine persönliche Anfrage an den Freundeskreis.
+              Kein Online-Shop, du sendest eine persönliche Anfrage an den Freundeskreis.
             </p>
           </div>
         )}
@@ -319,7 +319,7 @@ export function Cart({ open, onClose, items, products, onChangeQty, onRemove, us
           </div>
           <p className="text-xs text-text-medium leading-relaxed">
             Versand über DHL. Ab {VERSAND_FREI_AB},- EUR übernehmen wir die gesamten Versandkosten.
-            Wir senden an Freunde in der ganzen Welt -- mit Ausnahme von CBD-Öl in Ländern, wo es nicht legalisiert ist.
+            Wir senden an Freunde in der ganzen Welt, mit Ausnahme von CBD-Öl in Ländern, wo es nicht legalisiert ist.
           </p>
           <div className="flex items-center justify-between text-xs text-text-medium pt-1 border-t border-green-pale/50">
             <span>Versandkosten</span>
@@ -361,7 +361,7 @@ export function Cart({ open, onClose, items, products, onChangeQty, onRemove, us
           </div>
           <p className="text-xs text-text-medium">{BANK.empfaenger}</p>
           <p className="text-xs font-mono text-text-dark">{BANK.iban}</p>
-          <p className="text-xs text-text-muted">{BANK.bic} -- {BANK.bank}</p>
+          <p className="text-xs text-text-muted">{BANK.bic} · {BANK.bank}</p>
         </div>
 
         {/* Submit */}
@@ -381,7 +381,7 @@ export function Cart({ open, onClose, items, products, onChangeQty, onRemove, us
             Anfrage senden <ChevronRight size={18} />
           </button>
           <p className="text-xs text-text-muted text-center">
-            Deine Anfrage wird als E-Mail an den Freundeskreis gesendet. Es ist kein Kauf -- nur eine persönliche Anfrage.
+            Deine Anfrage wird als E-Mail an den Freundeskreis gesendet. Es ist kein Kauf, nur eine persönliche Anfrage.
           </p>
         </div>
       </div>

@@ -10,19 +10,19 @@ export const BEWUSSTSEINS_PFLANZEN = [
 
   {
     id: "fliegenpilz-grundwissen",
-    name: "Fliegenpilz -- Grundwissen & Geschichte",
+    name: "Fliegenpilz: Grundwissen & Geschichte",
     kategorie: "Wissen",
     schwierigkeit: "Mittel",
     rechtsstatus:
-      "Legal in Deutschland -- Amanita muscaria ist NICHT im Betäubungsmittelgesetz (BtMG) " +
+      "Legal in Deutschland: Amanita muscaria ist NICHT im Betäubungsmittelgesetz (BtMG) " +
       "und NICHT im Neue-psychoaktive-Stoffe-Gesetz (NpSG) gelistet. Der Besitz, die Sammlung " +
       "und die Verarbeitung sind nicht reguliert. Er darf allerdings nicht als Lebensmittel " +
       "verkauft werden (gilt als ungenießbar, nicht als verboten).",
     tradition: "Sibirischer Schamanismus, Vedische Kultur, Nordeuropäische Volkstradition",
     beschreibung:
       "Der Fliegenpilz (Amanita muscaria) ist vermutlich die älteste bewusstseinserweiternde " +
-      "Substanz der Menschheitsgeschichte. Sein ikonisches Aussehen -- roter Hut mit weißen " +
-      "Punkten -- ist tief im kollektiven Gedächtnis verankert, von Märchenbücher bis " +
+      "Substanz der Menschheitsgeschichte. Sein ikonisches Aussehen, roter Hut mit weißen " +
+      "Punkten, ist tief im kollektiven Gedächtnis verankert, von Märchenbücher bis " +
       "Weihnachtskarten. Doch hinter dem Kinderbuch-Image verbirgt sich eine Jahrtausende " +
       "alte schamanische Tradition, die heute wiederentdeckt wird. Dieser Eintrag vermittelt " +
       "das Grundwissen, das jeder haben sollte, BEVOR er sich an Zubereitungen wagt.",
@@ -36,7 +36,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
     wirkung:
       "WIRKMECHANISMUS: Der Fliegenpilz wirkt völlig anders als Psilocybin-Pilze! " +
       "Psilocybin aktiviert Serotonin-5HT2A-Rezeptoren (klassische Psychedelika). " +
-      "Muscimol hingegen ist ein potenter GABA-A-Rezeptor-Agonist -- es wirkt auf dasselbe " +
+      "Muscimol hingegen ist ein potenter GABA-A-Rezeptor-Agonist, es wirkt auf dasselbe " +
       "System wie Benzodiazepine und Alkohol, aber auf eine einzigartige Weise. " +
       "IBOTENSÄURE: Neurotoxisch, wirkt als Glutamat-Agonist. Verursacht Übelkeit, " +
       "Verwirrung, Muskelzuckungen, Unwohlsein. Das ist der Stoff, den man NICHT haben will. " +
@@ -58,16 +58,16 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "Völker nutzten den Fliegenpilz seit Jahrtausenden als sakrales Entheogen. Der Schamane " +
       "ass die Pilze und trat in Trancezustände ein, um mit der Geisterwelt zu kommunizieren. " +
       "DIE RENTIER-VERBINDUNG: Rentiere fressen Fliegenpilze gezielt und zeigen danach " +
-      "verändertes Verhalten -- sie springen und 'tanzen'. Sibirische Schamanen tranken " +
+      "verändertes Verhalten, sie springen und 'tanzen'. Sibirische Schamanen tranken " +
       "den Urin der Rentiere, da Muscimol den Körper unverändert passiert. Dies war eine " +
       "Methode, die Ibotensäure herauszufiltern und reines Muscimol zu erhalten. " +
       "SOMA-THEORIE: R. Gordon Wasson stellte 1968 in 'Soma: Divine Mushroom of Immortality' " +
       "die These auf, dass das mysteriöse Soma der Vedischen Texte (Rigveda) der Fliegenpilz " +
-      "war. Die Beschreibungen -- rot, ohne Wurzeln, Blätter oder Blüten, 'ein Pfeiler des " +
-      "Himmels' -- passen erstaunlich gut. Die Theorie ist umstritten, aber einflussreich. " +
+      "war. Die Beschreibungen, rot, ohne Wurzeln, Blätter oder Blüten, 'ein Pfeiler des " +
+      "Himmels', passen erstaunlich gut. Die Theorie ist umstritten, aber einflussreich. " +
       "BERSERKER-THEORIE: Die Idee, dass Wikinger-Berserker vor dem Kampf Fliegenpilze assen, " +
       "ist populär, aber wissenschaftlich umstritten. Muscimol ist eher sedierend als " +
-      "kampfsteigernd -- Bilsenkraut (Hyoscyamus) wäre plausibler. " +
+      "kampfsteigernd: Bilsenkraut (Hyoscyamus) wäre plausibler. " +
       "WEIHNACHTSMANN-THEORIE: Die Parallelen sind faszinierend: Rot-weiße Kleidung, " +
       "der Flug durch die Lüfte (schamanische Seelenreise), der Einstieg durch den Schornstein " +
       "(die Rauchöeffnung der sibirischen Jurte, durch die der Schamane symbolisch ein- und " +
@@ -88,7 +88,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "Die Qualität variiert enorm je nach Standort und Jahreszeit. Pilze unter Birken " +
       "sollen potenter sein als unter Fichten. Spätsommerliche Exemplare (August-September) " +
       "nach den ersten kühlen Nächten gelten als am kräftigsten. Der Hut enthält " +
-      "den Großteil der Wirkstoffe -- der Stiel ist deutlich schwächer. Die rote Haut " +
+      "den Großteil der Wirkstoffe, der Stiel ist deutlich schwächer. Die rote Haut " +
       "selbst ist am konzentriertesten.",
     set_und_setting:
       "Dies ist ein Wissenseintrag. Für Set & Setting bei der Anwendung siehe die " +
@@ -107,7 +107,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
 
   {
     id: "fliegenpilz-trocknung",
-    name: "Fliegenpilz richtig trocknen -- Die Decarboxylierung",
+    name: "Fliegenpilz richtig trocknen: Die Decarboxylierung",
     kategorie: "Anleitung",
     schwierigkeit: "Mittel",
     rechtsstatus:
@@ -140,37 +140,37 @@ export const BEWUSSTSEINS_PFLANZEN = [
     zubereitung:
       "ERNTE: Idealerweise Pilze ernten, deren Hut sich bereits teilweise geöffnet hat " +
       "(nicht mehr ganz geschlossen, aber auch nicht flach ausgebreitet). Nach Regen ist " +
-      "in Ordnung -- die Wirkstoffe werden nicht ausgewaschen. Den Hut vom Stiel trennen " +
+      "in Ordnung, die Wirkstoffe werden nicht ausgewaschen. Den Hut vom Stiel trennen " +
       "(Hut ist deutlich potenter). Stiele können separat getrocknet werden, sind aber " +
       "schwächer. " +
       "VORBEREITUNG: Hüte in 3-5mm dicke Scheiben schneiden. Gleichmäßige Dicke ist " +
       "wichtig für gleichmäßige Trocknung. " +
-      "METHODE 1 -- LUFTTROCKNUNG (traditionell, schonend): Scheiben auf einem Gitter " +
+      "METHODE 1: LUFTTROCKNUNG (traditionell, schonend): Scheiben auf einem Gitter " +
       "oder Rost auslegen, sodass Luft von allen Seiten zirkulieren kann. An einem " +
-      "trockenen, gut belüfteten Ort aufstellen -- NICHT in direktem Sonnenlicht (UV " +
+      "trockenen, gut belüfteten Ort aufstellen: NICHT in direktem Sonnenlicht (UV " +
       "kann Wirkstoffe abbauen). 3-7 Tage trocknen lassen, bis die Stücke knochentrocken " +
       "und brüchig sind. Täglich wenden. " +
-      "METHODE 2 -- DÖRRAUTOMAT (empfohlen): Temperatur auf 40-50 Grad C einstellen. " +
+      "METHODE 2: DÖRRAUTOMAT (empfohlen): Temperatur auf 40-50 Grad C einstellen. " +
       "NICHT höher! Temperaturen über 60 Grad C können Muscimol zersetzen. 6-12 Stunden " +
       "trocknen bis vollständig knusprig-trocken. Dies ist die zuverlässigste Methode. " +
-      "METHODE 3 -- BACKOFEN (Notlösung): Niedrigste Stufe (meist 50 Grad C), Tür " +
+      "METHODE 3: BACKOFEN (Notlösung): Niedrigste Stufe (meist 50 Grad C), Tür " +
       "einen Spalt offen lassen für Luftzirkulation. Alle 30 Minuten kontrollieren. " +
       "Vorsicht: Die meisten Öfen heizen ungleichmäßig. " +
       "DER PH-TRICK (fortgeschritten, sehr empfehlenswert): Nach dem Trocknen die " +
       "Stücke in Zitronenwasser einweichen (pH 2.5-3.0, ca. Saft von 2-3 Zitronen auf " +
       "500ml Wasser). 2-3 Stunden einweichen lassen. Dann erneut trocknen. Das saure " +
-      "Milieu beschleunigt die Decarboxylierung DRASTISCH -- dieser Schritt allein kann " +
+      "Milieu beschleunigt die Decarboxylierung DRASTISCH, dieser Schritt allein kann " +
       "den Muscimol-Anteil um ein Vielfaches erhöhen. " +
       "FERTIG: Die getrockneten Stücke sollten bruchig sein und beim Biegen brechen, " +
       "nicht sich biegen. Die Farbe verändert sich von leuchtendem Rot zu einem dunkleren " +
-      "Braun-Rot -- das ist normal und kein Qualitätsverlust.",
+      "Braun-Rot, das ist normal und kein Qualitätsverlust.",
     dosierung:
-      "Nicht direkt anwendbar -- dies ist der Trocknungsschritt. Gewichtsverlust: Ca. " +
+      "Nicht direkt anwendbar, dies ist der Trocknungsschritt. Gewichtsverlust: Ca. " +
       "10:1 Frisch-zu-Trocken-Verhältnis. 100g frischer Pilz ergeben ca. 10g getrockneten. " +
       "Aus 10g getrocknetem Material können je nach Potenz 5-30 Einzeldosen " +
       "(Mikrodosierung) oder 2-5 volle Dosen werden.",
     wirkung:
-      "Die Trocknung selbst hat keine Wirkung -- sie ist der Verarbeitungsschritt, der " +
+      "Die Trocknung selbst hat keine Wirkung, sie ist der Verarbeitungsschritt, der " +
       "den Pilz von unangenehm (ibotensäurereich) zu nutzbar (muscimolreich) macht. " +
       "Korrekt getrockneter Fliegenpilz riecht leicht erdig-süßlich und hat einen " +
       "milderen Geschmack als frischer.",
@@ -179,12 +179,12 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "verursacht Übelkeit, Erbrechen, Verwirrung und unangenehme delirante Zustände. " +
       "Bei der Ernte: 100% sicher sein, dass es Amanita muscaria ist. Im Zweifelsfall " +
       "NICHT sammeln. Verwechslungsgefahr besteht theoretisch mit dem Kaiserling " +
-      "(Amanita caesarea, essbar, in Deutschland extrem selten) oder -- viel gefährlicher -- " +
+      "(Amanita caesarea, essbar, in Deutschland extrem selten) oder, viel gefährlicher" +
       "mit dem Pantherpilz (Amanita pantherina, deutlich potenter, leichter zu überdosieren). " +
       "Beim Dörren: Gute Belüftung, da beim Trocknen Dämpfe entstehen können.",
     hintergrund:
       "Die sibirischen Völker hatten die Trocknung perfektioniert, ohne die Chemie zu " +
-      "kennen. Sie trockneten die Pilze an Schnüren über dem zentralen Feuer der Jurte -- " +
+      "kennen. Sie trockneten die Pilze an Schnüren über dem zentralen Feuer der Jurte" +
       "die Rauchwärme bei niedriger Temperatur war ideal für die Decarboxylierung. " +
       "Manche Traditionen berichten, dass die Pilze an Birken- oder Fichtenästen " +
       "aufgehängt wurden, wobei das Harz der Baeume eine zusätzliche konservierende " +
@@ -203,11 +203,11 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "luftdichten Behälter bei Raumtemperatur 'nachreifen' lassen. In dieser Zeit " +
       "findet weitere langsame Umwandlung statt. Erfahrene Nutzer berichten, dass " +
       "Material, das 3-6 Monate gelagert wurde, sanfter und angenehmer wirkt als " +
-      "frisch getrocknetes. Lagerung: Luftdicht, dunkel, kühl -- die Potenz hält " +
+      "frisch getrocknetes. Lagerung: Luftdicht, dunkel, kühl, die Potenz hält " +
       "sich 1-2 Jahre bei korrekter Lagerung.",
     set_und_setting:
       "Die Trocknung ist ein handwerklicher Prozess. Manche behandeln ihn als meditativen " +
-      "Akt -- das Schneiden und Auslegen als achtsame Vorbereitung. In sibirischer Tradition " +
+      "Akt, das Schneiden und Auslegen als achtsame Vorbereitung. In sibirischer Tradition " +
       "war die Zubereitung selbst Teil des Rituals.",
     tags: [
       "#fliegenpilz",
@@ -222,25 +222,25 @@ export const BEWUSSTSEINS_PFLANZEN = [
 
   {
     id: "fliegenpilz-tee",
-    name: "Fliegenpilz-Tee -- Traditionelle Zubereitung",
+    name: "Fliegenpilz-Tee: Traditionelle Zubereitung",
     kategorie: "Rezept",
     schwierigkeit: "Fortgeschritten",
     rechtsstatus: "Legal in Deutschland. Keine Regulierung von Amanita muscaria Zubereitungen.",
     tradition:
       "Die Teezubereitung ist die älteste bekannte Einnahmeform. Sibirische Schamanen " +
-      "kochten die getrockneten Pilze in Wasser -- die Wärme und das Wasser lösen " +
+      "kochten die getrockneten Pilze in Wasser, die Wärme und das Wasser lösen " +
       "Muscimol effizient und wandeln verbleibende Ibotensäure weiter um.",
     beschreibung:
       "Der Fliegenpilz-Tee ist die traditionelle und vermutlich sicherste orale Einnahmeform. " +
       "Das heiße Wasser extrahiert Muscimol effizient, und die Hitze wandelt verbleibende " +
       "Ibotensäure weiter in Muscimol um. Die Zugabe von Zitronensaft verstärkt diesen " +
-      "Effekt. Das Ergebnis ist ein Tee mit erdigem, leicht süßlichem Geschmack und -- " +
-      "je nach Dosis -- entspannender bis tiefgreifend veränderter Wirkung.",
+      "Effekt. Das Ergebnis ist ein Tee mit erdigem, leicht süßlichem Geschmack und" +
+      "je nach Dosis, entspannender bis tiefgreifend veränderter Wirkung.",
     zutaten: [
       {
         name: "Getrocknete Fliegenpilz-Hüte (korrekt decarboxyliert)",
         menge: "0.5-10g je nach gewünschter Stärke (siehe Dosierung)",
-        wirkung: "Muscimol -- GABAerg, sedierend, visionär",
+        wirkung: "Muscimol: GABAerg, sedierend, visionär",
       },
       {
         name: "Wasser",
@@ -261,32 +261,32 @@ export const BEWUSSTSEINS_PFLANZEN = [
     ],
     zubereitung:
       "1. Getrocknete Fliegenpilz-Stücke in ein hitzebeständiges Gefäß geben. " +
-      "2. Wasser erhitzen auf ca. 80 Grad C -- NICHT kochen! Kochendes Wasser (100 Grad C) " +
+      "2. Wasser erhitzen auf ca. 80 Grad C: NICHT kochen! Kochendes Wasser (100 Grad C) " +
       "kann Muscimol abbauen. Ideal ist 75-85 Grad C. " +
       "3. Zitronensaft zum Wasser geben. " +
       "4. Heißes Zitronenwasser über die getrockneten Stücke gießen. " +
       "5. 20-30 Minuten ziehen lassen bei möglichst gleichbleibender Temperatur " +
       "(z.B. auf niedrigster Herdplatte, Stövchenm oder in der Thermoskanne). " +
       "6. Durch ein feines Sieb oder Teefilter abseihen. Die Stücke gründlich ausdrücken " +
-      "-- ein Großteil des Muscimols ist nun im Wasser. " +
+      "ein Großteil des Muscimols ist nun im Wasser. " +
       "7. Optional: Zweiter Aufguss der Stücke mit frischem Wasser (enthält noch " +
       "ca. 30% der Wirkstoffe). " +
       "8. Mit Honig süßen nach Geschmack. " +
       "9. Langsam trinken, nicht auf einmal hinunterstürzen. Über 15-30 Minuten " +
       "schluckweise trinken gibt dem Körper Zeit zu reagieren.",
     dosierung:
-      "MIKRODOSIS: 0.5-1g getrockneter Hut -- kaum spürbare Wirkung, leichte Entspannung, " +
+      "MIKRODOSIS: 0.5-1g getrockneter Hut, kaum spürbare Wirkung, leichte Entspannung, " +
       "verbesserter Schlaf. Für den Einstieg und zum Kennenlernen. " +
-      "NIEDRIGE DOSIS: 1-3g -- deutliche Entspannung, Wärme im Körper, leichte " +
+      "NIEDRIGE DOSIS: 1-3g, deutliche Entspannung, Wärme im Körper, leichte " +
       "Bewusstseinsveränderung, ähnlich einem Glas Wein aber 'sauberer'. Gutes Level " +
       "für Meditation. " +
-      "MITTLERE DOSIS: 3-5g -- spürbare Bewusstseinsveränderung, traumartige Zustände, " +
+      "MITTLERE DOSIS: 3-5g, spürbare Bewusstseinsveränderung, traumartige Zustände, " +
       "Körperschwere, veränderte Zeitwahrnehmung. Nur mit Erfahrung auf niedrigeren Stufen. " +
-      "STARKE DOSIS: 5-10g -- tiefe Trance, intensive Visionen, starke Körperschwere, " +
+      "STARKE DOSIS: 5-10g, tiefe Trance, intensive Visionen, starke Körperschwere, " +
       "möglicherweise aussegewöhnliche Bewusstseinszustände. Nur für Erfahrene! " +
       "GOLDENE REGEL: IMMER mit der Mikrodosis beginnen. Mindestens 2 Stunden warten, " +
       "bevor man über eine Nachdosierung nachdenkt. Wirkungseintritt: 30-90 Minuten. " +
-      "Wirkungsdauer: 4-8 Stunden. Die Potenz variiert stark zwischen einzelnen Pilzen -- " +
+      "Wirkungsdauer: 4-8 Stunden. Die Potenz variiert stark zwischen einzelnen Pilzen" +
       "daher ist jede neue Charge ein neuer Anfang mit niedriger Dosis.",
     wirkung:
       "MIKRO (0.5-1g): Leichte Entspannung, eventuell verbesserter Schlaf und lebhaftere " +
@@ -295,7 +295,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "über der Wahrnehmung. Manche berichten ein Gefühl wie nach einem heißen Bad. " +
       "MITTEL (3-5g): Körperschwere (Wunsch sich hinzulegen ist normal), traumähnliche " +
       "Bilder bei geschlossenen Augen, veränderte Körperwahrnehmung (Gefühl zu schrumpfen " +
-      "oder zu wachsen -- die 'Alice im Wunderland'-Wirkung, die Lewis Carroll inspiriert " +
+      "oder zu wachsen, die 'Alice im Wunderland'-Wirkung, die Lewis Carroll inspiriert " +
       "haben soll). Zeitverzerrung. " +
       "STARK (5-10g): Tiefe Trance, intensive innere Bilder, starke Dissoziation vom " +
       "Körper, möglicherweise völlige Ich-Auflösung. Die Grenze zwischen Wach- und " +
@@ -305,16 +305,16 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "Material verwenden. NEVER frischen Pilz als Tee aufgießen. " +
       "GRUNDREGEL: Immer mit der niedrigsten Dosis beginnen, jede neue Charge ist anders. " +
       "NICHT KOMBINIEREN MIT: Alkohol (verstärkt GABAerge Wirkung unkontrollierbar), " +
-      "Benzodiazepine (Valium, Tavor etc. -- gefährliche Atemdepression möglich), " +
+      "Benzodiazepine (Valium, Tavor etc. gefährliche Atemdepression möglich), " +
       "andere Sedativa oder Schlafmittel. " +
       "TRIPSITTER: Bei Dosen über 3g ist eine nüchterne Vertrauensperson empfohlen. " +
       "KONTRAINDIKATIONEN: Schwangerschaft, Stillzeit, Lebererkrankungen, psychotische " +
       "Erkrankungen (Schizophrenie etc.), Depressionen mit Suizidalität. " +
       "ÜBELKEIT: Leichte Übelkeit in der Anfangsphase ist möglich und normal. " +
-      "Ingwer-Tee kann helfen. Erbrechen ist ein Zeichen für zu viel Ibotensäure -- " +
+      "Ingwer-Tee kann helfen. Erbrechen ist ein Zeichen für zu viel Ibotensäure" +
       "dann war die Trocknung/Umwandlung unzureichend.",
     hintergrund:
-      "DIE SIBIRISCHE RECYCLING-TRADITION: Ja, es ist wahr -- und es ist echte Ethnobotanik, " +
+      "DIE SIBIRISCHE RECYCLING-TRADITION: Ja, es ist wahr, und es ist echte Ethnobotanik, " +
       "kein Witz. Muscimol passiert die Nieren nahezu unverändert. Sibirische Völker " +
       "(insbesondere die Korjaken und Kamtschadalen) tranken den Urin von Personen, die " +
       "Fliegenpilz konsumiert hatten. Dies hatte einen praktischen Grund: Die Ibotensäure " +
@@ -331,19 +331,19 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "Bei 80 Grad C und saurem pH werden innerhalb von 20-30 Minuten geschätzt 80-95% " +
       "des Muscimols extrahiert. Gleichzeitig wird verbleibende Ibotensäure durch die " +
       "Hitze und den sauren pH weiter decarboxyliert. Die renale Ausscheidung von Muscimol " +
-      "ist wissenschaftlich bestätigt -- ca. 80% des aufgenommenen Muscimols werden " +
+      "ist wissenschaftlich bestätigt, ca. 80% des aufgenommenen Muscimols werden " +
       "unverändert über den Urin ausgeschieden (Tsujikawa et al., 2006).",
     geheimtipp:
-      "Den Tee NICHT in einem Metallgefäß zubereiten -- Keramik oder Glas verwenden. " +
+      "Den Tee NICHT in einem Metallgefäß zubereiten: Keramik oder Glas verwenden. " +
       "Die Pilzstücke nach dem ersten Aufguss NICHT wegwerfen: Ein zweiter Aufguss mit " +
       "frischem Zitronenwasser extrahiert noch signifikante Mengen. " +
       "Einige erfahrene Nutzer schwören darauf, den Tee mit einem kleinen Stück frischem " +
-      "Ingwer zu kochen -- das mildert mögliche Übelkeit erheblich. " +
+      "Ingwer zu kochen, das mildert mögliche Übelkeit erheblich. " +
       "Den Tee auf leeren Magen trinken verstärkt und beschleunigt die Wirkung. " +
       "Nach einer leichten Mahlzeit ist die Wirkung sanfter und langsamer.",
     set_und_setting:
       "MINDSET: Fliegenpilz ist kein Party-Stoff. Er verlangt Ruhe und Innenschau. " +
-      "Die beste Herangehensweise ist meditativer Natur -- eine klare Intention setzen. " +
+      "Die beste Herangehensweise ist meditativer Natur, eine klare Intention setzen. " +
       "Was möchte ich erfahren? Was möchte ich loslassen? " +
       "UMGEBUNG: Zuhause, in vertrauter Umgebung. Bequeme Liegefläche vorbereiten " +
       "(Körperschwere!). Gedämpftes Licht oder Dunkelheit. Sanfte Musik oder Stille. " +
@@ -366,7 +366,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
 
   {
     id: "fliegenpilz-tinktur",
-    name: "Fliegenpilz-Tinktur -- Alkoholischer Auszug",
+    name: "Fliegenpilz-Tinktur: Alkoholischer Auszug",
     kategorie: "Rezept",
     schwierigkeit: "Fortgeschritten",
     rechtsstatus: "Legal in Deutschland. Herstellung für den Eigenbedarf nicht reguliert.",
@@ -380,7 +380,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "Extrakt nahezu unbegrenzt. Die tropfengenaue Dosierung macht sie zur sichersten " +
       "Einnahmeform, da man sich langsam an die persönliche Dosis herantasten kann. " +
       "Zusätzlich bietet die Tinktur eine aeusserliche Anwendungsmöglichkeit bei " +
-      "Gelenkschmerzen -- eine Tradition, die in der russischen Volksmedizin seit " +
+      "Gelenkschmerzen, eine Tradition, die in der russischen Volksmedizin seit " +
       "Jahrhunderten Bestand hat.",
     zutaten: [
       {
@@ -408,7 +408,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "4. Den säurehaltigen Alkohol über die Pilzstücke gießen. Verhältnis 1:5 " +
       "(1 Teil Pilz zu 5 Teilen Alkohol nach Gewicht). " +
       "5. Glas fest verschließen und an einen dunklen, kühlen Ort stellen. " +
-      "6. TÄGLICH einmal kräftig schütteln -- das verbessert die Extraktion erheblich. " +
+      "6. TÄGLICH einmal kräftig schütteln, das verbessert die Extraktion erheblich. " +
       "7. 4-6 Wochen mazerieren lassen. Längere Mazeration (bis 8 Wochen) schadet nicht " +
       "und kann die Qualität verbessern. " +
       "8. Nach der Mazerationszeit durch einen Kaffeefilter abseihen. Langsam, nicht drücken. " +
@@ -419,14 +419,14 @@ export const BEWUSSTSEINS_PFLANZEN = [
     dosierung:
       "ÄUSSERLICH (Gelenkschmerzen, Rheuma): Großzügig auf die betroffene Stelle " +
       "auftragen und einmassieren. 2-3 mal täglich. Nicht auf offene Wunden! " +
-      "Bei aeusserlicher Anwendung keine psychoaktive Wirkung -- Muscimol wird über " +
+      "Bei aeusserlicher Anwendung keine psychoaktive Wirkung: Muscimol wird über " +
       "die Haut nicht in relevanten Mengen aufgenommen. " +
-      "INNERLICH -- EXTREM VORSICHTIG DOSIEREN: " +
+      "INNERLICH: EXTREM VORSICHTIG DOSIEREN: " +
       "START: 1-3 Tropfen (unter die Zunge oder in wenig Wasser). Warten: mindestens " +
       "2 Stunden vor weiterer Einnahme. " +
-      "NIEDRIG: 5-10 Tropfen -- leichte Entspannung. " +
-      "MITTEL: 10-20 Tropfen -- deutliche Wirkung, nur mit Erfahrung. " +
-      "HOCH: 20-40 Tropfen -- starke Wirkung, nur für Erfahrene. " +
+      "NIEDRIG: 5-10 Tropfen, leichte Entspannung. " +
+      "MITTEL: 10-20 Tropfen, deutliche Wirkung, nur mit Erfahrung. " +
+      "HOCH: 20-40 Tropfen, starke Wirkung, nur für Erfahrene. " +
       "WICHTIG: Die Potenz variiert je nach Ausgangsmaterial und Herstellungsbedingungen " +
       "stark. JEDE neue Tinktur muss mit 1-3 Tropfen angetestet werden, auch wenn man " +
       "Erfahrung hat.",
@@ -439,12 +439,12 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "von einer entzündungshemmenden Wirkung berichtet.",
     sicherheit:
       "Die Tinktur-Herstellung ist die sicherste Methode, weil sie die präziseste " +
-      "Dosierung erlaubt -- tropfengenau. ABER: Der Alkohol maskiert den Geschmack, " +
+      "Dosierung erlaubt, tropfengenau. ABER: Der Alkohol maskiert den Geschmack, " +
       "was eine Überdosierung erleichtert, wenn man unvorsichtig ist. " +
       "NICHT KOMBINIEREN MIT: Alkoholkonsum (die Tinktur enthält bereits Alkohol, " +
       "plus die GABAerge Muscimol-Wirkung potenziert Alkoholeffekte), Benzodiazepine, " +
       "Schlafmittel, Opioide. " +
-      "KONTRAINDIKATIONEN: Wie beim Tee -- Schwangerschaft, Lebererkrankungen, " +
+      "KONTRAINDIKATIONEN: Wie beim Tee: Schwangerschaft, Lebererkrankungen, " +
       "psychiatrische Erkrankungen. Zusätzlich: Alkoholabhängigkeit (wegen des " +
       "Alkoholgehalts der Tinktur). " +
       "LAGERUNG: Kuhl, dunkel. Tinktur hält sich in Braunglas praktisch unbegrenzt. " +
@@ -463,23 +463,23 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "Alkohol (60-70%) eine effizientere Extraktion ermöglicht als niedrigprozentiger " +
       "(40%). Der saure pH der zugesetzten Zitronensäure fördert die Umwandlung " +
       "verbleibender Ibotensäure. Zur aeusserlichen Anwendung: Muscimol hat ein " +
-      "Molekulargewicht von 114 Da -- zu groß für effiziente transdermale Absorption " +
+      "Molekulargewicht von 114 Da, zu groß für effiziente transdermale Absorption " +
       "in psychoaktiven Mengen. Die schmerzlindernde Wirkung bei aeusserlicher Anwendung " +
       "ist daher vermutlich auf lokale Effekte oder andere Inhaltsstoffe zurückzuführen.",
     geheimtipp:
       "Die besten Tinkturen entstehen aus Material, das ZUERST mit der Zitronen-pH-Methode " +
-      "getrocknet und DANN in säurehaltigem Alkohol ausgezogen wird -- doppelte Umwandlung. " +
+      "getrocknet und DANN in säurehaltigem Alkohol ausgezogen wird, doppelte Umwandlung. " +
       "Für aeusserliche Anwendung kann man die Tinktur mit Beinwell-Tinktur (Symphytum) " +
-      "mischen -- die Kombination aus Muscimol-Wärme und Beinwell-Heilwirkung ist " +
+      "mischen, die Kombination aus Muscimol-Wärme und Beinwell-Heilwirkung ist " +
       "traditionell bei Gelenkbeschwerden hochgeschätzt. " +
       "Die Pilzstücke nach dem Abseihen NICHT wegwerfen: Sie können nochmals mit " +
       "Alkohol übergossen werden für einen schwächer aber immer noch wirksamen " +
       "zweiten Ansatz.",
     set_und_setting:
       "Für aeusserliche Anwendung kein besonderes Setting nötig. " +
-      "Für innerliche Anwendung: Gleiches Setting wie beim Tee -- Ruhe, vertraute " +
+      "Für innerliche Anwendung: Gleiches Setting wie beim Tee: Ruhe, vertraute " +
       "Umgebung, keine Verpflichtungen. Die schnellere Anflutung der Tinktur (sublingual) " +
-      "kann überraschender sein als beim Tee -- darauf vorbereitet sein. " +
+      "kann überraschender sein als beim Tee, darauf vorbereitet sein. " +
       "Ein guter Einstieg: Abends 3-5 Tropfen in einem Glas warmem Wasser, 30 Minuten " +
       "vor dem Schlafengehen. Schlafqualität und Traeume beobachten.",
     tags: [
@@ -496,19 +496,19 @@ export const BEWUSSTSEINS_PFLANZEN = [
 
   {
     id: "fliegenpilz-mikrodosierung",
-    name: "Fliegenpilz-Mikrodosierung -- Der sanfte Weg",
+    name: "Fliegenpilz-Mikrodosierung: Der sanfte Weg",
     kategorie: "Anleitung",
     schwierigkeit: "Mittel",
     rechtsstatus: "Legal in Deutschland. Keine Regulierung.",
     tradition:
-      "Mikrodosierung in der heutigen Form ist ein modernes Konzept, aber die Grundidee -- " +
-      "kleine Mengen von Pflanzenmedizin über längere Zeitraeume -- findet sich in vielen " +
+      "Mikrodosierung in der heutigen Form ist ein modernes Konzept, aber die Grundidee" +
+      "kleine Mengen von Pflanzenmedizin über längere Zeitraeume, findet sich in vielen " +
       "traditionellen Heilsystemen. Die russische Volksmedizin kannte die Einnahme kleiner " +
       "Fliegenpilz-Mengen für Schlaf und 'Nerven'.",
     beschreibung:
       "Fliegenpilz-Mikrodosierung ist ein wachsender Trend in der Biohacking- und " +
       "Wellness-Szene. Anders als Psilocybin-Mikrodosierung (die auf Serotonin-Rezeptoren " +
-      "wirkt) ist Fliegenpilz-Mikrodosierung GABAerg -- es wirkt also eher wie ein sanftes " +
+      "wirkt) ist Fliegenpilz-Mikrodosierung GABAerg, es wirkt also eher wie ein sanftes " +
       "natürliches Beruhigungsmittel. Die Haupteffekte: besserer Schlaf, reduzierte Angst, " +
       "Schmerzlinderung und Stimmungsstabilisierung. Es ist nicht 'bewusstseinsweiternd' " +
       "im psychedelischen Sinne, sondern eher 'bewusstseinsberuhigend'.",
@@ -516,7 +516,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       {
         name: "Getrocknete, decarboxylierte Fliegenpilz-Hüte",
         menge: "Ausreichend für den geplanten Zyklus (ca. 10-15g für einen 4-Wochen-Zyklus)",
-        wirkung: "Muscimol -- GABAerge Wirkung in Subdosen",
+        wirkung: "Muscimol: GABAerge Wirkung in Subdosen",
       },
       {
         name: "Leere Gelatine- oder Zellulosekapseln (Größe 00)",
@@ -542,9 +542,9 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "Herkunft des Materials, Gewicht pro Kapsel). " +
       "DAS PROTOKOLL: " +
       "Tag 1: Dosis nehmen (abends, 1-2 Stunden vor dem Schlafengehen). " +
-      "Tag 2: Kein Pilz -- 'Nachglühtag'. Viele berichten, dass die Wirkung am " +
+      "Tag 2: Kein Pilz, 'Nachglühtag'. Viele berichten, dass die Wirkung am " +
       "zweiten Tag subtil nachwirkt. " +
-      "Tag 3: Kein Pilz -- Ruhetag. Verhindert Toleranzentwicklung. " +
+      "Tag 3: Kein Pilz: Ruhetag. Verhindert Toleranzentwicklung. " +
       "Tag 4: Nächste Dosis. " +
       "Dieser 3-Tage-Zyklus wird 4 Wochen lang wiederholt. " +
       "Danach: 1 Woche Pause (komplett ohne Einnahme). " +
@@ -554,11 +554,11 @@ export const BEWUSSTSEINS_PFLANZEN = [
     dosierung:
       "STARTDOSIS: 0.3g getrockneter, decarboxylierter Hut. " +
       "Eine Woche lang mit dieser Dosis beginnen. " +
-      "STANDARD-MIKRODOSIS: 0.5g -- die gängigste Dosis. " +
-      "OBERE MIKRODOSIS: 0.7-1.0g -- für manche Menschen nötig, besonders bei " +
+      "STANDARD-MIKRODOSIS: 0.5g, die gängigste Dosis. " +
+      "OBERE MIKRODOSIS: 0.7-1.0g, für manche Menschen nötig, besonders bei " +
       "stärkeren Schmerzen oder Schlafproblemen. " +
       "TIMING: Abends einnehmen, 1-2 Stunden vor dem Schlafengehen. Muscimol ist " +
-      "sedierend -- morgens einnehmen kann müde machen. Manche empfinden die " +
+      "sedierend, morgens einnehmen kann müde machen. Manche empfinden die " +
       "Müdigkeit als so angenehm, dass sie die Dosis bewusst zur Schlafförderung nutzen. " +
       "WENN ZU STARK: Dosis reduzieren. Man sollte die Mikrodosis im Alltag NICHT spüren. " +
       "Wenn man Benommenheit, Schwindel oder Tagesmüdigkeit bemerkt, ist die Dosis zu hoch.",
@@ -567,7 +567,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "SCHLAF: Tieferer, erholsamerer Schlaf. Schnelleres Einschlafen. Lebhaftere Traeume. " +
       "Dies ist der am konsistentesten berichtete Effekt. " +
       "ANGST: Reduktion von generalisierter Angst und sozialer Angst. Das GABAerge " +
-      "Profil macht dies plausibel -- GABA-A-Agonismus ist der Wirkmechanismus vieler " +
+      "Profil macht dies plausibel: GABA-A-Agonismus ist der Wirkmechanismus vieler " +
       "angstlösender Medikamente. " +
       "SCHMERZ: Linderung chronischer Schmerzen, insbesondere neuropathischer Schmerz " +
       "und Fibromyalgie werden häufig erwähnt. " +
@@ -576,13 +576,13 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "luzide Traeume.",
     sicherheit:
       "NICHT KOMPATIBEL MIT: Alkohol (gleichzeitiger Konsum verstärkt die Sedierung), " +
-      "Benzodiazepine (Valium, Tavor, Lorazepam -- GABA-Wirkung addiert sich, " +
+      "Benzodiazepine (Valium, Tavor, Lorazepam: GABA-Wirkung addiert sich, " +
       "Atemdepression möglich!), Barbiturate, Z-Substanzen (Zolpidem/Zopiclon), " +
       "andere GABAerge Substanzen, Opioide. " +
       "KONTRAINDIKATIONEN: Schwangerschaft, Stillzeit, Lebererkrankungen, " +
       "Niereninsuffizienz (Muscimol wird renal ausgeschieden), schwere psychische " +
       "Erkrankungen. " +
-      "TOLERANZ: Kann sich bei täglicher Einnahme entwickeln -- daher der 3-Tage-Zyklus " +
+      "TOLERANZ: Kann sich bei täglicher Einnahme entwickeln, daher der 3-Tage-Zyklus " +
       "mit Pausenwoche. " +
       "ABSETZEN: Kein körperliches Entzugssyndrom bekannt, aber sanftes Ausschleichen " +
       "(Dosis über 1-2 Wochen reduzieren) ist empfehlenswert nach längerem Gebrauch. " +
@@ -590,14 +590,14 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "auf Restmüdigkeit achten, besonders in der Anfangsphase.",
     hintergrund:
       "Die moderne Fliegenpilz-Mikrodosierung hat ihre Wurzeln in zwei Strömungen: " +
-      "Erstens der russischen Volksmedizin-Tradition der kleinen Dosen ('po kapelyke' -- " +
+      "Erstens der russischen Volksmedizin-Tradition der kleinen Dosen ('po kapelyke'" +
       "tröpfchenweise), und zweitens der Silicon-Valley-Biohacking-Bewegung, die nach " +
       "Psilocybin und LSD nun auch den Fliegenpilz entdeckt hat. Baba Masha " +
       "(Tatjana Posdnyakova), eine russische Mykologin und Mikrodosierungs-Pionierin, " +
       "hat maßgeblich zur Popularisierung beigetragen und ein Protokoll entwickelt, " +
       "das dem hier beschriebenen ähnelt.",
     wissenschaft:
-      "Die Mikrodosierung mit Muscimol ist wissenschaftlich kaum erforscht -- die meisten " +
+      "Die Mikrodosierung mit Muscimol ist wissenschaftlich kaum erforscht, die meisten " +
       "Erkenntnisse stammen aus Erfahrungsberichten und Beobachtungsstudien. " +
       "PLAUSIBEL ist die angstlösende und schlafffördernde Wirkung, da Muscimol ein " +
       "nachgewiesener GABA-A-Agonist ist. Galanin-Rezeptoren könnten ebenfalls eine " +
@@ -607,17 +607,17 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "chronischen Schmerzen. Kontrollierte klinische Studien fehlen bislang.",
     geheimtipp:
       "Die Kapseln abends mit einem kleinen Glas warmem Wasser und einem Spritzer " +
-      "Zitronensaft einnehmen -- die Säure im Magen fördert die Muscimol-Freisetzung. " +
+      "Zitronensaft einnehmen, die Säure im Magen fördert die Muscimol-Freisetzung. " +
       "Für bessere Traeume: Kapsel kombinieren mit Beifuß-Tee (1 TL) als Schlaftrunk. " +
       "Viele erfahrene Mikrodosierer berichten, dass die Wirkung in der 3. und 4. Woche " +
-      "eines Zyklus deutlich stärker ist als in Woche 1 -- eine Art kumulative Wirkung " +
+      "eines Zyklus deutlich stärker ist als in Woche 1, eine Art kumulative Wirkung " +
       "ohne Toleranzentwicklung (bei korrekt eingehaltenen Pausen). " +
       "Frauen berichten häufig von zyklusabhängigen Unterschieden: In der zweiten " +
       "Zyklushälfte (nach dem Eisprung) scheint die Wirkung stärker zu sein.",
     set_und_setting:
-      "MIKRODOSIERUNG IST ALLTAGSKOMPATIBEL -- das ist der Punkt. Kein besonderes " +
+      "MIKRODOSIERUNG IST ALLTAGSKOMPATIBEL, das ist der Punkt. Kein besonderes " +
       "Setting nötig. Die Kapsel abends mit Wasser nehmen, ins Bett gehen, schlafen. " +
-      "HILFREICH: Ein Ritual daraus machen -- z.B. die Kapsel mit einer kleinen " +
+      "HILFREICH: Ein Ritual daraus machen, z.B. die Kapsel mit einer kleinen " +
       "Abend-Meditation verbinden. Eine Intention für den Schlaf/die Traeume setzen. " +
       "Ein Traumtagebuch neben das Bett legen und morgens SOFORT aufschreiben.",
     tags: [
@@ -638,7 +638,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
 
   {
     id: "steppenraute",
-    name: "Steppenraute (Peganum harmala) -- Der europäische MAO-Hemmer",
+    name: "Steppenraute (Peganum harmala): Der europäische MAO-Hemmer",
     kategorie: "Pflanze & Anleitung",
     schwierigkeit: "Fortgeschritten",
     rechtsstatus:
@@ -648,14 +648,14 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "Zoroastrische Rituale (Iran), Islamische Volksmedizin ('Esfand'), zentralasiatische " +
       "Räuchertraditionen, nordafrikanische Heilkunde. In der türkischen und iranischen " +
       "Kultur werden die Samen bis heute als Räucherwerk ('Esfand') gegen den bösen " +
-      "Blick verbrannt -- in fast jedem iranischen Haushalt zu finden.",
+      "Blick verbrannt, in fast jedem iranischen Haushalt zu finden.",
     beschreibung:
       "Die Steppenraute ist eine der bedeutendsten Pflanzen der Ethnobotanik, denn sie " +
       "enthält dieselben MAO-hemmenden Alkaloide wie die südamerikanische Ayahuasca-Liane " +
       "(Banisteriopsis caapi): Harmin und Harmalin. Sie wächst wild im Mittelmeerraum " +
       "und Zentralasien und war vermutlich eine der ältesten rituellen Pflanzen des " +
-      "Nahen Ostens. Als eigenständige Pflanze -- NICHT in Kombination mit anderen " +
-      "Substanzen -- bietet sie einen Zugang zu meditativen, introspektiven Zuständen " +
+      "Nahen Ostens. Als eigenständige Pflanze: NICHT in Kombination mit anderen " +
+      "Substanzen, bietet sie einen Zugang zu meditativen, introspektiven Zuständen " +
       "und intensiven Traumerfahrungen.",
     zutaten: [
       {
@@ -673,7 +673,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "Wirkung durch Inhalation. " +
       "SAMEN-TEE (innerliche Anwendung): " +
       "1. Samen leicht in einer trockenen Pfanne anrösten (2-3 Minuten, bis sie leicht " +
-      "duften -- NICHT verbrennen lassen). Das Rösten verbessert den Geschmack und die " +
+      "duften: NICHT verbrennen lassen). Das Rösten verbessert den Geschmack und die " +
       "Extraktion. " +
       "2. Geröstete Samen im Mörser grob zerstoßen. " +
       "3. In 300ml Wasser aufkochen und 15-20 Minuten köcheln lassen. " +
@@ -683,16 +683,16 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "KAPSELN (für Geschmacksempfindliche): Samen zu Pulver mahlen, in Kapseln " +
       "fuelleen. Wirkt etwas langsamer als Tee.",
     dosierung:
-      "RÄUCHERUNG: Eine Handvoll Samen -- keine genaue Dosierung nötig. " +
+      "RÄUCHERUNG: Eine Handvoll Samen, keine genaue Dosierung nötig. " +
       "INNERLICH: " +
-      "LEICHT: 2g Samen -- milde Stimmungsaufhellung, leichte Sedierung. " +
-      "MITTEL: 3g Samen -- deutliche Introspection, lebhafte innere Bilder bei " +
+      "LEICHT: 2g Samen, milde Stimmungsaufhellung, leichte Sedierung. " +
+      "MITTEL: 3g Samen, deutliche Introspection, lebhafte innere Bilder bei " +
       "geschlossenen Augen, intensive Traeume. " +
-      "STARK: 4-5g Samen -- starke MAO-Hemmung, mögliche Übelkeit, tiefe " +
+      "STARK: 4-5g Samen, starke MAO-Hemmung, mögliche Übelkeit, tiefe " +
       "visionäre Zustände möglich. " +
       "ÜBER 5g: Nicht empfohlen. Übelkeit und Erbrechen wahrscheinlich. " +
       "Wirkungseintritt: 30-60 Minuten. Dauer: 3-6 Stunden. " +
-      "Die MAO-Hemmung hält 12-24 Stunden an -- Diät in dieser Zeit einhalten!",
+      "Die MAO-Hemmung hält 12-24 Stunden an: Diät in dieser Zeit einhalten!",
     wirkung:
       "BEI 2-3g: Ruhige, meditative Stimmung. Innere Stille. Leichte Euphorie. " +
       "Gefühl von Zeitlosigkeit. Augen-geschlossen-Visuals (geometrische Muster, " +
@@ -702,7 +702,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "Körperlich: Leichte Übelkeit möglich (normal bei MAO-Hemmern), Wärmegefühl, " +
       "leichter Tremor (Zittern) bei höheren Dosen.",
     sicherheit:
-      "KRITISCH -- MAO-HEMMER-DIÄT: Harmin und Harmalin hemmen Monoaminoxidase-A. " +
+      "KRITISCH: MAO-HEMMER-DIÄT: Harmin und Harmalin hemmen Monoaminoxidase-A. " +
       "Das bedeutet: 24 Stunden VORHER und NACHHER müssen tyraminreiche Lebensmittel " +
       "vermieden werden: Alter Käse (Parmesan, Cheddar, Gouda etc.), Rotwein und Bier, " +
       "Salami und andere gepökelte/geräucherte Wurstwaren, Sojasauce und fermentierte " +
@@ -710,20 +710,20 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "Grund: MAO baut Tyramin ab. Ohne MAO kann Tyramin hypertensive Krisen auslösen " +
       "(gefährlicher Bluthochdruck). " +
       "LEBENSGEFÄHRLICHE WECHSELWIRKUNGEN: SSRI-Antidepressiva (Sertralin, Fluoxetin, " +
-      "Citalopram etc.) -- Serotonin-Syndrom! SNRI (Venlafaxin, Duloxetin). MDMA/Ecstasy. " +
+      "Citalopram etc.): Serotonin-Syndrom! SNRI (Venlafaxin, Duloxetin). MDMA/Ecstasy. " +
       "Stimulanzien (Amphetamin, Kokain). Andere MAO-Hemmer. Tramadol, Dextromethorphan " +
       "(in vielen Hustenmitteln!). Tryptophan-Präparate, 5-HTP. " +
       "WICHTIG: Steppenraute NICHT mit DMT-haltigen Pflanzen kombinieren (Mimosa, " +
-      "Psychotria viridis etc.) -- das wäre ein Ayahuasca-Analogon und fällt " +
+      "Psychotria viridis etc.), das wäre ein Ayahuasca-Analogon und fällt " +
       "möglicherweise unter das BtMG. " +
       "KONTRAINDIKATIONEN: Herz-Kreislauf-Erkrankungen, Bluthochdruck, Schwangerschaft " +
       "(Harmin ist ein Uterus-Stimulans), Lebererkrankungen.",
     hintergrund:
-      "Die Steppenraute könnte das 'Haoma' der zoroastrischen Tradition sein -- das " +
+      "Die Steppenraute könnte das 'Haoma' der zoroastrischen Tradition sein, das " +
       "iranische Pendant zum vedischen 'Soma'. Beide Begriffe stammen von derselben " +
       "proto-indo-iranischen Wurzel. Im Avesta (dem heiligen Text des Zoroastrismus) " +
       "wird Haoma als göttliche Pflanze beschrieben, die Unsterblichkeit verleiht. " +
-      "In der islamischen Volksmedizin ist 'Esfand' (Steppenraute) allgegenwärtig -- " +
+      "In der islamischen Volksmedizin ist 'Esfand' (Steppenraute) allgegenwärtig" +
       "die Räucherung bei Geburten, Hochzeiten und zur Reinigung von Haeusern ist " +
       "im gesamten nahöistlichen Raum verbreitet. In Türkei, Iran, Afghanistan und " +
       "Pakistan ist sie ein fester Teil des Alltags. " +
@@ -751,7 +751,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "möglich, besonders bei höheren Dosen). Bequeme Liegefläche. Dunkler Raum oder " +
       "Augenmaske für die inneren Visionen. " +
       "MINDSET: Intention setzen. Steppenraute ist traditionell eine Pflanze der " +
-      "Reinigung -- sie bringt ans Licht, was gesehen werden will. Bereitschaft, " +
+      "Reinigung, sie bringt ans Licht, was gesehen werden will. Bereitschaft, " +
       "sich dem zu stellen, was kommt. " +
       "Die Räucherung vor der Einnahme ist ein schönes Ritual: Samen auf Kohle, " +
       "den Rauch durch den Raum ziehen lassen, sich selbst abräuchern.",
@@ -770,22 +770,22 @@ export const BEWUSSTSEINS_PFLANZEN = [
 
   {
     id: "blauer-lotus",
-    name: "Blauer Lotus (Nymphaea caerulea) -- Blume der Traeume",
+    name: "Blauer Lotus (Nymphaea caerulea): Blume der Traeume",
     kategorie: "Pflanze & Rezept",
     schwierigkeit: "Einfach",
     rechtsstatus:
       "Legal in Deutschland. Wird als Tee, Räucherwerk und zu dekorativen Zwecken " +
       "verkauft. Nicht im BtMG oder NpSG gelistet.",
     tradition:
-      "Altägyptische Hochkultur. Der Blaue Lotus ist DIE heilige Pflanze Ägyptens -- " +
+      "Altägyptische Hochkultur. Der Blaue Lotus ist DIE heilige Pflanze Ägyptens" +
       "dargestellt in praktisch jedem Tempel, jedem Grab, jeder Zeremonie. Er war so " +
       "bedeutend wie der Mohn für die Griechen oder der Peyote für die Azteken.",
     beschreibung:
-      "Die Blaue Seerose (oft fälschlich 'Lotus' genannt -- der echte Lotus ist " +
+      "Die Blaue Seerose (oft fälschlich 'Lotus' genannt, der echte Lotus ist " +
       "Nelumbo, nicht Nymphaea) war die heiligste Pflanze des alten Ägyptens. Sie ist " +
-      "auf den Wänden der Gräber von Luxor allgegenwärtig -- in Bankett-Szenen, " +
+      "auf den Wänden der Gräber von Luxor allgegenwärtig, in Bankett-Szenen, " +
       "rituellen Szenen, sogar im Grab des Tutanchamun wurden getrocknete Blaue Lotus-" +
-      "Blüten gefunden. Ihre Wirkung ist sanft, sinnlich und traumfördernd -- eine " +
+      "Blüten gefunden. Ihre Wirkung ist sanft, sinnlich und traumfördernd, eine " +
       "Pflanze der Freude, der Liebe und der Traeume.",
     zutaten: [
       {
@@ -798,7 +798,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
     zubereitung:
       "TEE (einfachste Methode): " +
       "1. 3-5g getrocknete Blüten in eine Tasse geben. " +
-      "2. Mit heißem (nicht kochendem) Wasser übergießen -- ca. 80-85 Grad C. " +
+      "2. Mit heißem (nicht kochendem) Wasser übergießen, ca. 80-85 Grad C. " +
       "Kochendes Wasser kann empfindliche Wirkstoffe beschädigen. " +
       "3. 15-20 Minuten zugedeckt ziehen lassen. " +
       "4. Abseihen. Optional mit Honig süßen. " +
@@ -809,7 +809,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "3. Täglich sanft schwenken. " +
       "4. Abseihen und in eine saubere Flasche füllen. " +
       "5. Ein Glas (150-200ml) dieses Weins ist die traditionelle Zeremonialdosis. " +
-      "Die Kombination von Alkohol und Lotus-Alkaloiden ist synergistisch -- der Wein " +
+      "Die Kombination von Alkohol und Lotus-Alkaloiden ist synergistisch, der Wein " +
       "verstärkt die Wirkung deutlich. Genau so ist es auf den ägyptischen " +
       "Tempelwänden dargestellt: Menschen, die an Lotusblüten riechen und Wein trinken. " +
       "RAUCHERMISCHUNG: " +
@@ -839,22 +839,22 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "MÖGLICHE NEBENWIRKUNGEN bei Überdosierung: Leichte Übelkeit, Schwindel, " +
       "starke Müdigkeit. " +
       "KONTRAINDIKATIONEN: Schwangerschaft (ungenügend erforscht), Stillzeit. " +
-      "Vorsicht in Kombination mit Alkohol über die Weininfusion hinaus -- die " +
+      "Vorsicht in Kombination mit Alkohol über die Weininfusion hinaus, die " +
       "Sedierung kann sich verstärken. " +
       "Nicht vor dem Autofahren oder dem Bedienen von Maschinen.",
     hintergrund:
       "Im alten Ägypten war Nymphaea caerulea allgegenwärtig. Die Blüte öffnet sich " +
-      "morgens mit dem Sonnenaufgang und schließt sich abends -- die Ägypter sahen darin " +
+      "morgens mit dem Sonnenaufgang und schließt sich abends, die Ägypter sahen darin " +
       "ein Symbol für Wiedergeburt und den Sonnengott Ra. Im Totenbuch wird der Blaue " +
       "Lotus mit der Auferstehung verbunden. " +
       "Bankett-Szenen in Gräbern zeigen Gäste, die an Lotusblüten riechen und " +
-      "gleichzeitig Wein trinken -- offensichtlich ritueller Lotus-Wein-Konsum. " +
+      "gleichzeitig Wein trinken, offensichtlich ritueller Lotus-Wein-Konsum. " +
       "Im Grab des Tutanchamun (1323 v.Chr.) lagen getrocknete Blaue Lotus-Blüten " +
       "auf der innersten Sargschicht, direkt auf dem Körper des Pharaos. " +
       "Die Pflanze wurde auch mit Nefertem assoziiert, dem Gott des Parfüms und der " +
       "Schönheit, der aus einer Lotusblüte geboren wurde. " +
       "In der hinduistischen und buddhistischen Tradition hat der Lotus (hier allerdings " +
-      "Nelumbo, der 'echte' Lotus) eine vergleichbare spirituelle Bedeutung -- Erleuchtung " +
+      "Nelumbo, der 'echte' Lotus) eine vergleichbare spirituelle Bedeutung: Erleuchtung " +
       "aus dem Schlamm.",
     wissenschaft:
       "Apomorphin (nicht zu verwechseln mit Morphin!) ist ein Dopamin-D1/D2-Agonist. " +
@@ -870,13 +870,13 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "besser als Wasser, und der Alkohol potenziert die Wirkung. " +
       "Für maximale Traumwirkung: Lotus-Wein kombiniert mit einer Beifuß-Räucherung " +
       "im Schlafzimmer und einer Intention für luzide Traeume. " +
-      "Blauer Lotus ist eine exzellente 'Date-Night-Pflanze' -- die sinnliche, " +
+      "Blauer Lotus ist eine exzellente 'Date-Night-Pflanze', die sinnliche, " +
       "empathiefsteiernde Wirkung, geteilt in einem rituellen Rahmen, kann Intimutät " +
       "auf eine besondere Ebene heben.",
     set_und_setting:
       "Blauer Lotus läd zu schöner Atmosphäre ein. Warmes Licht, angenehme Musik, " +
       "bequeme Kissen. Die ägyptische Assoziation lädt ein, sich in eine zeitlose " +
-      "Stimmung zu versetzen. Räucher dazu Weihrauch oder Myrrhe -- die ägyptische " +
+      "Stimmung zu versetzen. Räucher dazu Weihrauch oder Myrrhe, die ägyptische " +
       "Kombination. " +
       "FÜR TRAEUME: Ruhiger Abend, Lotus-Tee oder -Wein, Intention für den Schlaf " +
       "setzen, Traumtagebuch bereithalten. " +
@@ -895,7 +895,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
 
   {
     id: "beifuss-visionaer",
-    name: "Beifuß (Artemisia vulgaris) -- Das Kraut der Seherin",
+    name: "Beifuß (Artemisia vulgaris): Das Kraut der Seherin",
     kategorie: "Pflanze & Anleitung",
     schwierigkeit: "Einfach",
     rechtsstatus:
@@ -903,13 +903,13 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "Küchenkraut und Heilpflanze frei verkäuflich.",
     tradition:
       "Germanisch-keltische Tradition, Griechische Antike (Artemis-Kult), Chinesische " +
-      "Medizin (TCM -- Moxibustion), Mittelalterliche europäische Kräuterkunde, " +
+      "Medizin (TCM: Moxibustion), Mittelalterliche europäische Kräuterkunde, " +
       "Indigene nordamerikanische Traditionen.",
     beschreibung:
       "Beifuß ist DIE europäische schamanische Pflanze. Während alle Welt nach " +
       "exotischen Pflanzen sucht, wächst diese kraftvolle Seherin-Pflanze an jedem " +
       "Straßenrand, jeder Bahnböschung, jedem Flussufer in Deutschland. Sie wurde " +
-      "seit der Steinzeit als heilige Pflanze genutzt -- in den ältesten europäischen " +
+      "seit der Steinzeit als heilige Pflanze genutzt, in den ältesten europäischen " +
       "Kräuterbüchern (Dioskurides, Hildegard von Bingen) nimmt sie eine zentrale " +
       "Rolle ein. Ihr Name verweist auf Artemis, die griechische Göttin der Jagd, " +
       "des Mondes und der Wildnis.",
@@ -942,7 +942,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "Nicht mehr als 2-3 Tassen täglich, nicht länger als 2 Wochen am Stück. " +
       "RÄUCHERUNG (europäisches Smudging): " +
       "1. Getrocknete Beifuß-Stängel zu einem Bündel binden (wie ein Sage Smudge Stick). " +
-      "2. Ein Ende anzünden, kurz brennen lassen, dann ausblasen -- der Stengel glimmt " +
+      "2. Ein Ende anzünden, kurz brennen lassen, dann ausblasen, der Stengel glimmt " +
       "und räuchert. " +
       "3. Den Rauch durch den Raum und um den Körper führen. " +
       "4. Dies ist das EUROPÄISCHE Equivalent zum nordamerikanischen White Sage Smudging. " +
@@ -976,7 +976,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "Volksmedizin wurde er als Abtreibungsmittel verwendet. Schwangere sollten auch " +
       "den Rauch meiden. " +
       "THUJON: In niedrigen Dosen (Tee) unbedenklich. Bei exzessivem Konsum (viele " +
-      "Tassen täglich über Wochen) theoretisch neurotoxisch -- daher die 2-Wochen-Regel. " +
+      "Tassen täglich über Wochen) theoretisch neurotoxisch, daher die 2-Wochen-Regel. " +
       "ALLERGIEN: Beifuß ist ein häufiges Allergen (Beifuß-Allergie = häufigste " +
       "Kräuterallergie in Europa). Wer auf Beifuß-Pollen allergisch reagiert, sollte " +
       "vorsichtig beginnen. " +
@@ -989,47 +989,47 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "JOHANNISNACHT: In der mitteleuropäischen Tradition wurde Beifuß in der Nacht " +
       "der Sommersonnenwende (Johannisnacht, 23./24. Juni) geerntet und zu Gürteln " +
       "gewunden. Diese 'Beifuß-Gürtel' wurden beim Johannisfeuer getragen und " +
-      "anschließend ins Feuer geworfen -- symbolisch für das Verbrennen von Krankheit " +
+      "anschließend ins Feuer geworfen, symbolisch für das Verbrennen von Krankheit " +
       "und Unglück. " +
       "HILDEGARD VON BINGEN (12. Jh.): Beschreibt Beifuß ausführlich für " +
       "Verdauungsbeschwerden und als Frauenkraut. " +
       "TCM: In der Chinesischen Medizin als 'Ai Ye' bekannt, ist Beifuß (Artemisia " +
-      "argyi, eng verwandt) das zentrale Kraut für Moxibustion -- eine Technik, die " +
+      "argyi, eng verwandt) das zentrale Kraut für Moxibustion, eine Technik, die " +
       "seit über 2500 Jahren angewandt wird. " +
       "VOLLMOND-ERNTE: Traditionell wird Beifuß bei Vollmond geerntet, idealerweise " +
       "in der Johannisnacht. Ob dies die Wirkstoffkonzentration beeinflusst, ist " +
       "wissenschaftlich nicht belegt, aber es ist eine schöne Praxis.",
     wissenschaft:
-      "Thujon (alpha- und beta-Thujon) ist der bekannteste Wirkstoff -- derselbe Stoff, " +
+      "Thujon (alpha- und beta-Thujon) ist der bekannteste Wirkstoff, derselbe Stoff, " +
       "der in Absinth (Wermutkraut, Artemisia absinthium) vorkommt, allerdings in " +
       "geringerer Konzentration. Thujon ist ein GABA-A-Antagonist und kann in hohen " +
-      "Dosen krämpfe auslösen -- in den Mengen, die im Tee vorkommen, ist es jedoch " +
+      "Dosen krämpfe auslösen, in den Mengen, die im Tee vorkommen, ist es jedoch " +
       "unbedenklich. Weitere Wirkstoffe: 1,8-Cineol (entzündungshemmend), Kampfer " +
       "(durchblutungsfördernd), diverse Sesquiterpenlactone (bitterstoffhaltig, " +
       "verdauungsfördernd). Die traumfördernde Wirkung ist wissenschaftlich nicht " +
-      "erklärt -- möglicherweise spielen die ätherischen Öle eine Rolle, die " +
+      "erklärt, möglicherweise spielen die ätherischen Öle eine Rolle, die " +
       "während des Schlafs über die Atemwege aufgenommen werden.",
     geheimtipp:
       "Der BESTE Zeitpunkt zum Sammeln für visionäre Zwecke ist kurz vor der Blüte " +
       "(Juli-August), wenn die Ölkonzentration am höchsten ist. Die oberen 20cm des " +
       "Stengels mit den Blütenknospen sind am wirksamsten. " +
-      "Beifuß wächst häufig an Bahngleisen -- dort NICHT sammeln (Herbizide!). " +
+      "Beifuß wächst häufig an Bahngleisen, dort NICHT sammeln (Herbizide!). " +
       "Am besten an Flussufern oder Waldrändern abseits von Straßen und Feldern. " +
       "Für die stärkste Traumwirkung: Beifuß-Tee am Abend, dazu ein Beifuß-" +
-      "Räucherbündel im Schlafzimmer abbrennen, Traumkissen unter dem Kopf -- " +
+      "Räucherbündel im Schlafzimmer abbrennen, Traumkissen unter dem Kopf" +
       "diese Dreifach-Kombination ist die europäische Antwort auf die südamerikanische " +
       "Traumarbeit.",
     set_und_setting:
       "Beifuß ist die sanfteste Pflanze auf dieser Liste und eignet sich hervorragend " +
       "für den Einstieg in die pflanzliche Bewusstseinsarbeit. " +
-      "FÜR TRAEUME: Abendliches Ritual -- Tee kochen, Räucherung im Schlafzimmer, " +
+      "FÜR TRAEUME: Abendliches Ritual: Tee kochen, Räucherung im Schlafzimmer, " +
       "Traumkissen zurechtrrücken, eine klare Traumintention formulieren " +
       "('Ich möchte mich an meine Traeume erinnern', 'Ich möchte Klarheit zu [Thema] " +
       "erhalten'). Traumtagebuch und Stift griffbereit. " +
       "FÜR MEDITATION: Räucherung anzünden, hinsetzen, den Rauch als Fokuspunkt " +
       "nutzen. Beifuß-Rauch hat eine erdende, zentrierende Qualität. " +
       "FÜR ZEREMONIEN: Beifuß ist das perfekte Räucherwerk für jede Art von " +
-      "spiritueller Praxis in europäischer Tradition -- und ökoligisch unbedenklich.",
+      "spiritueller Praxis in europäischer Tradition, und ökoligisch unbedenklich.",
     tags: [
       "#beifuß",
       "#artemisia",
@@ -1045,7 +1045,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
 
   {
     id: "traumkraut",
-    name: "Traumkraut (Calea zacatechichi) -- Der Klartraum-Meister",
+    name: "Traumkraut (Calea zacatechichi): Der Klartraum-Meister",
     kategorie: "Pflanze & Rezept",
     schwierigkeit: "Mittel",
     rechtsstatus:
@@ -1067,12 +1067,12 @@ export const BEWUSSTSEINS_PFLANZEN = [
         name: "Getrocknete Calea zacatechichi Blätter",
         menge: "3-5g für Tee, 1-2g zum Rauchen",
         wirkung:
-          "Enthält Caleicine und Caleochromene -- die genauen Wirkmechanismen für " +
+          "Enthält Caleicine und Caleochromene, die genauen Wirkmechanismen für " +
           "die Traumverstärkung sind noch nicht vollständig geklärt",
       },
     ],
     zubereitung:
-      "TEE (traditionelle Methode -- erfordert Überwindung): " +
+      "TEE (traditionelle Methode, erfordert Überwindung): " +
       "1. 3-5g getrocknete Blätter in eine Tasse geben. " +
       "2. Mit heißem Wasser übergießen (kein kochendes Wasser, ca. 80 Grad C). " +
       "3. 15 Minuten zugedeckt ziehen lassen. " +
@@ -1118,7 +1118,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "MÖGLICHE EFFEKTE: Sehr lebhafte Traeume können für manche Menschen " +
       "beunruhigend sein, besonders wenn Alptraeume verstärkt werden. Wer zu " +
       "Alpträuumen neigt, sollte vorsichtig beginnen. " +
-      "UBELKEIT: Der extrem bittere Geschmack kann Übelkeit auslösen -- das ist " +
+      "UBELKEIT: Der extrem bittere Geschmack kann Übelkeit auslösen, das ist " +
       "der Geschmack, nicht die Pflanze. Kapseln umgehen dieses Problem. " +
       "KONTRAINDIKATIONEN: Schwangerschaft (unzureichend erforscht), Stillzeit. " +
       "Nicht bekannt für Wechselwirkungen mit Medikamenten, aber bei MAO-Hemmern " +
@@ -1126,12 +1126,12 @@ export const BEWUSSTSEINS_PFLANZEN = [
     hintergrund:
       "Die Chontal Maya im mexikanischen Bundesstaat Oaxaca nutzen Calea zacatechichi " +
       "seit Jahrhunderten für das, was sie 'Traumorakel' nennen. Der Heiler trinkt " +
-      "den Tee, raucht die Blätter und schläft mit einer Frage ein -- die Antwort " +
+      "den Tee, raucht die Blätter und schläft mit einer Frage ein, die Antwort " +
       "kommt im Traum. Diese Praxis ist eine Form der Oneiromantie (Traumdeutung als " +
       "Orakel), die in vielen Kulturen existiert, aber von den Chontal mit dieser " +
       "spezifischen Pflanze auf ein eigenes Level gehoben wurde. " +
       "In der aztekischen Medizin wurde die Pflanze auch bei Magen-Darm-Beschwerden " +
-      "eingesetzt -- die Bitterstoffe regen die Verdauung an. " +
+      "eingesetzt, die Bitterstoffe regen die Verdauung an. " +
       "Der Name 'zacatechichi' kommt aus dem Nahuatl und bedeutet 'bitteres Gras'.",
     wissenschaft:
       "Eine Studie von Mayagoitia et al. (1986) im Journal of Ethnopharmacology " +
@@ -1143,7 +1143,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "REM-Schlaf-Phasen verlängern oder die kortikale Aktivität während des " +
       "Schlafs modifizieren.",
     geheimtipp:
-      "Die bitterkeit lässt sich NICHT besiegen -- man muss sie akzeptieren. " +
+      "Die bitterkeit lässt sich NICHT besiegen, man muss sie akzeptieren. " +
       "Mazatekische Heiler sagen, dass die Bitterkeit Teil der Medizin ist: " +
       "Der bittere Geschmack 'weckt den Geist auf' und bereitet ihn auf die " +
       "Traumarbeit vor. " +
@@ -1157,8 +1157,8 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "ABEND-ROUTINE: 30 Minuten vor dem Schlafen den Tee trinken. Bildschirme " +
       "aus. Im Bett liegend die Intention formulieren: 'Ich werde mich an meine " +
       "Traeume erinnern' oder 'Ich werde im Traum erkennen, dass ich traeume'. " +
-      "MORGENS: SOFORT nach dem Aufwachen -- noch bevor man sich bewegt oder die " +
-      "Augen öffnet -- die Traeume im Geist rekapitulieren und dann aufschreiben. " +
+      "MORGENS: SOFORT nach dem Aufwachen, noch bevor man sich bewegt oder die " +
+      "Augen öffnet, die Traeume im Geist rekapitulieren und dann aufschreiben. " +
       "Jede Bewegung, jeder Gedanke an den Tag kann Traumerinnerungen löschen. " +
       "GEDULD: Mindestens 5 Nächte durchhalten. Die Pflanze braucht Zeit.",
     tags: [
@@ -1175,24 +1175,24 @@ export const BEWUSSTSEINS_PFLANZEN = [
 
   {
     id: "kanna",
-    name: "Kanna (Sceletium tortuosum) -- Die südafrikanische Herzmedizin",
+    name: "Kanna (Sceletium tortuosum): Die südafrikanische Herzmedizin",
     kategorie: "Pflanze & Anleitung",
     schwierigkeit: "Mittel",
     rechtsstatus:
       "Legal in Deutschland. Frei verkäuflich als Nahrungsergänzungsmittel, " +
       "Tee oder Pulver. Nicht im BtMG oder NpSG.",
     tradition:
-      "San (Buschmenschen) und Khoikhoi (Hottentotten) -- die ältesten Völker " +
+      "San (Buschmenschen) und Khoikhoi (Hottentotten), die ältesten Völker " +
       "Südafrikas nutzen Kanna seit mindestens 1000 Jahren, wahrscheinlich viel länger. " +
       "Die erste europäische Erwähnung stammt von 1662 durch den holländischen " +
       "Kolonialbeamten Jan van Riebeeck.",
     beschreibung:
-      "Kanna ist eine der faszinierendsten legalen Pflanzen -- ein natürlicher Serotonin-" +
+      "Kanna ist eine der faszinierendsten legalen Pflanzen, ein natürlicher Serotonin-" +
       "Wiederaufnahmehemmer (SRI), der seit Jahrhunderten von den ältesten Kulturen " +
       "Südafrikas als Stimmungsaufheller, Angstlöser und soziales Schmiermittel " +
       "genutzt wird. Die San kauten die fermentierte Pflanze vor Jagden (Fokus, " +
       "Furchtlosigkeit), bei Zeremonien (Verbundenheit, Tanz) und bei Konflikten " +
-      "(Entspannung, Friedfertigkeit). Manche nennen es 'natürliches MDMA' -- das " +
+      "(Entspannung, Friedfertigkeit). Manche nennen es 'natürliches MDMA', das " +
       "ist übertrieben, aber die empathogene Wärme ist real.",
     zutaten: [
       {
@@ -1208,7 +1208,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "1. Frisches Kanna-Pflanzenmaterial (Blätter, Stengel) grob zerkleinern. " +
       "2. In einen verschließbaren Behälter geben (traditionell: in ein Loch im Boden). " +
       "3. 8 Tage fermentieren lassen bei Raumtemperatur. Der Behälter sollte nicht " +
-      "luftdicht sein -- leichter Luftaustausch ist erwünscht. " +
+      "luftdicht sein, leichter Luftaustausch ist erwünscht. " +
       "4. Täglich öffnen und umrühren. Es entwickelt sich ein charakteristischer, " +
       "leicht sauerlicher Geruch. " +
       "5. Nach 8 Tagen an der Sonne oder im Dörrautomat bei niedriger Temperatur " +
@@ -1223,7 +1223,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "TEE: " +
       "200-500mg Pulver in heißem Wasser auflösen. 10 Minuten ziehen. " +
       "Geschmack: leicht herb, erdig. Wirkung etwas langsamer als sublingual. " +
-      "INSUFFLATION (Schnupfen -- traditionelle San-Methode): " +
+      "INSUFFLATION (Schnupfen, traditionelle San-Methode): " +
       "25-50mg fein gemahlenes Pulver durch die Nase ziehen. " +
       "VORSICHT: Brennt intensiv für 1-2 Minuten! " +
       "Schnellster Wirkungseintritt: 2-5 Minuten. " +
@@ -1246,13 +1246,13 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "(Übelkeit, Kopfdruck). Weniger ist hier tatsächlich mehr. " +
       "KÖRPERLICH: Leichte Appetithemmung, erhöhte Energie (niedrige Dosen), " +
       "Entspannung (höhere Dosen). Pupillenerweiterung möglich. " +
-      "Die Wirkung ist NICHT psychedelisch -- keine Visuals, keine Halluzinationen. " +
+      "Die Wirkung ist NICHT psychedelisch, keine Visuals, keine Halluzinationen. " +
       "Eher eine sanfte, warme Verschiebung der Stimmung und Körperwahrnehmung.",
     sicherheit:
-      "KRITISCH -- WECHSELWIRKUNG MIT SSRIs: Kanna ist selbst ein Serotonin-" +
+      "KRITISCH: WECHSELWIRKUNG MIT SSRIs: Kanna ist selbst ein Serotonin-" +
       "Wiederaufnahmehemmer. Die Kombination mit verschreibungspflichtigen SSRIs " +
       "(Sertralin/Zoloft, Fluoxetin/Prozac, Citalopram, Escitalopram etc.) kann " +
-      "das SEROTONIN-SYNDROM auslösen -- potentiell lebensbedrohlich! " +
+      "das SEROTONIN-SYNDROM auslösen, potentiell lebensbedrohlich! " +
       "Symptome: Fieber, Verwirrtheit, schneller Herzschlag, Krampfanfälle. " +
       "AUCH NICHT KOMBINIEREN MIT: MAO-Hemmern (Steppenraute!), MDMA/Ecstasy, " +
       "Tramadol, Dextromethorphan, 5-HTP, Tryptophan. " +
@@ -1261,42 +1261,42 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "NEBENWIRKUNGEN bei Überdosierung: Übelkeit, Kopfschmerzen, Angst " +
       "(paradox bei zu hoher Dosis), Schwindel.",
     hintergrund:
-      "Die San (Buschmenschen) sind das älteste Volk der Erde -- ihre DNA-Linie " +
+      "Die San (Buschmenschen) sind das älteste Volk der Erde, ihre DNA-Linie " +
       "reicht über 100.000 Jahre zurück. Kanna war ein zentraler Teil ihrer Kultur: " +
       "Vor der Jagd gekaut für Fokus und Furchtlosigkeit. Uursprüglich wurde die " +
-      "Pflanze nach der Jagd mit der Gruppe geteilt -- ein Ritual des Teilens und der " +
+      "Pflanze nach der Jagd mit der Gruppe geteilt, ein Ritual des Teilens und der " +
       "Verbundenheit. Bei Stammeskonflikten wurde Kanna gemeinsam gekaut, um " +
       "Friedfertigkeit und Kompromissbereitschaft zu fördern. " +
       "Die Khoikhoi nannten es 'Kougoed' (Kauzgut) und handelten es als wertvolle " +
       "Ware mit niederländischen Kolonialisten. Jan van Riebeeck (Gründer von " +
       "Kapstadt) dokumentierte 1662 den Tauschhandel. " +
-      "Die Pflanze wächst in der halbwüstenartigen Karoo-Region Südafrikas -- " +
+      "Die Pflanze wächst in der halbwüstenartigen Karoo-Region Südafrikas" +
       "eine der unwirtlichsten Landschaften der Erde. Dass ausgerechnet hier eine " +
       "der wirksamsten Stimmungspflanzen wächst, hat etwas Poetisches.",
     wissenschaft:
-      "Mesembrin ist ein potenter Serotonin-Wiederaufnahmehemmer (SRI) -- derselbe " +
+      "Mesembrin ist ein potenter Serotonin-Wiederaufnahmehemmer (SRI), derselbe " +
       "Mechanismus wie bei SSRI-Antidepressiva, aber natürlichen Ursprungs. " +
-      "Mesembrenon ist ein PDE4-Hemmer (Phosphodiesterase 4) -- PDE4-Hemmung wirkt " +
+      "Mesembrenon ist ein PDE4-Hemmer (Phosphodiesterase 4): PDE4-Hemmung wirkt " +
       "antidepressiv und entzündungshemmend. Roflumilast, ein verschreibungspflichtiges " +
       "PDE4-Hemmer-Medikament, hat ähnliche Effekte. " +
       "Klinische Studien (Nell et al., 2013; Chiu et al., 2014) zeigen signifikante " +
       "anxiolytische Effekte bei 25mg standardisiertem Extrakt (Zembrin). " +
       "Die Amygdala-Reaktivität (Angstzentrum im Gehirn) wird messbar reduziert.",
     geheimtipp:
-      "Kanna entfaltet seine volle Qualität erst mit fermentiertem Material -- " +
+      "Kanna entfaltet seine volle Qualität erst mit fermentiertem Material" +
       "nicht-fermentiertes Kanna wirkt deutlich schwächer und kann Magenprobleme " +
       "verursachen. Beim Kauf auf 'fermented' achten. " +
       "Die sublingual Methode ist nicht nur die schnellste, sondern auch die " +
       "wirksamste pro Milligramm. " +
       "Kanna VOR sozialen Situationen (Party, wichtiges Gespräch, erste Date) " +
       "kann die soziale Angst drastisch reduzieren ohne die kognitive Funktion " +
-      "zu beeinträchtigen -- anders als Alkohol. " +
+      "zu beeinträchtigen, anders als Alkohol. " +
       "Kanna + Zeremonial-Kakao ist eine besonders schöne Kombination für " +
       "Paar-Zeremonien oder Gruppenrituale: die Empathie des Kanna plus die " +
       "Herzöffnung des Kakao.",
     set_und_setting:
       "SOZIAL: Kanna ist eine soziale Pflanze. Sie entfaltet sich am schönsten " +
-      "in Gemeinschaft -- gute Gespräche, Tanz, gemeinsames Singen. " +
+      "in Gemeinschaft, gute Gespräche, Tanz, gemeinsames Singen. " +
       "ZEREMONIELL: In einem rituellen Rahmen mit klarer Intention kann Kanna " +
       "tiefes Mitgefühl und Verbundenheit fördern. " +
       "ALLEIN: Für Meditation und Selbstreflexion bei niedrigerer Dosis (50-100mg) " +
@@ -1318,14 +1318,14 @@ export const BEWUSSTSEINS_PFLANZEN = [
 
   {
     id: "helmkraut",
-    name: "Helmkraut (Scutellaria) -- Der vergessene Visionär",
+    name: "Helmkraut (Scutellaria): Der vergessene Visionär",
     kategorie: "Pflanze & Rezept",
     schwierigkeit: "Einfach",
     rechtsstatus:
       "Legal in Deutschland. Als Teekraut und Nahrungsergänzungsmittel frei verkäuflich.",
     tradition:
-      "Nordamerikanische indigene Völker (Scutellaria lateriflora -- 'Mad Dog Skullcap'), " +
-      "Chinesische Medizin (Scutellaria baicalensis -- 'Huang Qin'), Europäische " +
+      "Nordamerikanische indigene Völker (Scutellaria lateriflora, 'Mad Dog Skullcap'), " +
+      "Chinesische Medizin (Scutellaria baicalensis, 'Huang Qin'), Europäische " +
       "Kräuterheilkunde.",
     beschreibung:
       "Helmkraut gehört zu den am meisten unterschätzten Heilpflanzen. Die " +
@@ -1340,8 +1340,8 @@ export const BEWUSSTSEINS_PFLANZEN = [
         name: "Getrocknetes Helmkraut (Scutellaria lateriflora oder S. baicalensis)",
         menge: "2-5g je nach Zubereitung",
         wirkung:
-          "S. lateriflora: Bairakein, Scutellarin -- anxiolytisch, krampflösend. " +
-          "S. baicalensis: Baicalin, Wogonin -- neuroprotektiv, anxiolytisch, " +
+          "S. lateriflora: Bairakein, Scutellarin, anxiolytisch, krampflösend. " +
+          "S. baicalensis: Baicalin, Wogonin, neuroprotektiv, anxiolytisch, " +
           "entzuendungshemmend",
       },
     ],
@@ -1349,7 +1349,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "TEE: " +
       "1. 2-3g getrocknetes Helmkraut in eine Tasse geben. " +
       "2. Mit heißem Wasser übergießen. " +
-      "3. 15 Minuten zugedeckt ziehen lassen -- das ist WICHTIG, die Wirkstoffe " +
+      "3. 15 Minuten zugedeckt ziehen lassen, das ist WICHTIG, die Wirkstoffe " +
       "brauchen Zeit. Nicht nur 5 Minuten! " +
       "4. Abseihen. Geschmack: mild, leicht bitter, angenehm krautig. " +
       "5. 1-3 Tassen täglich möglich. " +
@@ -1373,20 +1373,20 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "KEIN BEKANNTES ÜBERDOSIERUNGSRISIKO bei normaler Verwendung.",
     wirkung:
       "MENTAL: Tiefer, klarer Frieden. Gedankenkarussell stoppt. Geistige Klarheit " +
-      "bleibt erhalten -- man wird nicht 'dumpf' wie bei Baldrian oder Hopfen. " +
+      "bleibt erhalten, man wird nicht 'dumpf' wie bei Baldrian oder Hopfen. " +
       "Konzentrationsfähigkeit bleibt. " +
       "EMOTIONAL: Angst löst sich sanft auf. Emotionale Reaktivität nimmt ab. " +
       "Man fühlt sich 'geerdet' und 'zentriert'. " +
       "KÖRPERLICH: Muskuläre Entspannung (historisch bei Krämpfen eingesetzt). " +
       "Leichte Wärme. " +
       "TRAEUME: In Kombination mit Beifuß und Blauem Lotus verstärkt Helmkraut " +
-      "die Traumintensität, wahrend es gleichzeitig den Schlaf verbessert -- eine " +
+      "die Traumintensität, wahrend es gleichzeitig den Schlaf verbessert, eine " +
       "seltene Kombination. " +
       "RAUCHEN: Sofort spürbare Beruhigung, wie ein tiefer Atemzug für den Geist.",
     sicherheit:
       "Helmkraut ist außerordentlich sicher. In der Literatur sind keine ernsthaften " +
       "Nebenwirkungen dokumentiert. " +
-      "VORSICHT bei Lebererkrankungen -- in sehr seltenen Fällen wurden bei extrem " +
+      "VORSICHT bei Lebererkrankungen, in sehr seltenen Fällen wurden bei extrem " +
       "hoher Dosierung über lange Zeitraeume Leberbelastungen berichtet, aber die " +
       "Qualität dieser Berichte ist umstritten (möglicherweise Verfälschungen " +
       "mit anderen Pflanzen). " +
@@ -1395,10 +1395,10 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "Beruhigungsmitteln (Benzodiazepine, Barbiturate) mit Arzt sprechen.",
     hintergrund:
       "Die Cherokee nannten Scutellaria lateriflora eine Pflanze für 'ruhige Kraft'. " +
-      "Sie wurde in Zeremonien verwendet, die Klarheit und Führung erforderten -- " +
+      "Sie wurde in Zeremonien verwendet, die Klarheit und Führung erforderten" +
       "nicht als Rauschmittel, sondern als Werkzeug für klares Denken unter Druck. " +
       "Im 18. und 19. Jahrhundert wurde sie in Amerika als 'Mad Dog Skullcap' bekannt, " +
-      "weil ein Arzt behauptete, sie könne Tollwut heilen -- das stimmt nicht, aber " +
+      "weil ein Arzt behauptete, sie könne Tollwut heilen, das stimmt nicht, aber " +
       "die beruhigende Wirkung auf das überregte Nervensystem ist real. " +
       "In der TCM ist Scutellaria baicalensis (Huang Qin) eines der 50 fundamentalen " +
       "Kräuter und wird seit über 2000 Jahren bei Entzündungen, Fieber und " +
@@ -1414,21 +1414,21 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "hat aber keine Abhängigkeits- oder Toleranzentwicklung gezeigt.",
     geheimtipp:
       "DIE TRAUM-MISCHUNG: Helmkraut 2g + Beifuß 2g + Blauer Lotus 2g als " +
-      "Abendtee -- das ist eine der wirksamsten legalen Traummischungen überhaupt. " +
+      "Abendtee, das ist eine der wirksamsten legalen Traummischungen überhaupt. " +
       "Helmkraut liefert die Ruhe, Beifuß die Traumbilder, Blauer Lotus die " +
       "Lebhaftigkeit. " +
       "Helmkraut-Tinktur als 'Notfall-Angstlöser': 30-40 Tropfen bei akuter " +
       "Angst wirken innerhalb von 15-20 Minuten. Keine Abhängigkeit, kein " +
       "Rebound, keine kognitive Beeinträchtigung. " +
       "Als Rauchkraut ist Helmkraut die perfekte Basis für jede Kräutermischung " +
-      "-- mild im Geschmack, angenehm im Rauch, und die beruhigende Wirkung " +
+      "mild im Geschmack, angenehm im Rauch, und die beruhigende Wirkung " +
       "ergänzt fast jede andere Pflanze.",
     set_und_setting:
       "Helmkraut ist der perfekte Begleiter für Meditation, Yoga, Journaling " +
       "und jede Form von innerer Arbeit. Eine Tasse Helmkraut-Tee 30 Minuten " +
       "vor der Praxis schafft die ideale Grundlage: Ruhiger Geist bei klarem " +
       "Bewusstsein. " +
-      "Abends vor dem Schlafengehen als Teil einer Traum-Routine wunderbar -- " +
+      "Abends vor dem Schlafengehen als Teil einer Traum-Routine wunderbar" +
       "den Tee als Ritual, mit Intention für die Nacht.",
     tags: [
       "#helmkraut",
@@ -1445,7 +1445,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
 
   {
     id: "passionsblume-visionaer",
-    name: "Wilde Passionsblume (Passiflora incarnata) -- Die Beruhigerin",
+    name: "Wilde Passionsblume (Passiflora incarnata): Die Beruhigerin",
     kategorie: "Pflanze & Rezept",
     schwierigkeit: "Einfach",
     rechtsstatus:
@@ -1457,7 +1457,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "nordamerikanische indigene Medizin.",
     beschreibung:
       "Die Passionsblume ist in der deutschen Phytotherapie als mildes Beruhigungsmittel " +
-      "bekannt -- aber die wenigsten wissen, dass sie MAO-hemmende Beta-Carboline enthält: " +
+      "bekannt, aber die wenigsten wissen, dass sie MAO-hemmende Beta-Carboline enthält: " +
       "Harman und Harmin, dieselben Alkaloide, die in der Ayahuasca-Liane und der " +
       "Steppenraute vorkommen, allerdings in deutlich geringerer Konzentration. In " +
       "Standarddosen (2-3g) ist sie ein sanftes Beruhigungsmittel. In höherer Dosis " +
@@ -1482,12 +1482,12 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "VISIONÄRER TEE (hohe Dosis): " +
       "1. 5-8g getrocknetes Kraut in einen kleinen Topf geben. " +
       "2. Mit 400ml Wasser aufgießen und 15 Minuten sanft köcheln lassen " +
-      "(NICHT nur übergießen -- das Köcheln extrahiert die Beta-Carboline besser). " +
+      "(NICHT nur übergießen, das Köcheln extrahiert die Beta-Carboline besser). " +
       "3. Abseihen und auf Trinktemperatur abkühlen lassen. " +
       "4. Auf leeren oder leichten Magen trinken. " +
       "5. 45-60 Minuten vor Meditation oder Schlafengehen. " +
       "KOMBINATIONSTEE: " +
-      "Passionsblume 3g + Blauer Lotus 2g + Beifuß 1g -- eine sanfte, " +
+      "Passionsblume 3g + Blauer Lotus 2g + Beifuß 1g, eine sanfte, " +
       "aber wirkungsvolle Kombination für Meditation und Traumarbeit.",
     dosierung:
       "BERUHIGUNG: 2-3g als Tee, 2-3x täglich. Offiziell von der Kommission E " +
@@ -1509,12 +1509,12 @@ export const BEWUSSTSEINS_PFLANZEN = [
     sicherheit:
       "Passionsblume ist ein offiziell anerkanntes Phytopharmakon mit sehr gutem " +
       "Sicherheitsprofil. " +
-      "NEBENWIRKUNGEN: Selten -- Schwindel, Verwirrtheit und Müdigkeit bei " +
+      "NEBENWIRKUNGEN: Selten: Schwindel, Verwirrtheit und Müdigkeit bei " +
       "empfindlichen Personen oder hoher Dosis. " +
       "SCHWANGERSCHAFT: Kontraindiziert (kann Uteruskontraktionen fördern). " +
       "WECHSELWIRKUNGEN: Kann die Wirkung von Sedativa und Antihistaminika " +
       "verstärken. Bei hoher Dosis (5-8g): Vorsicht mit serotonergen " +
-      "Substanzen (SSRIs, MAO-Hemmer) wegen der Beta-Carboline -- obwohl die " +
+      "Substanzen (SSRIs, MAO-Hemmer) wegen der Beta-Carboline, obwohl die " +
       "Mengen gering sind, ist Vorsicht geboten. " +
       "NICHT mit Steppenraute kombinieren (additive MAO-Hemmung).",
     hintergrund:
@@ -1522,20 +1522,20 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "und benannten sie nach der Passion Christi (die Blütenteile wurden als Symbole " +
       "der Kreuzigung interpretiert: 10 Kronblätter = 10 treue Apostel, Fadenkranz = " +
       "Dornenkrone, 5 Staubgefäße = 5 Wunden, 3 Narben = 3 Nägel). " +
-      "Die Azteken nutzten Passiflora-Arten als Beruhigungsmittel und Schlafmittel -- " +
+      "Die Azteken nutzten Passiflora-Arten als Beruhigungsmittel und Schlafmittel" +
       "eine Verwendung, die von der modernen Phytotherapie bestätigt wurde. " +
       "In der nordamerikanischen Volksmedizin war sie ein Mittel gegen 'Hysterie' und " +
       "'Nervosität'. " +
       "Die Beta-Carbolin-Verbindung wurde erst später entdeckt und stellt eine " +
       "faszinierende Brücke zur südamerikanischen Ayahuasca-Tradition dar.",
     wissenschaft:
-      "Chrysin ist ein positiver allosterischer Modulator des GABA-A-Rezeptors -- " +
+      "Chrysin ist ein positiver allosterischer Modulator des GABA-A-Rezeptors" +
       "es bindet an die Benzodiazepin-Bindungsstelle und verstärkt die GABAerge " +
       "Hemmung, ohne die typischen Benzodiazepin-Nebenwirkungen (Abhängigkeit, " +
       "kognitive Beeinträchtigung). Klinische Studien (Appel et al., 2011; Aslanargun " +
       "et al., 2012) zeigen anxiolytische Wirkung vergleichbar mit niedrig dosiertem " +
       "Oxazepam (Benzodiazepin). Die Beta-Carboline (Harman, Harmin) sind in " +
-      "Passiflora in Spurenmengen enthalten -- genug für subtile MAO-A-Hemmung, " +
+      "Passiflora in Spurenmengen enthalten, genug für subtile MAO-A-Hemmung, " +
       "aber weit unter der Schwelle für die strengen MAO-Hemmer-Diätregeln.",
     geheimtipp:
       "Für die stärkste visionäre Wirkung: 8g Passionsblumenkraut 20 Minuten " +
@@ -1545,9 +1545,9 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "MAO-Hemmung schafft einen ungewöhnlich klaren, ruhigen Bewusstseinszustand. " +
       "Passionsblume ist die perfekte 'Einstiegspflanze' für Menschen, die sich " +
       "für Bewusstseinsarbeit interessieren, aber respekt vor stärkeren Pflanzen " +
-      "haben -- sie ist sanft, sicher und in jeder Apotheke erhältlich.",
+      "haben, sie ist sanft, sicher und in jeder Apotheke erhältlich.",
     set_und_setting:
-      "FÜR BERUHIGUNG: Keine besondere Vorbereitung nötig -- Alltagstee. " +
+      "FÜR BERUHIGUNG: Keine besondere Vorbereitung nötig: Alltagstee. " +
       "FÜR MEDITATION: 45-60 Minuten vor der Sitzung den starken Tee (5-8g) trinken. " +
       "Ruhiger Raum, bequemer Sitz, eventuell sanfte Musik. Die Passionsblume " +
       "unterstützt besonders Herzmeditationen und Mitgefühls-Praktiken. " +
@@ -1568,7 +1568,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
 
   {
     id: "damiana-bewusstsein",
-    name: "Damiana (Turnera diffusa) -- Feuer der Azteken",
+    name: "Damiana (Turnera diffusa): Feuer der Azteken",
     kategorie: "Pflanze & Rezept",
     schwierigkeit: "Einfach",
     rechtsstatus:
@@ -1583,7 +1583,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "Damiana ist die Pflanze der Leidenschaft und Lebensfreude. Die Azteken " +
       "nutzten sie als Aphrodisiakum, als zeremonielles Rauchkraut und als " +
       "stimmungsaufhellenden Tee. Damiana ist eine der angenehmsten Pflanzen " +
-      "zum Rauchen -- der Rauch ist mild, leicht süßlich und erzeugt eine " +
+      "zum Rauchen, der Rauch ist mild, leicht süßlich und erzeugt eine " +
       "sanfte, cannabisähnliche Entspannung (wirkt aber völlig anders im Körper, " +
       "kein Cannabinoid-Mechanismus). Als Tee ist sie stimmungsaufhellend und " +
       "wärmend. Die Legende sagt, die Original-Margarita wurde mit Damiana-Likör " +
@@ -1601,7 +1601,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "RAUCHEN (angenehmste Methode): " +
       "1. Getrocknetes Damiana-Kraut locker in eine Pfeife füllen oder in " +
       "Blättchen drehen. " +
-      "2. Langsam und genussvoll rauchen -- nicht hastig inhalieren. " +
+      "2. Langsam und genussvoll rauchen, nicht hastig inhalieren. " +
       "3. Der Rauch ist mild und angenehm süßlich. " +
       "4. Wirkung setzt innerhalb weniger Minuten ein: Leichte Entspannung, " +
       "Stimmungslift, milde Euphorie. " +
@@ -1640,18 +1640,18 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "TEE (hohe Dosis): Deutliche Euphorie, gesteigertes körperliches Empfinden, " +
       "aphrodisierende Wirkung (erhöhte Empfindsamkeit, gesteigertes Verlangen). " +
       "Wärmegefühl im Unterbauch. " +
-      "LIKÖR: Kombination aus Alkohol und Damiana-Wirkung -- aphrodisierend, " +
+      "LIKÖR: Kombination aus Alkohol und Damiana-Wirkung, aphrodisierend, " +
       "enthemmend, stimmungssteigernd. " +
-      "GENERELL: Damiana wirkt eher anregend als sedierend -- am besten nachmittags " +
+      "GENERELL: Damiana wirkt eher anregend als sedierend, am besten nachmittags " +
       "oder abends, wenn man noch etwas vorhat.",
     sicherheit:
       "Damiana ist sehr sicher bei normaler Dosierung. " +
       "BEI EXTREMER ÜBERDOSIERUNG (>30g): Theoretisch toxisch, aber in der Praxis " +
       "unrealistisch. " +
       "SCHWANGERSCHAFT: Nicht empfohlen. " +
-      "DIABETES: Damiana kann den Blutzucker senken -- Diabetiker sollten den " +
+      "DIABETES: Damiana kann den Blutzucker senken: Diabetiker sollten den " +
       "Blutzucker überwachen. " +
-      "RAUCHEN: Grundsätzlich ist Rauchen nie 'gesund' -- die Verbrennung erzeugt " +
+      "RAUCHEN: Grundsätzlich ist Rauchen nie 'gesund', die Verbrennung erzeugt " +
       "Schadstoffe. Gelegentliches Kräuterrauchen ist deutlich weniger schädlich " +
       "als Tabak, aber nicht risikofrei. Vaporizer bei 150-175 Grad C ist die " +
       "lungenfreundlichere Alternative.",
@@ -1663,7 +1663,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "spanischen Siedlern enthusiastisch übernommen. " +
       "Im 19. Jahrhundert wurde Damiana in den USA und Europa als " +
       "'Wundermittel' gegen Impotenz vermarktet und erlebte einen enormen Hype. " +
-      "Der Damiana-Likör aus Mexiko ist bis heute ein beliebtes Getränk -- " +
+      "Der Damiana-Likör aus Mexiko ist bis heute ein beliebtes Getränk" +
       "in einer flaschenförmigen Flasche, die den Körper einer Frau darstellt. " +
       "Die Behauptung, die Original-Margarita (erfunden in den 1930ern in Tijuana) " +
       "habe Damiana-Likör statt Triple Sec verwendet, ist umstritten aber " +
@@ -1675,15 +1675,15 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "bestätigt werden (Arletti et al., 1999): Männliche Ratten zeigten nach " +
       "Damiana-Extrakt erhöhte sexuelle Aktivität. " +
       "Der Wirkmechanismus für die stimmungsaufhellende Wirkung ist nicht " +
-      "vollständig geklärt -- eine leichte MAO-B-Hemmung wird vermutet. " +
+      "vollständig geklärt, eine leichte MAO-B-Hemmung wird vermutet. " +
       "Arbutin hat entzündungshemmende und harntreibende Eigenschaften.",
     geheimtipp:
       "ZEREMONIAL-KAKAO + DAMIANA ist eine magische Kombination: 30-40g " +
       "roher Zeremonialkakao plus 5g Damiana-Tee in eine Tasse. Beide zusammen " +
-      "aufköcheln. Das Ergebnis ist ein 'herzöffnendes Aphrodisiakum' -- " +
+      "aufköcheln. Das Ergebnis ist ein 'herzöffnendes Aphrodisiakum'" +
       "der Kakao öffnet das Herz (Theobromin), die Damiana entfacht das Feuer. " +
       "Ideal für Paare als gemeinsames Ritual. " +
-      "ALS RAUCHKRAUT ist Damiana die Nr. 1 für Cannabis-Entzug -- viele " +
+      "ALS RAUCHKRAUT ist Damiana die Nr. 1 für Cannabis-Entzug, viele " +
       "ehemalige Cannabis-Nutzer berichten, dass Damiana die Lust zu rauchen " +
       "befriedigt, ohne die Nachteile von Cannabis oder Tabak. " +
       "Im Vaporizer bei 150-175 Grad C entfaltet Damiana einen wunderbar " +
@@ -1691,7 +1691,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
     set_und_setting:
       "Damiana ist eine gesellige Pflanze. Sie passt zu: " +
       "SOZIALE SITUATIONEN: Eine Pfeife Damiana in der Runde, dazu Musik und " +
-      "gute Gespräche -- eine schöne, legale Alternative zum Joint. " +
+      "gute Gespräche, eine schöne, legale Alternative zum Joint. " +
       "PAARE: Als Tee oder Likör zu zweit, bewusst genossen. Die aphrodisierende " +
       "Wirkung entfaltet sich am besten in einem sinnlichen, entspannten Rahmen. " +
       "KREATIVE ARBEIT: Der milde Stimmungslift kann kreative Prozesse unterstützen. " +
@@ -1765,7 +1765,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "luftdichten Glas aufbewahren. " +
       "3. Die gesamte Mischung (10g für eine Sitzung) in einen Topf geben. " +
       "4. Mit 400ml Wasser übergießen und LANGSAM auf 80 Grad C erhitzen " +
-      "(nicht sprudelnd kochen -- das würde empfindliche Wirkstoffe zerstören). " +
+      "(nicht sprudelnd kochen, das würde empfindliche Wirkstoffe zerstören). " +
       "5. 15-20 Minuten zugedeckt ziehen lassen bei niedriger Hitze. " +
       "6. Durch ein feines Sieb abseihen. " +
       "7. In eine schöne Tasse gießen. Optional mit wenig Honig süßen. " +
@@ -1774,7 +1774,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
     dosierung:
       "STANDARD: Die oben beschriebene Mischung (10g) für eine Sitzung. " +
       "SANFTER: Halbe Menge (5g) für den Einstieg oder sensible Personen. " +
-      "NICHT MEHR als die angegebene Menge verwenden -- die Kombination ist " +
+      "NICHT MEHR als die angegebene Menge verwenden, die Kombination ist " +
       "synergistisch und wirkt stärker als die Summe der Einzelpflanzen.",
     wirkung:
       "20-30 Minuten nach dem Trinken: Sanfte Welle der Entspannung. Der " +
@@ -1783,7 +1783,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "sanfte Bilder und Farbmuster. Gefühl von 'innerem Weiterwerden'. " +
       "45-90 Minuten: Optimales Fenster für Meditation und innere Reise. " +
       "Klarheit und Tiefe koexistieren. Intuitive Einsichten möglich. " +
-      "Die Wirkung ist NICHT überwaaeltigend oder beängstigend -- eher wie " +
+      "Die Wirkung ist NICHT überwaaeltigend oder beängstigend, eher wie " +
       "ein tieferer Zugang zu dem, was schon immer da war.",
     sicherheit:
       "KONTRAINDIKATIONEN: Schwangerschaft (Beifuß!), Stillzeit. " +
@@ -1791,11 +1791,11 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "(in dieser Dosis sehr gering, aber erwähnenswert). " +
       "Nicht mit Alkohol oder Benzodiazepinen kombinieren. " +
       "Beifuß-Allergie beachten! " +
-      "TRIPSITTER: Bei der ersten Erfahrung empfehlenswert, aber kein Muss -- " +
+      "TRIPSITTER: Bei der ersten Erfahrung empfehlenswert, aber kein Muss" +
       "die Intensität ist sehr moderat.",
     hintergrund:
       "Die Völva (altnordisch: 'Stabträgerin') war die Seherin der germanischen " +
-      "Tradition -- eine Frau mit der Gabe der Prophezeiung und der Verbindung " +
+      "Tradition, eine Frau mit der Gabe der Prophezeiung und der Verbindung " +
       "zur Geisterwelt. In der Voluspa (dem ältesten Gedicht der Edda) " +
       "erzählt eine Völva dem Gott Odin von der Erschaffung und dem Untergang " +
       "der Welt. Kräuterkundige Frauen nutzten Pflanzen wie Beifuß und Bilsenkraut " +
@@ -1809,13 +1809,13 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "Verarbeitung. Subtile MAO-Hemmung (Passionsblume) kann die Wirkdauer " +
       "und -tiefe der anderen Komponenten verstärken.",
     geheimtipp:
-      "Den Tee in DUNKELHEIT trinken und meditieren -- oder mit einer Augenmaske. " +
+      "Den Tee in DUNKELHEIT trinken und meditieren, oder mit einer Augenmaske. " +
       "Die inneren Bilder sind deutlich stärker, wenn die aeussere visuelle " +
       "Stimulation entfällt. " +
       "Eine Kerze als einzige Lichtquelle, dann Augen schließen, ist eine " +
       "schöne Übergangsgestaltung. " +
       "Musik-Empfehlung: Icaros (schamanische Gesänge), Overtone Singing, " +
-      "oder die Musik von Estas Tonne -- alles was den meditativen Zustand vertieft.",
+      "oder die Musik von Estas Tonne, alles was den meditativen Zustand vertieft.",
     set_und_setting:
       "VORBEREITUNG: Raum aufräuaemen, lüften, Kerzenlicht. Handy aus. " +
       "Keine Störungen für 2-3 Stunden sicherstellen. " +
@@ -1883,7 +1883,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
         name: "Baldrian (Valeriana officinalis)",
         menge: "0.5g (Mikrodosis!)",
         wirkung:
-          "Einschlafhilfe in Mikrodosis. NICHT mehr verwenden -- Baldrian in voller " +
+          "Einschlafhilfe in Mikrodosis. NICHT mehr verwenden: Baldrian in voller " +
           "Dosis kann die Traumqualität verschlechtern",
       },
     ],
@@ -1898,11 +1898,11 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "7. ESSENTIELL: Traumtagebuch und Stift neben das Bett legen. " +
       "8. Im Bett die Intention 10x wiederholen: 'Ich werde mich an meine Traeume " +
       "erinnern. Ich werde erkennen, dass ich traeume.' " +
-      "FORTGESCHRITTENE METHODE (WBTB -- Wake Back To Bed): " +
+      "FORTGESCHRITTENE METHODE (WBTB: Wake Back To Bed): " +
       "Nur eine halbe Portion (4g) abends trinken. Wecker auf 5 Stunden nach dem " +
       "Einschlafen stellen. Aufwachen, restliche halbe Portion als neuen Tee " +
       "zubereiten, trinken, zurück ins Bett. Die zweite Hälfte trifft dann auf " +
-      "die natürlich verlängerten REM-Phasen der zweiten Nachthälfte -- " +
+      "die natürlich verlängerten REM-Phasen der zweiten Nachthälfte" +
       "das ist die effektivste Methode für luzide Traeume überhaupt.",
     dosierung:
       "STANDARD: Die volle Mischung (8.5g) als eine Tasse, 30 Min vor dem Schlafengehen. " +
@@ -1922,7 +1922,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "trüben (Baldrian in voller Dosis würde die Traeume eher unterdrücken).",
     sicherheit:
       "SCHWANGERSCHAFT: Kontraindiziert (Beifuß!). " +
-      "ALPTRAEUME: Wer zu Alptraeumen neigt, sollte vorsichtig beginnen -- die " +
+      "ALPTRAEUME: Wer zu Alptraeumen neigt, sollte vorsichtig beginnen, die " +
       "Mischung verstärkt ALLE Traeume, auch unangenehme. In dem Fall: Halbe " +
       "Dosis, und die Intention auf 'friedliche, klare Traeume' setzen. " +
       "BEIFUSS-ALLERGIE: Beachten. Bei bekannter Allergie den Beifuß weglassen " +
@@ -1938,16 +1938,16 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "für luzide Traeume ist eine der ältesten Formen der Bewusstseinsarbeit.",
     wissenschaft:
       "Calea zacatechichi erhöt nachweislich die Anzahl leichter Schlafphasen " +
-      "und spontaner Aufwachreaktionen wärend des REM-Schlafs (Mayagoitia, 1986) -- " +
+      "und spontaner Aufwachreaktionen wärend des REM-Schlafs (Mayagoitia, 1986)" +
       "genau diese Mikroaufwachphasen sind es, die luzide Momente ermöglichen. " +
       "Helmkraut (Baicalin) verbessert die Schlafqualität insgesamt. " +
       "Blauer Lotus (Nuciferin) hat sedative und traumfördernde Eigenschaften. " +
       "Die Kombination optimiert den Schlaf für maximale Traumaktivität.",
     geheimtipp:
-      "Zusätzlich zum Tee ein Beifuß-Traumkissen unter dem Kopf verwenden -- " +
+      "Zusätzlich zum Tee ein Beifuß-Traumkissen unter dem Kopf verwenden" +
       "die ätherischen Öle arbeiten die ganze Nacht weiter. " +
       "VOR dem Einschlafen 5-10 Minuten Reality-Checks üben (Finger zählen, " +
-      "Text lesen, nochmal lesen -- im Traum verändert sich Text beim zweiten " +
+      "Text lesen, nochmal lesen, im Traum verändert sich Text beim zweiten " +
       "Blick). Diese Gewohnheit überträgt sich in den Traum. " +
       "Die BITTERKEIT des Traumkrauts hat einen Zweck: Die mazatekischen Heiler " +
       "sagen, sie 'weckt den Geist auf'. Den Tee als Teil des Rituals betrachten, " +
@@ -1958,8 +1958,8 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "Im Bett: Traumtagebuch und Stift bereitlegen. " +
       "Intention: 'Ich werde mich an meine Traeume erinnern. Ich werde im Traum " +
       "erkennen, dass ich traeume.' 10x wiederholen. " +
-      "MORGENS: Sofort nach dem Aufwachen -- BEVOR man sich bewegt oder die " +
-      "Augen öffnet -- die Traeume im Geist durchgehen und dann aufschreiben. " +
+      "MORGENS: Sofort nach dem Aufwachen: BEVOR man sich bewegt oder die " +
+      "Augen öffnet, die Traeume im Geist durchgehen und dann aufschreiben. " +
       "Jede Bewegung kann Traumerinnerungen löschen.",
     tags: [
       "#traumwandler",
@@ -1989,7 +1989,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "kraftvolle Wirkung: Herzöeffnung durch Theobromin, Stimmungsaufhellung durch " +
       "Phenylethylamin (das 'Verliebtheits-Molekül'), gepaart mit Damiana für " +
       "Feuer und Rose für Sanftheit. Das Ergebnis ist ein Getränk, das das Herz " +
-      "weit öffnet -- ideal für Paar-Rituale, Gruppenzeremonien oder tiefe " +
+      "weit öffnet, ideal für Paar-Rituale, Gruppenzeremonien oder tiefe " +
       "Selbstreflexion.",
     zutaten: [
       {
@@ -2029,7 +2029,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       {
         name: "Roher Honig",
         menge: "1-2 TL",
-        wirkung: "Natürliche Süße. NICHT Zucker -- Honig hat eigene heilende Qualitäten",
+        wirkung: "Natürliche Süße. NICHT Zucker: Honig hat eigene heilende Qualitäten",
       },
     ],
     zubereitung:
@@ -2043,7 +2043,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "6. Zimt, Chili und Vanille hinzufügen. " +
       "7. Im Mixer: 30 Sekunden auf hoher Stufe mixen für schönen Schaum. " +
       "Oder im Topf: Mit Schneebesen kräftig rühren bis alles aufgelöst ist. " +
-      "8. Honig einrühren (NICHT in kochende Flüssigkeit -- Hitze zerstört " +
+      "8. Honig einrühren (NICHT in kochende Flüssigkeit: Hitze zerstört " +
       "Enzyme des Honigs. Trinktemperatur abwarten). " +
       "9. In eine schöne Tasse gießen. " +
       "ZEREMONIELLES PROTOKOLL: " +
@@ -2055,11 +2055,11 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "14. Nach dem Trinken: 15-20 Minuten in Stille sitzen oder zur Musik " +
       "bewegen lassen.",
     dosierung:
-      "ZEREMONIELL (volle Herzöffnung): 40g Kakao-Masse -- das ist die Schwelle, " +
+      "ZEREMONIELL (volle Herzöffnung): 40g Kakao-Masse, das ist die Schwelle, " +
       "ab der Theobromin in spürbaren Mengen wirkt. " +
-      "MILD (Alltagsversion): 20-25g -- angenehm, stimmungsaufhellend, aber " +
+      "MILD (Alltagsversion): 20-25g, angenehm, stimmungsaufhellend, aber " +
       "weniger intensiv. " +
-      "STARK (für Erfahrene): 50-60g -- intensive Herzöffnung, möglicherweise " +
+      "STARK (für Erfahrene): 50-60g, intensive Herzöffnung, möglicherweise " +
       "emotionale Wellen. Nicht für den Einstieg! " +
       "WICHTIG: Zeremonialkakao auf leeren oder leichten Magen. Schwere Mahlzeit " +
       "vorher reduziert die Wirkung drastisch.",
@@ -2067,52 +2067,52 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "15-20 Minuten: Wärme breitet sich von der Mitte des Körpers aus. " +
       "Herzschlag wird spürbarer. Leichter Energieanstieg. " +
       "30-45 Minuten: Herzöffnung. Gefühle kommen leichter an die Oberfläche. " +
-      "Manche Menschen werden emotional -- Tränen der Rührung, Dankbarkeit oder " +
+      "Manche Menschen werden emotional: Tränen der Rührung, Dankbarkeit oder " +
       "auch Trauer können fließen. Das ist erwaünscht. " +
-      "45-90 Minuten: Tiefe emotionale Präsenz. Gesteigertes Mitgefühl -- " +
+      "45-90 Minuten: Tiefe emotionale Präsenz. Gesteigertes Mitgefühl" +
       "für sich selbst und andere. Die Damiana fügt eine warme, feurige Note " +
       "hinzu. Die Rose bringt Sanftheit. " +
       "2-3 Stunden: Sanftes Ausklingen. Nachwirkendes Wohlgefühl. " +
-      "Theobromin hat eine Halbwertszeit von ca. 7 Stunden -- die körperliche " +
+      "Theobromin hat eine Halbwertszeit von ca. 7 Stunden, die körperliche " +
       "Wirkung hält daher lange an.",
     sicherheit:
       "KOFFEINEMPFINDLICHKEIT: Theobromin ist ein mildes Stimulans. Nicht am " +
       "späten Abend trinken, wenn du empfindlich auf Koffein reagierst " +
       "(obwohl Theobromin sanfter ist als Koffein). " +
-      "HERZ: Bei schweren Herzerkrankungen vorher Arzt konsultieren -- Theobromin " +
+      "HERZ: Bei schweren Herzerkrankungen vorher Arzt konsultieren: Theobromin " +
       "erhöt den Herzschlag leicht. " +
       "MEDIKAMENTE: MAO-Hemmer könnten die Wirkung des Phenylethylamins verstärken. " +
       "SSRIs: Keine bekannte problematische Wechselwirkung. " +
       "ÜBELKEIT: Möglich bei empfindlichem Magen, besonders bei 40g+ auf leeren " +
       "Magen. Dann mit 20g beginnen und steigern. " +
-      "KOPFSCHMERZEN: Möglich bei Dehydrierung -- reichlich Wasser trinken.",
+      "KOPFSCHMERZEN: Möglich bei Dehydrierung, reichlich Wasser trinken.",
     hintergrund:
       "Die Maya nannten Kakao 'Ka'kaw' und betrachteten ihn als Geschenk der Götter. " +
       "Die Azteken reservierten das 'Xocolatl' (bitteres Wasser) für Adlige, " +
-      "Priester und Krieger. Moctezuma soll täglich 50 Tassen getrunken haben -- " +
+      "Priester und Krieger. Moctezuma soll täglich 50 Tassen getrunken haben" +
       "besonders vor Besuchen in seinem Harem. " +
       "Kakao war Zahlungsmittel (eine Kakaobohne = ein Tamale, 100 Bohnen = ein " +
       "Sklave), Opfergabe und Zeremonialgetränk. Der aztekische Kakao enthielt " +
-      "IMMER Chili, oft auch Vanille (ebenfalls mesoamerikanischen Ursprungs) -- " +
+      "IMMER Chili, oft auch Vanille (ebenfalls mesoamerikanischen Ursprungs)" +
       "die süße Milchschokolade ist eine europäische Erfindung. " +
       "Die moderne Kakao-Zeremonie-Bewegung wurde von Keith Wilson ('The Chocolate " +
       "Shaman') in Guatemala populär gemacht und hat sich weltweit verbreitet.",
     wissenschaft:
       "Theobromin (3,7-Dimethylxanthin) ist ein milder Adenosin-Rezeptor-Antagonist " +
-      "und Phosphodiesterase-Hemmer -- wie Koffein, aber sanfter und länger wirkend. " +
+      "und Phosphodiesterase-Hemmer, wie Koffein, aber sanfter und länger wirkend. " +
       "Es erweitert die Blutgefäße (blutdrucksenkend) und hat eine positive " +
       "inotrope Wirkung (Herzkraftsteigerung). " +
       "Anandamid ('Glückseligkeitsmolekül') bindet an Cannabinoid-Rezeptoren. " +
-      "Phenylethylamin (PEA) ist das 'Verliebtheits-Molekül' -- wird bei " +
+      "Phenylethylamin (PEA) ist das 'Verliebtheits-Molekül', wird bei " +
       "Verliebtheit ausgeschüttet. Kakao ist die reichste Nahrungsquelle für PEA. " +
       "Die Kombination dieser drei erklärt die einzigartige 'Herz-Wirkung' von Kakao.",
     geheimtipp:
       "Die BESTE Zeremonialkakao-Quelle: Direkt von kleinen Produzenten in " +
-      "Guatemala, Peru oder Ecuador beziehen -- die Qualität ist Welten besser " +
+      "Guatemala, Peru oder Ecuador beziehen, die Qualität ist Welten besser " +
       "als Supermarkt-Kakao. Criollo-Sorten sind die edelsten und wirkungsvollsten. " +
       "FÜR PAARE: Gemeinsam zubereiten, gemeinsam die Intention setzen, " +
       "gemeinsam trinken, dann einander in die Augen schauen (Eye Gazing) " +
-      "für 5-10 Minuten -- unter Kakao-Einfluss eine der intimsten Erfahrungen " +
+      "für 5-10 Minuten, unter Kakao-Einfluss eine der intimsten Erfahrungen " +
       "überhaupt. " +
       "MUSIK: Die Wirkung wird durch Musik enorm verstärkt. Empfehlung: " +
       "Handpan, Hang Drum, Rav Vast, oder klassische Kakao-Zeremonie-Playlists.",
@@ -2192,7 +2192,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "MISCHUNG HERSTELLEN: " +
       "1. Alle Kräuter müssen trocken sein (knisternd-trocken, nicht feucht). " +
       "2. Gröbere Stücke mit den Fingern oder einer Schere zerkleinern. " +
-      "Die ideale Konsistenz: Ähnlich wie Pfeifentabak -- nicht zu fein (verstopft), " +
+      "Die ideale Konsistenz: Ähnlich wie Pfeifentabak, nicht zu fein (verstopft), " +
       "nicht zu grob (brennt ungleichmäßig). " +
       "3. In einer Schüssel gründlich vermischen. Die Verteilung sollte " +
       "gleichmäßig sein. " +
@@ -2203,7 +2203,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "6. HANDGEDREHT: In Longpapers oder Blunt Wraps drehen. Etwas lockerer " +
       "rollen als eine Zigarette. " +
       "7. LANGSAM rauchen. Nicht hastig inhalieren. Jeden Zug genießen. " +
-      "Das ist kein Nikotin -- die Wirkung ist subtiler und braucht Aufmerksamkeit.",
+      "Das ist kein Nikotin, die Wirkung ist subtiler und braucht Aufmerksamkeit.",
     dosierung:
       "PFEIFE: 0.5-1g pro Pfeifenfüllung. " +
       "HANDGEDREHT: 0.5-0.7g pro Stück. " +
@@ -2218,7 +2218,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "Insgesamt: Eine milde, angenehme Entspannung. Kein 'High' im " +
       "Cannabis-Sinne, aber eine spürbare Verschiebung in Richtung Ruhe, " +
       "Geselligkeit und leichtem Wohlgefühl. " +
-      "SOZIAL: Die Mischung macht gesprächig und gelassen -- ideal für " +
+      "SOZIAL: Die Mischung macht gesprächig und gelassen, ideal für " +
       "gemeinsames Rauchen in der Runde.",
     sicherheit:
       "GRUNDSÄTZLICH: Rauchen ist nie 'gesund'. Die Verbrennung von " +
@@ -2235,12 +2235,12 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "Die Calumet (Friedenspfeife) der nordamerikanischen Ureinwohner war " +
       "ein heiliges Zeremonialgerät. Die Pfeife wurde bei Friedensverhandlungen, " +
       "Vertragsschlüssen und spirituellen Zeremonien geraucht. Die Tabakpflanze " +
-      "(Nicotiana) war heilig und wurde ausschließlich rituell verwendet -- " +
+      "(Nicotiana) war heilig und wurde ausschließlich rituell verwendet" +
       "nicht als Alltagsdroge. " +
       "In Europa war das Kräuterrauchen vor der Einführung des Tabaks " +
       "(16. Jahrhundert) verbreitet: Huflattich, Beifuß und andere Kräuter " +
       "wurden in Pfeifen geraucht. " +
-      "Diese Mischung ehrt die Tradition des achtsamen, rituellen Rauchens -- " +
+      "Diese Mischung ehrt die Tradition des achtsamen, rituellen Rauchens" +
       "als bewusste Handlung, nicht als Suchtbefriedigung.",
     wissenschaft:
       "Beim Verdampfen oder Verbrennen der Krauter werden die ätherischen " +
@@ -2257,7 +2257,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "um vom Tabak loszukommen. Das Ritual des Rauchens bleibt erhalten, " +
       "aber ohne Nikotin-Abhängigkeit. " +
       "FÜR ZEREMONIEN: Eine handgemachte Friedenspfeife (aus Ton, Holz " +
-      "oder Speckstein), achtsam gestopft und in der Runde gereicht -- " +
+      "oder Speckstein), achtsam gestopft und in der Runde gereicht" +
       "eine wunderschöne Art, Gemeinschaft zu erleben.",
     set_und_setting:
       "AM LAGERFEUER: Die vielleicht schönste Art, diese Mischung zu genießen. " +
@@ -2292,12 +2292,12 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "von Kakao mit Heilpilzen ist eine zeitgenössische Innovation, die zwei uralte " +
       "Traditionen zusammenbringt.",
     beschreibung:
-      "Dieser Trank ist nicht psychedelisch oder halluzinogen -- er ist etwas anderes: " +
+      "Dieser Trank ist nicht psychedelisch oder halluzinogen, er ist etwas anderes: " +
       "Tiefe, nährende Unterstützung für das Nervensystem, das Immunsystem und die " +
       "geistige Klarheit. Die Kombination aus Zeremonial-Kakao und den mächtigsten " +
       "Adaptogenen und Heilpilzen der Welt schafft einen Zustand fokussierter Präsenz, " +
       "der sich ideal für Meditation, kreative Arbeit und spirituelle Praxis eignet. " +
-      "Kein 'Trip' -- aber ein spürbar anderer, klarerer Bewusstseinszustand.",
+      "Kein 'Trip', aber ein spürbar anderer, klarerer Bewusstseinszustand.",
     zutaten: [
       {
         name: "Rohe Zeremonialkakao-Masse (100% Kakao)",
@@ -2335,7 +2335,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
         wirkung:
           "Das wichtigste Adaptogen des Ayurveda. Stressresistenz, Cortisol-Senkung, " +
           "innere Ruhe bei gleichzeitiger Wachheit. Der Name bedeutet 'Geruch des Pferdes' " +
-          "-- es soll die Kraft eines Pferdes verleihen.",
+          "es soll die Kraft eines Pferdes verleihen.",
       },
       {
         name: "Ceylon-Zimt",
@@ -2357,7 +2357,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "1. 300ml Wasser oder Hafermilch in einem Topf erwärmen (nicht kochen). " +
       "2. Die 30g Kakao-Masse in Stücke brechen und in die warme Flüssigkeit geben. " +
       "3. Bei niedriger Hitze rühren, bis der Kakao vollständig aufgelöst ist. " +
-      "4. Lion's Mane, Reishi und Cordyceps Pulver einrühren. Gut vermischen -- " +
+      "4. Lion's Mane, Reishi und Cordyceps Pulver einrühren. Gut vermischen" +
       "Klumpen vermeiden (Schneebesen oder Milchaufschaeumer helfen). " +
       "5. Ashwagandha einrühren. " +
       "6. Zimt und Cayenne hinzufügen. " +
@@ -2370,15 +2370,15 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "STANDARD: Die oben beschriebene Rezeptur. Einmal täglich, idealerweise morgens " +
       "oder am frühen Nachmittag (Theobromin kann den Schlaf stören). " +
       "MILD: Halbe Dosis aller Zutaten für den Einstieg. " +
-      "LANGFRISTIG: Täglich über Wochen und Monate -- die Adaptogene und Heilpilze " +
+      "LANGFRISTIG: Täglich über Wochen und Monate, die Adaptogene und Heilpilze " +
       "entfalten ihre volle Wirkung erst bei regelmäßiger Einnahme (2-4 Wochen). " +
       "NICHT später als 14 Uhr trinken, wenn du empfindlich auf Koffein/Theobromin reagierst.",
     wirkung:
-      "SOFORT (15-30 Min): Theobromin-Wirkung -- sanfte Wärme, erhöhte Wachheit, " +
+      "SOFORT (15-30 Min): Theobromin-Wirkung, sanfte Wärme, erhöhte Wachheit, " +
       "leichter Stimmungslift. Cayenne aktiviert die Durchblutung. " +
       "KURZFRISTIG (30-90 Min): Cordyceps liefert klare Energie ohne Nervosität. " +
       "Ashwagandha bringt eine geerdete Ruhe. Lion's Mane schärft die kognitive " +
-      "Klarheit -- Gedanken werden präziser, Fokus vertieft sich. " +
+      "Klarheit: Gedanken werden präziser, Fokus vertieft sich. " +
       "LANGFRISTIG (nach 2-4 Wochen täglicher Einnahme): Reishi baut ein tieferes " +
       "Gleichgewicht im Immunsystem und Nervensystem auf. Lion's Mane unterstützt " +
       "nachweislich die Neuroplastizität. Ashwagandha senkt den Cortisol-Baseline. " +
@@ -2392,7 +2392,7 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "erhöhen). Nicht mit Schilddrüsenmedikamenten ohne ärztliche Rücksprache. " +
       "Nicht in der Schwangerschaft. " +
       "REISHI: Kann in seltenen Fällen Magenprobleme verursachen. Kann die " +
-      "Blutgerinnung beeinflussen -- nicht vor Operationen, nicht mit " +
+      "Blutgerinnung beeinflussen, nicht vor Operationen, nicht mit " +
       "Blutverdüennern ohne Rücksprache. " +
       "LION'S MANE: Sehr sicher. In seltenen Fällen allergische Reaktionen " +
       "bei Pilzallergikern. " +
@@ -2400,20 +2400,20 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "GESAMT: Bei Einnahme von Medikamenten grundsätzlich ärztlich absprechen.",
     hintergrund:
       "LION'S MANE: In der japanischen Tradition als 'Yamabushitake' (Pilz der " +
-      "Bergmönchse) bekannt -- die Yamabushi-Mönchse nutzten ihn für geistige " +
+      "Bergmönchse) bekannt, die Yamabushi-Mönchse nutzten ihn für geistige " +
       "Klarheit bei langen Meditationen. " +
       "REISHI: In China als 'Ling Zhi' (Geist-Pflanze) seit über 2000 Jahren verehrt. " +
       "War so wertvoll, dass er Kaiser vorbehalten war. Symbol für Langlebigkeit. " +
       "CORDYCEPS: Wurde von tibetischen Mönchen entdeckt, die beobachteten, wie " +
       "ihre Yaks nach dem Verzehr energiegeladener und vitaler wurden. In Tibet " +
-      "'DongChongXiaCao' -- 'Winterwurm, Sommergras'. " +
+      "'DongChongXiaCao', 'Winterwurm, Sommergras'. " +
       "ASHWAGANDHA: Einer der zentralen Bausteine des Ayurveda seit über 3000 Jahren. " +
       "Klassifiziert als 'Rasayana' (Verjüngungsmittel). " +
       "Die Kombination dieser Traditionen mit mesoamerikanischem Kakao ist modern, " +
       "aber die einzelnen Bestandteile haben jeweils jahrtausendealte Geschichten.",
     wissenschaft:
       "LION'S MANE: Hericenone und Erinacine stimulieren nachweislich den " +
-      "Nervenwachstumsfaktor (NGF) -- einzigartig im Pflanzen-/Pilzreich. " +
+      "Nervenwachstumsfaktor (NGF), einzigartig im Pflanzen-/Pilzreich. " +
       "Studien (Mori et al., 2009) zeigen verbesserte kognitive Funktion bei " +
       "älteren Menschen nach 16 Wochen Einnahme. " +
       "REISHI: Triterpene (Ganodersäure) sind immunmodulierend und adaptogen. " +
@@ -2433,13 +2433,13 @@ export const BEWUSSTSEINS_PFLANZEN = [
       "Die Kombination aus Theobromin-Wachheit, Reishi-Ruhe und Lion's-Mane-" +
       "Klarheit schafft einen idealen Meditationszustand: Wach, klar, gelassen. " +
       "ALS KAFFEE-ERSATZ: Viele Menschen ersetzen ihren Morgenkaffee durch diesen " +
-      "Trank -- die Energie kommt ohne die Kaffee-typische Nervosität und den " +
+      "Trank, die Energie kommt ohne die Kaffee-typische Nervosität und den " +
       "Nachmittags-Crash.",
     set_und_setting:
       "MORGEN-RITUAL: Den Trank als erstes am Morgen zubereiten (auf leeren Magen). " +
       "Die Zubereitung selbst als achtsame Praxis behandeln. " +
       "Danach: 20-30 Minuten Meditation, Journaling oder stille Kontemplation. " +
-      "KREATIVE ARBEIT: Ideal als Begleiter für tiefe, fokussierte Arbeit -- " +
+      "KREATIVE ARBEIT: Ideal als Begleiter für tiefe, fokussierte Arbeit" +
       "Schreiben, Malen, Musik, Programmieren. " +
       "NATUR: Den Trank in einer Thermoskanne mitnehmen und im Wald oder am " +
       "Wasser trinken. Die Verbindung von Naturerfahrung und Adaptogenen ist " +

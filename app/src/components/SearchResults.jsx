@@ -87,7 +87,7 @@ export function SearchResults({ query, condResults, prodResults, herbResults, fa
                           <span className="text-green-main">+</span>
                           <span>
                             <button onClick={() => onSearch(z.name)} className="text-green-dark hover:text-green-main hover:underline">{z.name}</button>
-                            {z.menge && <span className="text-text-muted"> -- {z.menge}</span>}
+                            {z.menge && <span className="text-text-muted"> · {z.menge}</span>}
                             {z.wirkung && <span className="text-text-muted text-xs"> ({z.wirkung})</span>}
                           </span>
                         </li>

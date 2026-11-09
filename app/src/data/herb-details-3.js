@@ -11,12 +11,12 @@ export const HERB_DEEP_3 = {
   'Bockshornklee': {
     vollname: 'Bockshornklee (Trigonella foenum-graecum)',
     familie: 'Hülsenfrüchtler (Fabaceae)',
-    beschreibung: `Bockshornklee ist eine uralte Gewürz- und Heilpflanze, deren goldgelbe, kantige Samen einen warmen, leicht bitteren Geschmack haben, der an Ahornsirup und Liebstöckel erinnert. In der indischen Küche gehört er als "Methi" zu den unverzichtbaren Gewürzen. Seine Samen und Blätter stecken voller wertvoller Inhaltsstoffe -- allen voran Diosgenin, ein pflanzliches Steroid, das dem Körper als Baustein für Hormonprozesse dient.
+    beschreibung: `Bockshornklee ist eine uralte Gewürz- und Heilpflanze, deren goldgelbe, kantige Samen einen warmen, leicht bitteren Geschmack haben, der an Ahornsirup und Liebstöckel erinnert. In der indischen Küche gehört er als "Methi" zu den unverzichtbaren Gewürzen. Seine Samen und Blätter stecken voller wertvoller Inhaltsstoffe, allen voran Diosgenin, ein pflanzliches Steroid, das dem Körper als Baustein für Hormonprozesse dient.
 
-Bockshornklee unterstützt die Milchbildung bei stillenden Müttern, reguliert den Blutzuckerspiegel, fördert die Verdauung und stärkt die Rekonvaleszenz nach Krankheiten. Er ist eine der wenigen Pflanzen, die sowohl nährend als auch heilend wirken -- ein echtes Aufbautonikum für erschöpfte Menschen.
+Bockshornklee unterstützt die Milchbildung bei stillenden Müttern, reguliert den Blutzuckerspiegel, fördert die Verdauung und stärkt die Rekonvaleszenz nach Krankheiten. Er ist eine der wenigen Pflanzen, die sowohl nährend als auch heilend wirken, ein echtes Aufbautonikum für erschöpfte Menschen.
 
-Besonders bemerkenswert ist seine Wirkung auf den Stoffwechsel: Die löslichen Ballaststoffe der Samen binden Gallensäuren und Zucker im Darm und können so Cholesterin und Blutzucker auf natürliche Weise senken. Auch äußerlich angewandt entfaltet Bockshornklee seine Kraft -- als warmer Breiumschlag bei Furunkeln und Entzündungen.`,
-    geschichte: `Bockshornklee wurde schon im alten Ägypten kultiviert -- man fand Samen in Pharaonengräbern. Hippokrates empfahl ihn als wertvolles Heilmittel, und Karl der Große ließ ihn in seinen Klostergärten anbauen. Sein Name bezieht sich auf die hornförmig gebogenen Samenhülsen, die an Ziegenhörner erinnern.
+Besonders bemerkenswert ist seine Wirkung auf den Stoffwechsel: Die löslichen Ballaststoffe der Samen binden Gallensäuren und Zucker im Darm und können so Cholesterin und Blutzucker auf natürliche Weise senken. Auch äußerlich angewandt entfaltet Bockshornklee seine Kraft, als warmer Breiumschlag bei Furunkeln und Entzündungen.`,
+    geschichte: `Bockshornklee wurde schon im alten Ägypten kultiviert, man fand Samen in Pharaonengräbern. Hippokrates empfahl ihn als wertvolles Heilmittel, und Karl der Große ließ ihn in seinen Klostergärten anbauen. Sein Name bezieht sich auf die hornförmig gebogenen Samenhülsen, die an Ziegenhörner erinnern.
 
 Im Orient galt Bockshornklee seit jeher als Stärkungsmittel für Frauen nach der Geburt und als Gewürz, das Wärme in den Körper bringt. In Indien ist "Methi" bis heute ein fester Bestandteil der Hausapotheke und der täglichen Küche.`,
     wirkungen: {
@@ -25,7 +25,7 @@ Im Orient galt Bockshornklee seit jeher als Stärkungsmittel für Frauen nach de
     },
     ernte: {
       zeit: 'Samen: August bis September, wenn die Hülsen braun und trocken sind. Blätter: Frühsommer, solange sie zart und grün sind.',
-      teile: 'Samen und frische Blätter -- die Samen werden häufiger verwendet.',
+      teile: 'Samen und frische Blätter, die Samen werden häufiger verwendet.',
       tipps: 'Samen vor der Verwendung kurz in der Pfanne anrösten, das mildert die Bitterkeit und entfaltet das volle Aroma. Ganze Samen halten sich jahrelang.',
       mond: 'Samen bei abnehmendem Mond ernten für gute Lagerfähigkeit.',
     },
@@ -53,8 +53,8 @@ Im Orient galt Bockshornklee seit jeher als Stärkungsmittel für Frauen nach de
     ],
     mischungen: ['Stilltee (mit Fenchel, Anis und Kümmel)', 'Verdauungsgewürz (mit Kreuzkümmel und Koriander)'],
     tcm: 'Bockshornklee wärmt die Nieren-Yang-Essenz, stärkt Jing und vertreibt Kälte aus dem Unterleib.',
-    ayurveda: 'Methi reduziert Vata und Kapha, stärkt Agni und nährt das Gewebe -- ein klassisches Rasayana für Aufbau und Kraft.',
-    volksmedizin: 'Hebammen empfahlen stillenden Müttern seit Jahrhunderten Bockshornklee-Tee als sicheres Mittel zur Milchsteigerung -- der typische Ahornsirup-Geruch im Schweiß zeigt an, dass genug eingenommen wurde.',
+    ayurveda: 'Methi reduziert Vata und Kapha, stärkt Agni und nährt das Gewebe, ein klassisches Rasayana für Aufbau und Kraft.',
+    volksmedizin: 'Hebammen empfahlen stillenden Müttern seit Jahrhunderten Bockshornklee-Tee als sicheres Mittel zur Milchsteigerung, der typische Ahornsirup-Geruch im Schweiß zeigt an, dass genug eingenommen wurde.',
     besonders_bei: ['stillen', 'diabetes', 'cholesterin', 'verdauung', 'erschoepfung', 'appetitlosigkeit', 'entzuendung'],
   },
 
@@ -66,10 +66,10 @@ Im Orient galt Bockshornklee seit jeher als Stärkungsmittel für Frauen nach de
     familie: 'Raublattgewächse (Boraginaceae)',
     beschreibung: `Borretsch ist ein fröhlicher Gartenbewohner mit leuchtend blauen, sternförmigen Blüten, die den Bienen reichlich Nektar schenken. Sein Beiname "Gurkenkraut" verrät sein frisches, gurkenartiges Aroma, das Salate und Kaltschalen bereichert. Unter der rauen, behaarten Oberfläche steckt eine Pflanze mit erstaunlichem Heilpotenzial.
 
-Das kostbare Borretschsamenöl enthält bis zu 25% Gamma-Linolensäure -- einen der höchsten Gehalte im Pflanzenreich. Diese seltene Omega-6-Fettsäure ist ein wichtiger Baustein für gesunde Haut, ein ausgeglichenes Hormonsystem und stille Entzündungsprozesse. Traditionell galt Borretsch als Pflanze, die Mut und Lebensfreude schenkt -- schon die alten Römer sagten: "Ego borago, gaudia semper ago" (Ich, der Borretsch, bringe immer Freude).
+Das kostbare Borretschsamenöl enthält bis zu 25% Gamma-Linolensäure, einen der höchsten Gehalte im Pflanzenreich. Diese seltene Omega-6-Fettsäure ist ein wichtiger Baustein für gesunde Haut, ein ausgeglichenes Hormonsystem und stille Entzündungsprozesse. Traditionell galt Borretsch als Pflanze, die Mut und Lebensfreude schenkt, schon die alten Römer sagten: "Ego borago, gaudia semper ago" (Ich, der Borretsch, bringe immer Freude).
 
 Das frische Kraut und die Blüten wirken leicht schweißstreibend, harntreibend und reizmildernd auf die Atemwege. Die Blüten sind eine wunderbare essbare Dekoration für Sommersalate und Bowlen.`,
-    geschichte: `Borretsch stammt vermutlich aus Syrien und gelangte über die Araber nach Europa. Die Kreuzritter schätzten ihn als Mutmacher -- sie tranken vor der Schlacht Borretsch-Wein. Im Mittelalter war er fester Bestandteil der Klostergärten und galt als stimmungsaufhellend.
+    geschichte: `Borretsch stammt vermutlich aus Syrien und gelangte über die Araber nach Europa. Die Kreuzritter schätzten ihn als Mutmacher, sie tranken vor der Schlacht Borretsch-Wein. Im Mittelalter war er fester Bestandteil der Klostergärten und galt als stimmungsaufhellend.
 
 Hildegard von Bingen empfahl Borretsch bei Melancholie und Schwermut. In der "Frankfurter Grünen Soße" gehört er bis heute zu den sieben traditionellen Kräutern.`,
     wirkungen: {
@@ -100,9 +100,9 @@ Hildegard von Bingen empfahl Borretsch bei Melancholie und Schwermut. In der "Fr
       },
     ],
     mischungen: ['Gute-Laune-Tee (mit Melisse und Johanniskraut)', 'Hautpflege-Öl (mit Nachtkerzenöl und Vitamin E)'],
-    tcm: 'Borretsch kühlt sanft Herz-Feuer, nährt das Yin und beruhigt den Shen -- ein Mittel gegen innere Unruhe und Traurigkeit.',
+    tcm: 'Borretsch kühlt sanft Herz-Feuer, nährt das Yin und beruhigt den Shen, ein Mittel gegen innere Unruhe und Traurigkeit.',
     ayurveda: 'Borretsch gleicht Pitta aus und nährt Rasa Dhatu (Körperflüssigkeiten), er wirkt kühlend und stimmungsaufhellend.',
-    volksmedizin: 'In der Volksheilkunde galt Borretsch als "Herzensfreude" -- stillende Mütter tranken Borretsch-Tee, um ihre Milch zu verbessern, und melancholische Menschen erhielten Borretsch-Wein zum Aufheitern.',
+    volksmedizin: 'In der Volksheilkunde galt Borretsch als "Herzensfreude", stillende Mütter tranken Borretsch-Tee, um ihre Milch zu verbessern, und melancholische Menschen erhielten Borretsch-Wein zum Aufheitern.',
     besonders_bei: ['depression', 'haut', 'neurodermitis', 'wechseljahre', 'erkaeltung', 'nervositaet'],
   },
 
@@ -112,12 +112,12 @@ Hildegard von Bingen empfahl Borretsch bei Melancholie und Schwermut. In der "Fr
   'Brunnenkresse': {
     vollname: 'Brunnenkresse (Nasturtium officinale)',
     familie: 'Kreuzblütler (Brassicaceae)',
-    beschreibung: `Die Brunnenkresse ist eine der nährstoffreichsten Pflanzen überhaupt -- in einer Studie der William Paterson University erreichte sie den höchsten Nährstoffdichte-Wert aller Gemüse und Obst. Sie wächst wild an klaren Bächen und Quellen, wo sie dichte, saftig-grüne Polster bildet. Ihr scharfer, pfeffrig-frischer Geschmack verrät ihren hohen Gehalt an Senfölglykosiden.
+    beschreibung: `Die Brunnenkresse ist eine der nährstoffreichsten Pflanzen überhaupt, in einer Studie der William Paterson University erreichte sie den höchsten Nährstoffdichte-Wert aller Gemüse und Obst. Sie wächst wild an klaren Bächen und Quellen, wo sie dichte, saftig-grüne Polster bildet. Ihr scharfer, pfeffrig-frischer Geschmack verrät ihren hohen Gehalt an Senfölglykosiden.
 
-Diese Senföle sind es auch, die ihr die starke antibiotische Wirkung verleihen. Brunnenkresse wirkt keimhemmend in den Atemwegen und Harnwegen, ohne die guten Darmbakterien anzugreifen. Gleichzeitig ist sie reich an Vitamin C, Eisen, Jod und Folsäure -- ein wahres Kraftpaket, das früher Seeleuten gegen Skorbut half.
+Diese Senföle sind es auch, die ihr die starke antibiotische Wirkung verleihen. Brunnenkresse wirkt keimhemmend in den Atemwegen und Harnwegen, ohne die guten Darmbakterien anzugreifen. Gleichzeitig ist sie reich an Vitamin C, Eisen, Jod und Folsäure, ein wahres Kraftpaket, das früher Seeleuten gegen Skorbut half.
 
 Traditionell gilt die Brunnenkresse als blutreinigend, stoffwechselanregend und appetitfördernd. Sie ist eine ideale Frühlingspflanze, die den Körper nach dem Winter vitalisiert und entschlackt.`,
-    geschichte: `Schon Hippokrates baute neben seinem Spital auf Kos Brunnenkresse an und empfahl sie als Schleimlöser. Die Römer assen sie vor Prüfungen und wichtigen Entscheidungen -- sie galt als Mittel für klares Denken. Der englische Ausdruck "to eat one's watercress" bedeutet, sich zusammenzunehmen.
+    geschichte: `Schon Hippokrates baute neben seinem Spital auf Kos Brunnenkresse an und empfahl sie als Schleimlöser. Die Römer assen sie vor Prüfungen und wichtigen Entscheidungen, sie galt als Mittel für klares Denken. Der englische Ausdruck "to eat one's watercress" bedeutet, sich zusammenzunehmen.
 
 Im 19. Jahrhundert wurde Brunnenkresse in England so beliebt, dass sie in großen Mengen kommerziell angebaut wurde. Arme Arbeiter assen "Watercress Sandwiches" als billige, aber extrem nahrhafte Mahlzeit.`,
     wirkungen: {
@@ -126,7 +126,7 @@ Im 19. Jahrhundert wurde Brunnenkresse in England so beliebt, dass sie in große
     },
     ernte: {
       zeit: 'März bis Oktober, am besten vor der Blüte im Frühling und Herbst.',
-      teile: 'Frische Triebspitzen und Blätter -- nur aus sauberen, fließenden Gewässern ernten.',
+      teile: 'Frische Triebspitzen und Blätter, nur aus sauberen, fließenden Gewässern ernten.',
       tipps: 'Nur an Quellen und Bächen sammeln, die nicht von Weidetieren verunreinigt werden (Leberegel-Gefahr). Im Zweifel selbst im Garten mit fließendem Wasser kultivieren.',
       mond: 'Bei zunehmendem Mond ernten für maximale Senfölkonzentration.',
     },
@@ -148,9 +148,9 @@ Im 19. Jahrhundert wurde Brunnenkresse in England so beliebt, dass sie in große
       },
     ],
     mischungen: ['Frühjahrskur (mit Löwenzahn und Brennnessel)', 'Atemwegstee (mit Thymian und Spitzwegerich)'],
-    tcm: 'Brunnenkresse klärt Hitze und Toxine, befeuchtet die Lunge und fördert das Wasserlassen -- sie gehört zu den kühlenden, reinigenden Kräutern.',
+    tcm: 'Brunnenkresse klärt Hitze und Toxine, befeuchtet die Lunge und fördert das Wasserlassen, sie gehört zu den kühlenden, reinigenden Kräutern.',
     ayurveda: 'Brunnenkresse reduziert Kapha, kann Pitta leicht erhöhen und wirkt stark reinigend auf Rasa und Rakta Dhatu (Blut und Lymphe).',
-    volksmedizin: 'In der Volksheilkunde hieß es: "Iss Brunnenkress und lass den Doktor Gras wachsen" -- sie war das Frühlingstonikum der einfachen Leute, die sich teure Medizin nicht leisten konnten.',
+    volksmedizin: 'In der Volksheilkunde hieß es: "Iss Brunnenkress und lass den Doktor Gras wachsen", sie war das Frühlingstonikum der einfachen Leute, die sich teure Medizin nicht leisten konnten.',
     besonders_bei: ['atemwege', 'harnwege', 'fruehjahrskur', 'eisenmangel', 'immunschwaeche', 'haut'],
   },
 
@@ -164,10 +164,10 @@ Im 19. Jahrhundert wurde Brunnenkresse in England so beliebt, dass sie in große
 
 Damiana wirkt auf mehreren Ebenen: Sie stimuliert sanft das Nervensystem, wirkt stimmungsaufhellend und angstlösend, fördert die Durchblutung im Beckenbereich und unterstützt die sexuelle Vitalität bei Männern und Frauen. Dabei ist sie kein scharfer Stimulans, sondern ein sanftes Tonikum, das über Zeit aufbaut.
 
-Besonders wertvoll ist Damiana bei stressbedingter sexueller Unlust und nervöser Erschöpfung. Sie verbindet körperliche Vitalisierung mit seelischer Wärme -- ein Kraut, das Lebensfreude und Sinnlichkeit gleichermaßen nährt.`,
+Besonders wertvoll ist Damiana bei stressbedingter sexueller Unlust und nervöser Erschöpfung. Sie verbindet körperliche Vitalisierung mit seelischer Wärme, ein Kraut, das Lebensfreude und Sinnlichkeit gleichermaßen nährt.`,
     geschichte: `Die Maya nannten Damiana "Mizib-coc" und bereiteten daraus ein Getränk, das vor dem Liebesspiel eingenommen wurde. Die Azteken verwendeten sie als Tonikum und Rauchwerk in rituellen Zeremonien. Spanische Missionare bemerkten die Pflanze und brachten sie nach Europa.
 
-In Mexiko wird bis heute ein Damiana-Likör hergestellt, dessen Flasche die Form einer schwangeren Frau hat -- ein Hinweis auf die traditionelle Verbindung mit Fruchtbarkeit und Sinnlichkeit.`,
+In Mexiko wird bis heute ein Damiana-Likör hergestellt, dessen Flasche die Form einer schwangeren Frau hat, ein Hinweis auf die traditionelle Verbindung mit Fruchtbarkeit und Sinnlichkeit.`,
     wirkungen: {
       hauptwirkungen: ['Aphrodisierend', 'Stimmungsaufhellend', 'Nervenstärkend', 'Angstlösend', 'Durchblutungsfördernd (Becken)', 'Tonisierend'],
       inhaltsstoffe: ['Damianin', 'Arbutin', 'Ätherisches Öl', 'Terpene', 'Flavonoide', 'Koffein (Spuren)', 'Harz', 'Tannine'],
@@ -176,7 +176,7 @@ In Mexiko wird bis heute ein Damiana-Likör hergestellt, dessen Flasche die Form
       zeit: 'In den Tropen ganzjährig, die Blätter werden während oder kurz nach der Blüte geerntet.',
       teile: 'Blätter und blühende Triebspitzen.',
       tipps: 'Damiana lässt sich in Mitteleuropa als Kübelpflanze halten, braucht aber Wärme und einen geschützten Standort. Im Handel als getrocknetes Kraut erhältlich.',
-      mond: 'Bei zunehmendem Mond ernten, am besten an einem Freitag -- dem Tag der Venus.',
+      mond: 'Bei zunehmendem Mond ernten, am besten an einem Freitag, dem Tag der Venus.',
     },
     zubereitungen: [
       {
@@ -196,9 +196,9 @@ In Mexiko wird bis heute ein Damiana-Likör hergestellt, dessen Flasche die Form
       },
     ],
     mischungen: ['Liebestee (mit Rosenblüten und Zimt)', 'Nerventonikum (mit Hafer und Melisse)'],
-    tcm: 'Damiana wärmt das Nieren-Yang, stärkt Ming Men (das Lebenstor) und nährt die Essenz -- sie wird bei Kälte im Unterleib eingesetzt.',
-    ayurveda: 'Damiana ist ein Vajikara (Aphrodisiakum), das Vata beruhigt und Ojas stärkt -- die feine Essenz von Vitalität und Lebensfreude.',
-    volksmedizin: 'In Mexiko heißt es: "Wer Damiana trinkt, den küsst die Sonne" -- sie galt als Mittel gegen die Schwere des Lebens und wurde bei Traurigkeit, Erschöpfung und Lustlosigkeit verordnet.',
+    tcm: 'Damiana wärmt das Nieren-Yang, stärkt Ming Men (das Lebenstor) und nährt die Essenz, sie wird bei Kälte im Unterleib eingesetzt.',
+    ayurveda: 'Damiana ist ein Vajikara (Aphrodisiakum), das Vata beruhigt und Ojas stärkt, die feine Essenz von Vitalität und Lebensfreude.',
+    volksmedizin: 'In Mexiko heißt es: "Wer Damiana trinkt, den küsst die Sonne", sie galt als Mittel gegen die Schwere des Lebens und wurde bei Traurigkeit, Erschöpfung und Lustlosigkeit verordnet.',
     besonders_bei: ['libido', 'depression', 'erschoepfung', 'nervositaet', 'wechseljahre', 'stress'],
   },
 
@@ -208,12 +208,12 @@ In Mexiko wird bis heute ein Damiana-Likör hergestellt, dessen Flasche die Form
   'Dill': {
     vollname: 'Dill (Anethum graveolens)',
     familie: 'Doldenblütler (Apiaceae)',
-    beschreibung: `Dill ist weit mehr als nur ein Gurkenkraut -- er ist eine alte Heilpflanze mit bemerkenswerter Wirkung auf Magen und Darm. Seine federleichten, dunkelgrünen Blätter und die aromatischen Samen enthalten ätherische Öle, die krampflösend und blähungstreibend wirken. Besonders Carvon, der Hauptbestandteil des Dillöls, beruhigt den gereizten Magen-Darm-Trakt.
+    beschreibung: `Dill ist weit mehr als nur ein Gurkenkraut, er ist eine alte Heilpflanze mit bemerkenswerter Wirkung auf Magen und Darm. Seine federleichten, dunkelgrünen Blätter und die aromatischen Samen enthalten ätherische Öle, die krampflösend und blähungstreibend wirken. Besonders Carvon, der Hauptbestandteil des Dillöls, beruhigt den gereizten Magen-Darm-Trakt.
 
 Für Säuglinge und Kleinkinder ist Dill ein mildes, bewährtes Mittel gegen Dreimonatskoliken und Blähungen. Sein sanftes Wesen macht ihn zur perfekten Kinderpflanze. Auch stillende Mütter profitieren: Dill fördert den Milchfluss und seine beruhigenden Stoffe gehen in die Muttermilch über und helfen dem Kind gleich mit.
 
-Dill wirkt zudem leicht harntreibend und unterstützt die Verdauung von schweren, fetten Speisen -- darum passt er so gut zu Fisch, Gurken und Kartoffeln. Das ist kein Zufall, sondern Jahrhunderte alte Küchenweisheit.`,
-    geschichte: `Der Name Dill kommt vom altnordischen "dilla" -- einlullen, beruhigen. Die Wikinger gaben ihren schreienden Babys Dillwasser. Im alten Ägypten wurde Dill als Heilpflanze und Gewürz geschätzt, man fand Dillsamen in Pharaonengräbern.
+Dill wirkt zudem leicht harntreibend und unterstützt die Verdauung von schweren, fetten Speisen, darum passt er so gut zu Fisch, Gurken und Kartoffeln. Das ist kein Zufall, sondern Jahrhunderte alte Küchenweisheit.`,
+    geschichte: `Der Name Dill kommt vom altnordischen "dilla", einlullen, beruhigen. Die Wikinger gaben ihren schreienden Babys Dillwasser. Im alten Ägypten wurde Dill als Heilpflanze und Gewürz geschätzt, man fand Dillsamen in Pharaonengräbern.
 
 Im Mittelalter galt Dill als Schutzkraut gegen Hexen und böse Geister. Bräute trugen Dillsträuße, und in die Wiege wurde Dill gelegt, um den Schlaf der Kinder zu schützen.`,
     wirkungen: {
@@ -223,7 +223,7 @@ Im Mittelalter galt Dill als Schutzkraut gegen Hexen und böse Geister. Bräute 
     ernte: {
       zeit: 'Blätter: Mai bis September, laufend frisch schneiden. Samen: August bis September, wenn sie braun werden.',
       teile: 'Frische Blätter (Dillspitzen), Samen und Blütendolden.',
-      tipps: 'Dill lässt sich schlecht trocknen -- er verliert dabei viel Aroma. Besser einfrieren oder frisch verwenden. Samen hingegen trocknen gut und halten ihr Aroma.',
+      tipps: 'Dill lässt sich schlecht trocknen, er verliert dabei viel Aroma. Besser einfrieren oder frisch verwenden. Samen hingegen trocknen gut und halten ihr Aroma.',
       mond: 'Blätter bei zunehmendem Mond, Samen bei Vollmond ernten.',
     },
     zubereitungen: [
@@ -244,8 +244,8 @@ Im Mittelalter galt Dill als Schutzkraut gegen Hexen und böse Geister. Bräute 
       },
     ],
     mischungen: ['Verdauungstee (mit Fenchel und Kümmel)', 'Stilltee (mit Bockshornklee und Anis)'],
-    tcm: 'Dill wärmt die Mitte, bewegt Qi und löst Stagnation im mittleren Erwärmer -- er stärkt Milz und Magen.',
-    ayurveda: 'Dill beruhigt Vata, seine warme Qualität stärkt Agni und lindert Blähungen -- ein klassisches Dipana (Verdauungsmittel).',
+    tcm: 'Dill wärmt die Mitte, bewegt Qi und löst Stagnation im mittleren Erwärmer, er stärkt Milz und Magen.',
+    ayurveda: 'Dill beruhigt Vata, seine warme Qualität stärkt Agni und lindert Blähungen, ein klassisches Dipana (Verdauungsmittel).',
     volksmedizin: 'Großmütter kannten den Trick: Ein Teelöffel Dillsamen, langsam gekaut, vertreibt Schluckauf zuverlässiger als jedes andere Mittel.',
     besonders_bei: ['blaehungen', 'verdauung', 'koliken', 'stillen', 'schlafprobleme', 'appetitlosigkeit'],
   },
@@ -256,12 +256,12 @@ Im Mittelalter galt Dill als Schutzkraut gegen Hexen und böse Geister. Bräute 
   'Efeu': {
     vollname: 'Gemeiner Efeu (Hedera helix)',
     familie: 'Araliengewächse (Araliaceae)',
-    beschreibung: `Efeu ist eine immergrüne Kletterpflanze, die in der modernen Pflanzenheilkunde vor allem als Hustenmittel geschätzt wird. Seine Blätter enthalten Saponine -- insbesondere Hederacosid C und Alpha-Hederin -- die eine bemerkenswerte schleimlösende und bronchienerweiternde Wirkung haben. Diese Saponine verflüssigen zähen Schleim, erleichtern das Abhusten und entspannen die verkrampfte Bronchialmuskulatur.
+    beschreibung: `Efeu ist eine immergrüne Kletterpflanze, die in der modernen Pflanzenheilkunde vor allem als Hustenmittel geschätzt wird. Seine Blätter enthalten Saponine, insbesondere Hederacosid C und Alpha-Hederin, die eine bemerkenswerte schleimlösende und bronchienerweiternde Wirkung haben. Diese Saponine verflüssigen zähen Schleim, erleichtern das Abhusten und entspannen die verkrampfte Bronchialmuskulatur.
 
 Efeu ist einer der wenigen pflanzlichen Wirkstoffe, deren Wirksamkeit bei Atemwegserkrankungen wissenschaftlich gut belegt ist. Zahlreiche klinische Studien bestätigen seine Wirkung bei akuter Bronchitis, chronischem Husten und sogar leichtem Asthma. In vielen Hustensäften und Hustentropfen ist Efeuextrakt der Hauptwirkstoff.
 
 Wichtig: Efeu ist in roher Form leicht giftig und darf nur in standardisierten Zubereitungen eingenommen werden. Die schwarzen Beeren sind giftig und nicht für den Verzehr geeignet. Äußerlich angewandt hilft Efeu bei Cellulite und Hautstraffung.`,
-    geschichte: `Im antiken Griechenland war Efeu dem Gott Dionysos geweiht -- Efeukränze schmückten die Feiernden bei den Dionysien. Man glaubte, Efeu schütze vor Trunkenheit, weshalb Weinhändler Efeu an ihre Türen hängten. Die immergrünen Blätter galten als Symbol für ewiges Leben und Treue.
+    geschichte: `Im antiken Griechenland war Efeu dem Gott Dionysos geweiht: Efeukränze schmückten die Feiernden bei den Dionysien. Man glaubte, Efeu schütze vor Trunkenheit, weshalb Weinhändler Efeu an ihre Türen hängten. Die immergrünen Blätter galten als Symbol für ewiges Leben und Treue.
 
 In der keltischen Tradition war Efeu eine heilige Pflanze des Winters, eng verbunden mit der Stechpalme. Zusammen symbolisierten sie den ewigen Kreislauf von Sterben und Wiedergeburt.`,
     wirkungen: {
@@ -270,7 +270,7 @@ In der keltischen Tradition war Efeu eine heilige Pflanze des Winters, eng verbu
     },
     ernte: {
       zeit: 'Blätter: ganzjährig, am besten im Frühjahr und Herbst. Nur die dunkelgrünen, älteren Blätter verwenden.',
-      teile: 'Blätter -- nur von älteren, nicht-blühenden Ranken.',
+      teile: 'Blätter, nur von älteren, nicht-blühenden Ranken.',
       tipps: 'Efeu nur äußerlich oder in standardisierten Fertigpräparaten anwenden. Selbstgemachte Tees nur in geringer Dosierung und nach Anleitung verwenden.',
       mond: 'Bei abnehmendem Mond ernten für die stärkste Wirkung auf die Atemwege.',
     },
@@ -292,9 +292,9 @@ In der keltischen Tradition war Efeu eine heilige Pflanze des Winters, eng verbu
       },
     ],
     mischungen: ['Hustentee (mit Thymian und Spitzwegerich)', 'Bronchialtee (mit Süßholz und Eibisch)'],
-    tcm: 'Efeu wandelt Schleim um, öffnet die Lunge und senkt rebellierendes Lungen-Qi -- er wird bei Husten mit zähem Auswurf eingesetzt.',
+    tcm: 'Efeu wandelt Schleim um, öffnet die Lunge und senkt rebellierendes Lungen-Qi, er wird bei Husten mit zähem Auswurf eingesetzt.',
     ayurveda: 'Efeu reduziert übermäßiges Kapha in den Atemwegen und wirkt klärend auf Pranavaha Srotas (Atemwegskanäle).',
-    volksmedizin: 'Bauern legten Efeublätter in die Schuhe, um müde Füße zu beleben, und auf die Stirn gegen Kopfschmerzen -- die äußerliche Anwendung war seit jeher beliebt, da man um die leichte Giftigkeit bei innerlicher Einnahme wusste.',
+    volksmedizin: 'Bauern legten Efeublätter in die Schuhe, um müde Füße zu beleben, und auf die Stirn gegen Kopfschmerzen, die äußerliche Anwendung war seit jeher beliebt, da man um die leichte Giftigkeit bei innerlicher Einnahme wusste.',
     besonders_bei: ['husten', 'bronchitis', 'atemwege', 'asthma', 'cellulite', 'verschleimung'],
   },
 
@@ -304,14 +304,14 @@ In der keltischen Tradition war Efeu eine heilige Pflanze des Winters, eng verbu
   'Eisenkraut': {
     vollname: 'Echtes Eisenkraut (Verbena officinalis)',
     familie: 'Eisenkrautgewächse (Verbenaceae)',
-    beschreibung: `Eisenkraut ist eine unscheinbare Pflanze mit zarten, lila Blüten, deren Heilkraft leicht unterschätzt wird. In der Antike galt sie als eine der heiligsten Pflanzen überhaupt -- "Herba sacra", das heilige Kraut. Sie wächst an Wegrändern und auf trockenen Wiesen und war Bestandteil unzähliger Rituale und Heilzeremonien.
+    beschreibung: `Eisenkraut ist eine unscheinbare Pflanze mit zarten, lila Blüten, deren Heilkraft leicht unterschätzt wird. In der Antike galt sie als eine der heiligsten Pflanzen überhaupt, "Herba sacra", das heilige Kraut. Sie wächst an Wegrändern und auf trockenen Wiesen und war Bestandteil unzähliger Rituale und Heilzeremonien.
 
-Eisenkraut wirkt auf vielfältige Weise: Es stärkt die Nerven, lindert Kopfschmerzen und Migräne, unterstützt die Leberfunktion, fördert die Verdauung und reguliert die Milchsekretion. In der modernen Phytotherapie ist Eisenkraut ein wichtiger Bestandteil von Sinupret -- einem der meistverwendeten pflanzlichen Arzneimittel bei Nasennebenhöhlenentzündungen.
+Eisenkraut wirkt auf vielfältige Weise: Es stärkt die Nerven, lindert Kopfschmerzen und Migräne, unterstützt die Leberfunktion, fördert die Verdauung und reguliert die Milchsekretion. In der modernen Phytotherapie ist Eisenkraut ein wichtiger Bestandteil von Sinupret, einem der meistverwendeten pflanzlichen Arzneimittel bei Nasennebenhöhlenentzündungen.
 
-Besonders geschätzt wird seine beruhigende und gleichzeitig stärkende Wirkung auf das Nervensystem. Es ist kein Schlafmittel, sondern ein Nerventonikum -- es beruhigt ohne müde zu machen und stärkt die Widerstandskraft gegen Stress.`,
-    geschichte: `Die Römer weihten Eisenkraut dem Jupiter und reinigten damit ihre Tempel und Altäre. Druiden ernteten es mit zeremonieller Ehrfurcht, ähnlich wie die Mistel. Im Mittelalter galt es als mächtiges Schutzkraut gegen alles Böse -- Hexen, Flüche und Krankheiten.
+Besonders geschätzt wird seine beruhigende und gleichzeitig stärkende Wirkung auf das Nervensystem. Es ist kein Schlafmittel, sondern ein Nerventonikum, es beruhigt ohne müde zu machen und stärkt die Widerstandskraft gegen Stress.`,
+    geschichte: `Die Römer weihten Eisenkraut dem Jupiter und reinigten damit ihre Tempel und Altäre. Druiden ernteten es mit zeremonieller Ehrfurcht, ähnlich wie die Mistel. Im Mittelalter galt es als mächtiges Schutzkraut gegen alles Böse: Hexen, Flüche und Krankheiten.
 
-Der Name "Eisenkraut" soll daher kommen, dass Schmiede die Pflanze ins Wasser gaben, in dem sie glühendes Eisen ablöschten -- so übertrug sich die Stärke des Eisens auf das Kraut. Andere Quellen besagen, es wurde zur Wundbehandlung nach Schwertkämpfen eingesetzt.`,
+Der Name "Eisenkraut" soll daher kommen, dass Schmiede die Pflanze ins Wasser gaben, in dem sie glühendes Eisen ablöschten, so übertrug sich die Stärke des Eisens auf das Kraut. Andere Quellen besagen, es wurde zur Wundbehandlung nach Schwertkämpfen eingesetzt.`,
     wirkungen: {
       hauptwirkungen: ['Nervenstärkend', 'Entzündungshemmend (Nebenhöhlen)', 'Leberunterstützend', 'Verdauungsfördernd', 'Leicht schmerzlindernd', 'Milchbildungsregulierend'],
       inhaltsstoffe: ['Verbenalin', 'Verbascosid', 'Iridoidglykoside', 'Flavonoide', 'Gerbstoffe', 'Ätherisches Öl', 'Bitterstoffe', 'Kieselsäure'],
@@ -340,8 +340,8 @@ Der Name "Eisenkraut" soll daher kommen, dass Schmiede die Pflanze ins Wasser ga
       },
     ],
     mischungen: ['Nervenstärkungstee (mit Melisse und Lavendel)', 'Nebenhöhlentee (mit Holunder und Schlüsselblume)'],
-    tcm: 'Eisenkraut bewegt Qi und Blut, löst Leber-Qi-Stagnation und klärt Feuchtigkeit-Hitze -- es wird bei Kopfschmerzen durch Stress eingesetzt.',
-    ayurveda: 'Eisenkraut beruhigt Pitta und Vata, stärkt die Leber und klärt den Geist -- es unterstützt Sadhaka Pitta, den Sitz der emotionalen Verarbeitung.',
+    tcm: 'Eisenkraut bewegt Qi und Blut, löst Leber-Qi-Stagnation und klärt Feuchtigkeit-Hitze, es wird bei Kopfschmerzen durch Stress eingesetzt.',
+    ayurveda: 'Eisenkraut beruhigt Pitta und Vata, stärkt die Leber und klärt den Geist, es unterstützt Sadhaka Pitta, den Sitz der emotionalen Verarbeitung.',
     volksmedizin: 'Im Volksglauben schützte ein Sträußchen Eisenkraut am Türrahmen das Haus vor Unheil. Bauern streuten es auch in den Stall, damit das Vieh gesund blieb und die Milch nicht verhext wurde.',
     besonders_bei: ['nervositaet', 'kopfschmerzen', 'migraene', 'nebenhoehlen', 'verdauung', 'stress', 'leber'],
   },
@@ -352,12 +352,12 @@ Der Name "Eisenkraut" soll daher kommen, dass Schmiede die Pflanze ins Wasser ga
   'Erdbeere': {
     vollname: 'Wald-Erdbeere (Fragaria vesca)',
     familie: 'Rosengewächse (Rosaceae)',
-    beschreibung: `Die Wald-Erdbeere ist weit mehr als eine süße Frucht -- ihre Blätter sind ein wertvolles Heilkraut, das in der Volksheilkunde seit Jahrhunderten geschätzt wird. Die zarten, dreigeteilten Blätter enthalten reichlich Gerbstoffe, Flavonoide und Vitamin C. Sie wirken zusammenziehend, entzündungshemmend und leicht harntreibend.
+    beschreibung: `Die Wald-Erdbeere ist weit mehr als eine süße Frucht, ihre Blätter sind ein wertvolles Heilkraut, das in der Volksheilkunde seit Jahrhunderten geschätzt wird. Die zarten, dreigeteilten Blätter enthalten reichlich Gerbstoffe, Flavonoide und Vitamin C. Sie wirken zusammenziehend, entzündungshemmend und leicht harntreibend.
 
 Erdbeerblättertee ist ein bewährtes Hausmittel bei Durchfall, Magen-Darm-Entzündungen und als Gurgellösung bei Halsschmerzen. Die Gerbstoffe legen eine schützende Schicht über gereizte Schleimhäute und hemmen Entzündungen. Auch als milder Blutreinigungstee im Frühling sind Erdbeerblätter beliebt.
 
 Die Früchte selbst sind kleine Nährstoffwunder: Sie enthalten mehr Vitamin C als Orangen, dazu Folsäure, Mangan, Kalium und wertvolle Antioxidantien. In der Volksmedizin wurden sie bei Gicht, Nieren- und Blasenleiden empfohlen.`,
-    geschichte: `Die Wald-Erdbeere war schon in der Steinzeit ein wichtiges Nahrungsmittel. Im Mittelalter wurde sie in Klostergärten als Heilpflanze kultiviert. Hildegard von Bingen hielt allerdings wenig von der Erdbeere -- sie warnte, dass die Frucht Verschleimung fördere. Andere Kräuterkundige widersprachen ihr deutlich.
+    geschichte: `Die Wald-Erdbeere war schon in der Steinzeit ein wichtiges Nahrungsmittel. Im Mittelalter wurde sie in Klostergärten als Heilpflanze kultiviert. Hildegard von Bingen hielt allerdings wenig von der Erdbeere, sie warnte, dass die Frucht Verschleimung fördere. Andere Kräuterkundige widersprachen ihr deutlich.
 
 Carl von Linne, der große Naturforscher, kurierte seine Gicht mit einer mehrwöchigen Erdbeer-Diät und schwor auf ihre heilende Kraft. In der Signaturenlehre galten Erdbeeren wegen ihrer herzförmigen Gestalt als Mittel für das Herz.`,
     wirkungen: {
@@ -367,7 +367,7 @@ Carl von Linne, der große Naturforscher, kurierte seine Gicht mit einer mehrwö
     ernte: {
       zeit: 'Blätter: Mai bis Juli, vor der Fruchtreife. Früchte: Juni bis Juli, wenn voll ausgereift und duftend.',
       teile: 'Blätter, Früchte und Wurzeln.',
-      tipps: 'Walderdbeeren haben ein ungleich intensiveres Aroma als Zuchterdbeeren. Die Blätter nach dem Pflücken ausbreiten und an der Luft trocknen -- nicht in der Sonne.',
+      tipps: 'Walderdbeeren haben ein ungleich intensiveres Aroma als Zuchterdbeeren. Die Blätter nach dem Pflücken ausbreiten und an der Luft trocknen, nicht in der Sonne.',
       mond: 'Blätter bei abnehmendem Mond für die stärkste adstringierende Wirkung, Früchte bei zunehmendem Mond für den besten Geschmack.',
     },
     zubereitungen: [
@@ -388,9 +388,9 @@ Carl von Linne, der große Naturforscher, kurierte seine Gicht mit einer mehrwö
       },
     ],
     mischungen: ['Haushaltungstee (mit Brombeerblättern und Himbeerblättern)', 'Blutreinigungstee (mit Brennnessel und Birke)'],
-    tcm: 'Erdbeere kühlt leicht, befeuchtet Yin und stärkt die Nieren-Essenz -- die Blätter klären feuchte Hitze im unteren Erwärmer.',
+    tcm: 'Erdbeere kühlt leicht, befeuchtet Yin und stärkt die Nieren-Essenz, die Blätter klären feuchte Hitze im unteren Erwärmer.',
     ayurveda: 'Erdbeere ist kühlend und süß, sie beruhigt Pitta und nährt Rasa Dhatu. Die Blätter wirken zusammenziehend und regulieren Kapha.',
-    volksmedizin: 'Bauernregel: "Erdbeerblättertee im Mai hält den Arzt fern bis zum Schnee" -- der Frühlings-Tee aus Erdbeerblättern war eine der einfachsten Gesundheitskuren auf dem Land.',
+    volksmedizin: 'Bauernregel: "Erdbeerblättertee im Mai hält den Arzt fern bis zum Schnee", der Frühlings-Tee aus Erdbeerblättern war eine der einfachsten Gesundheitskuren auf dem Land.',
     besonders_bei: ['durchfall', 'halsschmerzen', 'haut', 'fruehjahrskur', 'gicht', 'niere'],
   },
 
@@ -400,14 +400,14 @@ Carl von Linne, der große Naturforscher, kurierte seine Gicht mit einer mehrwö
   'Estragon': {
     vollname: 'Estragon (Artemisia dracunculus)',
     familie: 'Korbblütler (Asteraceae)',
-    beschreibung: `Estragon, der "kleine Drache", ist eine aromatische Gewürzpflanze mit einem unverwechselbaren, leicht anisartigen Geschmack. In der französischen Küche gehört er zu den unverzichtbaren "Fines Herbes". Doch Estragon ist auch eine Heilpflanze mit langer Tradition -- er gehört zur Gattung Artemisia, die einige der mächtigsten Heilkräuter umfasst.
+    beschreibung: `Estragon, der "kleine Drache", ist eine aromatische Gewürzpflanze mit einem unverwechselbaren, leicht anisartigen Geschmack. In der französischen Küche gehört er zu den unverzichtbaren "Fines Herbes". Doch Estragon ist auch eine Heilpflanze mit langer Tradition, er gehört zur Gattung Artemisia, die einige der mächtigsten Heilkräuter umfasst.
 
 Seine verdauungsfördernde Wirkung ist bemerkenswert: Estragon regt die Magensaftproduktion an, lindert Blähungen und Krämpfe und wirkt leicht appetitanregend. Die enthaltenen ätherischen Öle, besonders Estragol und Methylchavicol, wirken krampflösend auf die glatte Muskulatur.
 
-Traditionell wurde Estragon auch bei Zahnschmerzen eingesetzt -- das Kauen der frischen Blätter betäubt leicht die Mundschleimhaut. Frauen nutzten ihn bei ausbleibender Menstruation, da er die Gebärmutter sanft stimuliert. Er ist eine Pflanze, die den ganzen Verdauungstrakt wärmt und in Bewegung bringt.`,
-    geschichte: `Der Name "dracunculus" bedeutet "kleiner Drache" -- angeblich weil die Wurzeln schlangenförmig wachsen oder weil die Pflanze als Gegenmittel bei Schlangenbissen galt. Die Araber brachten Estragon im Mittelalter nach Europa, wo er schnell Eingang in die Klostergärten fand.
+Traditionell wurde Estragon auch bei Zahnschmerzen eingesetzt, das Kauen der frischen Blätter betäubt leicht die Mundschleimhaut. Frauen nutzten ihn bei ausbleibender Menstruation, da er die Gebärmutter sanft stimuliert. Er ist eine Pflanze, die den ganzen Verdauungstrakt wärmt und in Bewegung bringt.`,
+    geschichte: `Der Name "dracunculus" bedeutet "kleiner Drache", angeblich weil die Wurzeln schlangenförmig wachsen oder weil die Pflanze als Gegenmittel bei Schlangenbissen galt. Die Araber brachten Estragon im Mittelalter nach Europa, wo er schnell Eingang in die Klostergärten fand.
 
-In der mongolischen Tradition kauten Krieger Estragonblätter gegen Müdigkeit auf langen Ritten. Die französische Küchenkultur machte ihn ab dem 16. Jahrhundert zum "König der Kräuter" -- keine Sauce Bearnaise ohne Estragon.`,
+In der mongolischen Tradition kauten Krieger Estragonblätter gegen Müdigkeit auf langen Ritten. Die französische Küchenkultur machte ihn ab dem 16. Jahrhundert zum "König der Kräuter", keine Sauce Bearnaise ohne Estragon.`,
     wirkungen: {
       hauptwirkungen: ['Verdauungsfördernd', 'Krampflösend', 'Appetitanregend', 'Leicht betäubend (Mundschleimhaut)', 'Blähungstreibend', 'Menstruationsfördernd'],
       inhaltsstoffe: ['Estragol', 'Methylchavicol', 'Ätherisches Öl', 'Cumarine', 'Flavonoide', 'Bitterstoffe', 'Vitamin A', 'Kalium'],
@@ -415,7 +415,7 @@ In der mongolischen Tradition kauten Krieger Estragonblätter gegen Müdigkeit a
     ernte: {
       zeit: 'Mai bis Oktober, die frischen Triebspitzen laufend abschneiden.',
       teile: 'Frische Blätter und Triebspitzen.',
-      tipps: 'Nur den Französischen Estragon verwenden (Artemisia dracunculus var. sativa) -- er hat das feinste Aroma. Der Russische Estragon ist grober und weniger aromatisch. Frisch verwenden oder in Essig konservieren.',
+      tipps: 'Nur den Französischen Estragon verwenden (Artemisia dracunculus var. sativa), er hat das feinste Aroma. Der Russische Estragon ist grober und weniger aromatisch. Frisch verwenden oder in Essig konservieren.',
       mond: 'Bei zunehmendem Mond ernten für den besten Geschmack.',
     },
     zubereitungen: [
@@ -436,9 +436,9 @@ In der mongolischen Tradition kauten Krieger Estragonblätter gegen Müdigkeit a
       },
     ],
     mischungen: ['Verdauungskräuter (mit Fenchel und Minze)', 'Fines Herbes (mit Petersilie, Kerbel und Schnittlauch)'],
-    tcm: 'Estragon wärmt den mittleren Erwärmer, bewegt Qi und löst Kältestagnation im Magen -- ein Mittel bei kaltem, schwachem Magen.',
+    tcm: 'Estragon wärmt den mittleren Erwärmer, bewegt Qi und löst Kältestagnation im Magen, ein Mittel bei kaltem, schwachem Magen.',
     ayurveda: 'Estragon ist scharf und warm, er reduziert Vata und Kapha, stärkt Agni und fördert die Verdauung schwerer Speisen.',
-    volksmedizin: 'In der südfranzösischen Volksheilkunde legte man Estragonblätter in die Schuhe vor langen Wanderungen -- sie sollten die Füße vor Ermüdung schützen und den Schritt leicht halten.',
+    volksmedizin: 'In der südfranzösischen Volksheilkunde legte man Estragonblätter in die Schuhe vor langen Wanderungen, sie sollten die Füße vor Ermüdung schützen und den Schritt leicht halten.',
     besonders_bei: ['verdauung', 'blaehungen', 'appetitlosigkeit', 'zahnschmerzen', 'menstruation', 'magenkraempfe'],
   },
 
@@ -448,7 +448,7 @@ In der mongolischen Tradition kauten Krieger Estragonblätter gegen Müdigkeit a
   'Flohsamen': {
     vollname: 'Indischer Flohsamen (Plantago ovata)',
     familie: 'Wegerichgewächse (Plantaginaceae)',
-    beschreibung: `Flohsamen -- insbesondere die Samenschalen (Psyllium) -- sind eines der wirksamsten natürlichen Mittel zur Darmregulierung. Die winzigen Samen quellen bei Kontakt mit Wasser auf das 10- bis 15-fache ihres Volumens auf und bilden einen sanften, gelartigen Schleim. Dieser Schleim gleitet durch den Darm, bindet Wasser, reguliert die Stuhlkonsistenz und reinigt die Darmwände dabei sanft wie ein natürlicher Schwamm.
+    beschreibung: `Flohsamen, insbesondere die Samenschalen (Psyllium), sind eines der wirksamsten natürlichen Mittel zur Darmregulierung. Die winzigen Samen quellen bei Kontakt mit Wasser auf das 10- bis 15-fache ihres Volumens auf und bilden einen sanften, gelartigen Schleim. Dieser Schleim gleitet durch den Darm, bindet Wasser, reguliert die Stuhlkonsistenz und reinigt die Darmwände dabei sanft wie ein natürlicher Schwamm.
 
 Das Besondere: Flohsamen helfen sowohl bei Verstopfung als auch bei Durchfall. Bei Verstopfung quellen sie auf und bringen den Darm in Bewegung. Bei Durchfall binden sie überschüssiges Wasser und machen den Stuhl fester. Diese regulierende Doppelwirkung macht sie einzigartig.
 
@@ -489,9 +489,9 @@ In Europa wurden sie erst im 19. Jahrhundert bekannt, als die europäische Mediz
       },
     ],
     mischungen: ['Darmkur (mit Leinsamen und Heilerde)', 'Cholesterin-Trunk (mit Haferkleie und Apfelpektin)'],
-    tcm: 'Flohsamen befeuchten den Darm, lösen Trockenheits-Verstopfung und kühlen Hitze im Dickdarm -- ein Yin-nährendes Abführmittel.',
+    tcm: 'Flohsamen befeuchten den Darm, lösen Trockenheits-Verstopfung und kühlen Hitze im Dickdarm, ein Yin-nährendes Abführmittel.',
     ayurveda: 'Isabgol gleicht alle drei Doshas aus, besonders Pitta und Vata im Darm. Es nährt den Purishavaha Srotas (Darmkanal) und fördert Apana Vata.',
-    volksmedizin: 'In der persischen Volksmedizin heißt es: "Wer jeden Morgen Isabgol nimmt, dessen Darm ist wie ein sauberer Fluss" -- Flohsamen galten als das einfachste Mittel für ein langes, gesundes Leben.',
+    volksmedizin: 'In der persischen Volksmedizin heißt es: "Wer jeden Morgen Isabgol nimmt, dessen Darm ist wie ein sauberer Fluss": Flohsamen galten als das einfachste Mittel für ein langes, gesundes Leben.',
     besonders_bei: ['verstopfung', 'durchfall', 'reizdarm', 'cholesterin', 'diabetes', 'darmgesundheit', 'uebergewicht'],
   },
 
@@ -501,12 +501,12 @@ In Europa wurden sie erst im 19. Jahrhundert bekannt, als die europäische Mediz
   'Galgant': {
     vollname: 'Galgant (Alpinia officinarum)',
     familie: 'Ingwergewächse (Zingiberaceae)',
-    beschreibung: `Galgant ist ein naher Verwandter des Ingwers und stammt aus Südostasien. Sein Wurzelstock ist schärfer und aromatischer als Ingwer, mit einem pfeffrigen, leicht kampferartigen Geschmack. Hildegard von Bingen nannte ihn das "Gewürz des Lebens" und empfahl ihn als Universalmittel gegen zahlreiche Beschwerden -- vom Herzleiden bis zur Verdauungsschwäche.
+    beschreibung: `Galgant ist ein naher Verwandter des Ingwers und stammt aus Südostasien. Sein Wurzelstock ist schärfer und aromatischer als Ingwer, mit einem pfeffrigen, leicht kampferartigen Geschmack. Hildegard von Bingen nannte ihn das "Gewürz des Lebens" und empfahl ihn als Universalmittel gegen zahlreiche Beschwerden, vom Herzleiden bis zur Verdauungsschwäche.
 
-Galgant wärmt den gesamten Organismus von innen heraus. Er stärkt das Herz, regt die Verdauung an, lindert Übelkeit und Brechreiz und wirkt entzündungshemmend. Die enthaltenen Gingerole und Galangin -- ein starkes Flavonoid -- machen ihn zu einem kraftvollen Antioxidans.
+Galgant wärmt den gesamten Organismus von innen heraus. Er stärkt das Herz, regt die Verdauung an, lindert Übelkeit und Brechreiz und wirkt entzündungshemmend. Die enthaltenen Gingerole und Galangin, ein starkes Flavonoid, machen ihn zu einem kraftvollen Antioxidans.
 
 Besonders bei Frösteln, kalten Händen und Füßen, Appetitlosigkeit und Erschöpfung ist Galgant ein wärmendes Mittel, das den Kreislauf belebt und die Lebensgeister weckt. In der Thai-Küche ist er als "Kha" ein wichtiger Bestandteil von Tom Kha Gai.`,
-    geschichte: `Galgant gelangte über die arabischen Handelsrouten im frühen Mittelalter nach Europa. Hildegard von Bingen (12. Jahrhundert) machte ihn berühmt -- sie widmete ihm mehr Aufmerksamkeit als den meisten anderen Gewürzen und nannte ihn "Gewürz des Lebens".
+    geschichte: `Galgant gelangte über die arabischen Handelsrouten im frühen Mittelalter nach Europa. Hildegard von Bingen (12. Jahrhundert) machte ihn berühmt, sie widmete ihm mehr Aufmerksamkeit als den meisten anderen Gewürzen und nannte ihn "Gewürz des Lebens".
 
 In der Hildegard-Medizin gilt Galgant bis heute als eines der wichtigsten Herzmittel. Sie empfahl, bei drohendem Herzanfall ein Stück Galgant auf die Zunge zu legen. In der ayurvedischen und traditionellen chinesischen Medizin wird er seit Jahrtausenden verwendet.`,
     wirkungen: {
@@ -515,7 +515,7 @@ In der Hildegard-Medizin gilt Galgant bis heute als eines der wichtigsten Herzmi
     },
     ernte: {
       zeit: 'Die Rhizome werden nach 4-6 Jahren Wachstum im Spätherbst geerntet.',
-      teile: 'Wurzelstock (Rhizom) -- frisch oder getrocknet.',
+      teile: 'Wurzelstock (Rhizom), frisch oder getrocknet.',
       tipps: 'In Europa im Reformhaus oder Gewürzhandel als getrocknete Scheiben oder Pulver erhältlich. Frische Galgant-Wurzeln gibt es in asiatischen Lebensmittelgeschäften.',
       mond: 'Bei abnehmendem Mond ernten für die stärkste Wirkstoffkonzentration.',
     },
@@ -538,7 +538,7 @@ In der Hildegard-Medizin gilt Galgant bis heute als eines der wichtigsten Herzmi
     ],
     mischungen: ['Hildegard-Herzgewürz (mit Bertram und Quendel)', 'Wärmegewürz (mit Ingwer und Zimt)'],
     tcm: 'Galgant wärmt die Mitte, vertreibt Kälte und Nässe aus dem Magen, senkt rebellierendes Qi und lindert Übelkeit.',
-    ayurveda: 'Galgant ist scharf, warm und trocken -- er entzündet Agni, beruhigt Vata und Kapha und räumt Ama (Stoffwechselschlacken) aus.',
+    ayurveda: 'Galgant ist scharf, warm und trocken, er entzündet Agni, beruhigt Vata und Kapha und räumt Ama (Stoffwechselschlacken) aus.',
     volksmedizin: 'Hildegard von Bingen empfahl: "Wer am Herzen leidet, soll Galgant auf die Zunge legen und es wird ihm besser gehen." Diese Empfehlung wird in der Hildegard-Medizin bis heute befolgt.',
     besonders_bei: ['herz', 'verdauung', 'uebelkeit', 'kaelteempfindlichkeit', 'erschoepfung', 'kreislauf'],
   },
@@ -549,21 +549,21 @@ In der Hildegard-Medizin gilt Galgant bis heute als eines der wichtigsten Herzmi
   'Giersch': {
     vollname: 'Giersch (Aegopodium podagraria)',
     familie: 'Doldenblütler (Apiaceae)',
-    beschreibung: `Giersch ist der Erzfeind vieler Gärtner -- und ein verkanntes Superfood. Was im Beet als hartnäckiges Unkraut ausgerissen wird, ist in Wahrheit eine der nährstoffreichsten Wildpflanzen Mitteleuropas. Sein lateinischer Beiname "podagraria" verrät seine wichtigste Heilwirkung: Er wurde seit dem Mittelalter bei Podagra (Gicht) eingesetzt.
+    beschreibung: `Giersch ist der Erzfeind vieler Gärtner, und ein verkanntes Superfood. Was im Beet als hartnäckiges Unkraut ausgerissen wird, ist in Wahrheit eine der nährstoffreichsten Wildpflanzen Mitteleuropas. Sein lateinischer Beiname "podagraria" verrät seine wichtigste Heilwirkung: Er wurde seit dem Mittelalter bei Podagra (Gicht) eingesetzt.
 
-Giersch enthält mehr Vitamin C als Zitronen, mehr Kalium als Bananen und beachtliche Mengen an Eisen, Magnesium, Zink und Karotin. Seine dreiteiligen Blätter mit dem charakteristischen dreieckigen Querschnitt des Blattstiels sind von Frühling bis Herbst verfügbar -- ein Wildgemüse, das nie ausgeht.
+Giersch enthält mehr Vitamin C als Zitronen, mehr Kalium als Bananen und beachtliche Mengen an Eisen, Magnesium, Zink und Karotin. Seine dreiteiligen Blätter mit dem charakteristischen dreieckigen Querschnitt des Blattstiels sind von Frühling bis Herbst verfügbar, ein Wildgemüse, das nie ausgeht.
 
 Seine harntreibende und entsäuernde Wirkung macht ihn zum idealen Begleiter bei Gicht und Rheuma: Er hilft dem Körper, überschüssige Harnsäure auszuscheiden. Gleichzeitig liefert er basische Mineralien, die den Säure-Basen-Haushalt regulieren.`,
-    geschichte: `Giersch wurde im Mittelalter gezielt in Klostergärten angebaut -- als Gemüse und als Gichtmittel. Er war das "Zipperleinkraut" (Gicht hieß früher "Zipperlein"). Mönche und Nonnen assen ihn als Spinatersatz und bereiteten daraus Umschläge für geschwollene Gelenke.
+    geschichte: `Giersch wurde im Mittelalter gezielt in Klostergärten angebaut, als Gemüse und als Gichtmittel. Er war das "Zipperleinkraut" (Gicht hieß früher "Zipperlein"). Mönche und Nonnen assen ihn als Spinatersatz und bereiteten daraus Umschläge für geschwollene Gelenke.
 
-Dass Giersch heute als Unkraut verschrien ist, liegt an seiner unglaublichen Lebenskraft: Jedes kleine Wurzelstück treibt wieder aus. Was den Gärtner verzweifeln lässt, ist für den Kräuterkundigen ein Segen -- eine Heilpflanze, die nie ausgeht.`,
+Dass Giersch heute als Unkraut verschrien ist, liegt an seiner unglaublichen Lebenskraft: Jedes kleine Wurzelstück treibt wieder aus. Was den Gärtner verzweifeln lässt, ist für den Kräuterkundigen ein Segen, eine Heilpflanze, die nie ausgeht.`,
     wirkungen: {
       hauptwirkungen: ['Harnsäure ausleitend', 'Entwässernd', 'Entsäuernd', 'Entzündungshemmend', 'Nährstoffreich', 'Basisch wirkend'],
       inhaltsstoffe: ['Vitamin C', 'Kalium', 'Eisen', 'Magnesium', 'Zink', 'Karotin', 'Ätherisches Öl', 'Chlorogensäure'],
     },
     ernte: {
       zeit: 'März bis Oktober, die jungen, hellgrünen Blätter im Frühling sind am zartesten.',
-      teile: 'Junge Blätter und Triebe -- ältere Blätter werden zäh und bitter.',
+      teile: 'Junge Blätter und Triebe, ältere Blätter werden zäh und bitter.',
       tipps: 'Giersch erkennt man am dreieckigen Blattstiel-Querschnitt und den dreiteiligen Blättern. Vorsicht: Nicht mit giftigen Doldenblütlern verwechseln. Immer den Dreier-Test machen: dreikantiger Stiel, dreizählige Blätter, dreifach gefiedert.',
       mond: 'Bei zunehmendem Mond ernten für die stärkste Entgiftungswirkung.',
     },
@@ -576,7 +576,7 @@ Dass Giersch heute als Unkraut verschrien ist, liegt an seiner unglaublichen Leb
       {
         name: 'Giersch als Wildgemüse',
         anleitung: 'Junge Gierschblätter wie Spinat dünsten, in Smoothies mixen, als Salat essen oder als Petersilienersatz verwenden. Schmeckt mild würzig, zwischen Petersilie und Möhre.',
-        wirkung: 'Nährstoffbombe mit viel Vitamin C, Eisen und Kalium -- entsäuernd und basisch.',
+        wirkung: 'Nährstoffbombe mit viel Vitamin C, Eisen und Kalium, entsäuernd und basisch.',
       },
       {
         name: 'Giersch-Umschlag bei Gicht',
@@ -587,7 +587,7 @@ Dass Giersch heute als Unkraut verschrien ist, liegt an seiner unglaublichen Leb
     mischungen: ['Gichttee (mit Brennnessel und Birke)', 'Grüner Smoothie (mit Brennnessel und Apfel)'],
     tcm: 'Giersch leitet feuchte Hitze aus den Gelenken, fördert das Wasserlassen und klärt Toxine im unteren Erwärmer.',
     ayurveda: 'Giersch reduziert Pitta und Kapha, wirkt reinigend auf Asthi Dhatu (Knochen und Gelenke) und leitet Ama aus.',
-    volksmedizin: 'Alte Gärtnerregel: "Wenn du Giersch im Garten hast, iss ihn auf statt ihn auszureißen" -- so wird aus dem Ärgernis die beste Medizin. Bauern legten sich bei Gichtanfällen auf ein Bett aus frischem Giersch.',
+    volksmedizin: 'Alte Gärtnerregel: "Wenn du Giersch im Garten hast, iss ihn auf statt ihn auszureißen", so wird aus dem Ärgernis die beste Medizin. Bauern legten sich bei Gichtanfällen auf ein Bett aus frischem Giersch.',
     besonders_bei: ['gicht', 'rheuma', 'uebersaeuerung', 'niere', 'eisenmangel', 'fruehjahrskur'],
   },
 
@@ -597,21 +597,21 @@ Dass Giersch heute als Unkraut verschrien ist, liegt an seiner unglaublichen Leb
   'Goji': {
     vollname: 'Goji-Beere (Lycium barbarum)',
     familie: 'Nachtschattengewächse (Solanaceae)',
-    beschreibung: `Die Goji-Beere -- auch Wolfsbeere oder chinesische Bocksdornbeere genannt -- ist eine der am meisten geschätzten Heilpflanzen der traditionellen chinesischen Medizin. Die kleinen, leuchtend roten Beeren schmecken süßlich-herb und werden seit über 2000 Jahren als Langlebigkeitsmittel verwendet. In China heißt sie "Gou Qi Zi" und gilt als eines der wichtigsten tonisierenden Mittel überhaupt.
+    beschreibung: `Die Goji-Beere, auch Wolfsbeere oder chinesische Bocksdornbeere genannt, ist eine der am meisten geschätzten Heilpflanzen der traditionellen chinesischen Medizin. Die kleinen, leuchtend roten Beeren schmecken süßlich-herb und werden seit über 2000 Jahren als Langlebigkeitsmittel verwendet. In China heißt sie "Gou Qi Zi" und gilt als eines der wichtigsten tonisierenden Mittel überhaupt.
 
 Goji-Beeren sind außergewöhnlich nährstoffreich: Sie enthalten alle essenziellen Aminosäuren, mehr Beta-Carotin als Karotten, mehr Vitamin C als Orangen, dazu Eisen, Zink, Selen und einzigartige Polysaccharide (LBP), die das Immunsystem modulieren. Die enthaltenen Zeaxanthin-Carotinoide schützen die Augen vor altersbedingtem Abbau.
 
-Goji stärkt Leber und Nieren, verbessert die Sehkraft, nährt das Blut, stärkt das Immunsystem und gilt als Anti-Aging-Mittel. Sie ist ein sanftes Tonikum, das über Wochen und Monate aufbaut -- kein schnelles Stimulans, sondern tiefe Nährung.`,
+Goji stärkt Leber und Nieren, verbessert die Sehkraft, nährt das Blut, stärkt das Immunsystem und gilt als Anti-Aging-Mittel. Sie ist ein sanftes Tonikum, das über Wochen und Monate aufbaut, kein schnelles Stimulans, sondern tiefe Nährung.`,
     geschichte: `Eine berühmte chinesische Legende erzählt von einem Dorf, in dem alle Menschen über 100 Jahre alt wurden. Das Geheimnis: Ein Goji-Strauch wuchs über dem Dorfbrunnen und seine Beeren fielen ins Wasser. Li Qing Yuen, der angeblich 252 Jahre alt wurde, ass täglich Goji-Beeren.
 
-In der TCM wird Goji seit der Han-Dynastie (200 v. Chr.) als Medizin dokumentiert. Die Pflanze wächst ursprünglich in der Mongolei und in den Himalaya-Regionen, heute wird sie weltweit angebaut -- auch in Mitteleuropa gedeiht der robuste Strauch problemlos.`,
+In der TCM wird Goji seit der Han-Dynastie (200 v. Chr.) als Medizin dokumentiert. Die Pflanze wächst ursprünglich in der Mongolei und in den Himalaya-Regionen, heute wird sie weltweit angebaut, auch in Mitteleuropa gedeiht der robuste Strauch problemlos.`,
     wirkungen: {
       hauptwirkungen: ['Leber- und Nieren stärkend', 'Augen schützend', 'Immunmodulierend', 'Blut nährend', 'Anti-Aging', 'Energetisch aufbauend'],
       inhaltsstoffe: ['Lycium-Barbarum-Polysaccharide (LBP)', 'Zeaxanthin', 'Beta-Carotin', 'Vitamin C', 'Eisen', 'Zink', 'Selen', 'Essenzielle Aminosäuren'],
     },
     ernte: {
       zeit: 'August bis Oktober, wenn die Beeren leuchtend rot und weich sind.',
-      teile: 'Beeren -- frisch, getrocknet oder als Saft.',
+      teile: 'Beeren, frisch, getrocknet oder als Saft.',
       tipps: 'Goji-Sträucher lassen sich gut im eigenen Garten anbauen, sie sind winterhart und anspruchslos. Die Beeren nach der Ernte schnell trocknen, um Schimmel zu vermeiden.',
       mond: 'Bei Vollmond ernten für den höchsten Nährstoffgehalt.',
     },
@@ -633,9 +633,9 @@ In der TCM wird Goji seit der Han-Dynastie (200 v. Chr.) als Medizin dokumentier
       },
     ],
     mischungen: ['Langlebigkeitstee (mit Chrysantheme und Jujube)', 'Augentee (mit Chrysantheme und Lycium-Rinde)'],
-    tcm: 'Gou Qi Zi nährt Leber-Yin und Nieren-Yin, stärkt Jing und verbessert die Sehkraft -- eines der wichtigsten Yin-Tonika der TCM.',
-    ayurveda: 'Goji-Beeren nähren Ojas, stärken Rasa und Rakta Dhatu und wirken verjüngend (Rasayana) -- sie gleichen Vata und Pitta aus.',
-    volksmedizin: 'In der tibetischen Volksmedizin heißt es: "Wer drei Monate täglich Goji isst, wird die Kraft eines jungen Mannes haben und die Weisheit eines alten" -- die Beere galt als Brücke zwischen Kraft und Weisheit.',
+    tcm: 'Gou Qi Zi nährt Leber-Yin und Nieren-Yin, stärkt Jing und verbessert die Sehkraft, eines der wichtigsten Yin-Tonika der TCM.',
+    ayurveda: 'Goji-Beeren nähren Ojas, stärken Rasa und Rakta Dhatu und wirken verjüngend (Rasayana), sie gleichen Vata und Pitta aus.',
+    volksmedizin: 'In der tibetischen Volksmedizin heißt es: "Wer drei Monate täglich Goji isst, wird die Kraft eines jungen Mannes haben und die Weisheit eines alten", die Beere galt als Brücke zwischen Kraft und Weisheit.',
     besonders_bei: ['augen', 'leber', 'immunschwaeche', 'erschoepfung', 'alter', 'eisenmangel', 'rekonvaleszenz'],
   },
 
@@ -645,12 +645,12 @@ In der TCM wird Goji seit der Han-Dynastie (200 v. Chr.) als Medizin dokumentier
   'Goldrute': {
     vollname: 'Echte Goldrute (Solidago virgaurea)',
     familie: 'Korbblütler (Asteraceae)',
-    beschreibung: `Die Goldrute ist die wichtigste Heilpflanze für Nieren und Harnwege in der europäischen Phytotherapie. Ihre leuchtend gelben Blütenrispen erhellen im Spätsommer die Waldränder und Lichtungen. Der botanische Name "Solidago" bedeutet "die Festmachende" -- sie macht den Körper fest und gesund.
+    beschreibung: `Die Goldrute ist die wichtigste Heilpflanze für Nieren und Harnwege in der europäischen Phytotherapie. Ihre leuchtend gelben Blütenrispen erhellen im Spätsommer die Waldränder und Lichtungen. Der botanische Name "Solidago" bedeutet "die Festmachende", sie macht den Körper fest und gesund.
 
-Die Goldrute wirkt stark harntreibend, entzündungshemmend und krampflösend auf die Harnwege. Sie spült Nieren und Blase durch, verhindert die Bildung von Nierensteinen und hilft, bestehende Grießsteinchen auszuschwemmen. Dabei reizt sie die Nieren nicht, sondern schützt sie -- eine seltene Kombination.
+Die Goldrute wirkt stark harntreibend, entzündungshemmend und krampflösend auf die Harnwege. Sie spült Nieren und Blase durch, verhindert die Bildung von Nierensteinen und hilft, bestehende Grießsteinchen auszuschwemmen. Dabei reizt sie die Nieren nicht, sondern schützt sie, eine seltene Kombination.
 
 Besonders bewährt hat sie sich bei Blasenentzündungen, Reizblase und als Durchspülungstherapie. In vielen Nieren-Blasen-Tees ist sie der Hauptbestandteil. Auch bei rheumatischen Beschwerden wird sie eingesetzt, da sie die Ausscheidung von Harnsäure und Stoffwechselschlacken fördert.`,
-    geschichte: `Im Mittelalter war die Goldrute als "Heidnisch Wundkraut" bekannt -- sie wurde auf Wunden gelegt, die nicht heilen wollten. Die Sarazenen brachten Wissen über ihre Heilkraft nach Europa, weshalb sie auch "Sarazenenkraut" genannt wurde.
+    geschichte: `Im Mittelalter war die Goldrute als "Heidnisch Wundkraut" bekannt, sie wurde auf Wunden gelegt, die nicht heilen wollten. Die Sarazenen brachten Wissen über ihre Heilkraft nach Europa, weshalb sie auch "Sarazenenkraut" genannt wurde.
 
 Die nordamerikanischen Ureinwohner kauten Goldrutenblätter bei Halsschmerzen und verwendeten den Aufguss als Wundspülung. In der modernen Phytotherapie ist die Goldrute eines der am besten untersuchten Nierenkräuter.`,
     wirkungen: {
@@ -681,9 +681,9 @@ Die nordamerikanischen Ureinwohner kauten Goldrutenblätter bei Halsschmerzen un
       },
     ],
     mischungen: ['Nieren-Blasen-Tee (mit Birke und Brennnessel)', 'Harnwegstee (mit Bärentraube und Schachtelhalm)'],
-    tcm: 'Goldrute leitet feuchte Hitze aus dem unteren Erwärmer, fördert das Wasserlassen und klärt die Blase -- ein wichtiges Mittel bei Lin-Syndrom (Harnwegsinfekt).',
+    tcm: 'Goldrute leitet feuchte Hitze aus dem unteren Erwärmer, fördert das Wasserlassen und klärt die Blase, ein wichtiges Mittel bei Lin-Syndrom (Harnwegsinfekt).',
     ayurveda: 'Goldrute reduziert Pitta und Kapha in Mutravahasrotas (Harnwegskanäle), sie reinigt und stärkt die Nieren.',
-    volksmedizin: 'In der Volksheilkunde hieß es: "Goldrute im Tee hält die Nieren wie Gold" -- sie war das bevorzugte Hausmittel bei allen Blasenleiden und wurde vor allem Frauen empfohlen, die häufig unter Blasenentzündungen litten.',
+    volksmedizin: 'In der Volksheilkunde hieß es: "Goldrute im Tee hält die Nieren wie Gold", sie war das bevorzugte Hausmittel bei allen Blasenleiden und wurde vor allem Frauen empfohlen, die häufig unter Blasenentzündungen litten.',
     besonders_bei: ['blasenentzuendung', 'niere', 'nierensteine', 'reizblase', 'rheuma', 'harnwege'],
   },
 
@@ -693,14 +693,14 @@ Die nordamerikanischen Ureinwohner kauten Goldrutenblätter bei Halsschmerzen un
   'Gotu Kola': {
     vollname: 'Gotu Kola (Centella asiatica)',
     familie: 'Doldenblütler (Apiaceae)',
-    beschreibung: `Gotu Kola ist eine unscheinbare, kriechende Pflanze aus den Tropen Asiens, die in der ayurvedischen Medizin als eines der wichtigsten Kräuter für den Geist gilt. Ihre nierenförmigen Blätter erinnern an die Gehirnhälften -- und tatsächlich ist Gotu Kola eines der besten Pflanzenheilmittel für Konzentration, Gedächtnis und mentale Klarheit. In Sri Lanka heißt es: "Zwei Blätter am Tag halten die Alterung auf."
+    beschreibung: `Gotu Kola ist eine unscheinbare, kriechende Pflanze aus den Tropen Asiens, die in der ayurvedischen Medizin als eines der wichtigsten Kräuter für den Geist gilt. Ihre nierenförmigen Blätter erinnern an die Gehirnhälften, und tatsächlich ist Gotu Kola eines der besten Pflanzenheilmittel für Konzentration, Gedächtnis und mentale Klarheit. In Sri Lanka heißt es: "Zwei Blätter am Tag halten die Alterung auf."
 
-Die Wirkstoffe Asiaticosid und Madecassosid fördern die Kollagenbildung, stärken die Blutgefäße und verbessern die Mikrozirkulation im Gehirn. Gotu Kola steigert die kognitive Leistung, beruhigt gleichzeitig die Nerven und reduziert Angst -- eine seltene Kombination aus geistiger Klarheit und innerer Ruhe.
+Die Wirkstoffe Asiaticosid und Madecassosid fördern die Kollagenbildung, stärken die Blutgefäße und verbessern die Mikrozirkulation im Gehirn. Gotu Kola steigert die kognitive Leistung, beruhigt gleichzeitig die Nerven und reduziert Angst, eine seltene Kombination aus geistiger Klarheit und innerer Ruhe.
 
-Äußerlich angewandt ist Gotu Kola ein hervorragendes Wundheilmittel. Es beschleunigt die Narbenbildung, stärkt das Bindegewebe und hilft bei Venenschwäche und Krampfadern. In der ayurvedischen Tradition wird es als Brahmi -- "göttliches Kraut" -- verehrt.`,
-    geschichte: `In der indischen Tradition ist Gotu Kola seit Jahrtausenden als Meditationskraut bekannt. Yogis und Weise nehmen es ein, um den Geist für die Meditation zu klären. Im Ayurveda gehört es zu den Medhya Rasayana -- den Mitteln, die den Intellekt verjüngen.
+Äußerlich angewandt ist Gotu Kola ein hervorragendes Wundheilmittel. Es beschleunigt die Narbenbildung, stärkt das Bindegewebe und hilft bei Venenschwäche und Krampfadern. In der ayurvedischen Tradition wird es als Brahmi, "göttliches Kraut", verehrt.`,
+    geschichte: `In der indischen Tradition ist Gotu Kola seit Jahrtausenden als Meditationskraut bekannt. Yogis und Weise nehmen es ein, um den Geist für die Meditation zu klären. Im Ayurveda gehört es zu den Medhya Rasayana, den Mitteln, die den Intellekt verjüngen.
 
-In China heißt es, dass der legendäre Kräuterkundige Li Ching-Yun, der angeblich über 200 Jahre alt wurde, täglich Gotu Kola einnahm. In Sri Lanka beobachtete man, dass Elefanten -- Tiere mit bekanntlich hervorragendem Gedächtnis -- bevorzugt Gotu Kola fressen.`,
+In China heißt es, dass der legendäre Kräuterkundige Li Ching-Yun, der angeblich über 200 Jahre alt wurde, täglich Gotu Kola einnahm. In Sri Lanka beobachtete man, dass Elefanten: Tiere mit bekanntlich hervorragendem Gedächtnis, bevorzugt Gotu Kola fressen.`,
     wirkungen: {
       hauptwirkungen: ['Gedächtnisfördernd', 'Nervenstärkend', 'Angstlösend', 'Wundheilend', 'Bindegewebe stärkend', 'Durchblutungsfördernd (Mikrozirkulation)'],
       inhaltsstoffe: ['Asiaticosid', 'Madecassosid', 'Asiatische Säure', 'Brahminosid', 'Flavonoide', 'Triterpensaponine', 'B-Vitamine', 'Magnesium'],
@@ -729,9 +729,9 @@ In China heißt es, dass der legendäre Kräuterkundige Li Ching-Yun, der angebl
       },
     ],
     mischungen: ['Gedächtnistee (mit Rosmarin und Ginkgo)', 'Nerventonikum (mit Ashwagandha und Brahmi)'],
-    tcm: 'Gotu Kola klärt den Geist, kühlt Hitze und nährt das Yin -- sie öffnet die Sinne und beruhigt den Shen (Herz-Geist).',
-    ayurveda: 'Gotu Kola ist das bedeutendste Medhya Rasayana -- es nährt Majja Dhatu (Nervengewebe), stärkt Buddhi (Intellekt) und beruhigt alle drei Doshas.',
-    volksmedizin: 'In Sri Lanka gibt es das Sprichwort: "Wer jeden Tag zwei Gotu Kola-Blätter isst, wird alt und weise." Die Pflanze wurde dort traditionell auch "Elefantenfutter" genannt -- weil Elefanten sie besonders gern fressen und für ihr Gedächtnis bekannt sind.',
+    tcm: 'Gotu Kola klärt den Geist, kühlt Hitze und nährt das Yin, sie öffnet die Sinne und beruhigt den Shen (Herz-Geist).',
+    ayurveda: 'Gotu Kola ist das bedeutendste Medhya Rasayana, es nährt Majja Dhatu (Nervengewebe), stärkt Buddhi (Intellekt) und beruhigt alle drei Doshas.',
+    volksmedizin: 'In Sri Lanka gibt es das Sprichwort: "Wer jeden Tag zwei Gotu Kola-Blätter isst, wird alt und weise." Die Pflanze wurde dort traditionell auch "Elefantenfutter" genannt, weil Elefanten sie besonders gern fressen und für ihr Gedächtnis bekannt sind.',
     besonders_bei: ['konzentration', 'gedaechtnis', 'angst', 'wundheilung', 'krampfadern', 'bindegewebe', 'nerven'],
   },
 
@@ -741,21 +741,21 @@ In China heißt es, dass der legendäre Kräuterkundige Li Ching-Yun, der angebl
   'Guarana': {
     vollname: 'Guarana (Paullinia cupana)',
     familie: 'Seifenbaumgewächse (Sapindaceae)',
-    beschreibung: `Guarana ist eine Kletterpflanze aus dem Amazonasgebiet, deren Samen den höchsten natürlichen Koffeingehalt aller bekannten Pflanzen aufweisen -- etwa 4-6%, das ist doppelt so viel wie Kaffeebohnen. Doch Guarana wirkt anders als Kaffee: Das Koffein ist an Gerbstoffe gebunden, die es langsam und gleichmäßig freisetzen. Statt eines schnellen Kicks gibt Guarana eine sanfte, lang anhaltende Energiewelle über 4-6 Stunden.
+    beschreibung: `Guarana ist eine Kletterpflanze aus dem Amazonasgebiet, deren Samen den höchsten natürlichen Koffeingehalt aller bekannten Pflanzen aufweisen, etwa 4-6%, das ist doppelt so viel wie Kaffeebohnen. Doch Guarana wirkt anders als Kaffee: Das Koffein ist an Gerbstoffe gebunden, die es langsam und gleichmäßig freisetzen. Statt eines schnellen Kicks gibt Guarana eine sanfte, lang anhaltende Energiewelle über 4-6 Stunden.
 
-Die Samen stecken in leuchtend roten Kapseln, die sich bei Reife öffnen und einen schwarzen Kern mit weißem Nabel zeigen -- sie sehen aus wie Augen, was bei den Guarani-Indianern zur Legende führte, Guarana sei aus den Augen eines göttlichen Kindes entstanden.
+Die Samen stecken in leuchtend roten Kapseln, die sich bei Reife öffnen und einen schwarzen Kern mit weißem Nabel zeigen, sie sehen aus wie Augen, was bei den Guarani-Indianern zur Legende führte, Guarana sei aus den Augen eines göttlichen Kindes entstanden.
 
 Neben Koffein enthält Guarana Theobromin, Theophyllin und wertvolle Catechine mit antioxidativer Wirkung. Es steigert Wachheit, Konzentration und körperliche Ausdauer, ohne die typische Kaffee-Nervosität. Bei chronischer Müdigkeit und geistiger Erschöpfung ist Guarana eine natürliche, verträgliche Alternative.`,
     geschichte: `Die Guarani-Indianer des Amazonas verwenden die Pflanze seit Jahrhunderten als Energiequelle für lange Jagdausflüge und als Heilmittel. Sie reiben die getrockneten Samen an der rauen Zunge des Pirarucu-Fisches zu feinem Pulver und lösen es in Wasser auf.
 
-Die Legende erzählt: Ein göttliches Kind starb, und aus seinen Augen wuchs die erste Guarana-Pflanze -- daher die augenförmigen Samen. Europäische Forscher entdeckten Guarana im 17. Jahrhundert, doch erst im 20. Jahrhundert wurde es weltweit als Energiepflanze bekannt.`,
+Die Legende erzählt: Ein göttliches Kind starb, und aus seinen Augen wuchs die erste Guarana-Pflanze, daher die augenförmigen Samen. Europäische Forscher entdeckten Guarana im 17. Jahrhundert, doch erst im 20. Jahrhundert wurde es weltweit als Energiepflanze bekannt.`,
     wirkungen: {
       hauptwirkungen: ['Wachheitsfördernd', 'Konzentrationsfördernd', 'Leistungssteigernd', 'Ausdauer stärkend', 'Antioxidativ', 'Appetitzügelnd'],
       inhaltsstoffe: ['Koffein (Guaranin)', 'Theobromin', 'Theophyllin', 'Catechine', 'Tannine', 'Saponine', 'Stärke', 'Fette Öle'],
     },
     ernte: {
       zeit: 'Die Samenkapseln werden von November bis Januar geerntet, wenn sie sich rot färben und aufspringen.',
-      teile: 'Samen -- getrocknet und zu Pulver verarbeitet.',
+      teile: 'Samen, getrocknet und zu Pulver verarbeitet.',
       tipps: 'Guarana ist in Europa als Pulver, Kapseln oder in Energiegetränken erhältlich. Auf Qualität achten: Reines Guarana-Pulver ohne Zusätze wählen. Nicht nach 14 Uhr einnehmen, da es den Schlaf stören kann.',
       mond: 'Bei zunehmendem Mond einnehmen für die stärkste belebende Wirkung.',
     },
@@ -768,7 +768,7 @@ Die Legende erzählt: Ein göttliches Kind starb, und aus seinen Augen wuchs die
       {
         name: 'Guarana-Kakao',
         anleitung: '1/2 TL Guarana-Pulver mit 1 EL Kakaopulver und warmem Wasser oder Pflanzenmilch verrühren. Mit etwas Honig süßen.',
-        wirkung: 'Sanfte Belebung mit der Herzöffnung des Kakaos -- ideal am Morgen.',
+        wirkung: 'Sanfte Belebung mit der Herzöffnung des Kakaos, ideal am Morgen.',
       },
       {
         name: 'Guarana-Energieriegel (selbstgemacht)',
@@ -777,9 +777,9 @@ Die Legende erzählt: Ein göttliches Kind starb, und aus seinen Augen wuchs die
       },
     ],
     mischungen: ['Konzentrations-Smoothie (mit Matcha und Banane)', 'Ausdauer-Drink (mit Maca und Kakao)'],
-    tcm: 'Guarana stärkt das Yang und hebt das Qi -- es sollte bei Yin-Mangel mit Vorsicht verwendet werden, da es austrocknen kann.',
+    tcm: 'Guarana stärkt das Yang und hebt das Qi, es sollte bei Yin-Mangel mit Vorsicht verwendet werden, da es austrocknen kann.',
     ayurveda: 'Guarana erhöht Pitta und Vata und reduziert Kapha. Bei Pitta-Konstitution sparsam dosieren, bei Kapha-Trägheit ideal als kurzfristiger Impuls.',
-    volksmedizin: 'Die Guarani-Indianer sagen: "Guarana gibt dir die Augen des Jaguars" -- wach, konzentriert und ausdauernd. Sie nutzten es auf tagelangen Wanderungen durch den Regenwald, um Hunger und Müdigkeit zu überwinden.',
+    volksmedizin: 'Die Guarani-Indianer sagen: "Guarana gibt dir die Augen des Jaguars", wach, konzentriert und ausdauernd. Sie nutzten es auf tagelangen Wanderungen durch den Regenwald, um Hunger und Müdigkeit zu überwinden.',
     besonders_bei: ['muedigkeit', 'konzentration', 'erschoepfung', 'leistung', 'uebergewicht', 'antriebslosigkeit'],
   },
 
@@ -789,21 +789,21 @@ Die Legende erzählt: Ein göttliches Kind starb, und aus seinen Augen wuchs die
   'Hibiskus': {
     vollname: 'Hibiskus (Hibiscus sabdariffa)',
     familie: 'Malvengewächse (Malvaceae)',
-    beschreibung: `Hibiskus -- auch als Roselle, Karkade oder Malvenblüte bekannt -- schenkt uns einen der schönsten und gesündesten Tees der Welt. Die tiefroten Kelchblätter färben das Wasser rubinrot und schmecken angenehm säuerlich-fruchtig, ähnlich wie Preiselbeeren. In vielen Kulturen Afrikas, des Nahen Ostens und Lateinamerikas ist Hibiskustee das Nationalgetränk.
+    beschreibung: `Hibiskus, auch als Roselle, Karkade oder Malvenblüte bekannt, schenkt uns einen der schönsten und gesündesten Tees der Welt. Die tiefroten Kelchblätter färben das Wasser rubinrot und schmecken angenehm säuerlich-fruchtig, ähnlich wie Preiselbeeren. In vielen Kulturen Afrikas, des Nahen Ostens und Lateinamerikas ist Hibiskustee das Nationalgetränk.
 
-Die leuchtend rote Farbe verrät den hohen Gehalt an Anthocyanen -- starken Antioxidantien, die freie Radikale neutralisieren und die Zellen schützen. Klinische Studien zeigen, dass regelmäßiger Genuss von Hibiskustee den Blutdruck messbar senken kann -- in manchen Studien ebenso wirksam wie blutdrucksenkende Medikamente.
+Die leuchtend rote Farbe verrät den hohen Gehalt an Anthocyanen, starken Antioxidantien, die freie Radikale neutralisieren und die Zellen schützen. Klinische Studien zeigen, dass regelmäßiger Genuss von Hibiskustee den Blutdruck messbar senken kann, in manchen Studien ebenso wirksam wie blutdrucksenkende Medikamente.
 
 Hibiskus ist reich an Vitamin C, organischen Säuren und Pektinen. Er wirkt kühlend, durstlöschend, mild abführend und unterstützt die Lebergesundheit. Als Kaltauszug im Sommer ist er ein erfrischender, gesunder Durstlöscher, der gleichzeitig das Herz-Kreislauf-System stärkt.`,
     geschichte: `Im alten Ägypten war Hibiskustee als "Karkade" das Getränk der Pharaonen. Kleopatra soll regelmäßig Hibiskus getrunken haben, um ihre Schönheit zu bewahren. In Westafrika wird Hibiskus "Bissap" genannt und zu festlichen Anlässen als rubinrotes Erfrischungsgetränk serviert.
 
-In Mexiko ist "Agua de Jamaica" (Hibiskuswasser) eines der beliebtesten Getränke und an jedem Strassenstand erhältlich. In der arabischen Welt trinkt man Karkade sowohl heiß als auch kalt -- heiß zum Wärmen, kalt zum Erfrischen.`,
+In Mexiko ist "Agua de Jamaica" (Hibiskuswasser) eines der beliebtesten Getränke und an jedem Strassenstand erhältlich. In der arabischen Welt trinkt man Karkade sowohl heiß als auch kalt, heiß zum Wärmen, kalt zum Erfrischen.`,
     wirkungen: {
       hauptwirkungen: ['Blutdrucksenkend', 'Antioxidativ', 'Kühlend und durstlöschend', 'Mild abführend', 'Leberunterstützend', 'Vitamin-C-reich'],
       inhaltsstoffe: ['Anthocyane', 'Vitamin C', 'Hibiskussäure', 'Zitronensäure', 'Apfelsäure', 'Pektine', 'Polyphenole', 'Flavonoide'],
     },
     ernte: {
       zeit: 'Die Kelchblätter werden geerntet, wenn die Blüte abgefallen ist und die Kelche fleischig und rot geworden sind.',
-      teile: 'Kelchblätter (nicht die Blütenblätter) -- sie bilden die fleischige, rote Hülle um die Frucht.',
+      teile: 'Kelchblätter (nicht die Blütenblätter), sie bilden die fleischige, rote Hülle um die Frucht.',
       tipps: 'In Europa als getrocknete Blüten im Handel erhältlich. Auf Bio-Qualität achten und tief dunkelrote, nicht bräunliche Ware wählen.',
       mond: 'Bei abnehmendem Mond ernten für die stärkste blutdrucksenkende Wirkung.',
     },
@@ -816,7 +816,7 @@ In Mexiko ist "Agua de Jamaica" (Hibiskuswasser) eines der beliebtesten Getränk
       {
         name: 'Hibiskus-Kaltauszug (Sommergetränk)',
         anleitung: '3 EL Hibiskusblüten in 1 Liter kaltem Wasser über Nacht im Kühlschrank ziehen lassen. Abseihen, mit Zitrone und Honig verfeinern.',
-        wirkung: 'Erfrischend kühlend, durstlöschend, blutdruckregulierend -- ideal an heißen Tagen.',
+        wirkung: 'Erfrischend kühlend, durstlöschend, blutdruckregulierend, ideal an heißen Tagen.',
       },
       {
         name: 'Hibiskus-Haarspülung',
@@ -825,9 +825,9 @@ In Mexiko ist "Agua de Jamaica" (Hibiskuswasser) eines der beliebtesten Getränk
       },
     ],
     mischungen: ['Blutdruck-Tee (mit Weißdorn und Mistel)', 'Früchtetee (mit Hagebutte und Apfelstücken)'],
-    tcm: 'Hibiskus kühlt Blut-Hitze, klärt die Leber und senkt aufsteigendes Leber-Yang -- er wird bei Bluthochdruck durch Leber-Feuer eingesetzt.',
-    ayurveda: 'Hibiskus beruhigt Pitta durch seine kühlende, saure Qualität. Er reinigt Rakta Dhatu (Blut) und stärkt das Herz -- ein ideales Pitta-Getränk im Sommer.',
-    volksmedizin: 'In Ägypten sagt man: "Karkade ist die Medizin der Armen und der Könige" -- beide schätzten den rubinroten Tee gleichermaßen für seine gesundheitliche Wirkung und seinen Geschmack.',
+    tcm: 'Hibiskus kühlt Blut-Hitze, klärt die Leber und senkt aufsteigendes Leber-Yang, er wird bei Bluthochdruck durch Leber-Feuer eingesetzt.',
+    ayurveda: 'Hibiskus beruhigt Pitta durch seine kühlende, saure Qualität. Er reinigt Rakta Dhatu (Blut) und stärkt das Herz, ein ideales Pitta-Getränk im Sommer.',
+    volksmedizin: 'In Ägypten sagt man: "Karkade ist die Medizin der Armen und der Könige", beide schätzten den rubinroten Tee gleichermaßen für seine gesundheitliche Wirkung und seinen Geschmack.',
     besonders_bei: ['bluthochdruck', 'herz', 'leber', 'erkaeltung', 'hitze', 'antioxidantien'],
   },
 
@@ -837,9 +837,9 @@ In Mexiko ist "Agua de Jamaica" (Hibiskuswasser) eines der beliebtesten Getränk
   'Himbeere': {
     vollname: 'Himbeere (Rubus idaeus)',
     familie: 'Rosengewächse (Rosaceae)',
-    beschreibung: `Die Himbeere ist weit mehr als eine köstliche Frucht -- ihre Blätter gehören zu den wichtigsten Frauenheilkräutern der europäischen Tradition. Himbeerblättertee wird seit Jahrhunderten in der Schwangerschaftsvorbereitung eingesetzt: Er stärkt und tonisiert die Gebärmuttermuskulatur, lockert das Becken und kann so die Geburt erleichtern und verkürzen.
+    beschreibung: `Die Himbeere ist weit mehr als eine köstliche Frucht, ihre Blätter gehören zu den wichtigsten Frauenheilkräutern der europäischen Tradition. Himbeerblättertee wird seit Jahrhunderten in der Schwangerschaftsvorbereitung eingesetzt: Er stärkt und tonisiert die Gebärmuttermuskulatur, lockert das Becken und kann so die Geburt erleichtern und verkürzen.
 
-Die Blätter enthalten reichlich Gerbstoffe, Flavonoide, Vitamin C und das Alkaloid Fragarin, das spezifisch auf die Gebärmuttermuskulatur wirkt -- es reguliert sowohl zu starke als auch zu schwache Kontraktionen. Diese ausgleichende Wirkung macht Himbeerblätter so wertvoll in der Geburtshilfe.
+Die Blätter enthalten reichlich Gerbstoffe, Flavonoide, Vitamin C und das Alkaloid Fragarin, das spezifisch auf die Gebärmuttermuskulatur wirkt, es reguliert sowohl zu starke als auch zu schwache Kontraktionen. Diese ausgleichende Wirkung macht Himbeerblätter so wertvoll in der Geburtshilfe.
 
 Auch außerhalb der Schwangerschaft sind Himbeerblätter ein wertvolles Heilkraut: Sie helfen bei Durchfall, Zahnfleischentzündungen, Halsschmerzen und Menstruationsbeschwerden. Die Früchte selbst liefern Antioxidantien, Vitamin C und Ellagsäure, die in der Krebsforschung untersucht wird.`,
     geschichte: `Der lateinische Name "idaeus" verweist auf den Berg Ida auf Kreta, wo die Himbeere laut Mythologie erstmals wuchs. Die Sage erzählt, dass die Nymphe Ida sich beim Pflücken von Beeren für den kleinen Zeus in den Finger stach und ihr Blut die bis dahin weißen Beeren rot färbte.
@@ -873,9 +873,9 @@ In der Volksheilkunde war Himbeerblättertee das wichtigste Mittel der Hebammen.
       },
     ],
     mischungen: ['Frauentee (mit Frauenmantel und Schafgarbe)', 'Geburtsvorbereitung (mit Frauenmantel und Melisse)'],
-    tcm: 'Himbeerblätter stärken die Milz und regulieren das Blut -- die Frucht (Fu Pen Zi) nährt Nieren-Yang und festigt die Essenz.',
+    tcm: 'Himbeerblätter stärken die Milz und regulieren das Blut, die Frucht (Fu Pen Zi) nährt Nieren-Yang und festigt die Essenz.',
     ayurveda: 'Himbeerblätter gleichen Pitta und Vata aus, sie stärken den Uterus (Garbhashaya) und nähren das weibliche Reproduktionssystem.',
-    volksmedizin: 'Hebammenweisheit: "Himbeerblättertee in den letzten Wochen -- und die Geburt geht wie ein warmer Wind." Kaum ein Frauenheilkraut hat eine so lange, ununterbrochene Tradition in der europäischen Geburtshilfe.',
+    volksmedizin: 'Hebammenweisheit: "Himbeerblättertee in den letzten Wochen, und die Geburt geht wie ein warmer Wind." Kaum ein Frauenheilkraut hat eine so lange, ununterbrochene Tradition in der europäischen Geburtshilfe.',
     besonders_bei: ['schwangerschaft', 'geburt', 'menstruation', 'durchfall', 'halsschmerzen', 'frauenheilkunde'],
   },
 
@@ -885,14 +885,14 @@ In der Volksheilkunde war Himbeerblättertee das wichtigste Mittel der Hebammen.
   'Jiaogulan': {
     vollname: 'Jiaogulan (Gynostemma pentaphyllum)',
     familie: 'Kürbisgewächse (Cucurbitaceae)',
-    beschreibung: `Jiaogulan wird in China als "Kraut der Unsterblichkeit" verehrt und ist eine der faszinierendsten Adaptogenpflanzen der Welt. Diese rankende Pflanze aus den Bergregionen Südchinas enthält über 80 verschiedene Gypenoside -- Saponine, die strukturell den Ginsenosiden des Ginsengs ähneln. Damit wirkt Jiaogulan in vielerlei Hinsicht wie Ginseng, ist aber preiswerter, milder und besser verträglich.
+    beschreibung: `Jiaogulan wird in China als "Kraut der Unsterblichkeit" verehrt und ist eine der faszinierendsten Adaptogenpflanzen der Welt. Diese rankende Pflanze aus den Bergregionen Südchinas enthält über 80 verschiedene Gypenoside: Saponine, die strukturell den Ginsenosiden des Ginsengs ähneln. Damit wirkt Jiaogulan in vielerlei Hinsicht wie Ginseng, ist aber preiswerter, milder und besser verträglich.
 
 Jiaogulan ist ein klassisches Adaptogen: Es hilft dem Körper, sich an Stress anzupassen. Bei zu viel Energie beruhigt es, bei zu wenig belebt es. Es reguliert den Blutdruck in beide Richtungen, balanciert den Blutzucker und das Cholesterin aus und stärkt das Immunsystem. Diese bidirektionale Regulierung macht es einzigartig.
 
-In einer Provinz Chinas, in der besonders viel Jiaogulan-Tee getrunken wird, leben überdurchschnittlich viele Menschen über 100 Jahre. Die Pflanze schützt die Zellen vor oxidativem Stress, unterstützt die Leber und fördert die Ausdauer -- ein Allround-Tonikum für das ganze System.`,
-    geschichte: `Jiaogulan wurde in China erstmals im 15. Jahrhundert als Hungerpflanze erwähnt -- in Notzeiten assen die Menschen die Blätter als Gemüse. Erst in den 1970er Jahren entdeckte der japanische Forscher Dr. Masahiro Nagai die Gypenoside und ihre verblüffende Ähnlichkeit mit den Wirkstoffen des Ginsengs.
+In einer Provinz Chinas, in der besonders viel Jiaogulan-Tee getrunken wird, leben überdurchschnittlich viele Menschen über 100 Jahre. Die Pflanze schützt die Zellen vor oxidativem Stress, unterstützt die Leber und fördert die Ausdauer, ein Allround-Tonikum für das ganze System.`,
+    geschichte: `Jiaogulan wurde in China erstmals im 15. Jahrhundert als Hungerpflanze erwähnt, in Notzeiten assen die Menschen die Blätter als Gemüse. Erst in den 1970er Jahren entdeckte der japanische Forscher Dr. Masahiro Nagai die Gypenoside und ihre verblüffende Ähnlichkeit mit den Wirkstoffen des Ginsengs.
 
-In der Provinz Guizhou, wo Jiaogulan traditionell als Tee getrunken wird, liegt die Rate an Hundertjährigen weit über dem chinesischen Durchschnitt. Seitdem wird die Pflanze als "Xiancao" -- Unsterblichkeitskraut -- verehrt.`,
+In der Provinz Guizhou, wo Jiaogulan traditionell als Tee getrunken wird, liegt die Rate an Hundertjährigen weit über dem chinesischen Durchschnitt. Seitdem wird die Pflanze als "Xiancao": Unsterblichkeitskraut, verehrt.`,
     wirkungen: {
       hauptwirkungen: ['Adaptogen (stressausgleichend)', 'Blutdruck regulierend', 'Immunstärkend', 'Antioxidativ', 'Cholesterin- und Blutzuckerregulierend', 'Ausdauer fördernd'],
       inhaltsstoffe: ['Gypenoside (über 80 verschiedene)', 'Polysaccharide', 'Flavonoide', 'Vitamine', 'Aminosäuren', 'Mineralien', 'Selen', 'Zink'],
@@ -912,7 +912,7 @@ In der Provinz Guizhou, wo Jiaogulan traditionell als Tee getrunken wird, liegt 
       {
         name: 'Jiaogulan frisch kauen',
         anleitung: '2-3 frische Blätter täglich langsam kauen und den Saft schlucken. Die Blätter schmecken leicht süßlich mit einer herben Note.',
-        wirkung: 'Direkte Aufnahme der Gypenoside über die Mundschleimhaut -- schnelle, sanfte Wirkung.',
+        wirkung: 'Direkte Aufnahme der Gypenoside über die Mundschleimhaut, schnelle, sanfte Wirkung.',
       },
       {
         name: 'Jiaogulan-Tinktur',
@@ -921,9 +921,9 @@ In der Provinz Guizhou, wo Jiaogulan traditionell als Tee getrunken wird, liegt 
       },
     ],
     mischungen: ['Langlebigkeitstee (mit Goji und Grüntee)', 'Adaptogen-Mischung (mit Ashwagandha und Rosenwurz)'],
-    tcm: 'Jiaogulan ergänzt Qi, nährt Yin und beruhigt den Shen -- es harmonisiert, wo Disharmonie herrscht, und reguliert, wo Extreme vorliegen.',
-    ayurveda: 'Jiaogulan wirkt tridoshisch -- es gleicht alle drei Doshas aus. Es stärkt Ojas, nährt die Dhatus und wirkt als Rasayana (Verjüngungsmittel).',
-    volksmedizin: 'In den Bergen Südchinas sagen die alten Leute: "Xiancao trinken heißt den Himmel fragen, ob man noch bleiben darf" -- der Tee wurde dort getrunken, um dem Leben möglichst viele gesunde Jahre hinzuzufügen.',
+    tcm: 'Jiaogulan ergänzt Qi, nährt Yin und beruhigt den Shen, es harmonisiert, wo Disharmonie herrscht, und reguliert, wo Extreme vorliegen.',
+    ayurveda: 'Jiaogulan wirkt tridoshisch, es gleicht alle drei Doshas aus. Es stärkt Ojas, nährt die Dhatus und wirkt als Rasayana (Verjüngungsmittel).',
+    volksmedizin: 'In den Bergen Südchinas sagen die alten Leute: "Xiancao trinken heißt den Himmel fragen, ob man noch bleiben darf", der Tee wurde dort getrunken, um dem Leben möglichst viele gesunde Jahre hinzuzufügen.',
     besonders_bei: ['stress', 'bluthochdruck', 'cholesterin', 'immunschwaeche', 'erschoepfung', 'alter', 'diabetes'],
   },
 
@@ -935,10 +935,10 @@ In der Provinz Guizhou, wo Jiaogulan traditionell als Tee getrunken wird, liegt 
     familie: 'Kalmusgewächse (Acoraceae)',
     beschreibung: `Kalmus ist eine alte, mächtige Heilpflanze der Fluss- und Seeufer, deren aromatischer Wurzelstock seit Jahrtausenden als Magenmittel und Tonikum geschätzt wird. Sein intensiver, warm-würziger Duft erinnert an eine Mischung aus Zimt und Ingwer. Die schwertförmigen Blätter wachsen an feuchten Standorten und können über einen Meter hoch werden.
 
-Der Kalmuswurzelstock ist eines der kraftvollsten Bittermittel der Pflanzenheilkunde. Er regt die gesamte Verdauung an, löst Magenkrämpfe, vertreibt Blähungen und stärkt den Appetit. Seine ätherischen Öle wirken gleichzeitig beruhigend auf das Nervensystem -- er beruhigt den Magen und die Nerven zugleich.
+Der Kalmuswurzelstock ist eines der kraftvollsten Bittermittel der Pflanzenheilkunde. Er regt die gesamte Verdauung an, löst Magenkrämpfe, vertreibt Blähungen und stärkt den Appetit. Seine ätherischen Öle wirken gleichzeitig beruhigend auf das Nervensystem, er beruhigt den Magen und die Nerven zugleich.
 
-In der ayurvedischen Medizin gilt Kalmus als "Vacha" -- das Kraut, das die Stimme und den Geist öffnet. Er wird dort als Medhya (Geist stärkendes) Mittel eingesetzt, das Klarheit, Sprache und Gedächtnis fördert. In Europa war er früher ein beliebtes Kaumittel gegen Magenschmerzen und Tabaksucht.`,
-    geschichte: `Kalmus kam vermutlich über die Gewürzstrassen aus Indien und China nach Europa. Die Tataren brachten ihn im 13. Jahrhundert nach Osteuropa -- überall wo sie rasteten und ihre Pferde tränkten, wuchs bald Kalmus am Ufer. Im antiken Ägypten war er Bestandteil des heiligen Räucherwerks.
+In der ayurvedischen Medizin gilt Kalmus als "Vacha", das Kraut, das die Stimme und den Geist öffnet. Er wird dort als Medhya (Geist stärkendes) Mittel eingesetzt, das Klarheit, Sprache und Gedächtnis fördert. In Europa war er früher ein beliebtes Kaumittel gegen Magenschmerzen und Tabaksucht.`,
+    geschichte: `Kalmus kam vermutlich über die Gewürzstrassen aus Indien und China nach Europa. Die Tataren brachten ihn im 13. Jahrhundert nach Osteuropa, überall wo sie rasteten und ihre Pferde tränkten, wuchs bald Kalmus am Ufer. Im antiken Ägypten war er Bestandteil des heiligen Räucherwerks.
 
 In der Bibel wird Kalmus als Zutat des heiligen Salböls erwähnt. Die nordamerikanischen Ureinwohner kauten Kalmuswurzel gegen Zahnschmerzen und als Schutz gegen Müdigkeit auf langen Wanderungen.`,
     wirkungen: {
@@ -947,7 +947,7 @@ In der Bibel wird Kalmus als Zutat des heiligen Salböls erwähnt. Die nordameri
     },
     ernte: {
       zeit: 'Wurzelstock im Frühjahr oder Herbst, wenn die Pflanze nicht in voller Wachstumsphase ist.',
-      teile: 'Wurzelstock (Rhizom) -- frisch oder getrocknet.',
+      teile: 'Wurzelstock (Rhizom), frisch oder getrocknet.',
       tipps: 'Nur die europäische Varietät (diploider Kalmus) verwenden, sie enthält weniger Beta-Asaron. In naturnahen Gärten an Teichrändern selbst anbauen. Die Wurzel in Scheiben schneiden und trocknen.',
       mond: 'Bei abnehmendem Mond ernten für die stärkste Verdauungswirkung.',
     },
@@ -969,9 +969,9 @@ In der Bibel wird Kalmus als Zutat des heiligen Salböls erwähnt. Die nordameri
       },
     ],
     mischungen: ['Magenbitter (mit Enzian und Wermut)', 'Verdauungstee (mit Kamille und Pfefferminze)'],
-    tcm: 'Shi Chang Pu (Kalmus) öffnet die Sinnesorgane, wandelt Feuchtigkeit um und klärt den Geist -- er wird bei trübem Denken und Benommenheit eingesetzt.',
-    ayurveda: 'Vacha (Kalmus) ist eines der wichtigsten Medhya-Kräuter: Es öffnet die Sprache, schärft den Intellekt, reinigt die Srotas und entzündet Agni -- ein Mittel für Geist und Verdauung zugleich.',
-    volksmedizin: 'Kinder, die unter Bauchschmerzen litten, bekamen früher ein Stück Kalmuswurzel zum Kauen -- es half sofort gegen Bauchweh und Übelkeit. Erwachsene trugen Kalmuswurzel bei sich, um bei Bedarf darauf zu kauen.',
+    tcm: 'Shi Chang Pu (Kalmus) öffnet die Sinnesorgane, wandelt Feuchtigkeit um und klärt den Geist, er wird bei trübem Denken und Benommenheit eingesetzt.',
+    ayurveda: 'Vacha (Kalmus) ist eines der wichtigsten Medhya-Kräuter: Es öffnet die Sprache, schärft den Intellekt, reinigt die Srotas und entzündet Agni, ein Mittel für Geist und Verdauung zugleich.',
+    volksmedizin: 'Kinder, die unter Bauchschmerzen litten, bekamen früher ein Stück Kalmuswurzel zum Kauen, es half sofort gegen Bauchweh und Übelkeit. Erwachsene trugen Kalmuswurzel bei sich, um bei Bedarf darauf zu kauen.',
     besonders_bei: ['verdauung', 'appetitlosigkeit', 'blaehungen', 'uebelkeit', 'konzentration', 'nervositaet'],
   },
 
@@ -981,22 +981,22 @@ In der Bibel wird Kalmus als Zutat des heiligen Salböls erwähnt. Die nordameri
   'Kapuzinerkresse': {
     vollname: 'Große Kapuzinerkresse (Tropaeolum majus)',
     familie: 'Kapuzinerkressengewächse (Tropaeolaceae)',
-    beschreibung: `Die Kapuzinerkresse ist ein natürliches Antibiotikum aus dem Blumenbeet. Ihre leuchtend gelben, orangen und roten Blüten sind ein Augenschmaus -- und ihre scharfen Blätter und Blüten stecken voller Senfölglykoside, die im Körper zu keimtötenden Senfölen umgewandelt werden. Diese Benzylsenföle wirken breitbandig gegen Bakterien, Viren und sogar Pilze.
+    beschreibung: `Die Kapuzinerkresse ist ein natürliches Antibiotikum aus dem Blumenbeet. Ihre leuchtend gelben, orangen und roten Blüten sind ein Augenschmaus, und ihre scharfen Blätter und Blüten stecken voller Senfölglykoside, die im Körper zu keimtötenden Senfölen umgewandelt werden. Diese Benzylsenföle wirken breitbandig gegen Bakterien, Viren und sogar Pilze.
 
-Das Besondere: Die Senföle der Kapuzinerkresse konzentrieren sich nach der Einnahme in Blase und Lunge -- genau dort, wo Infektionen am häufigsten auftreten. In einer klinischen Studie war die Kombination aus Kapuzinerkresse und Meerrettich bei Blasenentzündungen und Atemwegsinfekten ebenso wirksam wie konventionelle Antibiotika -- ohne die Darmflora zu schädigen.
+Das Besondere: Die Senföle der Kapuzinerkresse konzentrieren sich nach der Einnahme in Blase und Lunge, genau dort, wo Infektionen am häufigsten auftreten. In einer klinischen Studie war die Kombination aus Kapuzinerkresse und Meerrettich bei Blasenentzündungen und Atemwegsinfekten ebenso wirksam wie konventionelle Antibiotika, ohne die Darmflora zu schädigen.
 
 Alle Pflanzenteile sind essbar: Blätter, Blüten und die unreifen Samen (als "falsche Kapern"). Der scharfe, pfeffrige Geschmack verrät die Heilkraft. Die Kapuzinerkresse ist eine der wenigen Pflanzen, die als Antibiotikum, Salatpflanze und Zierpflanze gleichermaßen glänzt.`,
     geschichte: `Die Kapuzinerkresse stammt aus Peru und wurde im 16. Jahrhundert von spanischen Konquistadoren nach Europa gebracht. Ihr Name leitet sich von der Blütenform ab, die an die Kapuze eines Kapuzinermönchs erinnert. Die Inkas verwendeten sie als Wundmittel und gegen Infektionen.
 
-Im Jahr 2013 wurde die Kapuzinerkresse zur "Arzneipflanze des Jahres" gekürt -- eine Anerkennung ihrer herausragenden antibiotischen Eigenschaften, die in zahlreichen Studien belegt wurden.`,
+Im Jahr 2013 wurde die Kapuzinerkresse zur "Arzneipflanze des Jahres" gekürt, eine Anerkennung ihrer herausragenden antibiotischen Eigenschaften, die in zahlreichen Studien belegt wurden.`,
     wirkungen: {
       hauptwirkungen: ['Natürlich antibiotisch (Senföle)', 'Antiviral', 'Antimykotisch', 'Immunstärkend', 'Durchblutungsfördernd', 'Vitamin-C-reich'],
       inhaltsstoffe: ['Benzylsenföl', 'Senfölglykoside (Glucotropäolin)', 'Vitamin C', 'Flavonoide', 'Carotinoide', 'Oxalsäure', 'Eisen', 'Schwefel'],
     },
     ernte: {
       zeit: 'Blätter und Blüten: Juni bis Oktober, laufend frisch ernten. Unreife Samen: August bis September.',
-      teile: 'Blätter, Blüten und unreife Samenkapseln -- die ganze Pflanze ist essbar.',
-      tipps: 'Die Pflanze ist frostempfindlich. Im Garten an sonnigem bis halbschattigem Standort anbauen. Nicht zu viel düngen -- auf mageren Böden bildet sie mehr Senföle.',
+      teile: 'Blätter, Blüten und unreife Samenkapseln, die ganze Pflanze ist essbar.',
+      tipps: 'Die Pflanze ist frostempfindlich. Im Garten an sonnigem bis halbschattigem Standort anbauen. Nicht zu viel düngen, auf mageren Böden bildet sie mehr Senföle.',
       mond: 'Bei zunehmendem Mond ernten für den höchsten Senfölgehalt.',
     },
     zubereitungen: [
@@ -1013,13 +1013,13 @@ Im Jahr 2013 wurde die Kapuzinerkresse zur "Arzneipflanze des Jahres" gekürt --
       {
         name: 'Falsche Kapern',
         anleitung: 'Unreife, grüne Samenkapseln ernten, mit Salz bestreuen und über Nacht ziehen lassen. Am nächsten Tag abspülen und in Essig mit Gewürzen einlegen. Nach 2 Wochen genießen.',
-        wirkung: 'Verdauungsfördernd und antibiotisch -- eine würzige Delikatesse mit Heilkraft.',
+        wirkung: 'Verdauungsfördernd und antibiotisch, eine würzige Delikatesse mit Heilkraft.',
       },
     ],
     mischungen: ['Infektschutz-Kur (mit Meerrettich)', 'Immuntee (mit Echinacea und Holunder)'],
     tcm: 'Kapuzinerkresse klärt Hitze-Toxine, besonders in Lunge und Blase. Ihre scharfe, warme Qualität vertreibt pathogene Faktoren.',
     ayurveda: 'Kapuzinerkresse ist scharf und erhitzend, sie reduziert Kapha und Ama und stärkt die natürliche Abwehr (Vyadhikshamatva).',
-    volksmedizin: 'In der Volksheilkunde heißt es: "Kapuzinerkresse ist das Penicillin des Gartens" -- sie wurde bei Erkältungen, Blasenentzündungen und schlecht heilenden Wunden eingesetzt, lange bevor die Wissenschaft ihre antibiotische Wirkung bestätigte.',
+    volksmedizin: 'In der Volksheilkunde heißt es: "Kapuzinerkresse ist das Penicillin des Gartens", sie wurde bei Erkältungen, Blasenentzündungen und schlecht heilenden Wunden eingesetzt, lange bevor die Wissenschaft ihre antibiotische Wirkung bestätigte.',
     besonders_bei: ['blasenentzuendung', 'atemwege', 'immunschwaeche', 'infekte', 'erkaeltung', 'harnwege'],
   },
 
@@ -1029,21 +1029,21 @@ Im Jahr 2013 wurde die Kapuzinerkresse zur "Arzneipflanze des Jahres" gekürt --
   'Karde': {
     vollname: 'Wilde Karde (Dipsacus fullonum)',
     familie: 'Geißblattgewächse (Caprifoliaceae)',
-    beschreibung: `Die Wilde Karde ist eine imposante, stachelige Pflanze, die mit ihren markanten, eiförmigen Blütenköpfen bis zu zwei Meter hoch wird. Lange als Kratzdistel für die Wollverarbeitung geschätzt, hat sie in den letzten Jahrzehnten eine Renaissance als Heilpflanze erlebt -- vor allem im Zusammenhang mit Borreliose. Der Ethnobotaniker Wolf-Dieter Storl machte die Karde als potentielles Mittel bei Borreliose bekannt.
+    beschreibung: `Die Wilde Karde ist eine imposante, stachelige Pflanze, die mit ihren markanten, eiförmigen Blütenköpfen bis zu zwei Meter hoch wird. Lange als Kratzdistel für die Wollverarbeitung geschätzt, hat sie in den letzten Jahrzehnten eine Renaissance als Heilpflanze erlebt, vor allem im Zusammenhang mit Borreliose. Der Ethnobotaniker Wolf-Dieter Storl machte die Karde als potentielles Mittel bei Borreliose bekannt.
 
 Die Wurzel der Karde enthält Iridoidglykoside, Saponine, Bitterstoffe und organische Säuren, die eine immunmodulatorische, entgiftende und leberunterstützende Wirkung haben. In der traditionellen chinesischen Medizin wird die verwandte Art Dipsacus asper seit Langem bei Gelenk- und Rückenschmerzen sowie zur Stärkung von Sehnen und Knochen eingesetzt.
 
 Kardenwurzeltinktur wird in der naturheilkundlichen Praxis als Begleittherapie bei Borreliose geschätzt. Sie soll die Borrelien aus ihrem Versteck im Bindegewebe locken und dem Immunsystem zugänglich machen. Auch bei chronischen Gelenkbeschwerden und zur allgemeinen Entgiftung wird sie eingesetzt.`,
-    geschichte: `Der Name "Dipsacus" kommt vom griechischen "dipsa" (Durst) -- die Blätter der Karde bilden an ihrem Stängelansatz kleine Wasserreservoirs, in denen sich Regenwasser sammelt. Dieses "Kardenwasser" galt im Mittelalter als Schönheitsmittel und Augenwasser.
+    geschichte: `Der Name "Dipsacus" kommt vom griechischen "dipsa" (Durst), die Blätter der Karde bilden an ihrem Stängelansatz kleine Wasserreservoirs, in denen sich Regenwasser sammelt. Dieses "Kardenwasser" galt im Mittelalter als Schönheitsmittel und Augenwasser.
 
-Die Weber verwendeten die stacheligen Blütenköpfe zum Karden (Aufrauen) von Wolle -- daher der Name. In der Volksmedizin wurde die Kardenwurzel bei Hauterkrankungen, Leberleiden und Gelenkschmerzen eingesetzt. Ihre Wiederentdeckung als Borreliose-Kraut durch Wolf-Dieter Storl hat ihr neue Aufmerksamkeit verschafft.`,
+Die Weber verwendeten die stacheligen Blütenköpfe zum Karden (Aufrauen) von Wolle, daher der Name. In der Volksmedizin wurde die Kardenwurzel bei Hauterkrankungen, Leberleiden und Gelenkschmerzen eingesetzt. Ihre Wiederentdeckung als Borreliose-Kraut durch Wolf-Dieter Storl hat ihr neue Aufmerksamkeit verschafft.`,
     wirkungen: {
       hauptwirkungen: ['Immunmodulierend', 'Entgiftend', 'Leberunterstützend', 'Sehnen und Bänder stärkend', 'Hautklärend', 'Entzündungshemmend'],
       inhaltsstoffe: ['Iridoidglykoside', 'Saponine', 'Bitterstoffe', 'Organische Säuren', 'Inulin', 'Gerbstoffe', 'Kaffeesäurederivate', 'Scabiosid'],
     },
     ernte: {
       zeit: 'Wurzel: Im Herbst des ersten Jahres oder im zeitigen Frühjahr des zweiten Jahres, bevor der Blütenstängel austreibt.',
-      teile: 'Wurzel -- die Blütenköpfe werden traditionell für die Wollverarbeitung genutzt.',
+      teile: 'Wurzel, die Blütenköpfe werden traditionell für die Wollverarbeitung genutzt.',
       tipps: 'Die Karde ist eine zweijährige Pflanze: Im ersten Jahr bildet sie eine Blattrosette, im zweiten den hohen Blütenstängel. Die Wurzel am Ende des ersten Jahres ernten, dann ist sie am wirkstoffreichsten.',
       mond: 'Bei abnehmendem Mond ernten für die stärkste Reinigungswirkung.',
     },
@@ -1066,8 +1066,8 @@ Die Weber verwendeten die stacheligen Blütenköpfe zum Karden (Aufrauen) von Wo
     ],
     mischungen: ['Borreliose-Begleittherapie (mit Katzenkralle und Astragalus)', 'Lebertee (mit Mariendistel und Löwenzahn)'],
     tcm: 'Xu Duan (die verwandte Art Dipsacus asper) stärkt in der TCM Leber und Nieren, nährt Sehnen und Knochen und fördert die Heilung von Frakturen.',
-    ayurveda: 'Die Karde hat eine kratzende, reinigende Qualität, die Ama aus tiefem Gewebe löst -- sie wird bei Vata-Störungen der Gelenke und Bänder eingesetzt.',
-    volksmedizin: 'In der Volksheilkunde war das "Kardenwasser" -- das Regenwasser, das sich in den Blattachseln sammelt -- ein geschätztes Mittel gegen Warzen und Augenentzündungen. Man sagte: "Was die Karde sammelt, heilt."',
+    ayurveda: 'Die Karde hat eine kratzende, reinigende Qualität, die Ama aus tiefem Gewebe löst, sie wird bei Vata-Störungen der Gelenke und Bänder eingesetzt.',
+    volksmedizin: 'In der Volksheilkunde war das "Kardenwasser", das Regenwasser, das sich in den Blattachseln sammelt, ein geschätztes Mittel gegen Warzen und Augenentzündungen. Man sagte: "Was die Karde sammelt, heilt."',
     besonders_bei: ['borreliose', 'gelenke', 'leber', 'entgiftung', 'haut', 'sehnen'],
   },
 
@@ -1079,7 +1079,7 @@ Die Weber verwendeten die stacheligen Blütenköpfe zum Karden (Aufrauen) von Wo
     familie: 'Rötegewächse (Rubiaceae)',
     beschreibung: `Die Katzenkralle ist eine mächtige Lianenpflanze aus dem Regenwald Perus und eine der wichtigsten Heilpflanzen der südamerikanischen Naturmedizin. Ihren Namen verdankt sie den krallenförmigen Dornen, mit denen sie sich an Baumstämmen festhält und bis zu 30 Meter in die Baumkronen klettert. Die indigenen Ashaninka verwenden sie seit Jahrhunderten als Universalheilmittel.
 
-Die Wurzelrinde enthält eine einzigartige Kombination aus Oxindolalkaloiden, die das Immunsystem auf bemerkenswerte Weise modulieren: Sie stimulieren die Produktion weißer Blutkörperchen, aktivieren Makrophagen und natürliche Killerzellen und haben gleichzeitig entzündungshemmende Eigenschaften. Diese doppelte Wirkung -- immunstimulierend und entzündungshemmend -- macht Katzenkralle so wertvoll.
+Die Wurzelrinde enthält eine einzigartige Kombination aus Oxindolalkaloiden, die das Immunsystem auf bemerkenswerte Weise modulieren: Sie stimulieren die Produktion weißer Blutkörperchen, aktivieren Makrophagen und natürliche Killerzellen und haben gleichzeitig entzündungshemmende Eigenschaften. Diese doppelte Wirkung, immunstimulierend und entzündungshemmend, macht Katzenkralle so wertvoll.
 
 Sie wird bei chronischen Entzündungen, Gelenkerkrankungen, Infektanfälligkeit und als begleitende Therapie bei schweren Erkrankungen eingesetzt. Ihre antiviralen Eigenschaften und die Fähigkeit, die DNA-Reparatur zu fördern, machen sie zu einer der vielversprechendsten Regenwaldpflanzen.`,
     geschichte: `Die Ashaninka-Indianer Perus verwenden die "Una de Gato" seit mindestens 2000 Jahren als Heilmittel. Sie kochen die innere Rinde als Tee und setzen sie bei Infektionen, Entzündungen, Magengeschwüren und als allgemeines Stärkungsmittel ein.
@@ -1113,9 +1113,9 @@ In den 1970er Jahren erforschte der österreichische Journalist und Naturforsche
       },
     ],
     mischungen: ['Immunstärkung (mit Echinacea und Astragalus)', 'Gelenkschutz (mit Teufelskralle und Weihrauch)'],
-    tcm: 'Katzenkralle klärt Hitze-Toxine, bewegt das Blut und stärkt das Wei-Qi (Abwehr-Qi) -- sie wird bei tiefsitzenden, chronischen Beschwerden eingesetzt.',
+    tcm: 'Katzenkralle klärt Hitze-Toxine, bewegt das Blut und stärkt das Wei-Qi (Abwehr-Qi), sie wird bei tiefsitzenden, chronischen Beschwerden eingesetzt.',
     ayurveda: 'Katzenkralle reduziert Ama und Pitta in den Gelenken, stärkt Ojas und Bala (Immunstärke) und wirkt als Rasayana für das Immunsystem.',
-    volksmedizin: 'Die Ashaninka sagen: "Die Katzenkralle klettert zu den Baumkronen, um der Sonne nah zu sein -- ihre Kraft ist das Licht, das sie dem Kranken bringt." Sie galt als eines der mächtigsten Heilmittel des Regenwaldes.',
+    volksmedizin: 'Die Ashaninka sagen: "Die Katzenkralle klettert zu den Baumkronen, um der Sonne nah zu sein, ihre Kraft ist das Licht, das sie dem Kranken bringt." Sie galt als eines der mächtigsten Heilmittel des Regenwaldes.',
     besonders_bei: ['immunschwaeche', 'gelenke', 'entzuendung', 'arthrose', 'infekte', 'borreliose'],
   },
 
@@ -1127,7 +1127,7 @@ In den 1970er Jahren erforschte der österreichische Journalist und Naturforsche
     familie: 'Doldenblütler (Apiaceae)',
     beschreibung: `Kerbel ist ein zartes, feines Küchenkraut mit einem dezent anisartigen Geschmack, das in der französischen Küche als unverzichtbar gilt. Doch hinter dem milden Aroma verbirgt sich eine echte Heilpflanze: Kerbel wirkt blutreinigend, harntreibend, entschlackend und verdauungsfördernd. Seine feinen, gefiederten Blätter enthalten ätherische Öle, Vitamin C und reichlich Mineralien.
 
-In der Volksheilkunde war Kerbel ein beliebtes Frühlingskraut -- eine der ersten frischen Pflanzen, die nach dem Winter die Küche und die Hausapotheke bereicherten. Kerbelsuppe am Gründonnerstag war in vielen Regionen Deutschlands und Österreichs eine feste Tradition, die Körper und Geist nach der Fastenzeit erfrischte.
+In der Volksheilkunde war Kerbel ein beliebtes Frühlingskraut, eine der ersten frischen Pflanzen, die nach dem Winter die Küche und die Hausapotheke bereicherten. Kerbelsuppe am Gründonnerstag war in vielen Regionen Deutschlands und Österreichs eine feste Tradition, die Körper und Geist nach der Fastenzeit erfrischte.
 
 Kerbel unterstützt die Leber- und Nierenfunktion, senkt mild den Blutdruck und hilft bei Wasseransammlungen im Gewebe. Äußerlich angewandt lindert er müde, geschwollene Augen und beruhigt gereizte Haut. Er ist ein sanftes, alltagstaugliches Heilkraut, das jede Küche bereichert.`,
     geschichte: `Die Römer brachten den Kerbel aus dem Kaukasus nach Europa. Karl der Große ließ ihn in seiner Landgüterverordnung "Capitulare de villis" als Pflichtpflanze in jedem Klostergarten anordnen. Im Mittelalter galt Kerbel als Symbol der Erneuerung und des Neubeginns.
@@ -1140,7 +1140,7 @@ Die Tradition der Gründonnerstagssuppe mit Kerbel und anderen Frühlingskräute
     ernte: {
       zeit: 'März bis Oktober, laufend die jungen Triebe schneiden. Vor der Blüte am aromatischsten.',
       teile: 'Frische Blätter und Triebspitzen.',
-      tipps: 'Kerbel verliert beim Trocknen und Kochen fast sein gesamtes Aroma -- immer frisch und erst zum Schluss an die Speise geben. Regelmäßig nachsäen, da er schnell in Blüte geht.',
+      tipps: 'Kerbel verliert beim Trocknen und Kochen fast sein gesamtes Aroma, immer frisch und erst zum Schluss an die Speise geben. Regelmäßig nachsäen, da er schnell in Blüte geht.',
       mond: 'Bei zunehmendem Mond ernten für die stärkste Heilwirkung.',
     },
     zubereitungen: [
@@ -1161,9 +1161,9 @@ Die Tradition der Gründonnerstagssuppe mit Kerbel und anderen Frühlingskräute
       },
     ],
     mischungen: ['Gründonnerstagssuppe (mit Brennnessel, Giersch und Löwenzahn)', 'Frühjahrskräuter (mit Bärlauch und Sauerampfer)'],
-    tcm: 'Kerbel bewegt sanft das Leber-Qi, fördert das Wasserlassen und klärt die Augen -- ein mildes Frühlingskraut für die Leberreinigung.',
+    tcm: 'Kerbel bewegt sanft das Leber-Qi, fördert das Wasserlassen und klärt die Augen, ein mildes Frühlingskraut für die Leberreinigung.',
     ayurveda: 'Kerbel ist leicht, kühlend und beruhigt Pitta. Er stärkt Agni, ohne Pitta zu erhöhen, und reinigt Rasa und Rakta Dhatu.',
-    volksmedizin: 'In Süddeutschland und Österreich hieß es: "Kerbelsuppe am Gründonnerstag macht das Blut neu" -- die Frühlingskur mit den ersten frischen Kräutern war eine der wichtigsten Gesundheitstraditionen des Jahres.',
+    volksmedizin: 'In Süddeutschland und Österreich hieß es: "Kerbelsuppe am Gründonnerstag macht das Blut neu", die Frühlingskur mit den ersten frischen Kräutern war eine der wichtigsten Gesundheitstraditionen des Jahres.',
     besonders_bei: ['fruehjahrskur', 'verdauung', 'niere', 'leber', 'bluthochdruck', 'augen'],
   },
 
@@ -1173,7 +1173,7 @@ Die Tradition der Gründonnerstagssuppe mit Kerbel und anderen Frühlingskräute
   'Koriander': {
     vollname: 'Koriander (Coriandrum sativum)',
     familie: 'Doldenblütler (Apiaceae)',
-    beschreibung: `Koriander ist eine der ältesten Gewürz- und Heilpflanzen der Welt -- und eine der polarisierendsten. Manche lieben das frische Kraut, andere empfinden es als seifig (ein genetisch bedingter Geschmacksunterschied). Die Samen hingegen schmecken warm, zitronig und mild würzig und werden fast überall geschätzt. Beide -- Kraut und Samen -- haben bedeutende Heilwirkungen.
+    beschreibung: `Koriander ist eine der ältesten Gewürz- und Heilpflanzen der Welt, und eine der polarisierendsten. Manche lieben das frische Kraut, andere empfinden es als seifig (ein genetisch bedingter Geschmacksunterschied). Die Samen hingegen schmecken warm, zitronig und mild würzig und werden fast überall geschätzt. Beide: Kraut und Samen, haben bedeutende Heilwirkungen.
 
 Koriandersamen sind ein hervorragendes Verdauungsmittel: Sie lösen Blähungen, lindern Krämpfe und regen den Appetit an. Im Ayurveda gehört Koriander zu den wichtigsten kühlenden Gewürzen, die Pitta (Hitze) im Verdauungstrakt regulieren. Die Samen enthalten Linalool, ein Monoterpenol mit stark beruhigender, antimikrobieller Wirkung.
 
@@ -1187,8 +1187,8 @@ Im Mittelalter war Koriander Bestandteil von Liebestränken und wurde als Aphrod
     },
     ernte: {
       zeit: 'Frisches Kraut: laufend ab Mai. Samen: August bis September, wenn sie sich braun färben und gut duften.',
-      teile: 'Frische Blätter (Kraut) und reife Samen -- beide haben unterschiedliche Wirkprofile.',
-      tipps: 'Koriandersamen vor der Verwendung kurz in der Pfanne anrösten -- das entfaltet das volle Aroma. Frisches Kraut nicht mitkochen, erst zum Schluss über das Gericht geben.',
+      teile: 'Frische Blätter (Kraut) und reife Samen, beide haben unterschiedliche Wirkprofile.',
+      tipps: 'Koriandersamen vor der Verwendung kurz in der Pfanne anrösten, das entfaltet das volle Aroma. Frisches Kraut nicht mitkochen, erst zum Schluss über das Gericht geben.',
       mond: 'Samen bei abnehmendem Mond ernten für den besten Geschmack, Kraut bei zunehmendem Mond für die stärkste Entgiftungswirkung.',
     },
     zubereitungen: [
@@ -1209,9 +1209,9 @@ Im Mittelalter war Koriander Bestandteil von Liebestränken und wurde als Aphrod
       },
     ],
     mischungen: ['Verdauungsgewürz (mit Kreuzkümmel und Fenchel)', 'Entgiftungskur (mit Chlorella und Bärlauch)'],
-    tcm: 'Koriander zerstreut Wind, fördert das Schwitzen bei beginnender Erkältung und bewegt Qi im mittleren Erwärmer -- die Samen wärmen leicht, das Kraut kühlt.',
-    ayurveda: 'Dhanyaka (Koriander) ist eines der wichtigsten Pitta-beruhigenden Gewürze. Die Samen stärken Agni, ohne Pitta zu erhöhen -- eine seltene und wertvolle Eigenschaft.',
-    volksmedizin: 'In der mediterranen Volksheilkunde galt Koriandertee als das beste Mittel gegen "schweren Magen" nach üppigen Mahlzeiten. Großmütter streuten Koriandersamen auch ins Brot -- für bessere Bekömmlichkeit.',
+    tcm: 'Koriander zerstreut Wind, fördert das Schwitzen bei beginnender Erkältung und bewegt Qi im mittleren Erwärmer, die Samen wärmen leicht, das Kraut kühlt.',
+    ayurveda: 'Dhanyaka (Koriander) ist eines der wichtigsten Pitta-beruhigenden Gewürze. Die Samen stärken Agni, ohne Pitta zu erhöhen, eine seltene und wertvolle Eigenschaft.',
+    volksmedizin: 'In der mediterranen Volksheilkunde galt Koriandertee als das beste Mittel gegen "schweren Magen" nach üppigen Mahlzeiten. Großmütter streuten Koriandersamen auch ins Brot, für bessere Bekömmlichkeit.',
     besonders_bei: ['verdauung', 'blaehungen', 'entgiftung', 'schwermetalle', 'sodbrennen', 'erkaeltung'],
   },
 

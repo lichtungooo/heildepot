@@ -376,7 +376,7 @@ export function ConditionDetail({ condition, onAddToCart, onSelectCondition, onS
                 <h3 className="text-sm font-semibold text-green-dark uppercase tracking-wide mb-3">Ernährungsformen im Detail</h3>
                 <div className="space-y-2">
                   {Object.entries(ERNAEHRUNG_DETAILS).slice(0, 5).map(([name, info]) => (
-                    <Accordion key={name} title={`${name} -- ${info.kurz}`} variant="nutrition">
+                    <Accordion key={name} title={`${name}: ${info.kurz}`} variant="nutrition">
                       <p className="mb-3 whitespace-pre-line">{info.detail}</p>
                       {info.lebensmittel && (
                         <div className="bg-green-pale/30 rounded-lg p-3 mb-2">

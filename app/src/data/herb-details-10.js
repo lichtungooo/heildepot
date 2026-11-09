@@ -15,7 +15,7 @@ export const HERB_DEEP_10 = {
 
 In der Heilkunde überzeugt die Ackerminze durch ihre kühlende, krampflösende und schmerzlindernde Wirkung. Ihr ätherisches Öl wird in der Aromatherapie bei Kopfschmerzen, Übelkeit und Verdauungsbeschwerden geschätzt. Äußerlich aufgetragen, erzeugt es ein angenehmes Kühlgefühl, das Juckreiz und Muskelverspannungen lindert.
 
-Anders als die Pfefferminze hat die Ackerminze einen etwas herberen, weniger süßen Geschmack -- dafür eine intensivere kühlende Wirkung auf der Haut. In Japan wird sie als "Hakka" seit Jahrhunderten als Heilpflanze kultiviert.`,
+Anders als die Pfefferminze hat die Ackerminze einen etwas herberen, weniger süßen Geschmack, dafür eine intensivere kühlende Wirkung auf der Haut. In Japan wird sie als "Hakka" seit Jahrhunderten als Heilpflanze kultiviert.`,
     geschichte: `Die Ackerminze wurde bereits in der Antike von Dioskurides als Heilpflanze beschrieben. Sie war in der europäischen Volksheilkunde das bevorzugte Minzkraut, bevor die Pfefferminze im 17. Jahrhundert gezüchtet wurde.
 
 In Ostasien hat die Ackerminze eine besonders lange Tradition: In Japan wird Menthol aus Ackerminze seit dem 6. Jahrhundert gewonnen und als Heilmittel gegen Erkältungen, Kopfschmerzen und Magenbeschwerden verwendet. Noch heute stammt ein Großteil des natürlichen Menthols aus japanischer und indischer Ackerminze.`,
@@ -59,14 +59,14 @@ In Ostasien hat die Ackerminze eine besonders lange Tradition: In Japan wird Men
   "Ackerwinde": {
     vollname: "Ackerwinde (Convolvulus arvensis)",
     familie: "Windengewächse (Convolvulaceae)",
-    beschreibung: `Die Ackerwinde gilt den meisten Gärtnern als hartnäckiges Unkraut -- doch in der Naturheilkunde birgt sie verborgene Schätze. Ihre zierlichen, trichterförmigen Blüten in Weiß oder Zartrosa öffnen sich am Morgen und schließen sich am Nachmittag. Die windende Pflanze kann mit ihren bis zu 2 Meter langen Trieben andere Pflanzen umschlingen.
+    beschreibung: `Die Ackerwinde gilt den meisten Gärtnern als hartnäckiges Unkraut, doch in der Naturheilkunde birgt sie verborgene Schätze. Ihre zierlichen, trichterförmigen Blüten in Weiß oder Zartrosa öffnen sich am Morgen und schließen sich am Nachmittag. Die windende Pflanze kann mit ihren bis zu 2 Meter langen Trieben andere Pflanzen umschlingen.
 
 Wenig bekannt ist, dass die Ackerwinde Proteoglykane enthält, die in der modernen Forschung wegen ihrer immunmodulierenden und antiangiogenetischen Eigenschaften untersucht werden. In der Volksheilkunde wurde sie traditionell als mildes Abführmittel und bei Gallebeschwerden eingesetzt.
 
-Ihre Wurzeln reichen bis zu 2 Meter tief in die Erde -- ein Zeichen ihrer Hartnäckigkeit und Lebenskraft. In der Signaturenlehre steht das Winden und Umschlingen für die Fähigkeit, Blockaden zu lösen und den Fluss wiederherzustellen.`,
+Ihre Wurzeln reichen bis zu 2 Meter tief in die Erde, ein Zeichen ihrer Hartnäckigkeit und Lebenskraft. In der Signaturenlehre steht das Winden und Umschlingen für die Fähigkeit, Blockaden zu lösen und den Fluss wiederherzustellen.`,
     geschichte: `Die Ackerwinde war bereits in der antiken Heilkunde bekannt. Dioskurides empfahl sie als Abführmittel und bei Leberleiden. Im Mittelalter wurde sie in Klostergärten als "Herba convolvuli" kultiviert.
 
-Pfarrer Kneipp beschrieb die Ackerwinde als hilfreich bei träger Verdauung. In der russischen Volksmedizin wurde ein Tee aus den Blättern bei Fieber und Wunden getrunken. Moderne Forschungen an der Universität Birmingham haben PGM -- Proteoglykan-Moleküle -- in der Ackerwinde identifiziert, die die Neubildung von Blutgefäßen hemmen können.`,
+Pfarrer Kneipp beschrieb die Ackerwinde als hilfreich bei träger Verdauung. In der russischen Volksmedizin wurde ein Tee aus den Blättern bei Fieber und Wunden getrunken. Moderne Forschungen an der Universität Birmingham haben PGM: Proteoglykan-Moleküle, in der Ackerwinde identifiziert, die die Neubildung von Blutgefäßen hemmen können.`,
     wirkungen: {
       hauptwirkungen: ["Mild abführend (laxierend)", "Galleanregend (cholagog)", "Wundheilend", "Fiebersenkend", "Immunmodulierend"],
       inhaltsstoffe: ["Proteoglykane (PGM)", "Harzglykoside (Convolvulin)", "Flavonoide", "Gerbstoffe", "Alkaloide (in geringen Mengen)", "Cumarine"],
@@ -109,7 +109,7 @@ Pfarrer Kneipp beschrieb die Ackerwinde als hilfreich bei träger Verdauung. In 
     familie: "Hahnenfußgewächse (Ranunculaceae)",
     beschreibung: `Das Adonisröschen ist eine der schönsten und zugleich giftigsten Frühlingspflanzen Mitteleuropas. Seine strahlend goldgelben Blüten mit den feinfiedrigen Blättern erscheinen bereits im März und April auf kalkreichen Trockenrasen. Die Pflanze wird 15-40 cm hoch und ist in Deutschland streng geschützt.
 
-Als Herzpflanze nimmt das Adonisröschen einen besonderen Platz in der Phytotherapie ein. Seine herzwirksamen Glykoside -- Cymarin und Adonitoxin -- stärken die Herzmuskelkraft und regulieren den Herzrhythmus. Im Gegensatz zu Digitalis-Glykosiden kumulieren sie weniger im Körper, was die Anwendung sicherer macht.
+Als Herzpflanze nimmt das Adonisröschen einen besonderen Platz in der Phytotherapie ein. Seine herzwirksamen Glykoside: Cymarin und Adonitoxin, stärken die Herzmuskelkraft und regulieren den Herzrhythmus. Im Gegensatz zu Digitalis-Glykosiden kumulieren sie weniger im Körper, was die Anwendung sicherer macht.
 
 Das Adonisröschen gehört dennoch zu den Giftpflanzen und darf keinesfalls als Hausmittel eingesetzt werden. In standardisierten Fertigpräparaten wird es bei leichter Herzinsuffizienz und nervösen Herzbeschwerden verordnet.`,
     geschichte: `Der Name verweist auf den griechischen Mythos: Aus dem Blut des schönen Adonis, der von einem Eber getötet wurde, sollen rote Blumen entsprossen sein. Das goldgelbe Frühlings-Adonisröschen wurde später in diesen Mythos einbezogen.
@@ -120,10 +120,10 @@ In der russischen Volksmedizin wurde Adonis vernalis seit Jahrhunderten bei Herz
       inhaltsstoffe: ["Cymarin", "Adonitoxin", "Adonitoxol", "K-Strophanthin-beta", "Flavonoide (Adonivernith)", "Adonisäure"],
     },
     ernte: {
-      zeit: "Streng geschützte Pflanze -- darf nicht gesammelt werden! Nur aus Anbau für pharmazeutische Zwecke.",
-      teile: "Blühendes Kraut -- ausschließlich für die Arzneimittelherstellung.",
+      zeit: "Streng geschützte Pflanze, darf nicht gesammelt werden! Nur aus Anbau für pharmazeutische Zwecke.",
+      teile: "Blühendes Kraut, ausschließlich für die Arzneimittelherstellung.",
       tipps: "Nicht selbst sammeln oder verarbeiten! Das Adonisröschen ist giftig und steht unter strengem Naturschutz. Nur standardisierte Fertigpräparate aus der Apotheke verwenden.",
-      mond: "Traditionell wurde es bei zunehmendem Mond geerntet -- heute nur noch im kontrollierten Anbau.",
+      mond: "Traditionell wurde es bei zunehmendem Mond geerntet, heute nur noch im kontrollierten Anbau.",
     },
     zubereitungen: [
       {
@@ -142,7 +142,7 @@ In der russischen Volksmedizin wurde Adonis vernalis seit Jahrhunderten bei Herz
         wirkung: "Reguliert den Herzrhythmus und stärkt das Herz bei beginnender Herzschwäche.",
       },
     ],
-    mischungen: ["Herz-Tropfen (mit Weißdorn und Maiglöckchen -- nur als Fertigpräparat)", "Herzneurose-Mischung (mit Baldrian und Melisse -- nur als Fertigpräparat)"],
+    mischungen: ["Herz-Tropfen (mit Weißdorn und Maiglöckchen, nur als Fertigpräparat)", "Herzneurose-Mischung (mit Baldrian und Melisse, nur als Fertigpräparat)"],
     tcm: "In der TCM nicht gebräuchlich. Würde dem Element Feuer und dem Herz-Funktionskreis zugeordnet. Tonisiert Herz-Qi und bewegt Herz-Blut.",
     ayurveda: "Im Ayurveda nicht traditionell bekannt. Nach den Wirkprinzipien würde es Vata im Herzbereich beruhigen und Ojas (Lebenskraft) im Herzen stärken.",
     volksmedizin: "In der russischen und osteuropäischen Volksmedizin wurde das Adonisröschen bei Wassersucht, Herzschwäche und Krämpfen eingesetzt. In Sibirien bereiteten Heiler einen Aufguss gegen Fieber und Epilepsie. Wegen seiner Giftigkeit kam es jedoch immer wieder zu Vergiftungsfällen.",
@@ -157,10 +157,10 @@ In der russischen Volksmedizin wurde Adonis vernalis seit Jahrhunderten bei Herz
     familie: "Grasbaumgewächse (Xanthorrhoeaceae)",
     beschreibung: `Der Affodill ist eine majestätische Pflanze des Mittelmeerraums, die mit ihren hohen, kerzengeraden Blütenstängeln und den sternförmigen weißen Blüten ein eindrucksvolles Bild abgibt. Die Pflanze wird bis zu 120 cm hoch und wächst auf steinigen, trockenen Böden in Südeuropa.
 
-Ihre fleischigen, knollenartigen Wurzeln enthalten reichlich Stärke und wurden in Notzeiten als Nahrung verwendet. In der Heilkunde nutzte man die Wurzel äußerlich bei Hauterkrankungen -- besonders bei Ekzemen, Flechten und Geschwüren. Der frische Wurzelsaft galt als wirksam gegen Warzen und Hühneraugen.
+Ihre fleischigen, knollenartigen Wurzeln enthalten reichlich Stärke und wurden in Notzeiten als Nahrung verwendet. In der Heilkunde nutzte man die Wurzel äußerlich bei Hauterkrankungen, besonders bei Ekzemen, Flechten und Geschwüren. Der frische Wurzelsaft galt als wirksam gegen Warzen und Hühneraugen.
 
-Der Affodill ist eine Pflanze der Schwelle -- zwischen Licht und Schatten, zwischen Diesseits und Jenseits. In der griechischen Mythologie bedeckte er die Asphodeloswiese im Totenreich. Diese symbolische Kraft macht ihn zu einer Pflanze der inneren Wandlung und Reinigung.`,
-    geschichte: `In der griechischen Mythologie war die Asphodeloswiese der Aufenthaltsort der gewöhnlichen Toten -- jener, die weder besonders tugendhaft noch sündig gelebt hatten. Homer beschrieb sie in der Odyssee als Ort, an dem die Seelen der Verstorbenen wandeln.
+Der Affodill ist eine Pflanze der Schwelle, zwischen Licht und Schatten, zwischen Diesseits und Jenseits. In der griechischen Mythologie bedeckte er die Asphodeloswiese im Totenreich. Diese symbolische Kraft macht ihn zu einer Pflanze der inneren Wandlung und Reinigung.`,
+    geschichte: `In der griechischen Mythologie war die Asphodeloswiese der Aufenthaltsort der gewöhnlichen Toten, jener, die weder besonders tugendhaft noch sündig gelebt hatten. Homer beschrieb sie in der Odyssee als Ort, an dem die Seelen der Verstorbenen wandeln.
 
 Die alten Griechen pflanzten Affodill auf Gräber als Nahrung für die Toten. Dioskurides und Plinius beschrieben medizinische Anwendungen der Wurzel bei Hautkrankheiten und Schlangenbissen. Im mittelalterlichen Südeuropa wurde die stärkereiche Wurzel in Hungerszeiten geröstet und zu Brot verarbeitet.`,
     wirkungen: {
@@ -170,7 +170,7 @@ Die alten Griechen pflanzten Affodill auf Gräber als Nahrung für die Toten. Di
     ernte: {
       zeit: "Wurzel im Herbst nach dem Einziehen der Pflanze. Blüten im Mai bis Juni.",
       teile: "Wurzelknollen, seltener die Blüten.",
-      tipps: "In Mitteleuropa nur als Gartenpflanze verfügbar. Die frische Wurzel enthält scharfe Substanzen -- Handschuhe tragen. Zum Trocknen in Scheiben schneiden.",
+      tipps: "In Mitteleuropa nur als Gartenpflanze verfügbar. Die frische Wurzel enthält scharfe Substanzen: Handschuhe tragen. Zum Trocknen in Scheiben schneiden.",
       mond: "Wurzel bei abnehmendem Mond ernten, Blüten bei zunehmendem Mond.",
     },
     zubereitungen: [
@@ -203,12 +203,12 @@ Die alten Griechen pflanzten Affodill auf Gräber als Nahrung für die Toten. Di
   "Agave": {
     vollname: "Amerikanische Agave (Agave americana)",
     familie: "Spargelgewächse (Asparagaceae)",
-    beschreibung: `Die Agave ist eine eindrucksvolle Sukkulente aus Mittelamerika, die mit ihren mächtigen, fleischigen Blattrosetten bis zu 2 Meter breit werden kann. Einmal in ihrem Leben -- nach 10 bis 30 Jahren -- treibt sie einen bis zu 10 Meter hohen Blütenschaft und stirbt nach der Blüte ab. Dieses einmalige Aufblühen macht sie zum Symbol für Geduld und die Kraft des rechten Augenblicks.
+    beschreibung: `Die Agave ist eine eindrucksvolle Sukkulente aus Mittelamerika, die mit ihren mächtigen, fleischigen Blattrosetten bis zu 2 Meter breit werden kann. Einmal in ihrem Leben, nach 10 bis 30 Jahren, treibt sie einen bis zu 10 Meter hohen Blütenschaft und stirbt nach der Blüte ab. Dieses einmalige Aufblühen macht sie zum Symbol für Geduld und die Kraft des rechten Augenblicks.
 
-In der Heilkunde ist vor allem der Saft der Agave von Bedeutung. Er enthält Saponine, Inulin und natürliche Fructane, die entzündungshemmend und präbiotisch wirken. Äußerlich wird der frische Blattsaft -- ähnlich wie Aloe vera -- bei Verbrennungen, Wunden und Hautreizungen verwendet.
+In der Heilkunde ist vor allem der Saft der Agave von Bedeutung. Er enthält Saponine, Inulin und natürliche Fructane, die entzündungshemmend und präbiotisch wirken. Äußerlich wird der frische Blattsaft, ähnlich wie Aloe vera, bei Verbrennungen, Wunden und Hautreizungen verwendet.
 
 In Mexiko ist die Agave seit Jahrtausenden Heilpflanze, Nahrungsquelle und heiliges Gewächs zugleich. Aus ihrem fermentierten Saft wird Pulque hergestellt, ein traditionelles Getränk der Azteken, das als stärkendes Tonikum und Verdauungshilfe gilt.`,
-    geschichte: `Die Agave wurde von den Azteken als Geschenk der Göttin Mayahül verehrt, die als Göttin der Fruchtbarkeit und Trunkenheit galt. Der Sage nach hatte sie 400 Brüste, aus denen der nährende Agavensaft floss -- symbolisch für die nährende Kraft der Pflanze.
+    geschichte: `Die Agave wurde von den Azteken als Geschenk der Göttin Mayahül verehrt, die als Göttin der Fruchtbarkeit und Trunkenheit galt. Der Sage nach hatte sie 400 Brüste, aus denen der nährende Agavensaft floss, symbolisch für die nährende Kraft der Pflanze.
 
 Die Maya und Azteken verwendeten Agavenfasern für Textilien, den Saft als Süßmittel und Medizin, und die Dornen als Nadeln und rituelle Werkzeuge. Spanische Konquistadoren lernten die vielseitige Nutzung und brachten die Agave im 16. Jahrhundert nach Europa, wo sie als exotische Zierpflanze in mediterranen Gärten Fuß fasste.`,
     wirkungen: {
@@ -240,7 +240,7 @@ Die Maya und Azteken verwendeten Agavenfasern für Textilien, den Saft als Süß
     ],
     mischungen: ["Wundheilsalbe (mit Aloe vera und Ringelblume)", "Darmpflege-Kur (mit Flohsamen und Leinsamen)", "Kühlende Hautpackung (mit Gurke und Kamille)"],
     tcm: "In der TCM nicht traditionell verwendet. Nach Wirkprinzipien: kühlt Hitze, nährt Yin, befeuchtet Trockenheit. Tropismus: Magen, Lunge, Haut.",
-    ayurveda: "Wirkt kühlend und befeuchtend -- senkt Pitta, kann aber Kapha erhöhen. Die süße Qualität nährt Rasa und Rakta Dhatu. Bei Vata-Trockenheit äußerlich befeuchtend.",
+    ayurveda: "Wirkt kühlend und befeuchtend, senkt Pitta, kann aber Kapha erhöhen. Die süße Qualität nährt Rasa und Rakta Dhatu. Bei Vata-Trockenheit äußerlich befeuchtend.",
     volksmedizin: "In der mexikanischen Volksheilkunde ist die Agave ein universelles Heilmittel: Der Saft wird bei Wunden, Verbrennungen und Schlangenbissen aufgetragen. Innerlich trinkt man Agavenwasser bei Magen-Darm-Beschwerden und als Stärkungsmittel. Die gerösteten Blätter werden als Umschlag bei Gelenkschmerzen verwendet.",
     besonders_bei: ["verbrennungen", "wunden", "hautreizungen", "verdauung", "darmpflege"],
   },
@@ -255,7 +255,7 @@ Die Maya und Azteken verwendeten Agavenfasern für Textilien, den Saft als Süß
 
 Obwohl die Akelei in der modernen Phytotherapie kaum noch verwendet wird, war sie im Mittelalter eine geschätzte Heilpflanze. Sie enthält cyanogene Glykoside und ist in größeren Mengen giftig. In kleiner Dosierung wirkte sie traditionell harntreibend, schweißtreibend und als Wundheilmittel.
 
-Die Homöopathie nutzt Aquilegia vulgaris bei nervösen Beschwerden, Schlaflosigkeit und Menstruationsproblemen. Die Pflanze hat eine starke Signatur: Ihre Blüten gleichen einer offenen Hand, die empfängt -- sie steht für Hingabe, Offenheit und das Empfangen von Heilung.`,
+Die Homöopathie nutzt Aquilegia vulgaris bei nervösen Beschwerden, Schlaflosigkeit und Menstruationsproblemen. Die Pflanze hat eine starke Signatur: Ihre Blüten gleichen einer offenen Hand, die empfängt, sie steht für Hingabe, Offenheit und das Empfangen von Heilung.`,
     geschichte: `Der Name Aquilegia leitet sich möglicherweise von "aquila" (Adler) ab, da die Blütensporne an Adlerkrallen erinnern. Im Mittelalter war die Akelei ein Symbol der Demut und wurde in der christlichen Kunst als Attribut der Jungfrau Maria dargestellt.
 
 Hildegard von Bingen empfahl die Akelei bei Drüsenschwellungen und Fieber. Paracelsus nutzte sie als Mittel gegen Skrofulose. In der Volksmedizin galt ein Tee aus Akeleikraut als Mittel gegen Gelbsucht und als Stärkungsmittel für geschwächte Kinder. Leonhart Fuchs beschrieb sie 1543 in seinem Kräuterbuch als wirksam bei Leber- und Milzleiden.`,
@@ -265,8 +265,8 @@ Hildegard von Bingen empfahl die Akelei bei Drüsenschwellungen und Fieber. Para
     },
     ernte: {
       zeit: "Blühendes Kraut von Mai bis Juli. Samen im August bis September.",
-      teile: "Blühendes Kraut -- nur in kleinen Mengen und mit Vorsicht.",
-      tipps: "Die Akelei steht in manchen Regionen unter Schutz. Nicht in großen Mengen sammeln. Frische Pflanze nicht roh verzehren -- leicht giftig! Nur getrocknet und in kleiner Dosierung verwenden.",
+      teile: "Blühendes Kraut, nur in kleinen Mengen und mit Vorsicht.",
+      tipps: "Die Akelei steht in manchen Regionen unter Schutz. Nicht in großen Mengen sammeln. Frische Pflanze nicht roh verzehren, leicht giftig! Nur getrocknet und in kleiner Dosierung verwenden.",
       mond: "Bei zunehmendem Mond in Blütenzeichen ernten.",
     },
     zubereitungen: [
@@ -286,8 +286,8 @@ Hildegard von Bingen empfahl die Akelei bei Drüsenschwellungen und Fieber. Para
         wirkung: "Fördert Selbstvertrauen, innere Stärke und die Fähigkeit, sich zu öffnen.",
       },
     ],
-    mischungen: ["Entwässerungstee (mit Birkenblättern und Goldrute)", "Beruhigungsmischung (mit Baldrian und Passionsblume -- homöopathisch)", "Frühlingskur (mit Brennnessel und Löwenzahn)"],
-    tcm: "In der TCM nicht gebräuchlich. Würde nach Wirkprinzipien dem Element Wasser zugeordnet -- leitet Feuchtigkeit aus und bewegt Blut.",
+    mischungen: ["Entwässerungstee (mit Birkenblättern und Goldrute)", "Beruhigungsmischung (mit Baldrian und Passionsblume, homöopathisch)", "Frühlingskur (mit Brennnessel und Löwenzahn)"],
+    tcm: "In der TCM nicht gebräuchlich. Würde nach Wirkprinzipien dem Element Wasser zugeordnet, leitet Feuchtigkeit aus und bewegt Blut.",
     ayurveda: "Im Ayurveda nicht traditionell bekannt. Die kühlende, bittere Qualität würde Pitta und Kapha senken. Vorsicht bei Vata-Konstitutionen.",
     volksmedizin: "In der Volksmedizin wurde die Akelei bei Gelbsucht, Skrofulose (Lymphknotenschwellung) und Ausschlägen eingesetzt. Ein Breiumschlag aus den Blättern wurde auf Geschwüre gelegt. In manchen Regionen gab man Kindern einen schwachen Akelei-Tee als Stärkungsmittel bei Schwächezuständen.",
     besonders_bei: ["schlaflosigkeit", "unruhe", "menstruationsbeschwerden", "wassereinlagerungen"],
@@ -299,14 +299,14 @@ Hildegard von Bingen empfahl die Akelei bei Drüsenschwellungen und Fieber. Para
   "Amarant": {
     vollname: "Garten-Amarant (Amaranthus caudatus)",
     familie: "Fuchsschwanzgewächse (Amaranthaceae)",
-    beschreibung: `Der Amarant ist eine uralte Kulturpflanze, die von den Azteken als "Nahrung der Unsterblichkeit" verehrt wurde. Seine langen, purpurroten Blütenähren hängen wie Fuchsschwänze herab -- daher sein deutscher Name Fuchsschwanz. Die Pflanze wird bis zu 150 cm hoch und liefert nährstoffreiche Samen, die zu den sogenannten Pseudogetreiden zählen.
+    beschreibung: `Der Amarant ist eine uralte Kulturpflanze, die von den Azteken als "Nahrung der Unsterblichkeit" verehrt wurde. Seine langen, purpurroten Blütenähren hängen wie Fuchsschwänze herab, daher sein deutscher Name Fuchsschwanz. Die Pflanze wird bis zu 150 cm hoch und liefert nährstoffreiche Samen, die zu den sogenannten Pseudogetreiden zählen.
 
 Die Samen des Amarant gehören zu den nährstoffreichsten Lebensmitteln überhaupt: Sie enthalten mehr Eiweiß als die meisten Getreidearten, dazu alle essentiellen Aminosäuren (besonders Lysin), reichlich Eisen, Kalzium und Magnesium. Als glutenfreies Korn ist er für Menschen mit Zöliakie eine wertvolle Nahrungsquelle.
 
-Auch die Blätter sind essbar und äußerst nährstoffreich -- vergleichbar mit Spinat, aber mit höherem Mineralstoffgehalt. In der Heilkunde nutzt man sowohl Samen als auch Blätter zur Kräftigung, Blutbildung und Stärkung des Immunsystems.`,
-    geschichte: `Der Amarant war neben Mais und Bohnen eine der drei Hauptnahrungspflanzen der Azteken. Sie nannten ihn "Huauhtli" und verwendeten ihn auch in religiösen Zeremonien -- Figuren der Götter wurden aus Amarantteig geformt. Die spanischen Konquistadoren verboten daraufhin den Anbau, weil sie die heidnische Zeremonie unterdrücken wollten.
+Auch die Blätter sind essbar und äußerst nährstoffreich, vergleichbar mit Spinat, aber mit höherem Mineralstoffgehalt. In der Heilkunde nutzt man sowohl Samen als auch Blätter zur Kräftigung, Blutbildung und Stärkung des Immunsystems.`,
+    geschichte: `Der Amarant war neben Mais und Bohnen eine der drei Hauptnahrungspflanzen der Azteken. Sie nannten ihn "Huauhtli" und verwendeten ihn auch in religiösen Zeremonien: Figuren der Götter wurden aus Amarantteig geformt. Die spanischen Konquistadoren verboten daraufhin den Anbau, weil sie die heidnische Zeremonie unterdrücken wollten.
 
-Jahrhunderte lang geriet der Amarant in Vergessenheit. Erst in den 1970er Jahren wurde er als "Superfood" wiederentdeckt, als Forscher seinen außergewöhnlichen Nährstoffgehalt dokumentierten. Heute wird er weltweit als Gesundheitskorn angebaut. Der Name "Amarant" kommt vom griechischen "amarantos" -- der Unverwelkliche.`,
+Jahrhunderte lang geriet der Amarant in Vergessenheit. Erst in den 1970er Jahren wurde er als "Superfood" wiederentdeckt, als Forscher seinen außergewöhnlichen Nährstoffgehalt dokumentierten. Heute wird er weltweit als Gesundheitskorn angebaut. Der Name "Amarant" kommt vom griechischen "amarantos", der Unverwelkliche.`,
     wirkungen: {
       hauptwirkungen: ["Blutbildend (durch hohen Eisengehalt)", "Kräftigend und aufbauend", "Immunstärkend", "Entzündungshemmend", "Adstringierend (Blätter)"],
       inhaltsstoffe: ["Lysin (essentielle Aminosäure)", "Squalen", "Eisen", "Kalzium", "Magnesium", "Vitamin E", "B-Vitamine", "Ballaststoffe", "Ungesättigte Fettsäuren"],
@@ -336,7 +336,7 @@ Jahrhunderte lang geriet der Amarant in Vergessenheit. Erst in den 1970er Jahren
     ],
     mischungen: ["Blutaufbau-Kur (mit Brennnessel und Rote Bete)", "Kraftnahrung (mit Quinoa und Hirse)", "Eisenmischung (mit Kräuterblut und Vitamin C)"],
     tcm: "Stärkt Milz-Qi und nährt Blut. Wirkt leicht zusammenziehend und trocknet Feuchtigkeit. Besonders geeignet bei Milz-Qi-Mangel mit Müdigkeit und Appetitlosigkeit.",
-    ayurveda: "Wirkt tridoshisch -- gut für alle drei Doshas. Besonders Vata- und Pitta-beruhigend durch seine nährende, erdende Qualität. Stärkt Ojas und alle sieben Dhatus.",
+    ayurveda: "Wirkt tridoshisch, gut für alle drei Doshas. Besonders Vata- und Pitta-beruhigend durch seine nährende, erdende Qualität. Stärkt Ojas und alle sieben Dhatus.",
     volksmedizin: "In der mittelamerikanischen Volksheilkunde wurde Amarant als Kräftigungsmittel für Schwangere und stillende Mütter eingesetzt. Ein Brei aus den Samen galt als ideale Nahrung für die Erholung nach Krankheiten. Die Blätter wurden äußerlich als Umschlag bei Schwellungen und Entzündungen verwendet.",
     besonders_bei: ["blutarmut", "erschoepfung", "immunschwaeche", "rekonvaleszenz", "zoeliakie", "durchfall"],
   },
@@ -351,7 +351,7 @@ Jahrhunderte lang geriet der Amarant in Vergessenheit. Erst in den 1970er Jahren
 
 In der Heilkunde wird vor allem die Wurzel geschätzt. Sie enthält Anthrachinone, die eine milde abführende Wirkung haben, sowie reichlich Eisen und Gerbstoffe. Traditionell wurde der Ampfer als Blutreinigungs- und Entgiftungspflanze eingesetzt, besonders bei Hauterkrankungen, die mit einem "unreinen Blut" in Verbindung gebracht wurden.
 
-Ein alter Kräutertrick: Ein frisches Ampferblatt, auf einen Brennnesselstich gerieben, lindert den Schmerz sofort. Nicht zufällig wächst der Ampfer fast immer in der Nähe von Brennnesseln -- die Natur stellt das Heilmittel direkt neben die Ursache.`,
+Ein alter Kräutertrick: Ein frisches Ampferblatt, auf einen Brennnesselstich gerieben, lindert den Schmerz sofort. Nicht zufällig wächst der Ampfer fast immer in der Nähe von Brennnesseln, die Natur stellt das Heilmittel direkt neben die Ursache.`,
     geschichte: `Der Ampfer war bereits in der Antike als Heilpflanze bekannt. Dioskurides empfahl die Wurzel bei Hautflechten und als Abführmittel. Im Mittelalter gehörte er zu den wichtigsten Blutreinigungspflanzen der Klosterheilkunde.
 
 In der englischen Kräutermedizin wurde "Yellow Dock" (Rumex crispus, der Krause Ampfer) als eines der besten Eisenkräuter geschätzt. Nicholas Culpeper empfahl die Wurzel bei Gelbsucht und Leberleiden. In der nordamerikanischen Indianermedizin wurde Ampferwurzel als Wundmittel und Blutreiniger intensiv genutzt.`,
@@ -361,8 +361,8 @@ In der englischen Kräutermedizin wurde "Yellow Dock" (Rumex crispus, der Krause
     },
     ernte: {
       zeit: "Wurzel im Herbst (September bis November) oder im zeitigen Frühjahr. Blätter im Frühling.",
-      teile: "Wurzel -- Hauptdroge. Junge Blätter im Frühling als Gemüse.",
-      tipps: "Die Wurzel ist tief und kräftig -- am besten nach Regen graben. Wegen des Oxalsäuregehalts sollten Menschen mit Nierenproblemen oder Neigung zu Nierensteinen den Ampfer meiden. Junge Blätter nur in kleinen Mengen essen.",
+      teile: "Wurzel: Hauptdroge. Junge Blätter im Frühling als Gemüse.",
+      tipps: "Die Wurzel ist tief und kräftig, am besten nach Regen graben. Wegen des Oxalsäuregehalts sollten Menschen mit Nierenproblemen oder Neigung zu Nierensteinen den Ampfer meiden. Junge Blätter nur in kleinen Mengen essen.",
       mond: "Wurzel bei abnehmendem Mond graben für maximale Reinigungswirkung.",
     },
     zubereitungen: [
@@ -395,21 +395,21 @@ In der englischen Kräutermedizin wurde "Yellow Dock" (Rumex crispus, der Krause
   "Aronstab": {
     vollname: "Gefleckter Aronstab (Arum maculatum)",
     familie: "Aronstabgewächse (Araceae)",
-    beschreibung: `Der Aronstab ist eine der giftigsten Pflanzen in unseren Wäldern und zugleich eine der faszinierendsten. Im Frühjahr erscheinen seine pfeilförmigen, dunkelgrün glänzenden Blätter -- oft mit purpurnen Flecken gezeichnet. Die eigentliche Blüte ist ein kolbenartiger Blütenstand, umhüllt von einem gelbgrünen Hochblatt (Spatha), das an eine Kapuze erinnert.
+    beschreibung: `Der Aronstab ist eine der giftigsten Pflanzen in unseren Wäldern und zugleich eine der faszinierendsten. Im Frühjahr erscheinen seine pfeilförmigen, dunkelgrün glänzenden Blätter, oft mit purpurnen Flecken gezeichnet. Die eigentliche Blüte ist ein kolbenartiger Blütenstand, umhüllt von einem gelbgrünen Hochblatt (Spatha), das an eine Kapuze erinnert.
 
-Alle Teile der Pflanze sind stark giftig. Sie enthält scharfe Calciumoxalatnadeln (Raphide) sowie giftige Alkaloide, die bei Kontakt mit Schleimhäuten sofort brennenden Schmerz und Schwellungen verursachen. Im Herbst leuchten die korallenroten Beeren verlockend -- besonders für Kinder eine gefährliche Versuchung.
+Alle Teile der Pflanze sind stark giftig. Sie enthält scharfe Calciumoxalatnadeln (Raphide) sowie giftige Alkaloide, die bei Kontakt mit Schleimhäuten sofort brennenden Schmerz und Schwellungen verursachen. Im Herbst leuchten die korallenroten Beeren verlockend, besonders für Kinder eine gefährliche Versuchung.
 
 Trotz seiner Giftigkeit hat der Aronstab in der Homöopathie und in der anthroposophischen Medizin seinen festen Platz. In hoher Verdünnung wird er bei Entzündungen der Atemwege und Schleimhäute eingesetzt.`,
-    geschichte: `Der Name "Aronstab" verweist auf den Stab Aarons aus der Bibel, der auf wundersame Weise blühte. Im Mittelalter wurde die Pflanze als "Pfaffenpint" bezeichnet -- eine Anspielung auf die phallische Form des Blütenkolbens.
+    geschichte: `Der Name "Aronstab" verweist auf den Stab Aarons aus der Bibel, der auf wundersame Weise blühte. Im Mittelalter wurde die Pflanze als "Pfaffenpint" bezeichnet, eine Anspielung auf die phallische Form des Blütenkolbens.
 
-Trotz seiner Giftigkeit wurde der Aronstab in der mittelalterlichen Heilkunde äußerlich bei Geschwüren und Frostbeulen angewendet. Die getrocknete und geröstete Wurzel -- bei der die Giftstoffe weitgehend zerstört werden -- diente in Notzeiten als Stärkemehllieferant. Dioskurides empfahl die Wurzel bei Gicht und als Schleimlöser.`,
+Trotz seiner Giftigkeit wurde der Aronstab in der mittelalterlichen Heilkunde äußerlich bei Geschwüren und Frostbeulen angewendet. Die getrocknete und geröstete Wurzel, bei der die Giftstoffe weitgehend zerstört werden, diente in Notzeiten als Stärkemehllieferant. Dioskurides empfahl die Wurzel bei Gicht und als Schleimlöser.`,
     wirkungen: {
-      hauptwirkungen: ["Schleimlösend (in homöopathischer Dosis)", "Schleimhautreizend (in Urdosis -- giftig)", "Entzündungsmodulierend (homöopathisch)", "Krampflösend (homöopathisch)"],
+      hauptwirkungen: ["Schleimlösend (in homöopathischer Dosis)", "Schleimhautreizend (in Urdosis, giftig)", "Entzündungsmodulierend (homöopathisch)", "Krampflösend (homöopathisch)"],
       inhaltsstoffe: ["Calciumoxalat-Raphide", "Aroin (giftiges Alkaloid)", "Coniin-verwandte Alkaloide", "Stärke (in der Knolle)", "Saponine", "Flavonoide"],
     },
     ernte: {
       zeit: "Darf nicht gesammelt werden! Stark giftig. Nur für homöopathische und pharmazeutische Verarbeitung.",
-      teile: "Knolle und Kraut -- ausschließlich für die homöopathische Arzneimittelherstellung.",
+      teile: "Knolle und Kraut, ausschließlich für die homöopathische Arzneimittelherstellung.",
       tipps: "Niemals selbst sammeln oder verarbeiten! Der Aronstab ist eine der giftigsten einheimischen Pflanzen. Schon der Hautkontakt mit dem frischen Saft kann Blasen verursachen. Kinder vor den leuchtend roten Beeren warnen!",
       mond: "Nicht relevant, da keine Eigenernte.",
     },
@@ -430,10 +430,10 @@ Trotz seiner Giftigkeit wurde der Aronstab in der mittelalterlichen Heilkunde ä
         wirkung: "Das Hauptmittel bei Heiserkeit mit wunder, brennender Mundschleimhaut und Stimmbandüberanstrengung.",
       },
     ],
-    mischungen: ["Nur als homöopathisches Einzelmittel verwenden -- keine Mischungen mit der Rohpflanze"],
+    mischungen: ["Nur als homöopathisches Einzelmittel verwenden, keine Mischungen mit der Rohpflanze"],
     tcm: "In der TCM nicht gebräuchlich. Nach Wirkprinzipien: löst Schleim, transformiert Feuchtigkeit, öffnet die Oberfläche. Tropismus: Lunge, Kehle.",
     ayurveda: "Im Ayurveda nicht traditionell verwendet. Würde als extrem scharfe (Tikshna), Kapha-reduzierende Substanz eingeordnet, die nur in homöopathischer Aufbereitung sicher ist.",
-    volksmedizin: "In der Volksheilkunde wurde die getrocknete Aronstabwurzel als Schleimlöser bei hartnäckigem Husten eingesetzt -- eine riskante Praxis. Äußerlich legte man Breiumschläge auf Geschwüre und Frostbeulen. Die geröstete Knolle wurde in Hungerszeiten als Mehlersatz verwendet, wobei die Giftstoffe durch Hitze zerstört wurden.",
+    volksmedizin: "In der Volksheilkunde wurde die getrocknete Aronstabwurzel als Schleimlöser bei hartnäckigem Husten eingesetzt, eine riskante Praxis. Äußerlich legte man Breiumschläge auf Geschwüre und Frostbeulen. Die geröstete Knolle wurde in Hungerszeiten als Mehlersatz verwendet, wobei die Giftstoffe durch Hitze zerstört wurden.",
     besonders_bei: ["heiserkeit", "rachenentzuendung", "chronischer_schnupfen", "verschleimung"],
   },
 
@@ -445,10 +445,10 @@ Trotz seiner Giftigkeit wurde der Aronstab in der mittelalterlichen Heilkunde ä
     familie: "Wegerichgewächse (Plantaginaceae)",
     beschreibung: `Die Bachbunge ist eine saftig-grüne Wasserpflanze, die an Bachufern, Quellrändern und in flachen Gewässern wächst. Ihre rundlichen, fleischigen Blätter und die himmelblauen Blüten machen sie leicht erkennbar. Die Pflanze kriecht mit ihren hohlen, rötlichen Stängeln über feuchten Boden und wurzelt an den Knoten.
 
-Als Frühlingskraut par excellence wurde die Bachbunge traditionell in Frühjahrskuren verwendet -- zusammen mit Brunnenkresse und Löffelkraut als "Drei-Kräuter-Saft" gegen Frühjahrsmüdigkeit und Skorbut. Ihr hoher Vitamin-C-Gehalt und die Bitterstoffe machen sie zu einer ausgezeichneten Blutreinigungs- und Stoffwechselpflanze.
+Als Frühlingskraut par excellence wurde die Bachbunge traditionell in Frühjahrskuren verwendet, zusammen mit Brunnenkresse und Löffelkraut als "Drei-Kräuter-Saft" gegen Frühjahrsmüdigkeit und Skorbut. Ihr hoher Vitamin-C-Gehalt und die Bitterstoffe machen sie zu einer ausgezeichneten Blutreinigungs- und Stoffwechselpflanze.
 
-Der Name "Bachbunge" leitet sich vom althochdeutschen "bungo" (Knollen) ab und bezieht sich auf die dicken, saftigen Stängel. Die Pflanze schmeckt leicht bitter und scharf -- ähnlich wie Brunnenkresse, aber milder.`,
-    geschichte: `Die Bachbunge wurde seit dem Mittelalter als wichtiges Antiskorbut-Mittel geschätzt -- lange bevor man Vitamin C kannte. Der "Drei-Kräuter-Saft" aus Bachbunge, Brunnenkresse und Löffelkraut war eine der bekanntesten Frühjahrskuren der europäischen Volksmedizin.
+Der Name "Bachbunge" leitet sich vom althochdeutschen "bungo" (Knollen) ab und bezieht sich auf die dicken, saftigen Stängel. Die Pflanze schmeckt leicht bitter und scharf, ähnlich wie Brunnenkresse, aber milder.`,
+    geschichte: `Die Bachbunge wurde seit dem Mittelalter als wichtiges Antiskorbut-Mittel geschätzt, lange bevor man Vitamin C kannte. Der "Drei-Kräuter-Saft" aus Bachbunge, Brunnenkresse und Löffelkraut war eine der bekanntesten Frühjahrskuren der europäischen Volksmedizin.
 
 Hieronymus Bock beschrieb sie 1539 als blutreinigendes und harntreibendes Kraut. Tabernämontanus empfahl den frischen Saft bei Zahnfleischbluten und Mundgeschwüren. In der Signaturenlehre galt die Bachbunge als Pflanze, die durch ihr Wachstum im fließenden Wasser die Fähigkeit besitzt, auch im Körper den Fluss wiederherzustellen.`,
     wirkungen: {
@@ -491,11 +491,11 @@ Hieronymus Bock beschrieb sie 1539 als blutreinigendes und harntreibendes Kraut.
   "Barbarakraut": {
     vollname: "Gewöhnliches Barbarakraut (Barbarea vulgaris)",
     familie: "Kreuzblütler (Brassicaceae)",
-    beschreibung: `Das Barbarakraut -- auch Winterkresse genannt -- ist ein robustes Wildkraut, das selbst im Winter grün bleibt und schon ab November frische Blätter liefert. Diese Eigenschaft machte es zu einem überlebenswichtigen Vitamin-C-Lieferanten in den Wintermonaten, als kein anderes frisches Grün verfügbar war. Die Pflanze wird 30-90 cm hoch und trägt im Frühling leuchtend gelbe Blüten.
+    beschreibung: `Das Barbarakraut, auch Winterkresse genannt, ist ein robustes Wildkraut, das selbst im Winter grün bleibt und schon ab November frische Blätter liefert. Diese Eigenschaft machte es zu einem überlebenswichtigen Vitamin-C-Lieferanten in den Wintermonaten, als kein anderes frisches Grün verfügbar war. Die Pflanze wird 30-90 cm hoch und trägt im Frühling leuchtend gelbe Blüten.
 
-Als Kreuzblütler enthält das Barbarakraut wertvolle Senfölglykoside, die antimikrobiell und krebshemmend wirken. Sein Geschmack erinnert an Brunnenkresse -- leicht scharf und würzig. Die jungen Blätter sind ein ausgezeichneter Salatzusatz und liefern neben Vitamin C auch Eisen, Kalzium und Folsäure.
+Als Kreuzblütler enthält das Barbarakraut wertvolle Senfölglykoside, die antimikrobiell und krebshemmend wirken. Sein Geschmack erinnert an Brunnenkresse, leicht scharf und würzig. Die jungen Blätter sind ein ausgezeichneter Salatzusatz und liefern neben Vitamin C auch Eisen, Kalzium und Folsäure.
 
-Der Name "Barbarakraut" bezieht sich auf die heilige Barbara, deren Gedenktag am 4. Dezember liegt -- genau in der Zeit, in der die Pflanze als einziges frisches Grün geerntet werden kann.`,
+Der Name "Barbarakraut" bezieht sich auf die heilige Barbara, deren Gedenktag am 4. Dezember liegt, genau in der Zeit, in der die Pflanze als einziges frisches Grün geerntet werden kann.`,
     geschichte: `Das Barbarakraut war im Mittelalter ein unverzichtbares Wintergemüse in Klostergärten. Es wurde besonders von Reisenden und Pilgern geschätzt, die es als "Wegekresse" am Straßenrand pflückten, um sich vor Skorbut zu schützen.
 
 Die heilige Barbara ist die Schutzpatronin der Bergleute und Sterbenden. Das nach ihr benannte Kraut wurde am Barbaratag (4. Dezember) geerntet und als schützendes Winterkraut gegessen. In der Schweizer Volksmedizin galt es als Wundkraut, das auf Verletzungen und Geschwüre gelegt wurde.`,
@@ -504,7 +504,7 @@ Die heilige Barbara ist die Schutzpatronin der Bergleute und Sterbenden. Das nac
       inhaltsstoffe: ["Senfölglykoside (Glucobarbarin)", "Vitamin C", "Eisen", "Kalzium", "Folsäure", "Flavonoide", "Bitterstoffe"],
     },
     ernte: {
-      zeit: "Blätter von November bis April -- die einzigartige Winterernte. Junge Triebe im Frühling.",
+      zeit: "Blätter von November bis April, die einzigartige Winterernte. Junge Triebe im Frühling.",
       teile: "Junge Blätter und Triebspitzen.",
       tipps: "Im Winter ernten, wenn die Blätter am schmackhaftesten sind. Nach der Blüte werden die Blätter bitter. Die Pflanze ist leicht zu kultivieren und sät sich selbst aus. Ideal für den Wintergarten.",
       mond: "Bei zunehmendem Mond ernten für Salatblätter, bei abnehmendem Mond für Heilzwecke.",
@@ -539,14 +539,14 @@ Die heilige Barbara ist die Schutzpatronin der Bergleute und Sterbenden. Das nac
   "Bartflechte": {
     vollname: "Gewöhnliche Bartflechte (Usnea barbata)",
     familie: "Parmeliaceae (Flechten)",
-    beschreibung: `Die Bartflechte ist keine Pflanze im eigentlichen Sinne, sondern eine Symbiose aus Pilz und Alge -- eine Flechte. Sie hängt wie ein graugrüner Bart von den Ästen alter Nadelbäume in sauberen, luftfeuchten Wäldern. Ihr Vorkommen ist ein zuverlässiger Anzeiger für gute Luftqualität, denn sie reagiert empfindlich auf Schadstoffe.
+    beschreibung: `Die Bartflechte ist keine Pflanze im eigentlichen Sinne, sondern eine Symbiose aus Pilz und Alge, eine Flechte. Sie hängt wie ein graugrüner Bart von den Ästen alter Nadelbäume in sauberen, luftfeuchten Wäldern. Ihr Vorkommen ist ein zuverlässiger Anzeiger für gute Luftqualität, denn sie reagiert empfindlich auf Schadstoffe.
 
-Der wichtigste Wirkstoff der Bartflechte ist die Usninsäure -- ein natürliches Antibiotikum von bemerkenswerter Stärke. Sie wirkt gegen grampositive Bakterien, darunter Staphylokokken und Streptokokken, und hat sich in Studien sogar gegen antibiotikaresistente Keime (MRSA) als wirksam erwiesen.
+Der wichtigste Wirkstoff der Bartflechte ist die Usninsäure, ein natürliches Antibiotikum von bemerkenswerter Stärke. Sie wirkt gegen grampositive Bakterien, darunter Staphylokokken und Streptokokken, und hat sich in Studien sogar gegen antibiotikaresistente Keime (MRSA) als wirksam erwiesen.
 
 In der Naturheilkunde wird die Bartflechte vor allem bei Atemwegsinfekten, Halsentzündungen und Harnwegsinfekten geschätzt. Als Tinktur oder in Lutschpastillen ist sie ein kraftvolles Mittel der Naturapotheke gegen bakterielle Infektionen.`,
     geschichte: `Die Bartflechte wurde seit der Antike als Heilmittel verwendet. In der ägyptischen Medizin findet sich ihre Erwähnung auf Papyrusrollen. Hippokrates setzte sie bei Harnwegsinfekten ein. Im Mittelalter galt sie nach der Signaturenlehre als Mittel gegen Haarausfall, da sie wie Haare aussieht.
 
-In der skandinavischen Volksmedizin wurde Bartflechte in Wunden gepackt, um Infektionen zu verhindern -- eine Praxis, die durch die Entdeckung der Usninsäure wissenschaftlich bestätigt wurde. Die nordamerikanischen Ureinwohner verwendeten sie als Verband und Wundheilmittel. Heute ist die Bartflechte Bestandteil mehrerer zugelassener Phytopharmaka.`,
+In der skandinavischen Volksmedizin wurde Bartflechte in Wunden gepackt, um Infektionen zu verhindern, eine Praxis, die durch die Entdeckung der Usninsäure wissenschaftlich bestätigt wurde. Die nordamerikanischen Ureinwohner verwendeten sie als Verband und Wundheilmittel. Heute ist die Bartflechte Bestandteil mehrerer zugelassener Phytopharmaka.`,
     wirkungen: {
       hauptwirkungen: ["Stark antibakteriell (durch Usninsäure)", "Antiviral", "Antimykotisch", "Immunstimulierend", "Schleimlösend", "Wundheilend"],
       inhaltsstoffe: ["Usninsäure", "Barbitinsäure", "Usnarsäure", "Polysaccharide (Beta-Glucane)", "Vitamin C", "Flechtensäuren"],
@@ -554,7 +554,7 @@ In der skandinavischen Volksmedizin wurde Bartflechte in Wunden gepackt, um Infe
     ernte: {
       zeit: "Ganzjährig, bevorzugt im Herbst und Winter, wenn die Feuchtigkeit hoch ist.",
       teile: "Der ganze Flechtenkörper (Thallus).",
-      tipps: "Nur von Ästen und Zweigen sammeln, die am Boden liegen -- niemals von lebenden Bäumen reißen! Die Bartflechte wächst extrem langsam (1-5 mm pro Jahr). Nur in luftreinen Gebieten sammeln. Schonend bei niedrigen Temperaturen trocknen.",
+      tipps: "Nur von Ästen und Zweigen sammeln, die am Boden liegen, niemals von lebenden Bäumen reißen! Die Bartflechte wächst extrem langsam (1-5 mm pro Jahr). Nur in luftreinen Gebieten sammeln. Schonend bei niedrigen Temperaturen trocknen.",
       mond: "Bei abnehmendem Mond ernten für antibiotische Zubereitungen.",
     },
     zubereitungen: [
@@ -597,7 +597,7 @@ In der skandinavischen Volksmedizin wurde Bartflechte in Wunden gepackt, um Infe
 In der Phytotherapie ist der Besenginster vor allem als Herzpflanze bekannt. Sein Hauptalkaloid Spartein wirkt regulierend auf den Herzrhythmus und war lange Zeit als Antiarrhythmikum in der Schulmedizin im Einsatz. Daneben wirkt die Pflanze stark harntreibend und blutdrucksteigernd, weshalb sie bei niedrigem Blutdruck eingesetzt wird.
 
 Der Besenginster ist jedoch giftig und darf nur in standardisierter Dosierung verwendet werden. In der Schwangerschaft ist er strikt kontraindiziert, da Spartein wehenauslösend wirken kann. Seine Anwendung gehört in die Hand erfahrener Therapeuten.`,
-    geschichte: `Der Besenginster hat eine lange Geschichte als Heil- und Nutzpflanze. Die Plantagenets, das englische Königshaus, trugen seinen lateinischen Namen "Planta genista" als Familiennamen -- ein Ginsterzweig war ihr Wappen.
+    geschichte: `Der Besenginster hat eine lange Geschichte als Heil- und Nutzpflanze. Die Plantagenets, das englische Königshaus, trugen seinen lateinischen Namen "Planta genista" als Familiennamen, ein Ginsterzweig war ihr Wappen.
 
 In der mittelalterlichen Medizin verwendete man den Besenginster als Herzmittel und Harntreibendes. Paracelsus schätzte ihn bei Wassersucht. Im 19. Jahrhundert wurde Spartein als eines der ersten pflanzlichen Herzmedikamente isoliert und in die klinische Medizin eingeführt. Pfarrer Kneipp empfahl Ginstertee bei Wassereinlagerungen.`,
     wirkungen: {
@@ -607,7 +607,7 @@ In der mittelalterlichen Medizin verwendete man den Besenginster als Herzmittel 
     ernte: {
       zeit: "Blühendes Kraut im Mai bis Juni. Samen im Herbst.",
       teile: "Blühende Zweigspitzen, seltener die Samen.",
-      tipps: "Nur die jungen, blühenden Triebspitzen sammeln. Giftige Pflanze -- nicht überdosieren! In der Schwangerschaft strikt verboten. Handschuhe tragen, da der Pflanzensaft hautreizend sein kann.",
+      tipps: "Nur die jungen, blühenden Triebspitzen sammeln. Giftige Pflanze, nicht überdosieren! In der Schwangerschaft strikt verboten. Handschuhe tragen, da der Pflanzensaft hautreizend sein kann.",
       mond: "Bei zunehmendem Mond ernten für herzwirksame Zubereitungen.",
     },
     zubereitungen: [
@@ -623,14 +623,14 @@ In der mittelalterlichen Medizin verwendete man den Besenginster als Herzmittel 
       },
       {
         name: "Ginsterblüten-Tinktur",
-        anleitung: "Frische Blüten in 40%igem Alkohol einlegen (1:5). 3 Wochen ziehen lassen, abseihen. 10-15 Tropfen 2x täglich -- nicht höher dosieren!",
+        anleitung: "Frische Blüten in 40%igem Alkohol einlegen (1:5). 3 Wochen ziehen lassen, abseihen. 10-15 Tropfen 2x täglich, nicht höher dosieren!",
         wirkung: "Konzentrierte harntreibende und herzregulierende Wirkung.",
       },
     ],
     mischungen: ["Herztee (mit Weißdorn und Melisse)", "Entwässerungstee (mit Brennnessel und Birke)", "Kreislauftee (mit Rosmarin und Mate)"],
     tcm: "Bewegt Herz-Qi und leitet Wasser aus. Stärkt das Yang des Herzens. Tropismus: Herz, Niere, Blase. Vorsicht: stark bewegend, nur bei Fülle-Zuständen.",
     ayurveda: "Wirkt Kapha-reduzierend und Vata-bewegend. Erhöht Pitta. Stärkt Agni und fördert die Ausscheidung von Kleda (überflüssige Feuchtigkeit). Kontraindiziert bei Pitta-Überschuss.",
-    volksmedizin: "Der Besenginster war in der Volksheilkunde als Wassertreiber bei 'Wassersucht' (Ödemen) bekannt. Hebammen verwendeten ihn zur Wehenförderung -- eine gefährliche Praxis. In England wurde ein Ginsterblüten-Wein als Herz- und Kreislauftonikum getrunken.",
+    volksmedizin: "Der Besenginster war in der Volksheilkunde als Wassertreiber bei 'Wassersucht' (Ödemen) bekannt. Hebammen verwendeten ihn zur Wehenförderung, eine gefährliche Praxis. In England wurde ein Ginsterblüten-Wein als Herz- und Kreislauftonikum getrunken.",
     besonders_bei: ["herzrhythmusstoerungen", "oedeme", "niedriger_blutdruck", "wassereinlagerungen"],
   },
 
@@ -640,12 +640,12 @@ In der mittelalterlichen Medizin verwendete man den Besenginster als Herzmittel 
   "Bibernelle": {
     vollname: "Große Bibernelle (Pimpinella major)",
     familie: "Doldenblütler (Apiaceae)",
-    beschreibung: `Die Bibernelle ist eine unscheinbare, aber äußerst wirkungsvolle Heilpflanze, die auf trockenen Wiesen und an Wegrändern wächst. Ihre weißen Doldenblüten und die gefiederten Blätter machen sie zu einer typischen Vertreterin der Doldenblütler. Die Pflanze wird 40-100 cm hoch, doch ihre wahre Kraft liegt unter der Erde -- in der aromatischen Wurzel.
+    beschreibung: `Die Bibernelle ist eine unscheinbare, aber äußerst wirkungsvolle Heilpflanze, die auf trockenen Wiesen und an Wegrändern wächst. Ihre weißen Doldenblüten und die gefiederten Blätter machen sie zu einer typischen Vertreterin der Doldenblütler. Die Pflanze wird 40-100 cm hoch, doch ihre wahre Kraft liegt unter der Erde, in der aromatischen Wurzel.
 
 Die Bibernellwurzel riecht würzig-scharf und schmeckt leicht brennend. Sie enthält ätherische Öle, Cumarine und Saponine, die sie zu einem hervorragenden Mittel bei Erkältungskrankheiten machen. Besonders bei Husten, Heiserkeit und Halsentzündungen entfaltet die Bibernelle ihre schleimlösende und reizlindernde Wirkung.
 
-In der Naturheilkunde gilt die Bibernelle als "Antibiotikum des Mittelalters" -- sie wurde in Pestzeiten als Schutzpflanze eingesetzt und galt als eines der stärksten Mittel gegen Infektionskrankheiten der Atemwege.`,
-    geschichte: `Ein altes Kräutersprichwort lautet: "Esst Bibernell, so sterbt ihr nicht so schnell." Während der großen Pestepidemien wurde die Bibernellwurzel als Schutzmittel gekaut und als Tee getrunken. Ob sie tatsächlich gegen die Pest half, ist zweifelhaft -- aber ihre antibakterielle Wirkung auf die Atemwege ist nachgewiesen.
+In der Naturheilkunde gilt die Bibernelle als "Antibiotikum des Mittelalters", sie wurde in Pestzeiten als Schutzpflanze eingesetzt und galt als eines der stärksten Mittel gegen Infektionskrankheiten der Atemwege.`,
+    geschichte: `Ein altes Kräutersprichwort lautet: "Esst Bibernell, so sterbt ihr nicht so schnell." Während der großen Pestepidemien wurde die Bibernellwurzel als Schutzmittel gekaut und als Tee getrunken. Ob sie tatsächlich gegen die Pest half, ist zweifelhaft, aber ihre antibakterielle Wirkung auf die Atemwege ist nachgewiesen.
 
 Hildegard von Bingen empfahl die Bibernelle bei Brustleiden und Fieber. Paracelsus schätzte sie als universelles Entgiftungsmittel. In der Schweizer Kräuterheilkunde ist die Bibernelle bis heute ein Hauptbestandteil von Hustentees und Halspastillen.`,
     wirkungen: {
@@ -654,8 +654,8 @@ Hildegard von Bingen empfahl die Bibernelle bei Brustleiden und Fieber. Paracels
     },
     ernte: {
       zeit: "Wurzel im Herbst (September bis November) oder im zeitigen Frühjahr.",
-      teile: "Wurzel -- die Hauptdroge. Seltener das Kraut.",
-      tipps: "Die Wurzel nach dem Graben waschen, der Länge nach aufschneiden und bei niedriger Temperatur trocknen. Der scharfe Geruch und Geschmack zeigt die Qualität an -- je schärfer, desto wirksamer. Nicht mit giftigen Doldenblütlern verwechseln!",
+      teile: "Wurzel, die Hauptdroge. Seltener das Kraut.",
+      tipps: "Die Wurzel nach dem Graben waschen, der Länge nach aufschneiden und bei niedriger Temperatur trocknen. Der scharfe Geruch und Geschmack zeigt die Qualität an, je schärfer, desto wirksamer. Nicht mit giftigen Doldenblütlern verwechseln!",
       mond: "Wurzel bei abnehmendem Mond im Herbst graben.",
     },
     zubereitungen: [
@@ -683,7 +683,7 @@ Hildegard von Bingen empfahl die Bibernelle bei Brustleiden und Fieber. Paracels
     mischungen: ["Hustentee (mit Thymian und Spitzwegerich)", "Halstee (mit Salbei und Kamille)", "Erkältungstee (mit Holunderblüten und Lindenblüten)"],
     tcm: "Befreit die Lunge, löst Schleim und senkt rebellierendes Qi ab. Vertreibt Wind-Kälte. Tropismus: Lunge, Magen.",
     ayurveda: "Erhöht Agni, senkt Kapha und reduziert Ama in den Atemwegen. Die scharfe, bittere Qualität reinigt die Pranavaha Srotas (Atemwegskanäle). Für Vata in Kombination mit befeuchtenden Kräutern.",
-    volksmedizin: "Die Bibernelle war in der Volksheilkunde das Mittel der Wahl bei 'Brustkrankheiten' -- Husten, Heiserkeit, Bronchitis. Man kaute die Wurzel bei Halsschmerzen, trank den Tee bei Erkältungen und gurgelte die Abkochung bei Mandelentzündung. In Pestzeiten trug man ein Stück Wurzel als Amulett am Körper.",
+    volksmedizin: "Die Bibernelle war in der Volksheilkunde das Mittel der Wahl bei 'Brustkrankheiten': Husten, Heiserkeit, Bronchitis. Man kaute die Wurzel bei Halsschmerzen, trank den Tee bei Erkältungen und gurgelte die Abkochung bei Mandelentzündung. In Pestzeiten trug man ein Stück Wurzel als Amulett am Körper.",
     besonders_bei: ["husten", "heiserkeit", "halsentzuendung", "bronchitis", "erkaeltung"],
   },
 
@@ -693,21 +693,21 @@ Hildegard von Bingen empfahl die Bibernelle bei Brustleiden und Fieber. Paracels
   "Bilsenkraut": {
     vollname: "Schwarzes Bilsenkraut (Hyoscyamus niger)",
     familie: "Nachtschattengewächse (Solanaceae)",
-    beschreibung: `Das Bilsenkraut ist eine der berüchtigtsten Giftpflanzen Europas -- und zugleich eine der ältesten Arzneipflanzen der Menschheit. Die Pflanze wird 30-80 cm hoch, ist klebrig behaart und verströmt einen unangenehmen, betäubenden Geruch. Ihre gelblichen Blüten mit den violetten Adernetzen und der schwarze Samenstand geben ihr ein unheimliches Aussehen.
+    beschreibung: `Das Bilsenkraut ist eine der berüchtigtsten Giftpflanzen Europas, und zugleich eine der ältesten Arzneipflanzen der Menschheit. Die Pflanze wird 30-80 cm hoch, ist klebrig behaart und verströmt einen unangenehmen, betäubenden Geruch. Ihre gelblichen Blüten mit den violetten Adernetzen und der schwarze Samenstand geben ihr ein unheimliches Aussehen.
 
-Alle Teile der Pflanze enthalten Tropanalkaloide -- Hyoscyamin und Scopolamin -- die in geringer Dosis krampflösend, schmerzlindernd und beruhigend wirken, in höherer Dosis jedoch schwere Vergiftungen mit Halluzinationen, Delirium und Tod verursachen können.
+Alle Teile der Pflanze enthalten Tropanalkaloide: Hyoscyamin und Scopolamin, die in geringer Dosis krampflösend, schmerzlindernd und beruhigend wirken, in höherer Dosis jedoch schwere Vergiftungen mit Halluzinationen, Delirium und Tod verursachen können.
 
-In der modernen Medizin wird Scopolamin aus Bilsenkraut in Reisekrankheitspflastern und als Prämedikation vor Operationen eingesetzt. Die Pflanze selbst darf keinesfalls als Hausmittel verwendet werden -- ihre Dosierung ist unberechenbar und lebensgefährlich.`,
-    geschichte: `Das Bilsenkraut war eine der wichtigsten Pflanzen in den "Hexensalben" des Mittelalters. Zusammen mit Tollkirsche und Stechapfel wurde es zu Salben verarbeitet, die über die Haut aufgenommen Halluzinationen und das Gefühl des Fliegens auslösten -- der "Flug zum Hexensabbat".
+In der modernen Medizin wird Scopolamin aus Bilsenkraut in Reisekrankheitspflastern und als Prämedikation vor Operationen eingesetzt. Die Pflanze selbst darf keinesfalls als Hausmittel verwendet werden, ihre Dosierung ist unberechenbar und lebensgefährlich.`,
+    geschichte: `Das Bilsenkraut war eine der wichtigsten Pflanzen in den "Hexensalben" des Mittelalters. Zusammen mit Tollkirsche und Stechapfel wurde es zu Salben verarbeitet, die über die Haut aufgenommen Halluzinationen und das Gefühl des Fliegens auslösten, der "Flug zum Hexensabbat".
 
-Bereits die Ägypter erwähnten das Bilsenkraut im Papyrus Ebers (1550 v. Chr.) als Schmerzstiller. Die Griechen nannten es "Herba Apollinaris" -- Pflanze des Apollo. Im Mittelalter wurde es dem Bier zugesetzt, bevor das Reinheitsgebot dies verbot. Der Name "Pilsener" soll sich vom Bilsenkraut ableiten.`,
+Bereits die Ägypter erwähnten das Bilsenkraut im Papyrus Ebers (1550 v. Chr.) als Schmerzstiller. Die Griechen nannten es "Herba Apollinaris": Pflanze des Apollo. Im Mittelalter wurde es dem Bier zugesetzt, bevor das Reinheitsgebot dies verbot. Der Name "Pilsener" soll sich vom Bilsenkraut ableiten.`,
     wirkungen: {
       hauptwirkungen: ["Krampflösend (spasmolytisch)", "Schmerzlindernd (analgetisch)", "Beruhigend (sedativ)", "Pupillenerweiternd (mydriatisch)", "Schweißhemmend", "Halluzinogen (in toxischer Dosis)"],
       inhaltsstoffe: ["Hyoscyamin", "Scopolamin (L-Hyoscin)", "Atropin", "Tropanalkaloide", "Flavonoide", "Cumarine", "Withanolide"],
     },
     ernte: {
       zeit: "Darf nicht gesammelt werden! Nur für pharmazeutische und homöopathische Verarbeitung.",
-      teile: "Blätter und Samen -- ausschließlich für die Arzneimittelherstellung.",
+      teile: "Blätter und Samen, ausschließlich für die Arzneimittelherstellung.",
       tipps: "Nicht sammeln, nicht verarbeiten, nicht anwenden! Das Bilsenkraut gehört zu den gefährlichsten einheimischen Giftpflanzen. Schon die Berührung kann über die Haut wirken. Kinder fernhalten!",
       mond: "Nicht relevant, da keine Eigenernte.",
     },
@@ -718,7 +718,7 @@ Bereits die Ägypter erwähnten das Bilsenkraut im Papyrus Ebers (1550 v. Chr.) 
         wirkung: "Bei nervöser Unruhe, Schlaflosigkeit mit Zuckungen, Eifersucht und Reizhusten.",
       },
       {
-        name: "Bilsenkrautöl (äußerlich -- Fertigpräparat)",
+        name: "Bilsenkrautöl (äußerlich: Fertigpräparat)",
         anleitung: "Standardisiertes Bilsenkrautöl aus der Apotheke. Äußerlich auf schmerzende Gelenke und Muskeln einreiben.",
         wirkung: "Schmerzlindernd und krampflösend bei Rheuma, Gicht und Nervenschmerzen.",
       },
@@ -731,7 +731,7 @@ Bereits die Ägypter erwähnten das Bilsenkraut im Papyrus Ebers (1550 v. Chr.) 
     mischungen: ["Nur als homöopathisches Einzelmittel oder standardisiertes Fertigpräparat verwenden"],
     tcm: "In der TCM nicht gebräuchlich. Würde als extrem wärmend und Geist-verwirrend (in toxischer Dosis) eingeordnet. Die krampflösende Eigenschaft entspricht dem Lösen von Leber-Wind.",
     ayurveda: "Im Ayurveda als 'Parasikayavani' bekannt, aber wegen seiner Toxizität nur in der Siddha-Medizin und unter strengster Kontrolle verwendet. Wird dem Tamas-Guna zugeordnet.",
-    volksmedizin: "Das Bilsenkraut war ein gefürchtetes und zugleich geschätztes Mittel der Volksheilkunde. Zahnschmerzen wurden mit Bilsenkrautsamen-Rauch behandelt -- man hielt den offenen Mund über die glimmenden Samen. Äußerlich wurde Bilsenkrautöl als Schmerzmittel bei Rheuma und Gicht eingerieben. Vergiftungen waren häufig.",
+    volksmedizin: "Das Bilsenkraut war ein gefürchtetes und zugleich geschätztes Mittel der Volksheilkunde. Zahnschmerzen wurden mit Bilsenkrautsamen-Rauch behandelt, man hielt den offenen Mund über die glimmenden Samen. Äußerlich wurde Bilsenkrautöl als Schmerzmittel bei Rheuma und Gicht eingerieben. Vergiftungen waren häufig.",
     besonders_bei: ["kraempfe", "schmerzen", "schlaflosigkeit", "reisekrankheit", "nervenschmerzen"],
   },
 
@@ -741,14 +741,14 @@ Bereits die Ägypter erwähnten das Bilsenkraut im Papyrus Ebers (1550 v. Chr.) 
   "Bingelkraut": {
     vollname: "Einjähriges Bingelkraut (Mercurialis annua)",
     familie: "Wolfsmilchgewächse (Euphorbiaceae)",
-    beschreibung: `Das Bingelkraut ist ein unscheinbares, oft übersehenes Wildkraut, das in Gärten, an Mauern und auf Schuttplätzen wächst. Die Pflanze wird nur 10-40 cm hoch und hat gegenständige, eiförmige, gezähnte Blätter. Die winzigen, grünlichen Blüten sind kaum sichtbar -- männliche und weibliche Blüten wachsen auf getrennten Pflanzen.
+    beschreibung: `Das Bingelkraut ist ein unscheinbares, oft übersehenes Wildkraut, das in Gärten, an Mauern und auf Schuttplätzen wächst. Die Pflanze wird nur 10-40 cm hoch und hat gegenständige, eiförmige, gezähnte Blätter. Die winzigen, grünlichen Blüten sind kaum sichtbar, männliche und weibliche Blüten wachsen auf getrennten Pflanzen.
 
 Trotz seiner Unscheinbarkeit war das Bingelkraut in der antiken und mittelalterlichen Medizin ein geschätztes Heilmittel. Es wirkt mild abführend, harntreibend und wurde traditionell als Frauenpflanze bei Menstruationsbeschwerden eingesetzt. Der Name "Mercurialis" verweist auf den Gott Merkur, der die Pflanze der Sage nach den Menschen geschenkt haben soll.
 
 Das Bingelkraut enthält leicht giftige Substanzen (Methylamin, Hermidin) und sollte nur in kleiner Dosierung und nicht über längere Zeit verwendet werden. Frisch ist die Pflanze giftiger als getrocknet.`,
     geschichte: `Der Name Mercurialis geht auf den römischen Gott Merkur zurück, der die Pflanze angeblich entdeckt und den Menschen als Heilmittel übergeben haben soll. Dioskurides und Plinius beschrieben das Bingelkraut als abführendes und entwässerndes Mittel.
 
-Im Mittelalter wurde das Bingelkraut in der Klostermedizin zur Regulierung der weiblichen Monatsblutung verwendet. Hildegard von Bingen empfahl es jedoch nicht -- sie warnte vor seiner Schärfe. In der französischen Volksheilkunde war "Mercuriale" ein verbreitetes Hausmittel als sanftes Klistiermittel bei Verstopfung.`,
+Im Mittelalter wurde das Bingelkraut in der Klostermedizin zur Regulierung der weiblichen Monatsblutung verwendet. Hildegard von Bingen empfahl es jedoch nicht, sie warnte vor seiner Schärfe. In der französischen Volksheilkunde war "Mercuriale" ein verbreitetes Hausmittel als sanftes Klistiermittel bei Verstopfung.`,
     wirkungen: {
       hauptwirkungen: ["Mild abführend (laxierend)", "Harntreibend (diuretisch)", "Menstruationsfördernd (emmenagog)", "Entzündungshemmend", "Wundheilend (äußerlich)"],
       inhaltsstoffe: ["Hermidin", "Methylamin", "Trimethylamin", "Saponine", "Bitterstoff (Mercurialin)", "Schleimstoffe", "Ätherisches Öl"],
@@ -779,7 +779,7 @@ Im Mittelalter wurde das Bingelkraut in der Klostermedizin zur Regulierung der w
     mischungen: ["Abführtee (mit Sennesblättern und Fenchel)", "Entwässerungstee (mit Birke und Goldrute)", "Frauentee (mit Schafgarbe und Frauenmantel)"],
     tcm: "Leitet Feuchtigkeit und Hitze über Darm und Harnwege aus. Bewegt Qi im unteren Erwärmer. Tropismus: Dickdarm, Blase, Uterus.",
     ayurveda: "Senkt Kapha und bewegt Apana Vata. Die abführende und reinigende Qualität reduziert Ama. Nicht bei erhöhtem Vata oder in der Schwangerschaft anwenden.",
-    volksmedizin: "Das Bingelkraut war ein verbreitetes Hausmittel gegen Verstopfung -- besonders in Frankreich und Südeuropa. Es wurde auch als Reinigungskraut bei 'verschlacktem Blut' getrunken. Frauen nutzten es zur Anregung der Monatsblutung, was jedoch wegen der leichten Giftigkeit nicht ungefährlich war.",
+    volksmedizin: "Das Bingelkraut war ein verbreitetes Hausmittel gegen Verstopfung, besonders in Frankreich und Südeuropa. Es wurde auch als Reinigungskraut bei 'verschlacktem Blut' getrunken. Frauen nutzten es zur Anregung der Monatsblutung, was jedoch wegen der leichten Giftigkeit nicht ungefährlich war.",
     besonders_bei: ["verstopfung", "wassereinlagerungen", "menstruationsbeschwerden", "entgiftung"],
   },
 
@@ -793,8 +793,8 @@ Im Mittelalter wurde das Bingelkraut in der Klostermedizin zur Regulierung der w
 
 Die Brombeerblätter gehören zu den gerbstoffreichsten Heilpflanzen überhaupt und sind ein verlässliches Mittel bei Durchfall, Mund- und Rachenentzündungen. Ihre adstringierende Wirkung zieht entzündete Schleimhäute zusammen und fördert deren Heilung. In der Teemischung ersetzen fermentierte Brombeerblätter häufig den Schwarztee.
 
-Die Früchte selbst sind reich an Anthocyanen, Vitamin C und Ballaststoffen -- sie gehören zu den antioxidativsten heimischen Beeren. Dunkel gefärbte Brombeeren enthalten besonders viele Polyphenole, die Zellen vor oxidativem Stress schützen.`,
-    geschichte: `Die Brombeere wurde schon von den Griechen als Heilmittel geschätzt. Dioskurides empfahl die Blätter bei Durchfall und Mundgeschwüren. In der keltischen Tradition war die Brombeere eine heilige Pflanze -- man glaubte, durch einen Brombeerbogen kriechen könne Krankheiten heilen.
+Die Früchte selbst sind reich an Anthocyanen, Vitamin C und Ballaststoffen, sie gehören zu den antioxidativsten heimischen Beeren. Dunkel gefärbte Brombeeren enthalten besonders viele Polyphenole, die Zellen vor oxidativem Stress schützen.`,
+    geschichte: `Die Brombeere wurde schon von den Griechen als Heilmittel geschätzt. Dioskurides empfahl die Blätter bei Durchfall und Mundgeschwüren. In der keltischen Tradition war die Brombeere eine heilige Pflanze, man glaubte, durch einen Brombeerbogen kriechen könne Krankheiten heilen.
 
 Im Mittelalter galt die Brombeere als Schutzpflanze gegen böse Geister. Ein Brombeerstrauch vor dem Haus sollte Hexen fernhalten. In der englischen Volksheilkunde wurde Brombeer-Essig als universelles Haus- und Heilmittel gegen Fieber, Halsschmerzen und Verdauungsbeschwerden bereitet.`,
     wirkungen: {
@@ -846,10 +846,10 @@ Im Mittelalter galt die Brombeere als Schutzpflanze gegen böse Geister. Ein Bro
 
 In der Heilkunde sind es vor allem die Buchenblätter, die Rinde und das aus den Bucheckern gewonnene Öl, die Verwendung finden. Die jungen Blätter enthalten Gerbstoffe und Vitamine und können als Wickel bei Entzündungen und Schwellungen verwendet werden. Buchenrinde wurde traditionell bei Fieber und als Desinfektionsmittel genutzt.
 
-Buchenteer -- gewonnen durch trockene Destillation des Holzes -- war in der alten Medizin ein wichtiges Antiseptikum und wurde bei Hauterkrankungen angewendet. Das Kreosot, ein Bestandteil des Buchenholzteers, wird bis heute in der Zahnheilkunde verwendet.`,
-    geschichte: `Die Buche hat eine tiefe kulturelle Bedeutung im deutschen Sprachraum -- das Wort "Buchstabe" leitet sich von den Buchenstäben ab, in die germanische Runen geritzt wurden. Auch das "Buch" hat seinen Namen von der Buche, da die ersten Schreibtafeln aus Buchenholz bestanden.
+Buchenteer, gewonnen durch trockene Destillation des Holzes, war in der alten Medizin ein wichtiges Antiseptikum und wurde bei Hauterkrankungen angewendet. Das Kreosot, ein Bestandteil des Buchenholzteers, wird bis heute in der Zahnheilkunde verwendet.`,
+    geschichte: `Die Buche hat eine tiefe kulturelle Bedeutung im deutschen Sprachraum, das Wort "Buchstabe" leitet sich von den Buchenstäben ab, in die germanische Runen geritzt wurden. Auch das "Buch" hat seinen Namen von der Buche, da die ersten Schreibtafeln aus Buchenholz bestanden.
 
-In der Heilkunde wurde die Buche bereits von Hippokrates als Fiebermittel erwähnt. Hildegard von Bingen empfahl Buchenasche bei Geschwüren. In der Bachblütentherapie steht "Beech" (Buche) für Toleranz und Mitgefühl -- sie hilft Menschen, die zu Kritik und Intoleranz neigen.`,
+In der Heilkunde wurde die Buche bereits von Hippokrates als Fiebermittel erwähnt. Hildegard von Bingen empfahl Buchenasche bei Geschwüren. In der Bachblütentherapie steht "Beech" (Buche) für Toleranz und Mitgefühl, sie hilft Menschen, die zu Kritik und Intoleranz neigen.`,
     wirkungen: {
       hauptwirkungen: ["Adstringierend (Rinde)", "Fiebersenkend (Rinde)", "Antiseptisch (Teer)", "Entzündungshemmend (Blätter)", "Wundheilend"],
       inhaltsstoffe: ["Gerbstoffe (Tannine)", "Kreosot (im Teer)", "Faginsäure (in Bucheckern)", "Oxalsäure", "Mineralstoffe", "Vitamine (junge Blätter)", "Fettes Öl (Bucheckern)"],
@@ -857,7 +857,7 @@ In der Heilkunde wurde die Buche bereits von Hippokrates als Fiebermittel erwäh
     ernte: {
       zeit: "Junge Blätter im April bis Mai. Rinde im Frühling. Bucheckern im Oktober.",
       teile: "Junge Blätter, Rinde, Bucheckern.",
-      tipps: "Bucheckern nur in kleinen Mengen roh essen -- sie enthalten Faginsäure und Oxalsäure, die in großen Mengen giftig sind. Durch Rösten werden die Giftstoffe abgebaut. Junge Blätter sind im Salat eine Delikatesse.",
+      tipps: "Bucheckern nur in kleinen Mengen roh essen, sie enthalten Faginsäure und Oxalsäure, die in großen Mengen giftig sind. Durch Rösten werden die Giftstoffe abgebaut. Junge Blätter sind im Salat eine Delikatesse.",
       mond: "Blätter bei zunehmendem Mond, Rinde bei abnehmendem Mond ernten.",
     },
     zubereitungen: [
@@ -902,7 +902,7 @@ In der Heilkunde hat der Buchsbaum eine lange, wenn auch heute fast vergessene G
 Der Buchsbaum ist jedoch giftig und wird in der modernen Phytotherapie kaum noch eingesetzt. In der Homöopathie hat "Buxus" seinen Platz bei rheumatischen Beschwerden und Harnwegsinfekten behalten.`,
     geschichte: `Der Buchsbaum war den Griechen der Unterweltgöttin Hekate geweiht und galt als Pflanze der Grenze zwischen Leben und Tod. Die Römer verwendeten sein extrem hartes Holz für wertvolle Schnitzarbeiten und Schreibtafeln.
 
-In der mittelalterlichen Medizin war Buchsbaumblättertee ein verbreitetes Fiebermittel -- das "Chinin der Armen". Matthiolus empfahl die Blätterabkochung bei Wechselfieber (Malaria). In der Volksheilkunde galt der Buchsbaum als Schutzpflanze -- ein Zweig am Palmsonntag gesegnet, sollte Haus und Hof vor Unheil bewahren.`,
+In der mittelalterlichen Medizin war Buchsbaumblättertee ein verbreitetes Fiebermittel, das "Chinin der Armen". Matthiolus empfahl die Blätterabkochung bei Wechselfieber (Malaria). In der Volksheilkunde galt der Buchsbaum als Schutzpflanze, ein Zweig am Palmsonntag gesegnet, sollte Haus und Hof vor Unheil bewahren.`,
     wirkungen: {
       hauptwirkungen: ["Fiebersenkend (antipyretisch)", "Schweißtreibend (diaphoretisch)", "Antirheumatisch", "Abführend (in höherer Dosis)", "Haarwuchsfördernd (äußerlich)"],
       inhaltsstoffe: ["Buxin (Alkaloid)", "Parabuxin", "Buxinamin", "Gerbstoffe", "Ätherisches Öl", "Flavonoide"],
@@ -910,7 +910,7 @@ In der mittelalterlichen Medizin war Buchsbaumblättertee ein verbreitetes Fiebe
     ernte: {
       zeit: "Blätter ganzjährig, da immergrün. Am gehaltreichsten im Frühling.",
       teile: "Blätter und junge Triebe.",
-      tipps: "Giftige Pflanze -- nicht als Hausmittel verwenden! Die Alkaloide sind in unberechenbarer Konzentration vorhanden. Nur äußerlich oder in homöopathischer Aufbereitung anwenden. Bei Haustieren (besonders Pferden) kann die Pflanze tödliche Vergiftungen verursachen.",
+      tipps: "Giftige Pflanze, nicht als Hausmittel verwenden! Die Alkaloide sind in unberechenbarer Konzentration vorhanden. Nur äußerlich oder in homöopathischer Aufbereitung anwenden. Bei Haustieren (besonders Pferden) kann die Pflanze tödliche Vergiftungen verursachen.",
       mond: "Traditionell bei abnehmendem Mond geschnitten, wenn die Pflanze 'ruht'.",
     },
     zubereitungen: [
@@ -927,7 +927,7 @@ In der mittelalterlichen Medizin war Buchsbaumblättertee ein verbreitetes Fiebe
       {
         name: "Buchsbaum-Bad (äußerlich)",
         anleitung: "200g Blätter in 3 Liter Wasser 20 Minuten köcheln. Abseihen und dem Vollbad zugeben. 20 Minuten baden.",
-        wirkung: "Bei rheumatischen Beschwerden und Gicht -- nur äußerlich!",
+        wirkung: "Bei rheumatischen Beschwerden und Gicht, nur äußerlich!",
       },
     ],
     mischungen: ["Rheumabad (mit Wacholder und Rosmarin)", "Haarwasser (mit Birkenblättern und Brennnessel)", "Nur in Fertigpräparaten innerlich verwenden"],
@@ -943,12 +943,12 @@ In der mittelalterlichen Medizin war Buchsbaumblättertee ein verbreitetes Fiebe
   "Buchweizen": {
     vollname: "Echter Buchweizen (Fagopyrum esculentum)",
     familie: "Knöterichgewächse (Polygonaceae)",
-    beschreibung: `Der Buchweizen ist trotz seines Namens kein Getreide, sondern ein Knöterichgewächs -- verwandt mit Sauerampfer und Rhabarber. Seine herzförmigen Blätter und die duftenden, weiß-rosa Blüten machen ihn zu einer hübschen Ackerpflanze, die zudem eine wichtige Bienenweide ist. Die dreieckigen Samen erinnern an Bucheckern -- daher der Name.
+    beschreibung: `Der Buchweizen ist trotz seines Namens kein Getreide, sondern ein Knöterichgewächs, verwandt mit Sauerampfer und Rhabarber. Seine herzförmigen Blätter und die duftenden, weiß-rosa Blüten machen ihn zu einer hübschen Ackerpflanze, die zudem eine wichtige Bienenweide ist. Die dreieckigen Samen erinnern an Bucheckern, daher der Name.
 
 In der Heilkunde ist der Buchweizen vor allem wegen seines hohen Rutingehalts wertvoll. Rutin ist ein Flavonoid, das die Gefäßwände stärkt, die Kapillarbrüchigkeit vermindert und vor Venenleiden schützt. Das macht Buchweizentee zu einem der besten natürlichen Venenmittel überhaupt.
 
 Als glutenfreies Pseudogetreide ist Buchweizen eine ausgezeichnete Nahrungsquelle für Menschen mit Zöliakie. Er enthält hochwertiges Eiweiß mit allen essentiellen Aminosäuren, komplexe Kohlenhydrate und wertvolle Mineralien. In Asien und Osteuropa ist er seit Jahrhunderten ein Grundnahrungsmittel.`,
-    geschichte: `Der Buchweizen stammt ursprünglich aus Zentralasien und gelangte über die Mongolei und Russland im Mittelalter nach Europa. Kreuzritter sollen ihn im 14. Jahrhundert mitgebracht haben -- daher hieß er auch "Heidenkorn" oder "Sarazenenkorn".
+    geschichte: `Der Buchweizen stammt ursprünglich aus Zentralasien und gelangte über die Mongolei und Russland im Mittelalter nach Europa. Kreuzritter sollen ihn im 14. Jahrhundert mitgebracht haben, daher hieß er auch "Heidenkorn" oder "Sarazenenkorn".
 
 In der traditionellen Heilkunde wurde Buchweizenmehl äußerlich als Breiumschlag bei Ekzemen und nässenden Wunden verwendet. In Japan ist Soba-Nudeln aus Buchweizenmehl ein traditionelles Nahrungsmittel mit medizinischer Bedeutung. Die moderne Phytotherapie entdeckte den hohen Rutingehalt erst im 20. Jahrhundert und macht seitdem gezielt Gebrauch davon bei Gefäßerkrankungen.`,
     wirkungen: {
@@ -958,7 +958,7 @@ In der traditionellen Heilkunde wurde Buchweizenmehl äußerlich als Breiumschla
     ernte: {
       zeit: "Blühendes Kraut von Juni bis August für Tee. Samen im September bis Oktober.",
       teile: "Blühendes Kraut (für Tee), Samen (als Nahrung).",
-      tipps: "Für den Rutingehalt das blühende Kraut ernten und schonend trocknen. Die Samen nach der Ernte schälen -- ungeschälter Buchweizen enthält Fagopyrin, das bei hellhäutigen Menschen Lichtempfindlichkeit auslösen kann. Geschälte Samen sind unbedenklich.",
+      tipps: "Für den Rutingehalt das blühende Kraut ernten und schonend trocknen. Die Samen nach der Ernte schälen, ungeschälter Buchweizen enthält Fagopyrin, das bei hellhäutigen Menschen Lichtempfindlichkeit auslösen kann. Geschälte Samen sind unbedenklich.",
       mond: "Kraut bei zunehmendem Mond ernten, Samen bei abnehmendem Mond.",
     },
     zubereitungen: [
@@ -980,8 +980,8 @@ In der traditionellen Heilkunde wurde Buchweizenmehl äußerlich als Breiumschla
     ],
     mischungen: ["Venentee (mit Rosskastanie und Steinklee)", "Gefäßtee (mit Weißdorn und Mistel)", "Glutenfreies Mehl (mit Reis- und Maismehl)"],
     tcm: "Stärkt Milz-Qi und leitet Feuchtigkeit aus. Kühlt Hitze im Blut und stärkt die Gefäße. Tropismus: Milz, Magen, Dickdarm.",
-    ayurveda: "Leicht, trocken und wärmend -- ideal für Kapha-Konstitutionen. Reduziert Ama und stärkt Agni. Für Vata in Kombination mit Ghee und Gewürzen. Pitta sollte mäßig konsumieren.",
-    volksmedizin: "In Russland und Osteuropa war Buchweizen-Brei (Kasha) die Grundnahrung der Landbevölkerung und galt als stärkend und heilend. Buchweizenmehl-Umschläge wurden bei Ekzemen und nässenden Wunden aufgelegt. Buchweizenhonig -- dunkel und mineralstoffreich -- galt als besonders heilkräftig bei Erkältungen und Anämie.",
+    ayurveda: "Leicht, trocken und wärmend, ideal für Kapha-Konstitutionen. Reduziert Ama und stärkt Agni. Für Vata in Kombination mit Ghee und Gewürzen. Pitta sollte mäßig konsumieren.",
+    volksmedizin: "In Russland und Osteuropa war Buchweizen-Brei (Kasha) die Grundnahrung der Landbevölkerung und galt als stärkend und heilend. Buchweizenmehl-Umschläge wurden bei Ekzemen und nässenden Wunden aufgelegt. Buchweizenhonig, dunkel und mineralstoffreich, galt als besonders heilkräftig bei Erkältungen und Anämie.",
     besonders_bei: ["krampfadern", "besenreiser", "venenschwaeche", "kapillarbrueche", "diabetes", "zoeliakie"],
   },
 
@@ -993,10 +993,10 @@ In der traditionellen Heilkunde wurde Buchweizenmehl äußerlich als Breiumschla
     familie: "Myrtengewächse (Myrtaceae)",
     beschreibung: `Der Cajeputbaum ist ein immergrüner Baum Südostasiens, eng verwandt mit dem Teebaum und dem Niaouli-Baum. Er wird bis zu 30 Meter hoch und hat eine auffällig weiße, papierartige Rinde, die sich in Schichten ablöst. Aus seinen Blättern wird das wertvolle Cajeputöl destilliert.
 
-Cajeputöl ist eines der vielseitigsten ätherischen Öle in der Naturheilkunde. Sein Hauptwirkstoff 1,8-Cineol (Eukalyptol) -- derselbe Stoff, der auch Eukalyptusöl seine Wirkung verleiht -- macht es zu einem kraftvollen Mittel bei Atemwegserkrankungen. Im Gegensatz zu Eukalyptus ist Cajeput jedoch milder und hautverträglicher.
+Cajeputöl ist eines der vielseitigsten ätherischen Öle in der Naturheilkunde. Sein Hauptwirkstoff 1,8-Cineol (Eukalyptol), derselbe Stoff, der auch Eukalyptusöl seine Wirkung verleiht, macht es zu einem kraftvollen Mittel bei Atemwegserkrankungen. Im Gegensatz zu Eukalyptus ist Cajeput jedoch milder und hautverträglicher.
 
 In der Aromatherapie wird Cajeputöl bei Erkältungen, Muskelschmerzen und Hautproblemen geschätzt. Es hat eine bemerkenswert breite antimikrobielle Wirkung gegen Bakterien, Viren und Pilze zugleich.`,
-    geschichte: `Der Name "Cajeput" stammt vom malaiischen "kayu putih" -- "weißer Baum" -- und bezieht sich auf die helle Rinde. In der traditionellen Medizin Malaysias und Indonesiens wird Cajeputöl seit Jahrhunderten als universelles Heilmittel verwendet -- bei Erkältungen, Zahnschmerzen, Kopfschmerzen und als Insektenschutz.
+    geschichte: `Der Name "Cajeput" stammt vom malaiischen "kayu putih", "weißer Baum", und bezieht sich auf die helle Rinde. In der traditionellen Medizin Malaysias und Indonesiens wird Cajeputöl seit Jahrhunderten als universelles Heilmittel verwendet, bei Erkältungen, Zahnschmerzen, Kopfschmerzen und als Insektenschutz.
 
 Holländische Kolonialherren brachten das Öl im 17. Jahrhundert nach Europa, wo es schnell als "Oleum Cajuputi" in die Apotheken Eingang fand. In der indischen Ayurveda-Medizin wird Cajeput als "weißes Teebaumöl" geschätzt. Bis heute ist es in vielen asiatischen Ländern das beliebteste Hausmittel.`,
     wirkungen: {
@@ -1007,7 +1007,7 @@ Holländische Kolonialherren brachten das Öl im 17. Jahrhundert nach Europa, wo
       zeit: "Blätter ganzjährig, das ätherische Öl wird durch Wasserdampfdestillation gewonnen.",
       teile: "Blätter und Zweigspitzen.",
       tipps: "In Mitteleuropa nicht kultivierbar. Das ätherische Öl ist im Handel erhältlich. Auf Qualität achten: reines, naturbelassenes Cajeputöl aus kontrolliertem Anbau kaufen. Nicht unverdünnt auf die Haut auftragen.",
-      mond: "Das Öl wird industriell gewonnen -- Mondphasen nicht relevant für den Kauf.",
+      mond: "Das Öl wird industriell gewonnen: Mondphasen nicht relevant für den Kauf.",
     },
     zubereitungen: [
       {
@@ -1023,7 +1023,7 @@ Holländische Kolonialherren brachten das Öl im 17. Jahrhundert nach Europa, wo
       {
         name: "Insektenschutz-Spray",
         anleitung: "20 Tropfen Cajeputöl, 10 Tropfen Citronellaöl in 100ml Wasser-Alkohol-Mischung (1:1) geben. In Sprühflasche füllen. Vor Gebrauch schütteln.",
-        wirkung: "Natürlicher Mückenschutz -- auch wirksam gegen Zecken.",
+        wirkung: "Natürlicher Mückenschutz, auch wirksam gegen Zecken.",
       },
     ],
     mischungen: ["Erkältungsbalsam (mit Eukalyptus und Pfefferminze)", "Muskelöl (mit Wintergrün und Lavendel)", "Raumspray (mit Zitrone und Teebaum)"],
@@ -1039,12 +1039,12 @@ Holländische Kolonialherren brachten das Öl im 17. Jahrhundert nach Europa, wo
   "Chia": {
     vollname: "Chia-Salbei (Salvia hispanica)",
     familie: "Lippenblütler (Lamiaceae)",
-    beschreibung: `Die Chia-Pflanze ist ein einjähriges Kraut aus Mittelamerika, das zur gleichen Familie wie der Salbei gehört. Sie wird bis zu 1,5 Meter hoch und trägt blauviolette Lippenblüten. Berühmt sind vor allem ihre kleinen, ovalen Samen -- schwarz, weiß oder grau gefleckt -- die als "Superfood" weltweite Bekanntheit erlangt haben.
+    beschreibung: `Die Chia-Pflanze ist ein einjähriges Kraut aus Mittelamerika, das zur gleichen Familie wie der Salbei gehört. Sie wird bis zu 1,5 Meter hoch und trägt blauviolette Lippenblüten. Berühmt sind vor allem ihre kleinen, ovalen Samen, schwarz, weiß oder grau gefleckt, die als "Superfood" weltweite Bekanntheit erlangt haben.
 
-Chia-Samen sind ein ernährungsmedizinisches Kraftpaket: Sie enthalten mehr Omega-3-Fettsäuren als Lachs (bezogen auf das Gewicht), reichlich Ballaststoffe, hochwertiges pflanzliches Eiweiß und eine Fülle von Mineralstoffen. Ihre besondere Eigenschaft ist die Fähigkeit, das 12-fache ihres Gewichts an Wasser zu binden -- sie quellen zu einem gelartigen Pudding auf.
+Chia-Samen sind ein ernährungsmedizinisches Kraftpaket: Sie enthalten mehr Omega-3-Fettsäuren als Lachs (bezogen auf das Gewicht), reichlich Ballaststoffe, hochwertiges pflanzliches Eiweiß und eine Fülle von Mineralstoffen. Ihre besondere Eigenschaft ist die Fähigkeit, das 12-fache ihres Gewichts an Wasser zu binden, sie quellen zu einem gelartigen Pudding auf.
 
 Dieses Gel wirkt im Verdauungstrakt wie ein natürlicher Ballaststoff-Schwamm: Es reguliert die Verdauung, bindet Giftstoffe, verlangsamt die Zuckeraufnahme und sorgt für lang anhaltende Sättigung. In der Naturheilkunde werden Chia-Samen bei Verdauungsproblemen, Diabetes und als Nährstoffergänzung geschätzt.`,
-    geschichte: `Chia war neben Mais, Bohnen und Amarant eines der vier Grundnahrungsmittel der Azteken und Maya. Der Name "Chia" stammt aus dem Nahuatl (der Sprache der Azteken) und bedeutet "ölig" oder "stärkend". Aztekische Krieger nahmen Chia-Samen als Marschverpflegung mit -- ein Löffel Chia galt als Nahrung für einen ganzen Tag.
+    geschichte: `Chia war neben Mais, Bohnen und Amarant eines der vier Grundnahrungsmittel der Azteken und Maya. Der Name "Chia" stammt aus dem Nahuatl (der Sprache der Azteken) und bedeutet "ölig" oder "stärkend". Aztekische Krieger nahmen Chia-Samen als Marschverpflegung mit, ein Löffel Chia galt als Nahrung für einen ganzen Tag.
 
 Die Maya verwendeten Chia auch rituell und medizinisch: als Opfergabe an die Götter, als Wundheilmittel und als Stärkungsmittel für Schwangere. Nach der spanischen Eroberung verschwand Chia fast vollständig aus der Landwirtschaft. Erst in den 1990er Jahren wurde es wiederentdeckt und als "Superfood" vermarktet.`,
     wirkungen: {
@@ -1054,7 +1054,7 @@ Die Maya verwendeten Chia auch rituell und medizinisch: als Opfergabe an die Gö
     ernte: {
       zeit: "Samen im Herbst, wenn die Blüten verblüht sind und die Samenkapsel trocken ist.",
       teile: "Samen.",
-      tipps: "Chia-Pflanzen lassen sich in milden Regionen auch in Mitteleuropa anbauen, brauchen aber lange, warme Sommer. Die Samen sind im Handel ganzjährig erhältlich. Trocken und dunkel lagern -- sie halten bis zu 5 Jahre.",
+      tipps: "Chia-Pflanzen lassen sich in milden Regionen auch in Mitteleuropa anbauen, brauchen aber lange, warme Sommer. Die Samen sind im Handel ganzjährig erhältlich. Trocken und dunkel lagern, sie halten bis zu 5 Jahre.",
       mond: "Samen bei abnehmendem Mond ernten für maximale Lagerfähigkeit.",
     },
     zubereitungen: [
@@ -1069,7 +1069,7 @@ Die Maya verwendeten Chia auch rituell und medizinisch: als Opfergabe an die Gö
         wirkung: "Nährstoffreiches Frühstück mit stabilisierender Wirkung auf den Blutzucker.",
       },
       {
-        name: "Chia-Wasser (Iskiate -- aztekisches Energiegetränk)",
+        name: "Chia-Wasser (Iskiate, aztekisches Energiegetränk)",
         anleitung: "1 EL Chia-Samen in 500ml Wasser mit dem Saft einer Zitrone und 1 EL Honig mischen. 10 Minuten quellen lassen.",
         wirkung: "Erfrischendes Ausdauergetränk, das Elektrolyte liefert und lang anhaltend hydriert.",
       },
@@ -1087,7 +1087,7 @@ Die Maya verwendeten Chia auch rituell und medizinisch: als Opfergabe an die Gö
   "Chili": {
     vollname: "Cayenne-Chili (Capsicum annuum / Capsicum frutescens)",
     familie: "Nachtschattengewächse (Solanaceae)",
-    beschreibung: `Die Chili ist weit mehr als ein scharfes Gewürz -- sie ist eine der potentesten Heilpflanzen der Welt. Der Wirkstoff Capsaicin, der für die Schärfe verantwortlich ist, hat eine bemerkenswerte Eigenschaft: Er aktiviert die Schmerzrezeptoren so stark, dass sie danach unempfindlich werden -- Schmerz heilt Schmerz.
+    beschreibung: `Die Chili ist weit mehr als ein scharfes Gewürz, sie ist eine der potentesten Heilpflanzen der Welt. Der Wirkstoff Capsaicin, der für die Schärfe verantwortlich ist, hat eine bemerkenswerte Eigenschaft: Er aktiviert die Schmerzrezeptoren so stark, dass sie danach unempfindlich werden: Schmerz heilt Schmerz.
 
 Capsaicin steigert die Durchblutung, regt den Stoffwechsel an, fördert die Endorphinausschüttung und wirkt stark entzündungshemmend. In der modernen Schmerztherapie sind Capsaicin-Pflaster und -Cremes bei Nervenschmerzen, Gürtelrose und Arthrose anerkannte Arzneimittel.
 
@@ -1102,7 +1102,7 @@ Kolumbus brachte die Chili nach Europa, wo sie sich rasend schnell verbreitete. 
     ernte: {
       zeit: "Reife Früchte von Juli bis Oktober. Je reifer und roter, desto höher der Capsaicingehalt.",
       teile: "Früchte (Schoten).",
-      tipps: "Beim Verarbeiten Handschuhe tragen -- Capsaicin brennt auf der Haut und besonders in den Augen! Zum Trocknen an einer Schnur auffädeln und luftig aufhängen. Die Schärfe sitzt vor allem in den Samen und der weißen Plazenta.",
+      tipps: "Beim Verarbeiten Handschuhe tragen: Capsaicin brennt auf der Haut und besonders in den Augen! Zum Trocknen an einer Schnur auffädeln und luftig aufhängen. Die Schärfe sitzt vor allem in den Samen und der weißen Plazenta.",
       mond: "Bei zunehmendem Mond ernten für maximale Schärfe und Wirkstoffgehalt.",
     },
     zubereitungen: [
@@ -1140,21 +1140,21 @@ Kolumbus brachte die Chili nach Europa, wo sie sich rasend schnell verbreitete. 
   "Christrose": {
     vollname: "Christrose (Helleborus niger)",
     familie: "Hahnenfußgewächse (Ranunculaceae)",
-    beschreibung: `Die Christrose ist eine winterblühende Staude, die mitten im Schnee ihre großen, weißen Blüten öffnet -- ein eindrucksvolles Symbol für Licht und Leben in der dunkelsten Jahreszeit. Die immergrünen, handförmig geteilten Blätter und die eleganten Schalenblüten machen sie zu einer der beliebtesten Winterpflanzen in Gärten.
+    beschreibung: `Die Christrose ist eine winterblühende Staude, die mitten im Schnee ihre großen, weißen Blüten öffnet, ein eindrucksvolles Symbol für Licht und Leben in der dunkelsten Jahreszeit. Die immergrünen, handförmig geteilten Blätter und die eleganten Schalenblüten machen sie zu einer der beliebtesten Winterpflanzen in Gärten.
 
-Als Heilpflanze hat die Christrose eine lange, aber auch gefährliche Geschichte. Alle Pflanzenteile sind stark giftig -- sie enthalten Herzglykoside (Hellebrin) und Saponine, die in kleiner Dosis herzwirksam, in höherer Dosis tödlich sind. In der antiken Medizin wurde sie als drastisches Abführ- und Brechmittel eingesetzt.
+Als Heilpflanze hat die Christrose eine lange, aber auch gefährliche Geschichte. Alle Pflanzenteile sind stark giftig, sie enthalten Herzglykoside (Hellebrin) und Saponine, die in kleiner Dosis herzwirksam, in höherer Dosis tödlich sind. In der antiken Medizin wurde sie als drastisches Abführ- und Brechmittel eingesetzt.
 
-Heute wird die Christrose ausschließlich in der Homöopathie verwendet, wo sie in potenzierter Form bei Hirnerkrankungen, Verwirrtheit, Ödemen und Nierenerkrankungen Anwendung findet. Als Gartenpflanze ist sie ungefährlich -- man müsste größere Mengen verzehren, um Symptome zu entwickeln.`,
-    geschichte: `Der Name "Helleborus" leitet sich möglicherweise von "helein" (töten) und "bora" (Speise) ab -- "tötende Speise". In der griechischen Mythologie heilte der Arzt Melampus die wahnsinnig gewordenen Töchter des Königs Proitos mit Helleborus. Seitdem galt die Pflanze als Mittel gegen Geisteskrankheit.
+Heute wird die Christrose ausschließlich in der Homöopathie verwendet, wo sie in potenzierter Form bei Hirnerkrankungen, Verwirrtheit, Ödemen und Nierenerkrankungen Anwendung findet. Als Gartenpflanze ist sie ungefährlich, man müsste größere Mengen verzehren, um Symptome zu entwickeln.`,
+    geschichte: `Der Name "Helleborus" leitet sich möglicherweise von "helein" (töten) und "bora" (Speise) ab, "tötende Speise". In der griechischen Mythologie heilte der Arzt Melampus die wahnsinnig gewordenen Töchter des Königs Proitos mit Helleborus. Seitdem galt die Pflanze als Mittel gegen Geisteskrankheit.
 
-Im Mittelalter wurde die Christrose als "Nieswurz" bezeichnet, weil das getrocknete Wurzelpulver starkes Niesen auslöst. Man glaubte, durch das Niesen würden böse Geister ausgetrieben. Paracelsus verwendete sie in homöopathischen Dosen bei Wassersucht. Die Christrose war auch eine der "Hexenpflanzen" -- in Schutzzaubern und Abwehrritualen wurde sie eingesetzt.`,
+Im Mittelalter wurde die Christrose als "Nieswurz" bezeichnet, weil das getrocknete Wurzelpulver starkes Niesen auslöst. Man glaubte, durch das Niesen würden böse Geister ausgetrieben. Paracelsus verwendete sie in homöopathischen Dosen bei Wassersucht. Die Christrose war auch eine der "Hexenpflanzen", in Schutzzaubern und Abwehrritualen wurde sie eingesetzt.`,
     wirkungen: {
       hauptwirkungen: ["Herzwirksam (in homöopathischer Dosis)", "Stark giftig (in Urdosis)", "Harntreibend (diuretisch)", "Brecherregend (emetisch)", "Drastisch abführend"],
       inhaltsstoffe: ["Hellebrin (Herzglykosid)", "Helleborin (Saponin)", "Helleborein", "Protoanemonin", "Ranunculin"],
     },
     ernte: {
       zeit: "Darf nicht gesammelt werden! Stark giftig. Nur für homöopathische und pharmazeutische Verarbeitung.",
-      teile: "Wurzelstock -- ausschließlich für Fachleute.",
+      teile: "Wurzelstock, ausschließlich für Fachleute.",
       tipps: "Nicht sammeln, nicht verarbeiten! Die Christrose ist eine der giftigsten Gartenpflanzen. Schon der Hautkontakt mit dem frischen Wurzelsaft kann Blasen und Entzündungen verursachen. Kinder vor der Pflanze warnen!",
       mond: "Nicht relevant, da keine Eigenernte.",
     },
@@ -1172,7 +1172,7 @@ Im Mittelalter wurde die Christrose als "Nieswurz" bezeichnet, weil das getrockn
       {
         name: "Blütenessenz",
         anleitung: "Christrosenblüten in Quellwasser in die Wintersonne stellen (Sonnenmethode). Das Wasser mit Alkohol konservieren (1:1). 4 Tropfen 4x täglich.",
-        wirkung: "Für Menschen in tiefer Dunkelheit -- bringt Licht und Hoffnung in schwierige Lebensphasen.",
+        wirkung: "Für Menschen in tiefer Dunkelheit, bringt Licht und Hoffnung in schwierige Lebensphasen.",
       },
     ],
     mischungen: ["Nur als homöopathisches Einzelmittel oder anthroposophisches Fertigpräparat verwenden"],
@@ -1188,12 +1188,12 @@ Im Mittelalter wurde die Christrose als "Nieswurz" bezeichnet, weil das getrockn
   "Diptam": {
     vollname: "Diptam (Dictamnus albus)",
     familie: "Rautengewächse (Rutaceae)",
-    beschreibung: `Der Diptam ist eine der faszinierendsten und seltensten Wildpflanzen Mitteleuropas. Seine großen, weiß-rosa Blüten mit den dunklen Adern erscheinen von Mai bis Juni und verströmen einen intensiven, zitronenartigen Duft. Die ganze Pflanze ist von ätherischen Ölen durchdrungen, die an heißen Sommertagen so stark verdampfen, dass sich die Gaswolke entzünden lässt -- daher der Beiname "Brennender Busch".
+    beschreibung: `Der Diptam ist eine der faszinierendsten und seltensten Wildpflanzen Mitteleuropas. Seine großen, weiß-rosa Blüten mit den dunklen Adern erscheinen von Mai bis Juni und verströmen einen intensiven, zitronenartigen Duft. Die ganze Pflanze ist von ätherischen Ölen durchdrungen, die an heißen Sommertagen so stark verdampfen, dass sich die Gaswolke entzünden lässt, daher der Beiname "Brennender Busch".
 
 In der Heilkunde wurde der Diptam seit der Antike als Fiebermittel, Frauenheilpflanze und Verdauungsmittel geschätzt. Seine Wurzelrinde enthält Alkaloide, Furocumarine und ätherisches Öl, die verdauungsfördernd, krampflösend und menstruationsanregend wirken.
 
 Heute ist der Diptam in Deutschland streng geschützt und darf nicht gesammelt werden. In der Homöopathie und als Gartenpflanze hat er jedoch überlebt. Vorsicht: Die Pflanze kann bei Berührung und Sonnenlicht phototoxische Hautreaktionen auslösen.`,
-    geschichte: `Der Name "Dictamnus" verweist auf den Berg Dikte auf Kreta, wo die Pflanze der Göttin Artemis geweiht war. In der griechischen Sage heilten verwundete Hirsche ihre Wunden, indem sie Diptamblätter fraßen -- Aristoteles berichtete davon.
+    geschichte: `Der Name "Dictamnus" verweist auf den Berg Dikte auf Kreta, wo die Pflanze der Göttin Artemis geweiht war. In der griechischen Sage heilten verwundete Hirsche ihre Wunden, indem sie Diptamblätter fraßen: Aristoteles berichtete davon.
 
 Im Mittelalter galt der Diptam als eine der vornehmsten Heilpflanzen. Hildegard von Bingen empfahl ihn bei Fieber und Frauenleiden. In der Bibel wird der "Brennende Busch" oft mit dem Diptam in Verbindung gebracht. Paracelsus nutzte ihn als Entgiftungsmittel bei Schlangenbissen und Vergiftungen.`,
     wirkungen: {
@@ -1201,9 +1201,9 @@ Im Mittelalter galt der Diptam als eine der vornehmsten Heilpflanzen. Hildegard 
       inhaltsstoffe: ["Dictamnin (Alkaloid)", "Furocumarine (Bergapten, Xanthotoxin)", "Ätherisches Öl (Limonen, Anethol)", "Saponine", "Flavonoide", "Gerbstoffe"],
     },
     ernte: {
-      zeit: "Streng geschützte Pflanze -- darf nicht gesammelt werden! Nur aus Gartenanbau für den Eigengebrauch.",
-      teile: "Wurzelrinde -- traditionell im Herbst gegraben. Nur aus eigenem Gartenanbau.",
-      tipps: "Nicht in der Natur sammeln -- streng geschützt! Die Pflanze kann phototoxische Reaktionen verursachen: nach Hautkontakt und Sonnenlicht entstehen schmerzhafte Blasen. Handschuhe tragen! In der Schwangerschaft nicht anwenden.",
+      zeit: "Streng geschützte Pflanze, darf nicht gesammelt werden! Nur aus Gartenanbau für den Eigengebrauch.",
+      teile: "Wurzelrinde, traditionell im Herbst gegraben. Nur aus eigenem Gartenanbau.",
+      tipps: "Nicht in der Natur sammeln, streng geschützt! Die Pflanze kann phototoxische Reaktionen verursachen: nach Hautkontakt und Sonnenlicht entstehen schmerzhafte Blasen. Handschuhe tragen! In der Schwangerschaft nicht anwenden.",
       mond: "Traditionell wurde die Wurzel bei abnehmendem Mond gegraben.",
     },
     zubereitungen: [
@@ -1225,7 +1225,7 @@ Im Mittelalter galt der Diptam als eine der vornehmsten Heilpflanzen. Hildegard 
     ],
     mischungen: ["Verdauungstee (mit Kamille und Fenchel)", "Frauentee (mit Schafgarbe und Frauenmantel)", "Fiebertee (mit Holunderblüten und Mädesüß)"],
     tcm: "Bewegt Leber-Qi, löst Stagnation und klärt feuchte Hitze. Vertreibt Wind und kühlt Blut-Hitze in der Haut. Tropismus: Leber, Milz, Haut.",
-    ayurveda: "Die scharfe, bittere Qualität erhöht Agni und reduziert Ama. Senkt Kapha und bewegt stagniertes Vata. Kann Pitta erhöhen -- bei Pitta-Konstitution meiden. Wirkt auf Rasa und Rakta Dhatu.",
+    ayurveda: "Die scharfe, bittere Qualität erhöht Agni und reduziert Ama. Senkt Kapha und bewegt stagniertes Vata. Kann Pitta erhöhen, bei Pitta-Konstitution meiden. Wirkt auf Rasa und Rakta Dhatu.",
     volksmedizin: "Der Diptam war in der antiken und mittelalterlichen Volksheilkunde ein hochangesehenes Universalmittel: gegen Fieber, Schlangenbisse, Vergiftungen, Würmer und Frauenleiden. Man bereitete Wein mit Diptamwurzel als Verdauungstonikum. Schwangere Frauen mieden die Pflanze strikt, da sie als wehenauslösend galt. Das Räuchern mit Diptam sollte böse Geister und Seuchen vertreiben.",
     besonders_bei: ["verdauungsschwaeche", "blaehungen", "menstruationsstoerungen", "kraempfe", "fieber"],
   },

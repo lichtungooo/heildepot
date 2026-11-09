@@ -18,7 +18,7 @@ export const PRODUCT_GROUPS = [
     id: 'cbd-test-duo',
     name: 'CBD Test-Duo',
     kategorie: 'CBD-Öle',
-    desc: 'Mildes Hanfsamenöl + intensives Vollspektrum-Öl im Vergleich — der perfekte Einstieg.',
+    desc: 'Mildes Hanfsamenöl + intensives Vollspektrum-Öl im Vergleich, der perfekte Einstieg.',
     details: '10ml mildes CBD-Hanfsamenöl und 10ml intensives CBD-Hanfblütenöl (Vollspektrum) zum Kennenlernen. Insgesamt 1.000mg CBD. So kannst du beide Varianten direkt vergleichen und herausfinden welches Öl besser zu dir passt. 3 EUR Ersparnis gegenüber Einzelkauf.',
     varianten: [
       { id: 'cbd-test-duo', menge: '2x10ml (1.000mg CBD)', preis: 45 },
@@ -28,8 +28,8 @@ export const PRODUCT_GROUPS = [
     id: 'cbd-vollspektrum',
     name: 'CBD-Hanfblütenöl Vollspektrum',
     kategorie: 'CBD-Öle',
-    desc: 'Dunkles, intensives Vollspektrum-Öl mit allen Cannabinoiden und Terpenen — der Entourage-Effekt.',
-    details: 'Natives Vollspektrum-Öl mit über 400 aktiven Pflanzenstoffen: CBN, CBV, CBG, Flavonoide, Terpene, Phenole. Der Entourage-Effekt (entdeckt 1998) bedeutet: Alle Pflanzenstoffe wirken SYNERGISTISCH zusammen — Studien zeigen 2-4x höhere Wirksamkeit als CBD-Isolat. Der dunkle, intensive Geschmack ("Schwarzer Krauser") zeigt die Fülle der Inhaltsstoffe. Gleiche Dosierung wie Hanfsamenöl, aber intensivere Wirkung.',
+    desc: 'Dunkles, intensives Vollspektrum-Öl mit allen Cannabinoiden und Terpenen, der Entourage-Effekt.',
+    details: 'Natives Vollspektrum-Öl mit über 400 aktiven Pflanzenstoffen: CBN, CBV, CBG, Flavonoide, Terpene, Phenole. Der Entourage-Effekt (entdeckt 1998) bedeutet: Alle Pflanzenstoffe wirken SYNERGISTISCH zusammen: Studien zeigen 2-4x höhere Wirksamkeit als CBD-Isolat. Der dunkle, intensive Geschmack ("Schwarzer Krauser") zeigt die Fülle der Inhaltsstoffe. Gleiche Dosierung wie Hanfsamenöl, aber intensivere Wirkung.',
     varianten: [
       { id: 'cbd-vollspektrum-10', menge: '10ml (500mg CBD)', preis: 26 },
       { id: 'cbd-vollspektrum-30', menge: '30ml (1.500mg CBD)', preis: 72 },
@@ -40,7 +40,7 @@ export const PRODUCT_GROUPS = [
     id: 'zeomont',
     name: 'ZeoMont',
     kategorie: 'Detox & Darm',
-    desc: 'Super-Detox-Pulver aus 80% Zeolith + 20% Montmorillonit — die wirksamste Kombination laut Prof. Hecht.',
+    desc: 'Super-Detox-Pulver aus 80% Zeolith + 20% Montmorillonit, die wirksamste Kombination laut Prof. Hecht.',
     details: 'Prof. Dr. Karl Hecht identifizierte diese 80/20-Mischung als besonders wirksam. Doppelte Wirkung: Zeoliths Käfigstruktur fesselt Schwermetalle, Montmorillonits Quellfaehigkeit schützt die Darmschleimhaut. Bindet Quecksilber, Blei, Cadmium, Aluminium, Histamin, Mykotoxine, Glyphosat. 2x täglich 3g in 200ml Wasser. Mindestens 1 Stunde Abstand zu Medikamenten. Reines Naturmineral ohne Zusätze.',
     varianten: [
       { id: 'zeomont-400', menge: '400g', preis: 24 },
@@ -51,7 +51,7 @@ export const PRODUCT_GROUPS = [
     id: 'zeolith',
     name: 'Zeolith (Vulkanische Mineralerde)',
     kategorie: 'Detox & Darm',
-    desc: 'Reines Klinoptilolith — bis 91% Reinheit, hochfein vermahlen, Medizinprodukt Klasse IIa.',
+    desc: 'Reines Klinoptilolith, bis 91% Reinheit, hochfein vermahlen, Medizinprodukt Klasse IIa.',
     details: 'Vor 60 Millionen Jahren durch Vulkanismus entstanden. Kristalline Käfigstruktur mit enormer innerer Oberfläche. 50% der Partikel unter 8 Mikrometer. Österreichische Studie: 30 Tage bei 6g/Tag reduzierten Strahlenbelastung um 50%. Jugoslawische Studie 2000: 50 Lungenkrebspatienten, 10g/Tag, 49 gesundeten in 5 Monaten. Auch aeusserlich anwendbar: Paste gegen Insektenstiche, Psoriasis, Neurodermitis, Akne, Wundheilung. Prof. Hecht nutzt es seit über 18 Jahren täglich.',
     varianten: [
       { id: 'zeolith-400', menge: '400g', preis: 22 },
@@ -62,8 +62,8 @@ export const PRODUCT_GROUPS = [
     id: 'montmorillonit',
     name: 'Montmorillonit / Bentonit',
     kategorie: 'Detox & Darm',
-    desc: 'Quellfaehiges Dreilagen-Silikat — absorbiert das 7-fache seines Gewichts, schützt die Darmschleimhaut.',
-    details: 'Benannt nach Montmorillon (Frankreich). Vulkanischen Ursprungs, pharmazeutisch seit Jahrzehnten eingesetzt. Legt sich als dünner Schutzfilm (Gel) auf die Magen- und Darmschleimhaut. Sanfter als Zeolith — ideal für empfindliche Mägen, Sodbrennen, Reizdarm, nach Antibiotika. Napoleons Armee führte Heilerde gegen Ruhr mit. Äußerlich: Haare waschen, Hautunreinheiten, Peeling, Neurodermitis. Nicht in Plastikdosen lagern!',
+    desc: 'Quellfaehiges Dreilagen-Silikat, absorbiert das 7-fache seines Gewichts, schützt die Darmschleimhaut.',
+    details: 'Benannt nach Montmorillon (Frankreich). Vulkanischen Ursprungs, pharmazeutisch seit Jahrzehnten eingesetzt. Legt sich als dünner Schutzfilm (Gel) auf die Magen- und Darmschleimhaut. Sanfter als Zeolith, ideal für empfindliche Mägen, Sodbrennen, Reizdarm, nach Antibiotika. Napoleons Armee führte Heilerde gegen Ruhr mit. Äußerlich: Haare waschen, Hautunreinheiten, Peeling, Neurodermitis. Nicht in Plastikdosen lagern!',
     varianten: [
       { id: 'montmorillonit-400', menge: '400g', preis: 22 },
       { id: 'montmorillonit-2x400', menge: '2x400g', preis: 42 },
@@ -74,7 +74,7 @@ export const PRODUCT_GROUPS = [
     name: 'Basischer Heiltee',
     kategorie: 'Heiltee',
     desc: 'Koffeinfreie basische Kräuterteemischung aus Süßholzwurzel, Fenchel, Pfefferminze und Basilikum.',
-    details: 'Warm oder kalt ein Genuss. Für Säuren-Basen-Gleichgewicht und mehr Wohlbefinden. Süßholzwurzel (Glycyrrhiza glabra) liefert natürliche Süße und wirkt entzündungshemmend. Basilikum: antioxidativ, antibakteriell, schmerzlindernd, krebshemmend — hilft bei Stress, Verdauung, Schlafstörungen, Migräne, Menstruationsbeschwerden, Wechseljahren. 1.8g pro 200ml Tasse, mehrfach aufgiessbar.',
+    details: 'Warm oder kalt ein Genuss. Für Säuren-Basen-Gleichgewicht und mehr Wohlbefinden. Süßholzwurzel (Glycyrrhiza glabra) liefert natürliche Süße und wirkt entzündungshemmend. Basilikum: antioxidativ, antibakteriell, schmerzlindernd, krebshemmend, hilft bei Stress, Verdauung, Schlafstörungen, Migräne, Menstruationsbeschwerden, Wechseljahren. 1.8g pro 200ml Tasse, mehrfach aufgiessbar.',
     varianten: [
       { id: 'basischer-heiltee-50', menge: '50g', preis: 6 },
       { id: 'basischer-heiltee-100', menge: '100g', preis: 11 },
@@ -84,8 +84,8 @@ export const PRODUCT_GROUPS = [
     id: 'amanita-muscaria',
     name: 'Amanita Muscaria 40-Tage-Kur',
     kategorie: 'Reinsubstanzen',
-    desc: 'Decarboxylierter Fliegenpilz aus Wildsammlung — 40-Tage-Mikrodosierungsprotokoll.',
-    details: 'Russisch-sibirische Volksmedizintradition. Durch Trocknung wird Ibotensäure in Muscimol umgewandelt (Decarboxylierung). Muscimol wirkt GABAerg — wie ein sanftes natürliches Beruhigungsmittel, NICHT serotoninerg wie Psilocybin. Bei Mikrodosis NICHT psychoaktiv. Vorteile: besserer Schlaf, weniger Angst, Schmerzlinderung, Stimmungsstabilisierung. 40-Tage-Protokoll = alchemischer "philosophischer Monat". Legal in Deutschland. Ältestes Entheogen der Menschheit.',
+    desc: 'Decarboxylierter Fliegenpilz aus Wildsammlung, 40-Tage-Mikrodosierungsprotokoll.',
+    details: 'Russisch-sibirische Volksmedizintradition. Durch Trocknung wird Ibotensäure in Muscimol umgewandelt (Decarboxylierung). Muscimol wirkt GABAerg, wie ein sanftes natürliches Beruhigungsmittel, NICHT serotoninerg wie Psilocybin. Bei Mikrodosis NICHT psychoaktiv. Vorteile: besserer Schlaf, weniger Angst, Schmerzlinderung, Stimmungsstabilisierung. 40-Tage-Protokoll = alchemischer "philosophischer Monat". Legal in Deutschland. Ältestes Entheogen der Menschheit.',
     varianten: [
       { id: 'amanita-muscaria-kur', menge: '20g', preis: 15 },
     ]
@@ -94,8 +94,8 @@ export const PRODUCT_GROUPS = [
     id: 'borax',
     name: 'Borax',
     kategorie: 'Reinsubstanzen',
-    desc: 'Hochreines Natriumtetraborat (99,9+%) — zum Entsäuern, Schwermetallausleitung und Zirbeldrüsen-Reinigung.',
-    details: 'Das essentielle Spurenelement Bor. Rex Newnham entdeckte in den 1960ern die Arthritis-heilende Wirkung. EU verbot Verkauf 2010 — obwohl es eine der sichersten Substanzen ist. Hoechst basisch. Löst Kalkablagerungen aus Arterien und Zirbeldrüse. Konkurriert mit Fluorid um Bindungsstellen. Essentiell für Hormonbalance und Knochengesundheit. Stammlösung: 7g pro Liter, täglich 1 Schnapsglas mit Saft. Zirbeldrüsen-Kur: 1 Liter täglich, 5-7 Tage.',
+    desc: 'Hochreines Natriumtetraborat (99,9+%), zum Entsäuern, Schwermetallausleitung und Zirbeldrüsen-Reinigung.',
+    details: 'Das essentielle Spurenelement Bor. Rex Newnham entdeckte in den 1960ern die Arthritis-heilende Wirkung. EU verbot Verkauf 2010, obwohl es eine der sichersten Substanzen ist. Hoechst basisch. Löst Kalkablagerungen aus Arterien und Zirbeldrüse. Konkurriert mit Fluorid um Bindungsstellen. Essentiell für Hormonbalance und Knochengesundheit. Stammlösung: 7g pro Liter, täglich 1 Schnapsglas mit Saft. Zirbeldrüsen-Kur: 1 Liter täglich, 5-7 Tage.',
     varianten: [
       { id: 'borax-100', menge: '100g', preis: 9 },
       { id: 'borax-200', menge: '200g', preis: 17 },
@@ -105,7 +105,7 @@ export const PRODUCT_GROUPS = [
     id: 'schwefel',
     name: 'Anorganischer Schwefel',
     kategorie: 'Reinsubstanzen',
-    desc: 'Säurearm, 99,9+% rein — Elektronen-Spender und Darmreiniger nach Dr. Karl Probst.',
+    desc: 'Säurearm, 99,9+% rein: Elektronen-Spender und Darmreiniger nach Dr. Karl Probst.',
     details: 'Dritthäufigstes Mineral im Körper. Essentiell für Glutathion (Master-Antioxidans), Gelenkknorpel, Haut/Haare/Nägel (Keratin), Leberentgiftung Phase II. Dr. Probst: "Seine freien Elektronen laden unsere Zellen auf und seine schwefelige Säure befreit den Darm von Anhaftungen." Seit dem alten Ägypten verwendet. Innerlich: mit 1/4 TL beginnen, VIEL Wasser. Bad: 1 Tasse Vollbad, 1 EL Fußbad. Karl Lund Irgens Protokoll.',
     varianten: [
       { id: 'schwefel-500', menge: '500g', preis: 7 },
@@ -116,8 +116,8 @@ export const PRODUCT_GROUPS = [
     id: 'epsomit',
     name: 'Epsomit / Bittersalz',
     kategorie: 'Reinsubstanzen',
-    desc: 'Magnesiumsulfat — Basenmittel zum Heilen und Verjüngen, seit dem 17. Jh. aus den Quellen von Epsom.',
-    details: 'Britische Studie: 7 Tage erhöhten Blut-Magnesium von 104 auf 141 ppm/ml, Testosteron stieg ebenfalls. Magnesiummangel betrifft 50%+ der Bevölkerung. Magnesium harmonisiert Nervensystem, stabilisiert Psyche, erhöht Serotonin. Schwefel für Bindegewebe, Enzyme, Haare, Haut, Knorpel. Vollbad: 200-400g bei 38°C, 1h entspannen. Fußbad: 50g — Entgiftung über Fußsohlen. Bis 600g pro Bad sicher. Andreas Moritz Leberreinigung.',
+    desc: 'Magnesiumsulfat: Basenmittel zum Heilen und Verjüngen, seit dem 17. Jh. aus den Quellen von Epsom.',
+    details: 'Britische Studie: 7 Tage erhöhten Blut-Magnesium von 104 auf 141 ppm/ml, Testosteron stieg ebenfalls. Magnesiummangel betrifft 50%+ der Bevölkerung. Magnesium harmonisiert Nervensystem, stabilisiert Psyche, erhöht Serotonin. Schwefel für Bindegewebe, Enzyme, Haare, Haut, Knorpel. Vollbad: 200-400g bei 38°C, 1h entspannen. Fußbad: 50g: Entgiftung über Fußsohlen. Bis 600g pro Bad sicher. Andreas Moritz Leberreinigung.',
     varianten: [
       { id: 'epsomit-800', menge: '800g', preis: 6 },
       { id: 'epsomit-2x800', menge: '2x800g', preis: 10 },
@@ -128,8 +128,8 @@ export const PRODUCT_GROUPS = [
     id: 'chartres-original',
     name: 'Chartres-Meditationstafeln (Originalgeometrien)',
     kategorie: 'Meditation & Entspannung',
-    desc: 'Synchronisiere deine Gehirnhälften — das fast 2000 Jahre gehütete Geheimnis der Sinti und Roma.',
-    details: 'A3 Stofftafel (35x45cm, faltbar, waschbar) + 10 A6 Postkarten. Heilige Geometrie des Chartres-Labyrinths (1200 n.Chr.). Karte senkrecht 40-50cm vor die Augen, weicher Blick auf die Figurensaeulen bis eine dritte imaginäre Säule erscheint — Moment der Gehirnsynchronisation. Buch (8. Auflage 2018, ISBN 978-3-8436-0056-9) auf Anfrage kostenlos.',
+    desc: 'Synchronisiere deine Gehirnhälften, das fast 2000 Jahre gehütete Geheimnis der Sinti und Roma.',
+    details: 'A3 Stofftafel (35x45cm, faltbar, waschbar) + 10 A6 Postkarten. Heilige Geometrie des Chartres-Labyrinths (1200 n.Chr.). Karte senkrecht 40-50cm vor die Augen, weicher Blick auf die Figurensaeulen bis eine dritte imaginäre Säule erscheint: Moment der Gehirnsynchronisation. Buch (8. Auflage 2018, ISBN 978-3-8436-0056-9) auf Anfrage kostenlos.',
     varianten: [
       { id: 'chartres-tafeln-original', menge: 'A3 Tuch + 10 A6 Karten', preis: 10 },
     ]
@@ -146,10 +146,10 @@ export const PRODUCT_GROUPS = [
   },
   {
     id: 'baryt',
-    name: 'Baryt — Der Strahlenmagnet',
+    name: 'Baryt: Der Strahlenmagnet',
     kategorie: 'Meditation & Entspannung',
-    desc: 'Natürlicher Bariumsulfat-Stein — absorbiert elektromagnetische Strahlung.',
-    details: 'Vom griechischen "barys" (schwer) — der dichteste nicht-metallische Mineralstein. In der Industrie als Strahlenschutz in Roentgenraeumen verwendet. Natürliche Alternative: neben WLAN-Router, Computer, Smartphone-Ladestation oder unter dem Bett platzieren. Steine in verschiedenen Größen.',
+    desc: 'Natürlicher Bariumsulfat-Stein, absorbiert elektromagnetische Strahlung.',
+    details: 'Vom griechischen "barys" (schwer), der dichteste nicht-metallische Mineralstein. In der Industrie als Strahlenschutz in Roentgenraeumen verwendet. Natürliche Alternative: neben WLAN-Router, Computer, Smartphone-Ladestation oder unter dem Bett platzieren. Steine in verschiedenen Größen.',
     varianten: [
       { id: 'baryt-stein', menge: 'ca. 1kg', preis: 15 },
     ]
@@ -158,7 +158,7 @@ export const PRODUCT_GROUPS = [
     id: 'therapie-sauger',
     name: 'Therapie-Sauger',
     kategorie: 'Meditation & Entspannung',
-    desc: 'NUK-Medizinprodukt für Erwachsene — bei Stress, Angst, Zähneknirschen und Kieferpressen.',
+    desc: 'NUK-Medizinprodukt für Erwachsene, bei Stress, Angst, Zähneknirschen und Kieferpressen.',
     details: 'Erzeugt leichte Akupressur am Gaumen, versetzt Gehirn in entspannten Zustand. Naturkautschuk-Latex, extra-lang für Erwachsene. Medizinprodukt gegen: Mundatmung, Saug-/Kau-/Schluck-/Sprechstörungen, Bruxismus, Kiefergelenkschmerzen. Logopädie (Padovan-Training). PZN 02681292. Über 50 Stück im Freundeskreis verteilt. Erfahrungsberichte: 15kg Gewichtsverlust, tieferer Schlaf, kreativeres Arbeiten. 8h nächtlich = 3+ Monate Haltbarkeit.',
     varianten: [
       { id: 'therapie-sauger', menge: '1 Stück', preis: 6 },

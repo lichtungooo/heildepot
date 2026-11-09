@@ -13,21 +13,21 @@ export const HERB_DEEP_9 = {
     familie: 'Nachtschattengewächse (Solanaceae)',
     beschreibung: `Die Alraune ist eine der geheimnisvollsten Pflanzen der abendländischen Heilkunde. Ihre menschenähnlich geformte Wurzel hat über Jahrtausende die Phantasie der Menschen beflügelt und sie zur legendärsten Zauberpflanze Europas gemacht. Die rosettenartig angeordneten, dunkelgrünen Blätter liegen flach am Boden, aus ihrer Mitte entspringen violette, glockenförmige Blüten, gefolgt von gelben, tomatenähnlichen Früchten.
 
-Die Wurzel enthält starke Tropanalkaloide -- Hyoscyamin, Scopolamin und Atropin -- die in geringer Dosierung schmerzlindernd, krampflösend und beruhigend wirken, in höherer Dosis jedoch gefährliche Rauschzustände und Vergiftungen auslösen. Aus diesem Grund wird die Alraune heute nicht mehr als Hausmittel eingesetzt, sondern nur noch in der Homöopathie und als Forschungsobjekt der Pharmazie verwendet.
+Die Wurzel enthält starke Tropanalkaloide: Hyoscyamin, Scopolamin und Atropin, die in geringer Dosierung schmerzlindernd, krampflösend und beruhigend wirken, in höherer Dosis jedoch gefährliche Rauschzustände und Vergiftungen auslösen. Aus diesem Grund wird die Alraune heute nicht mehr als Hausmittel eingesetzt, sondern nur noch in der Homöopathie und als Forschungsobjekt der Pharmazie verwendet.
 
-In der modernen Pflanzenheilkunde dient sie vor allem als Erinnerung an die Doppelnatur der Heilpflanzen: Was heilt, kann auch schaden -- die Dosis macht das Gift. Die Alraune lehrt Respekt vor der Kraft der Natur.`,
-    geschichte: `Keine Pflanze ist stärker von Mythen umwoben als die Alraune. Im alten Ägypten galt sie als Fruchtbarkeitspflanze, in der Bibel wird sie als "Liebesapfel" erwähnt. Die Griechen nannten sie "Circaeum" nach der Zauberin Kirke. Im Mittelalter kursierte die Legende, die Alraune schreie beim Ausgraben so fürchterlich, dass der Sammler sterben müsse -- man band daher einen Hund an die Wurzel, der sie herausziehen sollte.
+In der modernen Pflanzenheilkunde dient sie vor allem als Erinnerung an die Doppelnatur der Heilpflanzen: Was heilt, kann auch schaden, die Dosis macht das Gift. Die Alraune lehrt Respekt vor der Kraft der Natur.`,
+    geschichte: `Keine Pflanze ist stärker von Mythen umwoben als die Alraune. Im alten Ägypten galt sie als Fruchtbarkeitspflanze, in der Bibel wird sie als "Liebesapfel" erwähnt. Die Griechen nannten sie "Circaeum" nach der Zauberin Kirke. Im Mittelalter kursierte die Legende, die Alraune schreie beim Ausgraben so fürchterlich, dass der Sammler sterben müsse, man band daher einen Hund an die Wurzel, der sie herausziehen sollte.
 
-Alraunenwurzeln wurden als "Galgenmännlein" zu horrenden Preisen gehandelt. Wer eine besaß, glaubte sich vor Krankheit, Armut und Unheil geschützt. Hildegard von Bingen empfahl die Alraune bei Melancholie -- doch stets mit dem Hinweis auf ihre Gefährlichkeit. Paracelsus nutzte sie in kontrollierten Dosen als Schmerzmittel bei Operationen.`,
+Alraunenwurzeln wurden als "Galgenmännlein" zu horrenden Preisen gehandelt. Wer eine besaß, glaubte sich vor Krankheit, Armut und Unheil geschützt. Hildegard von Bingen empfahl die Alraune bei Melancholie, doch stets mit dem Hinweis auf ihre Gefährlichkeit. Paracelsus nutzte sie in kontrollierten Dosen als Schmerzmittel bei Operationen.`,
     wirkungen: {
       hauptwirkungen: ['Schmerzlindernd (analgetisch)', 'Krampflösend (spasmolytisch)', 'Beruhigend (sedativ)', 'Halluzinogen (in höherer Dosis)', 'Pupillenerweiternd (mydriatisch)'],
       inhaltsstoffe: ['Hyoscyamin', 'Scopolamin', 'Atropin', 'Mandragorin', 'Cuskhygrin', 'Tropanalkaloide'],
     },
     ernte: {
       zeit: 'Wurzel im Herbst, wenn die Pflanze einzieht. Äußerst selten in Mitteleuropa wild vorkommend.',
-      teile: 'Wurzel -- nur unter fachkundiger Anleitung, da stark giftig.',
+      teile: 'Wurzel, nur unter fachkundiger Anleitung, da stark giftig.',
       tipps: 'Die Alraune ist keine Pflanze für die Selbstmedikation. Nur in der Homöopathie oder unter ärztlicher Aufsicht verwenden. Nicht selbst sammeln oder verarbeiten.',
-      mond: 'Traditionell wurde die Alraune bei Vollmond geerntet -- ein Relikt aus der magischen Pflanzenkunde.',
+      mond: 'Traditionell wurde die Alraune bei Vollmond geerntet, ein Relikt aus der magischen Pflanzenkunde.',
     },
     zubereitungen: [
       {
@@ -38,13 +38,13 @@ Alraunenwurzeln wurden als "Galgenmännlein" zu horrenden Preisen gehandelt. Wer
       {
         name: 'Äußere Anwendung (historisch)',
         anleitung: 'In der historischen Volksheilkunde wurde ein Brei aus geriebener Wurzel als Umschlag auf schmerzende Gelenke gelegt. Heute nicht mehr empfohlen.',
-        wirkung: 'Schmerzlinderung bei Rheuma und Gicht -- nur von historischem Interesse.',
+        wirkung: 'Schmerzlinderung bei Rheuma und Gicht, nur von historischem Interesse.',
       },
     ],
     mischungen: ['Ausschließlich als homöopathisches Einzelmittel verwenden'],
     tcm: 'In der TCM nicht gebräuchlich, jedoch der verwandten Nachtschatten-Familie zugeordnet, die kühlende und Geist-beruhigende Wirkung hat.',
     ayurveda: 'Im Ayurveda nicht direkt bekannt, jedoch Parallelen zur indischen Tollkirsche (Datura). Würde dem Tamas-Prinzip zugeordnet.',
-    volksmedizin: 'Die Alraune galt als universelles Allheilmittel: Unfruchtbarkeit, Schlaflosigkeit, Wahnsinn, Besessenheit -- für alles wurde sie eingesetzt. In Wahrheit wirkte sie vor allem als starkes Betäubungsmittel, das Schmerzen und Bewusstsein gleichermaßen dämpfte.',
+    volksmedizin: 'Die Alraune galt als universelles Allheilmittel: Unfruchtbarkeit, Schlaflosigkeit, Wahnsinn, Besessenheit, für alles wurde sie eingesetzt. In Wahrheit wirkte sie vor allem als starkes Betäubungsmittel, das Schmerzen und Bewusstsein gleichermaßen dämpfte.',
     besonders_bei: ['schmerzen', 'kraempfe', 'schlaflosigkeit', 'unruhe'],
   },
 
@@ -54,14 +54,14 @@ Alraunenwurzeln wurden als "Galgenmännlein" zu horrenden Preisen gehandelt. Wer
   'Blutweiderich': {
     vollname: 'Gewöhnlicher Blutweiderich (Lythrum salicaria)',
     familie: 'Weiderichgewächse (Lythraceae)',
-    beschreibung: `Der Blutweiderich ist eine prachtvolle Sumpf- und Uferpflanze, die mit ihren leuchtend purpurroten Blütenkerzen von Juni bis September Feuchtwiesen, Teichränder und Grabenufer schmückt. Die aufrechten, vierkantigen Stängel werden bis zu 150 cm hoch und tragen gegenständige, lanzettliche Blätter, die an Weidenblätter erinnern -- daher der Name.
+    beschreibung: `Der Blutweiderich ist eine prachtvolle Sumpf- und Uferpflanze, die mit ihren leuchtend purpurroten Blütenkerzen von Juni bis September Feuchtwiesen, Teichränder und Grabenufer schmückt. Die aufrechten, vierkantigen Stängel werden bis zu 150 cm hoch und tragen gegenständige, lanzettliche Blätter, die an Weidenblätter erinnern, daher der Name.
 
-Was viele nicht wissen: Der Blutweiderich ist eine kraftvolle Heilpflanze mit starker zusammenziehender (adstringierender) Wirkung. Seine Gerbstoffe machen ihn zu einem verlässlichen Mittel bei Durchfallerkrankungen, Darmentzündungen und Blutungen. In der französischen Kräuterkunde wird er als "Herbe aux coliques" -- Kolikenkraut -- geschätzt.
+Was viele nicht wissen: Der Blutweiderich ist eine kraftvolle Heilpflanze mit starker zusammenziehender (adstringierender) Wirkung. Seine Gerbstoffe machen ihn zu einem verlässlichen Mittel bei Durchfallerkrankungen, Darmentzündungen und Blutungen. In der französischen Kräuterkunde wird er als "Herbe aux coliques": Kolikenkraut, geschätzt.
 
-Sein hoher Gehalt an Polyphenolen und Tanninen verleiht ihm zudem antibakterielle und entzündungshemmende Eigenschaften. Am Wasser wachsend, bringt er genau die Heilkräfte hervor, die bei Beschwerden der feuchten Körperbereiche -- Darm, Schleimhäute, Harnwege -- gebraucht werden.`,
+Sein hoher Gehalt an Polyphenolen und Tanninen verleiht ihm zudem antibakterielle und entzündungshemmende Eigenschaften. Am Wasser wachsend, bringt er genau die Heilkräfte hervor, die bei Beschwerden der feuchten Körperbereiche: Darm, Schleimhäute, Harnwege, gebraucht werden.`,
     geschichte: `Der Blutweiderich war bereits in der Antike als Heilpflanze bekannt. Dioskurides beschrieb ihn als blutstillendes Mittel. Sein Name "Blut-Weiderich" bezieht sich sowohl auf die blutrote Blütenfarbe als auch auf seine traditionelle Verwendung zum Stillen von Blutungen.
 
-Im Mittelalter wurde er als Wundkraut auf Schlachtfeldern eingesetzt -- der frische Pflanzensaft wurde direkt auf blutende Wunden gepresst. In der englischen Kräutermedizin galt er als eines der besten Mittel gegen die Ruhr, die in früheren Jahrhunderten ganze Heerlager dahinraffte. Auch Pfarrer Kneipp schätzte ihn als Darmmittel.`,
+Im Mittelalter wurde er als Wundkraut auf Schlachtfeldern eingesetzt, der frische Pflanzensaft wurde direkt auf blutende Wunden gepresst. In der englischen Kräutermedizin galt er als eines der besten Mittel gegen die Ruhr, die in früheren Jahrhunderten ganze Heerlager dahinraffte. Auch Pfarrer Kneipp schätzte ihn als Darmmittel.`,
     wirkungen: {
       hauptwirkungen: ['Adstringierend (zusammenziehend)', 'Blutstillend (hämostatisch)', 'Antibakteriell', 'Entzündungshemmend', 'Durchfallhemmend', 'Wundheilend'],
       inhaltsstoffe: ['Gerbstoffe (Tannine)', 'Flavonoide (Vitexin, Orientin)', 'Polyphenole', 'Anthocyane', 'Pektine', 'Ätherisches Öl', 'Phytosterole'],
@@ -92,7 +92,7 @@ Im Mittelalter wurde er als Wundkraut auf Schlachtfeldern eingesetzt -- der fris
     mischungen: ['Durchfalltee (mit Tormentill und Heidelbeeren)', 'Darmheilmischung (mit Kamille und Eichenrinde)', 'Wundheilmischung (mit Schafgarbe und Spitzwegerich)'],
     tcm: 'Dem Blutweiderich werden kühlende und Blut-stillende Eigenschaften zugeordnet. Er klärt feuchte Hitze im unteren Erwärmer.',
     ayurveda: 'Wirkt Pitta-senkend durch seine kühlende, zusammenziehende Qualität. Reduziert übermäßiges Agni im Darm.',
-    volksmedizin: 'In der Volksmedizin galt der Blutweiderich als unfehlbares Mittel gegen die "rote Ruhr" -- den blutigen Durchfall. Auch bei starken Monatsblutungen wurde er als Tee getrunken oder als Sitzbad bereitet.',
+    volksmedizin: 'In der Volksmedizin galt der Blutweiderich als unfehlbares Mittel gegen die "rote Ruhr", den blutigen Durchfall. Auch bei starken Monatsblutungen wurde er als Tee getrunken oder als Sitzbad bereitet.',
     besonders_bei: ['durchfall', 'darmentzuendung', 'blutungen', 'wunden', 'ekzem', 'haemorrhoiden'],
   },
 
@@ -104,19 +104,19 @@ Im Mittelalter wurde er als Wundkraut auf Schlachtfeldern eingesetzt -- der fris
     familie: 'Lippenblütler (Lamiaceae)',
     beschreibung: `Das Bohnenkraut, auch Pfefferkraut oder Saturei genannt, ist weit mehr als ein Küchengewürz für Bohnengerichte. Es gehört zu den kraftvollsten verdauungsfördernden Kräutern und war in der klösterlichen Heilkunde als "Wundkraut für den Bauch" hoch geschätzt. Sein pfeffriger, leicht scharfer Geschmack verrät bereits seine wärmende, anregende Natur.
 
-Die Pflanze wird 20-40 cm hoch, mit schmalen, lanzettlichen Blättern und kleinen weißen bis blassrosa Blüten. Ihr ätherisches Öl ist reich an Carvacrol und Thymol -- den gleichen Wirkstoffen, die auch Thymian und Oregano so heilkräftig machen. Dadurch wirkt es stark antibakteriell und kann sogar gegen antibiotikaresistente Keime bestehen.
+Die Pflanze wird 20-40 cm hoch, mit schmalen, lanzettlichen Blättern und kleinen weißen bis blassrosa Blüten. Ihr ätherisches Öl ist reich an Carvacrol und Thymol, den gleichen Wirkstoffen, die auch Thymian und Oregano so heilkräftig machen. Dadurch wirkt es stark antibakteriell und kann sogar gegen antibiotikaresistente Keime bestehen.
 
 Das Bohnenkraut löst Blähungen, regt die Verdauungssäfte an und hilft dem Darm, schwer verdauliche Speisen wie Hülsenfrüchte zu verarbeiten. Daher sein Name: Man gab es traditionell immer zum Bohneneintopf, nicht nur des Geschmacks wegen, sondern damit die Bohnen keine Blähungen verursachen.`,
-    geschichte: `Schon die Römer kannten das Bohnenkraut als "Satureja" -- abgeleitet von den Satyrn, den lustigen Waldgeistern. Das Kraut galt als starkes Aphrodisiakum, weshalb es in mittelalterlichen Klostergärten eigentlich verboten war. Die Mönche pflanzten es trotzdem an -- offiziell als Verdauungsmittel.
+    geschichte: `Schon die Römer kannten das Bohnenkraut als "Satureja", abgeleitet von den Satyrn, den lustigen Waldgeistern. Das Kraut galt als starkes Aphrodisiakum, weshalb es in mittelalterlichen Klostergärten eigentlich verboten war. Die Mönche pflanzten es trotzdem an, offiziell als Verdauungsmittel.
 
-Karl der Große ordnete in seiner "Capitulare de villis" den Anbau in allen Klostergärten an. Hildegard von Bingen empfahl es bei Gicht und Magenleiden. In der traditionellen Kräuterkunde Südeuropas wurde das Bohnenkraut bei Bienenstichen und Insektenbissen eingesetzt -- der frische Pflanzensaft lindert den Juckreiz sofort.`,
+Karl der Große ordnete in seiner "Capitulare de villis" den Anbau in allen Klostergärten an. Hildegard von Bingen empfahl es bei Gicht und Magenleiden. In der traditionellen Kräuterkunde Südeuropas wurde das Bohnenkraut bei Bienenstichen und Insektenbissen eingesetzt, der frische Pflanzensaft lindert den Juckreiz sofort.`,
     wirkungen: {
       hauptwirkungen: ['Verdauungsfördernd (karminativ)', 'Blähungstreibend', 'Antibakteriell', 'Krampflösend', 'Appetitanregend', 'Schleimlösend', 'Aphrodisierend'],
       inhaltsstoffe: ['Carvacrol', 'Thymol', 'Ätherisches Öl', 'Gerbstoffe', 'Rosmarinsäure', 'Ursolsäure', 'Flavonoide', 'Vitamin C'],
     },
     ernte: {
       zeit: 'Kurz vor oder während der Blüte von Juli bis September, wenn der Gehalt an ätherischen Ölen am höchsten ist.',
-      teile: 'Blühendes Kraut -- obere Triebspitzen.',
+      teile: 'Blühendes Kraut, obere Triebspitzen.',
       tipps: 'An einem warmen, sonnigen Vormittag ernten, wenn der Tau abgetrocknet ist. Schnell trocknen, damit die ätherischen Öle erhalten bleiben. Das getrocknete Kraut behält sein Aroma gut.',
       mond: 'Bei zunehmendem Mond in Feuerzeichen (Widder, Löwe, Schütze) ernten für maximalen Ölgehalt.',
     },
@@ -129,7 +129,7 @@ Karl der Große ordnete in seiner "Capitulare de villis" den Anbau in allen Klos
       {
         name: 'Bohnenkraut-Öl (äußerlich)',
         anleitung: 'Eine Handvoll frisches Kraut in 200ml Olivenöl einlegen, 3 Wochen an einem sonnigen Ort ziehen lassen. Abseihen und für Einreibungen verwenden.',
-        wirkung: 'Bei Muskelschmerzen, Rheuma und kalten Füßen -- wärmt und durchblutet.',
+        wirkung: 'Bei Muskelschmerzen, Rheuma und kalten Füßen, wärmt und durchblutet.',
       },
       {
         name: 'Bohnenkraut-Honig',
@@ -140,7 +140,7 @@ Karl der Große ordnete in seiner "Capitulare de villis" den Anbau in allen Klos
     mischungen: ['Verdauungstee (mit Fenchel und Anis)', 'Erkältungstee (mit Thymian und Salbei)', 'Blähungstee (mit Kümmel und Pfefferminze)'],
     tcm: 'Das Bohnenkraut ist warm und scharf, es stärkt das Milz-Qi und wärmt die Mitte. Es vertreibt Kälte und Feuchtigkeit aus dem mittleren Erwärmer.',
     ayurveda: 'Bohnenkraut erhöht Pitta und Agni, reduziert Vata und Kapha. Hervorragend bei schwacher Verdauung und Ama-Ansammlung.',
-    volksmedizin: 'In Südfrankreich und Italien war Bohnenkraut das erste Mittel bei Bienenstichen -- ein zerriebenes Blatt direkt auf den Stich gedrückt. Auch als "Gewürz der Liebe" war es bekannt: Junge Paare erhielten Bohnenkraut-Sträußchen zur Hochzeit.',
+    volksmedizin: 'In Südfrankreich und Italien war Bohnenkraut das erste Mittel bei Bienenstichen, ein zerriebenes Blatt direkt auf den Stich gedrückt. Auch als "Gewürz der Liebe" war es bekannt: Junge Paare erhielten Bohnenkraut-Sträußchen zur Hochzeit.',
     besonders_bei: ['blaehungen', 'verdauung', 'appetitlosigkeit', 'erkaeltung', 'husten', 'muskelschmerzen'],
   },
 
@@ -150,14 +150,14 @@ Karl der Große ordnete in seiner "Capitulare de villis" den Anbau in allen Klos
   'Braunelle': {
     vollname: 'Kleine Braunelle (Prunella vulgaris)',
     familie: 'Lippenblütler (Lamiaceae)',
-    beschreibung: `Die Kleine Braunelle ist eine bescheidene, am Boden kriechende Wiesenpflanze, die man leicht übersieht -- und doch birgt sie beachtliche Heilkräfte. Ihre violetten, lippenförmigen Blüten stehen in dichten, walzenförmigen Scheinähren auf nur 5-25 cm hohen Stängeln. Sie blüht von Juni bis Oktober und besiedelt Rasenflächen, Wegränder und Waldlichtungen in ganz Europa.
+    beschreibung: `Die Kleine Braunelle ist eine bescheidene, am Boden kriechende Wiesenpflanze, die man leicht übersieht, und doch birgt sie beachtliche Heilkräfte. Ihre violetten, lippenförmigen Blüten stehen in dichten, walzenförmigen Scheinähren auf nur 5-25 cm hohen Stängeln. Sie blüht von Juni bis Oktober und besiedelt Rasenflächen, Wegränder und Waldlichtungen in ganz Europa.
 
-Ihr englischer Name "Self-Heal" verrät, was die Kräuterkundigen vergangener Jahrhunderte in ihr sahen: eine Pflanze, die der Körper braucht, um sich selbst zu heilen. Die Braunelle wirkt stark antiviral -- insbesondere gegen Herpesviren -- und ist eines der wenigen Kräuter, die nachweislich die Vermehrung von Viren hemmen können. Ihre Rosmarinsäure bindet an Viruspartikel und verhindert deren Eindringen in die Zellen.
+Ihr englischer Name "Self-Heal" verrät, was die Kräuterkundigen vergangener Jahrhunderte in ihr sahen: eine Pflanze, die der Körper braucht, um sich selbst zu heilen. Die Braunelle wirkt stark antiviral, insbesondere gegen Herpesviren, und ist eines der wenigen Kräuter, die nachweislich die Vermehrung von Viren hemmen können. Ihre Rosmarinsäure bindet an Viruspartikel und verhindert deren Eindringen in die Zellen.
 
 Darüber hinaus ist sie ein verlässliches Wundheilmittel mit antibakterieller und entzündungshemmender Wirkung. In der chinesischen Medizin gehört sie zu den wichtigen Arzneipflanzen und wird bei ganz anderen Indikationen eingesetzt als im Westen.`,
-    geschichte: `Die Braunelle hat ihren deutschen Namen von der "Bräune" -- der alten Bezeichnung für Halsentzündungen und Diphtherie, gegen die sie eingesetzt wurde. Im 16. Jahrhundert schrieb der Kräuterkundige John Gerard: "Es gibt auf der ganzen Welt kein besseres Wundkraut."
+    geschichte: `Die Braunelle hat ihren deutschen Namen von der "Bräune", der alten Bezeichnung für Halsentzündungen und Diphtherie, gegen die sie eingesetzt wurde. Im 16. Jahrhundert schrieb der Kräuterkundige John Gerard: "Es gibt auf der ganzen Welt kein besseres Wundkraut."
 
-In der chinesischen Medizin wird Xia Ku Cao (die Fruchtähre der Braunelle) seit über 2000 Jahren verwendet -- allerdings vorrangig bei Augenleiden, Kopfschmerzen und zur Senkung von Leberfeuer. Die nordamerikanischen Ureinwohner nutzten sie als universelles Erste-Hilfe-Kraut -- kauten die Blätter und legten sie auf Wunden, Verbrennungen und entzündete Hautstellen.`,
+In der chinesischen Medizin wird Xia Ku Cao (die Fruchtähre der Braunelle) seit über 2000 Jahren verwendet, allerdings vorrangig bei Augenleiden, Kopfschmerzen und zur Senkung von Leberfeuer. Die nordamerikanischen Ureinwohner nutzten sie als universelles Erste-Hilfe-Kraut, kauten die Blätter und legten sie auf Wunden, Verbrennungen und entzündete Hautstellen.`,
     wirkungen: {
       hauptwirkungen: ['Antiviral (besonders gegen Herpesviren)', 'Antibakteriell', 'Entzündungshemmend', 'Wundheilend', 'Blutdrucksenkend', 'Immunmodulierend', 'Leberkühlend (TCM)'],
       inhaltsstoffe: ['Rosmarinsäure', 'Ursolsäure', 'Oleanolsäure', 'Flavonoide', 'Gerbstoffe', 'Triterpene', 'Ätherisches Öl', 'Betulininsäure'],
@@ -165,7 +165,7 @@ In der chinesischen Medizin wird Xia Ku Cao (die Fruchtähre der Braunelle) seit
     ernte: {
       zeit: 'Blühendes Kraut von Juni bis August. Die Fruchtähren im Spätsommer für TCM-Zubereitungen.',
       teile: 'Blühendes Kraut oder die reifen Fruchtähren.',
-      tipps: 'Wächst häufig unbemerkt im eigenen Rasen -- besonders auf nicht zu kurz gemähten Flächen. An einem trockenen, sonnigen Tag ernten.',
+      tipps: 'Wächst häufig unbemerkt im eigenen Rasen, besonders auf nicht zu kurz gemähten Flächen. An einem trockenen, sonnigen Tag ernten.',
       mond: 'Bei zunehmendem Mond für Tees und Tinkturen, die Fruchtähren bei Vollmond.',
     },
     zubereitungen: [
@@ -198,14 +198,14 @@ In der chinesischen Medizin wird Xia Ku Cao (die Fruchtähre der Braunelle) seit
   'Currystrauch': {
     vollname: 'Italienische Strohblume (Helichrysum italicum)',
     familie: 'Korbblütler (Asteraceae)',
-    beschreibung: `Der Currystrauch -- auch Italienische Strohblume oder Immortelle genannt -- ist ein silbergrauer, aromatischer Halbstrauch des Mittelmeerraums, der nach Curry duftet, obwohl er mit dem Currygewürz nichts zu tun hat. Seine schmalen, nadelartigen Blätter und leuchtend goldgelben Blütenköpfchen machen ihn zu einer der schönsten mediterranen Heilpflanzen.
+    beschreibung: `Der Currystrauch, auch Italienische Strohblume oder Immortelle genannt, ist ein silbergrauer, aromatischer Halbstrauch des Mittelmeerraums, der nach Curry duftet, obwohl er mit dem Currygewürz nichts zu tun hat. Seine schmalen, nadelartigen Blätter und leuchtend goldgelben Blütenköpfchen machen ihn zu einer der schönsten mediterranen Heilpflanzen.
 
-Das ätherische Öl der Immortelle gehört zu den kostbarsten und wirksamsten Pflanzenölen überhaupt. Es besitzt eine einzigartige Fähigkeit, Blutergüsse aufzulösen, Narben zu glätten und entzündete Haut zu heilen. In der Aromatherapie gilt Immortellenöl als "Arnika in flüssiger Form" -- nur noch wirksamer, weil es auch bei empfindlicher Haut und offenen Wunden angewandt werden kann.
+Das ätherische Öl der Immortelle gehört zu den kostbarsten und wirksamsten Pflanzenölen überhaupt. Es besitzt eine einzigartige Fähigkeit, Blutergüsse aufzulösen, Narben zu glätten und entzündete Haut zu heilen. In der Aromatherapie gilt Immortellenöl als "Arnika in flüssiger Form", nur noch wirksamer, weil es auch bei empfindlicher Haut und offenen Wunden angewandt werden kann.
 
-Die Pflanze verdankt ihren Namen "Immortelle" (die Unsterbliche) der Tatsache, dass ihre Blüten auch nach dem Trocknen ihre goldgelbe Farbe und Form behalten -- als würden sie der Vergänglichkeit trotzen. Diese Signatur spiegelt sich in der Wirkung auf die Haut wider: Anti-Aging, Regeneration, Verjüngung.`,
-    geschichte: `In der griechischen Mythologie soll die Immortelle dem Gott Apollo geweiht gewesen sein. Die getrockneten Blüten wurden als Opfergaben in Tempeln verbrannt -- ihr Duft galt als götterfreundlich. Im Mittelmeerraum schmückten Frauen ihre Haare mit den unvergänglichen Blüten als Symbol ewiger Schönheit.
+Die Pflanze verdankt ihren Namen "Immortelle" (die Unsterbliche) der Tatsache, dass ihre Blüten auch nach dem Trocknen ihre goldgelbe Farbe und Form behalten, als würden sie der Vergänglichkeit trotzen. Diese Signatur spiegelt sich in der Wirkung auf die Haut wider: Anti-Aging, Regeneration, Verjüngung.`,
+    geschichte: `In der griechischen Mythologie soll die Immortelle dem Gott Apollo geweiht gewesen sein. Die getrockneten Blüten wurden als Opfergaben in Tempeln verbrannt, ihr Duft galt als götterfreundlich. Im Mittelmeerraum schmückten Frauen ihre Haare mit den unvergänglichen Blüten als Symbol ewiger Schönheit.
 
-Auf Korsika und Sardinien wird die Immortelle seit Generationen in der Volksmedizin eingesetzt -- bei Prellungen, Verstauchungen und Atemwegserkrankungen. Die moderne Erforschung ihrer Wirkstoffe begann erst in den 1990er Jahren, als französische Aromatherapeuten ihre erstaunliche Wirkung auf Hämatome dokumentierten.`,
+Auf Korsika und Sardinien wird die Immortelle seit Generationen in der Volksmedizin eingesetzt, bei Prellungen, Verstauchungen und Atemwegserkrankungen. Die moderne Erforschung ihrer Wirkstoffe begann erst in den 1990er Jahren, als französische Aromatherapeuten ihre erstaunliche Wirkung auf Hämatome dokumentierten.`,
     wirkungen: {
       hauptwirkungen: ['Hämatom-auflösend (antikoagulant)', 'Entzündungshemmend', 'Wundheilend', 'Narbenglättend', 'Hautregenerierend', 'Schleimlösend', 'Antiallergisch'],
       inhaltsstoffe: ['Ätherisches Öl (Nerylacetat, Italidione)', 'Flavonoide', 'Phytosterole', 'Acetophenone', 'Diketone', 'Rosmarinsäure', 'Kaffeesäure'],
@@ -236,7 +236,7 @@ Auf Korsika und Sardinien wird die Immortelle seit Generationen in der Volksmedi
     mischungen: ['Erste-Hilfe-Öl (mit Arnika und Johanniskrautöl)', 'Anti-Aging-Gesichtsöl (mit Rosenöl und Weihrauch)', 'Erkältungstee (mit Thymian und Holunder)'],
     tcm: 'Die Immortelle bewegt Blut-Stase, kühlt Hitze in der Haut und transformiert Schleim. Sie wirkt auf die Leber- und Lungenleitbahn.',
     ayurveda: 'Wirkt auf alle drei Doshas harmonisierend, besonders Pitta-kühlend bei Hautentzündungen. Fördert die Hautregeneration über das Bhrajaka Pitta.',
-    volksmedizin: 'Auf Korsika reiben sich Bauern und Hirten seit jeher mit Immortellenöl ein, wenn sie sich beim Arbeiten prellen oder stoßen. Die goldgelben Blüten galten als "Sonnengold" -- wer sie bei sich trug, war vor Unfällen geschützt.',
+    volksmedizin: 'Auf Korsika reiben sich Bauern und Hirten seit jeher mit Immortellenöl ein, wenn sie sich beim Arbeiten prellen oder stoßen. Die goldgelben Blüten galten als "Sonnengold", wer sie bei sich trug, war vor Unfällen geschützt.',
     besonders_bei: ['bluterguss', 'narben', 'haut', 'prellungen', 'husten', 'allergie', 'anti-aging'],
   },
 
@@ -251,9 +251,9 @@ Auf Korsika und Sardinien wird die Immortelle seit Generationen in der Volksmedi
 Sein Name "Teucrium" geht auf den trojanischen König Teukros zurück, der die Heilkraft der Pflanze entdeckt haben soll. Jahrhundertelang galt der Edelgamander als hervorragendes Verdauungsmittel, Gichtmittel und Stärkungsmittel. In den 1990er Jahren wurde jedoch entdeckt, dass bestimmte Diterpene in der Pflanze bei längerer, hochdosierter Einnahme leberschädigend wirken können.
 
 Heute wird der Edelgamander in niedrigen Dosen und für kurze Anwendungszeiträume als Bittermittel bei Appetitlosigkeit und Verdauungsschwäche eingesetzt. Äußerlich bleibt er unbedenklich und wertvoll als Wundheilmittel und Mundspülung.`,
-    geschichte: `Der Edelgamander war seit der Antike ein geschätztes Heilkraut. Die alten Griechen verwendeten ihn gegen Gicht und als Gegengift. Im Mittelalter war er fester Bestandteil des berühmten "Theriak" -- des universellen Gegengifts, das in jeder Apotheke vorrätig sein musste.
+    geschichte: `Der Edelgamander war seit der Antike ein geschätztes Heilkraut. Die alten Griechen verwendeten ihn gegen Gicht und als Gegengift. Im Mittelalter war er fester Bestandteil des berühmten "Theriak", des universellen Gegengifts, das in jeder Apotheke vorrätig sein musste.
 
-Karl der Große ließ ihn in der "Capitulare de villis" als Pflichtpflanze für Klostergärten aufführen. Hildegard von Bingen empfahl ihn bei Fieber und Verdauungsschwäche. Erst die moderne Phytopharmazie entdeckte die Hepatotoxizität bei Überdosierung, was zu einer Neubewertung führte -- ein lehrreiches Beispiel dafür, dass traditionelles Wissen und moderne Forschung sich ergänzen müssen.`,
+Karl der Große ließ ihn in der "Capitulare de villis" als Pflichtpflanze für Klostergärten aufführen. Hildegard von Bingen empfahl ihn bei Fieber und Verdauungsschwäche. Erst die moderne Phytopharmazie entdeckte die Hepatotoxizität bei Überdosierung, was zu einer Neubewertung führte, ein lehrreiches Beispiel dafür, dass traditionelles Wissen und moderne Forschung sich ergänzen müssen.`,
     wirkungen: {
       hauptwirkungen: ['Verdauungsfördernd (Bittermittel)', 'Appetitanregend', 'Entzündungshemmend (äußerlich)', 'Adstringierend', 'Wundheilend', 'Fiebersenkend'],
       inhaltsstoffe: ['Bitterstoffe', 'Flavonoide', 'Gerbstoffe', 'Diterpene (Teucrin A)', 'Ätherisches Öl', 'Phenylpropanoide'],
@@ -272,14 +272,14 @@ Karl der Große ließ ihn in der "Capitulare de villis" als Pflichtpflanze für 
       },
       {
         name: 'Edelgamander-Mundspülung',
-        anleitung: 'Aufguss aus 2 TL Kraut auf 250ml Wasser, 10 Minuten ziehen lassen. Abkühlen lassen und mehrmals täglich gurgeln -- nicht schlucken.',
+        anleitung: 'Aufguss aus 2 TL Kraut auf 250ml Wasser, 10 Minuten ziehen lassen. Abkühlen lassen und mehrmals täglich gurgeln, nicht schlucken.',
         wirkung: 'Bei Zahnfleischentzündung, Aphten und Rachenentzündung.',
       },
     ],
     mischungen: ['Bittertee (mit Enzian und Tausendgüldenkraut)', 'Gurgelmischung (mit Salbei und Myrrhe)'],
     tcm: 'Dem Edelgamander werden bitter-kühle Eigenschaften zugeordnet, die das Leber-Qi bewegen und feuchte Hitze ausleiten.',
     ayurveda: 'Bitter und leicht, reduziert Kapha und Pitta. Stärkt das Verdauungsfeuer Agni, muss jedoch zurückhaltend dosiert werden.',
-    volksmedizin: 'Im Mittelmeerraum war der Edelgamander das "Gichtkraut" schlechthin. Gichtkranke tranken wochenlang Gamander-Tee und berichteten über Besserung. Das heutige Wissen um die Leberbelastung mahnt zur Vorsicht -- kurzzeitige Anwendung in niedriger Dosis bleibt jedoch vertretbar.',
+    volksmedizin: 'Im Mittelmeerraum war der Edelgamander das "Gichtkraut" schlechthin. Gichtkranke tranken wochenlang Gamander-Tee und berichteten über Besserung. Das heutige Wissen um die Leberbelastung mahnt zur Vorsicht, kurzzeitige Anwendung in niedriger Dosis bleibt jedoch vertretbar.',
     besonders_bei: ['appetitlosigkeit', 'verdauung', 'zahnfleisch', 'mundschleimhaut'],
   },
 
@@ -289,28 +289,28 @@ Karl der Große ließ ihn in der "Capitulare de villis" als Pflichtpflanze für 
   'Faulbaum': {
     vollname: 'Faulbaum (Frangula alnus / Rhamnus frangula)',
     familie: 'Kreuzdorngewächse (Rhamnaceae)',
-    beschreibung: `Der Faulbaum ist ein unauffälliger Strauch oder kleiner Baum an Waldrändern, Mooren und feuchten Gebüschen, der einen fauligen Geruch verströmt, wenn man seine Rinde ritzt -- daher sein wenig schmeichelhafter Name. Doch in dieser übel riechenden Rinde steckt eines der zuverlässigsten pflanzlichen Abführmittel der europäischen Heilkunde.
+    beschreibung: `Der Faulbaum ist ein unauffälliger Strauch oder kleiner Baum an Waldrändern, Mooren und feuchten Gebüschen, der einen fauligen Geruch verströmt, wenn man seine Rinde ritzt, daher sein wenig schmeichelhafter Name. Doch in dieser übel riechenden Rinde steckt eines der zuverlässigsten pflanzlichen Abführmittel der europäischen Heilkunde.
 
-Die Rinde enthält Anthrachinone -- Glucofranguline und Franguline -- die im Dickdarm von Bakterien in ihre wirksame Form umgewandelt werden. Dort regen sie die Darmbewegung an und fördern die Wassereinlagerung im Darm, wodurch der Stuhl weicher wird und leichter abgeht. Die Wirkung setzt 8-12 Stunden nach der Einnahme ein.
+Die Rinde enthält Anthrachinone: Glucofranguline und Franguline, die im Dickdarm von Bakterien in ihre wirksame Form umgewandelt werden. Dort regen sie die Darmbewegung an und fördern die Wassereinlagerung im Darm, wodurch der Stuhl weicher wird und leichter abgeht. Die Wirkung setzt 8-12 Stunden nach der Einnahme ein.
 
-Wichtig ist, dass nur abgelagerte oder getrocknete Rinde verwendet wird -- frische Rinde enthält Frangulanin, das starkes Erbrechen und Durchfall auslöst. Erst nach mindestens einem Jahr Lagerung oder durch Hitzebehandlung wandelt sich dieser aggressive Stoff in die verträglichen Anthranoide um.`,
+Wichtig ist, dass nur abgelagerte oder getrocknete Rinde verwendet wird, frische Rinde enthält Frangulanin, das starkes Erbrechen und Durchfall auslöst. Erst nach mindestens einem Jahr Lagerung oder durch Hitzebehandlung wandelt sich dieser aggressive Stoff in die verträglichen Anthranoide um.`,
     geschichte: `Der Faulbaum wurde schon im Mittelalter als Abführmittel verwendet, allerdings oft mit heftigen Nebenwirkungen, weil man die Rinde zu frisch einsetzte. Erst die Erfahrung lehrte, dass die Rinde "reifen" muss. In den Apotheken wurde Faulbaumrinde unter dem Namen "Cortex Frangulae" geführt und war eines der meistverkauften Mittel.
 
-Der Name "Frangula" leitet sich vom lateinischen "frangere" (brechen) ab -- wegen der leicht brechbaren Zweige. In der Volksheilkunde wurde der Faulbaum auch "Pulverholz" genannt, weil die getrocknete Rinde leicht zu Pulver zermahlen werden konnte. Pfarrer Kneipp empfahl Faulbaumrinde als das sanfteste unter den starken Abführmitteln.`,
+Der Name "Frangula" leitet sich vom lateinischen "frangere" (brechen) ab, wegen der leicht brechbaren Zweige. In der Volksheilkunde wurde der Faulbaum auch "Pulverholz" genannt, weil die getrocknete Rinde leicht zu Pulver zermahlen werden konnte. Pfarrer Kneipp empfahl Faulbaumrinde als das sanfteste unter den starken Abführmitteln.`,
     wirkungen: {
       hauptwirkungen: ['Abführend (laxativ)', 'Darmperistaltik anregend', 'Stuhlaufweichend', 'Gallefluss fördernd'],
       inhaltsstoffe: ['Glucofranguline A und B', 'Franguline', 'Anthrachinone', 'Emodin', 'Gerbstoffe', 'Flavonoide', 'Peptidalkaloide'],
     },
     ernte: {
       zeit: 'Rinde im Frühjahr (April-Mai) von 3-4 Jahre alten Zweigen schälen.',
-      teile: 'Rinde -- nur nach mindestens 1 Jahr Trocknung verwenden.',
+      teile: 'Rinde, nur nach mindestens 1 Jahr Trocknung verwenden.',
       tipps: 'Frische Rinde niemals verwenden, sie verursacht heftiges Erbrechen. Die Rinde muss mindestens ein Jahr gelagert oder 1 Stunde auf 100°C erhitzt werden.',
       mond: 'Rinde bei abnehmendem Mond ernten.',
     },
     zubereitungen: [
       {
         name: 'Faulbaumrinden-Tee',
-        anleitung: '1 TL gut getrocknete, abgelagerte Rinde in 250ml kaltem Wasser ansetzen, kurz aufkochen, 10 Minuten ziehen lassen. Abends eine Tasse trinken -- die Wirkung tritt am nächsten Morgen ein.',
+        anleitung: '1 TL gut getrocknete, abgelagerte Rinde in 250ml kaltem Wasser ansetzen, kurz aufkochen, 10 Minuten ziehen lassen. Abends eine Tasse trinken, die Wirkung tritt am nächsten Morgen ein.',
         wirkung: 'Sanftes, zuverlässiges Abführmittel bei Verstopfung.',
       },
       {
@@ -332,14 +332,14 @@ Der Name "Frangula" leitet sich vom lateinischen "frangere" (brechen) ab -- wege
   'Feige': {
     vollname: 'Echte Feige (Ficus carica)',
     familie: 'Maulbeergewächse (Moraceae)',
-    beschreibung: `Die Feige ist eine der ältesten Kulturpflanzen der Menschheit und weit mehr als eine süße Frucht. Der knorrige, weitverzweigte Baum mit seinen großen, handförmig gelappten Blättern ist ein Symbol des Mittelmeerraums und der biblischen Welt. Die Frucht -- botanisch eine Scheinbeere mit nach innen gewandten Blüten -- ist ein konzentriertes Kraftpaket aus Mineralien, Ballaststoffen und Enzymen.
+    beschreibung: `Die Feige ist eine der ältesten Kulturpflanzen der Menschheit und weit mehr als eine süße Frucht. Der knorrige, weitverzweigte Baum mit seinen großen, handförmig gelappten Blättern ist ein Symbol des Mittelmeerraums und der biblischen Welt. Die Frucht, botanisch eine Scheinbeere mit nach innen gewandten Blüten, ist ein konzentriertes Kraftpaket aus Mineralien, Ballaststoffen und Enzymen.
 
-Frische Feigen enthalten das eiweißspaltende Enzym Ficin, das die Verdauung fördert und traditionell zum Zartmachen von Fleisch verwendet wurde. Getrocknete Feigen sind besonders reich an Kalium, Kalzium, Magnesium und Eisen -- ein natürliches Mineralpräparat. Ihr hoher Ballaststoffgehalt macht sie zu einem der angenehmsten natürlichen Abführmittel.
+Frische Feigen enthalten das eiweißspaltende Enzym Ficin, das die Verdauung fördert und traditionell zum Zartmachen von Fleisch verwendet wurde. Getrocknete Feigen sind besonders reich an Kalium, Kalzium, Magnesium und Eisen, ein natürliches Mineralpräparat. Ihr hoher Ballaststoffgehalt macht sie zu einem der angenehmsten natürlichen Abführmittel.
 
-Weniger bekannt ist die Heilkraft des Feigenblatts: Es enthält Furanocumarine und Flavonoide, die den Blutzucker senken und in der Volksmedizin bei Diabetes eingesetzt werden. Auch der Milchsaft der Feige hat heilende Eigenschaften -- er wird traditionell gegen Warzen aufgetragen.`,
-    geschichte: `Die Feige ist vermutlich die älteste von Menschen kultivierte Frucht -- archäologische Funde datieren ihren Anbau auf 9400 v. Chr., noch vor dem Getreide. In der Bibel ist die Feige allgegenwärtig: Adam und Eva bedeckten sich mit Feigenblättern, Jesus verfluchte einen unfruchtbaren Feigenbaum. Im Islam gilt die Feige als heilige Frucht -- ihr ist eine eigene Sure gewidmet.
+Weniger bekannt ist die Heilkraft des Feigenblatts: Es enthält Furanocumarine und Flavonoide, die den Blutzucker senken und in der Volksmedizin bei Diabetes eingesetzt werden. Auch der Milchsaft der Feige hat heilende Eigenschaften, er wird traditionell gegen Warzen aufgetragen.`,
+    geschichte: `Die Feige ist vermutlich die älteste von Menschen kultivierte Frucht, archäologische Funde datieren ihren Anbau auf 9400 v. Chr., noch vor dem Getreide. In der Bibel ist die Feige allgegenwärtig: Adam und Eva bedeckten sich mit Feigenblättern, Jesus verfluchte einen unfruchtbaren Feigenbaum. Im Islam gilt die Feige als heilige Frucht, ihr ist eine eigene Sure gewidmet.
 
-Im antiken Griechenland waren Feigen das Hauptnahrungsmittel der Athleten. Die Römer verehrten den Feigenbaum als heilig -- unter einer Feige soll die Wölfin Romulus und Remus gesäugt haben. In der arabischen Medizin galt die Feige als Universalheilmittel: Ibn Sina (Avicenna) empfahl sie bei Leber- und Milzleiden, bei Husten und als Kräftigungsmittel.`,
+Im antiken Griechenland waren Feigen das Hauptnahrungsmittel der Athleten. Die Römer verehrten den Feigenbaum als heilig, unter einer Feige soll die Wölfin Romulus und Remus gesäugt haben. In der arabischen Medizin galt die Feige als Universalheilmittel: Ibn Sina (Avicenna) empfahl sie bei Leber- und Milzleiden, bei Husten und als Kräftigungsmittel.`,
     wirkungen: {
       hauptwirkungen: ['Verdauungsfördernd', 'Mild abführend', 'Mineralienzufuhr', 'Hustenlindernd', 'Blutzuckerregulierend (Blätter)', 'Warzenentfernend (Milchsaft)', 'Entzündungshemmend'],
       inhaltsstoffe: ['Ficin (Enzym)', 'Kalium', 'Kalzium', 'Magnesium', 'Eisen', 'Ballaststoffe (Pektin)', 'Furanocumarine (Blätter)', 'Flavonoide', 'Zucker (Fructose, Glucose)', 'Vitamin B6'],
@@ -375,7 +375,7 @@ Im antiken Griechenland waren Feigen das Hauptnahrungsmittel der Athleten. Die R
     mischungen: ['Verdauungskompott (mit Pflaumen und Leinsamen)', 'Mineralienmischung (mit Datteln und Aprikosen)', 'Hustensirup (mit Thymian und Honig)'],
     tcm: 'Die Feige nährt Yin und befeuchtet Trockenheit. Sie stärkt Milz und Magen und befeuchtet den Darm. Thermisch neutral bis leicht kühlend.',
     ayurveda: 'Feigen sind süß, kühlend und schwer. Sie reduzieren Vata und Pitta, können jedoch Kapha erhöhen. Hervorragend als Rasayana (Verjüngungsmittel) für erschöpfte Menschen.',
-    volksmedizin: 'Im gesamten Mittelmeerraum galten Feigen als "Brot der Armen" -- nahrhaft, heilsam und für jeden erschwinglich. Bei Zahnschmerzen kaute man getrocknete Feigen, bei Furunkel legte man eine aufgeschnittene, warme Feige auf die Eiterbeule, um sie zum Aufbrechen zu bringen.',
+    volksmedizin: 'Im gesamten Mittelmeerraum galten Feigen als "Brot der Armen", nahrhaft, heilsam und für jeden erschwinglich. Bei Zahnschmerzen kaute man getrocknete Feigen, bei Furunkel legte man eine aufgeschnittene, warme Feige auf die Eiterbeule, um sie zum Aufbrechen zu bringen.',
     besonders_bei: ['verstopfung', 'husten', 'diabetes', 'mineralstoffmangel', 'warzen', 'erschoepfung'],
   },
 
@@ -385,14 +385,14 @@ Im antiken Griechenland waren Feigen das Hauptnahrungsmittel der Athleten. Die R
   'Feigenkaktus': {
     vollname: 'Feigenkaktus (Opuntia ficus-indica)',
     familie: 'Kakteengewächse (Cactaceae)',
-    beschreibung: `Der Feigenkaktus -- auch Kaktusfeige oder Nopal genannt -- ist eine der vielseitigsten Heilpflanzen der neuen Welt. Mit seinen flachen, ovalen Sprossgliedern und den stacheligen, süßen Früchten prägt er die Landschaften Mexikos, Nordafrikas und des Mittelmeerraums. Was auf den ersten Blick wie eine bizarre Wüstenpflanze aussieht, ist in Wahrheit eine hochpotente Nahrungsmedizin.
+    beschreibung: `Der Feigenkaktus, auch Kaktusfeige oder Nopal genannt, ist eine der vielseitigsten Heilpflanzen der neuen Welt. Mit seinen flachen, ovalen Sprossgliedern und den stacheligen, süßen Früchten prägt er die Landschaften Mexikos, Nordafrikas und des Mittelmeerraums. Was auf den ersten Blick wie eine bizarre Wüstenpflanze aussieht, ist in Wahrheit eine hochpotente Nahrungsmedizin.
 
 Die jungen Sprossglieder (Nopalitos) werden in Mexiko als Gemüse gegessen und sind reich an Schleimstoffen, Pektinen und Ballaststoffen, die den Blutzuckerspiegel stabilisieren und Cholesterin senken. Die Früchte sind wahre Vitamin-Bomben mit hohem Gehalt an Vitamin C, Magnesium und dem seltenen Farbstoff Betanin, einem starken Antioxidans.
 
-Besonders bemerkenswert ist die Fähigkeit des Feigenkaktus, die Aufnahme von Nahrungsfetten im Darm zu reduzieren. Seine Fasern binden Fett und Zucker im Verdauungstrakt und schleusen sie aus dem Körper -- eine Eigenschaft, die ihn in der modernen Ernährungsmedizin bei Diabetes und Übergewicht interessant macht.`,
-    geschichte: `Der Feigenkaktus war den Azteken heilig -- er erscheint im Gründungsmythos von Tenochtitlan (dem heutigen Mexiko-Stadt) und ziert bis heute das mexikanische Staatswappen. Die Azteken nutzten ihn als Nahrung, Medizin und Farbstoff: Aus den auf dem Kaktus lebenden Cochenille-Schildläusen gewannen sie den kostbaren roten Farbstoff Karmin.
+Besonders bemerkenswert ist die Fähigkeit des Feigenkaktus, die Aufnahme von Nahrungsfetten im Darm zu reduzieren. Seine Fasern binden Fett und Zucker im Verdauungstrakt und schleusen sie aus dem Körper, eine Eigenschaft, die ihn in der modernen Ernährungsmedizin bei Diabetes und Übergewicht interessant macht.`,
+    geschichte: `Der Feigenkaktus war den Azteken heilig, er erscheint im Gründungsmythos von Tenochtitlan (dem heutigen Mexiko-Stadt) und ziert bis heute das mexikanische Staatswappen. Die Azteken nutzten ihn als Nahrung, Medizin und Farbstoff: Aus den auf dem Kaktus lebenden Cochenille-Schildläusen gewannen sie den kostbaren roten Farbstoff Karmin.
 
-Die spanischen Eroberer brachten den Feigenkaktus im 16. Jahrhundert nach Europa, wo er sich im Mittelmeerraum schnell ausbreitete. In Sizilien, Nordafrika und auf den Kanaren wurde er zu einem wichtigen Nahrungsmittel. Die traditionelle mexikanische Medizin setzt Nopal seit Jahrhunderten bei Diabetes, Magenleiden und Wunden ein -- modernes Wissen, das die Forschung inzwischen bestätigt.`,
+Die spanischen Eroberer brachten den Feigenkaktus im 16. Jahrhundert nach Europa, wo er sich im Mittelmeerraum schnell ausbreitete. In Sizilien, Nordafrika und auf den Kanaren wurde er zu einem wichtigen Nahrungsmittel. Die traditionelle mexikanische Medizin setzt Nopal seit Jahrhunderten bei Diabetes, Magenleiden und Wunden ein, modernes Wissen, das die Forschung inzwischen bestätigt.`,
     wirkungen: {
       hauptwirkungen: ['Blutzuckersenkend', 'Cholesterinsenkend', 'Fettbindend im Darm', 'Antioxidativ', 'Entzündungshemmend', 'Magenberuhigend', 'Gewichtsregulierend'],
       inhaltsstoffe: ['Pektine', 'Schleimstoffe', 'Betanin (Betacyanin)', 'Flavonoide (Isorhamnetin)', 'Vitamin C', 'Magnesium', 'Kalium', 'Kalzium', 'Ballaststoffe', 'Aminosäuren'],
@@ -433,12 +433,12 @@ Die spanischen Eroberer brachten den Feigenkaktus im 16. Jahrhundert nach Europa
   'Frauenhaar': {
     vollname: 'Frauenhaarfarn (Adiantum capillus-veneris)',
     familie: 'Frauenhaarfarngewächse (Pteridaceae)',
-    beschreibung: `Der Frauenhaarfarn ist einer der zierlichsten und anmutigsten Farne der Welt. Seine fein gefiederten, hellgrünen Wedel sitzen auf haarfeinen, glänzend schwarzen Stielen, die an Frauenhaare erinnern -- daher der Name. Der lateinische Artname "capillus-veneris" bedeutet "Venushaar" und verweist auf die Liebesgöttin, deren Haar beim Ausstieg aus dem Meer nicht nass wurde -- ebenso wie die Blätter dieses Farns, die Wasser abperlen lassen.
+    beschreibung: `Der Frauenhaarfarn ist einer der zierlichsten und anmutigsten Farne der Welt. Seine fein gefiederten, hellgrünen Wedel sitzen auf haarfeinen, glänzend schwarzen Stielen, die an Frauenhaare erinnern, daher der Name. Der lateinische Artname "capillus-veneris" bedeutet "Venushaar" und verweist auf die Liebesgöttin, deren Haar beim Ausstieg aus dem Meer nicht nass wurde, ebenso wie die Blätter dieses Farns, die Wasser abperlen lassen.
 
-In der Heilkunde wird der Frauenhaarfarn vor allem als Hustenmittel und Schleimlöser geschätzt. Er enthält Triterpene, Flavonoide und Schleimstoffe, die festsitzenden Bronchialschleim lösen und den Auswurf erleichtern. In Frankreich war der "Sirop de Capillaire" -- ein Frauenhaarfarn-Sirup -- über Jahrhunderte eines der beliebtesten Hustenmittel.
+In der Heilkunde wird der Frauenhaarfarn vor allem als Hustenmittel und Schleimlöser geschätzt. Er enthält Triterpene, Flavonoide und Schleimstoffe, die festsitzenden Bronchialschleim lösen und den Auswurf erleichtern. In Frankreich war der "Sirop de Capillaire", ein Frauenhaarfarn-Sirup, über Jahrhunderte eines der beliebtesten Hustenmittel.
 
 Der Farn wächst wild an schattigen, feuchten Felsen, Brunnenrändern und Mauern in Südeuropa. Er liebt Kalkstein und tropfendes Wasser. Als Zimmerpflanze ist er weit verbreitet, erfordert aber hohe Luftfeuchtigkeit.`,
-    geschichte: `Schon Dioskurides und Plinius beschrieben den Frauenhaarfarn als Mittel gegen Husten, Asthma und Haarausfall. Im Mittelalter war er fester Bestandteil der Klosterapotheke. Sein berühmtester Einsatz war der "Sirop de Capillaire", der in französischen Apotheken vom 17. bis ins 19. Jahrhundert verkauft wurde -- ein wohlschmeckender Hustensirup mit Orangenblütenwasser und Zucker.
+    geschichte: `Schon Dioskurides und Plinius beschrieben den Frauenhaarfarn als Mittel gegen Husten, Asthma und Haarausfall. Im Mittelalter war er fester Bestandteil der Klosterapotheke. Sein berühmtester Einsatz war der "Sirop de Capillaire", der in französischen Apotheken vom 17. bis ins 19. Jahrhundert verkauft wurde, ein wohlschmeckender Hustensirup mit Orangenblütenwasser und Zucker.
 
 In der Signaturenlehre galt der Frauenhaarfarn wegen seiner feinen, haarartigen Stiele als Mittel für gesundes Haar. Der persische Arzt Avicenna empfahl ihn bei Leber- und Milzerkrankungen. In Südamerika verwenden indigene Heiler verwandte Adiantum-Arten bis heute bei Atemwegserkrankungen und Nierensteinen.`,
     wirkungen: {
@@ -448,7 +448,7 @@ In der Signaturenlehre galt der Frauenhaarfarn wegen seiner feinen, haarartigen 
     ernte: {
       zeit: 'Wedel im Sommer, wenn sie voll entwickelt sind. Ganzjährig bei Zimmerpflanzen.',
       teile: 'Die ganzen Wedel (Blätter).',
-      tipps: 'Wild nur an geschützten Standorten sammeln -- der Farn steht in vielen Regionen unter Naturschutz. Schonend bei Zimmertemperatur trocknen.',
+      tipps: 'Wild nur an geschützten Standorten sammeln, der Farn steht in vielen Regionen unter Naturschutz. Schonend bei Zimmertemperatur trocknen.',
       mond: 'Bei zunehmendem Mond ernten.',
     },
     zubereitungen: [
@@ -466,7 +466,7 @@ In der Signaturenlehre galt der Frauenhaarfarn wegen seiner feinen, haarartigen 
     mischungen: ['Hustentee (mit Huflattich und Eibisch)', 'Bronchialtee (mit Thymian und Spitzwegerich)', 'Nierentee (mit Goldrute und Birke)'],
     tcm: 'Kühlt die Lunge und löst Schleim-Hitze. Befeuchtet Trockenheit in der Lunge und fördert das Wasserlassen.',
     ayurveda: 'Kühlend und befeuchtend, reduziert Vata und Pitta in den Atemwegen. Nährt Rasa Dhatu und unterstützt Avalambaka Kapha in der Lunge.',
-    volksmedizin: 'In Südfrankreich und Italien war der Frauenhaarfarn-Sirup in keinem Haushalt wegzudenken -- besonders bei Kinderhusten. Auch als Haarspülung wurde der Tee verwendet, in der Hoffnung, dass die Signatur der Pflanze das Haar stärke und zum Glänzen bringe.',
+    volksmedizin: 'In Südfrankreich und Italien war der Frauenhaarfarn-Sirup in keinem Haushalt wegzudenken, besonders bei Kinderhusten. Auch als Haarspülung wurde der Tee verwendet, in der Hoffnung, dass die Signatur der Pflanze das Haar stärke und zum Glänzen bringe.',
     besonders_bei: ['husten', 'bronchitis', 'schleim', 'haarausfall', 'niere'],
   },
 
@@ -476,14 +476,14 @@ In der Signaturenlehre galt der Frauenhaarfarn wegen seiner feinen, haarartigen 
   'Gelbholz': {
     vollname: 'Kanadische Gelbwurz (Hydrastis canadensis)',
     familie: 'Hahnenfußgewächse (Ranunculaceae)',
-    beschreibung: `Das Gelbholz -- auch Goldsiegelwurzel oder Kanadische Gelbwurz genannt -- ist eine der bedeutendsten Heilpflanzen Nordamerikas. Die kleine, unscheinbare Staude mit ihren handförmig gelappten Blättern und der einzelnen grünlich-weißen Blüte wächst in den schattigen Laubwäldern des östlichen Nordamerika. Ihren Namen verdankt sie dem leuchtend gelben Wurzelstock, der den wertvollen Wirkstoff Berberin enthält.
+    beschreibung: `Das Gelbholz, auch Goldsiegelwurzel oder Kanadische Gelbwurz genannt, ist eine der bedeutendsten Heilpflanzen Nordamerikas. Die kleine, unscheinbare Staude mit ihren handförmig gelappten Blättern und der einzelnen grünlich-weißen Blüte wächst in den schattigen Laubwäldern des östlichen Nordamerika. Ihren Namen verdankt sie dem leuchtend gelben Wurzelstock, der den wertvollen Wirkstoff Berberin enthält.
 
 Berberin ist eines der stärksten pflanzlichen Antibiotika. Es wirkt gegen ein breites Spektrum von Bakterien, Pilzen und Parasiten, ohne die Darmflora so zu schädigen wie synthetische Antibiotika. Auf den Schleimhäuten entfaltet Gelbholz eine zusammenziehende, entzündungshemmende und desinfizierende Wirkung, die es zu einem erstklassigen Mittel bei Infektionen der Atemwege, des Magen-Darm-Trakts und der Harnwege macht.
 
 Die Pflanze ist durch Übererntung stark gefährdet und steht unter Artenschutz. Nur Produkte aus kontrolliertem Anbau sollten verwendet werden.`,
-    geschichte: `Die Cherokee und Irokesen verwendeten das Gelbholz seit Jahrhunderten als Universalheilmittel -- bei Augenentzündungen, Hautinfektionen, Verdauungsstörungen und Fieber. Sie färbten auch Kleidung und Waffen mit dem intensiv gelben Wurzelsaft. Die Siedler lernten die Pflanze von den Ureinwohnern kennen und machten sie zu einem der beliebtesten Heilmittel Amerikas.
+    geschichte: `Die Cherokee und Irokesen verwendeten das Gelbholz seit Jahrhunderten als Universalheilmittel, bei Augenentzündungen, Hautinfektionen, Verdauungsstörungen und Fieber. Sie färbten auch Kleidung und Waffen mit dem intensiv gelben Wurzelsaft. Die Siedler lernten die Pflanze von den Ureinwohnern kennen und machten sie zu einem der beliebtesten Heilmittel Amerikas.
 
-Im 19. Jahrhundert war Goldenseal (wie es auf Englisch heißt) das meistverkaufte pflanzliche Heilmittel der USA. Die Eklektische Schule der Medizin setzte es bei praktisch jeder Infektionskrankheit ein. Die enorme Nachfrage führte zu massiver Wildsammlung, die den Bestand bedrohte -- ein frühes Beispiel für die Notwendigkeit nachhaltiger Nutzung von Heilpflanzen.`,
+Im 19. Jahrhundert war Goldenseal (wie es auf Englisch heißt) das meistverkaufte pflanzliche Heilmittel der USA. Die Eklektische Schule der Medizin setzte es bei praktisch jeder Infektionskrankheit ein. Die enorme Nachfrage führte zu massiver Wildsammlung, die den Bestand bedrohte, ein frühes Beispiel für die Notwendigkeit nachhaltiger Nutzung von Heilpflanzen.`,
     wirkungen: {
       hauptwirkungen: ['Antibakteriell (natürliches Antibiotikum)', 'Antimykotisch', 'Entzündungshemmend', 'Schleimhaut-stärkend', 'Immunstimulierend', 'Adstringierend', 'Verdauungsfördernd'],
       inhaltsstoffe: ['Berberin', 'Hydrastin', 'Kanadine', 'Berberastin', 'Ätherisches Öl', 'Harze', 'Chlorogensäure'],
@@ -524,11 +524,11 @@ Im 19. Jahrhundert war Goldenseal (wie es auf Englisch heißt) das meistverkauft
   'Gamander': {
     vollname: 'Echter Gamander (Teucrium scorodonia)',
     familie: 'Lippenblütler (Lamiaceae)',
-    beschreibung: `Der Echte Gamander -- auch Salbei-Gamander oder Waldgamander genannt -- ist ein anspruchsloser Halbstrauch mit herzförmigen, runzeligen Blättern, die beim Zerreiben einen leicht knoblauchartigen Geruch verströmen. Sein Artname "scorodonia" leitet sich vom griechischen "skorodon" (Knoblauch) ab. Die blassgelben, einlippigen Blüten stehen in lockeren Trauben und erscheinen von Juli bis September.
+    beschreibung: `Der Echte Gamander, auch Salbei-Gamander oder Waldgamander genannt, ist ein anspruchsloser Halbstrauch mit herzförmigen, runzeligen Blättern, die beim Zerreiben einen leicht knoblauchartigen Geruch verströmen. Sein Artname "scorodonia" leitet sich vom griechischen "skorodon" (Knoblauch) ab. Die blassgelben, einlippigen Blüten stehen in lockeren Trauben und erscheinen von Juli bis September.
 
 Im Gegensatz zum Edelgamander (Teucrium chamaedrys) ist der Echte Gamander milder und wird vor allem äußerlich angewendet. Er enthält Bitterstoffe und Gerbstoffe, die ihn zu einem guten Wundheilmittel und Gurgelmittel machen. Seine leicht schweisströpfende Wirkung machte ihn in der Volksmedizin zu einem geschätzten Erkältungsmittel.
 
-Die Pflanze wächst in lichten Wäldern, an Waldrändern und auf sauren Böden. Sie ist in Mittel- und Westeuropa weit verbreitet, wird aber als Heilpflanze kaum noch beachtet -- zu Unrecht, denn gerade die äußerliche Anwendung bietet wertvolles Potential.`,
+Die Pflanze wächst in lichten Wäldern, an Waldrändern und auf sauren Böden. Sie ist in Mittel- und Westeuropa weit verbreitet, wird aber als Heilpflanze kaum noch beachtet, zu Unrecht, denn gerade die äußerliche Anwendung bietet wertvolles Potential.`,
     geschichte: `Der Gamander wurde in der Antike nach dem trojanischen Helden Teukros benannt, der die Heilkraft der Pflanze entdeckt haben soll. Im Mittelalter war er als "Gamanderlein" ein fester Bestandteil der Bauernapotheke. Man trank den Tee bei Fieber und Erkältungen oder legte Umschläge auf schlecht heilende Wunden.
 
 In England war "Wood Sage" ein beliebtes Bittermittel, das vor der Einführung des Hopfens auch zum Bierbrauen verwendet wurde. Der Kräuterkundige Nicholas Culpeper empfahl ihn im 17. Jahrhundert bei Gicht, Milzleiden und "Verstopfung der inneren Organe". In Wales wurde er als Ersatz für Tee getrunken.`,
@@ -567,14 +567,14 @@ In England war "Wood Sage" ein beliebtes Bittermittel, das vor der Einführung d
   'Isländisches Moos': {
     vollname: 'Isländisches Moos (Cetraria islandica)',
     familie: 'Parmeliaceae (Flechten)',
-    beschreibung: `Isländisches Moos ist botanisch gesehen kein Moos, sondern eine Flechte -- eine faszinierende Lebensgemeinschaft aus Pilz und Alge. Die aufrecht wachsenden, lederartig-knorpeligen Lappen sind olivbraun bis graugrün und verzweigen sich geweihähnlich. Man findet es in Heide- und Moorlandschaften, auf Felsen und in lichten Nadelwäldern der nördlichen Breiten.
+    beschreibung: `Isländisches Moos ist botanisch gesehen kein Moos, sondern eine Flechte, eine faszinierende Lebensgemeinschaft aus Pilz und Alge. Die aufrecht wachsenden, lederartig-knorpeligen Lappen sind olivbraun bis graugrün und verzweigen sich geweihähnlich. Man findet es in Heide- und Moorlandschaften, auf Felsen und in lichten Nadelwäldern der nördlichen Breiten.
 
-Diese Flechte ist ein herausragendes Heilmittel für die Atemwege und den Magen-Darm-Trakt. Ihr Geheimnis liegt in den reichlich vorhandenen Schleimstoffen (bis zu 50% Lichenin und Isolichenin), die einen schützenden Film auf gereizte Schleimhäute legen. Gleichzeitig enthält sie bitter schmeckende Flechtensäuren wie die Usninsäure, die antibiotisch wirken -- eine einzigartige Kombination aus Schutz und Desinfektion.
+Diese Flechte ist ein herausragendes Heilmittel für die Atemwege und den Magen-Darm-Trakt. Ihr Geheimnis liegt in den reichlich vorhandenen Schleimstoffen (bis zu 50% Lichenin und Isolichenin), die einen schützenden Film auf gereizte Schleimhäute legen. Gleichzeitig enthält sie bitter schmeckende Flechtensäuren wie die Usninsäure, die antibiotisch wirken, eine einzigartige Kombination aus Schutz und Desinfektion.
 
 Bei trockenem Reizhusten umhüllen die Schleimstoffe die gereizte Rachenschleimhaut und stillen den Hustenreiz. Bei Magenschleimhautentzündung schützen sie die angegriffene Magenwand. Die Bitterstoffe regen gleichzeitig die Verdauung an und bekämpfen Infektionserreger.`,
     geschichte: `In Island und Skandinavien war die Flechte seit dem Mittelalter ein lebenswichtiges Nahrungsmittel. In Hungerszeiten wurde sie zu Mehl vermahlen und zu Brot verbacken oder als Grütze gekocht. Um die bitteren Flechtensäuren zu entfernen, wurde sie vorher stundenlang gewässert.
 
-Die medizinische Nutzung ist seit dem 17. Jahrhundert dokumentiert. Isländisches Moos galt als das beste Mittel gegen "Auszehrung" -- die Tuberkulose. Zwar konnte es die Krankheit nicht heilen, doch es linderte den quälenden Husten und stärkte den ausgezehrten Körper. Heute ist es Bestandteil vieler Hustenmedikamente und Halspastillen.`,
+Die medizinische Nutzung ist seit dem 17. Jahrhundert dokumentiert. Isländisches Moos galt als das beste Mittel gegen "Auszehrung", die Tuberkulose. Zwar konnte es die Krankheit nicht heilen, doch es linderte den quälenden Husten und stärkte den ausgezehrten Körper. Heute ist es Bestandteil vieler Hustenmedikamente und Halspastillen.`,
     wirkungen: {
       hauptwirkungen: ['Reizlindernd (demulzierend)', 'Schleimlösend', 'Hustenlindernd', 'Antibiotisch (Flechtensäuren)', 'Magenschützend', 'Appetitanregend (Bitterstoffe)', 'Immunstärkend'],
       inhaltsstoffe: ['Lichenin (Schleim)', 'Isolichenin', 'Usninsäure', 'Fumarprotocetrarsäure', 'Cetrarsäure', 'Bitterstoffe', 'Vitamin B12 (Spuren)', 'Jod (Spuren)'],
@@ -582,7 +582,7 @@ Die medizinische Nutzung ist seit dem 17. Jahrhundert dokumentiert. Isländische
     ernte: {
       zeit: 'Ganzjährig, am besten im Spätsommer bei trockenem Wetter.',
       teile: 'Der gesamte Flechtenkörper (Thallus).',
-      tipps: 'Nur in Gebieten mit sauberer Luft sammeln -- Flechten sind extrem empfindlich gegenüber Luftverschmutzung und daher Bioindikatoren. Schonend ernten und nicht ganze Bestände abräumen.',
+      tipps: 'Nur in Gebieten mit sauberer Luft sammeln: Flechten sind extrem empfindlich gegenüber Luftverschmutzung und daher Bioindikatoren. Schonend ernten und nicht ganze Bestände abräumen.',
       mond: 'Bei abnehmendem Mond ernten für die Bitterstoff-betonte Wirkung, bei zunehmendem für die Schleim-betonte.',
     },
     zubereitungen: [
@@ -598,14 +598,14 @@ Die medizinische Nutzung ist seit dem 17. Jahrhundert dokumentiert. Isländische
       },
       {
         name: 'Isländisch-Moos-Pastillen (Halsbonbons)',
-        anleitung: 'Fertigpräparate aus der Apotheke lutschen -- sie enthalten den konzentrierten Schleimstoffextrakt. Besonders bei Halsschmerzen, Heiserkeit und trockenem Husten.',
+        anleitung: 'Fertigpräparate aus der Apotheke lutschen, sie enthalten den konzentrierten Schleimstoffextrakt. Besonders bei Halsschmerzen, Heiserkeit und trockenem Husten.',
         wirkung: 'Sofortige Linderung bei gereiztem Hals und trockenem Hustenreiz.',
       },
     ],
     mischungen: ['Hustentee (mit Eibisch und Spitzwegerich)', 'Bronchialtee (mit Thymian und Süßholz)', 'Magentee (mit Kamille und Süßholz)'],
     tcm: 'Nährt das Lungen-Yin, befeuchtet Trockenheit und transformiert Schleim. Stärkt das Magen-Yin bei Yin-Mangel mit Hitze.',
     ayurveda: 'Kühlend, befeuchtend und nährend. Reduziert Vata in den Atemwegen und Pitta im Magen. Stärkt Rasa und Asthi Dhatu.',
-    volksmedizin: 'In den nordischen Ländern war Isländisches Moos das wichtigste Hustenmittel schlechthin. Man kochte es in Milch und gab es Kindern mit Honig. Alte isländische Heilkundige sagten: "Cetraria heilt die Lunge und nährt den Leib" -- eine treffende Zusammenfassung seiner doppelten Wirkung.',
+    volksmedizin: 'In den nordischen Ländern war Isländisches Moos das wichtigste Hustenmittel schlechthin. Man kochte es in Milch und gab es Kindern mit Honig. Alte isländische Heilkundige sagten: "Cetraria heilt die Lunge und nährt den Leib", eine treffende Zusammenfassung seiner doppelten Wirkung.',
     besonders_bei: ['reizhusten', 'bronchitis', 'halsschmerzen', 'gastritis', 'appetitlosigkeit', 'erschoepfung'],
   },
 
@@ -615,12 +615,12 @@ Die medizinische Nutzung ist seit dem 17. Jahrhundert dokumentiert. Isländische
   'Johannisbrot': {
     vollname: 'Johannisbrotbaum (Ceratonia siliqua)',
     familie: 'Hülsenfrüchtler (Fabaceae)',
-    beschreibung: `Der Johannisbrotbaum ist ein majestätischer, immergrüner Baum des Mittelmeerraums, dessen dunkelbraune, ledrige Schoten seit Jahrtausenden als Nahrung und Heilmittel dienen. Die Schoten enthalten ein süßes, kakaoähnliches Mark, das reich an Ballaststoffen, Mineralien und Gerbstoffen ist. Aus den Samen wird Johannisbrotkernmehl gewonnen -- ein natürlicher Verdicker und wertvoller Ballaststoff.
+    beschreibung: `Der Johannisbrotbaum ist ein majestätischer, immergrüner Baum des Mittelmeerraums, dessen dunkelbraune, ledrige Schoten seit Jahrtausenden als Nahrung und Heilmittel dienen. Die Schoten enthalten ein süßes, kakaoähnliches Mark, das reich an Ballaststoffen, Mineralien und Gerbstoffen ist. Aus den Samen wird Johannisbrotkernmehl gewonnen, ein natürlicher Verdicker und wertvoller Ballaststoff.
 
 Das Fruchtmark des Johannisbrots ist ein bemerkenswertes Durchfallmittel: Die enthaltenen Tannine und Pektine binden überschüssiges Wasser im Darm und hemmen das Wachstum schädlicher Bakterien. Gleichzeitig enthält es genug Zucker und Mineralien, um den Elektrolytverlust bei Durchfall auszugleichen. Für Kinder ist es eines der angenehmsten natürlichen Durchfallmittel, weil es süß schmeckt und gut vertragen wird.
 
 Als Kakaoersatz (Carob) bietet das Johannisbrot eine koffeinfreie, fettarme Alternative für schokoladenempfindliche Menschen. Es enthält kein Theobromin und ist daher auch für Migränepatienten geeignet, die auf Schokolade reagieren.`,
-    geschichte: `Der Name "Johannisbrot" geht auf die biblische Überlieferung zurück, dass Johannes der Täufer sich in der Wüste von den Schoten dieses Baumes ernährte. Die Samen des Johannisbrots sind erstaunlich gleichmäßig in Gewicht und Größe -- im Altertum dienten sie als Gewichtseinheit für Edelsteine: Das Wort "Karat" leitet sich vom arabischen "quirat" ab, der Bezeichnung für den Johannisbrotsamen.
+    geschichte: `Der Name "Johannisbrot" geht auf die biblische Überlieferung zurück, dass Johannes der Täufer sich in der Wüste von den Schoten dieses Baumes ernährte. Die Samen des Johannisbrots sind erstaunlich gleichmäßig in Gewicht und Größe, im Altertum dienten sie als Gewichtseinheit für Edelsteine: Das Wort "Karat" leitet sich vom arabischen "quirat" ab, der Bezeichnung für den Johannisbrotsamen.
 
 In Ägypten wurden Johannisbrotschoten in Pharaonengräbern gefunden. Die Römer kauten die süßen Schoten als Reiseproviant. Im Mittelalter war Johannisbrot eine wichtige Nahrungs- und Futterquelle im gesamten Mittelmeerraum. Während der Weltkriege diente es als Schokoladen- und Kaffeeersatz.`,
     wirkungen: {
@@ -646,14 +646,14 @@ In Ägypten wurden Johannisbrotschoten in Pharaonengräbern gefunden. Die Römer
       },
       {
         name: 'Johannisbrotkernmehl (als Ballaststoff)',
-        anleitung: '1 TL Johannisbrotkernmehl in ein Glas Wasser einrühren und vor den Mahlzeiten trinken. Quellfähig -- daher ausreichend Wasser nachtrinken.',
+        anleitung: '1 TL Johannisbrotkernmehl in ein Glas Wasser einrühren und vor den Mahlzeiten trinken. Quellfähig, daher ausreichend Wasser nachtrinken.',
         wirkung: 'Sättigt, stabilisiert den Blutzucker, senkt Cholesterin durch Faserbindung im Darm.',
       },
     ],
     mischungen: ['Durchfallmittel (mit Heidelbeeren und Tormentill)', 'Energie-Riegel (mit Datteln und Nüssen)', 'Cholesterin-Kur (mit Flohsamen und Hafer)'],
     tcm: 'Süß und neutral, stärkt Milz und Magen, stoppt Durchfall und nährt das Blut. Harmonisiert die Mitte.',
     ayurveda: 'Süß, zusammenziehend und schwer. Reduziert Vata und Pitta, kann Kapha leicht erhöhen. Nährt alle Dhatus und ist ein gutes Rasayana.',
-    volksmedizin: 'Im Mittelmeerraum galt Johannisbrot als "Brot der Armen" und "Medizin der Großmütter". Bei Kinderdurchfall war das Erste, was die Großmutter tat: Carobpulver in Wasser anrühren. Auch bei Sodbrennen wurde es gelöffelt -- die Gerbstoffe beruhigen die Magenschleimhaut.',
+    volksmedizin: 'Im Mittelmeerraum galt Johannisbrot als "Brot der Armen" und "Medizin der Großmütter". Bei Kinderdurchfall war das Erste, was die Großmutter tat: Carobpulver in Wasser anrühren. Auch bei Sodbrennen wurde es gelöffelt, die Gerbstoffe beruhigen die Magenschleimhaut.',
     besonders_bei: ['durchfall', 'verdauung', 'cholesterin', 'diabetes', 'uebergewicht', 'mineralstoffmangel'],
   },
 
@@ -663,9 +663,9 @@ In Ägypten wurden Johannisbrotschoten in Pharaonengräbern gefunden. Die Römer
   'Kawa-Kawa': {
     vollname: 'Rauschpfeffer (Piper methysticum)',
     familie: 'Pfeffergewächse (Piperaceae)',
-    beschreibung: `Kawa-Kawa -- auch Kava genannt -- ist eine tropische Pfefferart aus den Inseln des Südpazifik, deren Wurzelstock eines der stärksten pflanzlichen Beruhigungsmittel enthält. Die kräftige Staude mit ihren großen, herzförmigen Blättern wird seit über 3000 Jahren von den Völkern Polynesiens, Melanesiens und Mikronesiens als Zeremonialgetränk und Heilmittel genutzt.
+    beschreibung: `Kawa-Kawa, auch Kava genannt, ist eine tropische Pfefferart aus den Inseln des Südpazifik, deren Wurzelstock eines der stärksten pflanzlichen Beruhigungsmittel enthält. Die kräftige Staude mit ihren großen, herzförmigen Blättern wird seit über 3000 Jahren von den Völkern Polynesiens, Melanesiens und Mikronesiens als Zeremonialgetränk und Heilmittel genutzt.
 
-Die Wirkstoffe der Kawa -- die sogenannten Kavapyrone (Kavalactone) -- wirken angstlösend, muskelentspannend und beruhigend, ohne dabei die geistige Klarheit zu beeinträchtigen. Das unterscheidet Kawa grundlegend von Alkohol oder synthetischen Beruhigungsmitteln: Man wird ruhig und gelöst, bleibt aber wach und klar im Kopf.
+Die Wirkstoffe der Kawa, die sogenannten Kavapyrone (Kavalactone), wirken angstlösend, muskelentspannend und beruhigend, ohne dabei die geistige Klarheit zu beeinträchtigen. Das unterscheidet Kawa grundlegend von Alkohol oder synthetischen Beruhigungsmitteln: Man wird ruhig und gelöst, bleibt aber wach und klar im Kopf.
 
 In Europa wurde Kawa-Kawa zeitweise vom Markt genommen, weil Leberschäden bei einzelnen Anwendern berichtet wurden. Neuere Untersuchungen zeigen, dass die Probleme vermutlich auf minderwertige Extrakte und die Verwendung von Blättern und Stängeln statt der traditionell genutzten Wurzel zurückzuführen sind. Die traditionelle wässrige Zubereitung gilt nach wie vor als sicher.`,
     geschichte: `Kawa-Kawa ist das wichtigste Zeremonialgetränk der Südseevölker. Auf Fidschi, Tonga, Samoa und Vanuatu wird das Kawa-Ritual bei Willkommenszeremonien, Friedensverhandlungen und religiösen Festen praktiziert. Die Wurzel wird traditionell gekaut oder gestampft und mit Wasser zu einem milchig-trüben Getränk verrührt, das in einer großen Schale herumgereicht wird.
@@ -677,7 +677,7 @@ Kapitän James Cook beschrieb die Kawa-Zeremonien bei seiner Pazifikreise im 18.
     },
     ernte: {
       zeit: 'Wurzelstock nach 3-5 Jahren Wachstum. Nur in tropischen Regionen kultivierbar.',
-      teile: 'Wurzelstock (Rhizom) -- die traditionell genutzte und sichere Pflanzenpartie.',
+      teile: 'Wurzelstock (Rhizom), die traditionell genutzte und sichere Pflanzenpartie.',
       tipps: 'In Europa nur als Fertigpräparat oder getrocknetes Wurzelpulver aus vertrauenswürdigen Quellen beziehen. Auf reine Wurzelprodukte ohne Beimengung von Blättern achten.',
       mond: 'Traditionell bei abnehmendem Mond geerntet für die beruhigende Wirkung.',
     },
@@ -706,12 +706,12 @@ Kapitän James Cook beschrieb die Kawa-Zeremonien bei seiner Pazifikreise im 18.
   'Lobelie': {
     vollname: 'Indianertabak (Lobelia inflata)',
     familie: 'Glockenblumengewächse (Campanulaceae)',
-    beschreibung: `Die Lobelie -- auch Indianertabak genannt -- ist eine zarte, einjährige Pflanze Nordamerikas mit kleinen, blasslila Blüten und aufgeblasenen Samenkapseln. Trotz ihres unscheinbaren Äußeren gehört sie zu den wirkungsstärksten Heilpflanzen der nordamerikanischen Pflanzenheilkunde. Ihr Hauptwirkstoff Lobelin ähnelt in seiner Struktur dem Nikotin und bindet an die gleichen Rezeptoren -- jedoch ohne abhängig zu machen.
+    beschreibung: `Die Lobelie, auch Indianertabak genannt, ist eine zarte, einjährige Pflanze Nordamerikas mit kleinen, blasslila Blüten und aufgeblasenen Samenkapseln. Trotz ihres unscheinbaren Äußeren gehört sie zu den wirkungsstärksten Heilpflanzen der nordamerikanischen Pflanzenheilkunde. Ihr Hauptwirkstoff Lobelin ähnelt in seiner Struktur dem Nikotin und bindet an die gleichen Rezeptoren, jedoch ohne abhängig zu machen.
 
-Die Lobelie wirkt stark krampflösend auf die Bronchialmuskulatur und war eines der wichtigsten Asthma-Mittel der amerikanischen Eklektiker. Sie entspannt verkrampfte Atemwege, erleichtert das Abhusten und fördert tiefes Atmen. In niedrigen Dosen ist sie ein Bronchodilatator, in höheren ein Brechmittel -- die Dosierung entscheidet über die Wirkung.
+Die Lobelie wirkt stark krampflösend auf die Bronchialmuskulatur und war eines der wichtigsten Asthma-Mittel der amerikanischen Eklektiker. Sie entspannt verkrampfte Atemwege, erleichtert das Abhusten und fördert tiefes Atmen. In niedrigen Dosen ist sie ein Bronchodilatator, in höheren ein Brechmittel, die Dosierung entscheidet über die Wirkung.
 
 Aufgrund ihrer Potenz muss die Lobelie mit Vorsicht dosiert werden. In therapeutischer Dosis ist sie ein wertvolles Mittel bei spastischer Bronchitis und Asthma, in zu hoher Dosis löst sie Übelkeit und Erbrechen aus. Sie ist kein Mittel für die Selbstmedikation und gehört in die Hand erfahrener Phytotherapeuten.`,
-    geschichte: `Die nordamerikanischen Ureinwohner -- besonders die Penobscot und Cherokee -- rauchten die getrockneten Blätter bei Asthma und Bronchitis, daher der Name "Indianertabak". Der berühmte amerikanische Kräuterheiler Samuel Thomson (1769-1843) machte die Lobelie zum Herzstück seines Heilsystems und setzte sie als Brechmittel zur "Reinigung" des Körpers ein -- ein Ansatz, der damals sehr populär, aber auch umstritten war.
+    geschichte: `Die nordamerikanischen Ureinwohner, besonders die Penobscot und Cherokee, rauchten die getrockneten Blätter bei Asthma und Bronchitis, daher der Name "Indianertabak". Der berühmte amerikanische Kräuterheiler Samuel Thomson (1769-1843) machte die Lobelie zum Herzstück seines Heilsystems und setzte sie als Brechmittel zur "Reinigung" des Körpers ein, ein Ansatz, der damals sehr populär, aber auch umstritten war.
 
 Die Eklektische Schule der amerikanischen Medizin verfeinerte die Anwendung und nutzte niedrige Dosen als Bronchospasmolytikum. In den 1930er Jahren wurde Lobelin als Raucherentwöhnungsmittel eingesetzt, da es die Nikotinrezeptoren besetzt, ohne die suchterzeugende Wirkung des Nikotins zu haben.`,
     wirkungen: {
@@ -721,7 +721,7 @@ Die Eklektische Schule der amerikanischen Medizin verfeinerte die Anwendung und 
     ernte: {
       zeit: 'Blühendes Kraut im Spätsommer, wenn die Samenkapseln sich aufblähen.',
       teile: 'Blühendes Kraut mit den aufgeblasenen Kapseln.',
-      tipps: 'In Europa nicht heimisch -- als Fertigpräparat oder Tinktur aus dem Fachhandel beziehen. Nicht in Eigenregie dosieren.',
+      tipps: 'In Europa nicht heimisch, als Fertigpräparat oder Tinktur aus dem Fachhandel beziehen. Nicht in Eigenregie dosieren.',
       mond: 'Traditionell bei zunehmendem Mond geerntet.',
     },
     zubereitungen: [
@@ -739,7 +739,7 @@ Die Eklektische Schule der amerikanischen Medizin verfeinerte die Anwendung und 
     mischungen: ['Asthma-Tinktur (mit Grindelia und Thymian)', 'Bronchialmedizin (mit Efeublättern und Süßholz)'],
     tcm: 'Öffnet die Lunge und senkt rebellierendes Qi. Transformiert Schleim und löst Verkrampfungen der Atemwege.',
     ayurveda: 'Scharf und wärmend, reduziert Kapha in der Lunge. Bewegt Prana Vayu und öffnet die Atemkanäle (Pranavaha Srotas).',
-    volksmedizin: 'Samuel Thomson nannte die Lobelie "das wichtigste Mittel der Schöpfung". In kleinen Mengen war sie sein Mittel gegen Asthma, in großen sein universelles Reinigungsmittel. Die Ureinwohner rauchten sie bei Zeremonien und bei Atemwegserkrankungen -- der Rauch wirkte direkt bronchialerweiternd.',
+    volksmedizin: 'Samuel Thomson nannte die Lobelie "das wichtigste Mittel der Schöpfung". In kleinen Mengen war sie sein Mittel gegen Asthma, in großen sein universelles Reinigungsmittel. Die Ureinwohner rauchten sie bei Zeremonien und bei Atemwegserkrankungen, der Rauch wirkte direkt bronchialerweiternd.',
     besonders_bei: ['asthma', 'bronchitis', 'atemverkrampfung', 'raucherentwoehnung'],
   },
 
@@ -749,12 +749,12 @@ Die Eklektische Schule der amerikanischen Medizin verfeinerte die Anwendung und 
   'Mahonie': {
     vollname: 'Gewöhnliche Mahonie (Mahonia aquifolium)',
     familie: 'Berberitzengewächse (Berberidaceae)',
-    beschreibung: `Die Mahonie ist ein immergrüner Strauch mit ledrigen, stechpalmenähnlichen Blättern und leuchtend gelben Blütentrauben, die im Frühling erscheinen. Im Herbst reifen die dunkelblauen, bereiften Beeren. Ursprünglich in Nordamerika heimisch, ist sie heute in Europa als Zierstrauch weit verbreitet -- oft ohne dass man ihre Heilkraft kennt.
+    beschreibung: `Die Mahonie ist ein immergrüner Strauch mit ledrigen, stechpalmenähnlichen Blättern und leuchtend gelben Blütentrauben, die im Frühling erscheinen. Im Herbst reifen die dunkelblauen, bereiften Beeren. Ursprünglich in Nordamerika heimisch, ist sie heute in Europa als Zierstrauch weit verbreitet, oft ohne dass man ihre Heilkraft kennt.
 
 Die Wurzelrinde der Mahonie enthält reichlich Berberin und verwandte Alkaloide, die sie zu einem starken Heilmittel für die Haut machen. Bei Schuppenflechte (Psoriasis) hat sich die Mahonie in klinischen Studien als wirksam erwiesen: Sie hemmt die übermäßige Zellteilung der Hautzellen, reduziert Entzündungen und normalisiert das Hautbild. In Deutschland ist sie als Psoriasis-Mittel phytotherapeutisch anerkannt.
 
 Innerlich wirkt die Mahonie ähnlich wie das verwandte Gelbholz: antibakteriell, leberschützend und verdauungsfördernd. Ihre Berberin-Konzentration ist etwas geringer als beim Gelbholz, dafür ist sie in Europa leicht verfügbar und kann nachhaltig geerntet werden.`,
-    geschichte: `Die Mahonie wurde von den nordamerikanischen Ureinwohnern vielseitig genutzt -- die Nez Percé und Blackfoot verwendeten die Wurzel bei Magenbeschwerden und Infektionen, die Beeren als Nahrung und den gelben Wurzelsaft als Farbstoff. Die Pflanze wurde nach dem amerikanischen Botaniker Bernard McMahon (1775-1816) benannt.
+    geschichte: `Die Mahonie wurde von den nordamerikanischen Ureinwohnern vielseitig genutzt, die Nez Percé und Blackfoot verwendeten die Wurzel bei Magenbeschwerden und Infektionen, die Beeren als Nahrung und den gelben Wurzelsaft als Farbstoff. Die Pflanze wurde nach dem amerikanischen Botaniker Bernard McMahon (1775-1816) benannt.
 
 Lewis und Clark brachten die Mahonie 1805 von ihrer berühmten Expedition als Pflanzenprobe mit. Im 19. Jahrhundert wurde sie als Zierstrauch nach Europa eingeführt, wo sie sich so wohl fühlte, dass sie stellenweise verwilderte. Die Entdeckung ihrer Wirksamkeit bei Schuppenflechte erfolgte erst in den 1990er Jahren und machte sie zu einer der spannendsten "neuen" Heilpflanzen der europäischen Phytotherapie.`,
     wirkungen: {
@@ -764,7 +764,7 @@ Lewis und Clark brachten die Mahonie 1805 von ihrer berühmten Expedition als Pf
     ernte: {
       zeit: 'Wurzelrinde im Herbst oder Frühjahr. Beeren im September-Oktober.',
       teile: 'Wurzelrinde (heilkräftigster Teil), Stammrinde, Beeren.',
-      tipps: 'In vielen Gärten und Parks als Zierstrauch vorhanden -- der Rückschnitt liefert Material für Rindenauszüge. Beeren sind essbar, aber sehr sauer.',
+      tipps: 'In vielen Gärten und Parks als Zierstrauch vorhanden, der Rückschnitt liefert Material für Rindenauszüge. Beeren sind essbar, aber sehr sauer.',
       mond: 'Wurzelrinde bei abnehmendem Mond ernten.',
     },
     zubereitungen: [
@@ -787,7 +787,7 @@ Lewis und Clark brachten die Mahonie 1805 von ihrer berühmten Expedition als Pf
     mischungen: ['Psoriasis-Salbe (mit Nachtkerzenöl und Weihrauch)', 'Lebertee (mit Mariendistel und Löwenzahn)', 'Immunstärkung (mit Echinacea und Gelbholz)'],
     tcm: 'Die Mahonie klärt feuchte Hitze, kühlt das Blut und entgiftet. Wirkt auf Leber- und Magenmeridian.',
     ayurveda: 'Bitter und kühlend, reduziert Pitta und Kapha. Reinigt das Blut (Rakta Dhatu) und unterstützt die Leber. Besonders bei Pitta-bedingten Hautkrankheiten.',
-    volksmedizin: 'Die Nez Percé nannten die Mahonie "Oregon Grape" und nutzten den gelben Rindensud als Augenwasser, Verdauungsmittel und Farbstoff. In der modernen Naturheilpraxis hat sie sich als eines der wirksamsten pflanzlichen Mittel bei Psoriasis etabliert -- eine Brücke zwischen indigenem Wissen und moderner Forschung.',
+    volksmedizin: 'Die Nez Percé nannten die Mahonie "Oregon Grape" und nutzten den gelben Rindensud als Augenwasser, Verdauungsmittel und Farbstoff. In der modernen Naturheilpraxis hat sie sich als eines der wirksamsten pflanzlichen Mittel bei Psoriasis etabliert, eine Brücke zwischen indigenem Wissen und moderner Forschung.',
     besonders_bei: ['psoriasis', 'ekzem', 'haut', 'leber', 'verdauung', 'immunschwaeche'],
   },
 
@@ -797,14 +797,14 @@ Lewis und Clark brachten die Mahonie 1805 von ihrer berühmten Expedition als Pf
   'Natternkopf': {
     vollname: 'Gewöhnlicher Natternkopf (Echium vulgare)',
     familie: 'Raublattgewächse (Boraginaceae)',
-    beschreibung: `Der Natternkopf ist eine der auffälligsten Wildpflanzen Mitteleuropas. Seine leuchtend blauen, trichterförmigen Blüten mit den weit herausragenden roten Staubfäden erinnern an züngelnde Schlangen -- daher der Name. Die ganze Pflanze ist mit steifen Borsten besetzt und wächst bevorzugt auf Ödland, Bahndämmen, Kiesgruben und trockenen Wegrändern.
+    beschreibung: `Der Natternkopf ist eine der auffälligsten Wildpflanzen Mitteleuropas. Seine leuchtend blauen, trichterförmigen Blüten mit den weit herausragenden roten Staubfäden erinnern an züngelnde Schlangen, daher der Name. Die ganze Pflanze ist mit steifen Borsten besetzt und wächst bevorzugt auf Ödland, Bahndämmen, Kiesgruben und trockenen Wegrändern.
 
-In der modernen Heilkunde ist der Natternkopf vor allem wegen seines Samenöls interessant, das eine der reichsten pflanzlichen Quellen für die seltene Stearidonsäure (SDA) darstellt -- eine Omega-3-Fettsäure, die der Körper effizienter in EPA umwandeln kann als die Alpha-Linolensäure des Leinöls. Das Samenöl enthält zudem Gamma-Linolensäure (GLA), die entzündungshemmend wirkt und bei Neurodermitis und rheumatischen Beschwerden helfen kann.
+In der modernen Heilkunde ist der Natternkopf vor allem wegen seines Samenöls interessant, das eine der reichsten pflanzlichen Quellen für die seltene Stearidonsäure (SDA) darstellt, eine Omega-3-Fettsäure, die der Körper effizienter in EPA umwandeln kann als die Alpha-Linolensäure des Leinöls. Das Samenöl enthält zudem Gamma-Linolensäure (GLA), die entzündungshemmend wirkt und bei Neurodermitis und rheumatischen Beschwerden helfen kann.
 
-Das blühende Kraut wurde in der Volksheilkunde als Wundmittel, Hustenkraut und Stärkungsmittel verwendet. Die Signaturenlehre sah in der schlangenähnlichen Blüte ein Zeichen für die Heilkraft bei Schlangenbissen -- daher der lateinische Name Echium von "echis" (Schlange).`,
-    geschichte: `Der Natternkopf wurde seit der Antike als Gegenmittel bei Schlangenbissen verwendet -- ein typisches Beispiel der Signaturenlehre. Dioskurides empfahl ihn gegen den Biss der Viper. Im Mittelalter galt er als starkes Wundkraut und wurde auch bei Melancholie eingesetzt -- Paracelsus ordnete ihn dem Jupiter zu und sah in ihm ein stärkendes, lebensspendendes Mittel.
+Das blühende Kraut wurde in der Volksheilkunde als Wundmittel, Hustenkraut und Stärkungsmittel verwendet. Die Signaturenlehre sah in der schlangenähnlichen Blüte ein Zeichen für die Heilkraft bei Schlangenbissen, daher der lateinische Name Echium von "echis" (Schlange).`,
+    geschichte: `Der Natternkopf wurde seit der Antike als Gegenmittel bei Schlangenbissen verwendet, ein typisches Beispiel der Signaturenlehre. Dioskurides empfahl ihn gegen den Biss der Viper. Im Mittelalter galt er als starkes Wundkraut und wurde auch bei Melancholie eingesetzt: Paracelsus ordnete ihn dem Jupiter zu und sah in ihm ein stärkendes, lebensspendendes Mittel.
 
-In der traditionellen Kräuterheilkunde wurde ein Tee aus dem blühenden Kraut bei Fieber, Husten und Nierenbeschwerden getrunken. Das Interesse an der Pflanze wurde in jüngerer Zeit durch die Entdeckung ihres außergewöhnlichen Fettsäureprofils neu belebt -- das Natternkopföl gilt heute als potentielle Alternative zu Fischöl für die Omega-3-Versorgung.`,
+In der traditionellen Kräuterheilkunde wurde ein Tee aus dem blühenden Kraut bei Fieber, Husten und Nierenbeschwerden getrunken. Das Interesse an der Pflanze wurde in jüngerer Zeit durch die Entdeckung ihres außergewöhnlichen Fettsäureprofils neu belebt, das Natternkopföl gilt heute als potentielle Alternative zu Fischöl für die Omega-3-Versorgung.`,
     wirkungen: {
       hauptwirkungen: ['Entzündungshemmend (Samenöl)', 'Omega-3-Quelle', 'Wundheilend (Kraut)', 'Hustenlindernd', 'Schweißtreibend', 'Harntreibend', 'Hautnährend'],
       inhaltsstoffe: ['Stearidonsäure (SDA)', 'Gamma-Linolensäure (GLA)', 'Alpha-Linolensäure (ALA)', 'Allantoin', 'Schleimstoffe', 'Gerbstoffe', 'Kieselsäure', 'Anthocyane'],
@@ -812,7 +812,7 @@ In der traditionellen Kräuterheilkunde wurde ein Tee aus dem blühenden Kraut b
     ernte: {
       zeit: 'Blühendes Kraut von Juni bis September. Samen im Spätsommer.',
       teile: 'Blühendes Kraut (ohne Wurzel). Samen für Ölgewinnung.',
-      tipps: 'Handschuhe tragen -- die Borsten können Hautreizungen verursachen. An trockenen, sonnigen Ruderalflächen sammeln.',
+      tipps: 'Handschuhe tragen, die Borsten können Hautreizungen verursachen. An trockenen, sonnigen Ruderalflächen sammeln.',
       mond: 'Bei zunehmendem Mond ernten für die heilkräftigsten Blüten.',
     },
     zubereitungen: [
@@ -845,20 +845,20 @@ In der traditionellen Kräuterheilkunde wurde ein Tee aus dem blühenden Kraut b
   'Nieswurz': {
     vollname: 'Schwarze Nieswurz / Christrose (Helleborus niger)',
     familie: 'Hahnenfußgewächse (Ranunculaceae)',
-    beschreibung: `Die Nieswurz -- auch Christrose genannt, weil sie mitten im Winter blüht -- ist eine der geheimnisvollsten und gefährlichsten Heilpflanzen Europas. Ihre großen, weißen Blüten, die selbst durch Schnee und Eis brechen, haben seit jeher die Menschen fasziniert. Doch die Schönheit trügt: Alle Pflanzenteile sind stark giftig.
+    beschreibung: `Die Nieswurz, auch Christrose genannt, weil sie mitten im Winter blüht, ist eine der geheimnisvollsten und gefährlichsten Heilpflanzen Europas. Ihre großen, weißen Blüten, die selbst durch Schnee und Eis brechen, haben seit jeher die Menschen fasziniert. Doch die Schönheit trügt: Alle Pflanzenteile sind stark giftig.
 
-Die Pflanze enthält herzwirksame Glykoside (Hellebrin) und Saponine, die in der historischen Heilkunde als Herzmittel, Abführmittel und Niespulver verwendet wurden. Das Pulver der getrockneten Wurzel reizt die Nasenschleimhaut und löst heftiges Niesen aus -- daher der Name "Nieswurz". In der Antike war dieses "Niesen" ein Reinigungsritual, das böse Geister und Krankheiten vertreiben sollte.
+Die Pflanze enthält herzwirksame Glykoside (Hellebrin) und Saponine, die in der historischen Heilkunde als Herzmittel, Abführmittel und Niespulver verwendet wurden. Das Pulver der getrockneten Wurzel reizt die Nasenschleimhaut und löst heftiges Niesen aus, daher der Name "Nieswurz". In der Antike war dieses "Niesen" ein Reinigungsritual, das böse Geister und Krankheiten vertreiben sollte.
 
-Heute wird die Nieswurz ausschließlich homöopathisch eingesetzt. In der Urtinktur oder niedrigen Potenzen wäre sie zu gefährlich -- erst die homöopathische Verdünnung macht sie sicher und therapierbar. In der Homöopathie ist Helleborus ein wichtiges Mittel bei geistiger Stumpfheit und Apathie nach schweren Krankheiten.`,
+Heute wird die Nieswurz ausschließlich homöopathisch eingesetzt. In der Urtinktur oder niedrigen Potenzen wäre sie zu gefährlich, erst die homöopathische Verdünnung macht sie sicher und therapierbar. In der Homöopathie ist Helleborus ein wichtiges Mittel bei geistiger Stumpfheit und Apathie nach schweren Krankheiten.`,
     geschichte: `Die Nieswurz war in der Antike eines der berühmtesten Heilmittel. Die Griechen glaubten, dass die Bewohner der Stadt Anticyra, wo sie massenhaft wuchs, nie wahnsinnig wurden. "Schick ihn nach Anticyra" war eine Redewendung für jemanden, der den Verstand verloren hatte. Der Hirte Melampus soll die Töchter des Königs Proetus mit Nieswurz von ihrem Wahnsinn geheilt haben.
 
-Alexander der Große soll an einer Überdosis Nieswurz gestorben sein, die ihm als Heilmittel gegen Fieber verabreicht wurde. Im Mittelalter wurde sie als Schutzpflanze neben Haustüren gepflanzt -- ihre Winterblüte galt als Zeichen göttlicher Kraft. Paracelsus verwendete sie in kontrollierten Dosen als "Reinigungsmittel", warnte aber vor der Giftigkeit.`,
+Alexander der Große soll an einer Überdosis Nieswurz gestorben sein, die ihm als Heilmittel gegen Fieber verabreicht wurde. Im Mittelalter wurde sie als Schutzpflanze neben Haustüren gepflanzt, ihre Winterblüte galt als Zeichen göttlicher Kraft. Paracelsus verwendete sie in kontrollierten Dosen als "Reinigungsmittel", warnte aber vor der Giftigkeit.`,
     wirkungen: {
       hauptwirkungen: ['Herzwirksam (toxisch)', 'Niesreiz auslösend', 'Abführend (drastisch)', 'Homöopathisch: bei Apathie und geistiger Trägheit', 'Homöopathisch: bei Hirnhautentzündung'],
       inhaltsstoffe: ['Hellebrin (herzwirksames Glykosid)', 'Helleborin (Saponin)', 'Helleborein', 'Protoanemonin', 'Steroidsaponine', 'Ecdyson'],
     },
     ernte: {
-      zeit: 'Nicht zur Selbstsammlung empfohlen -- die Pflanze ist stark giftig.',
+      zeit: 'Nicht zur Selbstsammlung empfohlen, die Pflanze ist stark giftig.',
       teile: 'Historisch: Wurzelstock. Heute nur homöopathische Fertigpräparate verwenden.',
       tipps: 'Die Christrose ist eine wunderschöne Gartenpflanze für den Winter, aber alle Teile sind giftig. Handschuhe tragen beim Umgang. Kinder und Tiere fernhalten.',
       mond: 'Historisch bei Neumond oder abnehmendem Mond geerntet.',
@@ -873,7 +873,7 @@ Alexander der Große soll an einer Überdosis Nieswurz gestorben sein, die ihm a
     mischungen: ['Ausschließlich als homöopathisches Einzelmittel verwenden'],
     tcm: 'In der TCM nicht gebräuchlich. Verwandte Helleborus-Arten werden in der chinesischen Medizin als stark reinigende, aber giftige Kräuter klassifiziert.',
     ayurveda: 'Im klassischen Ayurveda nicht bekannt. Würde aufgrund der Giftigkeit dem Tamas-Guna zugeordnet.',
-    volksmedizin: 'Im Mittelalter streute man Nieswurzpulver in Ställe, um Viehseuchen abzuwehren. Bei Ohrenschmerzen blies man das Pulver in die Ohren -- ein gefährliches Verfahren. Die Christrose galt als Orakelpflanze: Blühte sie an Weihnachten üppig, versprach das ein gutes Jahr.',
+    volksmedizin: 'Im Mittelalter streute man Nieswurzpulver in Ställe, um Viehseuchen abzuwehren. Bei Ohrenschmerzen blies man das Pulver in die Ohren, ein gefährliches Verfahren. Die Christrose galt als Orakelpflanze: Blühte sie an Weihnachten üppig, versprach das ein gutes Jahr.',
     besonders_bei: ['apathie', 'geistige_traegheit', 'benommenheit'],
   },
 
@@ -890,7 +890,7 @@ Die Pflanze wird 60-90 cm hoch, mit länglichen, glänzenden Blättern und klein
 Aufgrund der starken Wirkung und der möglichen Nebenwirkungen (Depression, verstopfte Nase, Magengeschwüre bei Überdosierung) wird Rauwolfia heute nicht mehr als Hausmittel, sondern nur noch unter ärztlicher Aufsicht oder in homöopathischer Zubereitung verwendet.`,
     geschichte: `Die Rauwolfia gehört zu den ältesten Arzneipflanzen Indiens. In den vedischen Schriften wird "Sarpagandha" als Mittel gegen Schlangenbisse, Wahnsinn und Schlaflosigkeit beschrieben. Mahatma Gandhi soll regelmäßig Rauwolfia-Tee getrunken haben, um seinen Geist zu beruhigen.
 
-Der deutsche Botaniker Leonhard Rauwolf beschrieb die Pflanze 1582 nach einer Orientreise -- nach ihm wurde sie benannt. Doch erst 1952 gelang es dem Schweizer Chemiker Emil Schlittler, das Reserpin zu isolieren. Diese Entdeckung löste eine Revolution in der Medizin aus: Erstmals konnte Bluthochdruck medikamentös behandelt werden. Reserpin war auch der Vorläufer der modernen Antidepressiva, da seine Nebenwirkung -- die Erschöpfung der Serotoninspeicher -- zum Verständnis der Biochemie der Depression beitrug.`,
+Der deutsche Botaniker Leonhard Rauwolf beschrieb die Pflanze 1582 nach einer Orientreise, nach ihm wurde sie benannt. Doch erst 1952 gelang es dem Schweizer Chemiker Emil Schlittler, das Reserpin zu isolieren. Diese Entdeckung löste eine Revolution in der Medizin aus: Erstmals konnte Bluthochdruck medikamentös behandelt werden. Reserpin war auch der Vorläufer der modernen Antidepressiva, da seine Nebenwirkung, die Erschöpfung der Serotoninspeicher, zum Verständnis der Biochemie der Depression beitrug.`,
     wirkungen: {
       hauptwirkungen: ['Blutdrucksenkend (antihypertensiv)', 'Beruhigend (sedativ)', 'Herzfrequenz-senkend', 'Angstlösend', 'Antipsychotisch (historisch)'],
       inhaltsstoffe: ['Reserpin', 'Ajmalin', 'Ajmalicin', 'Serpentin', 'Yohimbin', 'Deserpidine', 'Indolalkaloide'],
@@ -898,7 +898,7 @@ Der deutsche Botaniker Leonhard Rauwolf beschrieb die Pflanze 1582 nach einer Or
     ernte: {
       zeit: 'Wurzel nach 3-4 Jahren Wachstum. Nur in tropischen Regionen kultivierbar.',
       teile: 'Wurzel (Hauptdroge) und Wurzelrinde.',
-      tipps: 'In Europa nur als Fertigpräparat aus der Apotheke erhältlich. Auf keinen Fall selbst dosieren -- die therapeutische Breite ist gering.',
+      tipps: 'In Europa nur als Fertigpräparat aus der Apotheke erhältlich. Auf keinen Fall selbst dosieren, die therapeutische Breite ist gering.',
       mond: 'Traditionell bei abnehmendem Mond geerntet.',
     },
     zubereitungen: [
@@ -916,7 +916,7 @@ Der deutsche Botaniker Leonhard Rauwolf beschrieb die Pflanze 1582 nach einer Or
     mischungen: ['Nur als Einzelmittel unter ärztlicher Aufsicht oder in homöopathischer Zubereitung'],
     tcm: 'Wird in der TCM nicht direkt verwendet, jedoch den bitter-kühlen, Leber-Yang-senkenden Kräutern zugeordnet.',
     ayurveda: 'Sarpagandha ist bitter, kühlend und schwer. Reduziert Pitta und Vata im Nervensystem. Beruhigt Manas (den Geist) und senkt Rakta Dhatu (Blut). Wichtiges Mittel in Unmaad Chikitsa (Psychiatrie) und bei Uccha Raktachap (Bluthochdruck).',
-    volksmedizin: 'In Indien gaben Dorfheiler seit Jahrhunderten Rauwolfia-Wurzelpulver an aufgeregte, verwirrte oder aggressive Menschen -- mit oft erstaunlichem Erfolg. Auch stillende Mütter erhielten sie zur Beruhigung. Bei Schlangenbissen wurde die zerriebene Wurzel auf den Biss gelegt und gleichzeitig als Tee getrunken.',
+    volksmedizin: 'In Indien gaben Dorfheiler seit Jahrhunderten Rauwolfia-Wurzelpulver an aufgeregte, verwirrte oder aggressive Menschen, mit oft erstaunlichem Erfolg. Auch stillende Mütter erhielten sie zur Beruhigung. Bei Schlangenbissen wurde die zerriebene Wurzel auf den Biss gelegt und gleichzeitig als Tee getrunken.',
     besonders_bei: ['bluthochdruck', 'unruhe', 'schlaflosigkeit', 'nervositaet'],
   },
 
@@ -928,12 +928,12 @@ Der deutsche Botaniker Leonhard Rauwolf beschrieb die Pflanze 1582 nach einer Or
     familie: 'Mohngewächse (Papaveraceae)',
     beschreibung: `Der Schlafmohn ist eine der ältesten und mächtigsten Heilpflanzen der Menschheit. Seine großen, seidenartig schimmernden Blüten in Weiß, Rosa, Violett oder Rot und die charakteristischen blaugrünen, bereiften Blätter machen ihn zu einer der schönsten Gartenpflanzen. Doch in seiner unreifen Samenkapsel verbirgt sich ein Milchsaft, der die Geschichte der Medizin, der Kriegsführung und des menschlichen Leids zutiefst geprägt hat.
 
-Das Opium -- der eingetrocknete Milchsaft -- enthält über 40 Alkaloide, darunter Morphin, Codein, Thebain und Papaverin. Morphin ist bis heute das stärkste natürliche Schmerzmittel und Maßstab, an dem alle synthetischen Analgetika gemessen werden. Codein ist eines der wirksamsten Hustenmittel. Papaverin löst Krämpfe der glatten Muskulatur.
+Das Opium, der eingetrocknete Milchsaft, enthält über 40 Alkaloide, darunter Morphin, Codein, Thebain und Papaverin. Morphin ist bis heute das stärkste natürliche Schmerzmittel und Maßstab, an dem alle synthetischen Analgetika gemessen werden. Codein ist eines der wirksamsten Hustenmittel. Papaverin löst Krämpfe der glatten Muskulatur.
 
 Die reinen Mohnsamen (aus der reifen Kapsel) sind ungiftig und ein wertvolles Nahrungsmittel, reich an Kalzium, Eisen, Zink und gesunden Fettsäuren. Mohnkuchen und Mohngebäck sind in Mitteleuropa seit Jahrhunderten beliebt. Der Anbau von Schlafmohn ist in vielen Ländern reguliert oder verboten.`,
-    geschichte: `Die ältesten Funde von Schlafmohn stammen aus neolithischen Siedlungen am Bodensee (ca. 4000 v. Chr.). Die Sumerer nannten ihn "Hul Gil" -- Pflanze der Freude. Die Ägypter, Griechen und Römer kannten seine schmerzstillende und schlaffördernde Wirkung. Hippokrates beschrieb Opium als Heilmittel bei Schmerzen und Schlaflosigkeit.
+    geschichte: `Die ältesten Funde von Schlafmohn stammen aus neolithischen Siedlungen am Bodensee (ca. 4000 v. Chr.). Die Sumerer nannten ihn "Hul Gil": Pflanze der Freude. Die Ägypter, Griechen und Römer kannten seine schmerzstillende und schlaffördernde Wirkung. Hippokrates beschrieb Opium als Heilmittel bei Schmerzen und Schlaflosigkeit.
 
-Im 19. Jahrhundert wurde Morphin als Einzelsubstanz isoliert -- es war das erste jemals isolierte Alkaloid (1804 durch Friedrich Sertürner). Die Erfindung der Injektionsspritze machte Morphin zum wichtigsten Schmerzmittel der Schlachtfelder. Gleichzeitig offenbarte sich die dunkle Seite: Opiumsucht und die verheerenden Opiumkriege in China. Die Geschichte des Schlafmohns ist die Geschichte der Doppelnatur jeder großen Heilkraft.`,
+Im 19. Jahrhundert wurde Morphin als Einzelsubstanz isoliert, es war das erste jemals isolierte Alkaloid (1804 durch Friedrich Sertürner). Die Erfindung der Injektionsspritze machte Morphin zum wichtigsten Schmerzmittel der Schlachtfelder. Gleichzeitig offenbarte sich die dunkle Seite: Opiumsucht und die verheerenden Opiumkriege in China. Die Geschichte des Schlafmohns ist die Geschichte der Doppelnatur jeder großen Heilkraft.`,
     wirkungen: {
       hauptwirkungen: ['Schmerzlindernd (Opiumalkaloide)', 'Hustenlindernd (Codein)', 'Schlaffördernd', 'Krampflösend (Papaverin)', 'Beruhigend', 'Stimmungshebend (euphorisierend)', 'Nahrungsmittel (reife Samen)'],
       inhaltsstoffe: ['Morphin', 'Codein', 'Thebain', 'Papaverin', 'Noscapin', 'Kalzium (Samen)', 'Eisen (Samen)', 'Zink (Samen)', 'Ölsäure', 'Linolsäure'],
@@ -959,7 +959,7 @@ Im 19. Jahrhundert wurde Morphin als Einzelsubstanz isoliert -- es war das erste
     mischungen: ['Schlaftee (Blüten, mit Baldrian und Hopfen)', 'Backmischung (Samen, mit Nüssen und Rosinen)'],
     tcm: 'Opium (Ying Su Ke, die Mohnkapsel) ist in der TCM als stark zusammenziehendes und Schmerz stillendes Mittel klassifiziert. Es stoppt Durchfall, Husten und Schmerzen, birgt aber hohes Suchtpotential.',
     ayurveda: 'Ahiphena (Opium) wird im Ayurveda als Grahi (zusammenziehend), Nidra Janana (schlafmachend) und Vedana Sthapana (schmerzstillend) beschrieben. Nur unter strenger ärztlicher Aufsicht und in Shodhana (gereinigter) Form.',
-    volksmedizin: 'In Mitteleuropa gab man unruhigen Säuglingen Mohnwasser zum Einschlafen -- eine gefährliche Praxis, die zum Glück der Vergangenheit angehört. Die Mohnsamen in Backwaren sind hingegen eine harmlose und schmackhafte Tradition. In der Schweiz heißt ein Nickerchen noch heute "Mohnschlaf".',
+    volksmedizin: 'In Mitteleuropa gab man unruhigen Säuglingen Mohnwasser zum Einschlafen, eine gefährliche Praxis, die zum Glück der Vergangenheit angehört. Die Mohnsamen in Backwaren sind hingegen eine harmlose und schmackhafte Tradition. In der Schweiz heißt ein Nickerchen noch heute "Mohnschlaf".',
     besonders_bei: ['schmerzen', 'schlaflosigkeit', 'husten', 'mineralstoffmangel'],
   },
 
@@ -971,20 +971,20 @@ Im 19. Jahrhundert wurde Morphin als Einzelsubstanz isoliert -- es war das erste
     familie: 'Hülsenfrüchtler (Fabaceae)',
     beschreibung: `Die Sennespflanze ist ein kleiner Strauch aus den Trockengebieten Nordafrikas und Arabiens, dessen Blätter und Früchte (Schoten) zu den bekanntesten pflanzlichen Abführmitteln weltweit gehören. Die gefiederten Blätter mit ihren leuchtend gelben Blüten und die flachen, bohnenartigen Früchte werden seit über tausend Jahren in der Medizin verwendet.
 
-Sennoside -- die Hauptwirkstoffe -- sind Anthrachinonglykoside, die im Dickdarm von Bakterien in ihre aktive Form umgewandelt werden. Dort hemmen sie die Wasseraufnahme und regen gleichzeitig die Darmperistaltik an. Die Wirkung tritt 8-12 Stunden nach der Einnahme ein und ist zuverlässig und kräftig.
+Sennoside, die Hauptwirkstoffe, sind Anthrachinonglykoside, die im Dickdarm von Bakterien in ihre aktive Form umgewandelt werden. Dort hemmen sie die Wasseraufnahme und regen gleichzeitig die Darmperistaltik an. Die Wirkung tritt 8-12 Stunden nach der Einnahme ein und ist zuverlässig und kräftig.
 
-Sennes ist ein Mittel für den kurzfristigen Einsatz bei akuter Verstopfung. Bei dauerhafter Anwendung droht eine Gewöhnung des Darms (Darmträgheit), Kaliummangel und eine Schädigung der Darmnerven. Maximal 1-2 Wochen am Stück verwenden und die Ursache der Verstopfung behandeln -- mehr Bewegung, Ballaststoffe und Wasser sind langfristig die bessere Lösung.`,
+Sennes ist ein Mittel für den kurzfristigen Einsatz bei akuter Verstopfung. Bei dauerhafter Anwendung droht eine Gewöhnung des Darms (Darmträgheit), Kaliummangel und eine Schädigung der Darmnerven. Maximal 1-2 Wochen am Stück verwenden und die Ursache der Verstopfung behandeln, mehr Bewegung, Ballaststoffe und Wasser sind langfristig die bessere Lösung.`,
     geschichte: `Die Sennespflanze wurde von arabischen Ärzten im 9. Jahrhundert in die Medizin eingeführt. Der persische Gelehrte Rhazes (ar-Razi) beschrieb sie als sanftes Abführmittel, und Avicenna widmete ihr ein ausführliches Kapitel in seinem "Kanon der Medizin". Über den arabischen Handel gelangte Sennes nach Europa, wo sie schnell zum beliebtesten Abführmittel der Apotheken wurde.
 
-Der Name "Alexandrinische Senna" verweist auf den ägyptischen Hafen Alexandria, über den die Droge nach Europa verschifft wurde. Die Tinnevelly-Senna (Senna angustifolia) aus Indien galt als die mildere Variante. In den Klöstern des Mittelalters gehörte Sennes zur Grundausstattung der Apotheke -- kein anderes Abführmittel war so zuverlässig.`,
+Der Name "Alexandrinische Senna" verweist auf den ägyptischen Hafen Alexandria, über den die Droge nach Europa verschifft wurde. Die Tinnevelly-Senna (Senna angustifolia) aus Indien galt als die mildere Variante. In den Klöstern des Mittelalters gehörte Sennes zur Grundausstattung der Apotheke, kein anderes Abführmittel war so zuverlässig.`,
     wirkungen: {
       hauptwirkungen: ['Stark abführend (laxativ)', 'Darmperistaltik anregend', 'Wassereinlagerung im Darm fördernd', 'Stuhlaufweichend'],
       inhaltsstoffe: ['Sennoside A und B', 'Anthrachinonglykoside', 'Aloe-Emodin', 'Rhein', 'Schleimstoffe', 'Flavonoide', 'Naphthalenonglykoside'],
     },
     ernte: {
       zeit: 'Blätter nach der Blüte, Früchte (Schoten) im reifen Zustand. In tropischen und subtropischen Regionen.',
-      teile: 'Blätter und Früchte (Schoten) -- die Früchte gelten als milder.',
-      tipps: 'In Europa nicht kultivierbar -- als Apothekenware oder Fertigpräparat beziehen. Die Sennesfrüchte (Folliculi Sennae) sind etwas milder als die Blätter.',
+      teile: 'Blätter und Früchte (Schoten), die Früchte gelten als milder.',
+      tipps: 'In Europa nicht kultivierbar, als Apothekenware oder Fertigpräparat beziehen. Die Sennesfrüchte (Folliculi Sennae) sind etwas milder als die Blätter.',
       mond: 'Traditionell bei abnehmendem Mond geerntet für die ausleitende Wirkung.',
     },
     zubereitungen: [
@@ -1012,14 +1012,14 @@ Der Name "Alexandrinische Senna" verweist auf den ägyptischen Hafen Alexandria,
   'Sternanis': {
     vollname: 'Echter Sternanis (Illicium verum)',
     familie: 'Sternanisgewächse (Schisandraceae)',
-    beschreibung: `Der Sternanis ist einer der faszinierendsten Vertreter der Pflanzenwelt -- eine sternförmige Frucht von einem immergrünen Baum Südchinas und Vietnams, die nach Anis duftet, obwohl sie mit dem europäischen Anis (Pimpinella anisum) nicht verwandt ist. Jeder der meist acht Zacken des Sterns enthält einen glänzenden, braunen Samen. Der Duft stammt vom ätherischen Öl Anethol, das beide Pflanzen gemeinsam haben.
+    beschreibung: `Der Sternanis ist einer der faszinierendsten Vertreter der Pflanzenwelt, eine sternförmige Frucht von einem immergrünen Baum Südchinas und Vietnams, die nach Anis duftet, obwohl sie mit dem europäischen Anis (Pimpinella anisum) nicht verwandt ist. Jeder der meist acht Zacken des Sterns enthält einen glänzenden, braunen Samen. Der Duft stammt vom ätherischen Öl Anethol, das beide Pflanzen gemeinsam haben.
 
-In der Heilkunde wirkt Sternanis krampflösend auf den Magen-Darm-Trakt, blähungstreibend und schleimlösend. Sein ätherisches Öl hemmt das Wachstum von Bakterien und Pilzen. Besonders bemerkenswert: Sternanis ist die natürliche Quelle der Shikimisäure, aus der das antivirale Medikament Oseltamivir (Tamiflu) hergestellt wird -- ein Grippemittel, das während der Vogelgrippe-Pandemie weltweite Bedeutung erlangte.
+In der Heilkunde wirkt Sternanis krampflösend auf den Magen-Darm-Trakt, blähungstreibend und schleimlösend. Sein ätherisches Öl hemmt das Wachstum von Bakterien und Pilzen. Besonders bemerkenswert: Sternanis ist die natürliche Quelle der Shikimisäure, aus der das antivirale Medikament Oseltamivir (Tamiflu) hergestellt wird, ein Grippemittel, das während der Vogelgrippe-Pandemie weltweite Bedeutung erlangte.
 
 In der asiatischen Küche und Heilkunde ist Sternanis unverzichtbar. Er gehört zum chinesischen Fünf-Gewürze-Pulver und verleiht der Pho-Suppe Vietnams ihren charakteristischen Geschmack. Vorsicht: Der Japanische Sternanis (Illicium anisatum) ist giftig und darf nicht verwechselt werden.`,
-    geschichte: `Sternanis wird in China seit der Tang-Dynastie (618-907 n. Chr.) als Gewürz und Heilmittel verwendet. Marco Polo brachte ihn im 13. Jahrhundert nach Europa, wo er zunächst als exotische Kostbarkeit galt. Im 17. Jahrhundert etablierte er sich als preiswerter Ersatz für den teureren Anis in der Likörherstellung -- der französische Pastis verdankt ihm sein Aroma.
+    geschichte: `Sternanis wird in China seit der Tang-Dynastie (618-907 n. Chr.) als Gewürz und Heilmittel verwendet. Marco Polo brachte ihn im 13. Jahrhundert nach Europa, wo er zunächst als exotische Kostbarkeit galt. Im 17. Jahrhundert etablierte er sich als preiswerter Ersatz für den teureren Anis in der Likörherstellung, der französische Pastis verdankt ihm sein Aroma.
 
-In der TCM gehört Sternanis seit über tausend Jahren zu den wärmenden Gewürzen, die den mittleren Erwärmer (Milz und Magen) stärken und Kälteschmerzen vertreiben. Als die Weltgesundheitsorganisation 2005 Tamiflu als wichtigstes Mittel gegen eine mögliche Grippepandemie einstufte, stiegen die Weltmarktpreise für Sternanis dramatisch an -- ein Gewürz wurde zum strategischen Rohstoff.`,
+In der TCM gehört Sternanis seit über tausend Jahren zu den wärmenden Gewürzen, die den mittleren Erwärmer (Milz und Magen) stärken und Kälteschmerzen vertreiben. Als die Weltgesundheitsorganisation 2005 Tamiflu als wichtigstes Mittel gegen eine mögliche Grippepandemie einstufte, stiegen die Weltmarktpreise für Sternanis dramatisch an, ein Gewürz wurde zum strategischen Rohstoff.`,
     wirkungen: {
       hauptwirkungen: ['Blähungstreibend (karminativ)', 'Krampflösend', 'Schleimlösend', 'Antibakteriell', 'Antimykotisch', 'Antiviral (Shikimisäure)', 'Wärmend', 'Verdauungsfördernd'],
       inhaltsstoffe: ['Anethol', 'Ätherisches Öl (5-8%)', 'Shikimisäure', 'Quercetin', 'Linalool', 'Limonen', 'Safrol (Spuren)', 'Gerbstoffe', 'Fette Öle'],
@@ -1027,7 +1027,7 @@ In der TCM gehört Sternanis seit über tausend Jahren zu den wärmenden Gewürz
     ernte: {
       zeit: 'Früchte werden vor der vollständigen Reife geerntet und an der Sonne getrocknet, wenn sie ihre typische Sternform entfalten.',
       teile: 'Die ganzen Sternfrüchte.',
-      tipps: 'In Europa als Gewürz im Handel erhältlich. Auf die Herkunft achten -- nur Illicium verum (Echter Sternanis) verwenden, niemals Illicium anisatum (Japanischer Sternanis), der giftig ist.',
+      tipps: 'In Europa als Gewürz im Handel erhältlich. Auf die Herkunft achten, nur Illicium verum (Echter Sternanis) verwenden, niemals Illicium anisatum (Japanischer Sternanis), der giftig ist.',
       mond: 'Bei zunehmendem Mond für Tees und Tinkturen, bei abnehmendem für die ausleitende Wirkung.',
     },
     zubereitungen: [
@@ -1050,7 +1050,7 @@ In der TCM gehört Sternanis seit über tausend Jahren zu den wärmenden Gewürz
     mischungen: ['Fünf-Gewürze-Mischung (mit Szechuanpfeffer, Zimt, Nelken, Fenchel)', 'Blähungstee (mit Fenchel und Kümmel)', 'Erkältungsgewürz (mit Zimt, Nelken und Ingwer)'],
     tcm: 'Ba Jiao Hui Xiang wärmt die Mitte, zerstreut Kälte und reguliert das Qi. Er vertreibt Kälteschmerzen im Bauch und stärkt das Nieren-Yang. Zugeordnet dem Leber-, Nieren- und Milzmeridian.',
     ayurveda: 'Süß, scharf und wärmend. Stärkt Agni und Vyana Vayu. Reduziert Vata und Kapha im Verdauungstrakt. Ein hervorragendes Dipana (appetitanregendes) Gewürz.',
-    volksmedizin: 'In Südchina und Vietnam gehört Sternanis in jede Hausapotheke: Bei Bauchschmerzen kaut man einen Zacken, bei Erkältung kocht man ihn in der Suppe, bei Mundgeruch lutscht man ihn nach dem Essen. Auch zur Insektenabwehr wurde er verbrannt -- sein Duft vertreibt Mücken.',
+    volksmedizin: 'In Südchina und Vietnam gehört Sternanis in jede Hausapotheke: Bei Bauchschmerzen kaut man einen Zacken, bei Erkältung kocht man ihn in der Suppe, bei Mundgeruch lutscht man ihn nach dem Essen. Auch zur Insektenabwehr wurde er verbrannt, sein Duft vertreibt Mücken.',
     besonders_bei: ['blaehungen', 'verdauung', 'erkaeltung', 'husten', 'bauchkraempfe', 'uebelkeit'],
   },
 
@@ -1060,14 +1060,14 @@ In der TCM gehört Sternanis seit über tausend Jahren zu den wärmenden Gewürz
   'Weinraute': {
     vollname: 'Weinraute (Ruta graveolens)',
     familie: 'Rautengewächse (Rutaceae)',
-    beschreibung: `Die Weinraute ist ein graugrüner, streng duftender Halbstrauch mit fein zerteilten Blättern und kleinen gelben Blüten, der im Mittelmeerraum heimisch ist und seit der Antike als eine der mächtigsten Schutz- und Heilpflanzen gilt. Ihr durchdringender, leicht bitterer Geruch verrät die hohe Konzentration an ätherischen Ölen und Alkaloiden, die sie zu einer Pflanze mit großer Wirkung -- aber auch mit Nebenwirkungen -- machen.
+    beschreibung: `Die Weinraute ist ein graugrüner, streng duftender Halbstrauch mit fein zerteilten Blättern und kleinen gelben Blüten, der im Mittelmeerraum heimisch ist und seit der Antike als eine der mächtigsten Schutz- und Heilpflanzen gilt. Ihr durchdringender, leicht bitterer Geruch verrät die hohe Konzentration an ätherischen Ölen und Alkaloiden, die sie zu einer Pflanze mit großer Wirkung, aber auch mit Nebenwirkungen, machen.
 
-Die Weinraute enthält Furanocumarine, die bei Hautkontakt zusammen mit Sonnenlicht starke Verbrennungen auslösen können (Phototoxizität). Innerlich wirkt sie in kleinen Dosen krampflösend, menstruationsfördernd und durchblutungsanregend. Sie stärkt die Kapillargefäße durch ihren Gehalt an Rutin -- einem Flavonoid, das nach der Ruta-Pflanze benannt wurde und heute als Venenmittel eingesetzt wird.
+Die Weinraute enthält Furanocumarine, die bei Hautkontakt zusammen mit Sonnenlicht starke Verbrennungen auslösen können (Phototoxizität). Innerlich wirkt sie in kleinen Dosen krampflösend, menstruationsfördernd und durchblutungsanregend. Sie stärkt die Kapillargefäße durch ihren Gehalt an Rutin, einem Flavonoid, das nach der Ruta-Pflanze benannt wurde und heute als Venenmittel eingesetzt wird.
 
 In der Schwangerschaft ist die Weinraute streng kontraindiziert, da sie Wehen auslösen kann. In kleinen Dosen und als äußere Anwendung bleibt sie jedoch ein wertvolles Heilmittel bei Augenermüdung, Venenbeschwerden und Krämpfen.`,
     geschichte: `Die Weinraute war in der Antike eine der am höchsten geschätzten Pflanzen überhaupt. Mithridates VI., König von Pontus, nahm sie täglich als Gegengift ein. Die Römer pflanzten sie an Straßenkreuzungen zum Schutz vor bösem Blick. Hippokrates empfahl sie bei Atemnot und Krämpfen.
 
-Im Mittelalter war die Weinraute die wichtigste Schutzpflanze gegen die Pest: Richter hielten Rautensträuße vor die Nase, wenn sie Gefangene verurteilten, um sich vor Ansteckung zu schützen -- der "Essigschwamm" der Pestärzte war mit Rautenessig getränkt. In Italien und Griechenland wird die "Ruta" bis heute als Schutzpflanze gegen den bösen Blick verehrt und als Amulett getragen.`,
+Im Mittelalter war die Weinraute die wichtigste Schutzpflanze gegen die Pest: Richter hielten Rautensträuße vor die Nase, wenn sie Gefangene verurteilten, um sich vor Ansteckung zu schützen, der "Essigschwamm" der Pestärzte war mit Rautenessig getränkt. In Italien und Griechenland wird die "Ruta" bis heute als Schutzpflanze gegen den bösen Blick verehrt und als Amulett getragen.`,
     wirkungen: {
       hauptwirkungen: ['Krampflösend', 'Gefäßstärkend (Rutin)', 'Menstruationsfördernd', 'Durchblutungsanregend', 'Augenentlastend', 'Insektenabwehrend', 'Phototoxisch (bei Hautkontakt + Sonne)'],
       inhaltsstoffe: ['Rutin', 'Furanocumarine (Bergapten, Psoralen)', 'Ätherisches Öl (Methylnonylketon)', 'Alkaloide (Graveolin)', 'Cumarine', 'Flavonoide', 'Vitamin C'],
@@ -1075,7 +1075,7 @@ Im Mittelalter war die Weinraute die wichtigste Schutzpflanze gegen die Pest: Ri
     ernte: {
       zeit: 'Blühendes Kraut von Juni bis August. Am besten bei bedecktem Himmel ernten.',
       teile: 'Oberes Drittel des blühenden Krauts.',
-      tipps: 'Unbedingt Handschuhe tragen -- der Pflanzensaft verursacht in Verbindung mit Sonnenlicht schmerzhafte Blasen auf der Haut. Nie bei Sonnenschein ernten oder verarbeiten.',
+      tipps: 'Unbedingt Handschuhe tragen, der Pflanzensaft verursacht in Verbindung mit Sonnenlicht schmerzhafte Blasen auf der Haut. Nie bei Sonnenschein ernten oder verarbeiten.',
       mond: 'Bei zunehmendem Mond für die krampflösende Wirkung.',
     },
     zubereitungen: [
@@ -1095,7 +1095,7 @@ Im Mittelalter war die Weinraute die wichtigste Schutzpflanze gegen die Pest: Ri
         wirkung: 'Durchblutungsfördernd und venenstärkend. Auch als Insektenabwehr verwendbar.',
       },
     ],
-    mischungen: ['Frauentee (mit Beifuß und Schafgarbe -- nicht in der Schwangerschaft)', 'Venentee (mit Rosskastanie und Steinklee)', 'Augentee (mit Augentrost und Fenchel)'],
+    mischungen: ['Frauentee (mit Beifuß und Schafgarbe, nicht in der Schwangerschaft)', 'Venentee (mit Rosskastanie und Steinklee)', 'Augentee (mit Augentrost und Fenchel)'],
     tcm: 'Die Weinraute ist scharf und warm, sie bewegt Blut und Qi, zerstreut Kälte und löst Stagnation. Wirkt auf Leber- und Magenmeridian.',
     ayurveda: 'Scharf, bitter und heiß. Reduziert Vata und Kapha, kann Pitta erhöhen. Bewegt Apana Vayu und Vyana Vayu. Nicht bei Pitta-Konstitution und in der Schwangerschaft.',
     volksmedizin: 'In Südeuropa gilt die Raute als stärkste Schutzpflanze gegen den "Malocchio" (bösen Blick). Italienische Großmütter nähen getrocknete Rautenblätter in kleine Säckchen und geben sie ihren Enkeln mit. In Griechenland wird Rautenessig zur Reinigung von Krankenzimmern verwendet.',
@@ -1108,14 +1108,14 @@ Im Mittelalter war die Weinraute die wichtigste Schutzpflanze gegen die Pest: Ri
   'Wiesenknopf': {
     vollname: 'Großer Wiesenknopf (Sanguisorba officinalis)',
     familie: 'Rosengewächse (Rosaceae)',
-    beschreibung: `Der Große Wiesenknopf ist eine elegante Wiesenpflanze mit langen, dünnen Stängeln, die von dunkelroten, eiförmigen Blütenköpfchen gekrönt werden -- wie kleine Knöpfe auf der Wiese, daher sein Name. Die gefiederten Blätter haben gesägte Blättchen, die ein wenig an Bibernelle erinnern. Er wächst auf feuchten Wiesen, an Bachufern und in Flussauen und blüht von Juni bis September.
+    beschreibung: `Der Große Wiesenknopf ist eine elegante Wiesenpflanze mit langen, dünnen Stängeln, die von dunkelroten, eiförmigen Blütenköpfchen gekrönt werden, wie kleine Knöpfe auf der Wiese, daher sein Name. Die gefiederten Blätter haben gesägte Blättchen, die ein wenig an Bibernelle erinnern. Er wächst auf feuchten Wiesen, an Bachufern und in Flussauen und blüht von Juni bis September.
 
-Sein lateinischer Name "Sanguisorba" bedeutet "Bluttrinker" und verweist auf seine traditionelle Hauptwirkung: das Stillen von Blutungen. Die Pflanze enthält reichlich Gerbstoffe (Tannine), die die Blutgefäße zusammenziehen, Blutungen stoppen und entzündete Schleimhäute beruhigen. Diese adstringierende Kraft macht sie zu einem verlässlichen Mittel bei allen Arten von Blutungen -- Nasenbluten, zu starke Menstruation, Wundblutungen und Hämorrhoiden.
+Sein lateinischer Name "Sanguisorba" bedeutet "Bluttrinker" und verweist auf seine traditionelle Hauptwirkung: das Stillen von Blutungen. Die Pflanze enthält reichlich Gerbstoffe (Tannine), die die Blutgefäße zusammenziehen, Blutungen stoppen und entzündete Schleimhäute beruhigen. Diese adstringierende Kraft macht sie zu einem verlässlichen Mittel bei allen Arten von Blutungen: Nasenbluten, zu starke Menstruation, Wundblutungen und Hämorrhoiden.
 
-In der chinesischen Medizin ist die eng verwandte Art Sanguisorba officinalis als "Di Yu" eine der wichtigsten blutstillenden Arzneipflanzen, die seit über 2000 Jahren bei Darmblutungen und blutigen Durchfällen eingesetzt wird. Auch die jungen Blätter sind essbar und schmecken nussig-gurkenähnlich -- in England heißt die verwandte Art "Salad Burnet" (Salatbibernelle).`,
-    geschichte: `Der Wiesenknopf wurde seit dem Altertum als Wund- und Blutstillmittel geschätzt. Dioskurides beschrieb ihn als Mittel gegen Blutfluss. Im Mittelalter gehörte er zu den "Vulneraria" -- den Wundkräutern -- und wurde auf Schlachtfeldern direkt in Wunden gepresst.
+In der chinesischen Medizin ist die eng verwandte Art Sanguisorba officinalis als "Di Yu" eine der wichtigsten blutstillenden Arzneipflanzen, die seit über 2000 Jahren bei Darmblutungen und blutigen Durchfällen eingesetzt wird. Auch die jungen Blätter sind essbar und schmecken nussig-gurkenähnlich, in England heißt die verwandte Art "Salad Burnet" (Salatbibernelle).`,
+    geschichte: `Der Wiesenknopf wurde seit dem Altertum als Wund- und Blutstillmittel geschätzt. Dioskurides beschrieb ihn als Mittel gegen Blutfluss. Im Mittelalter gehörte er zu den "Vulneraria", den Wundkräutern, und wurde auf Schlachtfeldern direkt in Wunden gepresst.
 
-In der englischen Kräuterheilkunde war "Great Burnet" ein Hausmittel bei schweren Monatsblutungen und Hämorrhoiden. Der Kräuterkundige John Gerard schrieb 1597: "Das Pulver der Wurzel, in Wein getrunken, stillt jede Art von Blutfluss." In der chinesischen Medizin hat Di Yu eine noch längere und besser dokumentierte Geschichte -- es erscheint bereits im Shennong Bencao Jing, dem ältesten chinesischen Arzneibuch.`,
+In der englischen Kräuterheilkunde war "Great Burnet" ein Hausmittel bei schweren Monatsblutungen und Hämorrhoiden. Der Kräuterkundige John Gerard schrieb 1597: "Das Pulver der Wurzel, in Wein getrunken, stillt jede Art von Blutfluss." In der chinesischen Medizin hat Di Yu eine noch längere und besser dokumentierte Geschichte, es erscheint bereits im Shennong Bencao Jing, dem ältesten chinesischen Arzneibuch.`,
     wirkungen: {
       hauptwirkungen: ['Blutstillend (hämostatisch)', 'Adstringierend', 'Entzündungshemmend', 'Antibakteriell', 'Wundheilend', 'Durchfallhemmend', 'Kühlend'],
       inhaltsstoffe: ['Gerbstoffe (Sanguiin, Ellagitannine)', 'Ellagsäure', 'Flavonoide', 'Saponine (Sanguisorbine)', 'Vitamin C', 'Triterpene', 'Sterole'],
@@ -1123,7 +1123,7 @@ In der englischen Kräuterheilkunde war "Great Burnet" ein Hausmittel bei schwer
     ernte: {
       zeit: 'Blühendes Kraut von Juni bis September. Wurzel im Herbst nach der Blüte.',
       teile: 'Blühendes Kraut und Wurzel. Junge Blätter im Frühling als Salatbeigabe.',
-      tipps: 'Auf feuchten, ungedüngten Wiesen suchen. Die Pflanze steht in manchen Regionen auf der Roten Liste -- nur dort sammeln, wo sie häufig vorkommt. Wurzel im Herbst graben, längs spalten und trocknen.',
+      tipps: 'Auf feuchten, ungedüngten Wiesen suchen. Die Pflanze steht in manchen Regionen auf der Roten Liste, nur dort sammeln, wo sie häufig vorkommt. Wurzel im Herbst graben, längs spalten und trocknen.',
       mond: 'Blühendes Kraut bei zunehmendem Mond, Wurzel bei abnehmendem Mond ernten.',
     },
     zubereitungen: [
@@ -1151,7 +1151,7 @@ In der englischen Kräuterheilkunde war "Great Burnet" ein Hausmittel bei schwer
     mischungen: ['Blutstillender Tee (mit Hirtentäschel und Schafgarbe)', 'Frauentee bei starker Blutung (mit Frauenmantel und Gänsefingerkraut)', 'Darmheilung (mit Tormentill und Eichenrinde)'],
     tcm: 'Di Yu kühlt das Blut und stillt Blutungen. Hauptmittel bei Blut im Stuhl, blutigen Hämorrhoiden und Uterusblutungen. Bitter und kühlend, wirkt auf Leber- und Dickdarmmeridian.',
     ayurveda: 'Zusammenziehend und kühlend, reduziert Pitta stark. Stillt Raktapitta (Blutungen durch Pitta-Hitze). Stärkt die Gefäßwände und reinigt das Blut.',
-    volksmedizin: 'Auf dem Land war der Wiesenknopf das Mittel der Wahl bei Nasenbluten -- man steckte ein zusammengerolltes Blatt in die Nase. Bei Durchfall tranken die Bauern starken Wiesenknopf-Tee, der den Darm "zusammenzog". Die jungen Blätter im Salat galten als blutreinigend und stärkend.',
+    volksmedizin: 'Auf dem Land war der Wiesenknopf das Mittel der Wahl bei Nasenbluten, man steckte ein zusammengerolltes Blatt in die Nase. Bei Durchfall tranken die Bauern starken Wiesenknopf-Tee, der den Darm "zusammenzog". Die jungen Blätter im Salat galten als blutreinigend und stärkend.',
     besonders_bei: ['blutungen', 'menstruationsbeschwerden', 'haemorrhoiden', 'durchfall', 'wunden', 'darmentzuendung'],
   },
 

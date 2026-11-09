@@ -330,7 +330,7 @@ function HexenwissenPage({ onSearch }) {
             <span className="text-green-main shrink-0 font-mono">{z.menge}</span>
             <span className="text-text-medium">
               {z.name}
-              {z.wirkung && <span className="text-text-muted italic"> -- {z.wirkung}</span>}
+              {z.wirkung && <span className="text-text-muted italic"> · {z.wirkung}</span>}
             </span>
           </div>
         ))}
@@ -491,7 +491,7 @@ function HexenwissenPage({ onSearch }) {
     // 5. Schutz & Reinigung
     const schutzSections = []
     if (hr('Schutz & Reinigung').length) schutzSections.push({ id: 'hr-schutz', label: 'Schutz & Reinigung', items: hr('Schutz & Reinigung') })
-    if (hr('Erste Hilfe -- Natürlich').length) schutzSections.push({ id: 'hr-erstehilfe', label: 'Erste Hilfe', items: hr('Erste Hilfe -- Natürlich') })
+    if (hr('Erste Hilfe: Natürlich').length) schutzSections.push({ id: 'hr-erstehilfe', label: 'Erste Hilfe', items: hr('Erste Hilfe: Natürlich') })
     if (schutzSections.length) groups.push({ id: 'schutz', label: 'Schutz & Erste Hilfe', sections: schutzSections })
 
     // 6. Natur & Jahreskreis
@@ -901,7 +901,7 @@ function KrauterPage({ onSearch, onSelectCondition }) {
                 <div className="space-y-3">
                   {/* Tiefe Beschreibung wenn vorhanden */}
                   {deep?.vollname && (
-                    <p className="text-xs text-text-muted italic">{deep.vollname} -- {deep.familie || herb.familie}</p>
+                    <p className="text-xs text-text-muted italic">{deep.vollname} · {deep.familie || herb.familie}</p>
                   )}
                   {!deep?.vollname && herb.familie && (
                     <p className="text-xs text-text-muted">Familie: {herb.familie}</p>

@@ -9,41 +9,41 @@ export const ZIRBELDRUESE_WISSEN = [
   // ----------------------------------------------------------
   {
     id: "zirbeldruese-grundwissen",
-    name: "Die Zirbeldrüse — Das dritte Auge der Wissenschaft",
+    name: "Die Zirbeldrüse: Das dritte Auge der Wissenschaft",
     kategorie: "Wissen",
     inhalt:
       "Die Zirbeldrüse (Glandula pinealis, Epiphyse) ist eine erbsengroße Drüse " +
       "mitten im Gehirn, exakt zwischen den beiden Hemispären positioniert. " +
-      "Sie ist die EINZIGE Hirnstruktur, die nicht paarig angelegt ist, und — " +
-      "entscheidend — die einzige, die NICHT durch die Blut-Hirn-Schranke " +
+      "Sie ist die EINZIGE Hirnstruktur, die nicht paarig angelegt ist, und" +
+      "entscheidend, die einzige, die NICHT durch die Blut-Hirn-Schranke " +
       "geschützt wird. Das bedeutet: Alles was im Blut zirkuliert, erreicht " +
       "sie direkt.\n\n" +
       "Biologisch betrachtet ist die Bezeichnung 'drittes Auge' wörtlich zu " +
-      "nehmen: Die Zirbeldrüse enthält echte Photorezeptoren — Stäbchen und " +
+      "nehmen: Die Zirbeldrüse enthält echte Photorezeptoren: Stäbchen und " +
       "Zapfen, genau wie in der Netzhaut des Auges. Ihre Zellen (Pinealocyten) " +
       "sind evolutionär direkt mit Netzhaut-Zellen verwandt. Bei vielen " +
-      "Reptilien und Amphibien ist das Parietalorgan — der evolutionäre " +
-      "Vorgänger — noch als echtes lichtempfindliches Organ auf der " +
+      "Reptilien und Amphibien ist das Parietalorgan, der evolutionäre " +
+      "Vorgänger, noch als echtes lichtempfindliches Organ auf der " +
       "Schädeloberseite sichtbar.\n\n" +
       "Noch faszinierender: Die Zirbeldrüse enthält Piezokristalle " +
       "(Calcit-Mikrokristalle), die auf elektromagnetische Felder reagieren " +
       "und mechanische Schwingungen in elektrische Signale umwandeln können. " +
       "Sie ist damit im wörtlichen Sinn eine biologische Antenne.\n\n" +
       "Die Drüse produziert Melatonin (Schlafhormon), Serotonin " +
-      "(Stimmungshormon) und möglicherweise endogenes DMT — Rick Strassman " +
+      "(Stimmungshormon) und möglicherweise endogenes DMT: Rick Strassman " +
       "prägte den Begriff 'Spirit Molecule', und 2013 wies die Cottonwood " +
       "Research Foundation DMT tatsächlich im lebenden Rattengehirn nach.\n\n" +
       "Rene Descartes nannte sie 'den Sitz der Seele'. In JEDER großen " +
       "spirituellen Tradition gilt sie als Zentrum der Intuition und " +
       "Erleuchtung: Ajna-Chakra (Hindu), Himmlisches Auge (Tao), Auge des " +
-      "Horus (Ägypten), Epiphyse (Griechisch — epi + physis, 'über der " +
+      "Horus (Ägypten), Epiphyse (Griechisch, epi + physis, 'über der " +
       "Natur'). Es ist, als hätte die gesamte Menschheit unabhängig " +
       "voneinander dasselbe innere Organ kartographiert.",
     kernpunkte: [
-      "Erbsengroße Drüse exakt in der Mitte des Gehirns — einzige nicht-paarige Hirnstruktur",
-      "Enthält echte Photorezeptoren (Stäbchen und Zapfen) — 'drittes Auge' ist biologisch wörtlich",
-      "Enthält piezoelektrische Calcit-Mikrokristalle — reagiert auf elektromagnetische Felder",
-      "Nicht durch die Blut-Hirn-Schranke geschützt — alles im Blut erreicht sie direkt",
+      "Erbsengroße Drüse exakt in der Mitte des Gehirns, einzige nicht-paarige Hirnstruktur",
+      "Enthält echte Photorezeptoren (Stäbchen und Zapfen), 'drittes Auge' ist biologisch wörtlich",
+      "Enthält piezoelektrische Calcit-Mikrokristalle, reagiert auf elektromagnetische Felder",
+      "Nicht durch die Blut-Hirn-Schranke geschützt, alles im Blut erreicht sie direkt",
       "Produziert Melatonin, Serotonin und möglicherweise endogenes DMT (Strassman/Cottonwood 2013)",
       "In jeder spirituellen Tradition als Sitz der Intuition verehrt: Ajna, Horus-Auge, Himmlisches Auge",
       "Pinealocyten sind evolutionär verwandt mit Netzhaut-Zellen",
@@ -64,16 +64,16 @@ export const ZIRBELDRUESE_WISSEN = [
   // ----------------------------------------------------------
   {
     id: "zirbeldruese-verkalkung",
-    name: "Verkalkung — Warum die Zirbeldrüse versteinert",
+    name: "Verkalkung: Warum die Zirbeldrüse versteinert",
     kategorie: "Wissen",
     inhalt:
       "Die Verkalkung der Zirbeldrüse ist eines der am wenigsten besprochenen " +
       "und gleichzeitig folgenreichsten Phänomene der modernen Gesundheit. " +
       "Ab dem 17. Lebensjahr ist die Verkalkung auf Röntgenbildern oft als " +
-      "heller Fleck sichtbar — und sie beginnt schon in der Kindheit.\n\n" +
+      "heller Fleck sichtbar, und sie beginnt schon in der Kindheit.\n\n" +
       "FLUORID ist der Hauptverursacher. Die bahnbrechende Studie von Jennifer " +
       "Luke (2001, University of Surrey) zeigte: Die Zirbeldrüse akkumuliert " +
-      "mehr Fluorid als JEDES andere Weichgewebe im Körper — bis zu 21.000 ppm. " +
+      "mehr Fluorid als JEDES andere Weichgewebe im Körper, bis zu 21.000 ppm. " +
       "Fluorid-Quellen: Zahnpasta, fluoridiertes Trinkwasser (in manchen " +
       "Ländern), Teflon-Pfannen, bestimmte Medikamente (z.B. Fluoxetin/Prozac), " +
       "Pestizide.\n\n" +
@@ -83,7 +83,7 @@ export const ZIRBELDRUESE_WISSEN = [
       "verschärft das Problem)\n" +
       "• Halogenide: Chlor (Leitungswasser, Schwimmbad) und Brom (Backwaren, " +
       "Flammschutzmittel) verdrängen Jod und belasten die Drüse\n" +
-      "• EMF-Strahlung: Handys, WLAN, Mobilfunkmasten — die Piezokristalle " +
+      "• EMF-Strahlung: Handys, WLAN, Mobilfunkmasten, die Piezokristalle " +
       "der Zirbeldrüse reagieren direkt auf elektromagnetische Felder\n" +
       "• Quecksilber: Amalgam-Füllungen, bestimmte Fischsorten\n\n" +
       "Die Folgen der Verkalkung korrelieren mit: schlechterem Schlaf, " +
@@ -93,12 +93,12 @@ export const ZIRBELDRUESE_WISSEN = [
       "Calcit-Ablagerungen wieder abbauen, wenn man die Ursachen eliminiert " +
       "und gezielt entkalkt. Es ist nie zu spät.",
     kernpunkte: [
-      "Fluorid ist der Hauptverursacher — Zirbeldrüse akkumuliert mehr Fluorid als jedes andere Gewebe (Jennifer Luke, 2001)",
+      "Fluorid ist der Hauptverursacher: Zirbeldrüse akkumuliert mehr Fluorid als jedes andere Gewebe (Jennifer Luke, 2001)",
       "Verkalkung beginnt schon in der Kindheit und ist ab ~17 Jahren auf Röntgenbildern sichtbar",
       "Weitere Treiber: überschüssiges Calcium, Halogenide (Chlor, Brom), EMF-Strahlung, Quecksilber",
       "Korreliert mit schlechtem Schlaf, niedrigem Melatonin, reduzierter Intuition, Alzheimer-Risiko",
       "Teflon, Amalgam, pasteurisierte Milch und Pestizide tragen zur Verkalkung bei",
-      "Die Verkalkung ist REVERSIBEL — gezielte Entkalkung ist möglich",
+      "Die Verkalkung ist REVERSIBEL, gezielte Entkalkung ist möglich",
     ],
     tags: [
       "#verkalkung",
@@ -116,14 +116,14 @@ export const ZIRBELDRUESE_WISSEN = [
   // ----------------------------------------------------------
   {
     id: "fluorid-zirbeldruese",
-    name: "Fluorid — Der größte Feind der Zirbeldrüse",
+    name: "Fluorid: Der größte Feind der Zirbeldrüse",
     kategorie: "Wissen",
     inhalt:
       "Die Beziehung zwischen Fluorid und der Zirbeldrüse ist eines der " +
       "bestgehütonsten Gesundheitsthemen unserer Zeit.\n\n" +
       "Jennifer Lukes Dissertation (2001, University of Surrey) war ein " +
       "Meilenstein: Sie maß Fluorid-Konzentrationen von bis zu 21.000 ppm " +
-      "in menschlichen Zirbeldrüsen — mehr als in Knochen oder Zähnen! Die " +
+      "in menschlichen Zirbeldrüsen, mehr als in Knochen oder Zähnen! Die " +
       "Drüse wirkt wie ein Fluorid-Magnet.\n\n" +
       "Der National Research Council (USA, 2006) stellte fest: 'Fluoride is " +
       "likely to cause decreased melatonin production and to have other " +
@@ -132,13 +132,13 @@ export const ZIRBELDRUESE_WISSEN = [
       "Fluorid-Quellen im Alltag:\n" +
       "• Zahnpasta: 1000–1500 ppm Fluorid (die meisten konventionellen Marken)\n" +
       "• Mundspülung: Oft fluoridhaltig\n" +
-      "• Trinkwasser: In USA und UK künstlich fluoridiert — in Deutschland " +
+      "• Trinkwasser: In USA und UK künstlich fluoridiert, in Deutschland " +
       "wird das Trinkwasser NICHT fluoridiert, aber andere Quellen bleiben\n" +
       "• Teflon-Beschichtung: Setzt bei Erhitzung Fluorverbindungen frei\n" +
       "• Medikamente: Fluoxetin (Prozac) enthält ein Fluorid-Atom im Molekül, " +
       "ebenso viele Antibiotika der Fluorchinolon-Gruppe (Ciprofloxacin etc.)\n" +
       "• Schwarzer und grüner Tee: Die Teepflanze (Camellia sinensis) " +
-      "akkumuliert natürlich Fluorid aus dem Boden — ältere Blätter " +
+      "akkumuliert natürlich Fluorid aus dem Boden, ältere Blätter " +
       "enthalten mehr\n" +
       "• Pestizide: Cryolith und andere fluoridhaltige Pflanzenschutzmittel\n\n" +
       "Alternativen und Lösungen:\n" +
@@ -148,10 +148,10 @@ export const ZIRBELDRUESE_WISSEN = [
       "• Kräutertees statt schwarzem/grünem Tee während der Entkalkungskur\n" +
       "• Bei Medikamenten: Mit Arzt über fluoridfreie Alternativen sprechen",
     kernpunkte: [
-      "Zirbeldrüse enthält bis zu 21.000 ppm Fluorid — mehr als Knochen oder Zähne (Luke, 2001)",
+      "Zirbeldrüse enthält bis zu 21.000 ppm Fluorid, mehr als Knochen oder Zähne (Luke, 2001)",
       "National Research Council (2006): Fluorid senkt wahrscheinlich die Melatonin-Produktion",
       "Quellen: Zahnpasta (1000-1500 ppm), Teflon, Medikamente (Prozac!), schwarzer/grüner Tee, Pestizide",
-      "In Deutschland kein fluoridiertes Trinkwasser — aber Zahnpasta, Tee und Medikamente bleiben Quellen",
+      "In Deutschland kein fluoridiertes Trinkwasser, aber Zahnpasta, Tee und Medikamente bleiben Quellen",
       "Fluoxetin (Prozac) und Fluorchinolon-Antibiotika enthalten Fluorid im Molekül",
       "Alternativen: Fluoridfreie Zahnpasta, Umkehrosmose, Keramik-Pfannen, Kräutertees",
     ],
@@ -171,22 +171,22 @@ export const ZIRBELDRUESE_WISSEN = [
   // ----------------------------------------------------------
   {
     id: "zirbeldruese-entkalkung",
-    name: "Entkalkung — Der 90-Tage-Reset",
+    name: "Entkalkung: Der 90-Tage-Reset",
     kategorie: "Anleitung",
     inhalt:
       "Ein vollständiges 90-Tage-Protokoll zur Entkalkung und Reaktivierung " +
       "der Zirbeldrüse. Drei Phasen, die aufeinander aufbauen:\n\n" +
       "═══ PHASE 1: ELIMINATION (Tag 1–30) ═══\n" +
-      "Was raus muss — die Quellen stoppen:\n" +
+      "Was raus muss, die Quellen stoppen:\n" +
       "• Fluorid-Zahnpasta ersetzen durch fluoridfreie Alternative (Xylit, " +
       "Hydroxylapatit oder Aktivkohle-Zahnpasta)\n" +
       "• Leitungswasser filtern (Aktivkohle-Filter minimum, besser Umkehrosmose)\n" +
-      "• Teflon-Pfannen loswerden — Edelstahl, Gusseisen oder Keramik verwenden\n" +
+      "• Teflon-Pfannen loswerden: Edelstahl, Gusseisen oder Keramik verwenden\n" +
       "• Amalgam-Sanierung erwägen (mit biologischem Zahnarzt besprechen)\n" +
-      "• Aluminium-Deo stoppen — natürliche Alternativen nutzen\n" +
+      "• Aluminium-Deo stoppen, natürliche Alternativen nutzen\n" +
       "• Konventionelle Lebensmittel reduzieren (Pestizid-Belastung)\n\n" +
       "═══ PHASE 2: CHELATBILDNER (Tag 1–90) ═══\n" +
-      "Was den Kalk LÖST — parallel zu Phase 1:\n" +
+      "Was den Kalk LÖST, parallel zu Phase 1:\n" +
       "• Apfelessig: Enthält Malate, die Calciumablagerungen auflösen\n" +
       "• Zitronensäure: Citrate binden überschüssiges Calcium\n" +
       "• Tamarinden-Paste: Der Geheimtipp! Eine indische Studie zeigte " +
@@ -198,7 +198,7 @@ export const ZIRBELDRUESE_WISSEN = [
       "• Curcumin: Schützt die Zirbeldrüse vor oxidativem Stress " +
       "(Studie: Curcumin reduziert Fluorid-induzierte Schäden bei Ratten)\n\n" +
       "═══ PHASE 3: AKTIVIERUNG (Tag 30–90) ═══\n" +
-      "Was die Drüse WECKT — nachdem die Belastung reduziert ist:\n" +
+      "Was die Drüse WECKT, nachdem die Belastung reduziert ist:\n" +
       "• Melatonin-Optimierung: Totale Dunkelheit beim Schlafen\n" +
       "• Sonnenlicht auf die Stirn: Morgens 10–15 Min\n" +
       "• Stimmgabel 963 Hz auf den Ajna-Punkt\n" +
@@ -212,12 +212,12 @@ export const ZIRBELDRUESE_WISSEN = [
       "Melatonin), künstliches Licht nach 20 Uhr, Mikrowelle, " +
       "Aluminium-Kochgeschirr",
     kernpunkte: [
-      "Phase 1 (Tag 1-30): Fluorid-Quellen eliminieren — Zahnpasta, Teflon, Leitungswasser, Amalgam",
-      "Phase 2 (Tag 1-90): Chelatbildner einsetzen — Apfelessig, Tamarinde, Bor, MSM, Curcumin",
-      "Phase 3 (Tag 30-90): Aktivierung — Dunkelheit, Sonnenlicht, 963 Hz, Meditation",
-      "Vitamin K2 leitet Calcium aus Weichgewebe zurück in die Knochen — Schlüssel-Supplement",
+      "Phase 1 (Tag 1-30): Fluorid-Quellen eliminieren: Zahnpasta, Teflon, Leitungswasser, Amalgam",
+      "Phase 2 (Tag 1-90): Chelatbildner einsetzen: Apfelessig, Tamarinde, Bor, MSM, Curcumin",
+      "Phase 3 (Tag 30-90): Aktivierung: Dunkelheit, Sonnenlicht, 963 Hz, Meditation",
+      "Vitamin K2 leitet Calcium aus Weichgewebe zurück in die Knochen: Schlüssel-Supplement",
       "Tamarinden-Paste: Nachgewiesene Fluorid-Ausleitung über den Urin",
-      "Zucker meiden — senkt die Melatonin-Produktion",
+      "Zucker meiden, senkt die Melatonin-Produktion",
     ],
     tags: [
       "#entkalkung",
@@ -235,12 +235,12 @@ export const ZIRBELDRUESE_WISSEN = [
   // ----------------------------------------------------------
   {
     id: "dunkelheit-zirbeldruese",
-    name: "Die Rolle von Dunkelheit — Dunkelretreat & Melatonin-Kaskade",
+    name: "Die Rolle von Dunkelheit: Dunkelretreat & Melatonin-Kaskade",
     kategorie: "Wissen",
     inhalt:
       "Dunkelheit ist der mächtigste natürliche Aktivator der Zirbeldrüse. " +
       "Die Drüse produziert Melatonin ausschließlich bei Abwesenheit von Licht " +
-      "— jede Lichtquelle, besonders blaues Licht, unterdrückt die Produktion " +
+      "jede Lichtquelle, besonders blaues Licht, unterdrückt die Produktion " +
       "sofort.\n\n" +
       "DIE MELATONIN-KASKADE:\n" +
       "Nach 3–5 Tagen in TOTALER Dunkelheit geschieht etwas Außergewöhnliches. " +
@@ -248,17 +248,17 @@ export const ZIRBELDRUESE_WISSEN = [
       "überschüssige Melatonin wird zu Pinoline (einem Beta-Carbolin) " +
       "umgewandelt, das wiederum möglicherweise zu endogenem DMT " +
       "weiterverarbeitet wird. Es ist die körpereigene Visions-Kaskade.\n\n" +
-      "DUNKELRETREATS — eine uralte Tradition:\n" +
-      "• Tibet: 'Yang-Ti' — fortgeschrittene Dzogchen-Praxis, 49 Tage in " +
+      "DUNKELRETREATS, eine uralte Tradition:\n" +
+      "• Tibet: 'Yang-Ti', fortgeschrittene Dzogchen-Praxis, 49 Tage in " +
       "völliger Dunkelheit\n" +
-      "• Ägypten: Pyramiden-Initiation — Einweihungsrituale in den dunklen " +
+      "• Ägypten: Pyramiden-Initiation: Einweihungsrituale in den dunklen " +
       "Kammern der Pyramiden\n" +
       "• Maya: Zeremonien in tiefen Höhlen (Cenotes)\n\n" +
       "DER VERLAUF EINES DUNKELRETREATS (nach Mantak Chia):\n" +
       "• Tag 1–3: Melatonin steigt stark an. Tiefe Entspannung, lebhafte " +
       "Traeume, der Geist beruhigt sich\n" +
       "• Tag 3–5: Pinoline-Produktion beginnt. 'Inneres Licht' wird sichtbar " +
-      "— spontane Lichterscheinungen hinter geschlossenen Augen, Visionen\n" +
+      "spontane Lichterscheinungen hinter geschlossenen Augen, Visionen\n" +
       "• Tag 5+: Möglicherweise endogene DMT-Produktion. Tiefste meditative " +
       "Zustände, mystische Erfahrungen, Zugang zu Bewusstseinsebenen die " +
       "normalerweise nicht zugänglich sind\n\n" +
@@ -267,16 +267,16 @@ export const ZIRBELDRUESE_WISSEN = [
       "• Verdunklungsvorhänge im Schlafzimmer\n" +
       "• Kein Blaulicht 2 Stunden vor dem Schlaf (Blaulicht-Filter-Brille " +
       "oder alle Bildschirme aus)\n" +
-      "• 1 Abend pro Woche: Totale Dunkelheit ab 18 Uhr — Kerzen und " +
+      "• 1 Abend pro Woche: Totale Dunkelheit ab 18 Uhr: Kerzen und " +
       "Salzlampen statt elektrischem Licht\n\n" +
-      "DIE MODERNE EPIDEMIE — LICHTSMOG:\n" +
+      "DIE MODERNE EPIDEMIE: LICHTSMOG:\n" +
       "LED-Beleuchtung, Handys, TVs und Laptops fluten unser Gehirn mit " +
       "Blaulicht bis in die Nacht. Dies zerstört den natürlichen " +
       "Melatonin-Zyklus und hält die Zirbeldrüse in einem Zustand " +
       "permanenter Unterdrückung. Der einfachste erste Schritt zur " +
       "Aktivierung ist: Dunkelheit zurück ins Leben holen.",
     kernpunkte: [
-      "Zirbeldrüse produziert Melatonin NUR bei Dunkelheit — jedes Licht unterdrückt die Produktion",
+      "Zirbeldrüse produziert Melatonin NUR bei Dunkelheit, jedes Licht unterdrückt die Produktion",
       "Melatonin-Kaskade: Nach 3-5 Tagen totaler Dunkelheit → Melatonin → Pinoline → möglicherweise DMT",
       "Alte Tradition: Yang-Ti (Tibet), Pyramiden-Initiation (Ägypten), Cenotes (Maya)",
       "Mantak Chia: Tag 1-3 tiefe Entspannung, Tag 3-5 inneres Licht, Tag 5+ mystische Zustände",
@@ -299,15 +299,15 @@ export const ZIRBELDRUESE_WISSEN = [
   // ----------------------------------------------------------
   {
     id: "frequenzen-zirbeldruese",
-    name: "Klang & Frequenz — Die Zirbeldrüse als Antenne",
+    name: "Klang & Frequenz: Die Zirbeldrüse als Antenne",
     kategorie: "Wissen",
     inhalt:
       "Die Zirbeldrüse enthält Calcit-Mikrokristalle, die PIEZOELEKTRISCH " +
       "sind. Das bedeutet: Sie wandeln mechanischen Druck und Schwingungen " +
-      "in elektrische Signale um — und umgekehrt. Die Zirbeldrüse ist " +
+      "in elektrische Signale um, und umgekehrt. Die Zirbeldrüse ist " +
       "damit im wörtlichen Sinn eine kristalline Antenne im Zentrum " +
       "unseres Gehirns.\n\n" +
-      "963 HZ — DIE FREQUENZ DER ZIRBELDRÜSE:\n" +
+      "963 HZ: DIE FREQUENZ DER ZIRBELDRÜSE:\n" +
       "In der Solfeggio-Skala wird 963 Hz als 'Frequenz des göttlichen " +
       "Bewusstseins' oder 'Frequenz der Zirbeldrüse' bezeichnet. Sie soll " +
       "die Drüse direkt stimulieren und das Kronenchakra aktivieren. " +
@@ -316,13 +316,13 @@ export const ZIRBELDRUESE_WISSEN = [
       "432 HZ VS. 440 HZ:\n" +
       "Die Debatte um die 'richtige' Stimmtonhöhe: 432 Hz (die sogenannte " +
       "'Verdi-Stimmung') wird von manchen als harmonischer für den Körper " +
-      "empfunden und soll die Zirbeldrüse in Resonanz bringen. 440 Hz — " +
-      "der seit 1953 weltweit gültige Kammerton — wird als weniger " +
+      "empfunden und soll die Zirbeldrüse in Resonanz bringen. 440 Hz" +
+      "der seit 1953 weltweit gültige Kammerton, wird als weniger " +
       "körperfreundlich diskutiert.\n\n" +
       "BINAURALE BEATS:\n" +
       "Wenn man über Kopfhörer zwei leicht unterschiedliche Frequenzen " +
       "hört (z.B. 200 Hz links und 204 Hz rechts), erzeugt das Gehirn " +
-      "intern eine Differenzfrequenz von 4 Hz — Theta-Wellen. Diese " +
+      "intern eine Differenzfrequenz von 4 Hz: Theta-Wellen. Diese " +
       "Theta-Stimulation aktiviert die Zirbeldrüse und fördert tiefe " +
       "meditative Zustände und visionäre Erfahrungen.\n\n" +
       "SUMMENDE MEDITATION:\n" +
@@ -338,11 +338,11 @@ export const ZIRBELDRUESE_WISSEN = [
       "• Didgeridoo: Der tiefe Grundton erzeugt körperweite Resonanz\n" +
       "• Schamanische Trommel: 4–7 Hz Schlagfrequenz für Theta-Induktion",
     kernpunkte: [
-      "Calcit-Mikrokristalle in der Zirbeldrüse sind piezoelektrisch — eine biologische Antenne",
+      "Calcit-Mikrokristalle in der Zirbeldrüse sind piezoelektrisch, eine biologische Antenne",
       "963 Hz: Solfeggio-Frequenz der Zirbeldrüse und des göttlichen Bewusstseins",
       "432 Hz vs. 440 Hz: Debatte um die körperfreundlichere Stimmung",
       "Binaurale Beats (4 Hz Differenz): Erzeugen Theta-Wellen und stimulieren die Zirbeldrüse",
-      "OM/Mmm-Summen: Stirnhöhle liegt direkt vor der Zirbeldrüse — Vibrationen wirken direkt",
+      "OM/Mmm-Summen: Stirnhöhle liegt direkt vor der Zirbeldrüse: Vibrationen wirken direkt",
       "Kristallklangschalen in H, tibetische Klangschalen und schamanische Trommeln als Werkzeuge",
     ],
     tags: [
@@ -362,14 +362,14 @@ export const ZIRBELDRUESE_WISSEN = [
   // ----------------------------------------------------------
   {
     id: "sonnenlicht-zirbeldruese",
-    name: "Sonnenlicht & Sonnengazing — Licht für das innere Auge",
+    name: "Sonnenlicht & Sonnengazing: Licht für das innere Auge",
     kategorie: "Praxis",
     inhalt:
       "Die Zirbeldrüse reagiert auf Licht, das durch die Augen einfällt " +
       "und über den Retinohypothalamischen Trakt weitergeleitet wird. " +
       "Zudem kann Licht durch den dünnen Schädelknochen an der Stirn " +
       "teilweise bis zur Drüse vordringen.\n\n" +
-      "SUNGAZING — DIE HIRA RATAN MANEK METHODE (HRM):\n" +
+      "SUNGAZING: DIE HIRA RATAN MANEK METHODE (HRM):\n" +
       "In den ersten oder letzten 15 Minuten des Sonnentages (wenn der " +
       "UV-Index extrem niedrig ist) wird DIREKT in die Sonne geschaut. " +
       "Das Protokoll:\n" +
@@ -379,7 +379,7 @@ export const ZIRBELDRUESE_WISSEN = [
       "• Über Monate bis zu 44 Minuten aufbauen (maximal)\n" +
       "• WICHTIG: Barfuß auf Erde/Sand/Gras stehen (Erdung!)\n\n" +
       "Die NASA hat Hira Ratan Manek im Jahr 2002 untersucht. Er behauptet, " +
-      "seit Jahren nur von Sonnenlicht und Wasser zu leben — das ist " +
+      "seit Jahren nur von Sonnenlicht und Wasser zu leben, das ist " +
       "umstritten, aber das Sungazing-Protokoll selbst ist dokumentiert " +
       "und wird weltweit praktiziert.\n\n" +
       "INDIREKTE METHODEN (sicherer):\n" +
@@ -394,16 +394,16 @@ export const ZIRBELDRUESE_WISSEN = [
       "die über die Augen zur Zirbeldrüse gelangen. Das volle " +
       "Lichtspektrum wird gebraucht, um den Melatonin-Serotonin-Rhythmus " +
       "korrekt zu steuern. Sonnenbrillen sind sinnvoll bei extremer " +
-      "Blendung (Schnee, Wasser) — aber im Alltag oft kontraproduktiv.\n\n" +
+      "Blendung (Schnee, Wasser), aber im Alltag oft kontraproduktiv.\n\n" +
       "⚠ SICHERHEIT: Niemals in die Mittagssonne starren! Nur bei extrem " +
       "niedrigem UV-Index (Sonnenauf- oder -untergang). Sonnengazing ist " +
-      "eine fortgeschrittene Praxis — langsam beginnen und auf den " +
+      "eine fortgeschrittene Praxis, langsam beginnen und auf den " +
       "Körper hören.",
     kernpunkte: [
       "Zirbeldrüse reagiert auf Licht durch die Augen UND durch den dünnen Schädelknochen",
       "Sungazing (HRM-Methode): 10 Sek. Start, täglich 10 Sek. steigern, nur bei Sonnenauf-/untergang",
-      "Barfuß auf Erde stehen während des Sungazing — Erdung ist Teil des Protokolls",
-      "NASA untersuchte Manek 2002 — Protokoll ist dokumentiert und weltweit praktiziert",
+      "Barfuß auf Erde stehen während des Sungazing: Erdung ist Teil des Protokolls",
+      "NASA untersuchte Manek 2002: Protokoll ist dokumentiert und weltweit praktiziert",
       "Sichere Alternative: Morgen-/Abendsonne auf geschlossene Stirn scheinen lassen",
       "Sonnenbrillen im Alltag blockieren wichtige Lichtsignale an die Zirbeldrüse",
       "SICHERHEIT: Nur bei niedrigem UV-Index, niemals in die Mittagssonne starren",
@@ -424,17 +424,17 @@ export const ZIRBELDRUESE_WISSEN = [
   // ----------------------------------------------------------
   {
     id: "meditation-zirbeldruese",
-    name: "Meditation & Atemübungen — Die Zirbeldrüse direkt aktivieren",
+    name: "Meditation & Atemübungen: Die Zirbeldrüse direkt aktivieren",
     kategorie: "Praxis",
     inhalt:
-      "Es gibt Praktiken, die die Zirbeldrüse DIREKT stimulieren — nicht " +
+      "Es gibt Praktiken, die die Zirbeldrüse DIREKT stimulieren, nicht " +
       "über Umwege wie Ernährung oder Entgiftung, sondern durch gezielte " +
       "Aufmerksamkeit, Atem und Körperhaltung.\n\n" +
       "AJNA-CHAKRA-MEDITATION:\n" +
       "Die grundlegendste Übung: Augen schließen, Aufmerksamkeit auf den " +
       "Punkt zwischen den Augenbrauen richten, indigo-violettes Licht " +
       "visualisieren. 10–20 Minuten täglich. Oft entsteht ein Druckgefühl " +
-      "oder Kribbeln an der Stirn — ein Zeichen dass die Energie fließt.\n\n" +
+      "oder Kribbeln an der Stirn, ein Zeichen dass die Energie fließt.\n\n" +
       "KHECHARI MUDRA (fortgeschritten):\n" +
       "Die Zunge wird nach oben und hinten gerollt, bis sie den weichen " +
       "Gaumen berührt (oder in der fortgeschrittenen Version den " +
@@ -454,7 +454,7 @@ export const ZIRBELDRUESE_WISSEN = [
       "JOE DISPENZA MEDITATION:\n" +
       "Fokus auf den 'Raum hinter der Stirn'. Energie wird visualisiert, " +
       "wie sie den Wirbelsäulenkanal hochsteigt bis zum Scheitelpunkt. " +
-      "Dispenza spricht von 'piezoelektrischem Effekt' — der Druck der " +
+      "Dispenza spricht von 'piezoelektrischem Effekt', der Druck der " +
       "aufsteigenden Energie aktiviert die Kristalle in der Zirbeldrüse.\n\n" +
       "HOLOTROPES ATMEN (Stanislav Grof):\n" +
       "Stark beschleunigtes Atmen für 2–3 Stunden, begleitet von " +
@@ -470,15 +470,15 @@ export const ZIRBELDRUESE_WISSEN = [
       "Morgens, Augen geschlossen, Fokus auf Stirnmitte. Sanftes Summen " +
       "('Mmm'), die Vibration in der Stirn spüren. Dabei helles, " +
       "strahlendes Licht am dritten Auge visualisieren. Keine " +
-      "Erwartungen — einfach wahrnehmen was geschieht.",
+      "Erwartungen, einfach wahrnehmen was geschieht.",
     kernpunkte: [
       "Ajna-Meditation: Fokus auf Stirnmitte, indigo-violettes Licht visualisieren, täglich 10-20 Min",
-      "Khechari Mudra: Zunge an den weichen Gaumen — stimuliert Zirbeldrüse über Gaumen-Nervenplexus",
-      "Trataka: Kerzenstarren ohne Blinzeln, dann Nachbild beobachten — trainiert inneres Sehen",
-      "Wim Hof Atem: 30x kraftvolles Atmen + Anhalten — erzeugt Kribbeln im Stirnbereich",
-      "Joe Dispenza: Energie den Wirbelsäulenkanal hochvisualisieren — piezoelektrischer Effekt",
-      "Holotropes Atmen (Grof): 2-3 Stunden beschleunigtes Atmen — nur unter Anleitung!",
-      "Tummo: Tibetische Innere-Hitze-Meditation — Feuer-Visualisierung an der Wirbelsäule",
+      "Khechari Mudra: Zunge an den weichen Gaumen, stimuliert Zirbeldrüse über Gaumen-Nervenplexus",
+      "Trataka: Kerzenstarren ohne Blinzeln, dann Nachbild beobachten, trainiert inneres Sehen",
+      "Wim Hof Atem: 30x kraftvolles Atmen + Anhalten, erzeugt Kribbeln im Stirnbereich",
+      "Joe Dispenza: Energie den Wirbelsäulenkanal hochvisualisieren, piezoelektrischer Effekt",
+      "Holotropes Atmen (Grof): 2-3 Stunden beschleunigtes Atmen, nur unter Anleitung!",
+      "Tummo: Tibetische Innere-Hitze-Meditation: Feuer-Visualisierung an der Wirbelsäule",
       "Einfachste Praxis: 10 Min morgens, Augen zu, Stirnfokus, sanftes Summen, Licht visualisieren",
     ],
     tags: [
@@ -513,13 +513,13 @@ export const ZIRBELDRUESE_REZEPTE = [
         name: "Gotu Kola (Centella asiatica)",
         menge: "3 g",
         wirkung:
-          "In Ayurveda als 'Brahmi des dritten Auges' bekannt — fördert die Durchblutung im Gehirn und stärkt die Verbindung zur Zirbeldrüse",
+          "In Ayurveda als 'Brahmi des dritten Auges' bekannt, fördert die Durchblutung im Gehirn und stärkt die Verbindung zur Zirbeldrüse",
       },
       {
         name: "Beifuß (Artemisia vulgaris)",
         menge: "2 g",
         wirkung:
-          "Das klassische Visions-Kraut Europas. Artemisia — benannt nach Artemis, der Mondgöttin. Fördert lebhafte Traeume und öffnet die Wahrnehmung",
+          "Das klassische Visions-Kraut Europas. Artemisia, benannt nach Artemis, der Mondgöttin. Fördert lebhafte Traeume und öffnet die Wahrnehmung",
       },
       {
         name: "Passionsblume (Passiflora incarnata)",
@@ -543,12 +543,12 @@ export const ZIRBELDRUESE_REZEPTE = [
         name: "Safran",
         menge: "1 Prise (ca. 2-3 Fäden)",
         wirkung:
-          "Enthält Crocin — neuroprotektiv, fördert die Melatonin- und Serotonin-Produktion. In Studien antidepressiv wirksam",
+          "Enthält Crocin, neuroprotektiv, fördert die Melatonin- und Serotonin-Produktion. In Studien antidepressiv wirksam",
       },
     ],
     zubereitung:
       "Alle Kräuter in eine Teekanne geben. Mit 300 ml heißem (nicht " +
-      "kochendem) Wasser übergießen — ca. 80°C, damit die feinen " +
+      "kochendem) Wasser übergießen, ca. 80°C, damit die feinen " +
       "Wirkstoffe des Safrans erhalten bleiben. 10–12 Minuten zugedeckt " +
       "ziehen lassen. Abseihen. Optional mit etwas Honig süßen.",
     anwendung:
@@ -560,7 +560,7 @@ export const ZIRBELDRUESE_REZEPTE = [
       "Kraut für das Sahasrara (Kronen-) und Ajna (Stirn-) Chakra. " +
       "In Kombination mit dem visionären Beifuß und dem Melatonin- " +
       "fördernden Safran entsteht ein Tee, der die Zirbeldrüse auf " +
-      "mehreren Ebenen anspricht — biochemisch und energetisch.",
+      "mehreren Ebenen anspricht, biochemisch und energetisch.",
     besonders_bei: [
       "Meditation",
       "Schlaf",
@@ -578,11 +578,11 @@ export const ZIRBELDRUESE_REZEPTE = [
     ],
     geheimtipp:
       "Die Safranfäden 5 Minuten VOR dem Aufgießen in 1 EL warmem " +
-      "Wasser einweichen — so entfaltet sich das Crocin optimal. Die " +
+      "Wasser einweichen, so entfaltet sich das Crocin optimal. Die " +
       "goldene Farbe zeigt: Der Wirkstoff ist gelöst.",
     wirkungszeit:
       "Spürbar nach 20–40 Minuten. Bei täglicher Anwendung über " +
-      "2–4 Wochen verstärkt sich die Wirkung deutlich — besonders " +
+      "2–4 Wochen verstärkt sich die Wirkung deutlich, besonders " +
       "die Traumintensität.",
   },
 
@@ -644,7 +644,7 @@ export const ZIRBELDRUESE_REZEPTE = [
       },
     ],
     zubereitung:
-      "Warmes Wasser in ein Glas geben (nicht heiß — max. 40°C, um " +
+      "Warmes Wasser in ein Glas geben (nicht heiß, max. 40°C, um " +
       "Enzyme im Apfelessig und Honig zu erhalten). Apfelessig und " +
       "Zitronensaft einrühren. Kurkuma und schwarzen Pfeffer hinzufügen " +
       "und gut verrühren. Tamarinden-Paste unterrühren. Optional " +
@@ -661,7 +661,7 @@ export const ZIRBELDRUESE_REZEPTE = [
       "die Entgiftung auslösen kann. Die Tamarinden-Paste ist das " +
       "besondere Element: In einer kontrollierten Studie mit Jungen in " +
       "Indien zeigte sich, dass Tamarinde die Fluorid-Ausscheidung über " +
-      "den Urin signifikant erhöhte — der Körper schied mehr Fluorid " +
+      "den Urin signifikant erhöhte, der Körper schied mehr Fluorid " +
       "aus als er aufnahm.",
     besonders_bei: [
       "Entkalkung",
@@ -681,7 +681,7 @@ export const ZIRBELDRUESE_REZEPTE = [
     geheimtipp:
       "Die Tamarinden-Paste gibt es im Asia-Laden für wenig Geld. " +
       "Sie ist der am meisten unterschätzte Fluorid-Ausleiter überhaupt. " +
-      "In Indien wird sie traditionell als Entgiftungsmittel verwendet — " +
+      "In Indien wird sie traditionell als Entgiftungsmittel verwendet" +
       "die Wissenschaft hat dies inzwischen bestätigt.",
     wirkungszeit:
       "Erste Veränderungen im Schlaf oft nach 2–3 Wochen. Deutliche " +
@@ -702,19 +702,19 @@ export const ZIRBELDRUESE_REZEPTE = [
         name: "Sauerkirschsaft (Montmorency)",
         menge: "200 ml",
         wirkung:
-          "Natürliche Melatonin-Quelle! Montmorency-Kirschen enthalten 13.5 ng Melatonin pro Gramm — die einzige nennenswerte Nahrungsquelle für Melatonin",
+          "Natürliche Melatonin-Quelle! Montmorency-Kirschen enthalten 13.5 ng Melatonin pro Gramm, die einzige nennenswerte Nahrungsquelle für Melatonin",
       },
       {
         name: "Passionsblumen-Tee",
         menge: "100 ml (stark aufgebrüeht)",
         wirkung:
-          "Enthält Chrysin — ein Flavonoid, das angstlösend wirkt und den GABA-Spiegel erhöht. Fördert tiefen, erholsamen Schlaf",
+          "Enthält Chrysin, ein Flavonoid, das angstlösend wirkt und den GABA-Spiegel erhöht. Fördert tiefen, erholsamen Schlaf",
       },
       {
         name: "Ashwagandha (Pulver)",
         menge: "1 g",
         wirkung:
-          "Adaptogen — senkt Cortisol und damit den Gegenspieler des Melatonins. Wenn Cortisol sinkt, kann die Zirbeldrüse freier arbeiten",
+          "Adaptogen, senkt Cortisol und damit den Gegenspieler des Melatonins. Wenn Cortisol sinkt, kann die Zirbeldrüse freier arbeiten",
       },
       {
         name: "Magnesium (Citrat oder Glycinat)",
@@ -738,7 +738,7 @@ export const ZIRBELDRUESE_REZEPTE = [
       "unterrühren. Langsam und bewusst trinken.",
     anwendung:
       "1 Stunde vor dem Schlafengehen trinken. Danach KEIN Bildschirm " +
-      "mehr — das Blaulicht würde die Melatonin-Produktion sofort wieder " +
+      "mehr, das Blaulicht würde die Melatonin-Produktion sofort wieder " +
       "unterdrücken. Täglich möglich, besonders in der dunklen " +
       "Jahreszeit empfehlenswert.",
     hintergrund:
@@ -768,7 +768,7 @@ export const ZIRBELDRUESE_REZEPTE = [
       "Sauerkirschsaft-Konzentrat (z.B. Montmorency aus dem Bioladen) " +
       "ist wirksamer als normaler Kirschsaft. 30 ml Konzentrat auf " +
       "170 ml Wasser ergibt die optimale Dosis. Der Geschmack ist " +
-      "herb-sauer — der Honig macht es angenehm.",
+      "herb-sauer, der Honig macht es angenehm.",
     wirkungszeit:
       "Einschlafzeit verkürzt sich oft schon in der ersten Nacht. " +
       "Tiefere Schlafphasen und intensivere Traeume nach 3–5 Tagen " +
@@ -824,7 +824,7 @@ export const ZIRBELDRUESE_REZEPTE = [
         name: "Kelp-Tabletten oder Lugol'sche Lösung",
         menge: "150-300 mcg Jod (Kelp) ODER 1-2 Tropfen 5% Lugol",
         wirkung:
-          "Jod verdrängt Fluorid, Chlor und Brom aus dem Gewebe — die Halogenid-Konkurrenz: Jod ist das 'gute' Halogenid",
+          "Jod verdrängt Fluorid, Chlor und Brom aus dem Gewebe, die Halogenid-Konkurrenz: Jod ist das 'gute' Halogenid",
       },
     ],
     zubereitung:
@@ -847,7 +847,7 @@ export const ZIRBELDRUESE_REZEPTE = [
       "2.5 Liter), um die Ausscheidung zu unterstützen. Keine neuen " +
       "Fluorid-Quellen (fluoridfreie Zahnpasta verwenden!).",
     hintergrund:
-      "Fluorid lagert sich über Jahre im Körper ein — besonders in " +
+      "Fluorid lagert sich über Jahre im Körper ein, besonders in " +
       "der Zirbeldrüse, den Knochen und der Schilddrüse. Eine gezielte " +
       "Ausleitung erfordert zwei Strategien gleichzeitig: 1) Verdrängung " +
       "durch kompetitive Elemente (Bor verdrängt Fluorid, Jod verdrängt " +
@@ -874,7 +874,7 @@ export const ZIRBELDRUESE_REZEPTE = [
     geheimtipp:
       "Während der Ausleitung kann es zu sogenannten 'Heilkrisen' kommen: " +
       "Kopfschmerzen, Müdigkeit, Hautunreinheiten. Das ist ein GUTES " +
-      "Zeichen — der Körper scheidet gespeichertes Fluorid aus. Viel " +
+      "Zeichen, der Körper scheidet gespeichertes Fluorid aus. Viel " +
       "trinken und ggf. die Dosis vorübergehend reduzieren.",
     wirkungszeit:
       "Erste Veränderungen (besserer Schlaf, klarere Traeume) oft nach " +
@@ -920,7 +920,7 @@ export const ZIRBELDRUESE_REZEPTE = [
         name: "Weihrauch-Harz (gepulvert, Boswellia)",
         menge: "3 g",
         wirkung:
-          "Enthält Incensol-Acetat — aktiviert nachweislich TRPV3-Ionen-Kanäle im Gehirn. Studie: Federation of American Societies for Experimental Biology (FASEB), 2008. Psychoaktiv und angstlösend!",
+          "Enthält Incensol-Acetat, aktiviert nachweislich TRPV3-Ionen-Kanäle im Gehirn. Studie: Federation of American Societies for Experimental Biology (FASEB), 2008. Psychoaktiv und angstlösend!",
       },
       {
         name: "Ätherisches Öl Rosmarin",
@@ -945,7 +945,7 @@ export const ZIRBELDRUESE_REZEPTE = [
       "Kokosöl im Wasserbad langsam schmelzen (max. 60°C). Bienenwachs " +
       "hinzufügen und vollständig auflösen lassen. Sandelholz-Pulver " +
       "und gepulvertes Weihrauch-Harz einrühren. Kampfer vorsichtig " +
-      "hinzufügen (WENIG — Kampfer ist stark!). Vom Herd nehmen und " +
+      "hinzufügen (WENIG: Kampfer ist stark!). Vom Herd nehmen und " +
       "auf ca. 40°C abkühlen lassen. Erst DANN die ätherischen Öle " +
       "hinzufügen (Hitze zerstört die feinen Moleküle). Gründlich " +
       "verrühren und in ein kleines Glastiegel füllen. Abkühlen lassen " +
@@ -959,7 +959,7 @@ export const ZIRBELDRUESE_REZEPTE = [
     hintergrund:
       "Die Praxis, Substanzen auf das dritte Auge aufzutragen, ist " +
       "Jahrtausende alt. In Indien wird Sandelholz-Paste (Chandan) " +
-      "als Tilaka aufgetragen — das rote oder gelbe Stirnmal, das " +
+      "als Tilaka aufgetragen, das rote oder gelbe Stirnmal, das " +
       "in der hinduistischen Tradition das geöffnete dritte Auge " +
       "symbolisiert. In Ägypten wurde Weihrauch als 'Schweiß der " +
       "Götter' verehrt. Die moderne Wissenschaft hat nun bestätigt, " +
@@ -984,7 +984,7 @@ export const ZIRBELDRUESE_REZEPTE = [
     ],
     geheimtipp:
       "Nach dem Auftragen die Augen schließen und 2 Minuten sanft auf " +
-      "den Punkt drücken — erst leicht kreisend, dann still halten. " +
+      "den Punkt drücken, erst leicht kreisend, dann still halten. " +
       "Das Kampfer-Menthol-Kribbeln und die Sandelholz-Kühle erzeugen " +
       "zusammen ein unverwechselbares 'Öffnungs-Gefühl' am dritten Auge.",
     wirkungszeit:
@@ -1030,7 +1030,7 @@ export const ZIRBELDRUESE_REZEPTE = [
         name: "Blue Lotus Blüten (Nymphaea caerulea)",
         menge: "10%",
         wirkung:
-          "Heilige Blume der Ägypter. Enthält Aporphin und Nuciferin — mild psychoaktiv, euphorigisierend, visionär. Auf unzähligen ägyptischen Wandmalereien abgebildet",
+          "Heilige Blume der Ägypter. Enthält Aporphin und Nuciferin, mild psychoaktiv, euphorigisierend, visionär. Auf unzähligen ägyptischen Wandmalereien abgebildet",
       },
       {
         name: "Kampfer (natürlich)",
@@ -1040,7 +1040,7 @@ export const ZIRBELDRUESE_REZEPTE = [
       },
     ],
     zubereitung:
-      "Alle Zutaten grob mörsern (nicht zu fein — sie sollen langsam " +
+      "Alle Zutaten grob mörsern (nicht zu fein, sie sollen langsam " +
       "verglimmen, nicht verbrennen). Gut mischen und in einem " +
       "verschließbaren Glas aufbewahren. Zum Räuchern: Eine " +
       "Räucherkohle anzünden und glüehen lassen. Wenn die Kohle " +
@@ -1051,7 +1051,7 @@ export const ZIRBELDRUESE_REZEPTE = [
       "Während der Meditation oder Yoga-Praxis räuchern. Den Raum " +
       "vorher lüften, dann räuchern, dann bei geschlossenem Fenster " +
       "praktizieren. Auch geeignet zur energetischen Reinigung von " +
-      "Raeumen. Nicht überdosieren — eine Messerspitze genügt für " +
+      "Raeumen. Nicht überdosieren, eine Messerspitze genügt für " +
       "eine Session.",
     hintergrund:
       "Die Kombination vereint Räucher-Traditionen dreier Kontinente: " +
@@ -1078,7 +1078,7 @@ export const ZIRBELDRUESE_REZEPTE = [
       "#zeremonie",
     ],
     geheimtipp:
-      "Die Mischung auf einer Muschelschale (Abalone) räuchern — " +
+      "Die Mischung auf einer Muschelschale (Abalone) räuchern" +
       "wie in der indigenen Tradition. Die Muschel repräsentiert das " +
       "Element Wasser und schafft zusammen mit dem Feuer (Kohle), der " +
       "Luft (Rauch) und der Erde (Pflanzen) ein vollständiges " +
@@ -1102,7 +1102,7 @@ export const ZIRBELDRUESE_REZEPTE = [
         name: "Pflanzenmilch (Hafer, Mandel oder Kokos)",
         menge: "300 ml",
         wirkung:
-          "Basis. Pflanzenmilch statt Kuhmilch — pasteurisierte Milch kann zur Verkalkung beitragen",
+          "Basis. Pflanzenmilch statt Kuhmilch, pasteurisierte Milch kann zur Verkalkung beitragen",
       },
       {
         name: "Kurkuma (gemahlen)",
@@ -1150,7 +1150,7 @@ export const ZIRBELDRUESE_REZEPTE = [
         name: "Honig (roh)",
         menge: "nach Geschmack",
         wirkung:
-          "Erst NACH dem Erwärmen hinzufügen — Hitze zerstört die Enzyme. Stabilisiert den Blutzucker über Nacht",
+          "Erst NACH dem Erwärmen hinzufügen: Hitze zerstört die Enzyme. Stabilisiert den Blutzucker über Nacht",
       },
     ],
     zubereitung:
@@ -1164,14 +1164,14 @@ export const ZIRBELDRUESE_REZEPTE = [
     anwendung:
       "Abends trinken, idealerweise bei Kerzenlicht oder Salzlampe " +
       "(kein Blaulicht!). 30–60 Minuten vor dem Schlafengehen. " +
-      "Kann täglich getrunken werden — es ist ein wunderbares " +
+      "Kann täglich getrunken werden, es ist ein wunderbares " +
       "Abend-Ritual das den Übergang in die Nacht markiert.",
     hintergrund:
       "Dies ist eine erweiterte Version der traditionellen 'Golden Milk' " +
       "aus der ayurvedischen Tradition, gezielt auf die Zirbeldrüse " +
       "ausgerichtet. Das Triple Safran + Kurkuma + Gotu Kola vereint " +
       "drei der mächtigsten Zirbeldrüsen-Pflanzen in einem Getränk. " +
-      "Safran erhöht sowohl Serotonin als auch Melatonin — das ist " +
+      "Safran erhöht sowohl Serotonin als auch Melatonin, das ist " +
       "einzigartig unter den Gewürzen. Kurkuma schützt, Gotu Kola " +
       "aktiviert. Die goldene Farbe ist ein sichtbares Zeichen: Die " +
       "Wirkstoffe sind gelöst und bereit.",
@@ -1215,7 +1215,7 @@ export const ZIRBELDRUESE_REZEPTE = [
         name: "Kelp-Tabletten ODER Lugol'sche Lösung (5%)",
         menge: "150-300 mcg Jod (Kelp) ODER 1-2 Tropfen Lugol in Wasser",
         wirkung:
-          "Jod ist das 'gute' Halogenid. Es verdrängt Fluorid, Chlor und Brom aus den Bindungsstellen im Gewebe — das Prinzip der Halogenid-Konkurrenz",
+          "Jod ist das 'gute' Halogenid. Es verdrängt Fluorid, Chlor und Brom aus den Bindungsstellen im Gewebe, das Prinzip der Halogenid-Konkurrenz",
       },
       {
         name: "Selen",
@@ -1238,7 +1238,7 @@ export const ZIRBELDRUESE_REZEPTE = [
       "Woche 3: 225 mcg Jod + 200 mcg Selen + 1000 mg Vitamin C\n\n" +
       "Woche 4: 300 mcg Jod + 200 mcg Selen + 1000 mg Vitamin C\n\n" +
       "Immer morgens mit oder nach dem Frühstück einnehmen. " +
-      "Niemals abends — Jod kann energetisierend wirken und den " +
+      "Niemals abends: Jod kann energetisierend wirken und den " +
       "Schlaf stören.",
     anwendung:
       "4-Wochen-Zyklus, dann 2 Wochen Pause. Bei guter Verträglichkeit " +
@@ -1251,7 +1251,7 @@ export const ZIRBELDRUESE_REZEPTE = [
       "Chlor (Leitungswasser, Schwimmbäder) und Brom (Backwaren, " +
       "Flammschutzmittel) verdrängen das lebensnotwendige Jod. " +
       "Umgekehrt: Wenn wir genug Jod zuführen, verdrängt ES die " +
-      "schädlichen Halogenide — einschließlich des Fluorids aus der " +
+      "schädlichen Halogenide, einschließlich des Fluorids aus der " +
       "Zirbeldrüse. Selen ist dabei UNVERZICHTBAR: Es schützt die " +
       "Schilddrüse vor oxidativem Stress, der bei der Jod-Verarbeitung " +
       "entsteht.",
@@ -1274,7 +1274,7 @@ export const ZIRBELDRUESE_REZEPTE = [
       "Beobachte deinen Körper genau in der ersten Woche: Hautunreinheiten, " +
       "metallischer Geschmack oder Müdigkeit können Zeichen sein, dass " +
       "gespeichertes Brom und Fluorid freigesetzt wird. Das ist die " +
-      "'Halogenid-Entgiftungskrise' — ein gutes Zeichen! Mehr Wasser " +
+      "'Halogenid-Entgiftungskrise', ein gutes Zeichen! Mehr Wasser " +
       "trinken und ggf. die Dosis vorübergehend reduzieren.",
     wirkungszeit:
       "Erste Veränderungen (mehr Energie, klarerer Kopf) oft schon in " +
@@ -1319,7 +1319,7 @@ export const ZIRBELDRUESE_REZEPTE = [
         name: "Schlafmaske (hochwertig, lichtdicht)",
         menge: "1 Stück",
         wirkung:
-          "Totale Dunkelheit für die Augen — maximale Melatonin-Produktion während der gesamten Nacht",
+          "Totale Dunkelheit für die Augen, maximale Melatonin-Produktion während der gesamten Nacht",
       },
       {
         name: "Traumtagebuch + Stift",
@@ -1330,25 +1330,25 @@ export const ZIRBELDRUESE_REZEPTE = [
     ],
     zubereitung:
       "DAS VOLLSTÄNDIGE ABEND-RITUAL:\n\n" +
-      "19:00 — Goldene Zirbeldrüsen-Milch zubereiten und langsam trinken. " +
+      "19:00: Goldene Zirbeldrüsen-Milch zubereiten und langsam trinken. " +
       "Bewusst genießen, jeder Schluck ist Medizin.\n\n" +
-      "19:30 — Alle Bildschirme ausschalten. Handy in Flugmodus. " +
+      "19:30: Alle Bildschirme ausschalten. Handy in Flugmodus. " +
       "Nur noch Kerzen und/oder Salzlampe als Lichtquelle.\n\n" +
-      "20:00 — Räucherkohle anzünden, Zirbeldrüsen-Räucher-Mix " +
+      "20:00: Räucherkohle anzünden, Zirbeldrüsen-Räucher-Mix " +
       "auflegen. 10 Minuten Meditation mit geschlossenen Augen, " +
       "Fokus auf die Stirnmitte. Den Duft einatmen.\n\n" +
-      "20:15 — Drittes-Auge-Salbe auf den Punkt zwischen den " +
+      "20:15: Drittes-Auge-Salbe auf den Punkt zwischen den " +
       "Augenbrauen auftragen. Sanft einmassieren. Das Kribbeln " +
       "und die Kühle wahrnehmen.\n\n" +
-      "20:30 — Summ-Meditation: 10 Minuten lang sanft 'Mmm' tönen. " +
+      "20:30: Summ-Meditation: 10 Minuten lang sanft 'Mmm' tönen. " +
       "Die Vibration in der Stirn, im ganzen Kopf spüren. Die " +
       "Resonanz mit der Zirbeldrüse zulassen.\n\n" +
-      "20:45 — Intention setzen. Dreimal innerlich oder laut " +
+      "20:45: Intention setzen. Dreimal innerlich oder laut " +
       "wiederholen: 'Meine Zirbeldrüse öffnet sich.' Dann Stille.\n\n" +
-      "21:00 — Schlafmaske aufsetzen. Schlafen gehen. " +
+      "21:00: Schlafmaske aufsetzen. Schlafen gehen. " +
       "Traumtagebuch liegt bereit neben dem Bett.\n\n" +
-      "MORGENS: Sofort nach dem Aufwachen — BEVOR der Verstand " +
-      "einschaltet — Traeume aufschreiben. Jedes Fragment zählt.",
+      "MORGENS: Sofort nach dem Aufwachen: BEVOR der Verstand " +
+      "einschaltet: Traeume aufschreiben. Jedes Fragment zählt.",
     anwendung:
       "Täglich durchführen für maximale Wirkung. Wenn täglich " +
       "nicht möglich: Mindestens 3x pro Woche an festen Abenden. " +
@@ -1384,7 +1384,7 @@ export const ZIRBELDRUESE_REZEPTE = [
     geheimtipp:
       "Nach 7 Tagen konsequenter Praxis beginnen viele Menschen, " +
       "ein sanftes Druckgefühl oder Pulsieren am dritten Auge zu " +
-      "spüren — auch tagesüber. Die Traeume werden lebhafter, " +
+      "spüren, auch tagesüber. Die Traeume werden lebhafter, " +
       "farbiger, bedeutungsvoller. Manche berichten von spontanen " +
       "Lichterscheinungen beim Einschlafen. Das ist die Zirbeldrüse, " +
       "die sich erinnert.",
@@ -1420,13 +1420,13 @@ export const ZIRBELDRUESE_REZEPTE = [
         name: "Blaubeeren (frisch oder TK)",
         menge: "100 g",
         wirkung:
-          "Anthocyane kreuzen die Blut-Hirn-Schranke und schützen Gehirnzellen direkt. Neuroprotektiv — in Studien verbesserten sie Gedächtnis und kognitive Leistung",
+          "Anthocyane kreuzen die Blut-Hirn-Schranke und schützen Gehirnzellen direkt. Neuroprotektiv, in Studien verbesserten sie Gedächtnis und kognitive Leistung",
       },
       {
         name: "Banane",
         menge: "1 Stück",
         wirkung:
-          "Natürliche Süße und Cremigkeit. Enthält Tryptophan — die Vorstufe von Serotonin und damit indirekt von Melatonin",
+          "Natürliche Süße und Cremigkeit. Enthält Tryptophan, die Vorstufe von Serotonin und damit indirekt von Melatonin",
       },
       {
         name: "Zitronensaft",
@@ -1438,7 +1438,7 @@ export const ZIRBELDRUESE_REZEPTE = [
         name: "Ingwer (frisch)",
         menge: "1 cm Stück (geschält)",
         wirkung:
-          "Gingerole fördern die Durchblutung — auch im Gehirn. Entzündungshemmend und verdauungsfördernd",
+          "Gingerole fördern die Durchblutung, auch im Gehirn. Entzündungshemmend und verdauungsfördernd",
       },
       {
         name: "Kurkuma (gemahlen)",
@@ -1468,20 +1468,20 @@ export const ZIRBELDRUESE_REZEPTE = [
     zubereitung:
       "Alle Zutaten in einen Hochleistungsmixer geben. 200 ml Wasser " +
       "oder Kokoswasser hinzufügen. 60 Sekunden auf höchster Stufe " +
-      "mixen bis der Smoothie cremig ist. Sofort trinken — die " +
+      "mixen bis der Smoothie cremig ist. Sofort trinken, die " +
       "Wirkstoffe oxidieren schnell an der Luft. Der Smoothie wird " +
       "dunkelgrün bis blau-violett (je nach Blaubeeren-Anteil). " +
       "Geschmack: Fruchtig-herb mit einer erdigen Note.",
     anwendung:
       "Morgens nüchtern als erste Mahlzeit oder 30 Minuten vor dem " +
-      "Frühstück. Täglich möglich — dies ist die 'Superhirn'- " +
+      "Frühstück. Täglich möglich, dies ist die 'Superhirn'- " +
       "Kombination für den täglichen Gebrauch. Mindestens 4 Wochen " +
       "am Stück für spürbare Ergebnisse.",
     hintergrund:
       "Dieser Smoothie verfolgt zwei Strategien gleichzeitig: " +
-      "1) Entgiftung — Chlorella, Spirulina und Heilerde binden " +
+      "1) Entgiftung: Chlorella, Spirulina und Heilerde binden " +
       "Toxine und Fluorid im Darm und verhindern deren Rückresorption " +
-      "in den Körper. 2) Schutz und Nährung — Blaubeeren-Anthocyane, " +
+      "in den Körper. 2) Schutz und Nährung: Blaubeeren-Anthocyane, " +
       "Curcumin und Gerstengras-Enzyme schützen die Gehirnzellen " +
       "(einschließlich der Pinealocyten) vor oxidativem Stress. " +
       "Die Blaubeere ist dabei besonders bemerkenswert: Ihre Anthocyane " +
@@ -1505,9 +1505,9 @@ export const ZIRBELDRUESE_REZEPTE = [
     ],
     geheimtipp:
       "Die Heilerde 10 Minuten VOR den anderen Zutaten in Wasser " +
-      "einrühren und quellen lassen — so entfaltet sie ihre volle " +
+      "einrühren und quellen lassen, so entfaltet sie ihre volle " +
       "Adsorptionskraft. Und: Chlorella und Spirulina mindestens " +
-      "30 Minuten Abstand zu Medikamenten halten — sie binden nicht " +
+      "30 Minuten Abstand zu Medikamenten halten, sie binden nicht " +
       "nur Schadstoffe, sondern könnten auch Wirkstoffe adsorbieren.",
     wirkungszeit:
       "Mehr Energie und klarerer Kopf oft schon nach 3–5 Tagen " +

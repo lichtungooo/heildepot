@@ -78,12 +78,12 @@ export function VersandModal({ open, onClose }) {
           <Section title="Einfach und sicher anfragen">
             <p>Du kannst sicher und anonym auf unserer Webseite surfen, weil diese per SSL verschlüsselt ist.
             Wir verzichten bewusst auf klassische Shop-Systeme, Benutzerkonten und komplizierte Registrierungen.
-            Stattdessen sendest du eine persönliche Anfrage -- wie eine Nachricht an einen Freund.</p>
+            Stattdessen sendest du eine persönliche Anfrage, wie eine Nachricht an einen Freund.</p>
           </Section>
 
           <Section title="Warum Anfragen statt Bestellungen?">
             <p>Im Freundeskreis gibt es keine Kaufverträge. Du teilst deinen Wunsch mit, und wir
-            kümmern uns darum. Das Ganze basiert auf dem internationalen Privatrecht -- dem freien
+            kümmern uns darum. Das Ganze basiert auf dem internationalen Privatrecht, dem freien
             Austausch unter Privatpersonen. Deshalb nutzen wir ein System, bei dem du anonym bleibst
             und nur das mitteilst, was du möchtest.</p>
           </Section>
@@ -112,7 +112,7 @@ export function VersandModal({ open, onClose }) {
           </Section>
 
           <Section title="Beilagen bestimmen">
-            <p>Du bestimmst selbst, welche Materialien deiner Sendung beiliegen -- der Umwelt zuliebe.
+            <p>Du bestimmst selbst, welche Materialien deiner Sendung beiliegen, der Umwelt zuliebe.
             Im Anfrageprozess kannst du Häkchen setzen für:</p>
             <ul className="list-disc pl-4 space-y-1 mt-1">
               <li>Anwendungsblätter zu den Artikeln</li>
@@ -193,7 +193,7 @@ function TabFreundeskreis() {
       <Section title="Warum agieren wir so?">
         <p>Seit Jahrtausenden teilen Menschen Heilwissen in ihren Gemeinschaften. Was als
         Erfahrungswissen von Mensch zu Mensch weitergegeben wird, braucht keinen kommerziellen
-        Rahmen -- es braucht Vertrauen, persönliche Beziehung und echte Begegnung.</p>
+        Rahmen, es braucht Vertrauen, persönliche Beziehung und echte Begegnung.</p>
         <p className="mt-2">Im Freundeskreis gibt es keine Kunden und keine Händler. Es gibt Menschen,
         die einander kennen, sich begegnet sind und füreinander einstehen. Produkte werden
         nicht verkauft, sondern auf Basis freiwilliger Wertschätzung geteilt.</p>
@@ -201,13 +201,13 @@ function TabFreundeskreis() {
 
       <Section title="Warum ein Anfrage-System statt eines Shops?">
         <p>Wir nutzen bewusst ein System, in dem du <span className="font-semibold">Anfragen</span> stellst
-        statt Bestellungen aufzugeben. Das ist kein Marketing-Trick -- es ist die rechtliche
+        statt Bestellungen aufzugeben. Das ist kein Marketing-Trick, es ist die rechtliche
         und philosophische Grundlage unseres Miteinanders:</p>
         <ul className="list-disc pl-4 space-y-1.5 mt-2">
-          <li>Es entstehen <span className="font-semibold">keine Kaufverträge</span> -- damit kein Handelsrecht, kein Widerrufsrecht, keine AGB</li>
-          <li>Du bleibst <span className="font-semibold">so anonym wie du möchtest</span> -- kein Konto-Zwang, keine Datensammlung</li>
-          <li>Der Wertausgleich ist <span className="font-semibold">freiwillig</span> -- du bestimmst selbst, was dir die Dinge wert sind</li>
-          <li>Wir agieren im <span className="font-semibold">internationalen Privatrecht</span> -- dem ältesten Rechtssystem der Welt</li>
+          <li>Es entstehen <span className="font-semibold">keine Kaufverträge</span>, damit kein Handelsrecht, kein Widerrufsrecht, keine AGB</li>
+          <li>Du bleibst <span className="font-semibold">so anonym wie du möchtest</span>, kein Konto-Zwang, keine Datensammlung</li>
+          <li>Der Wertausgleich ist <span className="font-semibold">freiwillig</span>, du bestimmst selbst, was dir die Dinge wert sind</li>
+          <li>Wir agieren im <span className="font-semibold">internationalen Privatrecht</span>, dem ältesten Rechtssystem der Welt</li>
         </ul>
       </Section>
 
@@ -215,7 +215,7 @@ function TabFreundeskreis() {
         <PrincipleCard icon={<Users size={18} />} title="Reale Begegnung"
           text="Jedes Mitglied wurde persönlich eingeladen und hat sich in einer echten Begegnung kennengelernt. Keine anonyme Registrierung." />
         <PrincipleCard icon={<Heart size={18} />} title="Freiwilliger Wertausgleich"
-          text="Es gibt keine festen Preise. Was du gibst, bestimmst du selbst -- als Ausdruck deiner Wertschätzung, nicht als Bezahlung." />
+          text="Es gibt keine festen Preise. Was du gibst, bestimmst du selbst, als Ausdruck deiner Wertschätzung, nicht als Bezahlung." />
         <PrincipleCard icon={<Shield size={18} />} title="Geschlossener Kreis"
           text="Der Freundeskreis ist nicht öffentlich zugänglich. Zugang erfolgt ausschließlich durch persönliche Einladung." />
         <PrincipleCard icon={<BookOpen size={18} />} title="Erfahrungswissen"
@@ -240,7 +240,7 @@ function TabRecht() {
         <p className="text-sm text-text-medium leading-relaxed">
           Der private Austausch unter Freunden ist durch das älteste Rechtssystem der Welt geschützt:
           das <span className="font-semibold text-green-dark">internationale Privatrecht</span>. Wir agieren
-          nicht im Handelsrecht, nicht im Verbraucherrecht und nicht im Gewerberecht -- sondern im Raum
+          nicht im Handelsrecht, nicht im Verbraucherrecht und nicht im Gewerberecht, sondern im Raum
           der privaten Vereinbarung zwischen souveränen Menschen.
         </p>
       </div>
@@ -249,7 +249,7 @@ function TabRecht() {
         <p>Das internationale Privatrecht (IPR) regelt die Rechtsbeziehungen zwischen Privatpersonen
         über Ländergrenzen hinweg. Es ist älter als jedes Handelsrecht und schützt die
         grundlegendste Form menschlicher Interaktion: den freiwilligen Austausch unter Gleichen.</p>
-        <p className="mt-2">Indem wir als Freundeskreis agieren -- ohne Gewerbe, ohne Handel, ohne feste Preise --
+        <p className="mt-2">Indem wir als Freundeskreis agieren, ohne Gewerbe, ohne Handel, ohne feste Preise,
         bewegen wir uns vollständig im Bereich des Privatrechts. Das ist kein Schlupfloch,
         sondern die natürliche Rechtsform des menschlichen Miteinanders.</p>
       </Section>
@@ -257,7 +257,7 @@ function TabRecht() {
       <h3 className="text-xs font-semibold text-green-dark uppercase tracking-wide pt-1">Deutsches Recht</h3>
       <div className="space-y-2">
         <LawCard a="Art. 2 Abs. 1 GG" t="Allgemeine Handlungsfreiheit (Privatautonomie)"
-          d="Jeder Mensch hat das Recht, seine privaten Angelegenheiten frei zu gestalten -- einschließlich des freien Austauschs von Waren und Wissen im privaten Kreis. Dieses Grundrecht ist die Basis unseres Handelns." />
+          d="Jeder Mensch hat das Recht, seine privaten Angelegenheiten frei zu gestalten, einschließlich des freien Austauschs von Waren und Wissen im privaten Kreis. Dieses Grundrecht ist die Basis unseres Handelns." />
         <LawCard a="§ 311 Abs. 1 BGB" t="Vertragsfreiheit"
           d="Private Vereinbarungen zwischen Freunden sind durch die Vertragsfreiheit geschützt. Form, Inhalt und Gegenleistung bestimmen die Beteiligten selbst. Es besteht keine Formvorschrift." />
         <LawCard a="§ 516 BGB" t="Schenkung"
@@ -275,7 +275,7 @@ function TabRecht() {
         <LawCard a="Art. 3 Rom I-VO" t="Freie Rechtswahl"
           d="Bei grenzüberschreitenden privaten Vereinbarungen können die Beteiligten das anwendbare Recht frei wählen. Der Freundeskreis vereinbart deutsches Privatrecht als Grundlage." />
         <LawCard a="Art. 4 Rom I-VO" t="Mangels Rechtswahl"
-          d="Ohne ausdrückliche Rechtswahl gilt das Recht des Landes, in dem der Leistungserbringer seinen gewöhnlichen Aufenthalt hat -- in unserem Fall Deutschland." />
+          d="Ohne ausdrückliche Rechtswahl gilt das Recht des Landes, in dem der Leistungserbringer seinen gewöhnlichen Aufenthalt hat, in unserem Fall Deutschland." />
         <LawCard a="Art. 6 Rom I-VO" t="Verbraucherverträge"
           d="Die besonderen Verbraucherschutzvorschriften greifen NUR bei geschäftsmäßigem Handeln eines Unternehmers gegenüber einem Verbraucher. Da im Freundeskreis alle als Privatpersonen handeln, ist Art. 6 nicht anwendbar." />
         <LawCard a="Art. 3-5 EGBGB" t="Eingangsbestimmungen zum BGB"
@@ -290,7 +290,7 @@ function TabRecht() {
         <p className="text-xs text-text-medium leading-relaxed">
           <span className="font-semibold text-text-dark">Zusammengefasst:</span> Der private Austausch unter Freunden ist durch
           Grundgesetz, BGB und europäisches Recht geschützt. Es gibt keine Kaufverträge, keine
-          Gewährleistung und keine Widerrufsrechte -- weil es sich nicht um Geschäfte handelt,
+          Gewährleistung und keine Widerrufsrechte, weil es sich nicht um Geschäfte handelt,
           sondern um freiwilligen Austausch unter souveränen Privatpersonen auf Vertrauensbasis.
           Das ist der älteste und natürlichste Rechtsrahmen der Menschheit.
         </p>
@@ -318,15 +318,15 @@ function TabDatenschutz() {
 
       <div className="space-y-3">
         <DsCard icon="x" title="Keine Cookies"
-          text="Diese Webseite setzt keine Cookies -- weder eigene noch von Drittanbietern. Kein Cookie-Banner nötig, weil es keine Cookies gibt." />
+          text="Diese Webseite setzt keine Cookies, weder eigene noch von Drittanbietern. Kein Cookie-Banner nötig, weil es keine Cookies gibt." />
         <DsCard icon="x" title="Kein Tracking"
-          text="Kein Google Analytics, kein Facebook Pixel, kein Matomo, kein Hotjar -- gar nichts. Wir wissen nicht, woher du kommst oder was du klickst." />
+          text="Kein Google Analytics, kein Facebook Pixel, kein Matomo, kein Hotjar, gar nichts. Wir wissen nicht, woher du kommst oder was du klickst." />
         <DsCard icon="x" title="Keine Werbung"
           text="Keine Werbeanzeigen, keine Affiliate-Links, keine gesponserten Inhalte. Alles hier dient dem Wissensaustausch, nicht dem Profit." />
         <DsCard icon="x" title="Keine Weitergabe"
-          text="Deine Daten werden an niemanden weitergegeben -- nicht an Behörden, nicht an Werbepartner, nicht an Dritte." />
+          text="Deine Daten werden an niemanden weitergegeben, nicht an Behörden, nicht an Werbepartner, nicht an Dritte." />
         <DsCard icon="x" title="Keine serverseitige Speicherung"
-          text="Wir betreiben keinen Server der deine Daten speichert. Diese Seite ist eine statische Webseite auf GitHub Pages -- es gibt keine Datenbank, keinen Login-Server, keine Cloud." />
+          text="Wir betreiben keinen Server der deine Daten speichert. Diese Seite ist eine statische Webseite auf GitHub Pages, es gibt keine Datenbank, keinen Login-Server, keine Cloud." />
         <DsCard icon="check" title="SSL-Verschlüsselung"
           text="Die gesamte Verbindung ist per SSL/TLS verschlüsselt. Niemand kann mitlesen." />
         <DsCard icon="check" title="Lokale Datenspeicherung"

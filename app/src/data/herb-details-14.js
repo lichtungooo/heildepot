@@ -13,10 +13,10 @@ export const HERB_DEEP_14 = {
     familie: 'Kieferngewächse (Pinaceae)',
     beschreibung: `Die Weisstanne ist der mächtigste Nadelbaum Europas und kann über 60 Meter hoch werden. Ihr silbriger Stamm und die flachen, weichen Nadeln mit den zwei weißen Streifen auf der Unterseite unterscheiden sie von der Fichte. Das Tannenharz, auch Straßburger Terpentin genannt, ist ein besonders feines, klares Harz von balsamischem Duft.
 
-In der Heilkunde werden Nadeln, Harz und junge Triebe verwendet. Die ätherischen Öle -- vor allem Bornylacetat, Limonen und Pinen -- wirken stark schleimlösend, durchblutungsfördernd und desinfizierend auf die Atemwege. Tannennadelbäder sind ein bewährtes Hausmittel bei Erkältungen, Muskelschmerzen und Erschöpfung.
+In der Heilkunde werden Nadeln, Harz und junge Triebe verwendet. Die ätherischen Öle, vor allem Bornylacetat, Limonen und Pinen, wirken stark schleimlösend, durchblutungsfördernd und desinfizierend auf die Atemwege. Tannennadelbäder sind ein bewährtes Hausmittel bei Erkältungen, Muskelschmerzen und Erschöpfung.
 
-Das Tannenharz wurde seit jeher als Wundheilmittel eingesetzt. Es wirkt antibakteriell, fördert die Geweberegeneration und verschließt Wunden auf natürliche Weise. Auch der Tannenhonig -- eigentlich Honigtau-Honig -- gilt als besonders heilkräftig bei Atemwegserkrankungen.`,
-    geschichte: `Die Tanne war den Kelten ein heiliger Baum, der mit der Wintersonnenwende verbunden wurde -- daher die Tradition des Weihnachtsbaums. In der germanischen Mythologie war sie der Baum der Geburt und des Neubeginns.
+Das Tannenharz wurde seit jeher als Wundheilmittel eingesetzt. Es wirkt antibakteriell, fördert die Geweberegeneration und verschließt Wunden auf natürliche Weise. Auch der Tannenhonig, eigentlich Honigtau-Honig, gilt als besonders heilkräftig bei Atemwegserkrankungen.`,
+    geschichte: `Die Tanne war den Kelten ein heiliger Baum, der mit der Wintersonnenwende verbunden wurde, daher die Tradition des Weihnachtsbaums. In der germanischen Mythologie war sie der Baum der Geburt und des Neubeginns.
 
 Hildegard von Bingen empfahl Tannenharz-Pflaster bei Wunden und Geschwüren. In der Volksmedizin der Alpenländer war die Tanne ein unverzichtbares Heilmittel. Sennerhirten kauten Tannenharz als natürliches Desinfektionsmittel und legten frische Harzbrocken auf Wunden.`,
     wirkungen: {
@@ -37,7 +37,7 @@ Hildegard von Bingen empfahl Tannenharz-Pflaster bei Wunden und Geschwüren. In 
       },
       {
         name: 'Maiwipfel-Sirup',
-        anleitung: 'Frische Maiwipfel schichtweise mit Zucker in ein Glas füllen. In die Sonne stellen, bis sich Sirup bildet (ca. 2--3 Wochen). Abseihen und kühl aufbewahren.',
+        anleitung: 'Frische Maiwipfel schichtweise mit Zucker in ein Glas füllen. In die Sonne stellen, bis sich Sirup bildet (ca. 2-3 Wochen). Abseihen und kühl aufbewahren.',
         wirkung: 'Schleimlösend und hustenreizlindernd bei Erkältungen und Bronchitis.',
       },
       {
@@ -59,14 +59,14 @@ Hildegard von Bingen empfahl Tannenharz-Pflaster bei Wunden und Geschwüren. In 
   'Tomate': {
     vollname: 'Tomate (Solanum lycopersicum)',
     familie: 'Nachtschattengewächse (Solanaceae)',
-    beschreibung: `Die Tomate stammt aus Südamerika und wurde in Europa jahrhundertelang als Giftpflanze gefürchtet -- man nannte sie "Liebesapfel" oder "Goldapfel", wagte aber nicht, sie zu essen. Heute ist sie eines der wichtigsten Nahrungsmittel weltweit und zugleich eine unterschätzte Heilpflanze.
+    beschreibung: `Die Tomate stammt aus Südamerika und wurde in Europa jahrhundertelang als Giftpflanze gefürchtet, man nannte sie "Liebesapfel" oder "Goldapfel", wagte aber nicht, sie zu essen. Heute ist sie eines der wichtigsten Nahrungsmittel weltweit und zugleich eine unterschätzte Heilpflanze.
 
-Der rote Farbstoff Lycopin ist ein starkes Antioxidans, das freie Radikale neutralisiert und Zellschäden vorbeugt. Interessanterweise wird Lycopin durch Erhitzen besser verfügbar -- gekochte Tomaten sind in dieser Hinsicht wertvoller als rohe. Zusammen mit etwas Fett steigt die Aufnahme noch weiter.
+Der rote Farbstoff Lycopin ist ein starkes Antioxidans, das freie Radikale neutralisiert und Zellschäden vorbeugt. Interessanterweise wird Lycopin durch Erhitzen besser verfügbar, gekochte Tomaten sind in dieser Hinsicht wertvoller als rohe. Zusammen mit etwas Fett steigt die Aufnahme noch weiter.
 
 Die Tomate ist reich an Vitamin C, Kalium, Folsäure und sekundären Pflanzenstoffen. Sie wirkt basisch im Stoffwechsel, unterstützt Herz und Gefäße und hat entzündungshemmende Eigenschaften. Äußerlich hilft Tomatensaft bei Insektenstichen und Sonnenbrand.`,
     geschichte: `Die Azteken kultivierten die Tomate bereits um 700 n. Chr. als "Tomatl". Nach der Eroberung Mexikos brachten die Spanier sie im 16. Jahrhundert nach Europa, wo sie zunächst nur als Zierpflanze angebaut wurde.
 
-In Italien begann man als Erstes, Tomaten zu essen -- der Name "Pomodoro" (Goldapfel) zeugt davon. In Mitteleuropa dauerte es bis ins 19. Jahrhundert, bevor die Tomate als Nahrungsmittel akzeptiert wurde. Die Angst vor ihrer Verwandtschaft mit Tollkirsche und Bilsenkraut saß tief.`,
+In Italien begann man als Erstes, Tomaten zu essen, der Name "Pomodoro" (Goldapfel) zeugt davon. In Mitteleuropa dauerte es bis ins 19. Jahrhundert, bevor die Tomate als Nahrungsmittel akzeptiert wurde. Die Angst vor ihrer Verwandtschaft mit Tollkirsche und Bilsenkraut saß tief.`,
     wirkungen: {
       hauptwirkungen: ['Antioxidativ (Lycopin)', 'Herz-Kreislauf-schützend', 'Entzündungshemmend', 'Basisch wirkend', 'Hautschützend', 'Immunstärkend'],
       inhaltsstoffe: ['Lycopin', 'Vitamin C', 'Kalium', 'Folsäure', 'Beta-Carotin', 'Vitamin K', 'Flavonoide (Naringenin)', 'Chlorogensäure'],
@@ -74,7 +74,7 @@ In Italien begann man als Erstes, Tomaten zu essen -- der Name "Pomodoro" (Golda
     ernte: {
       zeit: 'Von Juli bis Oktober, wenn die Früchte vollreif und intensiv rot gefärbt sind.',
       teile: 'Reife Früchte. Grüne Teile und Blätter enthalten Solanin und sind giftig.',
-      tipps: 'Tomaten am besten an der Pflanze vollständig ausreifen lassen. Sonnengereift entwickeln sie den höchsten Lycopin-Gehalt. Nie im Kühlschrank lagern -- Kälte zerstört Aroma und mindert Inhaltsstoffe.',
+      tipps: 'Tomaten am besten an der Pflanze vollständig ausreifen lassen. Sonnengereift entwickeln sie den höchsten Lycopin-Gehalt. Nie im Kühlschrank lagern: Kälte zerstört Aroma und mindert Inhaltsstoffe.',
       mond: 'Bei zunehmendem Mond in einem Fruchtzeichen ernten für bestes Aroma.',
     },
     zubereitungen: [
@@ -109,10 +109,10 @@ In Italien begann man als Erstes, Tomaten zu essen -- der Name "Pomodoro" (Golda
     familie: 'Korbblütler (Asteraceae)',
     beschreibung: `Topinambur, auch Erdbirne oder Indianerknolle genannt, ist eine imposante Sonnenblumenart aus Nordamerika, die bis zu drei Meter hoch wird. Unter der Erde bildet sie knorrige, ingwerähnliche Knollen, die einen nussig-süßlichen Geschmack haben und ein wahres Superfood sind.
 
-Das Besondere an Topinambur ist der hohe Gehalt an Inulin -- einem präbiotischen Ballaststoff, der die Darmflora nährt und den Blutzucker kaum beeinflusst. Deshalb gilt Topinambur als ideales Nahrungsmittel für Diabetiker. Inulin fördert die Vermehrung gesunder Darmbakterien und stärkt so das gesamte Immunsystem.
+Das Besondere an Topinambur ist der hohe Gehalt an Inulin, einem präbiotischen Ballaststoff, der die Darmflora nährt und den Blutzucker kaum beeinflusst. Deshalb gilt Topinambur als ideales Nahrungsmittel für Diabetiker. Inulin fördert die Vermehrung gesunder Darmbakterien und stärkt so das gesamte Immunsystem.
 
 Die Knollen enthalten außerdem Eisen, Kalium, Silizium, B-Vitamine und Vitamin C. Sie wirken sättigend bei geringem Kaloriengehalt und unterstützen die Verdauung. In der Naturheilkunde wird Topinambur bei Diabetes, Übergewicht, Verdauungsbeschwerden und zur Darmsanierung eingesetzt.`,
-    geschichte: `Indigene Völker Nordamerikas kultivierten Topinambur lange vor der europäischen Besiedlung. Der Name stammt vom brasilianischen Stamm der Tupinambá, obwohl die Pflanze selbst aus Nordamerika kommt -- eine Verwechslung der frühen Entdecker.
+    geschichte: `Indigene Völker Nordamerikas kultivierten Topinambur lange vor der europäischen Besiedlung. Der Name stammt vom brasilianischen Stamm der Tupinambá, obwohl die Pflanze selbst aus Nordamerika kommt, eine Verwechslung der frühen Entdecker.
 
 Zu Beginn des 17. Jahrhunderts gelangte Topinambur nach Europa und wurde zunächst begeistert angebaut. Die Kartoffel verdrängte sie jedoch bald. Erst in jüngerer Zeit erlebt sie eine Renaissance als Gesundheitsnahrung und Diabetiker-Kost.`,
     wirkungen: {
@@ -122,7 +122,7 @@ Zu Beginn des 17. Jahrhunderts gelangte Topinambur nach Europa und wurde zunäch
     ernte: {
       zeit: 'Knollen von Oktober bis März, am besten nach dem ersten Frost.',
       teile: 'Unterirdische Knollen, junge Blüten auch als Dekoration essbar.',
-      tipps: 'Knollen können den ganzen Winter über frisch aus der Erde geholt werden -- sie sind frosthart. Nach dem Ausgraben schnell verbrauchen, da sie an der Luft rasch schrumpeln. Kühl und feucht lagern.',
+      tipps: 'Knollen können den ganzen Winter über frisch aus der Erde geholt werden, sie sind frosthart. Nach dem Ausgraben schnell verbrauchen, da sie an der Luft rasch schrumpeln. Kühl und feucht lagern.',
       mond: 'Bei abnehmendem Mond ernten, dann halten die Knollen länger.',
     },
     zubereitungen: [
@@ -155,7 +155,7 @@ Zu Beginn des 17. Jahrhunderts gelangte Topinambur nach Europa und wurde zunäch
   'Trollblume': {
     vollname: 'Europäische Trollblume (Trollius europaeus)',
     familie: 'Hahnenfußgewächse (Ranunculaceae)',
-    beschreibung: `Die Trollblume ist eine leuchtend goldgelbe Wiesenblume der Feuchtwiesen und Bergregionen. Ihre kugelförmigen, geschlossenen Blüten erinnern an goldene Laternen und erhellen feuchte Wiesen im Frühsommer. Der Name "Trollblume" leitet sich von "Troll" im Sinne von "Kugel" ab -- nicht von den Fabelwesen.
+    beschreibung: `Die Trollblume ist eine leuchtend goldgelbe Wiesenblume der Feuchtwiesen und Bergregionen. Ihre kugelförmigen, geschlossenen Blüten erinnern an goldene Laternen und erhellen feuchte Wiesen im Frühsommer. Der Name "Trollblume" leitet sich von "Troll" im Sinne von "Kugel" ab, nicht von den Fabelwesen.
 
 Als Verwandte des Hahnenfußes enthält die Trollblume Protoanemonin und ist in frischem Zustand leicht giftig und hautreizend. In der Volksheilkunde wurde sie trotzdem äußerlich bei Hautleiden und innerlich in kleinsten Dosen bei Skorbut und Leberleiden verwendet. Heute findet sie hauptsächlich in der Homöopathie Verwendung.
 
@@ -168,7 +168,7 @@ In der Schweizer Volksmedizin wurde ein Absud der Blüten bei Leberleiden und Ga
       inhaltsstoffe: ['Protoanemonin', 'Anemonin', 'Flavonoide', 'Carotinoide', 'Saponine', 'Vitamin C', 'Gerbstoffe'],
     },
     ernte: {
-      zeit: 'Blütezeit Mai bis Juli -- in den meisten Regionen geschützt, nicht sammeln!',
+      zeit: 'Blütezeit Mai bis Juli, in den meisten Regionen geschützt, nicht sammeln!',
       teile: 'Historisch: Blüten und Kraut. Heute nur aus Gartenkultur.',
       tipps: 'Die Trollblume ist in weiten Teilen Europas streng geschützt. Wer sie verwenden möchte, kann sie im eigenen Garten an einem feuchten Standort kultivieren. Nur als Homöopathikum aus der Apotheke verwenden.',
       mond: 'Wenn überhaupt aus dem Garten: bei zunehmendem Mond in einem Blütenzeichen.',
@@ -205,12 +205,12 @@ In der Schweizer Volksmedizin wurde ein Absud der Blüten bei Leberleiden und Ga
     familie: 'Liliengewächse (Liliaceae)',
     beschreibung: `Die Tulpe ist vor allem als Zierpflanze bekannt, doch sie hat eine überraschend lange Heilgeschichte in der persischen und osmanischen Medizin. Ihre Zwiebeln und Blütenblätter wurden traditionell bei verschiedenen Beschwerden eingesetzt. In Europa geriet diese Tradition fast in Vergessenheit.
 
-Die Tulpenzwiebel enthält Stärke, Zucker und verschiedene Glycoside. In Notzeiten -- etwa im niederländischen Hungerwinter 1944/45 -- wurden Tulpenzwiebeln als Nahrungsmittel verzehrt. Die Blütenblätter sind essbar und können Salaten eine zarte Süße und Farbe verleihen.
+Die Tulpenzwiebel enthält Stärke, Zucker und verschiedene Glycoside. In Notzeiten, etwa im niederländischen Hungerwinter 1944/45, wurden Tulpenzwiebeln als Nahrungsmittel verzehrt. Die Blütenblätter sind essbar und können Salaten eine zarte Süße und Farbe verleihen.
 
 In der modernen Naturheilkunde spielt die Tulpe vor allem als Blütenessenz eine Rolle. Sie steht für die Öffnung des Herzens, für Schönheit und für die Bereitschaft, sich dem Leben hinzugeben. Vorsicht: Manche Menschen reagieren auf den Kontakt mit Tulpenzwiebeln mit einer Kontaktdermatitis ("Tulpenfinger").`,
-    geschichte: `Die Tulpe stammt aus Zentralasien und war im Osmanischen Reich ein Symbol für das Paradies. Sultan Ahmed III. widmete ihr eine ganze Kulturepoche -- die "Tulpenzeit" (Lale Devri). In der persischen Medizin wurden Tulpenzwiebeln-Pasten bei Hautausschlägen und als Potenzmittel verwendet.
+    geschichte: `Die Tulpe stammt aus Zentralasien und war im Osmanischen Reich ein Symbol für das Paradies. Sultan Ahmed III. widmete ihr eine ganze Kulturepoche, die "Tulpenzeit" (Lale Devri). In der persischen Medizin wurden Tulpenzwiebeln-Pasten bei Hautausschlägen und als Potenzmittel verwendet.
 
-Im 17. Jahrhundert löste die Tulpe in den Niederlanden die berühmte "Tulpenmanie" aus -- die erste dokumentierte Spekulationsblase der Geschichte. Eine einzige seltene Zwiebel konnte mehr kosten als ein Grachthaus in Amsterdam.`,
+Im 17. Jahrhundert löste die Tulpe in den Niederlanden die berühmte "Tulpenmanie" aus, die erste dokumentierte Spekulationsblase der Geschichte. Eine einzige seltene Zwiebel konnte mehr kosten als ein Grachthaus in Amsterdam.`,
     wirkungen: {
       hauptwirkungen: ['Herzöffnend (Blütenessenz)', 'Nährend (Zwiebel)', 'Hautpflegend (Blütenblätter)', 'Stimmungsaufhellend', 'Erdend', 'Schönheitspflegend'],
       inhaltsstoffe: ['Tuliposide A und B', 'Stärke', 'Zucker', 'Anthocyane', 'Flavonoide', 'Glycoside', 'Vitamin C', 'Mineralstoffe'],
@@ -224,7 +224,7 @@ Im 17. Jahrhundert löste die Tulpe in den Niederlanden die berühmte "Tulpenman
     zubereitungen: [
       {
         name: 'Tulpenblüten-Essenz',
-        anleitung: 'Frisch aufgeblühte Tulpen in eine Glasschale mit Quellwasser legen und 3--4 Stunden in die Frühlingssonne stellen. Mit Cognac konservieren (1:1).',
+        anleitung: 'Frisch aufgeblühte Tulpen in eine Glasschale mit Quellwasser legen und 3-4 Stunden in die Frühlingssonne stellen. Mit Cognac konservieren (1:1).',
         wirkung: 'Öffnet das Herz, fördert Lebensfreude und die Bereitschaft für Neues.',
       },
       {
@@ -251,14 +251,14 @@ Im 17. Jahrhundert löste die Tulpe in den Niederlanden die berühmte "Tulpenman
   'Ulme': {
     vollname: 'Feldulme (Ulmus campestris)',
     familie: 'Ulmengewächse (Ulmaceae)',
-    beschreibung: `Die Ulme war einst einer der prägenden Bäume Mitteleuropas, bevor das Ulmensterben durch den Pilz Ophiostoma ihre Bestände dramatisch dezimierte. Ihre innere Rinde -- der Bast -- ist eines der ältesten Wundheilmittel der Menschheit und enthält große Mengen Schleimstoffe, Gerbstoffe und Mineralstoffe.
+    beschreibung: `Die Ulme war einst einer der prägenden Bäume Mitteleuropas, bevor das Ulmensterben durch den Pilz Ophiostoma ihre Bestände dramatisch dezimierte. Ihre innere Rinde, der Bast, ist eines der ältesten Wundheilmittel der Menschheit und enthält große Mengen Schleimstoffe, Gerbstoffe und Mineralstoffe.
 
-Die Schleimstoffe der Ulmenrinde legen sich wie ein schützender Film auf gereizte Schleimhäute und wirken dadurch lindernd bei Entzündungen im gesamten Verdauungstrakt. Von Sodbrennen über Gastritis bis hin zu Reizdarm -- die Ulmenrinde ist ein sanftes, aber wirksames Mittel für den gesamten Magen-Darm-Trakt.
+Die Schleimstoffe der Ulmenrinde legen sich wie ein schützender Film auf gereizte Schleimhäute und wirken dadurch lindernd bei Entzündungen im gesamten Verdauungstrakt. Von Sodbrennen über Gastritis bis hin zu Reizdarm, die Ulmenrinde ist ein sanftes, aber wirksames Mittel für den gesamten Magen-Darm-Trakt.
 
-Besonders die nordamerikanische Rotulme (Ulmus rubra) -- als "Slippery Elm" bekannt -- ist in der Naturheilkunde ein Standardmittel bei empfindlichem Magen. Auch die europäische Feldulme besitzt ähnliche Eigenschaften und wurde in der traditionellen Heilkunde vielfältig eingesetzt.`,
+Besonders die nordamerikanische Rotulme (Ulmus rubra), als "Slippery Elm" bekannt, ist in der Naturheilkunde ein Standardmittel bei empfindlichem Magen. Auch die europäische Feldulme besitzt ähnliche Eigenschaften und wurde in der traditionellen Heilkunde vielfältig eingesetzt.`,
     geschichte: `Die Ulme war den Kelten heilig und galt als Baum der Intuition und der inneren Stimme. In der Bach-Blütentherapie steht Elm für Menschen, die sich von ihren Aufgaben überwältigt fühlen.
 
-Hildegard von Bingen empfahl Ulmenrinden-Umschläge bei Gicht. In der nordamerikanischen Tradition war Slippery Elm eines der wichtigsten Heilmittel der Cherokee und Irokesen -- bei Halsschmerzen, Verdauungsbeschwerden und als Nahrung für Kranke und Schwache.`,
+Hildegard von Bingen empfahl Ulmenrinden-Umschläge bei Gicht. In der nordamerikanischen Tradition war Slippery Elm eines der wichtigsten Heilmittel der Cherokee und Irokesen, bei Halsschmerzen, Verdauungsbeschwerden und als Nahrung für Kranke und Schwache.`,
     wirkungen: {
       hauptwirkungen: ['Schleimhautschützend', 'Entzündungshemmend', 'Reizlindernd', 'Wundheilend', 'Nährend', 'Adstringierend'],
       inhaltsstoffe: ['Schleimstoffe (Polysaccharide)', 'Gerbstoffe', 'Phytosterole', 'Calcium', 'Magnesium', 'Vitamin A', 'Flavonoide', 'Bitterstoffe'],
@@ -266,7 +266,7 @@ Hildegard von Bingen empfahl Ulmenrinden-Umschläge bei Gicht. In der nordamerik
     ernte: {
       zeit: 'Innere Rinde (Bast) im Frühjahr vor dem Laubaustrieb.',
       teile: 'Innere Rinde jüngerer Äste, nicht vom Hauptstamm schälen.',
-      tipps: 'Ulmen sind selten geworden -- am besten Rinde aus nachhaltigem Anbau oder als Fertigpräparat kaufen. Niemals lebende Bäume schädigen. Rinde in dünne Streifen schneiden und bei guter Belüftung trocknen.',
+      tipps: 'Ulmen sind selten geworden, am besten Rinde aus nachhaltigem Anbau oder als Fertigpräparat kaufen. Niemals lebende Bäume schädigen. Rinde in dünne Streifen schneiden und bei guter Belüftung trocknen.',
       mond: 'Rinde bei abnehmendem Mond ernten für maximale Schleimstoff-Konzentration.',
     },
     zubereitungen: [
@@ -277,7 +277,7 @@ Hildegard von Bingen empfahl Ulmenrinden-Umschläge bei Gicht. In der nordamerik
       },
       {
         name: 'Ulmenrinden-Tee',
-        anleitung: '1 TL Ulmenrinde in 250ml kaltem Wasser 2 Stunden einweichen, dann kurz aufkochen und abseihen. 2--3 Tassen täglich.',
+        anleitung: '1 TL Ulmenrinde in 250ml kaltem Wasser 2 Stunden einweichen, dann kurz aufkochen und abseihen. 2-3 Tassen täglich.',
         wirkung: 'Bei Sodbrennen, Gastritis und empfindlichem Magen.',
       },
       {
@@ -304,7 +304,7 @@ Hildegard von Bingen empfahl Ulmenrinden-Umschläge bei Gicht. In der nordamerik
 In der Heilkunde wirkt Vanille vor allem über ihren Duft. Das Aroma aktiviert die Ausschüttung von Serotonin und Endorphinen und hat damit eine nachweislich stimmungsaufhellende und beruhigende Wirkung. Bei Stress, Ängsten und depressiven Verstimmungen kann Vanilleduft eine sofortige Erleichterung bringen.
 
 Vanille wirkt außerdem entzündungshemmend, antioxidativ und aphrodisierend. Die Inhaltsstoffe Vanillin und Vanillinsäure haben in Studien antibakterielle und zellschützende Eigenschaften gezeigt. In der Aromatherapie ist Vanille eines der wichtigsten Mittel bei seelischer Anspannung und Schlafstörungen.`,
-    geschichte: `Die Totonaken in Mexiko kultivierten Vanille als Erste und betrachteten sie als Geschenk der Götter. Die Azteken würzten ihr Kakaogetränk "Xocolatl" mit Vanille -- daher die enge Verbindung von Schokolade und Vanille.
+    geschichte: `Die Totonaken in Mexiko kultivierten Vanille als Erste und betrachteten sie als Geschenk der Götter. Die Azteken würzten ihr Kakaogetränk "Xocolatl" mit Vanille, daher die enge Verbindung von Schokolade und Vanille.
 
 Hernán Cortés brachte die Vanille im 16. Jahrhundert nach Europa. Jahrhundertelang gelang der Anbau außerhalb Mexikos nicht, da nur eine bestimmte Bienenart die Blüten bestäuben konnte. Erst 1841 entdeckte der zwölfjährige Sklave Edmond Albius auf Réunion die Technik der Handbestäubung.`,
     wirkungen: {
@@ -314,7 +314,7 @@ Hernán Cortés brachte die Vanille im 16. Jahrhundert nach Europa. Jahrhunderte
     ernte: {
       zeit: 'Vanilleschoten werden unreif geerntet und dann monatelang fermentiert.',
       teile: 'Fermentierte Fruchtkapseln (Schoten), Vanillemark (Samen und Mark im Inneren).',
-      tipps: 'Qualitäts-Vanille erkennt man an einer weichen, biegsamen Schote mit einem leichten Fettglanz und dem intensiven, warmen Duft. Ganze Schoten in einem luftdichten Gefäß dunkel lagern -- sie halten jahrelang.',
+      tipps: 'Qualitäts-Vanille erkennt man an einer weichen, biegsamen Schote mit einem leichten Fettglanz und dem intensiven, warmen Duft. Ganze Schoten in einem luftdichten Gefäß dunkel lagern, sie halten jahrelang.',
       mond: 'Vanille-Zubereitungen bei zunehmendem Mond ansetzen für maximale Duftkraft.',
     },
     zubereitungen: [
@@ -330,14 +330,14 @@ Hernán Cortés brachte die Vanille im 16. Jahrhundert nach Europa. Jahrhunderte
       },
       {
         name: 'Vanille-Tinktur',
-        anleitung: '3 Vanilleschoten aufschlitzen und in 200ml Wodka einlegen. 8 Wochen dunkel ziehen lassen. 10--20 Tropfen bei Bedarf.',
+        anleitung: '3 Vanilleschoten aufschlitzen und in 200ml Wodka einlegen. 8 Wochen dunkel ziehen lassen. 10-20 Tropfen bei Bedarf.',
         wirkung: 'Stimmungsaufhellend, verdauungsfördernd und wärmend.',
       },
     ],
     mischungen: ['Gute-Nacht-Milch (mit Zimt und Kardamom)', 'Seelen-Balsam-Öl (mit Rose und Sandelholz)', 'Aphrodisierende Mischung (mit Kakao und Chili)'],
     tcm: 'Warm und süß. Tonisiert das Herz-Qi und beruhigt den Geist (Shen). Wärmt die Niere und stärkt das Yang. Bei innerer Kälte, Traurigkeit und Antriebslosigkeit.',
     ayurveda: 'Süß und warm. Reduziert Vata, beruhigt den Geist und stärkt Ojas. Vanille ist ein natürliches Vajikarana (Aphrodisiakum) und nährt die feinstofflichen Gewebe. Pitta-Typen sollten sie maßvoll verwenden.',
-    volksmedizin: 'In der mexikanischen Volksmedizin wurde Vanille als Magenmittel, Aphrodisiakum und zur Stärkung des Gehirns eingesetzt. In Europa galt Vanille lange als Luxusmedizin -- Ärzte verordneten sie bei Melancholie, Hysterie und "Schwäche der Leidenschaften".',
+    volksmedizin: 'In der mexikanischen Volksmedizin wurde Vanille als Magenmittel, Aphrodisiakum und zur Stärkung des Gehirns eingesetzt. In Europa galt Vanille lange als Luxusmedizin: Ärzte verordneten sie bei Melancholie, Hysterie und "Schwäche der Leidenschaften".',
     besonders_bei: ['schlafprobleme', 'stress', 'depressive_verstimmung', 'verdauungsschwaeche', 'libidoverlust', 'innere_kaelte'],
   },
 
@@ -347,14 +347,14 @@ Hernán Cortés brachte die Vanille im 16. Jahrhundert nach Europa. Jahrhunderte
   'Vogelmiere': {
     vollname: 'Gewöhnliche Vogelmiere (Stellaria media)',
     familie: 'Nelkengewächse (Caryophyllaceae)',
-    beschreibung: `Die Vogelmiere ist eines der unterschätztesten Wildkräuter überhaupt. Das unscheinbare, zarte Pflänzchen mit den kleinen weißen Sternblüten wächst fast überall -- in Gärten, auf Äckern, an Wegrändern -- und ist doch ein wahrer Vitaminschatz. Sie enthält doppelt so viel Vitamin C wie Kopfsalat, dazu Eisen, Kalium, Kieselsäure und wertvolle Saponine.
+    beschreibung: `Die Vogelmiere ist eines der unterschätztesten Wildkräuter überhaupt. Das unscheinbare, zarte Pflänzchen mit den kleinen weißen Sternblüten wächst fast überall, in Gärten, auf Äckern, an Wegrändern, und ist doch ein wahrer Vitaminschatz. Sie enthält doppelt so viel Vitamin C wie Kopfsalat, dazu Eisen, Kalium, Kieselsäure und wertvolle Saponine.
 
-Die Vogelmiere wächst fast das ganze Jahr über und liefert selbst im Winter frisches Grün. Ihr Geschmack erinnert an jungen Mais -- mild, frisch und angenehm. Sie eignet sich hervorragend als Salatkraut, in Smoothies oder als Spinatersatz.
+Die Vogelmiere wächst fast das ganze Jahr über und liefert selbst im Winter frisches Grün. Ihr Geschmack erinnert an jungen Mais, mild, frisch und angenehm. Sie eignet sich hervorragend als Salatkraut, in Smoothies oder als Spinatersatz.
 
-In der Heilkunde wird die Vogelmiere äußerlich bei Hautproblemen aller Art eingesetzt -- von Ekzemen über Schuppenflechte bis zu juckenden Ausschlägen. Innerlich wirkt sie blutreinigend, schleimlösend und stoffwechselanregend. Pfarrer Kneipp schätzte sie als "Reinigungskraut" für den ganzen Körper.`,
-    geschichte: `Der Name Stellaria (von lat. stella = Stern) bezieht sich auf die sternförmigen Blüten. Seit Jahrhunderten wird sie als Vogelfutter geschätzt -- daher "Vogelmiere". In der Klosterheilkunde war sie ein bewährtes Wundheilmittel.
+In der Heilkunde wird die Vogelmiere äußerlich bei Hautproblemen aller Art eingesetzt, von Ekzemen über Schuppenflechte bis zu juckenden Ausschlägen. Innerlich wirkt sie blutreinigend, schleimlösend und stoffwechselanregend. Pfarrer Kneipp schätzte sie als "Reinigungskraut" für den ganzen Körper.`,
+    geschichte: `Der Name Stellaria (von lat. stella = Stern) bezieht sich auf die sternförmigen Blüten. Seit Jahrhunderten wird sie als Vogelfutter geschätzt, daher "Vogelmiere". In der Klosterheilkunde war sie ein bewährtes Wundheilmittel.
 
-Pfarrer Kneipp empfahl die Vogelmiere als Frühjahrskur-Kraut und bei Lungenbeschwerden. In der Volksmedizin galt sie als "Hühnerdarm" und wurde bei Übergewicht eingesetzt -- eine Tradition, die in modernen Studien Bestätigung findet.`,
+Pfarrer Kneipp empfahl die Vogelmiere als Frühjahrskur-Kraut und bei Lungenbeschwerden. In der Volksmedizin galt sie als "Hühnerdarm" und wurde bei Übergewicht eingesetzt, eine Tradition, die in modernen Studien Bestätigung findet.`,
     wirkungen: {
       hauptwirkungen: ['Hautpflegend', 'Blutreinigend', 'Schleimlösend', 'Entzündungshemmend', 'Stoffwechselanregend', 'Wundheilend'],
       inhaltsstoffe: ['Vitamin C', 'Vitamin A', 'Eisen', 'Kalium', 'Kieselsäure', 'Saponine', 'Flavonoide', 'Cumarine', 'Gamma-Linolensäure'],
@@ -385,7 +385,7 @@ Pfarrer Kneipp empfahl die Vogelmiere als Frühjahrskur-Kraut und bei Lungenbesc
     mischungen: ['Frühjahrskur-Smoothie (mit Brennnessel und Giersch)', 'Hautpflege-Salbe (mit Ringelblume und Kamille)', 'Husten-Tee (mit Spitzwegerich und Thymian)'],
     tcm: 'Kühl und süß. Klärt Hitze und eliminiert Toxine. Wirkt auf Lunge und Leber. Bei Haut-Hitze mit Rötung und Jucken sowie bei Lungen-Schleim.',
     ayurveda: 'Kühl, leicht und bitter-süß. Reduziert Pitta und Kapha. Reinigt das Blut (Rakta Dhatu) und unterstützt die Ausscheidung über Haut und Nieren. Ein ideales Frühjahrs-Rasayana.',
-    volksmedizin: 'Die Vogelmiere war das "Arme-Leute-Heilkraut" der Volksmedizin. Bei Hautausschlägen badete man in Vogelmiere-Absud. Bei Husten trank man den Frischsaft mit Honig. Übergewichtige Frauen assen reichlich Vogelmiere-Salat -- man sagte, sie mache schlank.',
+    volksmedizin: 'Die Vogelmiere war das "Arme-Leute-Heilkraut" der Volksmedizin. Bei Hautausschlägen badete man in Vogelmiere-Absud. Bei Husten trank man den Frischsaft mit Honig. Übergewichtige Frauen assen reichlich Vogelmiere-Salat, man sagte, sie mache schlank.',
     besonders_bei: ['ekzeme', 'schuppenflechte', 'husten', 'fruehjahrskur', 'uebergewicht', 'vitamin_c_mangel'],
   },
 
@@ -395,12 +395,12 @@ Pfarrer Kneipp empfahl die Vogelmiere als Frühjahrskur-Kraut und bei Lungenbesc
   'Walderdbeere': {
     vollname: 'Walderdbeere (Fragaria vesca)',
     familie: 'Rosengewächse (Rosaceae)',
-    beschreibung: `Die Walderdbeere ist die wilde Urahnin aller Gartenerdbeeren, aber in Geschmack und Heilkraft weit überlegen. Ihre winzigen, intensiv duftenden Früchte sind ein Hochgenuss -- süß, aromatisch und voller Vitamine. Doch in der Heilkunde sind es vor allem die Blätter, die eine wichtige Rolle spielen.
+    beschreibung: `Die Walderdbeere ist die wilde Urahnin aller Gartenerdbeeren, aber in Geschmack und Heilkraft weit überlegen. Ihre winzigen, intensiv duftenden Früchte sind ein Hochgenuss, süß, aromatisch und voller Vitamine. Doch in der Heilkunde sind es vor allem die Blätter, die eine wichtige Rolle spielen.
 
 Erdbeerblätter sind reich an Gerbstoffen, Flavonoiden und Vitamin C. Sie wirken zusammenziehend, entzündungshemmend und harntreibend. Der Blättertee ist ein bewährtes Mittel bei Durchfall, Harnwegsinfekten und Schleimhautentzündungen. Auch bei Gicht und Rheuma wird er empfohlen, da er die Harnsäureausscheidung fördert.
 
 Die Früchte selbst sind ein natürliches Schönheitsmittel. Zerdrückte Walderdbeeren auf die Haut aufgetragen wirken mild bleichend, klärend und erfrischend. Der schwedische Naturforscher Carl von Linné soll seine Gicht-Anfälle allein durch Erdbeer-Kuren geheilt haben.`,
-    geschichte: `Die Walderdbeere wurde schon in der Steinzeit gesammelt, wie Samen in Pfahlbausiedlungen belegen. Im Mittelalter galt sie als Marienblume und wurde in Klostergärten kultiviert. Hildegard von Bingen warnte allerdings vor übermäßigem Genuss -- die Erdbeere erzeuge "Verschleimung".
+    geschichte: `Die Walderdbeere wurde schon in der Steinzeit gesammelt, wie Samen in Pfahlbausiedlungen belegen. Im Mittelalter galt sie als Marienblume und wurde in Klostergärten kultiviert. Hildegard von Bingen warnte allerdings vor übermäßigem Genuss, die Erdbeere erzeuge "Verschleimung".
 
 In der Volksmedizin war Erdbeerblättertee ein Standardmittel bei Magen-Darm-Beschwerden. Linné dokumentierte im 18. Jahrhundert ausführlich die Heilwirkung einer reinen Erdbeer-Diät bei Gicht und schrieb die Genesung von seinen Gicht-Anfällen allein den Erdbeeren zu.`,
     wirkungen: {
@@ -410,7 +410,7 @@ In der Volksmedizin war Erdbeerblättertee ein Standardmittel bei Magen-Darm-Bes
     ernte: {
       zeit: 'Blätter von April bis Juni, Früchte von Juni bis August.',
       teile: 'Junge Blätter vor der Blüte, reife Früchte, auch Wurzeln (bei Durchfall).',
-      tipps: 'Blätter am besten vor der Blütezeit sammeln, dann ist der Gerbstoffgehalt am höchsten. Früchte nur vollreif pflücken -- sie reifen nicht nach. Blätter im Schatten trocknen.',
+      tipps: 'Blätter am besten vor der Blütezeit sammeln, dann ist der Gerbstoffgehalt am höchsten. Früchte nur vollreif pflücken, sie reifen nicht nach. Blätter im Schatten trocknen.',
       mond: 'Blätter bei abnehmendem Mond, Früchte bei zunehmendem Mond ernten.',
     },
     zubereitungen: [
@@ -421,12 +421,12 @@ In der Volksmedizin war Erdbeerblättertee ein Standardmittel bei Magen-Darm-Bes
       },
       {
         name: 'Erdbeer-Gesichtsmaske',
-        anleitung: '5--6 reife Walderdbeeren zerdrücken und direkt auf das gereinigte Gesicht auftragen. 15 Minuten einwirken lassen, mit lauwarmem Wasser abwaschen.',
+        anleitung: '5-6 reife Walderdbeeren zerdrücken und direkt auf das gereinigte Gesicht auftragen. 15 Minuten einwirken lassen, mit lauwarmem Wasser abwaschen.',
         wirkung: 'Klärend, erfrischend und mild bleichend bei Pigmentflecken.',
       },
       {
         name: 'Erdbeer-Kur nach Linné',
-        anleitung: 'Täglich 200--300g frische Walderdbeeren essen, am besten nüchtern am Morgen. Kur über 2--3 Wochen durchführen.',
+        anleitung: 'Täglich 200-300g frische Walderdbeeren essen, am besten nüchtern am Morgen. Kur über 2-3 Wochen durchführen.',
         wirkung: 'Entsäuernd, harnsäuresenkend und vitalisierend bei Gicht und Rheuma.',
       },
     ],
@@ -443,21 +443,21 @@ In der Volksmedizin war Erdbeerblättertee ein Standardmittel bei Magen-Darm-Bes
   'Waldmeister': {
     vollname: 'Waldmeister (Galium odoratum)',
     familie: 'Rötegewächse (Rubiaceae)',
-    beschreibung: `Der Waldmeister ist ein zierliches Waldkraut, das in Buchenwäldern dichte, sternförmige Teppiche bildet. Sein unverwechselbarer süßer Duft -- nach frischem Heu und Vanille -- entfaltet sich erst beim Welken, wenn der Inhaltsstoff Cumarin freigesetzt wird. Dieser Duft machte ihn zum Inbegriff der Maibowle.
+    beschreibung: `Der Waldmeister ist ein zierliches Waldkraut, das in Buchenwäldern dichte, sternförmige Teppiche bildet. Sein unverwechselbarer süßer Duft, nach frischem Heu und Vanille, entfaltet sich erst beim Welken, wenn der Inhaltsstoff Cumarin freigesetzt wird. Dieser Duft machte ihn zum Inbegriff der Maibowle.
 
 In der Heilkunde wirkt Waldmeister beruhigend, krampflösend und gefäßerweiternd. Cumarin, sein Hauptwirkstoff, fördert die Durchblutung und lindert Kopfschmerzen, besonders solche, die mit Gefäßkrämpfen zusammenhängen. Auch bei Schlafstörungen, nervöser Unruhe und Menstruationsbeschwerden hat sich Waldmeister bewährt.
 
-Wichtig ist die richtige Dosierung: In größeren Mengen kann Cumarin Kopfschmerzen und Schwindel verursachen -- genau die Symptome, die es in kleiner Dosis lindert. Die alte Regel "Die Dosis macht das Gift" gilt beim Waldmeister besonders. Traditionell werden 3g frisches Kraut pro Liter Bowle empfohlen.`,
-    geschichte: `Waldmeister war das wichtigste Würz- und Heilkraut der germanischen Frühlingsfeste. Die Maibowle -- Waldmeister in Weißwein -- war ein rituelles Getränk zur Feier des Frühlings. In den Klöstern wurde Waldmeister als Schlaf- und Beruhigungsmittel eingesetzt.
+Wichtig ist die richtige Dosierung: In größeren Mengen kann Cumarin Kopfschmerzen und Schwindel verursachen, genau die Symptome, die es in kleiner Dosis lindert. Die alte Regel "Die Dosis macht das Gift" gilt beim Waldmeister besonders. Traditionell werden 3g frisches Kraut pro Liter Bowle empfohlen.`,
+    geschichte: `Waldmeister war das wichtigste Würz- und Heilkraut der germanischen Frühlingsfeste. Die Maibowle: Waldmeister in Weißwein, war ein rituelles Getränk zur Feier des Frühlings. In den Klöstern wurde Waldmeister als Schlaf- und Beruhigungsmittel eingesetzt.
 
-Hildegard von Bingen empfahl Waldmeister als herzstärkendes Mittel. Im Volksglauben vertrieb sein Duft Hexen und böse Geister -- Waldmeister-Sträuße wurden über Türen gehängt und in Wäsche gelegt.`,
+Hildegard von Bingen empfahl Waldmeister als herzstärkendes Mittel. Im Volksglauben vertrieb sein Duft Hexen und böse Geister: Waldmeister-Sträuße wurden über Türen gehängt und in Wäsche gelegt.`,
     wirkungen: {
       hauptwirkungen: ['Beruhigend', 'Krampflösend', 'Gefäßerweiternd', 'Durchblutungsfördernd', 'Kopfschmerzlindernd', 'Entzündungshemmend'],
       inhaltsstoffe: ['Cumarin', 'Cumaringlykoside', 'Gerbstoffe', 'Flavonoide', 'Asperulosid (Iridoid)', 'Ätherisches Öl', 'Bitterstoffe', 'Nicotinsäure'],
     },
     ernte: {
       zeit: 'April bis Mai, kurz vor oder während der Blüte.',
-      teile: 'Das gesamte oberirdische Kraut -- Stängel, Blätter und Blüten.',
+      teile: 'Das gesamte oberirdische Kraut: Stängel, Blätter und Blüten.',
       tipps: 'Waldmeister muss vor der Verwendung angewelkt werden, damit sich das Cumarin-Aroma entwickelt. Frisches Kraut duftet kaum. Zum Trocknen in lockeren Bündeln aufhängen. Nicht überdosieren.',
       mond: 'Bei zunehmendem Mond vor dem Vollmond ernten für maximalen Duft.',
     },
@@ -470,7 +470,7 @@ Hildegard von Bingen empfahl Waldmeister als herzstärkendes Mittel. Im Volksgla
       {
         name: 'Maibowle',
         anleitung: 'Ein kleines Sträußchen angewelkten Waldmeister (ca. 3g) kopfüber in eine Flasche Weißwein hängen. 30 Minuten ziehen lassen, entfernen. Mit Sekt aufgießen.',
-        wirkung: 'Belebend, stimmungsaufhellend und krampflösend -- in Massen genossen.',
+        wirkung: 'Belebend, stimmungsaufhellend und krampflösend, in Massen genossen.',
       },
       {
         name: 'Waldmeister-Umschlag bei Kopfschmerz',
@@ -495,8 +495,8 @@ Hildegard von Bingen empfahl Waldmeister als herzstärkendes Mittel. Im Volksgla
 
 Walnussblätter wirken stark adstringierend, antimykotisch (pilzhemmend) und entzündungshemmend. Äußerlich angewandt sind sie eines der besten Mittel bei Hautpilz, übermäßigem Schwitzen und entzündlichen Hauterkrankungen. Ein Walnussblätter-Bad kann bei chronischen Ekzemen und Schuppenflechte erstaunliche Verbesserungen bringen.
 
-Die Nüsse selbst sind ein herausragendes Brainfood -- nicht nur sehen sie aus wie ein Gehirn (Signaturenlehre!), sondern sie enthalten tatsächlich Omega-3-Fettsäuren, Vitamin E und Polyphenole, die die Gehirnfunktion unterstützen und Nervenzellen schützen.`,
-    geschichte: `Der Name "Juglans regia" bedeutet "Königliche Eichel des Jupiter" -- die Römer hielten die Walnuss für eine Gabe des Göttervaters. Karl der Große ordnete den Anbau von Walnussbäumen in seinem Reich an.
+Die Nüsse selbst sind ein herausragendes Brainfood, nicht nur sehen sie aus wie ein Gehirn (Signaturenlehre!), sondern sie enthalten tatsächlich Omega-3-Fettsäuren, Vitamin E und Polyphenole, die die Gehirnfunktion unterstützen und Nervenzellen schützen.`,
+    geschichte: `Der Name "Juglans regia" bedeutet "Königliche Eichel des Jupiter", die Römer hielten die Walnuss für eine Gabe des Göttervaters. Karl der Große ordnete den Anbau von Walnussbäumen in seinem Reich an.
 
 In der Signaturenlehre des Paracelsus galt die Walnuss wegen ihrer hirnähnlichen Form als Mittel für Kopf und Geist. Hildegard von Bingen empfahl Walnussöl bei Würmern und grüne Nussschalen bei Hautflechten.`,
     wirkungen: {
@@ -517,7 +517,7 @@ In der Signaturenlehre des Paracelsus galt die Walnuss wegen ihrer hirnähnliche
       },
       {
         name: 'Walnussblätter-Tee',
-        anleitung: '2 TL getrocknete Blätter mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 2--3 Tassen täglich.',
+        anleitung: '2 TL getrocknete Blätter mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 2-3 Tassen täglich.',
         wirkung: 'Blutreinigend, entgiftend, hilfreich bei Hautunreinheiten von innen.',
       },
       {
@@ -528,7 +528,7 @@ In der Signaturenlehre des Paracelsus galt die Walnuss wegen ihrer hirnähnliche
     ],
     mischungen: ['Hautpilz-Bad (mit Eichenrinde und Thymian)', 'Blutreinigungstee (mit Brennnessel und Löwenzahn)', 'Brain-Food-Müsli (mit Leinsamen und Heidelbeeren)'],
     tcm: 'Die Walnuss ist warm und süß. Sie tonisiert Nieren-Yang und stärkt die Essenz (Jing). Sie befeuchtet den Darm und nährt das Gehirn. Bei Nieren-Yang-Mangel mit Rückenschmerzen und Kältegefühl.',
-    ayurveda: 'Warm und schwer. Stärkt Vata und nährt Majja Dhatu (Knochenmark und Nervengewebe). Das Öl ist ein Medhya Rasayana -- ein Verjüngungsmittel für den Geist. Bei Vata-Konstitutionen besonders empfohlen.',
+    ayurveda: 'Warm und schwer. Stärkt Vata und nährt Majja Dhatu (Knochenmark und Nervengewebe). Das Öl ist ein Medhya Rasayana, ein Verjüngungsmittel für den Geist. Bei Vata-Konstitutionen besonders empfohlen.',
     volksmedizin: 'Walnussblätter-Bäder waren das Volksmittel gegen Hautpilz und "nässende Flechten". Grüne Nussschalen-Absud wurde bei Würmern gegeben. Man legte Walnussblätter in Schuhe gegen Fußschweiß. Drei Walnüsse täglich galten als Mittel für klares Denken.',
     besonders_bei: ['hautpilz', 'ekzeme', 'schuppenflechte', 'schwitzen', 'konzentrationsschwaeche', 'wuermer'],
   },
@@ -543,10 +543,10 @@ In der Signaturenlehre des Paracelsus galt die Walnuss wegen ihrer hirnähnliche
 
 In der Heilkunde wird die Wasserminze ähnlich wie die Pfefferminze verwendet, jedoch mit einer etwas milderen Wirkung. Sie enthält ätherisches Öl mit Menthol, Menthon und Menthylacetat sowie Flavonoide und Gerbstoffe. Ihre Stärken liegen bei Verdauungsbeschwerden, Übelkeit, Blähungen und krampfartigen Magenschmerzen.
 
-Die Wasserminze hat den Vorteil, dass sie am Naturstandort wild gesammelt werden kann und unkompliziert im Garten wächst -- ein feuchter Platz genügt. Sie ist eine der ursprünglichsten Minzearten Europas und wurde schon in der Bronzezeit genutzt.`,
+Die Wasserminze hat den Vorteil, dass sie am Naturstandort wild gesammelt werden kann und unkompliziert im Garten wächst, ein feuchter Platz genügt. Sie ist eine der ursprünglichsten Minzearten Europas und wurde schon in der Bronzezeit genutzt.`,
     geschichte: `Die Wasserminze gehört zu den ältesten Heilkräutern Europas. Archäologische Funde zeigen, dass sie schon in der Bronzezeit bei Bestattungsriten verwendet wurde. Die Griechen weihten Minze der Unterweltgöttin Persephone.
 
-In der Klosterheilkunde wurde die Wasserminze als Magenmedizin und gegen Würmer eingesetzt. Im 17. Jahrhundert entstand durch eine natürliche Kreuzung von Wasserminze und Grüner Minze die Pfefferminze -- die heute bekannteste aller Minzen.`,
+In der Klosterheilkunde wurde die Wasserminze als Magenmedizin und gegen Würmer eingesetzt. Im 17. Jahrhundert entstand durch eine natürliche Kreuzung von Wasserminze und Grüner Minze die Pfefferminze, die heute bekannteste aller Minzen.`,
     wirkungen: {
       hauptwirkungen: ['Krampflösend', 'Verdauungsfördernd', 'Blähungswidrig', 'Übelkeitslindernd', 'Desinfizierend', 'Erfrischend'],
       inhaltsstoffe: ['Ätherisches Öl (Menthol, Menthon)', 'Menthylacetat', 'Flavonoide', 'Gerbstoffe', 'Rosmarinsäure', 'Caffeinsäure', 'Triterpene', 'Bitterstoffe'],
@@ -576,7 +576,7 @@ In der Klosterheilkunde wurde die Wasserminze als Magenmedizin und gegen Würmer
     ],
     mischungen: ['Magentee (mit Kamille und Fenchel)', 'Sommerlimonade (mit Zitronenmelisse und Holunderblüten)', 'Erkältungstee (mit Lindenblüten und Holunder)'],
     tcm: 'Kühl und scharf. Zerstreut Wind-Hitze, klärt den Kopf und fördert die Verdauung. Wirkt auf Lunge und Leber. Bei Kopfschmerzen vom Wind-Hitze-Typ und bei Magen-Qi-Stagnation.',
-    ayurveda: 'Scharf und kühl. Reduziert Pitta und Kapha. Stärkt Agni (Verdauungsfeuer) ohne Pitta zu erhöhen -- eine seltene Eigenschaft. Erfrischt den Geist und klärt die Sinne.',
+    ayurveda: 'Scharf und kühl. Reduziert Pitta und Kapha. Stärkt Agni (Verdauungsfeuer) ohne Pitta zu erhöhen, eine seltene Eigenschaft. Erfrischt den Geist und klärt die Sinne.',
     volksmedizin: 'Wasserminze war das "Bauchweh-Kraut" der Landbevölkerung. Bei Magenverstimmung kaute man frische Blätter. Bei Erkältung inhalierte man den Dampf. Kindern legte man Wasserminze-Blätter auf die Stirn bei Fieber. Ein Wasserminze-Sträußchen im Zimmer vertrieb Fliegen.',
     besonders_bei: ['magenkraempfe', 'uebelkeit', 'blaehungen', 'verdauungsschwaeche', 'kopfschmerzen', 'insektenstiche'],
   },
@@ -587,11 +587,11 @@ In der Klosterheilkunde wurde die Wasserminze als Magenmedizin und gegen Würmer
   'Weizen': {
     vollname: 'Weichweizen (Triticum aestivum)',
     familie: 'Süßgräser (Poaceae)',
-    beschreibung: `Weizen ist das wichtigste Getreide der westlichen Welt und ernährt Milliarden von Menschen. In der Naturheilkunde wird vor allem der Weizenkeim und das Weizenkeimöl geschätzt -- sie enthalten konzentriert die Lebenskraft des keimenden Samens. Weizenkeimöl ist eine der reichsten natürlichen Quellen für Vitamin E.
+    beschreibung: `Weizen ist das wichtigste Getreide der westlichen Welt und ernährt Milliarden von Menschen. In der Naturheilkunde wird vor allem der Weizenkeim und das Weizenkeimöl geschätzt, sie enthalten konzentriert die Lebenskraft des keimenden Samens. Weizenkeimöl ist eine der reichsten natürlichen Quellen für Vitamin E.
 
-Weizengras -- die jungen grünen Halme des Weizens -- hat in den letzten Jahrzehnten einen regelrechten Boom in der Gesundheitsszene erlebt. Es enthält Chlorophyll, Enzyme, Aminosäuren, Vitamine und Mineralstoffe in hoher Konzentration. Weizengrassaft gilt als "flüssiges Sonnenlicht" und wird zur Entgiftung und Regeneration eingesetzt.
+Weizengras, die jungen grünen Halme des Weizens, hat in den letzten Jahrzehnten einen regelrechten Boom in der Gesundheitsszene erlebt. Es enthält Chlorophyll, Enzyme, Aminosäuren, Vitamine und Mineralstoffe in hoher Konzentration. Weizengrassaft gilt als "flüssiges Sonnenlicht" und wird zur Entgiftung und Regeneration eingesetzt.
 
-In der Hildegard-Medizin hat Weizen eine besondere Stellung: Er gilt als das wärmste und aufbauendste aller Getreide und wird bei Schwäche, Untergewicht und Rekonvaleszenz empfohlen. Das volle Korn mit all seinen Bestandteilen -- Kleie, Keim und Mehlkörper -- ist dabei entscheidend.`,
+In der Hildegard-Medizin hat Weizen eine besondere Stellung: Er gilt als das wärmste und aufbauendste aller Getreide und wird bei Schwäche, Untergewicht und Rekonvaleszenz empfohlen. Das volle Korn mit all seinen Bestandteilen: Kleie, Keim und Mehlkörper, ist dabei entscheidend.`,
     geschichte: `Weizen wurde vor etwa 10'000 Jahren im Fruchtbaren Halbmond domestiziert und gilt als Grundlage der Zivilisation. Mit dem Anbau von Weizen begann die sesshafte Lebensweise der Menschheit.
 
 Hildegard von Bingen nannte Weizen das beste aller Getreide. In der ägyptischen Medizin wurde Weizenbrot als Heilmittel bei Durchfall und als Umschlag bei Entzündungen eingesetzt. Die Römer opferten den Göttern Weizengarben als Symbol für Fruchtbarkeit und Überfluss.`,
@@ -600,20 +600,20 @@ Hildegard von Bingen nannte Weizen das beste aller Getreide. In der ägyptischen
       inhaltsstoffe: ['Vitamin E (Weizenkeimöl)', 'Chlorophyll (Weizengras)', 'B-Vitamine', 'Eisen', 'Zink', 'Selen', 'Spermidin', 'Ballaststoffe', 'Octacosanol'],
     },
     ernte: {
-      zeit: 'Weizengras nach 7--10 Tagen Keimung, reifer Weizen im Hochsommer.',
+      zeit: 'Weizengras nach 7-10 Tagen Keimung, reifer Weizen im Hochsommer.',
       teile: 'Junge Grashalme, Weizenkörner, Weizenkeime.',
-      tipps: 'Weizengras lässt sich einfach auf der Fensterbank ziehen: Körner 12 Stunden einweichen, auf feuchter Erde aussäen und nach 7--10 Tagen abschneiden. Täglich frisch pressen. Weizenkeimöl kühl und dunkel lagern.',
+      tipps: 'Weizengras lässt sich einfach auf der Fensterbank ziehen: Körner 12 Stunden einweichen, auf feuchter Erde aussäen und nach 7-10 Tagen abschneiden. Täglich frisch pressen. Weizenkeimöl kühl und dunkel lagern.',
       mond: 'Weizengras bei zunehmendem Mond schneiden, Körner bei abnehmendem Mond ernten.',
     },
     zubereitungen: [
       {
         name: 'Weizengras-Saft',
-        anleitung: 'Frisches Weizengras mit einer Saftpresse (Slow Juicer) auspressen. 30--60ml pro Tag nüchtern trinken. Langsam steigern.',
+        anleitung: 'Frisches Weizengras mit einer Saftpresse (Slow Juicer) auspressen. 30-60ml pro Tag nüchtern trinken. Langsam steigern.',
         wirkung: 'Stark entgiftend, blutreinigend und vitalisierend. Reich an Chlorophyll und Enzymen.',
       },
       {
         name: 'Weizenkeimöl-Kur',
-        anleitung: 'Täglich 1 EL kaltgepresstes Weizenkeimöl nüchtern einnehmen oder in Müsli und Salat geben. Kur über 4--6 Wochen.',
+        anleitung: 'Täglich 1 EL kaltgepresstes Weizenkeimöl nüchtern einnehmen oder in Müsli und Salat geben. Kur über 4-6 Wochen.',
         wirkung: 'Hochwertiges Vitamin E für Zellschutz, Hauterneuerung und Fruchtbarkeit.',
       },
       {
@@ -635,14 +635,14 @@ Hildegard von Bingen nannte Weizen das beste aller Getreide. In der ägyptischen
   'Wintergrün': {
     vollname: 'Niederliegendes Wintergrün (Gaultheria procumbens)',
     familie: 'Heidekrautgewächse (Ericaceae)',
-    beschreibung: `Das Wintergrün ist ein kleiner, immergrüner Zwergstrauch aus den Wäldern Nordamerikas. Seine lederigen, glänzend dunkelgrünen Blätter verströmen beim Zerreiben einen intensiven, süß-minzigen Duft -- den typischen "Wintergründuft", der vielen von Kaugummis und Salben bekannt ist.
+    beschreibung: `Das Wintergrün ist ein kleiner, immergrüner Zwergstrauch aus den Wäldern Nordamerikas. Seine lederigen, glänzend dunkelgrünen Blätter verströmen beim Zerreiben einen intensiven, süß-minzigen Duft, den typischen "Wintergründuft", der vielen von Kaugummis und Salben bekannt ist.
 
-Der Hauptwirkstoff ist Methylsalicylat -- eine natürliche Form der Salicylsäure, die auch die Grundlage von Aspirin ist. Wintergrünöl ist deshalb eines der wirksamsten natürlichen Schmerzmittel, besonders bei Muskel- und Gelenkschmerzen. Äußerlich aufgetragen, dringt es tief in das Gewebe ein und erzeugt eine wärmende, schmerzlindernde Wirkung.
+Der Hauptwirkstoff ist Methylsalicylat, eine natürliche Form der Salicylsäure, die auch die Grundlage von Aspirin ist. Wintergrünöl ist deshalb eines der wirksamsten natürlichen Schmerzmittel, besonders bei Muskel- und Gelenkschmerzen. Äußerlich aufgetragen, dringt es tief in das Gewebe ein und erzeugt eine wärmende, schmerzlindernde Wirkung.
 
-Wintergrünöl muss immer verdünnt angewendet werden -- konzentriert kann es die Haut reizen und in großen Mengen innerlich eingenommen sogar giftig sein. 1 ml reines Wintergrünöl enthält etwa so viel Salicylat wie 1,4 Aspirin-Tabletten. Für Menschen mit Salicylat-Unverträglichkeit ist es nicht geeignet.`,
-    geschichte: `Die indigenen Völker Nordamerikas -- besonders die Anishinaabe und die Cherokee -- kauten Wintergrünblätter bei Fieber, Kopfschmerzen und zur Atemreinigung. Sie legten Umschläge mit zerriebenen Blättern auf schmerzende Gelenke und Muskeln.
+Wintergrünöl muss immer verdünnt angewendet werden, konzentriert kann es die Haut reizen und in großen Mengen innerlich eingenommen sogar giftig sein. 1 ml reines Wintergrünöl enthält etwa so viel Salicylat wie 1,4 Aspirin-Tabletten. Für Menschen mit Salicylat-Unverträglichkeit ist es nicht geeignet.`,
+    geschichte: `Die indigenen Völker Nordamerikas, besonders die Anishinaabe und die Cherokee, kauten Wintergrünblätter bei Fieber, Kopfschmerzen und zur Atemreinigung. Sie legten Umschläge mit zerriebenen Blättern auf schmerzende Gelenke und Muskeln.
 
-Im 18. Jahrhundert erkannten europäische Siedler die Heilkraft der Pflanze und machten sie in Europa bekannt. Im 19. Jahrhundert wurde Methylsalicylat erstmals aus Wintergrünblättern isoliert und als Schmerzmittel eingeführt -- eine Entwicklung, die letztlich zur Erfindung von Aspirin beitrug.`,
+Im 18. Jahrhundert erkannten europäische Siedler die Heilkraft der Pflanze und machten sie in Europa bekannt. Im 19. Jahrhundert wurde Methylsalicylat erstmals aus Wintergrünblättern isoliert und als Schmerzmittel eingeführt, eine Entwicklung, die letztlich zur Erfindung von Aspirin beitrug.`,
     wirkungen: {
       hauptwirkungen: ['Schmerzlindernd', 'Entzündungshemmend', 'Durchblutungsfördernd', 'Muskelentspannend', 'Fiebersenkend', 'Erwärmend'],
       inhaltsstoffe: ['Methylsalicylat (bis 99% im äth. Öl)', 'Gaultherin', 'Gerbstoffe', 'Arbutin', 'Flavonoide', 'Triterpenoide', 'Schleimstoffe'],
@@ -650,7 +650,7 @@ Im 18. Jahrhundert erkannten europäische Siedler die Heilkraft der Pflanze und 
     ernte: {
       zeit: 'Blätter ganzjährig, am aromatischsten im Spätherbst und Winter.',
       teile: 'Lederige immergrüne Blätter, selten auch die roten Beeren.',
-      tipps: 'In Mitteleuropa am besten als Gartenpflanze kultivieren -- sie braucht sauren, humosen Boden im Halbschatten. Blätter frisch oder getrocknet verwenden. Das ätherische Öl nur aus zuverlässiger Quelle kaufen.',
+      tipps: 'In Mitteleuropa am besten als Gartenpflanze kultivieren, sie braucht sauren, humosen Boden im Halbschatten. Blätter frisch oder getrocknet verwenden. Das ätherische Öl nur aus zuverlässiger Quelle kaufen.',
       mond: 'Bei abnehmendem Mond ernten für konzentrierte Inhaltsstoffe.',
     },
     zubereitungen: [
@@ -661,7 +661,7 @@ Im 18. Jahrhundert erkannten europäische Siedler die Heilkraft der Pflanze und 
       },
       {
         name: 'Wintergrünblätter-Tee',
-        anleitung: '1 TL getrocknete Blätter mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 1--2 Tassen täglich, nicht bei Salicylat-Empfindlichkeit.',
+        anleitung: '1 TL getrocknete Blätter mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 1-2 Tassen täglich, nicht bei Salicylat-Empfindlichkeit.',
         wirkung: 'Mild schmerzlindernd und fiebersenkend bei Erkältungen.',
       },
       {
@@ -685,9 +685,9 @@ Im 18. Jahrhundert erkannten europäische Siedler die Heilkraft der Pflanze und 
     familie: 'Sauergräser (Cyperaceae)',
     beschreibung: `Das Wollgras ist eine charakteristische Pflanze der Hochmoore und Feuchtwiesen. Seine weißen, seidigen Fruchtstände wiegen sich im Wind wie kleine Wattebäusche und verwandeln die Moorlandschaft im Frühsommer in ein märchenhaftes Bild. Es ist ein Zeiger für intakte Moorlandschaften und steht in vielen Regionen unter Schutz.
 
-In der Heilkunde spielt das Wollgras eine eher kleine, aber feine Rolle. Es wurde in der Volksmedizin als Wundauflage verwendet -- die seidigen Fasern der Fruchtstände sind weich, saugfähig und leicht antiseptisch. In der Bachblüten-Tradition und der modernen Pflanzenheilkunde wird Wollgras als Essenz bei emotionaler Erschöpfung und dem Gefühl innerer Leere eingesetzt.
+In der Heilkunde spielt das Wollgras eine eher kleine, aber feine Rolle. Es wurde in der Volksmedizin als Wundauflage verwendet, die seidigen Fasern der Fruchtstände sind weich, saugfähig und leicht antiseptisch. In der Bachblüten-Tradition und der modernen Pflanzenheilkunde wird Wollgras als Essenz bei emotionaler Erschöpfung und dem Gefühl innerer Leere eingesetzt.
 
-Das Moor selbst, in dem das Wollgras wächst, hat große Heilbedeutung -- Moorbäder und Moorpackungen sind seit Jahrhunderten bewährte Kurmittel bei Rheuma, Hautleiden und Frauenbeschwerden. Das Wollgras steht symbolisch für die heilende Kraft der Moorlandschaft.`,
+Das Moor selbst, in dem das Wollgras wächst, hat große Heilbedeutung: Moorbäder und Moorpackungen sind seit Jahrhunderten bewährte Kurmittel bei Rheuma, Hautleiden und Frauenbeschwerden. Das Wollgras steht symbolisch für die heilende Kraft der Moorlandschaft.`,
     geschichte: `In Skandinavien und Schottland wurden die seidigen Fasern des Wollgrases zum Füllen von Kissen und zum Verbinden von Wunden verwendet. Die samischen Völker stopften Babyschuhe mit Wollgras-Fasern, die gleichzeitig wärmten und Feuchtigkeit aufsaugten.
 
 In der Volksmedizin der Moorgebiete galt das Wollgras als Pflanze, die die Seele der Moorlandschaft verkörpert. Man sagte, wer sich mit Wollgras umgebe, finde innere Ruhe und Klarheit. In Irland hieß es, Wollgras zeige an, wo guter Torf zu stechen sei.`,
@@ -698,7 +698,7 @@ In der Volksmedizin der Moorgebiete galt das Wollgras als Pflanze, die die Seele
     ernte: {
       zeit: 'Fruchtstände im Juni/Juli, wenn die weißen Büschel voll entfaltet sind.',
       teile: 'Seidene Fruchtstände, seltener auch die Stängel.',
-      tipps: 'Wollgras steht in den meisten Regionen unter Naturschutz -- Moore sind besonders schützenswerte Lebensräume. Nur aus erlaubten Beständen oder aus Gartenkultur entnehmen. Die Fasern vorsichtig trocknen.',
+      tipps: 'Wollgras steht in den meisten Regionen unter Naturschutz: Moore sind besonders schützenswerte Lebensräume. Nur aus erlaubten Beständen oder aus Gartenkultur entnehmen. Die Fasern vorsichtig trocknen.',
       mond: 'Bei Vollmond ernten, wenn die Fasern am leuchtendsten und kräftigsten sind.',
     },
     zubereitungen: [
@@ -721,7 +721,7 @@ In der Volksmedizin der Moorgebiete galt das Wollgras als Pflanze, die die Seele
     mischungen: ['Erdungs-Essenz (mit Eichenblüte und Klee)', 'Moor-Kur (mit Moorbad und Heublumen)', 'Schlafkissen (mit Lavendel und Hopfen)'],
     tcm: 'Neutral und süß. Beruhigt den Geist (Shen) und nährt das Herz. Die erdende Qualität der Moorpflanze verankert das Qi und hilft bei Zerstreutheit und innerer Unruhe.',
     ayurveda: 'Leicht, kühl und sattvisch. Beruhigt alle drei Doshas und fördert innere Stille. Das Wollgras wird in der subtilen Pflanzenheilkunde als Meditationshilfe und Seelennahrung betrachtet.',
-    volksmedizin: 'In der Volksmedizin der Moorgebiete wurden Wollgras-Fasern auf frische Wunden gelegt -- sie saugten das Blut auf und hielten die Wunde sauber. Moorhirten legten Wollgras in ihre Schuhe als Isolierung gegen Kälte und Nässe. Als Seelenmittel galt: Wer Wollgras betrachtet, findet Frieden.',
+    volksmedizin: 'In der Volksmedizin der Moorgebiete wurden Wollgras-Fasern auf frische Wunden gelegt, sie saugten das Blut auf und hielten die Wunde sauber. Moorhirten legten Wollgras in ihre Schuhe als Isolierung gegen Kälte und Nässe. Als Seelenmittel galt: Wer Wollgras betrachtet, findet Frieden.',
     besonders_bei: ['emotionale_erschoepfung', 'innere_unruhe', 'schlafprobleme', 'erdung', 'wundheilung', 'meditation'],
   },
 
@@ -738,7 +738,7 @@ Das Drachenblut-Harz ist außergewöhnlich reich an Flavonoiden, Tanninen und de
 In der modernen Forschung zeigen Studien beeindruckende Ergebnisse: Drachenblut-Extrakt fördert nachweislich die Kollagenbildung, hemmt Entzündungen und beschleunigt die Wundheilung signifikant. Es wird heute in hochwertigen Naturkosmetika und Wundheilpräparaten eingesetzt.`,
     geschichte: `Die alten Ägypter verwendeten Drachenblut zum Einbalsamieren. Die Römer nutzten es als Farbstoff und Heilmittel. In der mittelalterlichen Alchemie galt Drachenblut als magische Substanz mit der Kraft, Blei in Gold zu verwandeln.
 
-Auf den Kanarischen Inseln war der Drachenbaum den Guanchen -- den Ureinwohnern -- heilig. Der berühmte Drachenbaum von Icod de los Vinos auf Teneriffa ist über 800 Jahre alt und ein Symbol für die Verbindung zwischen Himmel und Erde.`,
+Auf den Kanarischen Inseln war der Drachenbaum den Guanchen, den Ureinwohnern, heilig. Der berühmte Drachenbaum von Icod de los Vinos auf Teneriffa ist über 800 Jahre alt und ein Symbol für die Verbindung zwischen Himmel und Erde.`,
     wirkungen: {
       hauptwirkungen: ['Wundheilend', 'Blutstillend', 'Adstringierend', 'Antimikrobiell', 'Entzündungshemmend', 'Kollagenfördernd'],
       inhaltsstoffe: ['Taspine (Alkaloid)', 'Dracorhodin', 'Flavonoide', 'Tannine (Proanthocyanidine)', 'Terpenoide', 'Lignane', 'Phenolsäuren', 'Catechine'],
@@ -768,7 +768,7 @@ Auf den Kanarischen Inseln war der Drachenbaum den Guanchen -- den Ureinwohnern 
     ],
     mischungen: ['Wundheil-Pulver (mit Myrrhe und Weihrauch)', 'Anti-Aging-Serum (mit Hagebuttenöl und Vitamin E)', 'Zahnfleisch-Tinktur (mit Salbei und Ratanhia)'],
     tcm: 'Bitter, süß und neutral. Belebt das Blut, löst Stagnation und stillt Blutungen. Wirkt auf Herz und Leber. Bei Blut-Stase mit Schmerzen und bei nicht heilenden Wunden.',
-    ayurveda: 'Herb, adstringierend und kühl. Beruhigt Pitta und Kapha. Reinigt und heilt Wunden auf allen Ebenen -- körperlich und energetisch. Wird als Rakta-Shodhana (Blutreiniger) verwendet.',
+    ayurveda: 'Herb, adstringierend und kühl. Beruhigt Pitta und Kapha. Reinigt und heilt Wunden auf allen Ebenen, körperlich und energetisch. Wird als Rakta-Shodhana (Blutreiniger) verwendet.',
     volksmedizin: 'Drachenblut war über Jahrtausende eines der wertvollsten Heilharze der Welt. Es wurde auf Wunden gestreut, um Blutungen zu stillen. Bei Zahnfleischbluten wurde es auf die Zähne gerieben. In Räucherungen vertrieb es böse Geister und reinigte Krankenzimmer.',
     besonders_bei: ['wundheilung', 'blutungen', 'zahnfleischprobleme', 'narben', 'hauterneuerung', 'entzuendungen'],
   },
@@ -779,14 +779,14 @@ Auf den Kanarischen Inseln war der Drachenbaum den Guanchen -- den Ureinwohnern 
   'Eberesche': {
     vollname: 'Vogelbeere / Eberesche (Sorbus aucuparia)',
     familie: 'Rosengewächse (Rosaceae)',
-    beschreibung: `Die Eberesche, im Volksmund Vogelbeere genannt, ist ein eleganter Baum mit gefiederten Blättern und leuchtend orangeroten Beerendolden. Entgegen einem weit verbreiteten Irrglauben sind die Früchte nicht giftig -- sie schmecken roh nur sehr herb und bitter, werden aber nach dem Kochen oder nach Frosteinwirkung genießbar und entfalten ein überraschend feines Aroma.
+    beschreibung: `Die Eberesche, im Volksmund Vogelbeere genannt, ist ein eleganter Baum mit gefiederten Blättern und leuchtend orangeroten Beerendolden. Entgegen einem weit verbreiteten Irrglauben sind die Früchte nicht giftig, sie schmecken roh nur sehr herb und bitter, werden aber nach dem Kochen oder nach Frosteinwirkung genießbar und entfalten ein überraschend feines Aroma.
 
-Die Beeren sind außerordentlich reich an Vitamin C -- sie enthalten bis zu fünfmal mehr als Zitronen. Daneben finden sich Sorbitol, Parasorbinsäure, Provitamin A, Pektine und Gerbstoffe. In der Heilkunde wirken sie harntreibend, verdauungsregulierend und immunstärkend.
+Die Beeren sind außerordentlich reich an Vitamin C, sie enthalten bis zu fünfmal mehr als Zitronen. Daneben finden sich Sorbitol, Parasorbinsäure, Provitamin A, Pektine und Gerbstoffe. In der Heilkunde wirken sie harntreibend, verdauungsregulierend und immunstärkend.
 
 Das Besondere an der Eberesche ist auch ihre große Bedeutung in der Bach-Blütentherapie und der keltischen Baumheilkunde. Sie gilt als Schutzbaum, der negative Energien fernhält und die Intuition stärkt. Der keltische Baumkalender ordnet ihr den Zeitraum vom 1. bis 11. April zu.`,
     geschichte: `Bei den Kelten war die Eberesche ein heiliger Schutzbaum. Ebereschen-Zweige über der Haustür sollten vor Blitzschlag und bösen Geistern schützen. Die Druiden fertigten aus ihrem Holz Wahrsagestäbe.
 
-In der nordischen Mythologie rettete die Eberesche den Gott Thor, als er in einem reißenden Fluss zu ertrinken drohte -- er konnte sich an einem Ebereschenast festhalten. Seither gilt sie als "Baum des Lebens" und Retterin in der Not.`,
+In der nordischen Mythologie rettete die Eberesche den Gott Thor, als er in einem reißenden Fluss zu ertrinken drohte, er konnte sich an einem Ebereschenast festhalten. Seither gilt sie als "Baum des Lebens" und Retterin in der Not.`,
     wirkungen: {
       hauptwirkungen: ['Immunstärkend (Vitamin C)', 'Harntreibend', 'Verdauungsregulierend', 'Adstringierend', 'Schutzkräftig (energetisch)', 'Galleanregend'],
       inhaltsstoffe: ['Vitamin C (bis 100mg/100g)', 'Provitamin A', 'Sorbitol', 'Parasorbinsäure', 'Pektine', 'Gerbstoffe', 'Anthocyane', 'Apfelsäure'],
@@ -794,7 +794,7 @@ In der nordischen Mythologie rettete die Eberesche den Gott Thor, als er in eine
     ernte: {
       zeit: 'Beeren von August bis Oktober, am besten nach dem ersten Frost.',
       teile: 'Reife Beerendolden, auch Blüten (seltener) und Rinde.',
-      tipps: 'Die Beeren nach dem ersten Frost ernten oder über Nacht ins Gefrierfach legen -- dann verlieren sie ihre Bitterkeit. Zum Einkochen immer erst kochen, da Parasorbinsäure roh den Magen reizt. Gekocht ist sie harmlos.',
+      tipps: 'Die Beeren nach dem ersten Frost ernten oder über Nacht ins Gefrierfach legen, dann verlieren sie ihre Bitterkeit. Zum Einkochen immer erst kochen, da Parasorbinsäure roh den Magen reizt. Gekocht ist sie harmlos.',
       mond: 'Bei abnehmendem Mond ernten für bessere Haltbarkeit der Früchte.',
     },
     zubereitungen: [
@@ -827,12 +827,12 @@ In der nordischen Mythologie rettete die Eberesche den Gott Thor, als er in eine
   'Eberraute': {
     vollname: 'Eberraute (Artemisia abrotanum)',
     familie: 'Korbblütler (Asteraceae)',
-    beschreibung: `Die Eberraute ist ein halbstrauchiger Beifuß-Verwandter mit fein zerteilten, silbrig-grünen Blättern und einem unverwechselbaren Duft, der an Zitrone, Cola und Kampfer zugleich erinnert. In Bauerngärten war sie als "Colakraut" beliebt -- zerriebene Blätter verströmen tatsächlich einen Coca-Cola-ähnlichen Duft.
+    beschreibung: `Die Eberraute ist ein halbstrauchiger Beifuß-Verwandter mit fein zerteilten, silbrig-grünen Blättern und einem unverwechselbaren Duft, der an Zitrone, Cola und Kampfer zugleich erinnert. In Bauerngärten war sie als "Colakraut" beliebt, zerriebene Blätter verströmen tatsächlich einen Coca-Cola-ähnlichen Duft.
 
 In der Heilkunde ist die Eberraute ein vielseitiges Bitterkraut, das vor allem die Verdauung und den Gallenfluss anregt. Sie enthält ätherisches Öl mit Thujon, Absinthin und weitere Bitterstoffe, die bei Appetitlosigkeit, Blähungen und Gallenbeschwerden wirksam sind. Auch als Wurmmittel wurde sie traditionell eingesetzt.
 
-Die Eberraute hat zudem eine starke Motten-vertreibende Wirkung. In Kleiderschränke gelegt, schützt sie Textilien vor Mottenbefall -- daher der französische Name "Garde-robe" (Kleiderschrank-Hüter). Auch Blattläuse und andere Schädlinge meiden ihren intensiven Duft.`,
-    geschichte: `Die Eberraute war im Mittelalter eine der wichtigsten Klosterpflanzen. Karl der Große ordnete ihren Anbau in der "Capitulare de villis" an. Der Name "Eberraute" kommt von "Eber" (männlich, stark) und "Raute" -- sie galt als Manneskraft-Pflanze.
+Die Eberraute hat zudem eine starke Motten-vertreibende Wirkung. In Kleiderschränke gelegt, schützt sie Textilien vor Mottenbefall, daher der französische Name "Garde-robe" (Kleiderschrank-Hüter). Auch Blattläuse und andere Schädlinge meiden ihren intensiven Duft.`,
+    geschichte: `Die Eberraute war im Mittelalter eine der wichtigsten Klosterpflanzen. Karl der Große ordnete ihren Anbau in der "Capitulare de villis" an. Der Name "Eberraute" kommt von "Eber" (männlich, stark) und "Raute", sie galt als Manneskraft-Pflanze.
 
 In der mittelalterlichen Heilkunde wurde sie bei Leberleiden, Würmern und zur Stärkung der männlichen Potenz eingesetzt. Junge Männer trugen Eberraute-Sträußchen, um Frauen anzuziehen. Hildegard von Bingen empfahl sie als Magenmittel.`,
     wirkungen: {
@@ -858,7 +858,7 @@ In der mittelalterlichen Heilkunde wurde sie bei Leberleiden, Würmern und zur S
       },
       {
         name: 'Eberraute-Tinktur',
-        anleitung: 'Frische Triebspitzen im Verhältnis 1:5 mit 45%igem Alkohol ansetzen. 3 Wochen ziehen lassen. 15--20 Tropfen vor dem Essen.',
+        anleitung: 'Frische Triebspitzen im Verhältnis 1:5 mit 45%igem Alkohol ansetzen. 3 Wochen ziehen lassen. 15-20 Tropfen vor dem Essen.',
         wirkung: 'Verdauungsstärkend und appetitanregend bei Schwäche und Rekonvaleszenz.',
       },
     ],
@@ -875,12 +875,12 @@ In der mittelalterlichen Heilkunde wurde sie bei Leberleiden, Würmern und zur S
   'Edelkastanie': {
     vollname: 'Edelkastanie / Esskastanie (Castanea sativa)',
     familie: 'Buchengewächse (Fagaceae)',
-    beschreibung: `Die Edelkastanie ist ein majestätischer Baum, der über 1000 Jahre alt werden kann und in Südeuropa ganze Kulturen ernährt hat. Ihre stärkereichen, nussig-süßen Früchte -- die Maronen -- waren jahrhundertelang das "Brot der Armen" und sind gleichzeitig ein hochwertiges Nahrungsmittel mit beachtlichem Heilpotenzial.
+    beschreibung: `Die Edelkastanie ist ein majestätischer Baum, der über 1000 Jahre alt werden kann und in Südeuropa ganze Kulturen ernährt hat. Ihre stärkereichen, nussig-süßen Früchte, die Maronen, waren jahrhundertelang das "Brot der Armen" und sind gleichzeitig ein hochwertiges Nahrungsmittel mit beachtlichem Heilpotenzial.
 
 In der Heilkunde werden vor allem die Blätter und die Rinde verwendet. Die Blätter enthalten reichlich Gerbstoffe und Flavonoide und wirken stark hustenreizlindernd und schleimlösend. In der französischen Phytotherapie ist Kastanienblättertee das klassische Mittel bei Keuchhusten und krampfhaftem Reizhusten.
 
-Die Früchte sind basisch, glutenfrei und leicht verdaulich. Sie enthalten B-Vitamine, Kalium, Magnesium und langkettige Kohlenhydrate, die langsam Energie freisetzen. In der Hildegard-Medizin nimmt die Edelkastanie eine besondere Stellung ein -- Hildegard empfahl sie bei nahezu allen Beschwerden als universelles Stärkungsmittel.`,
-    geschichte: `Die Römer verbreiteten die Edelkastanie im gesamten Mittelmeerraum und bis nach Britannien. Im Mittelalter war sie das Hauptnahrungsmittel der Bergbevölkerung in den Cevennen, Korsika und im Tessin -- man nannte sie den "Brotbaum".
+Die Früchte sind basisch, glutenfrei und leicht verdaulich. Sie enthalten B-Vitamine, Kalium, Magnesium und langkettige Kohlenhydrate, die langsam Energie freisetzen. In der Hildegard-Medizin nimmt die Edelkastanie eine besondere Stellung ein: Hildegard empfahl sie bei nahezu allen Beschwerden als universelles Stärkungsmittel.`,
+    geschichte: `Die Römer verbreiteten die Edelkastanie im gesamten Mittelmeerraum und bis nach Britannien. Im Mittelalter war sie das Hauptnahrungsmittel der Bergbevölkerung in den Cevennen, Korsika und im Tessin, man nannte sie den "Brotbaum".
 
 Hildegard von Bingen schrieb: "Die Kastanie ist sehr nützlich gegen jegliche Schwäche, die im Menschen ist." Sie empfahl Kastanienmehl-Brei bei Leberleiden, Milzproblemen und als Aufbaukost. In der Bach-Blütentherapie steht Sweet Chestnut für tiefste Verzweiflung und die Kraft, aus der Dunkelheit ins Licht zu finden.`,
     wirkungen: {
@@ -896,7 +896,7 @@ Hildegard von Bingen schrieb: "Die Kastanie ist sehr nützlich gegen jegliche Sc
     zubereitungen: [
       {
         name: 'Kastanienblätter-Hustentee',
-        anleitung: '2 TL getrocknete Kastanienblätter mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 3--4 Tassen täglich bei Husten.',
+        anleitung: '2 TL getrocknete Kastanienblätter mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 3-4 Tassen täglich bei Husten.',
         wirkung: 'Hustenreizlindernd und schleimlösend, besonders bei krampfhaftem Husten und Keuchhusten.',
       },
       {
@@ -913,7 +913,7 @@ Hildegard von Bingen schrieb: "Die Kastanie ist sehr nützlich gegen jegliche Sc
     mischungen: ['Hustentee (mit Thymian und Spitzwegerich)', 'Aufbau-Kur nach Hildegard (mit Dinkel und Fenchel)', 'Basisches Frühstück (mit Maronen, Äpfeln und Zimt)'],
     tcm: 'Warm und süß. Stärkt Milz und Niere, nährt Qi und Blut. Bei Milz-Qi-Mangel mit Müdigkeit, Appetitlosigkeit und weichem Stuhl. Die wärmende Natur stärkt das Yang.',
     ayurveda: 'Süß, warm und schwer. Nährt alle Dhatus und stärkt Ojas. Die Edelkastanie ist ein ideales Brimhana (aufbauendes Nahrungsmittel) für Vata-Konstitutionen. Kapha-Typen maßvoll genießen.',
-    volksmedizin: 'Die Kastanie war das Grundnahrungsmittel der Bergvölker. Kastanienmehl-Brei stillte den Husten der Kinder. Ein Kastanienblätter-Absud half bei Durchfall. Man trug eine Kastanie in der Hosentasche gegen Rheuma -- ein Aberglaube, der sich hartnäckig hält. Maronenhändler wärmten in kalten Wintern Leib und Seele.',
+    volksmedizin: 'Die Kastanie war das Grundnahrungsmittel der Bergvölker. Kastanienmehl-Brei stillte den Husten der Kinder. Ein Kastanienblätter-Absud half bei Durchfall. Man trug eine Kastanie in der Hosentasche gegen Rheuma, ein Aberglaube, der sich hartnäckig hält. Maronenhändler wärmten in kalten Wintern Leib und Seele.',
     besonders_bei: ['husten', 'keuchhusten', 'erschoepfung', 'rekonvaleszenz', 'durchfall', 'glutenunvertraeglichkeit'],
   },
 
@@ -923,12 +923,12 @@ Hildegard von Bingen schrieb: "Die Kastanie ist sehr nützlich gegen jegliche Sc
   'Engelwurz': {
     vollname: 'Echte Engelwurz / Angelika (Angelica archangelica)',
     familie: 'Doldenblütler (Apiaceae)',
-    beschreibung: `Die Engelwurz ist eine der mächtigsten Heilpflanzen der nordischen Tradition. Sie kann über zwei Meter hoch werden und besitzt große, kugelförmige Blütendolden und einen hohlen, oft rötlich überlaufenen Stängel. Der Name "Angelica" -- von den Engeln -- zeugt von der hohen Wertschätzung, die man dieser Pflanze seit Jahrhunderten entgegenbringt.
+    beschreibung: `Die Engelwurz ist eine der mächtigsten Heilpflanzen der nordischen Tradition. Sie kann über zwei Meter hoch werden und besitzt große, kugelförmige Blütendolden und einen hohlen, oft rötlich überlaufenen Stängel. Der Name "Angelica", von den Engeln, zeugt von der hohen Wertschätzung, die man dieser Pflanze seit Jahrhunderten entgegenbringt.
 
 Die Wurzel ist das wichtigste Heilorgan. Sie enthält ein komplexes ätherisches Öl mit Angelicin, Phellandren und Borneol, dazu Bitterstoffe, Cumarine und Furanocumarine. Engelwurz wirkt stark wärmend, verdauungsfördernd, krampflösend und schleimlösend. Sie ist ein hervorragendes Mittel bei Verdauungsschwäche, Appetitlosigkeit und Kältegefühl.
 
 In der Erfahrungsmedizin gilt die Engelwurz als "Schutzpflanze" gegen alle Arten von Schwäche und Anfälligkeit. Sie stärkt die Abwehrkraft, wärmt den Organismus von innen und gibt dem Körper die Kraft, sich gegen Krankheit zu wehren.`,
-    geschichte: `Der Legende nach erschien ein Engel einem Mönch im Traum und offenbarte ihm die Engelwurz als Heilmittel gegen die Pest. Während der großen Pestepidemien wurde sie tatsächlich als Universalmittel eingesetzt -- man kaute die Wurzel, räucherte mit ihr und trug sie als Amulett.
+    geschichte: `Der Legende nach erschien ein Engel einem Mönch im Traum und offenbarte ihm die Engelwurz als Heilmittel gegen die Pest. Während der großen Pestepidemien wurde sie tatsächlich als Universalmittel eingesetzt, man kaute die Wurzel, räucherte mit ihr und trug sie als Amulett.
 
 In der nordischen Tradition war die Engelwurz das höchste aller Heilkräuter. Die Samen wurden aus Norwegen als "Nordisches Gold" exportiert. Paracelsus nannte sie "die wichtigste Wurzel der Medizin". In der Klosterheilkunde war Angelika-Likör ein beliebtes Stärkungsmittel.`,
     wirkungen: {
@@ -949,7 +949,7 @@ In der nordischen Tradition war die Engelwurz das höchste aller Heilkräuter. D
       },
       {
         name: 'Angelika-Tinktur',
-        anleitung: 'Frische Wurzel zerkleinern und im Verhältnis 1:5 mit 45%igem Alkohol ansetzen. 4 Wochen dunkel ziehen lassen. 20--30 Tropfen 3x täglich.',
+        anleitung: 'Frische Wurzel zerkleinern und im Verhältnis 1:5 mit 45%igem Alkohol ansetzen. 4 Wochen dunkel ziehen lassen. 20-30 Tropfen 3x täglich.',
         wirkung: 'Bei Verdauungsschwäche, Blähungen und als stärkendes Tonikum.',
       },
       {
@@ -961,7 +961,7 @@ In der nordischen Tradition war die Engelwurz das höchste aller Heilkräuter. D
     mischungen: ['Magenbitter (mit Enzian und Kalmus)', 'Erkältungstee (mit Holunder und Linde)', 'Schutzräucherung (mit Beifuß und Wacholder)'],
     tcm: 'Warm und scharf-süß. Wärmt die Mitte, stärkt Milz-Yang und vertreibt Kälte. Bewegt Qi und löst Schleim. Bei innerer Kälte mit Verdauungsschwäche, Blähungen und wässrigem Stuhl.',
     ayurveda: 'Scharf, bitter und warm. Reduziert Vata und Kapha kraftvoll. Stärkt Agni (Verdauungsfeuer) und verbrennt Ama (Toxine). Ein hervorragendes Deepana (appetitanregendes) und Pachana (verdauungsförderndes) Mittel.',
-    volksmedizin: 'Engelwurz war das Universalmittel des Nordens. Bei Pest und Seuchen kaute man die Wurzel zur Abwehr. Bei Magenleiden trank man Angelika-Schnaps. Hebammen gaben werdenden Müttern Engelwurztee zur Stärkung. Die hohlen Stängel schnitten Kinder zu Flöten -- sie hießen "Angelikapfeifen".',
+    volksmedizin: 'Engelwurz war das Universalmittel des Nordens. Bei Pest und Seuchen kaute man die Wurzel zur Abwehr. Bei Magenleiden trank man Angelika-Schnaps. Hebammen gaben werdenden Müttern Engelwurztee zur Stärkung. Die hohlen Stängel schnitten Kinder zu Flöten, sie hießen "Angelikapfeifen".',
     besonders_bei: ['verdauungsschwaeche', 'appetitlosigkeit', 'blaehungen', 'kaeltegefuehl', 'immunschwaeche', 'erkaeltung'],
   },
 
@@ -973,10 +973,10 @@ In der nordischen Tradition war die Engelwurz das höchste aller Heilkräuter. D
     familie: 'Erdrauchgewächse (Fumariaceae)',
     beschreibung: `Der Erdrauch ist ein unscheinbares, graugrünes Ackerkraut mit fein zerteilten Blättern und zarten, purpurrosa Blütentrauben. Sein Name leitet sich davon ab, dass die graugrüne Pflanze aus der Ferne wie aufsteigender Rauch aussieht. Trotz seiner Unscheinbarkeit ist er eine der wichtigsten Leberheilpflanzen der europäischen Phytotherapie.
 
-Die Besonderheit des Erdrauchs liegt in seiner regulierenden Wirkung auf den Gallenfluss. Er ist amphocholeretisch -- das bedeutet, er normalisiert den Gallenfluss in beide Richtungen: Er regt eine zu geringe Gallenproduktion an und bremst eine übermäßige. Diese balancierende Eigenschaft macht ihn einzigartig unter den Gallemitteln.
+Die Besonderheit des Erdrauchs liegt in seiner regulierenden Wirkung auf den Gallenfluss. Er ist amphocholeretisch, das bedeutet, er normalisiert den Gallenfluss in beide Richtungen: Er regt eine zu geringe Gallenproduktion an und bremst eine übermäßige. Diese balancierende Eigenschaft macht ihn einzigartig unter den Gallemitteln.
 
 Erdrauch enthält das Alkaloid Protopin und weitere Fumaria-Alkaloide, die krampflösend auf die Gallenblase und die Gallenwege wirken. Bei Gallenkoliken, Gallenbeschwerden und zur Unterstützung der Leberfunktion ist er eines der zuverlässigsten pflanzlichen Mittel.`,
-    geschichte: `Bereits Dioskurides beschrieb den Erdrauch als Mittel zur Blutreinigung. Im Mittelalter galt er als Augenheilmittel -- der "Rauch der Erde" sollte die Augen klären. Der Saft wurde direkt in die Augen geträufelt, um die Sehkraft zu verbessern.
+    geschichte: `Bereits Dioskurides beschrieb den Erdrauch als Mittel zur Blutreinigung. Im Mittelalter galt er als Augenheilmittel, der "Rauch der Erde" sollte die Augen klären. Der Saft wurde direkt in die Augen geträufelt, um die Sehkraft zu verbessern.
 
 Paracelsus verwendete Erdrauch als Lebermittel und zur Blutreinigung. In der Volksmedizin war er ein Frühjahrskur-Kraut, das den Körper nach dem Winter entschlacken und das Blut reinigen sollte. Die französische Phytotherapie schätzt ihn bis heute als wichtigstes Gallenmittel.`,
     wirkungen: {
@@ -992,7 +992,7 @@ Paracelsus verwendete Erdrauch als Lebermittel und zur Blutreinigung. In der Vol
     zubereitungen: [
       {
         name: 'Erdrauch-Tee',
-        anleitung: '1,5 TL getrocknetes Kraut mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 2--3 Tassen täglich für maximal 4 Wochen, dann 2 Wochen Pause.',
+        anleitung: '1,5 TL getrocknetes Kraut mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 2-3 Tassen täglich für maximal 4 Wochen, dann 2 Wochen Pause.',
         wirkung: 'Reguliert den Gallenfluss, unterstützt die Leber und reinigt das Blut.',
       },
       {
@@ -1019,14 +1019,14 @@ Paracelsus verwendete Erdrauch als Lebermittel und zur Blutreinigung. In der Vol
   'Stiefmütterchen': {
     vollname: 'Wildes Stiefmütterchen (Viola tricolor)',
     familie: 'Veilchengewächse (Violaceae)',
-    beschreibung: `Das Wilde Stiefmütterchen ist eine zierliche Wiesenblume, deren dreifarbige Blüten -- violett, gelb und weiß -- wie kleine Gesichter aussehen. Es ist eine der wichtigsten Hautpflanzen der europäischen Phytotherapie und wird seit Jahrhunderten bei Hauterkrankungen aller Art eingesetzt.
+    beschreibung: `Das Wilde Stiefmütterchen ist eine zierliche Wiesenblume, deren dreifarbige Blüten, violett, gelb und weiß, wie kleine Gesichter aussehen. Es ist eine der wichtigsten Hautpflanzen der europäischen Phytotherapie und wird seit Jahrhunderten bei Hauterkrankungen aller Art eingesetzt.
 
-Das Kraut enthält Saponine, Flavonoide, Salicylsäure und Schleimstoffe, die gemeinsam eine starke entzündungshemmende, reinigende und juckreizstillende Wirkung auf die Haut entfalten. Bei Milchschorf, Neurodermitis, Akne, Ekzemen und Schuppenflechte gehört das Stiefmütterchen zu den bewährtesten pflanzlichen Mitteln -- sowohl innerlich als Tee als auch äußerlich als Waschung.
+Das Kraut enthält Saponine, Flavonoide, Salicylsäure und Schleimstoffe, die gemeinsam eine starke entzündungshemmende, reinigende und juckreizstillende Wirkung auf die Haut entfalten. Bei Milchschorf, Neurodermitis, Akne, Ekzemen und Schuppenflechte gehört das Stiefmütterchen zu den bewährtesten pflanzlichen Mitteln, sowohl innerlich als Tee als auch äußerlich als Waschung.
 
 Besonders bei Hautproblemen im Kindesalter ist das Stiefmütterchen eine sanfte, aber wirksame Alternative. Der Tee ist mild genug für Säuglinge und kann als Bad oder Waschung bei Milchschorf und Windeldermatitis verwendet werden. Innerlich wirkt es zusätzlich blutreinigend und stoffwechselanregend.`,
     geschichte: `In der griechischen Mythologie verwandelte Zeus seine Geliebte Io in eine Kuh, um sie vor Heras Eifersucht zu schützen, und ließ Veilchen wachsen, damit sie etwas Schönes zu fressen hatte. Der Name "Viola tricolor" bezieht sich auf die drei Blütenfarben.
 
-Shakespeare setzte das Stiefmütterchen im "Sommernachtstraum" als Liebeszauber ein -- sein Saft auf die Augenlider geträufelt ließ den Schläfer sich in das erste Wesen verlieben, das er beim Erwachen sah. In der Volksmedizin wurde es als "Dreifaltigkeitskraut" bei Hautkrankheiten und als Liebesmedizin verwendet.`,
+Shakespeare setzte das Stiefmütterchen im "Sommernachtstraum" als Liebeszauber ein, sein Saft auf die Augenlider geträufelt ließ den Schläfer sich in das erste Wesen verlieben, das er beim Erwachen sah. In der Volksmedizin wurde es als "Dreifaltigkeitskraut" bei Hautkrankheiten und als Liebesmedizin verwendet.`,
     wirkungen: {
       hauptwirkungen: ['Hautreinigend', 'Entzündungshemmend', 'Juckreizstillend', 'Blutreinigend', 'Schleimlösend', 'Stoffwechselanregend'],
       inhaltsstoffe: ['Saponine', 'Flavonoide (Rutin, Violanthin)', 'Salicylsäure', 'Schleimstoffe', 'Gerbstoffe', 'Carotinoide', 'Vitamin C', 'Anthocyane'],
@@ -1040,7 +1040,7 @@ Shakespeare setzte das Stiefmütterchen im "Sommernachtstraum" als Liebeszauber 
     zubereitungen: [
       {
         name: 'Stiefmütterchen-Hauttee',
-        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 3 Tassen täglich als Kur über 6--8 Wochen.',
+        anleitung: '2 TL getrocknetes Kraut mit 250ml kochendem Wasser übergießen, 10 Minuten ziehen lassen. 3 Tassen täglich als Kur über 6-8 Wochen.',
         wirkung: 'Hautreinigend von innen, hilfreich bei Akne, Ekzemen und unreiner Haut.',
       },
       {
@@ -1067,12 +1067,12 @@ Shakespeare setzte das Stiefmütterchen im "Sommernachtstraum" als Liebeszauber 
   'Holunder': {
     vollname: 'Schwarzer Holunder (Sambucus nigra)',
     familie: 'Moschuskrautgewächse (Adoxaceae)',
-    beschreibung: `Der Schwarze Holunder ist der "Hausbaum" Mitteleuropas und einer der vielseitigsten Heilbäume überhaupt. Von den Blüten über die Beeren bis zur Rinde -- jeder Teil hat seine eigene Heilkraft. Der Holunder stand traditionell an jedem Bauernhof und wurde als Schutzbaum verehrt.
+    beschreibung: `Der Schwarze Holunder ist der "Hausbaum" Mitteleuropas und einer der vielseitigsten Heilbäume überhaupt. Von den Blüten über die Beeren bis zur Rinde, jeder Teil hat seine eigene Heilkraft. Der Holunder stand traditionell an jedem Bauernhof und wurde als Schutzbaum verehrt.
 
 Die cremeweißen, herrlich duftenden Blütendolden erscheinen im Juni und sind eines der besten schweißtreibenden Mittel bei Erkältungen und Fieber. Sie enthalten Flavonoide, Schleimstoffe und ätherisches Öl und wirken stark diaphoretisch (schweißtreibend), immunstärkend und entzündungshemmend.
 
-Die schwarzvioletten Beeren reifen im September und sind ein Kraftpaket an Anthocyanen, Vitamin C und antiviralen Inhaltsstoffen. Studien zeigen, dass Holunderbeerenextrakt die Dauer und Schwere von Grippeinfektionen signifikant reduzieren kann. Die Beeren müssen immer gekocht werden -- roh enthalten sie das Glykosid Sambunigrin, das Übelkeit verursacht.`,
-    geschichte: `Der Holunder war den Germanen heilig -- er war der Wohnbaum der Göttin Holda (Frau Holle). Man durfte ihn nie fällen, ohne vorher "Frau Ellhorn" um Erlaubnis zu bitten. Der Hut wurde vor dem Holunder gezogen.
+Die schwarzvioletten Beeren reifen im September und sind ein Kraftpaket an Anthocyanen, Vitamin C und antiviralen Inhaltsstoffen. Studien zeigen, dass Holunderbeerenextrakt die Dauer und Schwere von Grippeinfektionen signifikant reduzieren kann. Die Beeren müssen immer gekocht werden, roh enthalten sie das Glykosid Sambunigrin, das Übelkeit verursacht.`,
+    geschichte: `Der Holunder war den Germanen heilig, er war der Wohnbaum der Göttin Holda (Frau Holle). Man durfte ihn nie fällen, ohne vorher "Frau Ellhorn" um Erlaubnis zu bitten. Der Hut wurde vor dem Holunder gezogen.
 
 Hippokrates nannte den Holunder seine "Apotheke". Im Mittelalter hieß es: "Vor dem Holunder soll man den Hut ziehen." Pfarrer Kneipp schrieb: "Aus der Fliederküche (Holunderküche) kann man alle Krankheiten kurieren." Der Name "Holunder" könnte vom altdeutschen "Holunthar" (Holler-Baum) stammen.`,
     wirkungen: {
@@ -1104,7 +1104,7 @@ Hippokrates nannte den Holunder seine "Apotheke". Im Mittelalter hieß es: "Vor 
     ],
     mischungen: ['Erkältungstee (mit Lindenblüten und Mädesüß)', 'Immuntrunk (mit Hagebutte und Sanddorn)', 'Schweißtreibender Tee (mit Lindenblüten und Kamille)'],
     tcm: 'Die Holunderblüte ist kühl und süß. Sie zerstreut Wind-Hitze, fördert das Schwitzen und entlastet die Oberfläche. Die Beeren sind warm und süß, sie stärken die Abwehr (Wei-Qi) und nähren das Blut.',
-    ayurveda: 'Die Blüten sind kühl und leicht -- sie reduzieren Pitta und Kapha. Die Beeren sind warm und süß -- sie stärken Ojas und die Immunkraft (Vyadhikshamatva). Holunder balanciert alle drei Doshas je nach Zubereitung.',
+    ayurveda: 'Die Blüten sind kühl und leicht, sie reduzieren Pitta und Kapha. Die Beeren sind warm und süß, sie stärken Ojas und die Immunkraft (Vyadhikshamatva). Holunder balanciert alle drei Doshas je nach Zubereitung.',
     volksmedizin: 'Der Holunder war das Universal-Hausmittel schlechthin. Bei Erkältung: Holunderblütentee. Bei Grippe: Holundersaft. Bei Zahnschmerzen: Holunderrinde kauen. Bei Wassersucht: Holunderrinden-Tee. Bei Hautausschlag: Holunderblätter-Umschlag. Man sagte: "Ein Haus ohne Holunder ist ein Haus ohne Arzt."',
     besonders_bei: ['erkaeltung', 'grippe', 'fieber', 'immunschwaeche', 'husten', 'fruehjahrskur'],
   },
@@ -1115,12 +1115,12 @@ Hippokrates nannte den Holunder seine "Apotheke". Im Mittelalter hieß es: "Vor 
   'Hopfen': {
     vollname: 'Echter Hopfen (Humulus lupulus)',
     familie: 'Hanfgewächse (Cannabaceae)',
-    beschreibung: `Der Hopfen ist eine kräftige Kletterpflanze, die bis zu 7 Meter hoch rankt und deren zapfenförmige Fruchtstände ("Hopfenzapfen") seit Jahrhunderten zum Bierbrauen und als Heilmittel verwendet werden. Die gelbgrünen Drüsen an den Zapfen -- das Lupulin -- enthalten die wertvollen Wirkstoffe.
+    beschreibung: `Der Hopfen ist eine kräftige Kletterpflanze, die bis zu 7 Meter hoch rankt und deren zapfenförmige Fruchtstände ("Hopfenzapfen") seit Jahrhunderten zum Bierbrauen und als Heilmittel verwendet werden. Die gelbgrünen Drüsen an den Zapfen, das Lupulin, enthalten die wertvollen Wirkstoffe.
 
 In der Heilkunde ist Hopfen eines der stärksten pflanzlichen Beruhigungs- und Schlafmittel. Die Bittersäuren Humulon und Lupulon sowie das ätherische Öl mit Myrcen und Humulen wirken auf das zentrale Nervensystem und fördern Entspannung und Schlaf. Studien bestätigen, dass Hopfenextrakt die Schlafqualität verbessert und die Einschlafzeit verkürzt.
 
-Hopfen hat zudem eine östrogenähnliche Wirkung -- die Isoflavone wirken als Phytoöstrogene und können bei Wechseljahresbeschwerden hilfreich sein. Auch auf die Verdauung wirkt Hopfen positiv: Die Bitterstoffe regen Appetit und Magensaftproduktion an. Hopfenpflückerinnen wurden früher oft müde und bekamen ihre Menstruation verfrüht -- ein Hinweis auf die starke Wirkung.`,
-    geschichte: `Hopfen wird seit dem 8. Jahrhundert in Mitteleuropa kultiviert. Die hl. Hildegard von Bingen beschrieb ihn im 12. Jahrhundert ausführlich: "Durch seine Bitterkeit hält der Hopfen die Fäulnis von den Getränken fern" -- eine frühe Beschreibung der konservierenden Wirkung.
+Hopfen hat zudem eine östrogenähnliche Wirkung, die Isoflavone wirken als Phytoöstrogene und können bei Wechseljahresbeschwerden hilfreich sein. Auch auf die Verdauung wirkt Hopfen positiv: Die Bitterstoffe regen Appetit und Magensaftproduktion an. Hopfenpflückerinnen wurden früher oft müde und bekamen ihre Menstruation verfrüht, ein Hinweis auf die starke Wirkung.`,
+    geschichte: `Hopfen wird seit dem 8. Jahrhundert in Mitteleuropa kultiviert. Die hl. Hildegard von Bingen beschrieb ihn im 12. Jahrhundert ausführlich: "Durch seine Bitterkeit hält der Hopfen die Fäulnis von den Getränken fern", eine frühe Beschreibung der konservierenden Wirkung.
 
 Im Mittelalter war Hopfen das wichtigste Schlafmittel. König Georg III. von England schlief auf einem Hopfenkissen, um seine Schlaflosigkeit zu kurieren. In der Volksmedizin waren Hopfenkissen ein Standardmittel bei Schlafstörungen und nervöser Unruhe.`,
     wirkungen: {
@@ -1130,18 +1130,18 @@ Im Mittelalter war Hopfen das wichtigste Schlafmittel. König Georg III. von Eng
     ernte: {
       zeit: 'Hopfenzapfen im August/September, wenn sie sich papierig anfühlen und goldgelbes Lupulin enthalten.',
       teile: 'Weibliche Blütenzapfen mit dem wertvollen Lupulin-Drüsenstaub.',
-      tipps: 'Reife Zapfen erkennt man am papierdünnen Anfühlen und dem intensiv aromatischen Geruch. Beim Zerreiben sollte gelbes Lupulin-Pulver sichtbar sein. Schnell bei niedriger Temperatur trocknen und dunkel lagern -- Hopfen verliert rasch an Wirkung.',
+      tipps: 'Reife Zapfen erkennt man am papierdünnen Anfühlen und dem intensiv aromatischen Geruch. Beim Zerreiben sollte gelbes Lupulin-Pulver sichtbar sein. Schnell bei niedriger Temperatur trocknen und dunkel lagern: Hopfen verliert rasch an Wirkung.',
       mond: 'Bei abnehmendem Mond ernten für stärkste beruhigende Wirkung.',
     },
     zubereitungen: [
       {
         name: 'Hopfen-Schlaftee',
-        anleitung: '1--2 TL zerkleinerte Hopfenzapfen mit 250ml kochendem Wasser übergießen, 15 Minuten zugedeckt ziehen lassen. 30 Minuten vor dem Schlafengehen trinken.',
+        anleitung: '1-2 TL zerkleinerte Hopfenzapfen mit 250ml kochendem Wasser übergießen, 15 Minuten zugedeckt ziehen lassen. 30 Minuten vor dem Schlafengehen trinken.',
         wirkung: 'Beruhigend und schlaffördernd, verkürzt die Einschlafzeit.',
       },
       {
         name: 'Hopfenkissen',
-        anleitung: 'Getrocknete Hopfenzapfen locker in einen Kissenbezug aus Baumwolle füllen. Neben das Kopfkissen legen. Alle 4--6 Wochen erneuern.',
+        anleitung: 'Getrocknete Hopfenzapfen locker in einen Kissenbezug aus Baumwolle füllen. Neben das Kopfkissen legen. Alle 4-6 Wochen erneuern.',
         wirkung: 'Fördert ruhigen, tiefen Schlaf durch die beruhigenden Duftstoffe.',
       },
       {
@@ -1153,7 +1153,7 @@ Im Mittelalter war Hopfen das wichtigste Schlafmittel. König Georg III. von Eng
     mischungen: ['Schlaftee (mit Baldrian und Passionsblume)', 'Nerventee (mit Melisse und Lavendel)', 'Wechseljahre-Mischung (mit Traubensilberkerze und Salbei)'],
     tcm: 'Bitter und kühl. Klärt Herz-Feuer und beruhigt den Geist (Shen). Leitet Leber-Hitze aus und löst Qi-Stagnation. Bei Schlaflosigkeit durch Herz-Feuer oder aufsteigendes Leber-Yang.',
     ayurveda: 'Bitter und kühl. Reduziert Pitta und beruhigt Vata in der Nacht. Wirkt als Nidrajanana (schlafförderndes Mittel). Bei Anidra (Schlaflosigkeit) und Pitta-bedingter Unruhe. Kann bei übermäßigem Gebrauch Kapha erhöhen.',
-    volksmedizin: 'Hopfenkissen waren das Hausmittel bei Schlafproblemen. Unruhige Kinder bekamen ein kleines Hopfensäckchen ins Bett. Bei Appetitlosigkeit trank man Hopfentee vor dem Essen. Hopfenpflückerinnen galten als besonders fruchtbar -- ein Hinweis auf die hormonelle Wirkung. Biertrinker schliefen tief -- auch dank des Hopfens.',
+    volksmedizin: 'Hopfenkissen waren das Hausmittel bei Schlafproblemen. Unruhige Kinder bekamen ein kleines Hopfensäckchen ins Bett. Bei Appetitlosigkeit trank man Hopfentee vor dem Essen. Hopfenpflückerinnen galten als besonders fruchtbar, ein Hinweis auf die hormonelle Wirkung. Biertrinker schliefen tief, auch dank des Hopfens.',
     besonders_bei: ['schlafprobleme', 'nervositaet', 'wechseljahresbeschwerden', 'appetitlosigkeit', 'innere_unruhe', 'verdauungsschwaeche'],
   },
 
@@ -1163,12 +1163,12 @@ Im Mittelalter war Hopfen das wichtigste Schlafmittel. König Georg III. von Eng
   'Rosskastanie': {
     vollname: 'Gewöhnliche Rosskastanie (Aesculus hippocastanum)',
     familie: 'Seifenbaumgewächse (Sapindaceae)',
-    beschreibung: `Die Rosskastanie ist ein mächtiger Parkbaum mit handförmig gefiederten Blättern und aufrechten, weißen Blütenkerzen, die im Mai die Alleen schmücken. Ihre glänzend braunen Samen -- die "Kastanien" -- sind für Kinder ein beliebtes Bastelmaterial und für die Heilkunde eines der wichtigsten Venenmittel überhaupt.
+    beschreibung: `Die Rosskastanie ist ein mächtiger Parkbaum mit handförmig gefiederten Blättern und aufrechten, weißen Blütenkerzen, die im Mai die Alleen schmücken. Ihre glänzend braunen Samen, die "Kastanien", sind für Kinder ein beliebtes Bastelmaterial und für die Heilkunde eines der wichtigsten Venenmittel überhaupt.
 
-Der Hauptwirkstoff Aescin -- ein Saponingemisch aus den Samen -- ist einer der am besten erforschten Pflanzenwirkstoffe. Aescin dichtet die Venenwände ab, reduziert Ödeme, wirkt entzündungshemmend und verbessert den venösen Rückfluss zum Herzen. Bei chronischer Veneninsuffizienz (schwere, geschwollene Beine) ist Rosskastanienextrakt so wirksam wie Kompressionsstrümpfe.
+Der Hauptwirkstoff Aescin, ein Saponingemisch aus den Samen, ist einer der am besten erforschten Pflanzenwirkstoffe. Aescin dichtet die Venenwände ab, reduziert Ödeme, wirkt entzündungshemmend und verbessert den venösen Rückfluss zum Herzen. Bei chronischer Veneninsuffizienz (schwere, geschwollene Beine) ist Rosskastanienextrakt so wirksam wie Kompressionsstrümpfe.
 
-Neben Aescin enthalten die Samen Flavonoide, Cumarine und Gerbstoffe. Die Rinde und die Blüten werden ebenfalls verwendet -- die Rinde bei Hämorrhoiden und die Blüten als Bachblüte (White Chestnut) bei kreisenden Gedanken und Schlaflosigkeit.`,
-    geschichte: `Die Rosskastanie stammt aus dem Balkan und wurde im 16. Jahrhundert nach Mitteleuropa gebracht. Der Name "Rosskastanie" kommt daher, dass osmanische Reiter ihren Pferden die Samen bei Husten und Atembeschwerden verabreichten -- "Ross" bedeutet Pferd.
+Neben Aescin enthalten die Samen Flavonoide, Cumarine und Gerbstoffe. Die Rinde und die Blüten werden ebenfalls verwendet, die Rinde bei Hämorrhoiden und die Blüten als Bachblüte (White Chestnut) bei kreisenden Gedanken und Schlaflosigkeit.`,
+    geschichte: `Die Rosskastanie stammt aus dem Balkan und wurde im 16. Jahrhundert nach Mitteleuropa gebracht. Der Name "Rosskastanie" kommt daher, dass osmanische Reiter ihren Pferden die Samen bei Husten und Atembeschwerden verabreichten, "Ross" bedeutet Pferd.
 
 In der Volksmedizin trug man eine Rosskastanie in der Hosentasche gegen Rheuma und Gicht. Im 19. Jahrhundert entdeckte man die Wirkung auf das Venensystem. Seit dem 20. Jahrhundert gehört Rosskastanienextrakt zu den meistverwendeten Phytopharmaka bei Venenleiden.`,
     wirkungen: {
@@ -1178,13 +1178,13 @@ In der Volksmedizin trug man eine Rosskastanie in der Hosentasche gegen Rheuma u
     ernte: {
       zeit: 'Reife Samen im September/Oktober, Rinde im Frühjahr, Blüten im Mai.',
       teile: 'Reife Samen (geschält), Rinde jüngerer Äste, Blüten.',
-      tipps: 'Kastanien nach dem Herabfallen sammeln. Zum Trocknen halbieren und bei guter Belüftung trocknen. Für Tinkturen frische Kastanien verwenden. Die Rosskastanie ist nicht essbar -- nicht mit der Edelkastanie verwechseln!',
+      tipps: 'Kastanien nach dem Herabfallen sammeln. Zum Trocknen halbieren und bei guter Belüftung trocknen. Für Tinkturen frische Kastanien verwenden. Die Rosskastanie ist nicht essbar, nicht mit der Edelkastanie verwechseln!',
       mond: 'Samen bei abnehmendem Mond sammeln für stärkste Wirkung auf die Venen.',
     },
     zubereitungen: [
       {
         name: 'Rosskastanien-Tinktur',
-        anleitung: 'Frische Kastanien schälen, zerkleinern und im Verhältnis 1:5 mit 45%igem Alkohol ansetzen. 4--6 Wochen dunkel ziehen lassen. 30 Tropfen 3x täglich.',
+        anleitung: 'Frische Kastanien schälen, zerkleinern und im Verhältnis 1:5 mit 45%igem Alkohol ansetzen. 4-6 Wochen dunkel ziehen lassen. 30 Tropfen 3x täglich.',
         wirkung: 'Venenstärkend, ödemreduzierend und entzündungshemmend bei schweren Beinen.',
       },
       {
@@ -1201,7 +1201,7 @@ In der Volksmedizin trug man eine Rosskastanie in der Hosentasche gegen Rheuma u
     mischungen: ['Venentee (mit Steinklee und Schafgarbe)', 'Bein-Gel (mit Weinlaub und Arnika)', 'Hämorrhoiden-Salbe (mit Hamamelis und Eichenrinde)'],
     tcm: 'Bitter und warm. Bewegt Blut und löst Blut-Stase. Stärkt die Gefäße und leitet Feuchtigkeit aus. Bei Blut-Stase in den unteren Extremitäten mit Schwellung, Schwere und Schmerz.',
     ayurveda: 'Herb, bitter und warm. Reduziert Kapha und bewegt stagnierendes Blut. Stärkt die Siras (Gefäße) und unterstützt den Rückfluss von Rasa und Rakta. Bei Siraja Granthi (Krampfadern) und Shopha (Ödeme).',
-    volksmedizin: 'Die Rosskastanie in der Hosentasche war das bekannteste Rheumamittel der Volksmedizin -- ob es wirkt, ist umstritten, aber der Glaube daran war unerschütterlich. Bei schweren Beinen badete man in Kastanien-Absud. Geschälte Kastanien in kaltem Wasser ergeben eine natürliche Seife -- unsere Vorfahren wuschen damit ihre Wäsche. Pferden gab man Kastanien bei Husten.',
+    volksmedizin: 'Die Rosskastanie in der Hosentasche war das bekannteste Rheumamittel der Volksmedizin, ob es wirkt, ist umstritten, aber der Glaube daran war unerschütterlich. Bei schweren Beinen badete man in Kastanien-Absud. Geschälte Kastanien in kaltem Wasser ergeben eine natürliche Seife, unsere Vorfahren wuschen damit ihre Wäsche. Pferden gab man Kastanien bei Husten.',
     besonders_bei: ['krampfadern', 'schwere_beine', 'oedeme', 'haemorrhoiden', 'venenschwaeche', 'durchblutungsstoerungen'],
   },
 
