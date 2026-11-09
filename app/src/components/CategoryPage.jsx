@@ -1,4 +1,5 @@
 import { useState, useMemo } from 'react'
+import { KATEGORIEN, bildPfad, bildSrcSet } from '../data/kategorien'
 import { ArrowLeft, Clock, Zap, Search, AlertTriangle, Heart, Sparkles, ListChecks, ChevronRight, Leaf, FlaskConical, BookOpen, Flame, Eye, Moon, Skull, Crown } from 'lucide-react'
 import { Accordion } from './Accordion'
 import {
@@ -838,7 +839,8 @@ function KrauterPage({ onSearch, onSelectCondition }) {
   const grouped = useMemo(() => {
     const map = {}
     HERBS.forEach(h => {
-      const letter = h.name.charAt(0).toUpperCase()
+      const roh = h.name.charAt(0).toUpperCase()
+      const letter = ({ Ä: 'A', Ö: 'O', Ü: 'U' })[roh] || roh
       if (!map[letter]) map[letter] = []
       map[letter].push(h)
     })
@@ -854,7 +856,7 @@ function KrauterPage({ onSearch, onSelectCondition }) {
   return (
     <div className="space-y-4">
       {/* A-Z Navigation */}
-      <div className="flex flex-wrap gap-1 sticky top-16 bg-white/95 backdrop-blur-sm py-2 z-10 -mx-1 px-1">
+      <div className="flex flex-wrap gap-1 sticky top-16 bg-bg/95 backdrop-blur-sm py-2 z-10 -mx-1 px-1">
         <button
           onClick={() => setActiveLetter(null)}
           className={`w-8 h-8 rounded-lg text-xs font-bold flex items-center justify-center transition-all ${
@@ -1051,17 +1053,19 @@ function KrauterPage({ onSearch, onSelectCondition }) {
 function KrankheitsbilderPage({ onSearch, onSelectCondition }) {
   const grouped = {}
   ALL_CONDITIONS.forEach(c => {
-    const letter = c.name.charAt(0).toUpperCase()
+    const roh = c.name.charAt(0).toUpperCase()
+    const letter = ({ Ä: 'A', Ö: 'O', Ü: 'U' })[roh] || roh
     if (!grouped[letter]) grouped[letter] = []
     grouped[letter].push(c)
   })
+  Object.values(grouped).forEach(arr => arr.sort((a, b) => a.name.localeCompare(b.name, 'de')))
   const letters = Object.keys(grouped).sort((a, b) => a.localeCompare(b, 'de'))
   const [activeLetter, setActiveLetter] = useState(null)
 
   return (
     <div>
       {/* A-Z nav */}
-      <div className="flex flex-wrap gap-1 mb-6 sticky top-16 bg-white/95 backdrop-blur-sm py-2 z-10 -mx-1 px-1">
+      <div className="flex flex-wrap gap-1 mb-6 sticky top-16 bg-bg/95 backdrop-blur-sm py-2 z-10 -mx-1 px-1">
         <button
           onClick={() => setActiveLetter(null)}
           className={`px-2.5 py-1 rounded-lg text-xs font-medium transition-all ${!activeLetter ? 'bg-green-main text-white' : 'bg-green-pale/50 text-text-medium hover:bg-green-pale'}`}
@@ -1144,26 +1148,44 @@ export function CategoryPage({ category, onSearch, onBack, onSelectCondition }) 
     )
   }
 
-  const { title, icon: Icon, component: PageComponent } = config
+  const { title, component: PageComponent } = config
+  const kat = KATEGORIEN.find(k => k.id === category)
+  const anzahl = kat?.anzahl()
 
   return (
-    <div className="max-w-5xl mx-auto px-4 pb-24 pt-16">
-      {/* Back button + Title */}
-      <div className="flex items-center gap-3 py-3 sticky top-16 bg-white/95 backdrop-blur-sm z-20 border-b border-green-pale/50 mb-4 -mx-1 px-1">
-        <button
-          onClick={onBack}
-          className="w-9 h-9 rounded-xl bg-green-pale/60 flex items-center justify-center hover:bg-green-pale transition-colors shrink-0"
-        >
-          <ArrowLeft size={18} className="text-green-dark" />
-        </button>
-        <div className="flex items-center gap-2 min-w-0">
-          <Icon size={20} className="text-green-main shrink-0" />
-          <h1 className="text-xl font-bold text-text-dark truncate">{title}</h1>
+    <div className="pb-24">
+      <section className="relative isolate overflow-hidden bg-green-dark">
+        {kat && (
+          <img
+            src={bildPfad(kat.bild, 1600)}
+            srcSet={bildSrcSet(kat.bild)}
+            sizes="100vw"
+            alt=""
+            className="absolute inset-0 w-full h-full object-cover -z-20"
+          />
+        )}
+        <div className="absolute inset-0 -z-10 bg-gradient-to-t from-black/80 via-black/45 to-black/40" />
+        <div className="max-w-5xl mx-auto px-4 pt-24 pb-8 sm:pt-32 sm:pb-12">
+          <button
+            onClick={onBack}
+            className="inline-flex items-center gap-1.5 text-sm text-white/80 hover:text-white transition-colors mb-6"
+          >
+            <ArrowLeft size={16} /> Zurück
+          </button>
+          {anzahl > 0 && (
+            <p className="text-gold-light text-xs font-semibold uppercase mb-2" style={{ letterSpacing: '0.16em' }}>
+              {anzahl} {kat.einheit}
+            </p>
+          )}
+          <h1 className="text-white text-4xl sm:text-6xl leading-tight">{title}</h1>
+          {kat?.text && <p className="text-white/80 mt-3 max-w-xl sm:text-lg">{kat.text}</p>}
         </div>
-      </div>
+      </section>
 
+      <div className="max-w-5xl mx-auto px-4 pt-8">
       {/* Page content */}
       <PageComponent onSearch={onSearch} onSelectCondition={onSelectCondition} />
+      </div>
     </div>
   )
 }

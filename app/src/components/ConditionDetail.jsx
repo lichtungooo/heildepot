@@ -62,20 +62,21 @@ export function ConditionDetail({ condition, onAddToCart, onSelectCondition, onS
     <div className="pt-16">
       {/* Back button */}
       {onBack && (
-        <div className="max-w-3xl mx-auto px-4 pt-4">
+        <div className="max-w-3xl mx-auto px-4 pt-8">
           <button onClick={onBack} className="text-sm text-text-light hover:text-green-main transition-colors flex items-center gap-1 mb-4">
             <ChevronLeft size={16} /> Zurück
           </button>
         </div>
       )}
       {/* Hero */}
-      <div className="bg-gradient-to-b from-green-pale/40 to-transparent py-10 px-4">
-        <div className="max-w-3xl mx-auto text-center">
-          <h1 className="text-3xl sm:text-4xl font-semibold text-green-dark mb-3" style={{fontFamily: "'Inter', sans-serif"}}>
+      <div className="pt-4 pb-10 px-4">
+        <div className="max-w-3xl mx-auto">
+          <p className="text-gold text-xs font-semibold uppercase mb-2" style={{ letterSpacing: '0.16em' }}>Krankheitsbild</p>
+          <h1 className="text-4xl sm:text-5xl text-green-dark leading-tight mb-3">
             {c.name}
           </h1>
           {c.tags && (
-            <div className="flex flex-wrap justify-center gap-2 mb-4">
+            <div className="flex flex-wrap gap-2 mb-4">
               {c.tags.map(tag => (
                 <button
                   key={tag}
@@ -686,7 +687,7 @@ export function ConditionDetail({ condition, onAddToCart, onSelectCondition, onS
 
 function SectionTitle({ children }) {
   return (
-    <h2 className="text-2xl font-semibold text-green-dark mb-4" style={{fontFamily: "'Inter', sans-serif"}}>
+    <h2 className="text-2xl text-green-dark mb-4">
       {children}
     </h2>
   )

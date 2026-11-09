@@ -51,7 +51,7 @@ export function SectionNav({ sections }) {
   return (
     <nav
       ref={navRef}
-      className="sticky top-[53px] z-40 bg-white/95 backdrop-blur-sm border-b border-green-pale overflow-x-auto scrollbar-hide"
+      className="sticky top-[53px] z-40 bg-bg/95 backdrop-blur-sm border-b border-green-pale overflow-x-auto scrollbar-hide"
     >
       <div className="flex gap-1 px-4 py-2 max-w-6xl mx-auto">
         {sections.map(section => (
