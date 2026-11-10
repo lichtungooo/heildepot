@@ -1,3 +1,4 @@
+import { KrautBilder } from './KrautBilder'
 import { ProductCard } from './ProductCard'
 import { Accordion } from './Accordion'
 import { Hash, Leaf, Utensils, Clock, ChevronRight, BookOpen, FlaskConical, HeartHandshake } from 'lucide-react'
@@ -248,6 +249,7 @@ export function SearchResults({ query, condResults, prodResults, herbResults, fa
                   {(deep?.vollname || h.lateinisch) && (
                     <p className="text-xs text-text-muted italic mb-2">{deep?.vollname || h.lateinisch} · {deep?.familie || h.familie}</p>
                   )}
+                  <KrautBilder id={h.id} name={h.name} />
   
                   {/* Tiefe Beschreibung oder kurze Anwendung */}
                   {deep?.beschreibung ? (

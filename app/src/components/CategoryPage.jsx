@@ -1,5 +1,6 @@
+import { KrautBilder } from './KrautBilder'
 import { useState, useMemo } from 'react'
-import { KATEGORIEN, bildPfad, bildSrcSet } from '../data/kategorien'
+import { KATEGORIEN, bildPfad, bildSrcSet, reihenBilder } from '../data/kategorien'
 import { ArrowLeft, Clock, Zap, Search, AlertTriangle, Heart, Sparkles, ListChecks, ChevronRight, Leaf, FlaskConical, BookOpen, Flame, Eye, Moon, Skull, Crown } from 'lucide-react'
 import { Accordion } from './Accordion'
 import {
@@ -901,6 +902,7 @@ function KrauterPage({ onSearch, onSelectCondition }) {
                   const deep = getHerbDeep(herb.name)
                   return (
                 <div className="space-y-3">
+                  <KrautBilder id={herb.id} name={herb.name} />
                   {/* Tiefe Beschreibung wenn vorhanden */}
                   {deep?.vollname && (
                     <p className="text-xs text-text-muted italic">{deep.vollname} · {deep.familie || herb.familie}</p>
@@ -1181,6 +1183,17 @@ export function CategoryPage({ category, onSearch, onBack, onSelectCondition }) 
           {kat?.text && <p className="text-white/80 mt-3 max-w-xl sm:text-lg">{kat.text}</p>}
         </div>
       </section>
+
+      {kat && reihenBilder(kat.bild).length > 0 && (
+        <div className="max-w-5xl mx-auto px-4 pt-4">
+          <div className="grid grid-cols-3 gap-2">
+            {reihenBilder(kat.bild).map((src, i) => (
+              <img key={src} src={src} alt={`${title}, Foto ${i + 1}`} width="640" height="480" loading="lazy" decoding="async"
+                className="w-full aspect-[4/3] object-cover rounded-xl bg-green-pale" />
+            ))}
+          </div>
+        </div>
+      )}
 
       <div className="max-w-5xl mx-auto px-4 pt-8">
       {/* Page content */}

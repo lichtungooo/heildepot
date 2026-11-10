@@ -8,6 +8,11 @@ const NAMEN = {
   ernaehrung: 'Ernährung', hexenwissen: 'Hexenwissen & Alchemie', sucht: 'Sucht ist heilbar', produkte: 'Aus dem Depot',
 }
 
+const name = k => {
+  const [grund, nr] = k.split(/-(?=\d$)/)
+  return (NAMEN[grund] || grund) + (nr ? `, Foto ${nr}` : '')
+}
+
 function Bildnachweis({ onClose }) {
   return (
     <div className="fixed inset-0 z-[60] bg-black/50 backdrop-blur-sm flex items-end sm:items-center justify-center p-0 sm:p-4" onClick={onClose}>
@@ -22,11 +27,11 @@ function Bildnachweis({ onClose }) {
           <h2 id="bildnachweis-titel" className="text-2xl text-green-dark">Bildnachweis</h2>
           <button onClick={onClose} className="p-1.5 rounded-full hover:bg-green-bg" aria-label="Schließen"><X size={20} /></button>
         </div>
-        <p className="text-sm text-text-light mb-5">Alle Fotografien stammen von Wikimedia Commons und stehen unter freien Lizenzen. Danke an die Fotografen.</p>
+        <p className="text-sm text-text-light mb-5">Alle Fotografien stammen von Wikimedia Commons und stehen unter freien Lizenzen. Danke an die Fotografen. Die Fotos der Kräuter nennen ihren Nachweis direkt unter dem Bild.</p>
         <ul className="space-y-4">
           {Object.entries(QUELLEN).map(([k, q]) => (
             <li key={k} className="text-sm border-t border-green-pale pt-3">
-              <p className="font-semibold text-green-dark">{NAMEN[k] || k}</p>
+              <p className="font-semibold text-green-dark">{name(k)}</p>
               <p className="text-text-medium">{q.autor || 'unbekannt'} · {q.lizenz}</p>
               <a href={q.quelle} target="_blank" rel="noopener noreferrer" className="text-green-main underline underline-offset-2 break-all text-xs">
                 {q.titel}
