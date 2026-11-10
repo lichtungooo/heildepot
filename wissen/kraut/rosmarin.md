@@ -7,6 +7,7 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Blätter"
 tags: ["rosmarin", "kreislauf", "konzentration", "durchblutung", "gedächtnis"]
 quelle: "heildepot"
+katalog_id: "rosmarin"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["durchblutungsfördernd", "konzentrationsfördernd", "kreislaufanregend", "verdauungsfördernd"]

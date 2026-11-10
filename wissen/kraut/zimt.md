@@ -7,6 +7,7 @@ familie: "Lorbeergewächse (Lauraceae)"
 pflanzenteile: "Rinde"
 tags: ["zimt", "blutzucker", "diabetes", "wärmend", "verdauung"]
 quelle: "heildepot"
+katalog_id: "zimt"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutzuckersenkend", "wärmend", "antibakteriell", "verdauungsfördernd"]

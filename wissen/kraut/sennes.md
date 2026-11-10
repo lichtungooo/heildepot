@@ -7,6 +7,7 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Blätter, Früchte"
 tags: ["sennes", "abführend", "verstopfung", "darm"]
 quelle: "heildepot"
+katalog_id: "sennes"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["abführend", "darmreinigend"]

@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Kraut"
 tags: ["mutterkraut", "migräne", "kopfschmerzen", "fieber", "frauenheilkunde"]
 quelle: "heildepot"
+katalog_id: "mutterkraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["migränelindernd", "krampflösend", "fiebersenkend", "entzündungshemmend"]

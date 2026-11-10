@@ -7,6 +7,7 @@ familie: "Hundsgiftgewächse"
 pflanzenteile: "Wurzel"
 tags: ["uzara", "durchfall", "darmkrämpfe", "kinder", "südafrika"]
 quelle: "heildepot"
+katalog_id: "uzara"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "durchfallhemmend", "beruhigend"]

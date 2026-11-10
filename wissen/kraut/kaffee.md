@@ -7,6 +7,7 @@ familie: "Rötegewächse (Rubiaceae)"
 pflanzenteile: "Bohnen (Samen)"
 tags: ["kaffee", "konzentration", "verdauung", "kopfschmerzen"]
 quelle: "heildepot"
+katalog_id: "kaffee"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["anregend", "verdauungsfördernd", "schmerzlindernd", "stimmungsaufhellend"]

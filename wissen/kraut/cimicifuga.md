@@ -7,6 +7,7 @@ familie: "Hahnenfußgewächse (Ranunculaceae)"
 pflanzenteile: "Wurzelstock"
 tags: ["traubensilberkerze", "wechseljahre", "hormone", "frauenheilkunde"]
 quelle: "heildepot"
+katalog_id: "cimicifuga"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["hormonausgleichend", "krampflösend", "entzündungshemmend", "beruhigend"]

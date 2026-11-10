@@ -7,6 +7,7 @@ familie: "Seifenbaumgewächse (Sapindaceae)"
 pflanzenteile: "Samen"
 tags: ["guarana", "energie", "konzentration", "koffein", "amazonas"]
 quelle: "heildepot"
+katalog_id: "guarana"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["anregend", "konzentrationssteigernd", "stoffwechselanregend", "stimmungsaufhellend"]

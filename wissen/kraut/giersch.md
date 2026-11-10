@@ -7,6 +7,7 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Blätter"
 tags: ["giersch", "gicht", "wildkraut", "entsäuerung", "vitamin-c"]
 quelle: "heildepot"
+katalog_id: "giersch"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entsäuernd", "entzündungshemmend", "harntreibend", "vitaminreich"]

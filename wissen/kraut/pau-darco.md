@@ -7,6 +7,7 @@ familie: "Trompetenbaumgewächse"
 pflanzenteile: "Innenrinde"
 tags: ["paudarco", "pilz", "immunsystem", "antibiotisch", "regenwald"]
 quelle: "heildepot"
+katalog_id: "pau-darco"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antimykotisch", "antibakteriell", "immunstärkend", "entzündungshemmend"]

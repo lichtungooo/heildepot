@@ -7,6 +7,7 @@ familie: "Rosengewächse"
 pflanzenteile: "Blütenblätter"
 tags: ["rose", "herz", "seele", "hautpflege", "duft"]
 quelle: "heildepot"
+katalog_id: "rose"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["herzöffnend", "entzündungshemmend", "stimmungsaufhellend", "hautpflegend"]

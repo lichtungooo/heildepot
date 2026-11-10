@@ -7,6 +7,7 @@ familie: "Birkengewächse"
 pflanzenteile: "Rinde, Blätter"
 tags: ["schwarzerle", "halsschmerzen", "zahnfleisch", "füße", "gerbstoffe"]
 quelle: "heildepot"
+katalog_id: "schwarzerle"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "entzündungshemmend", "fiebersenkend", "blutstillend"]

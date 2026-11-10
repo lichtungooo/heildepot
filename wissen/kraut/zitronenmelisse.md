@@ -7,6 +7,7 @@ familie: "Lippenblütler"
 pflanzenteile: "Blätter"
 tags: ["zitronenmelisse", "schlaf", "beruhigend", "herpes", "magen"]
 quelle: "heildepot"
+katalog_id: "zitronenmelisse"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "antiviral", "verdauungsfördernd", "krampflösend"]

@@ -7,6 +7,7 @@ familie: "Ganodermataceae"
 pflanzenteile: "Fruchtkörper"
 tags: ["reishi", "pilz", "immunsystem", "schlaf", "leber", "tcm"]
 quelle: "heildepot"
+katalog_id: "reishi"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["immunmodulierend", "beruhigend", "leberschützend", "entzündungshemmend"]

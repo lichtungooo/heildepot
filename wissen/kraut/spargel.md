@@ -7,6 +7,7 @@ familie: "Spargelgewächse (Asparagaceae)"
 pflanzenteile: "Sprossen, Wurzel"
 tags: ["spargel", "entwässerung", "frühling", "folsäure", "niere"]
 quelle: "heildepot"
+katalog_id: "spargel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["harntreibend", "entwässernd", "blutreinigend", "nährstoffreich"]

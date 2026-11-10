@@ -8,6 +8,7 @@ pflanzenteile: "Kraut (historisch)"
 schutz: "geschützt"
 tags: ["trollblume", "geschützt", "bergwiese"]
 quelle: "heildepot"
+katalog_id: "trollblume"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entzündungshemmend", "adstringierend"]

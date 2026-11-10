@@ -7,6 +7,7 @@ familie: "Sandelholzgewächse"
 pflanzenteile: "Kernholz, ätherisches Öl"
 tags: ["sandelholz", "meditation", "beruhigung", "harnwege", "aromatherapie"]
 quelle: "heildepot"
+katalog_id: "sandelholz"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "entzündungshemmend", "desinfizierend", "harntreibend"]

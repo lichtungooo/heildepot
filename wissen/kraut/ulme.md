@@ -7,6 +7,7 @@ familie: "Ulmengewächse"
 pflanzenteile: "Innenrinde"
 tags: ["ulme", "magen", "sodbrennen", "reizdarm", "schleimhaut"]
 quelle: "heildepot"
+katalog_id: "ulme"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimhautschützend", "reizlindernd", "entzündungshemmend", "wundheilend"]

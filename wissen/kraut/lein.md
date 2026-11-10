@@ -7,6 +7,7 @@ familie: "Leingewächse"
 pflanzenteile: "Samen, Öl"
 tags: ["leinsamen", "omega3", "verstopfung", "magen", "schleimhaut"]
 quelle: "heildepot"
+katalog_id: "lein"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "schleimhautschützend", "entzündungshemmend", "omega-3-reich"]

@@ -7,6 +7,7 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Wurzel"
 tags: ["süßholz", "lakritze", "husten", "magen", "sodbrennen"]
 quelle: "heildepot"
+katalog_id: "suessholz"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimhautschützend", "entzündungshemmend", "schleimlösend", "krampflösend"]

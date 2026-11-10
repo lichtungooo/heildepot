@@ -7,6 +7,7 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Wurzel"
 tags: ["mannstreu", "harnwege", "husten", "verdauung"]
 quelle: "heildepot"
+katalog_id: "mannstreu"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["harntreibend", "krampflösend", "schleimlösend", "verdauungsfördernd"]

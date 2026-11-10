@@ -7,6 +7,7 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Blätter, Zweige"
 tags: ["rooibos", "koffeinfrei", "allergie", "kinder", "südafrika"]
 quelle: "heildepot"
+katalog_id: "rooibos"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antioxidativ", "krampflösend", "antiallergisch", "beruhigend"]

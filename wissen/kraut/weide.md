@@ -7,6 +7,7 @@ familie: "Weidengewächse (Salicaceae)"
 pflanzenteile: "Rinde"
 tags: ["weide", "schmerzen", "fieber", "kopfschmerzen", "gelenke"]
 quelle: "heildepot"
+katalog_id: "weide"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schmerzlindernd", "fiebersenkend", "entzündungshemmend", "antirheumatisch"]

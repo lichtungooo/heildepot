@@ -7,6 +7,7 @@ familie: "Berberitzengewächse"
 pflanzenteile: "Wurzelstock"
 tags: ["frauenwurzel", "geburt", "menstruation", "homöopathie", "ureinwohner"]
 quelle: "heildepot"
+katalog_id: "frauenwurzel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wehenfördernd", "krampflösend", "menstruationsfördernd", "entzündungshemmend"]

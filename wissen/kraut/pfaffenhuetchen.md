@@ -7,6 +7,7 @@ familie: "Spindelbaumgewächse"
 pflanzenteile: "Früchte, Rinde (nur homöopathisch)"
 tags: ["pfaffenhütchen", "giftig", "homöopathie", "leber"]
 quelle: "heildepot"
+katalog_id: "pfaffenhuetchen"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["leberwirksam", "kreislaufanregend"]

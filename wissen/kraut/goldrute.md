@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Kraut"
 tags: ["goldrute", "niere", "blase", "harnwege", "durchspülung"]
 quelle: "heildepot"
+katalog_id: "goldrute"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["harntreibend", "entzündungshemmend", "krampflösend", "durchspülend"]

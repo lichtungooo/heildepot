@@ -7,6 +7,7 @@ familie: "Weiderichgewächse (Lythraceae)"
 pflanzenteile: "Früchte, Samen, Schale"
 tags: ["granatapfel", "herz", "antioxidativ", "östrogen", "fruchtbarkeit"]
 quelle: "heildepot"
+katalog_id: "granatapfel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antioxidativ", "entzündungshemmend", "hormonausgleichend", "herzschützend"]

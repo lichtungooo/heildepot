@@ -7,6 +7,7 @@ familie: "Myrtengewächse"
 pflanzenteile: "Früchte"
 tags: ["piment", "verdauung", "wärmend", "allgewürz", "zahnschmerzen"]
 quelle: "heildepot"
+katalog_id: "piment"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "wärmend", "schmerzlindernd", "blähungswidrig"]

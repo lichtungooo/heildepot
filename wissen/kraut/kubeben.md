@@ -7,6 +7,7 @@ familie: "Pfeffergewächse"
 pflanzenteile: "Früchte"
 tags: ["kubeben", "pfeffer", "atemwege", "harnwege", "hildegard"]
 quelle: "heildepot"
+katalog_id: "kubeben"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "antibakteriell", "harntreibend", "verdauungsfördernd"]

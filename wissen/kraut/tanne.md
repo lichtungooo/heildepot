@@ -7,6 +7,7 @@ familie: "Kieferngewächse (Pinaceae)"
 pflanzenteile: "Nadeln, junge Triebe, Harz"
 tags: ["tanne", "atemwege", "bad", "wald", "tannenhonig"]
 quelle: "heildepot"
+katalog_id: "tanne"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "durchblutungsfördernd", "antiseptisch", "beruhigend"]

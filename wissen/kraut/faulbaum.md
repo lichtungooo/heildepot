@@ -7,6 +7,7 @@ familie: "Kreuzdorngewächse (Rhamnaceae)"
 pflanzenteile: "Rinde"
 tags: ["faulbaum", "abführmittel", "verstopfung", "rinde"]
 quelle: "heildepot"
+katalog_id: "faulbaum"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["abführend", "gallefördernd", "verdauungsanregend"]

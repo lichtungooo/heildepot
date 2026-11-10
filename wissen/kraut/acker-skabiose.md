@@ -7,6 +7,7 @@ familie: "Geißblattgewächse"
 pflanzenteile: "Kraut, Blüten"
 tags: ["ackerskabiose", "haut", "ekzem", "husten", "wundheilung"]
 quelle: "heildepot"
+katalog_id: "acker-skabiose"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutreinigend", "hustenstillend", "wundheilend", "hautpflegend"]

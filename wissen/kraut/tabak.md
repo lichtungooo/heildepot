@@ -7,6 +7,7 @@ familie: "Nachtschattengewächse"
 pflanzenteile: "Blätter"
 tags: ["tabak", "nikotin", "zeremonie", "giftig", "sucht"]
 quelle: "heildepot"
+katalog_id: "tabak"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "schmerzlindernd", "insektizid", "entzündungshemmend"]

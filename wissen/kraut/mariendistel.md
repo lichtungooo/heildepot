@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Samen"
 tags: ["mariendistel", "leber", "entgiftung", "leberschutz", "silymarin"]
 quelle: "heildepot"
+katalog_id: "mariendistel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["leberschützend", "leberregenerierend", "antioxidativ", "entgiftend"]

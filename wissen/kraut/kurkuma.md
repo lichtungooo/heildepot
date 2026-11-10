@@ -7,6 +7,7 @@ familie: "Ingwergewächse (Zingiberaceae)"
 pflanzenteile: "Wurzelstock (Rhizom)"
 tags: ["kurkuma", "entzündung", "leber", "gelenke", "goldene-milch"]
 quelle: "heildepot"
+katalog_id: "kurkuma"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entzündungshemmend", "antioxidativ", "leberschützend", "verdauungsfördernd"]

@@ -7,6 +7,7 @@ familie: "Hanfgewächse (Cannabaceae)"
 pflanzenteile: "Zapfen (weibliche Blüten)"
 tags: ["hopfen", "schlaf", "beruhigend", "nerven", "verdauung"]
 quelle: "heildepot"
+katalog_id: "hopfen"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "schlaffördernd", "verdauungsfördernd", "appetitanregend"]

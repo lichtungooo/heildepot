@@ -7,6 +7,7 @@ familie: "Kreuzdorngewächse"
 pflanzenteile: "Rinde"
 tags: ["cascara", "abführmittel", "verstopfung", "rinde", "nordamerika"]
 quelle: "heildepot"
+katalog_id: "cascara"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["abführend", "gallefördernd", "verdauungsanregend"]

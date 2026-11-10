@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Blätter, Wurzel, Blüten"
 tags: ["löwenzahn", "leber", "galle", "entgiftung", "frühling"]
 quelle: "heildepot"
+katalog_id: "loewenzahn"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["leberstärkend", "gallefördernd", "harntreibend", "blutreinigend"]

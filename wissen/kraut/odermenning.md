@@ -7,6 +7,7 @@ familie: "Korbblütler"
 pflanzenteile: "Kraut"
 tags: ["benediktenkraut", "verdauung", "appetit", "bitter", "klostermedizin"]
 quelle: "heildepot"
+katalog_id: "odermenning"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "appetitanregend", "wundheilend", "gallefördernd"]

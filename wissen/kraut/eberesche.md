@@ -7,6 +7,7 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Beeren (nur gekocht)"
 tags: ["eberesche", "vitaminC", "marmelade", "herbst"]
 quelle: "heildepot"
+katalog_id: "eberesche"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["vitaminreich", "verdauungsfördernd", "adstringierend", "harntreibend"]

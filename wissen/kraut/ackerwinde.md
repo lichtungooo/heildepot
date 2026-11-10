@@ -7,6 +7,7 @@ familie: "Windengewächse (Convolvulaceae)"
 pflanzenteile: "Kraut, Blüten"
 tags: ["ackerwinde", "verstopfung", "fieber", "wundheilung"]
 quelle: "heildepot"
+katalog_id: "ackerwinde"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["abführend", "fiebersenkend", "harntreibend", "wundheilend"]

@@ -7,6 +7,7 @@ familie: "Ölbaumgewächse"
 pflanzenteile: "Blätter, Früchte (Öl)"
 tags: ["olive", "blutdruck", "herz", "antioxidantien", "mittelmeer"]
 quelle: "heildepot"
+katalog_id: "olive"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutdrucksenkend", "antibakteriell", "antioxidativ", "blutzuckerregulierend"]

@@ -7,6 +7,7 @@ familie: "Orchideen (Orchidaceae)"
 pflanzenteile: "Fruchtschoten"
 tags: ["vanille", "beruhigend", "stimmung", "duft", "orchidee"]
 quelle: "heildepot"
+katalog_id: "vanille"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "stimmungsaufhellend", "entzündungshemmend", "antioxidativ"]

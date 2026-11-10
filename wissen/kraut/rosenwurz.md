@@ -7,6 +7,7 @@ familie: "Dickblattgewächse (Crassulaceae)"
 pflanzenteile: "Wurzel"
 tags: ["rosenwurz", "adaptogen", "stress", "leistung", "stimmung"]
 quelle: "heildepot"
+katalog_id: "rosenwurz"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adaptogen", "stresslindernd", "leistungssteigernd", "stimmungsaufhellend"]

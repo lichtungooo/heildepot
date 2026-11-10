@@ -7,6 +7,7 @@ familie: "Kreuzblütler (Brassicaceae)"
 pflanzenteile: "Wurzel"
 tags: ["meerrettich", "antibiotisch", "bronchitis", "harnwege", "immunsystem"]
 quelle: "heildepot"
+katalog_id: "meerrettich"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antibakteriell", "schleimlösend", "durchblutungsfördernd", "immunstärkend"]

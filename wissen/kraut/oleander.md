@@ -7,6 +7,7 @@ familie: "Hundsgiftgewächse (Apocynaceae)"
 pflanzenteile: "Blätter (nur homöopathisch)"
 tags: ["oleander", "giftig", "herz", "homöopathie"]
 quelle: "heildepot"
+katalog_id: "oleander"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["herzstärkend"]

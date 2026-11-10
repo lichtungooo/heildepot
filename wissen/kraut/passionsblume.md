@@ -7,6 +7,7 @@ familie: "Passionsblumengewächse (Passifloraceae)"
 pflanzenteile: "Kraut"
 tags: ["passionsblume", "angst", "schlaf", "beruhigend", "nerven"]
 quelle: "heildepot"
+katalog_id: "passionsblume"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "angstlösend", "schlaffördernd", "krampflösend"]

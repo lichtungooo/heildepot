@@ -124,6 +124,8 @@ export function dokumentKraut(h, tief, ziel, { fotos = [], kategorie = {} } = {}
   const kopf = {
     art: 'kraut', id: h.id, name: h.name, latein: h.lateinisch, familie: tief?.familie ?? h.familie,
     pflanzenteile: h.pflanzenteile, schutz: schutz ? 'geschützt' : undefined, tags: stichworte(h.tags), quelle: 'heildepot',
+    // Die Id im Katalog (101.R48): Angebote im Marktplatz tragen sie in `katalog.id`.
+    katalog_id: h.id,
     ...kategorieKopf(kategorie), wirkung,
     bild: bilder[0] ? `${BASIS}bilder/kraut/${bilder[0].datei}` : undefined,
     bild_nachweis: bilder[0] ? `${bilder[0].autor}, ${bilder[0].lizenz}` : undefined,

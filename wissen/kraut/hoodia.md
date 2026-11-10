@@ -7,6 +7,7 @@ familie: "Seidenpflanzengewächse"
 pflanzenteile: "Stängel"
 tags: ["hoodia", "abnehmen", "appetit", "kalahari", "san"]
 quelle: "heildepot"
+katalog_id: "hoodia"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["appetithemmend", "durstlöschend"]

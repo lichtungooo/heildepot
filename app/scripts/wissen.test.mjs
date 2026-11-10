@@ -90,6 +90,11 @@ test('119f ein Kraut trägt seine Wirkungen als Liste, eine Wirkung mit Komma bl
   assert.match(alleDokumente(mehr()).get('kraut/baldrian.md'), /^wirkung: \["beruhigend"\]$/m)
 })
 
+test('119f ein Kraut nennt seine Id im Katalog, damit die App seine Angebote findet', () => {
+  assert.match(alleDokumente(mehr()).get('kraut/baldrian.md'), /^katalog_id: "baldrian"$/m)
+  assert.doesNotMatch(alleDokumente(mehr()).get('beschwerde/schlaf.md'), /^katalog_id:/m)
+})
+
 test('119f jedes Foto steht mit Autor, Lizenz und Quelle, eines ohne Lizenz fehlt', () => {
   const b = alleDokumente(mehr()).get('kraut/baldrian.md')
   assert.match(b, /^bild: "https:\/\/heildepot\.wir\.ooo\/bilder\/kraut\/baldrian-1\.webp"$/m)

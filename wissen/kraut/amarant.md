@@ -7,6 +7,7 @@ familie: "Fuchsschwanzgewächse (Amaranthaceae)"
 pflanzenteile: "Samen, Blätter"
 tags: ["amarant", "eisen", "glutenfrei", "superfood", "protein"]
 quelle: "heildepot"
+katalog_id: "amarant"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["nährstoffreich", "blutstillend", "adstringierend", "stärkend"]

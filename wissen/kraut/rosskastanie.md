@@ -7,6 +7,7 @@ familie: "Seifenbaumgewächse (Sapindaceae)"
 pflanzenteile: "Samen, Rinde"
 tags: ["rosskastanie", "venen", "krampfadern", "beine", "gefäße"]
 quelle: "heildepot"
+katalog_id: "rosskastanie"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["gefäßstärkend", "abschwellend", "entzündungshemmend", "durchblutungsfördernd"]

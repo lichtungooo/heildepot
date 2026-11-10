@@ -7,6 +7,7 @@ familie: "Raublattgewächse (Boraginaceae)"
 pflanzenteile: "Blüten, Kraut, Samen"
 tags: ["borretsch", "stimmung", "haut", "frauenheilkunde"]
 quelle: "heildepot"
+katalog_id: "boretsch"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["stimmungsaufhellend", "schweißtreibend", "entzündungshemmend", "hormonausgleichend"]

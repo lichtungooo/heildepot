@@ -7,6 +7,7 @@ familie: "Phyllanthusgewächse (Phyllanthaceae)"
 pflanzenteile: "Früchte"
 tags: ["amla", "vitaminC", "ayurveda", "verjüngung", "immunsystem"]
 quelle: "heildepot"
+katalog_id: "amla"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antioxidativ", "immunstärkend", "verjüngend", "verdauungsfördernd"]

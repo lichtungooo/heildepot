@@ -7,6 +7,7 @@ familie: "Weidengewächse (Salicaceae)"
 pflanzenteile: "Knospen, Rinde"
 tags: ["pappel", "knospen", "schmerzen", "salbe", "hämorrhoiden"]
 quelle: "heildepot"
+katalog_id: "pappel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schmerzlindernd", "entzündungshemmend", "fiebersenkend", "wundheilend"]

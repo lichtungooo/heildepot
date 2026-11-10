@@ -8,6 +8,7 @@ pflanzenteile: "Wurzelstock (nur aus Anbau)"
 schutz: "geschützt"
 tags: ["seerose", "beruhigung", "schlaf", "geschützt"]
 quelle: "heildepot"
+katalog_id: "seerose"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "schmerzlindernd", "adstringierend", "entzündungshemmend"]

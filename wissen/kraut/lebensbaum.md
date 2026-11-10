@@ -7,6 +7,7 @@ familie: "Zypressengewächse"
 pflanzenteile: "Zweigspitzen (nur äußerlich oder homöopathisch)"
 tags: ["lebensbaum", "thuja", "warzen", "homöopathie", "immunsystem"]
 quelle: "heildepot"
+katalog_id: "lebensbaum"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["immunstärkend", "antiviral", "hautpflegend"]

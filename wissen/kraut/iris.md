@@ -7,6 +7,7 @@ familie: "Schwertliliengewächse"
 pflanzenteile: "Wurzelstock (Rhizom)"
 tags: ["iris", "zahnung", "husten", "veilchenwurzel"]
 quelle: "heildepot"
+katalog_id: "iris"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "harntreibend", "schmerzlindernd", "blutreinigend"]

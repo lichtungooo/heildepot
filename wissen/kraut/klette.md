@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Wurzel, Blätter"
 tags: ["klette", "haut", "akne", "haare", "leber"]
 quelle: "heildepot"
+katalog_id: "klette"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutreinigend", "hautpflegend", "leberstärkend", "harntreibend"]

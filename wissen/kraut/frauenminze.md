@@ -7,6 +7,7 @@ familie: "Korbblütler"
 pflanzenteile: "Blätter"
 tags: ["frauenminze", "bibelblatt", "klostergarten", "verdauung", "menstruation"]
 quelle: "heildepot"
+katalog_id: "frauenminze"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "krampflösend", "wurmtreibend", "menstruationsfördernd"]

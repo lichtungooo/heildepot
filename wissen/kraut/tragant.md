@@ -7,6 +7,7 @@ familie: "Hülsenfrüchtler"
 pflanzenteile: "Wurzel"
 tags: ["tragant", "astragalus", "immunsystem", "tcm", "adaptogen"]
 quelle: "heildepot"
+katalog_id: "tragant"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["immunstärkend", "adaptogen", "herzstärkend", "antiviral"]

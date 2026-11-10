@@ -7,6 +7,7 @@ familie: "Lauchgewächse (Alliaceae)"
 pflanzenteile: "Blätter"
 tags: ["bärlauch", "entgiftung", "blutdruck", "frühling", "darm"]
 quelle: "heildepot"
+katalog_id: "baerlauch"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entgiftend", "blutdrucksenkend", "antibakteriell", "durchblutungsfördernd"]

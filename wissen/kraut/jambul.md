@@ -7,6 +7,7 @@ familie: "Myrtengewächse"
 pflanzenteile: "Samen, Rinde, Früchte"
 tags: ["jambul", "diabetes", "blutzucker", "ayurveda", "durchfall"]
 quelle: "heildepot"
+katalog_id: "jambul"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutzuckersenkend", "adstringierend", "entzündungshemmend", "antibakteriell"]

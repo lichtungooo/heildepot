@@ -7,6 +7,7 @@ familie: "Kürbisgewächse (Cucurbitaceae)"
 pflanzenteile: "Kerne, Fruchtfleisch"
 tags: ["kürbis", "prostata", "blase", "kerne", "zink"]
 quelle: "heildepot"
+katalog_id: "kuerbis"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["prostatastärkend", "harntreibend", "wurmtreibend", "entzündungshemmend"]

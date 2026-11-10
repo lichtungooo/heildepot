@@ -7,6 +7,7 @@ familie: "Sesamgewächse"
 pflanzenteile: "Sekundäre Speicherwurzeln"
 tags: ["teufelsklaue", "teufelskralle", "gelenke", "arthrose", "rücken"]
 quelle: "heildepot"
+katalog_id: "teufelsklaue"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entzündungshemmend", "schmerzlindernd", "verdauungsfördernd", "appetitanregend"]

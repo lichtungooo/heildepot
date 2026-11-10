@@ -7,6 +7,7 @@ familie: "Portulakgewächse (Portulacaceae)"
 pflanzenteile: "Kraut, Blätter"
 tags: ["portulak", "omega3", "salat", "superfood", "entzündung"]
 quelle: "heildepot"
+katalog_id: "portulak"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["omega-3-reich", "entzündungshemmend", "harntreibend", "vitaminreich"]

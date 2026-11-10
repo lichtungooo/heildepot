@@ -7,6 +7,7 @@ familie: "Süßgräser"
 pflanzenteile: "Maishaare (Narben)"
 tags: ["mais", "maisbart", "blase", "niere", "harnwege"]
 quelle: "heildepot"
+katalog_id: "mais"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["harntreibend", "entzündungshemmend", "blutzuckerregulierend", "krampflösend"]

@@ -7,6 +7,7 @@ familie: "Sternanisgewächse"
 pflanzenteile: "Beeren"
 tags: ["schisandra", "adaptogen", "leber", "tcm", "fünfgeschmäcker"]
 quelle: "heildepot"
+katalog_id: "schisandra"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adaptogen", "leberschützend", "konzentrationssteigernd", "ausdauerstärkend"]

@@ -7,6 +7,7 @@ familie: "Hülsenfrüchtler"
 pflanzenteile: "Kraut"
 tags: ["honigklee", "venen", "krampfadern", "lymphe", "beine"]
 quelle: "heildepot"
+katalog_id: "honigklee"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["venenstärkend", "entzündungshemmend", "krampflösend", "lymphanregend"]

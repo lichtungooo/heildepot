@@ -7,6 +7,7 @@ familie: "Rosengewächse"
 pflanzenteile: "Kraut"
 tags: ["gänsefingerkraut", "krämpfe", "menstruation", "durchfall", "magen"]
 quelle: "heildepot"
+katalog_id: "gaensefingerkraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "adstringierend", "schmerzlindernd", "entzündungshemmend"]

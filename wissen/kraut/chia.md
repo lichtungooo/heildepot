@@ -7,6 +7,7 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Samen"
 tags: ["chia", "omega3", "superfood", "verdauung", "maya"]
 quelle: "heildepot"
+katalog_id: "chia"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["nährstoffreich", "verdauungsfördernd", "blutzuckerregulierend", "omega-3-reich"]

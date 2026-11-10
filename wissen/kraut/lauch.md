@@ -7,6 +7,7 @@ familie: "Amaryllisgewächse"
 pflanzenteile: "Stange, Blätter"
 tags: ["lauch", "halsschmerzen", "ohr", "darm", "wickel"]
 quelle: "heildepot"
+katalog_id: "lauch"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "harntreibend", "antibakteriell", "verdauungsfördernd"]

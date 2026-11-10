@@ -7,6 +7,7 @@ familie: "Nachtkerzengewächse"
 pflanzenteile: "Kraut"
 tags: ["hexenkraut", "wundheilung", "haut", "magie", "schutzkraut"]
 quelle: "heildepot"
+katalog_id: "grosses-hexenkraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wundheilend", "adstringierend", "entzündungshemmend"]

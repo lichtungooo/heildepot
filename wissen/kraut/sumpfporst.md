@@ -7,6 +7,7 @@ familie: "Heidekrautgewächse"
 pflanzenteile: "Kraut (nur homöopathisch)"
 tags: ["sumpfporst", "giftig", "moor", "biergeschichte", "homöopathie"]
 quelle: "heildepot"
+katalog_id: "sumpfporst"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "schweißtreibend", "berauschend", "insektenabwehrend"]

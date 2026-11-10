@@ -7,6 +7,7 @@ familie: "Balsaminengewächse"
 pflanzenteile: "Kraut, Samen, Blüten"
 tags: ["balsamine", "insektenstiche", "haut", "juckreiz", "tcm"]
 quelle: "heildepot"
+katalog_id: "balsamine"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wundheilend", "entzündungshemmend", "juckreizstillend", "schmerzlindernd"]

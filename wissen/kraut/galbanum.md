@@ -7,6 +7,7 @@ familie: "Doldenblütler"
 pflanzenteile: "Harz"
 tags: ["galbanum", "harz", "atemwege", "wundheilung", "räucherung"]
 quelle: "heildepot"
+katalog_id: "galbanum"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "schleimlösend", "entzündungshemmend", "wundheilend"]

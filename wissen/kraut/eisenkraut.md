@@ -7,6 +7,7 @@ familie: "Eisenkrautgewächse (Verbenaceae)"
 pflanzenteile: "Kraut"
 tags: ["eisenkraut", "fieber", "nerven", "leber", "kelten"]
 quelle: "heildepot"
+katalog_id: "eisenkraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["fiebersenkend", "nervenberuhigend", "leberstärkend", "schleimlösend"]

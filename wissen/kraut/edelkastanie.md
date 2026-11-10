@@ -7,6 +7,7 @@ familie: "Buchengewächse (Fagaceae)"
 pflanzenteile: "Blätter, Früchte"
 tags: ["edelkastanie", "husten", "bachblüten", "basisch", "maroni"]
 quelle: "heildepot"
+katalog_id: "edelkastanie"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "adstringierend", "stärkend", "beruhigend"]

@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Knollen"
 tags: ["topinambur", "inulin", "darm", "blutzucker", "präbiotisch"]
 quelle: "heildepot"
+katalog_id: "topinambur"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["präbiotisch", "blutzuckerregulierend", "verdauungsfördernd", "sättigend"]

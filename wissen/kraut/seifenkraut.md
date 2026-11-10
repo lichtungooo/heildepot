@@ -7,6 +7,7 @@ familie: "Nelkengewächse (Caryophyllaceae)"
 pflanzenteile: "Wurzel, Kraut"
 tags: ["seifenkraut", "husten", "saponine", "haut", "natürlich"]
 quelle: "heildepot"
+katalog_id: "seifenkraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "harntreibend", "hautpflegend", "expektorierend"]

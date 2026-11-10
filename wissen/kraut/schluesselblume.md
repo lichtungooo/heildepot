@@ -7,6 +7,7 @@ familie: "Primelgewächse (Primulaceae)"
 pflanzenteile: "Blüten, Wurzel"
 tags: ["schlüsselblume", "husten", "nasennebenhöhlen", "schleimlösend", "frühling"]
 quelle: "heildepot"
+katalog_id: "schluesselblume"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "auswurffördernd", "krampflösend", "beruhigend"]

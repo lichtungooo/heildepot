@@ -7,6 +7,7 @@ familie: "Myrtengewächse (Myrtaceae)"
 pflanzenteile: "Blätter, Zweige (ätherisches Öl)"
 tags: ["cajeput", "atemwege", "inhalieren", "muskeln", "erkältung"]
 quelle: "heildepot"
+katalog_id: "cajeput"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "schmerzlindernd", "antiseptisch", "durchblutungsfördernd"]

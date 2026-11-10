@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Kraut, Blüten"
 tags: ["schafgarbe", "verdauung", "leber", "frauenheilkunde", "krämpfe"]
 quelle: "heildepot"
+katalog_id: "schafgarbe"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "verdauungsfördernd", "entzündungshemmend", "blutstillend"]

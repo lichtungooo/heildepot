@@ -7,6 +7,7 @@ familie: "Pfeilwurzgewächse"
 pflanzenteile: "Wurzelknollen, Stärkemehl"
 tags: ["pfeilwurz", "magen", "schonkost", "durchfall", "stärke"]
 quelle: "heildepot"
+katalog_id: "pfeilwurz"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["magenberuhigend", "nährend", "reizlindernd", "stärkend"]

@@ -7,6 +7,7 @@ familie: "Mohngewächse (Papaveraceae)"
 pflanzenteile: "Blütenblätter"
 tags: ["klatschmohn", "husten", "schlaf", "kinder", "beruhigend"]
 quelle: "heildepot"
+katalog_id: "klatschmohn"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "schleimlösend", "schmerzlindernd", "schlaffördernd"]

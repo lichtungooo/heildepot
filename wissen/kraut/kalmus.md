@@ -7,6 +7,7 @@ familie: "Kalmusgewächse (Acoraceae)"
 pflanzenteile: "Wurzelstock"
 tags: ["kalmus", "magen", "appetit", "verdauung", "ayurveda"]
 quelle: "heildepot"
+katalog_id: "kalmus"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "appetitanregend", "krampflösend", "magenstärkend"]

@@ -7,6 +7,7 @@ familie: "Bittereschengewächse"
 pflanzenteile: "Rinde"
 tags: ["simarouba", "fieber", "durchfall", "bitter", "tropisch"]
 quelle: "heildepot"
+katalog_id: "simarouba"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["fiebersenkend", "tonisierend", "verdauungsfördernd", "antiparasitär"]

@@ -7,6 +7,7 @@ familie: "Kreuzblütler (Brassicaceae)"
 pflanzenteile: "Samen (Öl)"
 tags: ["raps", "omega3", "speiseöl", "hautpflege"]
 quelle: "heildepot"
+katalog_id: "raps"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["omega-3-reich", "entzündungshemmend", "hautpflegend"]

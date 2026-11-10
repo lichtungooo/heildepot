@@ -7,6 +7,7 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Samen"
 tags: ["lupine", "protein", "regional", "blutzucker", "cholesterin"]
 quelle: "heildepot"
+katalog_id: "lupine"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["proteinreich", "blutzuckerregulierend", "cholesterinsenkend"]

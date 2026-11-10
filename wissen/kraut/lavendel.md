@@ -7,6 +7,7 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Blüten"
 tags: ["lavendel", "schlaf", "beruhigend", "angst", "duft"]
 quelle: "heildepot"
+katalog_id: "lavendel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "schlaffördernd", "angstlösend", "antibakteriell"]

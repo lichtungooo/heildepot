@@ -7,6 +7,7 @@ familie: "Kreuzblümchengewächse"
 pflanzenteile: "Wurzel"
 tags: ["senega", "schleimlösend", "bronchitis", "husten"]
 quelle: "heildepot"
+katalog_id: "senega"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "auswurffördernd", "entzündungshemmend", "schweißtreibend"]

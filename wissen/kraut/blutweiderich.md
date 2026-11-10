@@ -7,6 +7,7 @@ familie: "Weiderichgewächse (Lythraceae)"
 pflanzenteile: "Kraut, Blüten"
 tags: ["blutweiderich", "durchfall", "blutstillend", "ekzem", "wildpflanze"]
 quelle: "heildepot"
+katalog_id: "blutweiderich"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "blutstillend", "antibakteriell", "entzündungshemmend"]

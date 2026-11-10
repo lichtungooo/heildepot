@@ -7,6 +7,7 @@ familie: "Süßgräser (Poaceae)"
 pflanzenteile: "Kraut (grüner Hafer), Korn, Stroh"
 tags: ["hafer", "nerven", "haut", "schlaf", "cholesterin"]
 quelle: "heildepot"
+katalog_id: "hafer"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["nervenstärkend", "beruhigend", "hautpflegend", "cholesterinsenkend"]

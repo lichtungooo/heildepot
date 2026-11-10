@@ -7,6 +7,7 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut"
 tags: ["edelgamander", "verdauung", "gicht", "vorsicht", "volksmedizin"]
 quelle: "heildepot"
+katalog_id: "edelgamander"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "gallefördernd", "appetitanregend", "entzündungshemmend"]

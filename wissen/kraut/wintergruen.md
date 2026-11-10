@@ -7,6 +7,7 @@ familie: "Heidekrautgewächse (Ericaceae)"
 pflanzenteile: "Blätter (ätherisches Öl)"
 tags: ["wintergrün", "schmerzen", "muskeln", "gelenke", "salicylat"]
 quelle: "heildepot"
+katalog_id: "wintergruen"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schmerzlindernd", "entzündungshemmend", "durchblutungsfördernd", "wärmend"]

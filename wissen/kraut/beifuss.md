@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Kraut, Blüten"
 tags: ["beifuß", "verdauung", "frauenheilkunde", "wärmend", "magen"]
 quelle: "heildepot"
+katalog_id: "beifuss"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "wärmend", "durchblutungsfördernd", "menstruationsfördernd"]

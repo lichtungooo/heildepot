@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Blüten"
 tags: ["ringelblume", "haut", "wundheilung", "salbe", "calendula"]
 quelle: "heildepot"
+katalog_id: "ringelblume"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wundheilend", "entzündungshemmend", "hautpflegend", "antibakteriell"]

@@ -7,6 +7,7 @@ familie: "Korbblütler"
 pflanzenteile: "Wurzel"
 tags: ["bertram", "hildegard", "verdauung", "stärkung", "gewürz"]
 quelle: "heildepot"
+katalog_id: "bertram"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "stärkend", "speichelfördernd", "wärmend"]

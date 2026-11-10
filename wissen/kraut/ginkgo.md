@@ -7,6 +7,7 @@ familie: "Ginkgogewächse (Ginkgoaceae)"
 pflanzenteile: "Blätter"
 tags: ["ginkgo", "gehirn", "konzentration", "durchblutung", "alter"]
 quelle: "heildepot"
+katalog_id: "ginkgo"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["durchblutungsfördernd", "gedächtnisfördernd", "antioxidativ", "neuroprotektiv"]

@@ -7,6 +7,7 @@ familie: "Grasbaumgewächse"
 pflanzenteile: "Blattgel"
 tags: ["aloe", "haut", "wundheilung", "verdauung", "sonnenbrand"]
 quelle: "heildepot"
+katalog_id: "aloe"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wundheilend", "kühlend", "feuchtigkeitsspendend", "entzündungshemmend"]

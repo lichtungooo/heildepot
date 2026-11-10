@@ -7,6 +7,7 @@ familie: "Nachtschattengewächse"
 pflanzenteile: "Knolle"
 tags: ["kartoffel", "magen", "sodbrennen", "wickel", "husten"]
 quelle: "heildepot"
+katalog_id: "kartoffel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entzündungshemmend", "schmerzlindernd", "kühlend", "magenschützend"]

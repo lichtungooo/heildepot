@@ -7,6 +7,7 @@ familie: "Malvengewächse (Malvaceae)"
 pflanzenteile: "Kelchblätter"
 tags: ["hibiskus", "blutdruck", "vitamin-c", "erfrischend", "antioxidantien"]
 quelle: "heildepot"
+katalog_id: "hibiskus"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutdrucksenkend", "antioxidativ", "kühlend", "durstlöschend"]

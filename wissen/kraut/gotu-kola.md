@@ -7,6 +7,7 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Blätter"
 tags: ["gotukola", "gehirn", "venen", "wundheilung", "ayurveda"]
 quelle: "heildepot"
+katalog_id: "gotu-kola"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wundheilend", "gefäßstärkend", "gedächtnisfördernd", "beruhigend"]

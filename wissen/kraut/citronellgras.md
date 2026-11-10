@@ -7,6 +7,7 @@ familie: "Süßgräser"
 pflanzenteile: "Blätter, ätherisches Öl"
 tags: ["citronellgras", "mückenschutz", "aromatherapie", "zitronig", "insekten"]
 quelle: "heildepot"
+katalog_id: "citronellgras"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["insektenabweisend", "beruhigend", "fiebersenkend", "antiseptisch"]

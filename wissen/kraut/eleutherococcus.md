@@ -7,6 +7,7 @@ familie: "Araliengewächse (Araliaceae)"
 pflanzenteile: "Wurzel"
 tags: ["taigawurzel", "adaptogen", "leistung", "immunsystem", "stress"]
 quelle: "heildepot"
+katalog_id: "eleutherococcus"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adaptogen", "leistungssteigernd", "immunstärkend", "stressmindernd"]

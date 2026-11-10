@@ -7,6 +7,7 @@ familie: "Zypressengewächse"
 pflanzenteile: "Zweigspitzen (obsolet, giftig)"
 tags: ["sadebaum", "giftig", "historisch", "gefährlich"]
 quelle: "heildepot"
+katalog_id: "sadebaum"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["menstruationsfördernd", "hautreizend", "wurmmittel"]

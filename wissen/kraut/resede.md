@@ -7,6 +7,7 @@ familie: "Resedagewächse"
 pflanzenteile: "Kraut, Blüten"
 tags: ["resede", "beruhigung", "erkältung", "färberpflanze"]
 quelle: "heildepot"
+katalog_id: "resede"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schweißtreibend", "beruhigend", "harntreibend"]

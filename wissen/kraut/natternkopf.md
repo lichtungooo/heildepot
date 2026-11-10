@@ -7,6 +7,7 @@ familie: "Raublattgewächse (Boraginaceae)"
 pflanzenteile: "Kraut, Blüten"
 tags: ["natternkopf", "fieber", "husten", "bienenweide"]
 quelle: "heildepot"
+katalog_id: "natternkopf"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schweißtreibend", "harntreibend", "schleimlösend", "beruhigend"]

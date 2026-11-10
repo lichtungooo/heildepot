@@ -7,6 +7,7 @@ familie: "Schachtelhalmgewächse"
 pflanzenteile: "Kraut"
 tags: ["schachtelhalm", "zinnkraut", "bindegewebe", "blase", "kieselsäure"]
 quelle: "heildepot"
+katalog_id: "ackerschachtelhalm"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["bindegewebsstärkend", "harntreibend", "entzündungshemmend", "kieselsäurereich"]

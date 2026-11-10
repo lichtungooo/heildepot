@@ -7,6 +7,7 @@ familie: "Storaxgewächse"
 pflanzenteile: "Harz"
 tags: ["benzoe", "räucherwerk", "harz", "atemwege", "haut"]
 quelle: "heildepot"
+katalog_id: "benzoe"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "antiseptisch", "wundheilend", "beruhigend"]

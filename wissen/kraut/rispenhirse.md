@@ -7,6 +7,7 @@ familie: "Süßgräser"
 pflanzenteile: "Körner"
 tags: ["rispenhirse", "hirse", "haare", "nägel", "glutenfrei", "kieselsäure"]
 quelle: "heildepot"
+katalog_id: "rispenhirse"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["nährstoffreich", "stärkend", "hautpflegend", "haarwuchsfördernd"]

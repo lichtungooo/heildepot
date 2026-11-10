@@ -7,6 +7,7 @@ familie: "Kaperngewächse"
 pflanzenteile: "Blütenknospen, Rinde, Wurzel"
 tags: ["kapernstrauch", "verdauung", "rheuma", "mittelmeer", "antioxidativ"]
 quelle: "heildepot"
+katalog_id: "kapernstrauch"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["appetitanregend", "verdauungsfördernd", "entzündungshemmend", "antioxidativ"]

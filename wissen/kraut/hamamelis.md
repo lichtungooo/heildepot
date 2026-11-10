@@ -7,6 +7,7 @@ familie: "Zaubernussgewächse"
 pflanzenteile: "Blätter, Rinde"
 tags: ["hamamelis", "haut", "hämorrhoiden", "krampfadern", "wundheilung"]
 quelle: "heildepot"
+katalog_id: "hamamelis"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "entzündungshemmend", "blutstillend", "juckreizlindernd"]

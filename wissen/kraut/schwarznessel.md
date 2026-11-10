@@ -7,6 +7,7 @@ familie: "Lippenblütler"
 pflanzenteile: "Kraut"
 tags: ["schwarznessel", "übelkeit", "magen", "beruhigend"]
 quelle: "heildepot"
+katalog_id: "schwarznessel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "krampflösend", "verdauungsfördernd", "übelkeitshemmend"]

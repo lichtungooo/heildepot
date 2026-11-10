@@ -7,6 +7,7 @@ familie: "Clusiaceae"
 pflanzenteile: "Fruchtschale"
 tags: ["garcinia", "abnehmen", "stoffwechsel", "appetit", "diät"]
 quelle: "heildepot"
+katalog_id: "garcinia"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["appetithemmend", "stoffwechselanregend", "fettverbrennend"]

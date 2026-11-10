@@ -7,6 +7,7 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Wurzel"
 tags: ["nelkenwurz", "durchfall", "zahnfleisch", "gerbstoffe"]
 quelle: "heildepot"
+katalog_id: "nelkenwurz"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "entzündungshemmend", "verdauungsfördernd", "fiebersenkend"]

@@ -7,6 +7,7 @@ familie: "Primelgewächse"
 pflanzenteile: "Kraut"
 tags: ["ackergauchheil", "stimmung", "atemwege", "volksmedizin"]
 quelle: "heildepot"
+katalog_id: "ackergauchheil"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["stimmungsaufhellend", "schleimlösend", "schweißtreibend", "harntreibend"]

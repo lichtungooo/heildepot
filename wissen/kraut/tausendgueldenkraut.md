@@ -7,6 +7,7 @@ familie: "Enziangewächse (Gentianaceae)"
 pflanzenteile: "Kraut"
 tags: ["tausendgüldenkraut", "bitter", "magen", "verdauung", "appetit"]
 quelle: "heildepot"
+katalog_id: "tausendgueldenkraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "appetitanregend", "magenstärkend", "fiebersenkend"]

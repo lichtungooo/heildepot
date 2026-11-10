@@ -7,6 +7,7 @@ familie: "Veilchengewächse (Violaceae)"
 pflanzenteile: "Kraut"
 tags: ["stiefmütterchen", "haut", "kinder", "milchschorf", "blutreinigung"]
 quelle: "heildepot"
+katalog_id: "stiefmuetterchen"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["hautpflegend", "blutreinigend", "entzündungshemmend", "schleimlösend"]

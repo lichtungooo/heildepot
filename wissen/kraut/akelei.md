@@ -7,6 +7,7 @@ familie: "Hahnenfußgewächse (Ranunculaceae)"
 pflanzenteile: "Kraut"
 tags: ["akelei", "leber", "beruhigend", "hildegard"]
 quelle: "heildepot"
+katalog_id: "akelei"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "leberstärkend", "blutreinigend"]

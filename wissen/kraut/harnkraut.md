@@ -7,6 +7,7 @@ familie: "Nelkengewächse"
 pflanzenteile: "Kraut"
 tags: ["harnkraut", "blase", "niere", "harnwege", "nierensteine"]
 quelle: "heildepot"
+katalog_id: "harnkraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["harntreibend", "krampflösend", "entzündungshemmend"]

@@ -7,6 +7,7 @@ familie: "Dickblattgewächse (Crassulaceae)"
 pflanzenteile: "Kraut"
 tags: ["mauerpfeffer", "warzen", "hühneraugen", "wundheilung"]
 quelle: "heildepot"
+katalog_id: "mauerpfeffer"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutdrucksenkend", "wundheilend", "schmerzlindernd"]

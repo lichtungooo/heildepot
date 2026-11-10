@@ -7,6 +7,7 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut"
 tags: ["wolfstrapp", "schilddrüse", "herzrasen", "beruhigend"]
 quelle: "heildepot"
+katalog_id: "wolfstrapp"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schilddrüsenregulierend", "beruhigend", "herzberuhigend", "schweißhemmend"]

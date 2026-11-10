@@ -7,6 +7,7 @@ familie: "Hahnenfußgewächse (Ranunculaceae)"
 pflanzenteile: "Rinde, Beeren"
 tags: ["gelbholz", "durchblutung", "rheuma", "zahnschmerzen", "wärmend"]
 quelle: "heildepot"
+katalog_id: "gelbholz"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["durchblutungsfördernd", "verdauungsanregend", "schmerzlindernd", "wärmend"]

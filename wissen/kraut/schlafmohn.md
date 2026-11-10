@@ -7,6 +7,7 @@ familie: "Mohngewächse (Papaveraceae)"
 pflanzenteile: "Milchsaft, Samen (nur Samen für die Küche)"
 tags: ["schlafmohn", "opium", "morphin", "schmerz", "betäubungsmittel"]
 quelle: "heildepot"
+katalog_id: "schlafmohn"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schmerzlindernd", "schlaffördernd", "hustenstillend", "krampflösend"]

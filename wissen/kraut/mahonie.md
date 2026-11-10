@@ -7,6 +7,7 @@ familie: "Berberitzengewächse (Berberidaceae)"
 pflanzenteile: "Wurzelrinde"
 tags: ["mahonie", "psoriasis", "haut", "berberin", "schuppenflechte"]
 quelle: "heildepot"
+katalog_id: "mahonie"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["hautpflegend", "entzündungshemmend", "leberstärkend", "antibakteriell"]

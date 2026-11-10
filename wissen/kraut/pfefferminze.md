@@ -7,6 +7,7 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Blätter"
 tags: ["pfefferminze", "verdauung", "kopfschmerzen", "kühlend", "magen"]
 quelle: "heildepot"
+katalog_id: "pfefferminze"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "kühlend", "verdauungsfördernd", "schmerzlindernd"]

@@ -7,6 +7,7 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Fruchtstiele, Früchte"
 tags: ["kirsche", "gicht", "harntreibend", "niere"]
 quelle: "heildepot"
+katalog_id: "kirschbaum"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["harntreibend", "entzündungshemmend", "vitaminreich", "gichtlindernd"]

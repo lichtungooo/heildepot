@@ -8,6 +8,7 @@ pflanzenteile: "Kraut (nur als Fertigpräparat)"
 schutz: "geschützt"
 tags: ["adonisröschen", "herz", "herzstärkend", "giftig"]
 quelle: "heildepot"
+katalog_id: "adonisroeschen"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["herzstärkend", "beruhigend", "harntreibend"]

@@ -7,6 +7,7 @@ familie: "Eisenkrautgewächse"
 pflanzenteile: "Blätter"
 tags: ["zitronenverbene", "verdauung", "beruhigend", "stimmung", "duft"]
 quelle: "heildepot"
+katalog_id: "verbena"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "verdauungsfördernd", "krampflösend", "stimmungsaufhellend"]

@@ -7,6 +7,7 @@ familie: "Knöterichgewächse (Polygonaceae)"
 pflanzenteile: "Kraut, Samen"
 tags: ["buchweizen", "gefäße", "krampfadern", "glutenfrei", "rutin"]
 quelle: "heildepot"
+katalog_id: "buchweizen"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["gefäßstärkend", "durchblutungsfördernd", "entzündungshemmend", "glutenfrei"]

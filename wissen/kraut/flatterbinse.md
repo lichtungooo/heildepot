@@ -7,6 +7,7 @@ familie: "Binsengewächse"
 pflanzenteile: "Mark der Stängel"
 tags: ["flatterbinse", "schlaf", "tcm", "beruhigend", "harnwege"]
 quelle: "heildepot"
+katalog_id: "flatterbinse"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["harntreibend", "beruhigend", "entzündungshemmend"]

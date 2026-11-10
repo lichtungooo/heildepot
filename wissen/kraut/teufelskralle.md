@@ -7,6 +7,7 @@ familie: "Sesamgewächse (Pedaliaceae)"
 pflanzenteile: "Wurzelknollen"
 tags: ["teufelskralle", "gelenke", "arthrose", "rücken", "schmerzen"]
 quelle: "heildepot"
+katalog_id: "teufelskralle"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entzündungshemmend", "schmerzlindernd", "verdauungsfördernd", "appetitanregend"]

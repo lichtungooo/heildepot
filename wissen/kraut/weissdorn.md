@@ -7,6 +7,7 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Blüten, Blätter, Beeren"
 tags: ["weißdorn", "herz", "blutdruck", "herzstärkung", "kreislauf"]
 quelle: "heildepot"
+katalog_id: "weissdorn"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["herzstärkend", "durchblutungsfördernd", "blutdruckregulierend", "beruhigend"]

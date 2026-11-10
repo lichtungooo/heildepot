@@ -7,6 +7,7 @@ familie: "Sandelholzgewächse (Santalaceae)"
 pflanzenteile: "Kraut mit Beeren"
 tags: ["mistel", "blutdruck", "krebs", "immunsystem", "herz"]
 quelle: "heildepot"
+katalog_id: "mistel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutdrucksenkend", "immunmodulierend", "stoffwechselanregend", "herzstärkend"]

@@ -7,6 +7,7 @@ familie: "Spargelgewächse (Asparagaceae)"
 pflanzenteile: "Wurzelstock"
 tags: ["mäusedorn", "venen", "krampfadern", "beine", "hämorrhoiden"]
 quelle: "heildepot"
+katalog_id: "maeusedorn"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["venenstärkend", "entzündungshemmend", "abschwellend", "durchblutungsfördernd"]

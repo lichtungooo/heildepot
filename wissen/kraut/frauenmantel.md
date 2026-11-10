@@ -7,6 +7,7 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Kraut"
 tags: ["frauenmantel", "frauenheilkunde", "zyklus", "wechseljahre", "schwangerschaft"]
 quelle: "heildepot"
+katalog_id: "frauenmantel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "krampflösend", "hormonausgleichend", "wundheilend"]

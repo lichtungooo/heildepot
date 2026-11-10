@@ -7,6 +7,7 @@ familie: "Lotosgewächse"
 pflanzenteile: "Blüten, Samen, Wurzel"
 tags: ["lotos", "beruhigung", "ayurveda", "tcm", "reinheit"]
 quelle: "heildepot"
+katalog_id: "indischer-lotos"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "kühlend", "adstringierend", "blutstillend"]

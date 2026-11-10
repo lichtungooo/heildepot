@@ -7,6 +7,7 @@ familie: "Rautengewächse (Rutaceae)"
 pflanzenteile: "Kraut"
 tags: ["weinraute", "krämpfe", "klostermedizin", "verdauung", "vorsicht"]
 quelle: "heildepot"
+katalog_id: "weinraute"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "verdauungsfördernd", "menstruationsfördernd", "durchblutungsfördernd"]

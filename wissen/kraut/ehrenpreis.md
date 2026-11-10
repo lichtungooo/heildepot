@@ -7,6 +7,7 @@ familie: "Wegerichgewächse"
 pflanzenteile: "Kraut"
 tags: ["ehrenpreis", "juckreiz", "husten", "haut", "ekzem"]
 quelle: "heildepot"
+katalog_id: "ehrenpreis"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "harntreibend", "verdauungsfördernd", "juckreizlindernd"]

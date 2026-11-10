@@ -7,6 +7,7 @@ familie: "Wegerichgewächse (Plantaginaceae)"
 pflanzenteile: "Samenschalen"
 tags: ["flohsamen", "verdauung", "verstopfung", "reizdarm", "cholesterin"]
 quelle: "heildepot"
+katalog_id: "flohsamen"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["stuhlregulierend", "schleimhautschützend", "cholesterinsenkend", "sättigend"]

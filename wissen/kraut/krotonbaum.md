@@ -7,6 +7,7 @@ familie: "Wolfsmilchgewächse"
 pflanzenteile: "Samen (nur homöopathisch)"
 tags: ["krotonbaum", "homöopathie", "haut", "giftig", "ekzem"]
 quelle: "heildepot"
+katalog_id: "krotonbaum"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["stark abführend", "hautreizend"]

@@ -7,6 +7,7 @@ familie: "Rosengewächse"
 pflanzenteile: "Blüten, Beeren"
 tags: ["schlehe", "immunsystem", "stärkung", "herbst", "stoffwechsel"]
 quelle: "heildepot"
+katalog_id: "schlehe"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "immunstärkend", "stoffwechselanregend", "vitaminreich"]

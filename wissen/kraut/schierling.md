@@ -7,6 +7,7 @@ familie: "Doldenblütler"
 pflanzenteile: "Kraut, Früchte (nur homöopathisch)"
 tags: ["schierling", "giftig", "tödlich", "sokrates", "homöopathie"]
 quelle: "heildepot"
+katalog_id: "schierling"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "schmerzlindernd", "beruhigend"]

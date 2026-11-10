@@ -7,6 +7,7 @@ familie: "Hülsenfrüchtler"
 pflanzenteile: "Bohnenschalen, Samen"
 tags: ["bohnen", "blutzucker", "eiweiß", "harntreibend", "diabetes"]
 quelle: "heildepot"
+katalog_id: "bohnen"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutzuckersenkend", "harntreibend", "eiweißreich", "entwässernd"]

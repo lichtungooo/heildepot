@@ -7,6 +7,7 @@ familie: "Hülsenfrüchtler"
 pflanzenteile: "Samen (nur pharmazeutisch)"
 tags: ["calabar", "glaukom", "augen", "giftig", "pharmazie"]
 quelle: "heildepot"
+katalog_id: "calabar"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["pupillenverengend", "muskeltonisierend", "parasympathomimetisch"]

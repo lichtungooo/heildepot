@@ -7,6 +7,7 @@ familie: "Heidekrautgewächse"
 pflanzenteile: "Blüten, Kraut"
 tags: ["glockenheide", "blase", "niere", "harnwege", "moor"]
 quelle: "heildepot"
+katalog_id: "glockenheide"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["harntreibend", "entzündungshemmend", "beruhigend"]

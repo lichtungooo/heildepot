@@ -7,6 +7,7 @@ familie: "Buchengewächse (Fagaceae)"
 pflanzenteile: "Rinde, Blätter"
 tags: ["buche", "fieber", "bachblüten", "wald"]
 quelle: "heildepot"
+katalog_id: "buche"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["fiebersenkend", "adstringierend", "antiseptisch"]

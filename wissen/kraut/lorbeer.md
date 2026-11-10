@@ -7,6 +7,7 @@ familie: "Lorbeergewächse (Lauraceae)"
 pflanzenteile: "Blätter, Früchte"
 tags: ["lorbeer", "verdauung", "gelenke", "gewürz", "antike"]
 quelle: "heildepot"
+katalog_id: "lorbeer"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "antiseptisch", "schmerzlindernd", "durchblutungsfördernd"]

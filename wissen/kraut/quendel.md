@@ -7,6 +7,7 @@ familie: "Lippenblütler"
 pflanzenteile: "Kraut"
 tags: ["quendel", "husten", "bronchitis", "erkältung", "wildkraut"]
 quelle: "heildepot"
+katalog_id: "quendel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "antibakteriell", "krampflösend", "wärmend"]

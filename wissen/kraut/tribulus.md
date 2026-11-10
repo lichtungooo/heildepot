@@ -7,6 +7,7 @@ familie: "Jochblattgewächse"
 pflanzenteile: "Früchte, Kraut"
 tags: ["tribulus", "potenz", "testosteron", "vitalität", "ayurveda"]
 quelle: "heildepot"
+katalog_id: "tribulus"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["potenzfördernd", "hormonstimulierend", "harntreibend", "stärkend"]

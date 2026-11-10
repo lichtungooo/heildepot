@@ -7,6 +7,7 @@ familie: "Hundsgiftgewächse"
 pflanzenteile: "Samen (nur als Fertigpräparat)"
 tags: ["strophanthus", "herz", "herzglykosid", "giftig", "pfeilgift"]
 quelle: "heildepot"
+katalog_id: "strophanthus"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["herzstärkend", "kreislaufstabilisierend"]

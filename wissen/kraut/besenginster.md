@@ -7,6 +7,7 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Kraut (nur als Fertigpräparat)"
 tags: ["besenginster", "herz", "blutdruck", "giftig"]
 quelle: "heildepot"
+katalog_id: "besenginster"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["herzregulierend", "harntreibend", "blutdrucksteigernd"]

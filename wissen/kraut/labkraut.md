@@ -7,6 +7,7 @@ familie: "Rötegewächse (Rubiaceae)"
 pflanzenteile: "Kraut"
 tags: ["labkraut", "lymphe", "niere", "haut", "entgiftung"]
 quelle: "heildepot"
+katalog_id: "labkraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["lymphanregend", "harntreibend", "krampflösend", "hautpflegend"]

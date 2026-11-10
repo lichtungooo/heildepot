@@ -7,6 +7,7 @@ familie: "Weinrebengewächse"
 pflanzenteile: "Blätter, Traubenkerne, Früchte"
 tags: ["weinrebe", "venen", "krampfadern", "antioxidantien", "traubenkern"]
 quelle: "heildepot"
+katalog_id: "weinrebe"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["venenstärkend", "entzündungshemmend", "antioxidativ", "adstringierend"]

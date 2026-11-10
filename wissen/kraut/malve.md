@@ -7,6 +7,7 @@ familie: "Malvengewächse (Malvaceae)"
 pflanzenteile: "Blüten, Blätter"
 tags: ["malve", "husten", "hals", "schleimhaut", "magen"]
 quelle: "heildepot"
+katalog_id: "malve"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimhautschützend", "reizlindernd", "entzündungshemmend", "hustenlindernd"]

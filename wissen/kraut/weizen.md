@@ -7,6 +7,7 @@ familie: "Süßgräser"
 pflanzenteile: "Gras (Keimlinge)"
 tags: ["weizengras", "chlorophyll", "basisch", "entgiftung", "enzyme"]
 quelle: "heildepot"
+katalog_id: "weizen"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entgiftend", "nährstoffreich", "basisch", "immunstärkend"]

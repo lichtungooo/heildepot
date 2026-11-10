@@ -7,6 +7,7 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Wurzel, Samen"
 tags: ["pastinake", "verdauung", "baby", "gemüse", "winter"]
 quelle: "heildepot"
+katalog_id: "pastinake"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "beruhigend", "harntreibend", "nährstoffreich"]

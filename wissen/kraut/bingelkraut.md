@@ -7,6 +7,7 @@ familie: "Wolfsmilchgewächse (Euphorbiaceae)"
 pflanzenteile: "Kraut"
 tags: ["bingelkraut", "verstopfung", "harntreibend"]
 quelle: "heildepot"
+katalog_id: "bingelkraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["abführend", "harntreibend", "entzündungshemmend"]

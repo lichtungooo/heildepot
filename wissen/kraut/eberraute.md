@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Kraut"
 tags: ["eberraute", "verdauung", "würmer", "motten", "appetit"]
 quelle: "heildepot"
+katalog_id: "eberraute"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "wurmtreibend", "appetitanregend", "menstruationsfördernd"]

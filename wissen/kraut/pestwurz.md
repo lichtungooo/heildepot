@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Wurzel, Blätter"
 tags: ["pestwurz", "migräne", "allergie", "heuschnupfen", "krampflösend"]
 quelle: "heildepot"
+katalog_id: "pestwurz"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "schmerzlindernd", "antiallergisch", "entzündungshemmend"]

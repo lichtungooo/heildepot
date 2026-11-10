@@ -7,6 +7,7 @@ familie: "Knöterichgewächse"
 pflanzenteile: "Wurzel, junge Blätter"
 tags: ["alpenampfer", "alpen", "verstopfung", "eisen", "frühjahrskur"]
 quelle: "heildepot"
+katalog_id: "alpenampfer"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["abführend", "blutreinigend", "verdauungsfördernd", "eisenhaltig"]

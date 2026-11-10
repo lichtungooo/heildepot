@@ -7,6 +7,7 @@ familie: "Dickblattgewächse (Crassulaceae)"
 pflanzenteile: "Blätter, Saft"
 tags: ["hauswurz", "wundheilung", "insektenstiche", "warzen", "dach"]
 quelle: "heildepot"
+katalog_id: "hauswurz"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["kühlend", "wundheilend", "entzündungshemmend", "schmerzlindernd"]

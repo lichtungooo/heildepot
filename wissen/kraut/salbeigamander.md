@@ -7,6 +7,7 @@ familie: "Lippenblütler"
 pflanzenteile: "Kraut"
 tags: ["salbeigamander", "verdauung", "appetit", "wundheilung"]
 quelle: "heildepot"
+katalog_id: "salbeigamander"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "adstringierend", "wundheilend", "tonisierend"]

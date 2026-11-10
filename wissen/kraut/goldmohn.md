@@ -7,6 +7,7 @@ familie: "Mohngewächse"
 pflanzenteile: "Kraut"
 tags: ["goldmohn", "schlaf", "beruhigend", "kinder", "angst"]
 quelle: "heildepot"
+katalog_id: "goldmohn"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "schlaffördernd", "schmerzlindernd", "angstlösend"]

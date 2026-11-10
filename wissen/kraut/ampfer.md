@@ -7,6 +7,7 @@ familie: "Knöterichgewächse (Polygonaceae)"
 pflanzenteile: "Blätter"
 tags: ["ampfer", "vitaminC", "frühling", "salat", "blutreinigung"]
 quelle: "heildepot"
+katalog_id: "ampfer"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["vitaminreich", "blutreinigend", "verdauungsfördernd", "harntreibend"]

@@ -7,6 +7,7 @@ familie: "Knöterichgewächse"
 pflanzenteile: "Wurzel"
 tags: ["rhabarber", "verdauung", "verstopfung", "tcm", "reinigung"]
 quelle: "heildepot"
+katalog_id: "rhabarber"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["abführend", "verdauungsfördernd", "gallefördernd", "entzündungshemmend"]

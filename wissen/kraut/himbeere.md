@@ -7,6 +7,7 @@ familie: "Rosengewächse"
 pflanzenteile: "Blätter, Früchte"
 tags: ["himbeerblätter", "schwangerschaft", "frauenheilkunde", "zyklus"]
 quelle: "heildepot"
+katalog_id: "himbeere"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "adstringierend", "geburtserleichternd", "hormonausgleichend"]

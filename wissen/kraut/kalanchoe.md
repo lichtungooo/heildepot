@@ -7,6 +7,7 @@ familie: "Dickblattgewächse"
 pflanzenteile: "Blätter"
 tags: ["kalanchoe", "bryophyllum", "schlaf", "beruhigend", "schwangerschaft"]
 quelle: "heildepot"
+katalog_id: "kalanchoe"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "krampflösend", "schlaffördernd", "wundheilend"]

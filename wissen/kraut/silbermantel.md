@@ -7,6 +7,7 @@ familie: "Rosengewächse"
 pflanzenteile: "Kraut"
 tags: ["silbermantel", "alpen", "frauenheilkunde", "alchimie"]
 quelle: "heildepot"
+katalog_id: "silbermantel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "wundheilend", "menstruationsregulierend", "verdauungsfördernd"]

@@ -7,6 +7,7 @@ familie: "Malvengewächse"
 pflanzenteile: "Samen (Nuss)"
 tags: ["kolanuss", "koffein", "energie", "müdigkeit", "afrika"]
 quelle: "heildepot"
+katalog_id: "kolanuss"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["anregend", "leistungssteigernd", "appetithemmend", "stimmungsaufhellend"]

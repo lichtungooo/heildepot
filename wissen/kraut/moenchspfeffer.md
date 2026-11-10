@@ -7,6 +7,7 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Früchte"
 tags: ["mönchspfeffer", "hormone", "PMS", "zyklus", "frauenheilkunde"]
 quelle: "heildepot"
+katalog_id: "moenchspfeffer"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["hormonausgleichend", "zyklusregulierend", "PMS-lindernd", "fruchtbarkeitsfördernd"]

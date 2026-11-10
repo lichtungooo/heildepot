@@ -7,6 +7,7 @@ familie: "Doldenblütler"
 pflanzenteile: "Kraut, Blätter"
 tags: ["gotukola", "gedächtnis", "bindegewebe", "ayurveda", "haut"]
 quelle: "heildepot"
+katalog_id: "gotu-kola-extra"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wundheilend", "gedächtnisfördernd", "venenstärkend", "bindegewebsstärkend"]

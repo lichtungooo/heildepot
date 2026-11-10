@@ -7,6 +7,7 @@ familie: "Lippenblütler"
 pflanzenteile: "Kraut"
 tags: ["tulsi", "adaptogen", "ayurveda", "stress", "heiliges-basilikum"]
 quelle: "heildepot"
+katalog_id: "taigawurzel-extra"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adaptogen", "stresslindernd", "immunstärkend", "entzündungshemmend"]

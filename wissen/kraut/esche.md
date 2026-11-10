@@ -7,6 +7,7 @@ familie: "Ölbaumgewächse (Oleaceae)"
 pflanzenteile: "Blätter, Rinde"
 tags: ["esche", "gicht", "rheuma", "weltenbaum", "harnwege"]
 quelle: "heildepot"
+katalog_id: "esche"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["harntreibend", "entzündungshemmend", "fiebersenkend", "schmerzlindernd"]

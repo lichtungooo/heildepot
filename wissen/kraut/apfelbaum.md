@@ -7,6 +7,7 @@ familie: "Rosengewächse"
 pflanzenteile: "Früchte, Blätter, Rinde"
 tags: ["apfel", "verdauung", "pektin", "hausmittel", "durchfall"]
 quelle: "heildepot"
+katalog_id: "apfelbaum"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "cholesterinsenkend", "entgiftend", "stärkend"]

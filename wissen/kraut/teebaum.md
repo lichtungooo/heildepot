@@ -7,6 +7,7 @@ familie: "Myrtengewächse"
 pflanzenteile: "Blätter (ätherisches Öl)"
 tags: ["teebaum", "pilz", "antibakteriell", "akne", "desinfektion"]
 quelle: "heildepot"
+katalog_id: "teebaum"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antibakteriell", "antiviral", "antimykotisch", "entzündungshemmend"]

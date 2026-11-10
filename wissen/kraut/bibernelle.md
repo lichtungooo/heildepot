@@ -7,6 +7,7 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Wurzel"
 tags: ["bibernelle", "halsschmerzen", "husten", "gurgeln"]
 quelle: "heildepot"
+katalog_id: "bibernelle"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "entzündungshemmend", "verdauungsfördernd", "harntreibend"]

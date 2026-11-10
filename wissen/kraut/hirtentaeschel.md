@@ -7,6 +7,7 @@ familie: "Kreuzblütler (Brassicaceae)"
 pflanzenteile: "Kraut"
 tags: ["hirtentäschel", "blutung", "menstruation", "blutstillung"]
 quelle: "heildepot"
+katalog_id: "hirtentaeschel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutstillend", "zusammenziehend", "blutdruckregulierend", "menstruationsregulierend"]

@@ -7,6 +7,7 @@ familie: "Grasbaumgewächse (Xanthorrhoeaceae)"
 pflanzenteile: "Knolle, Wurzel"
 tags: ["affodill", "haut", "warzen", "mittelmeer"]
 quelle: "heildepot"
+katalog_id: "affodill"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["harntreibend", "hautpflegend", "entzündungshemmend"]

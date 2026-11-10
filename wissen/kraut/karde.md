@@ -7,6 +7,7 @@ familie: "Geißblattgewächse (Caprifoliaceae)"
 pflanzenteile: "Wurzel"
 tags: ["karde", "borreliose", "leber", "immunsystem", "entgiftung"]
 quelle: "heildepot"
+katalog_id: "karde"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["leberstärkend", "entgiftend", "immunmodulierend", "verdauungsfördernd"]

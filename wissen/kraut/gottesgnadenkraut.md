@@ -8,6 +8,7 @@ pflanzenteile: "Kraut (nur als Fertigpräparat)"
 schutz: "geschützt"
 tags: ["gottesgnadenkraut", "giftig", "homöopathie", "wassersucht"]
 quelle: "heildepot"
+katalog_id: "gottesgnadenkraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["abführend", "harntreibend", "herzwirksam", "brecherregend"]

@@ -7,6 +7,7 @@ familie: "Jochblattgewächse"
 pflanzenteile: "Früchte, Kraut"
 tags: ["erdburzeldorn", "potenz", "testosteron", "sport", "ayurveda"]
 quelle: "heildepot"
+katalog_id: "erdburzeldorn"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["potenzfördernd", "muskelaufbauend", "harntreibend", "stärkend"]

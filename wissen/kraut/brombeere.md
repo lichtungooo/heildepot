@@ -7,6 +7,7 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Blätter, Früchte"
 tags: ["brombeere", "durchfall", "vitamine", "gerbstoffe", "sommer"]
 quelle: "heildepot"
+katalog_id: "brombeere"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "vitaminreich", "entzündungshemmend", "blutstillend"]

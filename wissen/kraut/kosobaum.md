@@ -7,6 +7,7 @@ familie: "Rosengewächse"
 pflanzenteile: "Blüten"
 tags: ["kosobaum", "wurmmittel", "äthiopien", "parasiten", "traditionell"]
 quelle: "heildepot"
+katalog_id: "kosobaum"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wurmabtreibend", "adstringierend"]

@@ -7,6 +7,7 @@ familie: "Nachtkerzengewächse"
 pflanzenteile: "Kraut"
 tags: ["weidenröschen", "prostata", "blase", "harnwege", "maria-treben"]
 quelle: "heildepot"
+katalog_id: "weidenroeschen"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["prostataschützend", "entzündungshemmend", "harntreibend"]

@@ -7,6 +7,7 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Kraut, Samen"
 tags: ["dill", "blähungen", "baby", "verdauung", "küche"]
 quelle: "heildepot"
+katalog_id: "dill"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "blähungswidrig", "milchfördernd", "beruhigend"]

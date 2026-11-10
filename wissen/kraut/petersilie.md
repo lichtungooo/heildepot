@@ -7,6 +7,7 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Blätter, Wurzel, Samen"
 tags: ["petersilie", "niere", "vitamine", "eisen", "küche"]
 quelle: "heildepot"
+katalog_id: "petersilie"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["harntreibend", "vitaminreich", "verdauungsfördernd", "entgiftend"]

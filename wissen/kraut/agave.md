@@ -7,6 +7,7 @@ familie: "Spargelgewächse (Asparagaceae)"
 pflanzenteile: "Blätter, Saft"
 tags: ["agave", "wundheilung", "husten", "mexiko"]
 quelle: "heildepot"
+katalog_id: "agave"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entzündungshemmend", "wundheilend", "abführend", "schweißtreibend"]

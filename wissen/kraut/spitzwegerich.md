@@ -7,6 +7,7 @@ familie: "Wegerichgewächse (Plantaginaceae)"
 pflanzenteile: "Blätter"
 tags: ["spitzwegerich", "husten", "insektenstich", "bronchitis", "wundheilung"]
 quelle: "heildepot"
+katalog_id: "spitzwegerich"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "antibakteriell", "hustenlindernd", "wundheilend"]

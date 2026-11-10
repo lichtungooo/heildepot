@@ -7,6 +7,7 @@ familie: "Lippenblütler"
 pflanzenteile: "Kraut"
 tags: ["dost", "oregano", "antibakteriell", "husten", "küche"]
 quelle: "heildepot"
+katalog_id: "dost"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antibakteriell", "schleimlösend", "krampflösend", "verdauungsfördernd"]

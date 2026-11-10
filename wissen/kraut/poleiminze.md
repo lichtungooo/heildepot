@@ -7,6 +7,7 @@ familie: "Lippenblütler"
 pflanzenteile: "Kraut"
 tags: ["poleiminze", "verdauung", "insektenschutz", "vorsicht"]
 quelle: "heildepot"
+katalog_id: "poleiminze"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "krampflösend", "schweißtreibend", "insektenabwehrend"]

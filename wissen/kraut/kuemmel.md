@@ -7,6 +7,7 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Früchte (Samen)"
 tags: ["kümmel", "blähungen", "verdauung", "baby", "magen"]
 quelle: "heildepot"
+katalog_id: "kuemmel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blähungswidrig", "krampflösend", "verdauungsfördernd", "appetitanregend"]

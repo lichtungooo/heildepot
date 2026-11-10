@@ -7,6 +7,7 @@ familie: "Myrtengewächse (Myrtaceae)"
 pflanzenteile: "Früchte"
 tags: ["camucamu", "vitaminC", "immunsystem", "antioxidativ", "superfood"]
 quelle: "heildepot"
+katalog_id: "camu-camu"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["immunstärkend", "antioxidativ", "entzündungshemmend", "stimmungsaufhellend"]

@@ -7,6 +7,7 @@ familie: "Kieferngewächse (Pinaceae)"
 pflanzenteile: "Nadeln, Harz"
 tags: ["lärche", "harz", "atemwege", "furunkel"]
 quelle: "heildepot"
+katalog_id: "laerche"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "antiseptisch", "wundheilend", "durchblutungsfördernd"]

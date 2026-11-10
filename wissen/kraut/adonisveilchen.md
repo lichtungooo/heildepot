@@ -7,6 +7,7 @@ familie: "Hahnenfußgewächse"
 pflanzenteile: "Kraut (nur als Fertigpräparat)"
 tags: ["adonisveilchen", "herz", "giftig", "herzglykoside"]
 quelle: "heildepot"
+katalog_id: "adonisveilchen"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["herzstärkend", "beruhigend", "krampflösend"]

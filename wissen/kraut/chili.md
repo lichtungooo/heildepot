@@ -7,6 +7,7 @@ familie: "Nachtschattengewächse (Solanaceae)"
 pflanzenteile: "Früchte"
 tags: ["chili", "capsaicin", "durchblutung", "schmerzen", "stoffwechsel"]
 quelle: "heildepot"
+katalog_id: "chili"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["durchblutungsfördernd", "schmerzlindernd", "stoffwechselanregend", "antibakteriell"]

@@ -7,6 +7,7 @@ familie: "Heidekrautgewächse (Ericaceae)"
 pflanzenteile: "Beeren"
 tags: ["cranberry", "blase", "harnwege", "antioxidantien"]
 quelle: "heildepot"
+katalog_id: "cranberry"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antibakteriell", "antioxidativ", "harnwegsschützend"]

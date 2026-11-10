@@ -7,6 +7,7 @@ familie: "Nachtschattengewächse (Solanaceae)"
 pflanzenteile: "Früchte"
 tags: ["tomate", "lycopin", "herz", "prostata", "antioxidativ"]
 quelle: "heildepot"
+katalog_id: "tomate"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antioxidativ", "herzschützend", "hautpflegend", "entzündungshemmend"]

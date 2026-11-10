@@ -7,6 +7,7 @@ familie: "Balsambaumgewächse (Burseraceae)"
 pflanzenteile: "Harz"
 tags: ["myrrhe", "mundpflege", "zahnfleisch", "entzündung", "reizdarm"]
 quelle: "heildepot"
+katalog_id: "myrrhe"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entzündungshemmend", "antibakteriell", "wundheilend", "adstringierend"]

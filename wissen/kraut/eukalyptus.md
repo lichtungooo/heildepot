@@ -7,6 +7,7 @@ familie: "Myrtengewächse"
 pflanzenteile: "Blätter"
 tags: ["eukalyptus", "atemwege", "erkältung", "inhalation", "nase"]
 quelle: "heildepot"
+katalog_id: "eukalyptus"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "antibakteriell", "kühlend", "atemwegsbefreiend"]

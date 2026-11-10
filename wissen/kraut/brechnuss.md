@@ -7,6 +7,7 @@ familie: "Brechnussgewächse"
 pflanzenteile: "Samen (nur homöopathisch)"
 tags: ["brechnuss", "nuxvomica", "homöopathie", "reizmagen", "giftig"]
 quelle: "heildepot"
+katalog_id: "brechnuss"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["tonisierend", "verdauungsanregend", "schmerzlindernd"]

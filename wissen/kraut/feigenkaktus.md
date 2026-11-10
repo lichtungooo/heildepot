@@ -7,6 +7,7 @@ familie: "Kakteengewächse (Cactaceae)"
 pflanzenteile: "Blätter (Kladodien), Früchte"
 tags: ["feigenkaktus", "opuntia", "blutzucker", "mexiko", "cholesterin"]
 quelle: "heildepot"
+katalog_id: "feigenkaktus"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutzuckersenkend", "cholesterinsenkend", "verdauungsfördernd", "entzündungshemmend"]

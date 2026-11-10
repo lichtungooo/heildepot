@@ -7,6 +7,7 @@ familie: "Rosengewächse"
 pflanzenteile: "Wurzelstock"
 tags: ["sumpfblutauge", "rheuma", "gelenke", "durchfall", "moor"]
 quelle: "heildepot"
+katalog_id: "sumpf-blutauge"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entzündungshemmend", "adstringierend", "blutstillend", "fiebersenkend"]

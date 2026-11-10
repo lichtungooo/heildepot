@@ -7,6 +7,7 @@ familie: "Kreuzblumengewächse"
 pflanzenteile: "Kraut, Wurzel"
 tags: ["kreuzblume", "husten", "bronchitis", "schleimlösend", "bitter"]
 quelle: "heildepot"
+katalog_id: "kreuzblume"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "auswurffördernd", "appetitanregend", "verdauungsfördernd"]

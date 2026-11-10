@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Blüten, Blätter"
 tags: ["huflattich", "husten", "bronchitis", "heiserkeit", "atemwege"]
 quelle: "heildepot"
+katalog_id: "huflattich"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "hustenlindernd", "reizlindernd", "entzündungshemmend"]

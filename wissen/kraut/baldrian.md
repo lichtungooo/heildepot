@@ -7,6 +7,7 @@ familie: "Geißblattgewächse (Caprifoliaceae)"
 pflanzenteile: "Wurzel"
 tags: ["baldrian", "schlaf", "beruhigend", "nerven", "unruhe"]
 quelle: "heildepot"
+katalog_id: "baldrian"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "schlaffördernd", "krampflösend", "angstlösend"]

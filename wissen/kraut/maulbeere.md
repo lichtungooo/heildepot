@@ -7,6 +7,7 @@ familie: "Maulbeergewächse (Moraceae)"
 pflanzenteile: "Blätter, Früchte"
 tags: ["maulbeere", "blutzucker", "diabetes", "tcm", "niere"]
 quelle: "heildepot"
+katalog_id: "maulbeere"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutzuckersenkend", "entzündungshemmend", "abführend", "vitaminreich"]

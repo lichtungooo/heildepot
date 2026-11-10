@@ -7,6 +7,7 @@ familie: "Korbblütler"
 pflanzenteile: "Blütenköpfe, Blätter"
 tags: ["parakresse", "zahnschmerzen", "schmerzlindernd", "betäubend"]
 quelle: "heildepot"
+katalog_id: "parakresse"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schmerzlindernd", "betäubend", "entzündungshemmend", "verdauungsfördernd"]

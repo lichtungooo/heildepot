@@ -7,6 +7,7 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Fruchtmus"
 tags: ["tamarinde", "verstopfung", "verdauung", "indien", "gewürz"]
 quelle: "heildepot"
+katalog_id: "tamarinde"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["abführend", "fiebersenkend", "entzündungshemmend", "verdauungsfördernd"]

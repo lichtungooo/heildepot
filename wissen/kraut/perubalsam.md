@@ -7,6 +7,7 @@ familie: "Hülsenfrüchtler"
 pflanzenteile: "Harz, Balsam"
 tags: ["perubalsam", "wundheilung", "haut", "desinfektion", "allergen"]
 quelle: "heildepot"
+katalog_id: "perubalsam"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wundheilend", "desinfizierend", "schleimlösend", "hautpflegend"]

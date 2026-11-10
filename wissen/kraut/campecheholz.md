@@ -7,6 +7,7 @@ familie: "Hülsenfrüchtler"
 pflanzenteile: "Kernholz"
 tags: ["campecheholz", "farbstoff", "durchfall", "adstringierend"]
 quelle: "heildepot"
+katalog_id: "campecheholz"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "blutstillend", "antibakteriell"]

@@ -7,6 +7,7 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Früchte (Samen)"
 tags: ["anis", "verdauung", "husten", "blähungen", "stillen"]
 quelle: "heildepot"
+katalog_id: "anis"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "schleimlösend", "blähungswidrig", "milchfördernd"]

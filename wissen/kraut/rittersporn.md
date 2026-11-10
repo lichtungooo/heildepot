@@ -7,6 +7,7 @@ familie: "Hahnenfußgewächse (Ranunculaceae)"
 pflanzenteile: "Blüten, Samen (nur homöopathisch)"
 tags: ["rittersporn", "giftig", "homöopathie", "garten"]
 quelle: "heildepot"
+katalog_id: "rittersporn"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["harntreibend", "wurmtreibend", "schmerzlindernd"]

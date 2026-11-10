@@ -7,6 +7,7 @@ familie: "Nachtkerzengewächse (Onagraceae)"
 pflanzenteile: "Samen (Öl)"
 tags: ["nachtkerze", "haut", "neurodermitis", "PMS", "hormone"]
 quelle: "heildepot"
+katalog_id: "nachtkerze"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["hautpflegend", "hormonausgleichend", "entzündungshemmend", "juckreizlindernd"]

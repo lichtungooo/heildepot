@@ -7,6 +7,7 @@ familie: "Rötegewächse"
 pflanzenteile: "Rinde"
 tags: ["kalisaya", "chinarinde", "chinin", "fieber", "malaria"]
 quelle: "heildepot"
+katalog_id: "kalisaya"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["fiebersenkend", "appetitanregend", "tonisierend", "malariahemmend"]

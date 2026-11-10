@@ -7,6 +7,7 @@ familie: "Ölbaumgewächse (Oleaceae)"
 pflanzenteile: "Blüten"
 tags: ["flieder", "fieber", "verdauung", "duft"]
 quelle: "heildepot"
+katalog_id: "flieder"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["fiebersenkend", "verdauungsfördernd", "beruhigend"]

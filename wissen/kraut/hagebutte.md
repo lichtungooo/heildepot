@@ -7,6 +7,7 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Früchte (Scheinfrüchte)"
 tags: ["hagebutte", "vitamin-c", "immunsystem", "gelenke", "herbst"]
 quelle: "heildepot"
+katalog_id: "hagebutte"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["vitaminreich", "immunstärkend", "entzündungshemmend", "antioxidativ"]

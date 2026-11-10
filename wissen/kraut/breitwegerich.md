@@ -7,6 +7,7 @@ familie: "Wegerichgewächse"
 pflanzenteile: "Blätter, Samen"
 tags: ["breitwegerich", "erstehilfe", "insektenstiche", "wundheilung", "husten"]
 quelle: "heildepot"
+katalog_id: "breitwegerich"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wundheilend", "schleimlösend", "antibakteriell", "entzündungshemmend"]

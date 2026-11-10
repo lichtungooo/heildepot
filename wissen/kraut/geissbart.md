@@ -7,6 +7,7 @@ familie: "Rosengewächse"
 pflanzenteile: "Blüten, Kraut"
 tags: ["geißbart", "mädesüß", "schmerzen", "fieber", "erkältung"]
 quelle: "heildepot"
+katalog_id: "geissbart"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schmerzlindernd", "entzündungshemmend", "schweißtreibend", "harntreibend"]

@@ -7,6 +7,7 @@ familie: "Storchschnabelgewächse (Geraniaceae)"
 pflanzenteile: "Wurzel"
 tags: ["umckaloabo", "bronchitis", "erkältung", "immunsystem", "afrika"]
 quelle: "heildepot"
+katalog_id: "umckaloabo"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antibakteriell", "immunstimulierend", "schleimlösend", "antiviral"]

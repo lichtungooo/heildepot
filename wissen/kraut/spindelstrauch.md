@@ -7,6 +7,7 @@ familie: "Spindelbaumgewächse"
 pflanzenteile: "Früchte, Rinde (nur homöopathisch)"
 tags: ["spindelstrauch", "giftig", "leber", "homöopathie"]
 quelle: "heildepot"
+katalog_id: "spindelstrauch"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["leberwirksam", "kreislaufanregend", "antiparasitär"]

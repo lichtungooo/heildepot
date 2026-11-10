@@ -7,6 +7,7 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Kraut, Wurzel"
 tags: ["wiesenknopf", "blutstillend", "menstruation", "wundheilung", "blutung"]
 quelle: "heildepot"
+katalog_id: "wiesenknopf"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutstillend", "adstringierend", "entzündungshemmend", "wundheilend"]

@@ -7,6 +7,7 @@ familie: "Araliengewächse"
 pflanzenteile: "Wurzel"
 tags: ["ginseng", "kraft", "adaptogen", "immunsystem", "tcm"]
 quelle: "heildepot"
+katalog_id: "ginseng"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adaptogen", "kräftigend", "immunstärkend", "konzentrationsfördernd"]

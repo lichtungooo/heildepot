@@ -7,6 +7,7 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Samen"
 tags: ["kreuzkümmel", "verdauung", "blähungen", "ayurveda", "gewürz"]
 quelle: "heildepot"
+katalog_id: "kreuzkuemmel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "blähungswidrig", "krampflösend", "entzündungshemmend"]

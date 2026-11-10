@@ -7,6 +7,7 @@ familie: "Sternanisgewächse (Schisandraceae)"
 pflanzenteile: "Früchte"
 tags: ["sternanis", "husten", "verdauung", "blähungen", "gewürz"]
 quelle: "heildepot"
+katalog_id: "sternanis"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "krampflösend", "verdauungsfördernd", "antibakteriell"]

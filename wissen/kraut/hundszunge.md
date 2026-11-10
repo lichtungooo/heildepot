@@ -7,6 +7,7 @@ familie: "Raublattgewächse"
 pflanzenteile: "Kraut, Wurzel"
 tags: ["hundszunge", "wundheilung", "husten", "äußerlich"]
 quelle: "heildepot"
+katalog_id: "hundszunge"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wundheilend", "schmerzlindernd", "hustenlindernd", "adstringierend"]

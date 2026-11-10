@@ -7,6 +7,7 @@ familie: "Wolfsmilchgewächse"
 pflanzenteile: "Drüsenpulver der Früchte"
 tags: ["kamala", "bandwurm", "ayurveda", "wurmtreibend"]
 quelle: "heildepot"
+katalog_id: "kamala"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wurmtreibend", "abführend", "antimikrobiell"]

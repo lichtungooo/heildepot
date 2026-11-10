@@ -7,6 +7,7 @@ familie: "Heidekrautgewächse (Ericaceae)"
 pflanzenteile: "Beeren, Blätter"
 tags: ["heidelbeere", "augen", "durchfall", "antioxidantien", "blutgefäße"]
 quelle: "heildepot"
+katalog_id: "heidelbeere"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "antioxidativ", "augenstärkend", "durchfallhemmend"]

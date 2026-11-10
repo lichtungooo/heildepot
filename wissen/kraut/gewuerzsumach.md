@@ -7,6 +7,7 @@ familie: "Sumachgewächse"
 pflanzenteile: "Früchte (gemahlen)"
 tags: ["sumach", "orient", "antioxidantien", "gewürz", "verdauung"]
 quelle: "heildepot"
+katalog_id: "gewuerzsumach"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antioxidativ", "entzündungshemmend", "verdauungsfördernd", "antibakteriell"]

@@ -7,6 +7,7 @@ familie: "Spargelgewächse (Asparagaceae)"
 pflanzenteile: "Harz"
 tags: ["drachenblut", "wundheilung", "harz", "blutstillung"]
 quelle: "heildepot"
+katalog_id: "drachenblutbaum"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wundheilend", "blutstillend", "entzündungshemmend", "adstringierend"]

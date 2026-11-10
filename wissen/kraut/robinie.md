@@ -7,6 +7,7 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Blüten"
 tags: ["robinie", "akazie", "honig", "magenkrämpfe"]
 quelle: "heildepot"
+katalog_id: "robinie"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "gallefördernd"]

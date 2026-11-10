@@ -7,6 +7,7 @@ familie: "Muskatnussgewächse (Myristicaceae)"
 pflanzenteile: "Samen (Nuss)"
 tags: ["muskatnuss", "verdauung", "schlaf", "wärmend", "gewürz"]
 quelle: "heildepot"
+katalog_id: "muskatnuss"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "wärmend", "schmerzlindernd", "schlaffördernd"]

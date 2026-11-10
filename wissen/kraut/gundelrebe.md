@@ -7,6 +7,7 @@ familie: "Lippenblütler"
 pflanzenteile: "Kraut"
 tags: ["gundelrebe", "schnupfen", "wundheilung", "wildkraut", "stoffwechsel"]
 quelle: "heildepot"
+katalog_id: "gundelrebe"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "entzündungshemmend", "stoffwechselanregend", "wundheilend"]

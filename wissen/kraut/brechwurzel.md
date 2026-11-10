@@ -7,6 +7,7 @@ familie: "Rötegewächse"
 pflanzenteile: "Wurzel"
 tags: ["brechwurzel", "ipecacuanha", "übelkeit", "homöopathie", "bronchitis"]
 quelle: "heildepot"
+katalog_id: "brechwurzel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "brechreizerzeugend", "schweißtreibend", "krampflösend"]

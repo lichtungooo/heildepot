@@ -7,6 +7,7 @@ familie: "Hahnenfußgewächse"
 pflanzenteile: "Wurzelstock (nur homöopathisch)"
 tags: ["nieswurz", "giftig", "homöopathie", "herz"]
 quelle: "heildepot"
+katalog_id: "gruene-nieswurz"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["herzwirksam", "niesenerregend", "abführend"]

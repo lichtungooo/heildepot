@@ -7,6 +7,7 @@ familie: "Ingwergewächse (Zingiberaceae)"
 pflanzenteile: "Wurzelstock"
 tags: ["galgant", "hildegard", "herz", "wärmend", "verdauung"]
 quelle: "heildepot"
+katalog_id: "galgant"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wärmend", "verdauungsfördernd", "herzstärkend", "durchblutungsfördernd"]

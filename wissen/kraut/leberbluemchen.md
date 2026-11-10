@@ -8,6 +8,7 @@ pflanzenteile: "Kraut"
 schutz: "geschützt"
 tags: ["leberblümchen", "leber", "galle", "geschützt", "signaturenlehre"]
 quelle: "heildepot"
+katalog_id: "leberbluemchen"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["leberstärkend", "adstringierend", "entzündungshemmend"]

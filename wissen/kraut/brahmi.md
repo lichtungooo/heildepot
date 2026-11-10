@@ -7,6 +7,7 @@ familie: "Wegerichgewächse (Plantaginaceae)"
 pflanzenteile: "Kraut"
 tags: ["brahmi", "gedächtnis", "konzentration", "ayurveda", "nerven"]
 quelle: "heildepot"
+katalog_id: "brahmi"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["gedächtnisfördernd", "beruhigend", "antioxidativ", "neuroprotektiv"]

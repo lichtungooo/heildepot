@@ -7,6 +7,7 @@ familie: "Rosengewächse"
 pflanzenteile: "Beeren"
 tags: ["aronia", "antioxidantien", "herz", "immunsystem", "beeren"]
 quelle: "heildepot"
+katalog_id: "apfelbeere-aronia"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antioxidativ", "gefäßschützend", "entzündungshemmend", "immunstärkend"]

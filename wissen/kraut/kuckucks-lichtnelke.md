@@ -7,6 +7,7 @@ familie: "Nelkengewächse"
 pflanzenteile: "Kraut, Blüten"
 tags: ["kuckuckslichtnelke", "husten", "atemwege", "wundheilung", "wiese"]
 quelle: "heildepot"
+katalog_id: "kuckucks-lichtnelke"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "wundheilend", "adstringierend"]

@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Kerne, Blütenblätter, Öl"
 tags: ["sonnenblume", "vitaminE", "magnesium", "kerne", "sommer"]
 quelle: "heildepot"
+katalog_id: "sonnenblume"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["nährstoffreich", "fiebersenkend", "entzündungshemmend", "hautpflegend"]

@@ -7,6 +7,7 @@ familie: "Zypressengewächse (Cupressaceae)"
 pflanzenteile: "Beeren (Zapfen)"
 tags: ["wacholder", "blase", "rheuma", "verdauung", "wärmend"]
 quelle: "heildepot"
+katalog_id: "wacholder"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["harntreibend", "verdauungsfördernd", "wärmend", "antibakteriell"]

@@ -7,6 +7,7 @@ familie: "Gigartinaceae (Rotalge)"
 pflanzenteile: "Ganze Alge"
 tags: ["irländischmoos", "alge", "schilddrüse", "mineralien", "schleimhaut"]
 quelle: "heildepot"
+katalog_id: "irlaendisches-moos"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimhautschützend", "nährend", "immunstärkend", "verdauungsfördernd"]

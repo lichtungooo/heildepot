@@ -7,6 +7,7 @@ familie: "Seidenpflanzengewächse"
 pflanzenteile: "Rinde"
 tags: ["kondurango", "magen", "appetit", "verdauung", "südamerika"]
 quelle: "heildepot"
+katalog_id: "kondurango"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["appetitanregend", "verdauungsfördernd", "magenstärkend"]

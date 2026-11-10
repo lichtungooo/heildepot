@@ -7,6 +7,7 @@ familie: "Doldenblütler"
 pflanzenteile: "Gummiharz der Wurzel"
 tags: ["asant", "verdauung", "blähungen", "ayurveda", "gewürz"]
 quelle: "heildepot"
+katalog_id: "asant"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "blähungswidrig", "verdauungsfördernd", "beruhigend"]

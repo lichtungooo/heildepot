@@ -7,6 +7,7 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Kraut, Samen"
 tags: ["koriander", "entgiftung", "verdauung", "schwermetalle", "blähungen"]
 quelle: "heildepot"
+katalog_id: "koriander"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entgiftend", "verdauungsfördernd", "krampflösend", "schwermetallausleitend"]

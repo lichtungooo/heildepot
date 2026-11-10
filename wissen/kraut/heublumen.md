@@ -7,6 +7,7 @@ familie: "Süßgräser (Mischung)"
 pflanzenteile: "Blüten, Samen, Blätter (Grasmischung)"
 tags: ["heublumen", "wärme", "gelenke", "muskeln", "krämpfe"]
 quelle: "heildepot"
+katalog_id: "heublumen"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["durchblutungsfördernd", "schmerzlindernd", "krampflösend", "wärmend"]

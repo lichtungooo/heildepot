@@ -7,6 +7,7 @@ familie: "Lippenblütler"
 pflanzenteile: "Kraut"
 tags: ["günsel", "wundheilung", "entzündung", "mund", "rachen"]
 quelle: "heildepot"
+katalog_id: "kriechender-guensel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wundheilend", "schmerzlindernd", "entzündungshemmend", "adstringierend"]

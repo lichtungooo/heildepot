@@ -7,6 +7,7 @@ familie: "Yamswurzelgewächse (Dioscoreaceae)"
 pflanzenteile: "Wurzel"
 tags: ["yamswurzel", "hormone", "wechseljahre", "osteoporose", "frauenheilkunde"]
 quelle: "heildepot"
+katalog_id: "yams"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["hormonausgleichend", "krampflösend", "entzündungshemmend", "osteoporoseschützend"]

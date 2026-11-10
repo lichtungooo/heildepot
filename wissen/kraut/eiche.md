@@ -7,6 +7,7 @@ familie: "Buchengewächse"
 pflanzenteile: "Rinde"
 tags: ["eiche", "gerbstoffe", "mundpflege", "hämorrhoiden", "haut"]
 quelle: "heildepot"
+katalog_id: "eiche"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "entzündungshemmend", "antibakteriell", "blutstillend"]

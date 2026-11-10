@@ -8,6 +8,7 @@ pflanzenteile: "Knolle"
 schutz: "geschützt"
 tags: ["knabenkraut", "orchidee", "geschützt", "magen", "schleim"]
 quelle: "heildepot"
+katalog_id: "knabenkraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimhautschützend", "stärkend", "reizlindernd"]

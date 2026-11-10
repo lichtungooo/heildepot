@@ -7,6 +7,7 @@ familie: "Bromeliengewächse"
 pflanzenteile: "Frucht, Stamm (Bromelain)"
 tags: ["ananas", "bromelain", "entzündung", "verdauung", "vitaminc"]
 quelle: "heildepot"
+katalog_id: "ananas"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entzündungshemmend", "verdauungsfördernd", "abschwellend", "immunstärkend"]

@@ -7,6 +7,7 @@ familie: "Hericiaceae (Vitalpilz)"
 pflanzenteile: "Fruchtkörper"
 tags: ["lionsmane", "igelstachelbart", "nerven", "gedächtnis", "vitalpilz"]
 quelle: "heildepot"
+katalog_id: "lions-mane"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["nervenstärkend", "gedächtnisfördernd", "magenschützend", "immunstärkend"]

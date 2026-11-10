@@ -8,6 +8,7 @@ pflanzenteile: "Kraut (nur als Fertigpräparat)"
 schutz: "geschützt"
 tags: ["sonnentau", "husten", "keuchhusten", "geschützt", "fleischfressend"]
 quelle: "heildepot"
+katalog_id: "sonnentau"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "hustenstillend", "schleimlösend", "antibakteriell"]

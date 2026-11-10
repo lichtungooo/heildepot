@@ -7,6 +7,7 @@ familie: "Süßgräser (Poaceae)"
 pflanzenteile: "Wurzelstock (Rhizom)"
 tags: ["quecke", "harnwege", "blase", "blutreinigung", "unkraut"]
 quelle: "heildepot"
+katalog_id: "quecke"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["harntreibend", "entzündungshemmend", "schleimlösend", "blutreinigend"]

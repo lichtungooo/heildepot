@@ -7,6 +7,7 @@ familie: "Lauchgewächse (Amaryllidaceae)"
 pflanzenteile: "Zwiebel (Knolle)"
 tags: ["zwiebel", "husten", "ohrenschmerzen", "hausmittel", "erkältung"]
 quelle: "heildepot"
+katalog_id: "zwiebel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "antibakteriell", "entzündungshemmend", "hustenlindernd"]

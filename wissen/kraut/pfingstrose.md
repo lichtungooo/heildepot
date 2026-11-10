@@ -7,6 +7,7 @@ familie: "Pfingstrosengewächse (Paeoniaceae)"
 pflanzenteile: "Wurzel"
 tags: ["pfingstrose", "menstruation", "gicht", "beruhigend", "tcm"]
 quelle: "heildepot"
+katalog_id: "pfingstrose"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "beruhigend", "schmerzlindernd", "entzündungshemmend"]

@@ -7,6 +7,7 @@ familie: "Nelkengewächse (Caryophyllaceae)"
 pflanzenteile: "Kraut"
 tags: ["vogelmiere", "vitamine", "wildkraut", "juckreiz", "salat"]
 quelle: "heildepot"
+katalog_id: "vogelmiere"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["vitaminreich", "entzündungshemmend", "kühlend", "hustenstillend"]

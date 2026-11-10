@@ -7,6 +7,7 @@ familie: "Korbblütler"
 pflanzenteile: "Blätter, Stängel (Milchsaft)"
 tags: ["kopfsalat", "schlaf", "beruhigung", "milchsaft", "garten"]
 quelle: "heildepot"
+katalog_id: "kopfsalat"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "schlaffördernd", "kühlend", "harntreibend"]

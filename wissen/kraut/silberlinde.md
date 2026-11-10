@@ -7,6 +7,7 @@ familie: "Malvengewächse"
 pflanzenteile: "Blüten"
 tags: ["silberlinde", "fieber", "beruhigend", "erkältung", "schlaf"]
 quelle: "heildepot"
+katalog_id: "silberlinde"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "schweißtreibend", "krampflösend", "schlaffördernd"]

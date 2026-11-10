@@ -7,6 +7,7 @@ familie: "Raublattgewächse (Boraginaceae)"
 pflanzenteile: "Kraut"
 tags: ["lungenkraut", "lunge", "husten", "bronchien", "signaturenlehre"]
 quelle: "heildepot"
+katalog_id: "lungenkraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "reizlindernd", "hustenlindernd", "entzündungshemmend"]

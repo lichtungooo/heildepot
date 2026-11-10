@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Blätter"
 tags: ["stevia", "süßstoff", "diabetes", "kalorienfrei", "zähne"]
 quelle: "heildepot"
+katalog_id: "stevia"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["süßend", "blutzuckerregulierend", "zahnfreundlich", "blutdrucksenkend"]

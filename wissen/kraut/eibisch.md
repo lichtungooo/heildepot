@@ -7,6 +7,7 @@ familie: "Malvengewächse (Malvaceae)"
 pflanzenteile: "Wurzel, Blätter, Blüten"
 tags: ["eibisch", "husten", "reizhusten", "schleimhaut", "magen"]
 quelle: "heildepot"
+katalog_id: "eibisch"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimhautschützend", "reizlindernd", "hustenlindernd", "entzündungshemmend"]

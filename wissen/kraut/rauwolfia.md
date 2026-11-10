@@ -7,6 +7,7 @@ familie: "Hundsgiftgewächse (Apocynaceae)"
 pflanzenteile: "Wurzel (nur als Fertigpräparat)"
 tags: ["rauwolfia", "blutdruck", "beruhigung", "ayurveda", "giftig"]
 quelle: "heildepot"
+katalog_id: "rauwolfia"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutdrucksenkend", "beruhigend", "herzrhythmusregulierend"]

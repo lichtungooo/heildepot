@@ -7,6 +7,7 @@ familie: "Rötegewächse"
 pflanzenteile: "Wurzel"
 tags: ["krapp", "nierensteine", "blasensteine", "färberpflanze", "harnwege"]
 quelle: "heildepot"
+katalog_id: "krapp"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "harntreibend", "steinlösend"]

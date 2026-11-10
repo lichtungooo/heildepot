@@ -7,6 +7,7 @@ familie: "Kreuzblütler (Brassicaceae)"
 pflanzenteile: "Blätter"
 tags: ["barbarakraut", "winter", "vitaminC", "wildkraut"]
 quelle: "heildepot"
+katalog_id: "barbarakraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["vitaminreich", "harntreibend", "appetitanregend", "wundheilend"]

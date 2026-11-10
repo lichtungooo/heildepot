@@ -7,6 +7,7 @@ familie: "Walnussgewächse"
 pflanzenteile: "Blätter"
 tags: ["walnuss", "haut", "akne", "schweiß", "gerbstoffe"]
 quelle: "heildepot"
+katalog_id: "walnuss"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "entzündungshemmend", "hautpflegend", "schweißhemmend"]

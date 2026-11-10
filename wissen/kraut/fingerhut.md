@@ -7,6 +7,7 @@ familie: "Wegerichgewächse (Plantaginaceae)"
 pflanzenteile: "Blätter (nur als Arzneimittel)"
 tags: ["fingerhut", "herz", "giftig", "digitalis"]
 quelle: "heildepot"
+katalog_id: "fingerhut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["herzstärkend"]

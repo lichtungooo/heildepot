@@ -7,6 +7,7 @@ familie: "Lorbeergewächse"
 pflanzenteile: "Rinde, Wurzel"
 tags: ["sassafras", "blutreinigung", "rheuma", "indigene"]
 quelle: "heildepot"
+katalog_id: "sassafras"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutreinigend", "schweißtreibend", "entzündungshemmend", "harntreibend"]

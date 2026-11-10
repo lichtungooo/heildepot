@@ -7,6 +7,7 @@ familie: "Ratanhiagewächse"
 pflanzenteile: "Wurzel"
 tags: ["ratanhia", "zahnfleisch", "mundpflege", "gerbstoffe"]
 quelle: "heildepot"
+katalog_id: "ratanhia"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "blutstillend", "entzündungshemmend", "wundheilend"]

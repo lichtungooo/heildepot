@@ -7,6 +7,7 @@ familie: "Hülsenfrüchtler"
 pflanzenteile: "Blätter (nur äußerlich, Samen giftig)"
 tags: ["paternosterbohne", "giftig", "tropisch", "haut"]
 quelle: "heildepot"
+katalog_id: "paternosterbohne"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entzündungshemmend", "schleimlösend"]

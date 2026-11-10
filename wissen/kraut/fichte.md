@@ -7,6 +7,7 @@ familie: "Kieferngewächse"
 pflanzenteile: "Junge Triebe, Nadeln, Harz"
 tags: ["fichte", "husten", "maiwipferl", "bad", "wald"]
 quelle: "heildepot"
+katalog_id: "fichte"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "durchblutungsfördernd", "antiseptisch", "schmerzlindernd"]

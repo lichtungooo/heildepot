@@ -7,6 +7,7 @@ familie: "Araliengewächse (Araliaceae)"
 pflanzenteile: "Blätter"
 tags: ["efeu", "husten", "bronchitis", "schleimlösend"]
 quelle: "heildepot"
+katalog_id: "efeu"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "krampflösend", "auswurffördernd", "entzündungshemmend"]

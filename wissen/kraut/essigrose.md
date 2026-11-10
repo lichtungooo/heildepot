@@ -7,6 +7,7 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Blütenblätter"
 tags: ["essigrose", "herz", "haut", "rosenwasser", "duft"]
 quelle: "heildepot"
+katalog_id: "essigrose"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "entzündungshemmend", "stimmungsaufhellend", "hautpflegend"]

@@ -7,6 +7,7 @@ familie: "Frauenhaarfarngewächse (Pteridaceae)"
 pflanzenteile: "Wedel (Blätter)"
 tags: ["frauenhaar", "farn", "husten", "haare", "atemwege"]
 quelle: "heildepot"
+katalog_id: "frauenhaar"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "hustenstillend", "harntreibend", "haarwuchsfördernd"]

@@ -7,6 +7,7 @@ familie: "Birkengewächse (Betulaceae)"
 pflanzenteile: "Blätter, Saft"
 tags: ["birke", "niere", "entgiftung", "harnwege", "frühling"]
 quelle: "heildepot"
+katalog_id: "birke"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["harntreibend", "entgiftend", "entzündungshemmend", "blutreinigend"]

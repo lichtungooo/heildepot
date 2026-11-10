@@ -7,6 +7,7 @@ familie: "Süßgräser (Poaceae)"
 pflanzenteile: "Korn, Gras"
 tags: ["gerste", "gerstengras", "verdauung", "magen", "superfood"]
 quelle: "heildepot"
+katalog_id: "gerste"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["nährstoffreich", "verdauungsfördernd", "cholesterinsenkend", "stärkend"]

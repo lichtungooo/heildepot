@@ -7,6 +7,7 @@ familie: "Erdrauchgewächse (Fumariaceae)"
 pflanzenteile: "Kraut"
 tags: ["erdrauch", "galle", "leber", "haut", "blutreinigung"]
 quelle: "heildepot"
+katalog_id: "erdrauch"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["gallefördernd", "krampflösend", "blutreinigend", "hautpflegend"]

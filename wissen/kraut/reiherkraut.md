@@ -7,6 +7,7 @@ familie: "Storchschnabelgewächse"
 pflanzenteile: "Kraut"
 tags: ["reiherkraut", "blutung", "blase", "durchfall"]
 quelle: "heildepot"
+katalog_id: "reiherkraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutstillend", "harntreibend", "adstringierend", "entzündungshemmend"]

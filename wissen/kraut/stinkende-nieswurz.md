@@ -7,6 +7,7 @@ familie: "Hahnenfußgewächse"
 pflanzenteile: "Kraut (nur homöopathisch)"
 tags: ["stinkendenieswurz", "giftig", "homöopathie", "historisch"]
 quelle: "heildepot"
+katalog_id: "stinkende-nieswurz"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["herzwirksam", "abführend", "wurmmittel"]

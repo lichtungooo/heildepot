@@ -7,6 +7,7 @@ familie: "Amberbaumgewächse"
 pflanzenteile: "Harz, Balsam"
 tags: ["styrax", "räucherwerk", "haut", "atemwege", "beruhigung"]
 quelle: "heildepot"
+katalog_id: "styrax"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "desinfizierend", "beruhigend", "hautpflegend"]

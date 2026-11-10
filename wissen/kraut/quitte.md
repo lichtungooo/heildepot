@@ -7,6 +7,7 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Früchte, Samen"
 tags: ["quitte", "schleim", "husten", "haut", "gelee"]
 quelle: "heildepot"
+katalog_id: "quitte"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimhautschützend", "reizlindernd", "adstringierend", "entzündungshemmend"]

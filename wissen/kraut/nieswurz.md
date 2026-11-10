@@ -7,6 +7,7 @@ familie: "Hahnenfußgewächse (Ranunculaceae)"
 pflanzenteile: "Wurzelstock (nur als Fertigpräparat)"
 tags: ["nieswurz", "christrose", "giftig", "herz", "homöopathie"]
 quelle: "heildepot"
+katalog_id: "nieswurz"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["herzwirksam", "abführend", "niesfördernd"]

@@ -7,6 +7,7 @@ familie: "Lippenblütler"
 pflanzenteile: "Blätter"
 tags: ["lavendelsalbei", "gedächtnis", "hals", "beruhigung", "duft"]
 quelle: "heildepot"
+katalog_id: "lavendelsalbei"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["gedächtnisfördernd", "entzündungshemmend", "antibakteriell", "beruhigend"]

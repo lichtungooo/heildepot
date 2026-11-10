@@ -7,6 +7,7 @@ familie: "Korbblütler"
 pflanzenteile: "Kraut (nur homöopathisch)"
 tags: ["fuchskreuzkraut", "wundheilung", "giftig", "homöopathie"]
 quelle: "heildepot"
+katalog_id: "fuchskreuzkraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wundheilend", "blutstillend", "schmerzlindernd"]

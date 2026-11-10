@@ -7,6 +7,7 @@ familie: "Hahnenfußgewächse (Ranunculaceae)"
 pflanzenteile: "Wurzelstock (nur homöopathisch)"
 tags: ["christrose", "giftig", "homöopathie", "herz"]
 quelle: "heildepot"
+katalog_id: "christrose"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["herzstärkend", "harntreibend"]

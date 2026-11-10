@@ -7,6 +7,7 @@ familie: "Ölweidengewächse (Elaeagnaceae)"
 pflanzenteile: "Beeren"
 tags: ["sanddorn", "vitamin-c", "immunsystem", "haut", "schleimhaut"]
 quelle: "heildepot"
+katalog_id: "sanddorn"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["vitaminreich", "immunstärkend", "hautpflegend", "schleimhautschützend"]

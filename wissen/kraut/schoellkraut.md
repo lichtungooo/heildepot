@@ -7,6 +7,7 @@ familie: "Mohngewächse (Papaveraceae)"
 pflanzenteile: "Kraut, Milchsaft"
 tags: ["schöllkraut", "warzen", "leber", "galle", "warzenkraut"]
 quelle: "heildepot"
+katalog_id: "schoellkraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "gallefördernd", "leberstärkend", "warzenentfernend"]

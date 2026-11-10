@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Blüten"
 tags: ["arnika", "schmerzen", "prellungen", "muskeln", "sport"]
 quelle: "heildepot"
+katalog_id: "arnika"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entzündungshemmend", "schmerzlindernd", "abschwellend", "durchblutungsfördernd"]

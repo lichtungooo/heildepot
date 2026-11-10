@@ -7,6 +7,7 @@ familie: "Parmeliaceae (Flechten)"
 pflanzenteile: "Ganze Flechte"
 tags: ["isländischmoos", "husten", "heiserkeit", "schleimhaut", "atemwege"]
 quelle: "heildepot"
+katalog_id: "islaendisches-moos"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimhautschützend", "reizlindernd", "immunstärkend", "appetitanregend"]

@@ -7,6 +7,7 @@ familie: "Balsambaumgewächse"
 pflanzenteile: "Harz"
 tags: ["weihrauch", "entzündung", "rheuma", "gelenke", "ayurveda"]
 quelle: "heildepot"
+katalog_id: "weihrauch"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entzündungshemmend", "schmerzlindernd", "abschwellend", "immunmodulierend"]

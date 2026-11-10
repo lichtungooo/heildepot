@@ -7,6 +7,7 @@ familie: "Korbblütler"
 pflanzenteile: "Wurzel"
 tags: ["alant", "husten", "bronchien", "verdauung", "atemwege"]
 quelle: "heildepot"
+katalog_id: "alant"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "antibakteriell", "verdauungsfördernd", "auswurffördernd"]

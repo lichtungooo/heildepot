@@ -7,6 +7,7 @@ familie: "Chlorellaceae (Süßwasseralge)"
 pflanzenteile: "Ganze Alge"
 tags: ["chlorella", "entgiftung", "schwermetalle", "alge", "eisen"]
 quelle: "heildepot"
+katalog_id: "chlorella"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entgiftend", "nährstoffreich", "immunstärkend", "schwermetallausleitend"]

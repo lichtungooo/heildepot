@@ -7,6 +7,7 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Kraut"
 tags: ["odermennig", "leber", "galle", "hals", "wundheilung"]
 quelle: "heildepot"
+katalog_id: "odermennig"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "leberstärkend", "wundheilend", "verdauungsfördernd"]

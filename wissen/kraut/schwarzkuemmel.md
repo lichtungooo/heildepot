@@ -7,6 +7,7 @@ familie: "Hahnenfußgewächse (Ranunculaceae)"
 pflanzenteile: "Samen (Öl)"
 tags: ["schwarzkümmel", "allergie", "immunsystem", "asthma", "öl"]
 quelle: "heildepot"
+katalog_id: "schwarzkuemmel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["immunstärkend", "antiallergisch", "entzündungshemmend", "verdauungsfördernd"]

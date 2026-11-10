@@ -7,6 +7,7 @@ familie: "Braunwurzgewächse (Scrophulariaceae)"
 pflanzenteile: "Blüten"
 tags: ["königskerze", "husten", "bronchitis", "heiserkeit", "atemwege"]
 quelle: "heildepot"
+katalog_id: "koenigskerze"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "reizlindernd", "hustenlindernd", "entzündungshemmend"]

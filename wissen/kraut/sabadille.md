@@ -7,6 +7,7 @@ familie: "Germergewächse"
 pflanzenteile: "Samen (nur als Fertigpräparat)"
 tags: ["sabadille", "giftig", "läuse", "homöopathie", "heuschnupfen"]
 quelle: "heildepot"
+katalog_id: "sabadille"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antiparasitär", "insektizid"]

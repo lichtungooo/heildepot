@@ -7,6 +7,7 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut"
 tags: ["katzenminze", "beruhigend", "fieber", "erkältung", "kinder"]
 quelle: "heildepot"
+katalog_id: "katzenminze"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "krampflösend", "schweißtreibend", "fiebersenkend"]

@@ -7,6 +7,7 @@ familie: "Bennussgewächse (Moringaceae)"
 pflanzenteile: "Blätter, Samen"
 tags: ["moringa", "superfood", "nährstoffe", "antioxidantien", "energie"]
 quelle: "heildepot"
+katalog_id: "moringa"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["nährstoffreich", "antioxidativ", "entzündungshemmend", "blutzuckerregulierend"]

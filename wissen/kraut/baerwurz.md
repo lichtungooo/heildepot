@@ -7,6 +7,7 @@ familie: "Doldenblütler"
 pflanzenteile: "Wurzel"
 tags: ["bärwurz", "verdauung", "blähungen", "alpen", "tradition"]
 quelle: "heildepot"
+katalog_id: "baerwurz"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "blähungswidrig", "krampflösend", "wärmend"]

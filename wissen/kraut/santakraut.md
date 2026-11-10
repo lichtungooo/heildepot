@@ -7,6 +7,7 @@ familie: "Wasserblattgewächse"
 pflanzenteile: "Blätter"
 tags: ["santakraut", "yerbasanta", "husten", "asthma", "schleimlösend"]
 quelle: "heildepot"
+katalog_id: "santakraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "hustenstillend", "geschmacksverbessernd", "fiebersenkend"]

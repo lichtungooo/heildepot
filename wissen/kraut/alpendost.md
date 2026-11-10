@@ -7,6 +7,7 @@ familie: "Korbblütler"
 pflanzenteile: "Blätter, Kraut"
 tags: ["alpendost", "alpen", "husten", "wundheilung", "volksmedizin"]
 quelle: "heildepot"
+katalog_id: "alpendost"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "wundheilend", "schweißtreibend", "entzündungshemmend"]

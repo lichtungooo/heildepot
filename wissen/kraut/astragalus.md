@@ -7,6 +7,7 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Wurzel"
 tags: ["astragalus", "immunsystem", "adaptogen", "tcm", "energie"]
 quelle: "heildepot"
+katalog_id: "astragalus"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["immunstärkend", "adaptogen", "herzschützend", "entzündungshemmend"]

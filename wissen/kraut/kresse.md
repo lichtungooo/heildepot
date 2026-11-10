@@ -7,6 +7,7 @@ familie: "Kreuzblütler"
 pflanzenteile: "Kraut, Keimlinge"
 tags: ["kresse", "vitamine", "fensterbank", "senföle", "eisen"]
 quelle: "heildepot"
+katalog_id: "kresse"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["vitaminreich", "appetitanregend", "verdauungsfördernd", "antibakteriell"]

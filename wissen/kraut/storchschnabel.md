@@ -7,6 +7,7 @@ familie: "Storchschnabelgewächse (Geraniaceae)"
 pflanzenteile: "Kraut"
 tags: ["storchschnabel", "blutung", "wundheilung", "durchfall"]
 quelle: "heildepot"
+katalog_id: "storchschnabel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutstillend", "adstringierend", "entzündungshemmend", "wundheilend"]

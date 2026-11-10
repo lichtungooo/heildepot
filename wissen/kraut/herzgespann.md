@@ -7,6 +7,7 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut"
 tags: ["herzgespann", "herz", "herzrasen", "schilddrüse", "beruhigend"]
 quelle: "heildepot"
+katalog_id: "herzgespann"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["herzberuhigend", "krampflösend", "blutdrucksenkend", "angstlösend"]

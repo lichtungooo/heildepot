@@ -7,6 +7,7 @@ familie: "Rautengewächse"
 pflanzenteile: "Fruchtschale, Blüten, ätherisches Öl"
 tags: ["pomeranze", "bitterorange", "neroli", "appetit", "beruhigung"]
 quelle: "heildepot"
+katalog_id: "pomeranzen"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["appetitanregend", "beruhigend", "krampflösend", "verdauungsfördernd"]

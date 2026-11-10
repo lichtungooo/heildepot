@@ -7,6 +7,7 @@ familie: "Akanthusgewächse"
 pflanzenteile: "Kraut"
 tags: ["kalmegh", "erkältung", "immunsystem", "ayurveda", "antibiotisch"]
 quelle: "heildepot"
+katalog_id: "kalmegh"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["immunstärkend", "fiebersenkend", "entzündungshemmend", "leberschützend"]

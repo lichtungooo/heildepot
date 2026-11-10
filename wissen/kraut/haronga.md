@@ -7,6 +7,7 @@ familie: "Johanniskrautgewächse"
 pflanzenteile: "Blätter, Rinde"
 tags: ["haronga", "verdauung", "galle", "bauchspeicheldrüse", "afrika"]
 quelle: "heildepot"
+katalog_id: "haronga"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "gallefördernd", "bauchspeicheldrüsenanregend"]

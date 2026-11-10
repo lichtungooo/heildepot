@@ -7,6 +7,7 @@ familie: "Hundsgiftgewächse"
 pflanzenteile: "Wurzel"
 tags: ["schwalbenwurz", "gegengift", "fieber", "schweißtreibend"]
 quelle: "heildepot"
+katalog_id: "schwalbenwurz"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schweißtreibend", "harntreibend", "brechreizfördernd", "wundheilend"]

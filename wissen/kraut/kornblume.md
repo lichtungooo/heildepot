@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Blüten"
 tags: ["kornblume", "augen", "haut", "augenpflege"]
 quelle: "heildepot"
+katalog_id: "kornblume"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entzündungshemmend", "harntreibend", "augenpflegend", "hautberuhigend"]

@@ -7,6 +7,7 @@ familie: "Schwertliliengewächse (Iridaceae)"
 pflanzenteile: "Blütennarben"
 tags: ["safran", "depression", "stimmung", "PMS", "antidepressiv"]
 quelle: "heildepot"
+katalog_id: "safran"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["stimmungsaufhellend", "krampflösend", "antioxidativ", "verdauungsfördernd"]

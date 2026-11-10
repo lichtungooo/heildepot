@@ -7,6 +7,7 @@ familie: "Liliengewächse (Liliaceae)"
 pflanzenteile: "Zwiebel"
 tags: ["tulpe", "kosmetik", "haut", "historisch"]
 quelle: "heildepot"
+katalog_id: "tulpe"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["hautpflegend", "kühlend"]

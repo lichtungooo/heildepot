@@ -7,6 +7,7 @@ familie: "Lauchgewächse (Alliaceae)"
 pflanzenteile: "Knollen"
 tags: ["knoblauch", "blutdruck", "immunsystem", "antibakteriell", "herz"]
 quelle: "heildepot"
+katalog_id: "knoblauch"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antibakteriell", "blutdrucksenkend", "immunstärkend", "durchblutungsfördernd"]

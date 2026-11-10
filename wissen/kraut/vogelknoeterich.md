@@ -7,6 +7,7 @@ familie: "Knöterichgewächse"
 pflanzenteile: "Kraut"
 tags: ["vogelknöterich", "lunge", "blase", "kieselsäure", "wundheilung"]
 quelle: "heildepot"
+katalog_id: "vogelknoeterich"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "harntreibend", "schleimlösend", "wundheilend"]

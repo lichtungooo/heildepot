@@ -7,6 +7,7 @@ familie: "Zistrosengewächse"
 pflanzenteile: "Kraut"
 tags: ["zistrose", "antiviral", "immunsystem", "erkältung", "grippe"]
 quelle: "heildepot"
+katalog_id: "zistrose"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antiviral", "antibakteriell", "antioxidativ", "immunstärkend"]

@@ -7,6 +7,7 @@ familie: "Rötegewächse"
 pflanzenteile: "Frucht"
 tags: ["noni", "immunsystem", "schmerzen", "polynesien", "antioxidativ"]
 quelle: "heildepot"
+katalog_id: "noni"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["immunstärkend", "schmerzlindernd", "entzündungshemmend", "antioxidativ"]

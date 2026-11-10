@@ -7,6 +7,7 @@ familie: "Pfeffergewächse (Piperaceae)"
 pflanzenteile: "Wurzelstock"
 tags: ["kawakawa", "angst", "beruhigung", "südsee", "schlaf"]
 quelle: "heildepot"
+katalog_id: "kawa-kawa"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["angstlösend", "beruhigend", "muskelentspannend", "schlaffördernd"]

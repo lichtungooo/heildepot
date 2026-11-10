@@ -7,6 +7,7 @@ familie: "Kreuzblütler"
 pflanzenteile: "Kraut, Samen"
 tags: ["ackerhellerkraut", "entgiftung", "blutreinigung", "frühjahrskur"]
 quelle: "heildepot"
+katalog_id: "ackerhellerkraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutreinigend", "harntreibend", "schweißtreibend", "entzündungshemmend"]

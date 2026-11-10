@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Kraut"
 tags: ["wermut", "verdauung", "bitter", "parasiten", "galle"]
 quelle: "heildepot"
+katalog_id: "wermut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "gallefördernd", "appetitanregend", "antiparasitär"]

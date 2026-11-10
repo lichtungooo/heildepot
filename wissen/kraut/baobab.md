@@ -7,6 +7,7 @@ familie: "Malvengewächse"
 pflanzenteile: "Fruchtpulver"
 tags: ["baobab", "vitaminC", "superfood", "afrika", "präbiotisch"]
 quelle: "heildepot"
+katalog_id: "baobab"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["vitaminreich", "antioxidativ", "präbiotisch", "entzündungshemmend"]

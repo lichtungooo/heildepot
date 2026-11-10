@@ -7,6 +7,7 @@ familie: "Leingewächse"
 pflanzenteile: "Kraut"
 tags: ["purgierlein", "abführend", "galle", "verstopfung"]
 quelle: "heildepot"
+katalog_id: "purgierlein"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["abführend", "harntreibend", "gallentreibend"]

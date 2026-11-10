@@ -7,6 +7,7 @@ familie: "Sommerwurzgewächse (Orobanchaceae)"
 pflanzenteile: "Kraut"
 tags: ["augentrost", "augen", "heuschnupfen", "entzündung"]
 quelle: "heildepot"
+katalog_id: "augentrost"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entzündungshemmend", "adstringierend", "abschwellend"]

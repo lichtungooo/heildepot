@@ -7,6 +7,7 @@ familie: "Heidekrautgewächse (Ericaceae)"
 pflanzenteile: "Blätter"
 tags: ["bärentraube", "blase", "harnwege", "blasenentzündung"]
 quelle: "heildepot"
+katalog_id: "baerentraube"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antibakteriell", "harntreibend", "entzündungshemmend", "desinfizierend"]

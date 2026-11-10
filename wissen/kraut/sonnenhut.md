@@ -7,6 +7,7 @@ familie: "Korbblütler"
 pflanzenteile: "Kraut, Wurzel"
 tags: ["echinacea", "sonnenhut", "immunsystem", "erkältung", "abwehr"]
 quelle: "heildepot"
+katalog_id: "sonnenhut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["immunstimulierend", "entzündungshemmend", "antiviral", "wundheilend"]

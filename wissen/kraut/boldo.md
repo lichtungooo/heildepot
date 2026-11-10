@@ -7,6 +7,7 @@ familie: "Monimiaceae"
 pflanzenteile: "Blätter"
 tags: ["boldo", "leber", "galle", "chile", "verdauung"]
 quelle: "heildepot"
+katalog_id: "boldo"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["gallefördernd", "leberschützend", "krampflösend", "verdauungsfördernd"]

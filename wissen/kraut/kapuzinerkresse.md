@@ -7,6 +7,7 @@ familie: "Kapuzinerkressengewächse (Tropaeolaceae)"
 pflanzenteile: "Blätter, Blüten, Samen"
 tags: ["kapuzinerkresse", "antibiotisch", "harnwege", "atemwege", "immunsystem"]
 quelle: "heildepot"
+katalog_id: "kapuzinerkresse"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antibiotisch", "schleimlösend", "immunstärkend", "durchblutungsfördernd"]

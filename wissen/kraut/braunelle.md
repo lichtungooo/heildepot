@@ -7,6 +7,7 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut, Blüten"
 tags: ["braunelle", "halsschmerzen", "herpes", "antiviral", "tcm"]
 quelle: "heildepot"
+katalog_id: "braunelle"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antibakteriell", "antiviral", "wundheilend", "entzündungshemmend"]

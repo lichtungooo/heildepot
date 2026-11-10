@@ -7,6 +7,7 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut"
 tags: ["gamander", "verdauung", "appetit", "gicht", "rheuma"]
 quelle: "heildepot"
+katalog_id: "gamander"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "appetitanregend", "entzündungshemmend", "tonisierend"]

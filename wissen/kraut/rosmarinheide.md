@@ -8,6 +8,7 @@ pflanzenteile: "Blätter (nur äußerlich, giftig)"
 schutz: "geschützt"
 tags: ["rosmarinheide", "moor", "giftig", "geschützt", "gelenke"]
 quelle: "heildepot"
+katalog_id: "rosmarinheide"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "entzündungshemmend"]

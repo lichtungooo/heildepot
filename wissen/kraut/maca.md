@@ -7,6 +7,7 @@ familie: "Kreuzblütler (Brassicaceae)"
 pflanzenteile: "Knolle"
 tags: ["maca", "potenz", "energie", "adaptogen", "inka"]
 quelle: "heildepot"
+katalog_id: "maca"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adaptogen", "potenzfördernd", "energiesteigernd", "hormonausgleichend"]

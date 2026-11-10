@@ -7,6 +7,7 @@ familie: "Nachtschattengewächse (Solanaceae)"
 pflanzenteile: "Früchte"
 tags: ["paprika", "vitaminC", "immunsystem", "antioxidativ"]
 quelle: "heildepot"
+katalog_id: "paprika"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["vitaminreich", "durchblutungsfördernd", "antioxidativ", "immunstärkend"]

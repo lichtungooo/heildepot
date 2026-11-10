@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Blüten, ätherisches Öl"
 tags: ["currystrauch", "immortelle", "bluterguss", "narben", "hautpflege"]
 quelle: "heildepot"
+katalog_id: "currystrauch"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entzündungshemmend", "abschwellend", "hautpflegend", "wundheilend"]

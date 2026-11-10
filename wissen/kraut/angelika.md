@@ -7,6 +7,7 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Wurzel"
 tags: ["engelwurz", "verdauung", "blähungen", "wärmend", "magen"]
 quelle: "heildepot"
+katalog_id: "angelika"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "krampflösend", "wärmend", "stärkend"]

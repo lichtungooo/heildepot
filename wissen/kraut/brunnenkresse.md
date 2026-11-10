@@ -7,6 +7,7 @@ familie: "Kreuzblütler (Brassicaceae)"
 pflanzenteile: "Kraut"
 tags: ["brunnenkresse", "vitamine", "frühling", "bronchien", "eisen"]
 quelle: "heildepot"
+katalog_id: "brunnenkresse"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["vitaminreich", "schleimlösend", "harntreibend", "appetitanregend"]

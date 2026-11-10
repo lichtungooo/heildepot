@@ -7,6 +7,7 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Blätter, Früchte"
 tags: ["walderdbeere", "vitamine", "blutreinigung", "durchfall"]
 quelle: "heildepot"
+katalog_id: "erdbeere"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutreinigend", "harntreibend", "adstringierend", "vitaminreich"]

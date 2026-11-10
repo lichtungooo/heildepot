@@ -7,6 +7,7 @@ familie: "Nachtschattengewächse"
 pflanzenteile: "Beeren"
 tags: ["goji", "superfood", "augen", "tcm", "antioxidativ"]
 quelle: "heildepot"
+katalog_id: "goji"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antioxidativ", "immunstärkend", "augenstärkend", "lebertonisch"]

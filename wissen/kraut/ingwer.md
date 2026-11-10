@@ -7,6 +7,7 @@ familie: "Ingwergewächse (Zingiberaceae)"
 pflanzenteile: "Wurzelstock (Rhizom)"
 tags: ["ingwer", "wärmend", "übelkeit", "erkältung", "entzündung"]
 quelle: "heildepot"
+katalog_id: "ingwer"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wärmend", "entzündungshemmend", "übelkeitslindernd", "durchblutungsfördernd"]

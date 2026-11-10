@@ -7,6 +7,7 @@ familie: "Heidekrautgewächse (Ericaceae)"
 pflanzenteile: "Blüten, Kraut"
 tags: ["heidekraut", "blase", "niere", "beruhigend", "rheuma"]
 quelle: "heildepot"
+katalog_id: "heidekraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["harntreibend", "beruhigend", "entzündungshemmend", "blutreinigend"]

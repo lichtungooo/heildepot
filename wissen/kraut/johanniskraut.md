@@ -7,6 +7,7 @@ familie: "Johanniskrautgewächse (Hypericaceae)"
 pflanzenteile: "Kraut (blühende Triebspitzen)"
 tags: ["johanniskraut", "depression", "stimmung", "nerven", "rotöl"]
 quelle: "heildepot"
+katalog_id: "johanniskraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["stimmungsaufhellend", "nervenstärkend", "wundheilend", "entzündungshemmend"]

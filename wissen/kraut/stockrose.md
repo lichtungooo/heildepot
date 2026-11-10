@@ -7,6 +7,7 @@ familie: "Malvengewächse (Malvaceae)"
 pflanzenteile: "Blüten"
 tags: ["stockrose", "husten", "heiserkeit", "schleimhaut", "garten"]
 quelle: "heildepot"
+katalog_id: "stockrose"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimhautschützend", "reizlindernd", "entzündungshemmend", "schleimlösend"]

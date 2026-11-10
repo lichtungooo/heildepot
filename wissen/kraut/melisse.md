@@ -7,6 +7,7 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Blätter"
 tags: ["melisse", "beruhigend", "schlaf", "herpes", "verdauung"]
 quelle: "heildepot"
+katalog_id: "melisse"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "krampflösend", "antiviral", "verdauungsfördernd"]

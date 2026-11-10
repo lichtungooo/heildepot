@@ -7,6 +7,7 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Samen"
 tags: ["bockshornklee", "blutzucker", "stillen", "stärkung", "haut"]
 quelle: "heildepot"
+katalog_id: "bockshornklee"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutzuckersenkend", "entzündungshemmend", "milchbildend", "kräftigend"]

@@ -7,6 +7,7 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut"
 tags: ["andorn", "husten", "verdauung", "bitter", "appetit"]
 quelle: "heildepot"
+katalog_id: "andorn"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "verdauungsfördernd", "appetitanregend", "gallefördernd"]

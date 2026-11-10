@@ -7,6 +7,7 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Wurzel, Blätter, Samen"
 tags: ["liebstöckel", "niere", "verdauung", "harnwege", "küche"]
 quelle: "heildepot"
+katalog_id: "liebstoeckel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["harntreibend", "verdauungsfördernd", "krampflösend", "durchspülend"]

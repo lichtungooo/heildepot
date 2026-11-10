@@ -7,6 +7,7 @@ familie: "Maulbeergewächse (Moraceae)"
 pflanzenteile: "Früchte, Blätter, Milchsaft"
 tags: ["feige", "verstopfung", "warzen", "nährend", "mittelmeer"]
 quelle: "heildepot"
+katalog_id: "feige"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["abführend", "nährend", "hustenstillend", "entzündungshemmend"]

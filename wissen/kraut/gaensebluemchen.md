@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Blüten, Blätter"
 tags: ["gänseblümchen", "blutreinigung", "kinder", "haut", "husten"]
 quelle: "heildepot"
+katalog_id: "gaensebluemchen"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutreinigend", "stoffwechselanregend", "wundheilend", "schleimlösend"]

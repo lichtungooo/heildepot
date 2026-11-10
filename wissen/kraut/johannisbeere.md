@@ -7,6 +7,7 @@ familie: "Stachelbeergewächse"
 pflanzenteile: "Blätter, Beeren"
 tags: ["johannisbeere", "allergie", "vitamin-c", "entzündung", "immunsystem"]
 quelle: "heildepot"
+katalog_id: "johannisbeere"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entzündungshemmend", "vitaminreich", "immunstärkend", "antiallergisch"]

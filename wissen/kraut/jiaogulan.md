@@ -7,6 +7,7 @@ familie: "Kürbisgewächse (Cucurbitaceae)"
 pflanzenteile: "Blätter"
 tags: ["jiaogulan", "adaptogen", "unsterblichkeit", "blutdruck", "immunsystem"]
 quelle: "heildepot"
+katalog_id: "jiaogulan"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adaptogen", "immunstärkend", "blutdruckregulierend", "antioxidativ"]

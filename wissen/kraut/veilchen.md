@@ -7,6 +7,7 @@ familie: "Veilchengewächse"
 pflanzenteile: "Blüten, Blätter"
 tags: ["veilchen", "husten", "kopfschmerzen", "hildegard", "beruhigend"]
 quelle: "heildepot"
+katalog_id: "veilchen"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "hustenlindernd", "schmerzlindernd", "beruhigend"]

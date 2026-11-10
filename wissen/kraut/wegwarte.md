@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Wurzel, Kraut"
 tags: ["wegwarte", "leber", "galle", "kaffeeersatz", "verdauung"]
 quelle: "heildepot"
+katalog_id: "wegwarte"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["leberstärkend", "gallefördernd", "verdauungsfördernd", "blutzuckerregulierend"]

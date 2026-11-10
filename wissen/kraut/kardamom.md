@@ -7,6 +7,7 @@ familie: "Ingwergewächse (Zingiberaceae)"
 pflanzenteile: "Fruchtkapseln"
 tags: ["kardamom", "verdauung", "blähungen", "gewürz", "wärmend"]
 quelle: "heildepot"
+katalog_id: "kardamom"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "wärmend", "blähungswidrig", "stimmungsaufhellend"]

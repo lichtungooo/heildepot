@@ -7,6 +7,7 @@ familie: "Wegerichgewächse (Plantaginaceae)"
 pflanzenteile: "Kraut"
 tags: ["bachbunge", "frühling", "wildkraut", "blutreinigung", "vitamine"]
 quelle: "heildepot"
+katalog_id: "bachbunge"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutreinigend", "harntreibend", "vitaminreich", "schleimlösend"]

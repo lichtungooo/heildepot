@@ -7,6 +7,7 @@ familie: "Safranmalvengewächse (Passifloraceae)"
 pflanzenteile: "Kraut"
 tags: ["damiana", "libido", "stimmung", "nerven", "kraft"]
 quelle: "heildepot"
+katalog_id: "damiana"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["aphrodisierend", "stimmungsaufhellend", "angstlösend", "nervenstärkend"]

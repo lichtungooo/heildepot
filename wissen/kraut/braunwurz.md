@@ -7,6 +7,7 @@ familie: "Braunwurzgewächse (Scrophulariaceae)"
 pflanzenteile: "Kraut, Wurzel"
 tags: ["braunwurz", "lymphe", "haut", "drüsen"]
 quelle: "heildepot"
+katalog_id: "braunwurz"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["lymphanregend", "entzündungshemmend", "wundheilend", "hautpflegend"]

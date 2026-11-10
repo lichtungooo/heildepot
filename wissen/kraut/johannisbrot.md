@@ -7,6 +7,7 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Schoten, Samen"
 tags: ["johannisbrot", "carob", "durchfall", "kinder", "cholesterin"]
 quelle: "heildepot"
+katalog_id: "johannisbrot"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "durchfallhemmend", "nährend", "cholesterinsenkend"]

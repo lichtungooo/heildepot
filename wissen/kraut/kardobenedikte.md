@@ -7,6 +7,7 @@ familie: "Korbblütler"
 pflanzenteile: "Kraut"
 tags: ["kardobenedikte", "appetit", "verdauung", "galle", "klostergarten"]
 quelle: "heildepot"
+katalog_id: "kardobenedikte"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["appetitanregend", "verdauungsfördernd", "gallefördernd", "fiebersenkend"]

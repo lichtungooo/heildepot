@@ -7,6 +7,7 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut"
 tags: ["bohnenkraut", "gewürz", "blähungen", "verdauung", "küchenkraut"]
 quelle: "heildepot"
+katalog_id: "bohnenkraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blähungswidrig", "verdauungsfördernd", "antibakteriell", "appetitanregend"]

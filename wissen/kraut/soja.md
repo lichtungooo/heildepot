@@ -7,6 +7,7 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Bohnen (Samen)"
 tags: ["soja", "isoflavone", "wechseljahre", "protein", "cholesterin"]
 quelle: "heildepot"
+katalog_id: "soja"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["östrogenartig", "cholesterinsenkend", "knochenstärkend", "proteinreich"]

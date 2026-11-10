@@ -7,6 +7,7 @@ familie: "Raublattgewächse (Boraginaceae)"
 pflanzenteile: "Wurzel"
 tags: ["beinwell", "knochen", "gelenke", "wundheilung", "sport"]
 quelle: "heildepot"
+katalog_id: "beinwell"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wundheilend", "knochenheilend", "entzündungshemmend", "schmerzlindernd"]

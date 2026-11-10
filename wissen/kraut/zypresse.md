@@ -7,6 +7,7 @@ familie: "Zypressengewächse (Cupressaceae)"
 pflanzenteile: "Zapfen, Zweige"
 tags: ["zypresse", "venen", "krampfadern", "schweiß", "trauer"]
 quelle: "heildepot"
+katalog_id: "zypresse"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["venenstärkend", "adstringierend", "krampflösend", "schweißhemmend"]

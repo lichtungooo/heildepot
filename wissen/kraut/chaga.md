@@ -7,6 +7,7 @@ familie: "Borstenscheiblingsartige (Hymenochaetaceae)"
 pflanzenteile: "Fruchtkörper"
 tags: ["chaga", "pilz", "immunsystem", "antioxidativ", "sibirien"]
 quelle: "heildepot"
+katalog_id: "chaga"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["immunmodulierend", "antioxidativ", "entzündungshemmend", "adaptogen"]

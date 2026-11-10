@@ -7,6 +7,7 @@ familie: "Dickblattgewächse (Crassulaceae)"
 pflanzenteile: "Blätter"
 tags: ["fetthenne", "wundheilung", "insektenstiche", "fensterbrett"]
 quelle: "heildepot"
+katalog_id: "fetthenne"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wundheilend", "entzündungshemmend", "kühlend", "schmerzlindernd"]

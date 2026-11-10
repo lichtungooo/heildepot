@@ -7,6 +7,7 @@ familie: "Süßgräser (Poaceae)"
 pflanzenteile: "Korn"
 tags: ["reis", "durchfall", "entwässerung", "schonkost"]
 quelle: "heildepot"
+katalog_id: "reis"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schonend", "entwässernd", "adstringierend", "energieliefernd"]

@@ -7,6 +7,7 @@ familie: "Kreuzblütler"
 pflanzenteile: "Blätter, Triebe"
 tags: ["pfeilkresse", "wildkraut", "vitaminc", "verdauung"]
 quelle: "heildepot"
+katalog_id: "pfeilkresse"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "harntreibend", "vitaminreich"]

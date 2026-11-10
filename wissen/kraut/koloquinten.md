@@ -7,6 +7,7 @@ familie: "Kürbisgewächse"
 pflanzenteile: "Frucht (nur homöopathisch)"
 tags: ["koloquinten", "homöopathie", "krämpfe", "ischias", "giftig"]
 quelle: "heildepot"
+katalog_id: "koloquinten"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["stark abführend", "entzündungshemmend"]

@@ -7,6 +7,7 @@ familie: "Zaubernussgewächse"
 pflanzenteile: "Rinde, Blätter"
 tags: ["zaubernuss", "hämorrhoiden", "haut", "venen", "gesichtswasser"]
 quelle: "heildepot"
+katalog_id: "zaubernuss-extra"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "entzündungshemmend", "blutstillend", "venenstärkend"]

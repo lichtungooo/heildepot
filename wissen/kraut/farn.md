@@ -7,6 +7,7 @@ familie: "Wurmfarngewächse"
 pflanzenteile: "Wurzelstock (nur als Fertigpräparat)"
 tags: ["farn", "wurmfarn", "parasiten", "giftig"]
 quelle: "heildepot"
+katalog_id: "farn"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wurmtreibend"]

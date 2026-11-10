@@ -7,6 +7,7 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Früchte, Blätter"
 tags: ["mispel", "durchfall", "mittelalter", "marmelade"]
 quelle: "heildepot"
+katalog_id: "mispel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "verdauungsfördernd", "entzündungshemmend", "harntreibend"]

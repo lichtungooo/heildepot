@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Kraut"
 tags: ["estragon", "verdauung", "appetit", "gewürz", "küche"]
 quelle: "heildepot"
+katalog_id: "estragon"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "appetitanregend", "krampflösend", "harntreibend"]

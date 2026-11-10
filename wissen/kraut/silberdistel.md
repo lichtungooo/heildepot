@@ -8,6 +8,7 @@ pflanzenteile: "Wurzel (nur aus Anbau)"
 schutz: "geschützt"
 tags: ["silberdistel", "eberwurz", "alpen", "geschützt", "verdauung"]
 quelle: "heildepot"
+katalog_id: "silberdistel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "harntreibend", "schweißtreibend", "wurmmittel"]

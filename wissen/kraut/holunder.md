@@ -7,6 +7,7 @@ familie: "Moschuskrautgewächse (Adoxaceae)"
 pflanzenteile: "Blüten, Beeren"
 tags: ["holunder", "erkältung", "fieber", "immunsystem", "schweißtreibend"]
 quelle: "heildepot"
+katalog_id: "holunder"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schweißtreibend", "immunstärkend", "schleimlösend", "fiebersenkend"]

@@ -7,6 +7,7 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Blüten"
 tags: ["kamille", "magen", "beruhigend", "entzündung", "haut"]
 quelle: "heildepot"
+katalog_id: "kamille"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entzündungshemmend", "krampflösend", "beruhigend", "wundheilend"]

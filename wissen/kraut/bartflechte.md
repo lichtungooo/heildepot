@@ -7,6 +7,7 @@ familie: "Parmeliaceae (Flechten)"
 pflanzenteile: "Ganze Flechte"
 tags: ["bartflechte", "antibiotisch", "halsschmerzen", "atemwege"]
 quelle: "heildepot"
+katalog_id: "bartflechte"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antibiotisch", "schleimlösend", "immunstärkend", "entzündungshemmend"]

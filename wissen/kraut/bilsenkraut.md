@@ -7,6 +7,7 @@ familie: "Nachtschattengewächse (Solanaceae)"
 pflanzenteile: "Blätter, Samen (nur als Fertigpräparat)"
 tags: ["bilsenkraut", "giftig", "schmerzen", "homöopathie", "hexenkraut"]
 quelle: "heildepot"
+katalog_id: "bilsenkraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "schmerzlindernd", "beruhigend"]

@@ -7,6 +7,7 @@ familie: "Buchsbaumgewächse (Buxaceae)"
 pflanzenteile: "Blätter (nur homöopathisch)"
 tags: ["buchsbaum", "giftig", "fieber", "homöopathie"]
 quelle: "heildepot"
+katalog_id: "buchsbaum"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schweißtreibend", "fiebersenkend", "blutreinigend"]

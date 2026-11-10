@@ -7,6 +7,7 @@ familie: "Kürbisgewächse"
 pflanzenteile: "Blätter"
 tags: ["jiaogulan", "unsterblichkeit", "adaptogen", "langlebigkeit"]
 quelle: "heildepot"
+katalog_id: "jiaogulan-extra"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adaptogen", "blutdruckregulierend", "cholesterinsenkend", "immunmodulierend"]

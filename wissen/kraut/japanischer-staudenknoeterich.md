@@ -7,6 +7,7 @@ familie: "Knöterichgewächse"
 pflanzenteile: "Wurzel"
 tags: ["staudenknöterich", "resveratrol", "borreliose", "gefäße", "antioxidativ"]
 quelle: "heildepot"
+katalog_id: "japanischer-staudenknoeterich"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entzündungshemmend", "antioxidativ", "durchblutungsfördernd", "immunstärkend"]

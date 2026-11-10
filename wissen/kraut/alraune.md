@@ -7,6 +7,7 @@ familie: "Nachtschattengewächse (Solanaceae)"
 pflanzenteile: "Wurzel (historisch)"
 tags: ["alraune", "zauberpflanze", "mittelalter", "giftig", "mythologie"]
 quelle: "heildepot"
+katalog_id: "alraune"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schmerzlindernd", "beruhigend", "krampflösend"]

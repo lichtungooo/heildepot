@@ -7,6 +7,7 @@ familie: "Osterluzeigewächse"
 pflanzenteile: "Wurzel, Kraut (obsolet)"
 tags: ["osterluzei", "giftig", "historisch", "wundheilung"]
 quelle: "heildepot"
+katalog_id: "osterluzei"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wundheilend", "immunstimulierend", "menstruationsfördernd"]

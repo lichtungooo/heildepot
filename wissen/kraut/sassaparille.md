@@ -7,6 +7,7 @@ familie: "Stechwindengewächse"
 pflanzenteile: "Wurzel"
 tags: ["sassaparille", "blutreinigung", "haut", "gicht"]
 quelle: "heildepot"
+katalog_id: "sassaparille"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutreinigend", "entzündungshemmend", "schweißtreibend", "harntreibend"]

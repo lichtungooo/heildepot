@@ -7,6 +7,7 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Blüten, Blätter"
 tags: ["goldmelisse", "tee", "schlaf", "verdauung", "beruhigend"]
 quelle: "heildepot"
+katalog_id: "goldmelisse"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "verdauungsfördernd", "antiseptisch", "schleimlösend"]

@@ -7,6 +7,7 @@ familie: "Lindengewächse (Tiliaceae)"
 pflanzenteile: "Blüten mit Hochblatt"
 tags: ["linde", "erkältung", "fieber", "beruhigend", "schweißtreibend"]
 quelle: "heildepot"
+katalog_id: "linde"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schweißtreibend", "beruhigend", "schleimlösend", "krampflösend"]

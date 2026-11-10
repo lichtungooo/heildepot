@@ -7,6 +7,7 @@ familie: "Sauergräser (Cyperaceae)"
 pflanzenteile: "Kraut"
 tags: ["wollgras", "moor", "bachblüten"]
 quelle: "heildepot"
+katalog_id: "wollgras"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "harntreibend"]

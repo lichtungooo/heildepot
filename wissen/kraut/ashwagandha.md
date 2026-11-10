@@ -7,6 +7,7 @@ familie: "Nachtschattengewächse (Solanaceae)"
 pflanzenteile: "Wurzel"
 tags: ["ashwagandha", "stress", "schlaf", "adaptogen", "kraft"]
 quelle: "heildepot"
+katalog_id: "ashwagandha"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adaptogen", "stresslindernd", "kräftigend", "schlaffördernd"]

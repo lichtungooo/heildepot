@@ -7,6 +7,7 @@ familie: "Primelgewächse"
 pflanzenteile: "Kraut, Blüten"
 tags: ["gilbweiderich", "wundheilung", "blutstillend", "durchfall"]
 quelle: "heildepot"
+katalog_id: "gilbweiderich"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "wundheilend", "blutstillend", "entzündungshemmend"]

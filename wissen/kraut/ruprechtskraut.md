@@ -7,6 +7,7 @@ familie: "Storchschnabelgewächse"
 pflanzenteile: "Kraut"
 tags: ["ruprechtskraut", "storchschnabel", "blutung", "durchfall", "wundheilung"]
 quelle: "heildepot"
+katalog_id: "ruprechtskraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutstillend", "adstringierend", "entzündungshemmend", "harntreibend"]

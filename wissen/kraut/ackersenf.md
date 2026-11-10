@@ -7,6 +7,7 @@ familie: "Kreuzblütler"
 pflanzenteile: "Samen, Kraut"
 tags: ["ackersenf", "wickel", "durchblutung", "bronchitis", "verdauung"]
 quelle: "heildepot"
+katalog_id: "ackersenf"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["durchblutungsfördernd", "schleimlösend", "verdauungsfördernd", "wärmend"]

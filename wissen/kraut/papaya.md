@@ -7,6 +7,7 @@ familie: "Melonenbaumgewächse (Caricaceae)"
 pflanzenteile: "Frucht, Kerne, Blätter"
 tags: ["papaya", "verdauung", "papain", "parasiten", "enzyme"]
 quelle: "heildepot"
+katalog_id: "papaya"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "entzündungshemmend", "wurmtreibend", "immunstärkend"]

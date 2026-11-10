@@ -7,6 +7,7 @@ familie: "Stechpalmengewächse (Aquifoliaceae)"
 pflanzenteile: "Blätter"
 tags: ["mate", "energie", "stoffwechsel", "abnehmen", "südamerika"]
 quelle: "heildepot"
+katalog_id: "mate"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["anregend", "harntreibend", "stoffwechselanregend", "hungerstillend"]

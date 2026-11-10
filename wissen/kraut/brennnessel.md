@@ -7,6 +7,7 @@ familie: "Nesselgewächse (Urticaceae)"
 pflanzenteile: "Blätter, Samen, Wurzel"
 tags: ["brennnessel", "eisen", "niere", "rheuma", "entgiftung"]
 quelle: "heildepot"
+katalog_id: "brennnessel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutreinigend", "harntreibend", "entzündungshemmend", "eisenreich"]

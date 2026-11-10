@@ -7,6 +7,7 @@ familie: "Glockenblumengewächse (Campanulaceae)"
 pflanzenteile: "Kraut (nur als Fertigpräparat)"
 tags: ["lobelie", "asthma", "indianertabak", "atemwege", "krampflösend"]
 quelle: "heildepot"
+katalog_id: "lobelie"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "atemwegsöffnend", "brecherregend", "schweißtreibend"]

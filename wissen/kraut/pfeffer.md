@@ -7,6 +7,7 @@ familie: "Pfeffergewächse (Piperaceae)"
 pflanzenteile: "Früchte (Körner)"
 tags: ["pfeffer", "verdauung", "kurkuma", "bioverfügbarkeit", "ayurveda"]
 quelle: "heildepot"
+katalog_id: "pfeffer"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "durchblutungsfördernd", "schleimlösend", "bioverfügbarkeitsfördernd"]

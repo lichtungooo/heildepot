@@ -7,6 +7,7 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut"
 tags: ["thymian", "husten", "bronchitis", "erkältung", "atemwege"]
 quelle: "heildepot"
+katalog_id: "thymian"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "antibakteriell", "krampflösend", "auswurffördernd"]

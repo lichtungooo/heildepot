@@ -7,6 +7,7 @@ familie: "Germergewächse"
 pflanzenteile: "Ganze Pflanze (nur homöopathisch)"
 tags: ["einbeere", "homöopathie", "neuralgie", "giftig", "waldpflanze"]
 quelle: "heildepot"
+katalog_id: "einbeere"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "entzündungshemmend", "schmerzlindernd"]

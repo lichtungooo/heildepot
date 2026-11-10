@@ -7,6 +7,7 @@ familie: "Knöterichgewächse"
 pflanzenteile: "Blätter"
 tags: ["blutampfer", "eisen", "blutreinigung", "salat", "frühjahrskur"]
 quelle: "heildepot"
+katalog_id: "blutampfer"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutreinigend", "eisenhaltig", "verdauungsfördernd", "vitaminreich"]

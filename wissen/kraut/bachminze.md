@@ -7,6 +7,7 @@ familie: "Lippenblütler"
 pflanzenteile: "Kraut, Blätter"
 tags: ["bachminze", "magen", "kopfschmerzen", "kühlend", "wildkraut"]
 quelle: "heildepot"
+katalog_id: "bachminze"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "kühlend", "verdauungsfördernd", "schmerzlindernd"]

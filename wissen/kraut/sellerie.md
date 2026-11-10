@@ -7,6 +7,7 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Knolle, Stangen, Blätter, Samen"
 tags: ["sellerie", "gicht", "blutdruck", "entsäuerung", "saft"]
 quelle: "heildepot"
+katalog_id: "sellerie"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["harntreibend", "entsäuernd", "blutdrucksenkend", "entzündungshemmend"]

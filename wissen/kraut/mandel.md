@@ -7,6 +7,7 @@ familie: "Rosengewächse"
 pflanzenteile: "Nüsse, Öl"
 tags: ["mandel", "haut", "massage", "mandelöl", "nährstoffe"]
 quelle: "heildepot"
+katalog_id: "mandel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["hautpflegend", "stärkend", "beruhigend", "nährstoffreich"]

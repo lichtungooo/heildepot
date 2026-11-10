@@ -7,6 +7,7 @@ familie: "Doldenblütler"
 pflanzenteile: "Früchte"
 tags: ["khella", "asthma", "bronchien", "krämpfe", "ägypten"]
 quelle: "heildepot"
+katalog_id: "khella"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "gefäßerweiternd", "bronchienerweiternd"]

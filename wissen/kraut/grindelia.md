@@ -7,6 +7,7 @@ familie: "Korbblütler"
 pflanzenteile: "Kraut, Blüten"
 tags: ["grindelia", "asthma", "bronchitis", "husten", "schleimlösend"]
 quelle: "heildepot"
+katalog_id: "grindelia"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "krampflösend", "auswurffördernd", "entzündungshemmend"]

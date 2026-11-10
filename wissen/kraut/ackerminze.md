@@ -7,6 +7,7 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut, Blätter"
 tags: ["ackerminze", "kopfschmerzen", "verdauung", "kühlung", "atemwege"]
 quelle: "heildepot"
+katalog_id: "ackerminze"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["kühlend", "krampflösend", "schmerzlindernd", "verdauungsfördernd"]

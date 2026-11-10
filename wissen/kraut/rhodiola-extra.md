@@ -7,6 +7,7 @@ familie: "Dickblattgewächse"
 pflanzenteile: "Wurzel"
 tags: ["rhodiola", "adaptogen", "stress", "burnout", "leistung"]
 quelle: "heildepot"
+katalog_id: "rhodiola-extra"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adaptogen", "leistungssteigernd", "stimmungsaufhellend", "stressschützend"]

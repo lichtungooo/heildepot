@@ -7,6 +7,7 @@ familie: "Myrtengewächse (Myrtaceae)"
 pflanzenteile: "Blätter, ätherisches Öl"
 tags: ["myrte", "atemwege", "kinder", "inhalieren", "sanft"]
 quelle: "heildepot"
+katalog_id: "myrte"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "antiseptisch", "entzündungshemmend", "auswurffördernd"]

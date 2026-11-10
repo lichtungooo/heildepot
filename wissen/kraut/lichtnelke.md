@@ -7,6 +7,7 @@ familie: "Nelkengewächse (Caryophyllaceae)"
 pflanzenteile: "Kraut, Blüten"
 tags: ["lichtnelke", "husten", "wildkraut"]
 quelle: "heildepot"
+katalog_id: "lichtnelke"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "entzündungshemmend"]

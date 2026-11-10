@@ -7,6 +7,7 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Samen"
 tags: ["linsen", "eisen", "protein", "blutzucker", "sättigend"]
 quelle: "heildepot"
+katalog_id: "linsen"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["eisenreich", "proteinreich", "blutzuckerregulierend", "verdauungsfördernd"]

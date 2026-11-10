@@ -7,6 +7,7 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Blätter"
 tags: ["salbei", "hals", "schwitzen", "wechseljahre", "mundpflege"]
 quelle: "heildepot"
+katalog_id: "salbei"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antibakteriell", "schweißhemmend", "entzündungshemmend", "adstringierend"]

@@ -7,6 +7,7 @@ familie: "Malvengewächse (Malvaceae)"
 pflanzenteile: "Bohnen (Samen)"
 tags: ["kakao", "herz", "stimmung", "magnesium", "zeremonie"]
 quelle: "heildepot"
+katalog_id: "kakao"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["stimmungsaufhellend", "herzschützend", "antioxidativ", "durchblutungsfördernd"]

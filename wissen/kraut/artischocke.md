@@ -7,6 +7,7 @@ familie: "Korbblütler"
 pflanzenteile: "Blätter"
 tags: ["artischocke", "leber", "galle", "cholesterin", "verdauung"]
 quelle: "heildepot"
+katalog_id: "artischocke"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["leberschützend", "gallefördernd", "cholesterinsenkend", "verdauungsfördernd"]

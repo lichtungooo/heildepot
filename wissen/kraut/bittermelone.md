@@ -7,6 +7,7 @@ familie: "Kürbisgewächse"
 pflanzenteile: "Frucht"
 tags: ["bittermelone", "blutzucker", "diabetes", "bitter", "asien"]
 quelle: "heildepot"
+katalog_id: "bittermelone"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutzuckersenkend", "antiparasitär", "immunstärkend", "verdauungsfördernd"]

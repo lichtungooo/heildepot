@@ -7,6 +7,7 @@ familie: "Korbblütler"
 pflanzenteile: "Blütenköpfe"
 tags: ["insektenblüte", "pyrethrin", "insekten", "parasiten", "natürlich"]
 quelle: "heildepot"
+katalog_id: "insektenbluete"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["insektenabwehrend", "parasitenbekämpfend"]

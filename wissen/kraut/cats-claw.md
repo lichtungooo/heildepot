@@ -7,6 +7,7 @@ familie: "Rötegewächse"
 pflanzenteile: "Rinde, Wurzel"
 tags: ["katzenkralle", "immunsystem", "entzündung", "regenwald", "schamanisch"]
 quelle: "heildepot"
+katalog_id: "cats-claw"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["immunstärkend", "entzündungshemmend", "antiviral", "antioxidativ"]

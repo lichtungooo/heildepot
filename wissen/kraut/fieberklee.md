@@ -7,6 +7,7 @@ familie: "Fieberkleegewächse (Menyanthaceae)"
 pflanzenteile: "Blätter"
 tags: ["fieberklee", "bitterstoffe", "appetit", "verdauung"]
 quelle: "heildepot"
+katalog_id: "fieberklee"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "appetitanregend", "fiebersenkend", "gallefördernd"]

@@ -7,6 +7,7 @@ familie: "Rautengewächse"
 pflanzenteile: "Fruchtschale, ätherisches Öl"
 tags: ["bergamotte", "aromatherapie", "stimmung", "earlgrey", "ätherischesöl"]
 quelle: "heildepot"
+katalog_id: "bergamotte"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["stimmungsaufhellend", "antiseptisch", "krampflösend", "beruhigend"]

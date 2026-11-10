@@ -7,6 +7,7 @@ familie: "Kieferngewächse (Pinaceae)"
 pflanzenteile: "Nadeln, junge Triebe, Harz"
 tags: ["kiefer", "atemwege", "bad", "wald", "inhalieren"]
 quelle: "heildepot"
+katalog_id: "kiefer"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "durchblutungsfördernd", "antiseptisch", "belebend"]

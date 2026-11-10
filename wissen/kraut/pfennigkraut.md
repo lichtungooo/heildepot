@@ -7,6 +7,7 @@ familie: "Primelgewächse"
 pflanzenteile: "Kraut"
 tags: ["pfennigkraut", "husten", "wundheilung", "rheuma"]
 quelle: "heildepot"
+katalog_id: "pfennigkraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wundheilend", "adstringierend", "schleimlösend", "hustenstillend"]

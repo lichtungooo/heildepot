@@ -7,6 +7,7 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Kraut"
 tags: ["geißraute", "blutzucker", "stillen", "diabetes"]
 quelle: "heildepot"
+katalog_id: "geissraute"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blutzuckersenkend", "milchbildend", "harntreibend", "schweißtreibend"]

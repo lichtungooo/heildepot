@@ -7,6 +7,7 @@ familie: "Korbblütler"
 pflanzenteile: "Kraut (nur äußerlich, mit Vorsicht)"
 tags: ["jakobsgreiskraut", "giftig", "pyrrolizidinalkaloide", "vorsicht"]
 quelle: "heildepot"
+katalog_id: "jakobs-greiskraut"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entzündungshemmend", "schmerzlindernd"]

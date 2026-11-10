@@ -7,6 +7,7 @@ familie: "Hahnenfußgewächse"
 pflanzenteile: "Kraut, Blüten (nur homöopathisch)"
 tags: ["sumpfdotterblume", "giftig", "frühling", "homöopathie", "haut"]
 quelle: "heildepot"
+katalog_id: "sumpfdotterblume"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["krampflösend", "schmerzlindernd", "hautreizend"]

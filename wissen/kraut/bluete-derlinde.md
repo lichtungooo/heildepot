@@ -7,6 +7,7 @@ familie: "Nachtschattengewächse"
 pflanzenteile: "Beeren"
 tags: ["goji", "beeren", "augen", "immunsystem", "antioxidantien"]
 quelle: "heildepot"
+katalog_id: "bluete-derlinde"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antioxidativ", "immunstärkend", "augenstärkend", "vitaminreich"]

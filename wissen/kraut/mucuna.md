@@ -7,6 +7,7 @@ familie: "Hülsenfrüchtler"
 pflanzenteile: "Samen"
 tags: ["mucuna", "dopamin", "stimmung", "potenz", "ayurveda"]
 quelle: "heildepot"
+katalog_id: "mucuna"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["dopaminfördernd", "stimmungsaufhellend", "potenzfördernd", "nervenstärkend"]

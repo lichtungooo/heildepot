@@ -7,6 +7,7 @@ familie: "Fuchsschwanzgewächse"
 pflanzenteile: "Blätter"
 tags: ["melde", "eisen", "spinat", "vergessen", "wildgemüse"]
 quelle: "heildepot"
+katalog_id: "melde"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["nährstoffreich", "verdauungsfördernd", "blutreinigend", "harntreibend"]

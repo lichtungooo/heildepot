@@ -7,6 +7,7 @@ familie: "Sesamgewächse (Pedaliaceae)"
 pflanzenteile: "Samen, Öl"
 tags: ["sesam", "calcium", "knochen", "ayurveda", "ölziehen"]
 quelle: "heildepot"
+katalog_id: "sesam"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["nährstoffreich", "knochenstärkend", "hautpflegend", "blutzuckerregulierend"]

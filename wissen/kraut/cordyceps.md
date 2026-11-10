@@ -7,6 +7,7 @@ familie: "Kernkeulengewächse (Cordycipitaceae)"
 pflanzenteile: "Fruchtkörper, Myzel"
 tags: ["cordyceps", "pilz", "energie", "lunge", "tcm", "potenz"]
 quelle: "heildepot"
+katalog_id: "cordyceps"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["leistungssteigernd", "adaptogen", "immunmodulierend", "potenzfördernd"]

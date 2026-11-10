@@ -7,6 +7,7 @@ familie: "Jochblattgewächse (Zygophyllaceae)"
 pflanzenteile: "Holz, Harz"
 tags: ["guajak", "gicht", "rheuma", "pockholz"]
 quelle: "heildepot"
+katalog_id: "guajak"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["entzündungshemmend", "schweißtreibend", "harntreibend", "blutreinigend"]

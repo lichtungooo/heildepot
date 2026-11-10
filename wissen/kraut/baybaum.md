@@ -7,6 +7,7 @@ familie: "Myrtengewächse"
 pflanzenteile: "Blätter, ätherisches Öl"
 tags: ["baybaum", "haarwasser", "durchblutung", "muskelschmerzen"]
 quelle: "heildepot"
+katalog_id: "baybaum"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["durchblutungsfördernd", "schmerzlindernd", "wärmend", "antiseptisch"]

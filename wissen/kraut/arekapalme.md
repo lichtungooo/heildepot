@@ -7,6 +7,7 @@ familie: "Palmengewächse"
 pflanzenteile: "Samen (Betelnuss)"
 tags: ["arekapalme", "betelnuss", "wurmmittel", "tropisch"]
 quelle: "heildepot"
+katalog_id: "arekapalme"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["wurmtreibend", "verdauungsanregend", "adstringierend"]

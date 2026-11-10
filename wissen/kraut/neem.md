@@ -7,6 +7,7 @@ familie: "Mahagonigewächse (Meliaceae)"
 pflanzenteile: "Blätter, Samen, Rinde"
 tags: ["neem", "haut", "parasiten", "ayurveda", "antibakteriell"]
 quelle: "heildepot"
+katalog_id: "neem"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antibakteriell", "antiparasitär", "hautpflegend", "blutzuckerregulierend"]

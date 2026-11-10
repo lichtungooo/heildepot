@@ -7,6 +7,7 @@ familie: "Rötegewächse (Rubiaceae)"
 pflanzenteile: "Kraut"
 tags: ["waldmeister", "schlaf", "kopfschmerzen", "beruhigend", "frühling"]
 quelle: "heildepot"
+katalog_id: "waldmeister"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["beruhigend", "krampflösend", "durchblutungsfördernd", "stimmungsaufhellend"]

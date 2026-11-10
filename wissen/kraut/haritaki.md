@@ -7,6 +7,7 @@ familie: "Flügelsamengewächse"
 pflanzenteile: "Frucht"
 tags: ["haritaki", "ayurveda", "verdauung", "entgiftung", "triphala"]
 quelle: "heildepot"
+katalog_id: "haritaki"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "entgiftend", "verjüngend", "entzündungshemmend"]

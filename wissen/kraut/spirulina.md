@@ -7,6 +7,7 @@ familie: "Cyanobakterie (Oscillatoriaceae)"
 pflanzenteile: "Ganze Alge"
 tags: ["spirulina", "alge", "protein", "entgiftung", "eisen"]
 quelle: "heildepot"
+katalog_id: "spirulina"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["nährstoffreich", "immunstärkend", "entgiftend", "antioxidativ"]

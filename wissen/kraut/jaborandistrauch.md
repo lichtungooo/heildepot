@@ -7,6 +7,7 @@ familie: "Rautengewächse"
 pflanzenteile: "Blätter"
 tags: ["jaborandi", "augen", "glaukom", "schweiß", "pilocarpin"]
 quelle: "heildepot"
+katalog_id: "jaborandistrauch"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schweißtreibend", "speichelfördernd", "pupillenverengend"]

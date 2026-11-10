@@ -7,6 +7,7 @@ familie: "Rosengewächse"
 pflanzenteile: "Wurzel"
 tags: ["tormentill", "gurgeln", "durchfall", "gerbstoffe", "mund"]
 quelle: "heildepot"
+katalog_id: "tormentill"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["adstringierend", "entzündungshemmend", "antibakteriell", "blutstillend"]

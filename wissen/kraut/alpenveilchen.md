@@ -8,6 +8,7 @@ pflanzenteile: "Knolle (nur als Fertigpräparat)"
 schutz: "geschützt"
 tags: ["alpenveilchen", "migräne", "nasennebenhöhlen", "homöopathie", "giftig"]
 quelle: "heildepot"
+katalog_id: "alpenveilchen"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "schmerzlindernd", "abführend"]

@@ -8,6 +8,7 @@ pflanzenteile: "Wurzel, Kraut"
 schutz: "geschützt"
 tags: ["diptam", "verdauung", "geschützt", "wurmtreibend"]
 quelle: "heildepot"
+katalog_id: "diptam"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "krampflösend", "wurmtreibend"]

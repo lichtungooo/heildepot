@@ -7,6 +7,7 @@ familie: "Rotalgen"
 pflanzenteile: "Getrocknete Alge"
 tags: ["agaragar", "darm", "verstopfung", "geliermittel", "alge"]
 quelle: "heildepot"
+katalog_id: "agar-agar"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["verdauungsfördernd", "sättigend", "abführend", "entgiftend"]

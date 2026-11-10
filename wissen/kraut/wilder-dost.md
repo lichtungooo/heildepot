@@ -7,6 +7,7 @@ familie: "Lippenblütler"
 pflanzenteile: "Kraut"
 tags: ["majoran", "verdauung", "erkältung", "antibakteriell"]
 quelle: "heildepot"
+katalog_id: "wilder-dost"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["antibakteriell", "verdauungsfördernd", "krampflösend", "schleimlösend"]

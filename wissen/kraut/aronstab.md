@@ -7,6 +7,7 @@ familie: "Aronstabgewächse (Araceae)"
 pflanzenteile: "Wurzel (nur als Fertigpräparat)"
 tags: ["aronstab", "giftig", "homöopathie", "husten"]
 quelle: "heildepot"
+katalog_id: "aronstab"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["schleimlösend", "entzündungshemmend"]

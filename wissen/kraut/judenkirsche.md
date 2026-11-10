@@ -7,6 +7,7 @@ familie: "Nachtschattengewächse"
 pflanzenteile: "Früchte"
 tags: ["judenkirsche", "physalis", "niere", "harnwege", "gicht"]
 quelle: "heildepot"
+katalog_id: "judenkirsche"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["harntreibend", "fiebersenkend", "entzündungshemmend"]

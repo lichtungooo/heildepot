@@ -7,6 +7,7 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Früchte (Samen)"
 tags: ["fenchel", "blähungen", "baby", "husten", "verdauung"]
 quelle: "heildepot"
+katalog_id: "fenchel"
 kategorie: "Heilkräuter"
 kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
 wirkung: ["blähungswidrig", "krampflösend", "schleimlösend", "milchbildend"]
