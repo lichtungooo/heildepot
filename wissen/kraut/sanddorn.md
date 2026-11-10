@@ -7,6 +7,11 @@ familie: "Ölweidengewächse (Elaeagnaceae)"
 pflanzenteile: "Beeren"
 tags: ["sanddorn", "vitamin-c", "immunsystem", "haut", "schleimhaut"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["vitaminreich", "immunstärkend", "hautpflegend", "schleimhautschützend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/sanddorn-1.webp"
+bild_nachweis: "No machine-readable author provided. Svdmolen assumed (based on copyright claims)., CC BY-SA 3.0"
 ---
 
 # Sanddorn
@@ -38,8 +43,8 @@ Beeren
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[vitaminmangel]]
-- [[schleimhaut]]
+- [Vitaminmangel](../beschwerde/vitaminmangel.md)
+- [Schleimhaut](../beschwerde/schleimhaut.md)
 
 ## Beschreibung
 
@@ -137,6 +142,20 @@ An den Küsten der Ostsee galt Sanddornmarmelade als "Gold des Nordens", jede Fa
 ## Mehr dazu
 
 - [Sanddorn bei der Quelle](https://heilkräuter.de/lexikon/sanddorn.htm)
+
+## Fotos
+
+![Sanddorn, Foto 1](https://heildepot.wir.ooo/bilder/kraut/sanddorn-1.webp)
+
+Foto 1: No machine-readable author provided. Svdmolen assumed (based on copyright claims)., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Hippophae_rhamnoides-01_(xndr).JPG)
+
+![Sanddorn, Foto 2](https://heildepot.wir.ooo/bilder/kraut/sanddorn-2.webp)
+
+Foto 2: Denis Barthel, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:D%C3%BCneSanddorn.jpg)
+
+![Sanddorn, Foto 3](https://heildepot.wir.ooo/bilder/kraut/sanddorn-3.webp)
+
+Foto 3: Svdmolen at Dutch Wikipedia, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Duindoorn-01.jpg)
 
 ## Im Heildepot
 

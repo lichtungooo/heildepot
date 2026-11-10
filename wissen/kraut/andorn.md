@@ -7,6 +7,11 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut"
 tags: ["andorn", "husten", "verdauung", "bitter", "appetit"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "verdauungsfördernd", "appetitanregend", "gallefördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/andorn-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 3.0"
 ---
 
 # Andorn
@@ -37,10 +42,10 @@ Kraut
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Leber / Galle](../beschwerde/leber.md)
-- [[bronchitis]]
-- [[appetitlosigkeit]]
-- [[galle]]
-- [[verschleimung]]
+- [Husten / Bronchitis](../beschwerde/husten.md)
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
+- [Leber / Galle](../beschwerde/leber.md)
+- [Verschleimung](../beschwerde/verschleimung.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 
 ## Beschreibung
@@ -137,6 +142,20 @@ Im ländlichen Europa war Andorn-Tee das Standardmittel, wenn jemand "auf der Br
 ## Mehr dazu
 
 - [Andorn bei der Quelle](https://heilkräuter.de/lexikon/andorn.htm)
+
+## Fotos
+
+![Andorn, Foto 1](https://heildepot.wir.ooo/bilder/kraut/andorn-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Horehound_bug.jpg)
+
+![Andorn, Foto 2](https://heildepot.wir.ooo/bilder/kraut/andorn-2.webp)
+
+Foto 2: Dionysia, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Horehound.jpg)
+
+![Andorn, Foto 3](https://heildepot.wir.ooo/bilder/kraut/andorn-3.webp)
+
+Foto 3: Franz Xaver, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Marrubium_vulgare_1.jpg)
 
 ## Im Heildepot
 

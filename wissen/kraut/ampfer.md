@@ -7,6 +7,11 @@ familie: "Knöterichgewächse (Polygonaceae)"
 pflanzenteile: "Blätter"
 tags: ["ampfer", "vitaminC", "frühling", "salat", "blutreinigung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["vitaminreich", "blutreinigend", "verdauungsfördernd", "harntreibend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/ampfer-1.webp"
+bild_nachweis: "yves Tennevin, CC BY 2.0"
 ---
 
 # Ampfer
@@ -37,11 +42,11 @@ Blätter
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[hautprobleme]]
-- [[ekzem]]
+- [Hautprobleme](../beschwerde/hautprobleme.md)
+- [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Verstopfung / Darmträgheit](../beschwerde/verstopfung.md)
-- [[blutarmut]]
-- [[entgiftung]]
+- [Eisenmangel / Blutarmut / Anämie](../beschwerde/eisenmangel.md)
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
 - [Akne / Unreine Haut](../beschwerde/akne.md)
 
 ## Beschreibung
@@ -140,6 +145,20 @@ In der Volksheilkunde war der Ampfer eines der wichtigsten Blutreinigungskräute
 ## Mehr dazu
 
 - [Ampfer bei der Quelle](https://heilkräuter.de/lexikon/ampfer.htm)
+
+## Fotos
+
+![Ampfer, Foto 1](https://heildepot.wir.ooo/bilder/kraut/ampfer-1.webp)
+
+Foto 1: yves Tennevin, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Oseille01.jpg)
+
+![Ampfer, Foto 2](https://heildepot.wir.ooo/bilder/kraut/ampfer-2.webp)
+
+Foto 2: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Rumex_acetosa_001.JPG)
+
+![Ampfer, Foto 3](https://heildepot.wir.ooo/bilder/kraut/ampfer-3.webp)
+
+Foto 3: Derzsi Elekes Andor, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Mezei_s%C3%B3ska_-_2015.04.17.JPG)
 
 ## Im Heildepot
 

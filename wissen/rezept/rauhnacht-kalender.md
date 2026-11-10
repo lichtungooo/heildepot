@@ -3,23 +3,25 @@ art: "rezept"
 id: "rauhnacht-kalender"
 name: "Rauhnacht-Räucherkalender: Die 12 heiligen Nächte"
 tradition: "Grimoire"
-kategorie: "Volksmagie"
 tags: ["Rauhnächte", "Räucherung", "WildeJagd", "Perchta", "FrauHolle", "Jahreskreis", "Winterbrauch", "Volksmagie", "Traeume", "TatsächlichMachbar", "ZwölfNächte"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Volksmagie"
 ---
 
 # Rauhnacht-Räucherkalender: Die 12 heiligen Nächte
 
 ## Hilft bei
 
-- [[Rauhnächte]]
-- [[Rauhnacht]]
-- [[Räucherung]]
-- [[Wilde Jagd]]
-- [[Perchta]]
-- [[Frau Holle]]
-- [[Winterbrauch]]
-- [[Jahreskreis]]
+- [Rauhnächte](../beschwerde/rauhnaechte.md)
+- [Rauhnacht](../beschwerde/rauhnacht.md)
+- [Räucherung](../beschwerde/raeucherung.md)
+- [Wilde jagd](../beschwerde/wilde-jagd.md)
+- [Perchta](../beschwerde/perchta.md)
+- [Frau holle](../beschwerde/frau-holle.md)
+- [Winterbrauch](../beschwerde/winterbrauch.md)
+- [Jahreskreis](../beschwerde/jahreskreis.md)
 
 ## Schwierigkeit
 

@@ -8,6 +8,11 @@ pflanzenteile: "Wurzel, Kraut"
 schutz: "geschützt"
 tags: ["diptam", "verdauung", "geschützt", "wurmtreibend"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "krampflösend", "wurmtreibend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/diptam-1.webp"
+bild_nachweis: "Franz Xaver, CC BY-SA 3.0"
 ---
 
 # Diptam
@@ -36,11 +41,11 @@ Wurzel, Kraut
 
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Parasiten / Würmer / Darmparasiten](../beschwerde/parasiten.md)
-- [[verdauungsschwaeche]]
+- [Verdauungsschwäche](../beschwerde/verdauungsschwaeche.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[menstruationsstoerungen]]
-- [[kraempfe]]
-- [[fieber]]
+- [Menstruationsstörungen](../beschwerde/menstruationsstoerungen.md)
+- [Krämpfe](../beschwerde/kraempfe.md)
+- [Grippe](../beschwerde/grippe.md)
 
 ## Beschreibung
 
@@ -137,6 +142,20 @@ Der Diptam war in der antiken und mittelalterlichen Volksheilkunde ein hochanges
 ## Mehr dazu
 
 - [Diptam bei der Quelle](https://heilkräuter.de/lexikon/diptam.htm)
+
+## Fotos
+
+![Diptam, Foto 1](https://heildepot.wir.ooo/bilder/kraut/diptam-1.webp)
+
+Foto 1: Franz Xaver, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Dictamnus_albus_1.jpg)
+
+![Diptam, Foto 2](https://heildepot.wir.ooo/bilder/kraut/diptam-2.webp)
+
+Foto 2: Jean-Pol GRANDMONT, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:0_Dictamnus_albus_-_Fraxinelle_(1).JPG)
+
+![Diptam, Foto 3](https://heildepot.wir.ooo/bilder/kraut/diptam-3.webp)
+
+Foto 3: Neux-Neux, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Dictamnus_albus_near_Khanka_Lake_01.jpg)
 
 ## Im Heildepot
 

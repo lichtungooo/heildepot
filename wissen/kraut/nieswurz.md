@@ -7,6 +7,11 @@ familie: "Hahnenfußgewächse (Ranunculaceae)"
 pflanzenteile: "Wurzelstock (nur als Fertigpräparat)"
 tags: ["nieswurz", "christrose", "giftig", "herz", "homöopathie"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["herzwirksam", "abführend", "niesfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/nieswurz-1.webp"
+bild_nachweis: "Wildfeuer, CC BY 2.5"
 ---
 
 # Nieswurz
@@ -35,9 +40,9 @@ Wurzelstock (nur als Fertigpräparat)
 
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
 - [Verstopfung / Darmträgheit](../beschwerde/verstopfung.md)
-- [[apathie]]
-- [[geistige_traegheit]]
-- [[benommenheit]]
+- [Apathie](../beschwerde/apathie.md)
+- [Geistige trägheit](../beschwerde/geistige-traegheit.md)
+- [Schwindel / Gleichgewichtsstörungen](../beschwerde/schwindel.md)
 
 ## Beschreibung
 
@@ -119,6 +124,20 @@ Im Mittelalter streute man Nieswurzpulver in Ställe, um Viehseuchen abzuwehren.
 ## Mehr dazu
 
 - [Nieswurz bei der Quelle](https://heilkräuter.de/lexikon/nieswurz.htm)
+
+## Fotos
+
+![Nieswurz, Foto 1](https://heildepot.wir.ooo/bilder/kraut/nieswurz-1.webp)
+
+Foto 1: Wildfeuer, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:2006-12-18Helleborus_niger03.jpg)
+
+![Nieswurz, Foto 2](https://heildepot.wir.ooo/bilder/kraut/nieswurz-2.webp)
+
+Foto 2: Lucien Monfils, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Helleboris.jpg)
+
+![Nieswurz, Foto 3](https://heildepot.wir.ooo/bilder/kraut/nieswurz-3.webp)
+
+Foto 3: 3268zauber, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Christrose_im_Februar.JPG)
 
 ## Im Heildepot
 

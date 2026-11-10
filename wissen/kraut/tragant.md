@@ -7,6 +7,11 @@ familie: "Hülsenfrüchtler"
 pflanzenteile: "Wurzel"
 tags: ["tragant", "astragalus", "immunsystem", "tcm", "adaptogen"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["immunstärkend", "adaptogen", "herzstärkend", "antiviral"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/tragant-1.webp"
+bild_nachweis: "Doronenko, CC BY 2.5"
 ---
 
 # Tragant (Astragalus)
@@ -41,6 +46,20 @@ Wurzel
 ## Mehr dazu
 
 - [Tragant (Astragalus) bei der Quelle](https://heilkräuter.de/lexikon/tragant.htm)
+
+## Fotos
+
+![Tragant (Astragalus), Foto 1](https://heildepot.wir.ooo/bilder/kraut/tragant-1.webp)
+
+Foto 1: Doronenko, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Astragalus_membranaceus.jpg)
+
+![Tragant (Astragalus), Foto 2](https://heildepot.wir.ooo/bilder/kraut/tragant-2.webp)
+
+Foto 2: Urgamal Magsar,, CC BY 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Astragalus_mongholicus,_fruits.jpg)
+
+![Tragant (Astragalus), Foto 3](https://heildepot.wir.ooo/bilder/kraut/tragant-3.webp)
+
+Foto 3: Fumikas Sagisavas, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:Astragalus_discs.jpg)
 
 ## Im Heildepot
 

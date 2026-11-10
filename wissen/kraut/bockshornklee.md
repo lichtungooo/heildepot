@@ -7,6 +7,11 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Samen"
 tags: ["bockshornklee", "blutzucker", "stillen", "stärkung", "haut"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["blutzuckersenkend", "entzündungshemmend", "milchbildend", "kräftigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/bockshornklee-1.webp"
+bild_nachweis: "Miansari66, Public domain"
 ---
 
 # Bockshornklee
@@ -38,9 +43,9 @@ Samen
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Haarausfall / Haargesundheit](../beschwerde/haarverlust.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[stillen]]
-- [[cholesterin]]
-- [[appetitlosigkeit]]
+- [Stillen](../beschwerde/stillen.md)
+- [Cholesterin](../beschwerde/cholesterin.md)
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 
 ## Beschreibung
@@ -145,6 +150,20 @@ Hebammen empfahlen stillenden Müttern seit Jahrhunderten Bockshornklee-Tee als 
 ## Mehr dazu
 
 - [Bockshornklee bei der Quelle](https://heilkräuter.de/lexikon/bockshornklee.htm)
+
+## Fotos
+
+![Bockshornklee, Foto 1](https://heildepot.wir.ooo/bilder/kraut/bockshornklee-1.webp)
+
+Foto 1: Miansari66, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Qasuri_methi_dried.JPG)
+
+![Bockshornklee, Foto 2](https://heildepot.wir.ooo/bilder/kraut/bockshornklee-2.webp)
+
+Foto 2: yak 16:42, 24. Feb. 2011 (CET), CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:GriechischHeu.jpg)
+
+![Bockshornklee, Foto 3](https://heildepot.wir.ooo/bilder/kraut/bockshornklee-3.webp)
+
+Foto 3: Ravi Khemka, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Methi_Sowing_on_the_beach.jpg)
 
 ## Im Heildepot
 

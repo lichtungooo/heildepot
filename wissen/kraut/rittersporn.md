@@ -7,6 +7,11 @@ familie: "Hahnenfußgewächse (Ranunculaceae)"
 pflanzenteile: "Blüten, Samen (nur homöopathisch)"
 tags: ["rittersporn", "giftig", "homöopathie", "garten"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["harntreibend", "wurmtreibend", "schmerzlindernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/rittersporn-1.webp"
+bild_nachweis: "Rl, CC BY-SA 3.0"
 ---
 
 # Rittersporn
@@ -35,10 +40,10 @@ Blüten, Samen (nur homöopathisch)
 
 - [Parasiten / Würmer / Darmparasiten](../beschwerde/parasiten.md)
 - [Insektenstiche / Allergische Reaktion](../beschwerde/insektenstiche.md)
-- [[kopflaeuse]]
-- [[teefaerbung]]
-- [[hautjucken]]
-- [[augenpflege]]
+- [Kopfläuse](../beschwerde/kopflaeuse.md)
+- [Teefärbung](../beschwerde/teefaerbung.md)
+- [Hautjucken](../beschwerde/hautjucken.md)
+- [Augenpflege](../beschwerde/augenpflege.md)
 
 ## Beschreibung
 
@@ -132,6 +137,20 @@ In der Volksmedizin wurden Rittersporn-Blüten in Essig eingelegt und als Lausmi
 ## Mehr dazu
 
 - [Rittersporn bei der Quelle](https://heilkräuter.de/lexikon/rittersporn.htm)
+
+## Fotos
+
+![Rittersporn, Foto 1](https://heildepot.wir.ooo/bilder/kraut/rittersporn-1.webp)
+
+Foto 1: Rl, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:2007_consolida_regalis.jpg)
+
+![Rittersporn, Foto 2](https://heildepot.wir.ooo/bilder/kraut/rittersporn-2.webp)
+
+Foto 2: OldMuzzle, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Consolida_regalis_OM58.JPG)
+
+![Rittersporn, Foto 3](https://heildepot.wir.ooo/bilder/kraut/rittersporn-3.webp)
+
+Foto 3: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20120906Lysimachia_arvensis_-_Consolida_regalis.jpg)
 
 ## Im Heildepot
 

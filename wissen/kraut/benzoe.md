@@ -7,6 +7,11 @@ familie: "Storaxgewächse"
 pflanzenteile: "Harz"
 tags: ["benzoe", "räucherwerk", "harz", "atemwege", "haut"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "antiseptisch", "wundheilend", "beruhigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/benzoe-1.webp"
+bild_nachweis: "Midori, CC BY-SA 3.0"
 ---
 
 # Benzoe
@@ -40,6 +45,20 @@ Harz
 ## Mehr dazu
 
 - [Benzoe bei der Quelle](https://heilkräuter.de/lexikon/benzoe.htm)
+
+## Fotos
+
+![Benzoe, Foto 1](https://heildepot.wir.ooo/bilder/kraut/benzoe-1.webp)
+
+Foto 1: Midori, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Kemenyan_resin_benzoin_resin.JPG)
+
+![Benzoe, Foto 2](https://heildepot.wir.ooo/bilder/kraut/benzoe-2.webp)
+
+Foto 2: Sjschen at English Wikipedia, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:IncenseWikiVers.jpg)
+
+![Benzoe, Foto 3](https://heildepot.wir.ooo/bilder/kraut/benzoe-3.webp)
+
+Foto 3: Wibowo Djatmiko (Wie146), CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Kemenyan_110112-11054_tdp.jpg)
 
 ## Im Heildepot
 

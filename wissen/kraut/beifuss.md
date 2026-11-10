@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Kraut, Blüten"
 tags: ["beifuß", "verdauung", "frauenheilkunde", "wärmend", "magen"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "wärmend", "durchblutungsfördernd", "menstruationsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/beifuss-1.webp"
+bild_nachweis: "AnRo0002, CC0"
 ---
 
 # Beifuß
@@ -37,7 +42,7 @@ Kraut, Blüten
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
-- [[menstruation]]
+- [PMS / Menstruationsbeschwerden](../beschwerde/pms.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
@@ -153,6 +158,20 @@ An der Sommersonnenwende wurden Beifußkränze geflochten und übers Feuer gewor
 ## Mehr dazu
 
 - [Beifuß bei der Quelle](https://heilkräuter.de/lexikon/beifuß.htm)
+
+## Fotos
+
+![Beifuß, Foto 1](https://heildepot.wir.ooo/bilder/kraut/beifuss-1.webp)
+
+Foto 1: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20130525Artemisia_vulgaris.jpg)
+
+![Beifuß, Foto 2](https://heildepot.wir.ooo/bilder/kraut/beifuss-2.webp)
+
+Foto 2: Kersti, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:033_Beifu%C3%9F_auf_dem_Junkernkopf.jpg)
+
+![Beifuß, Foto 3](https://heildepot.wir.ooo/bilder/kraut/beifuss-3.webp)
+
+Foto 3: Sebastian Wallroth, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Frankfurt_Oder_Dachsberge_03896.JPG)
 
 ## Im Heildepot
 

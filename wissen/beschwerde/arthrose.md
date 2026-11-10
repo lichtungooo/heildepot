@@ -4,6 +4,8 @@ id: "arthrose"
 name: "Gelenkschmerzen / Arthrose"
 tags: ["gelenke", "arthrose", "entzündung", "knorpel", "bewegung"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Gelenkschmerzen / Arthrose

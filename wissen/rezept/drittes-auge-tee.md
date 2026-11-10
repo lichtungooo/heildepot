@@ -3,20 +3,22 @@ art: "rezept"
 id: "drittes-auge-tee"
 name: "Drittes-Auge-Tee: Intuitionsöffner für Meditation und visionäre Arbeit"
 tradition: "Hexenwissen"
-kategorie: "Geist-Öffner & Klarheit"
 tags: ["drittesauge", "meditation", "beifuß", "lotusblume", "hexenrezept", "vision"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Geist-Öffner & Klarheit"
 ---
 
 # Drittes-Auge-Tee: Intuitionsöffner für Meditation und visionäre Arbeit
 
 ## Hilft bei
 
-- [[meditation]]
-- [[intuition]]
-- [[kreativitaet]]
-- [[visionaere-arbeit]]
-- [[drittes-auge]]
+- [Meditation](../beschwerde/meditation.md)
+- [Intuition](../beschwerde/intuition.md)
+- [Kreativität](../beschwerde/kreativitaet.md)
+- [Visionäre arbeit](../beschwerde/visionaere-arbeit.md)
+- [Drittes auge](../beschwerde/drittes-auge.md)
 
 ## Schwierigkeit
 

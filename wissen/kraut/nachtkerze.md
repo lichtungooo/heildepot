@@ -7,6 +7,11 @@ familie: "Nachtkerzengewächse (Onagraceae)"
 pflanzenteile: "Samen (Öl)"
 tags: ["nachtkerze", "haut", "neurodermitis", "PMS", "hormone"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["hautpflegend", "hormonausgleichend", "entzündungshemmend", "juckreizlindernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/nachtkerze-1.webp"
+bild_nachweis: "Neelix at English Wikipedia, Public domain"
 ---
 
 # Nachtkerze
@@ -39,7 +44,7 @@ Samen (Öl)
 - [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [PMS / Menstruationsbeschwerden](../beschwerde/pms.md)
-- [[trockene_haut]]
+- [Trockene haut](../beschwerde/trockene-haut.md)
 
 ## Beschreibung
 
@@ -137,6 +142,20 @@ Die Wurzel der Nachtkerze wurde im Volksmund "Schinkenwurzel" genannt, weil sie 
 ## Mehr dazu
 
 - [Nachtkerze bei der Quelle](https://heilkräuter.de/lexikon/nachtkerze.htm)
+
+## Fotos
+
+![Nachtkerze, Foto 1](https://heildepot.wir.ooo/bilder/kraut/nachtkerze-1.webp)
+
+Foto 1: Neelix at English Wikipedia, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:1_Oenothera_biennis.jpg)
+
+![Nachtkerze, Foto 2](https://heildepot.wir.ooo/bilder/kraut/nachtkerze-2.webp)
+
+Foto 2: Charles de Mille-Isles from Mille-Isles, Canada, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Evening_primrose_-_Oenothera_biennis_(5991581156).jpg)
+
+![Nachtkerze, Foto 3](https://heildepot.wir.ooo/bilder/kraut/nachtkerze-3.webp)
+
+Foto 3: Acabashi, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:%27Oenothera%27_Evening_primrose_at_Staplefield,_West_Sussex,_England_04.jpg)
 
 ## Im Heildepot
 

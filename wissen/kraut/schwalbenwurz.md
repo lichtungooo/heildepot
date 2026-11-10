@@ -7,6 +7,11 @@ familie: "Hundsgiftgewächse"
 pflanzenteile: "Wurzel"
 tags: ["schwalbenwurz", "gegengift", "fieber", "schweißtreibend"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schweißtreibend", "harntreibend", "brechreizfördernd", "wundheilend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/schwalbenwurz-1.webp"
+bild_nachweis: "User:Algirdas, Public domain"
 ---
 
 # Schwalbenwurz
@@ -32,11 +37,25 @@ Wurzel
 
 ## Hilft bei
 
-- [[fieber]]
+- [Grippe](../beschwerde/grippe.md)
 
 ## Mehr dazu
 
 - [Schwalbenwurz bei der Quelle](https://heilkräuter.de/lexikon/schwalbenwurz.htm)
+
+## Fotos
+
+![Schwalbenwurz, Foto 1](https://heildepot.wir.ooo/bilder/kraut/schwalbenwurz-1.webp)
+
+Foto 1: User:Algirdas, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Slakine_kregzdune.jpg)
+
+![Schwalbenwurz, Foto 2](https://heildepot.wir.ooo/bilder/kraut/schwalbenwurz-2.webp)
+
+Foto 2: I.Sáček, senior, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:P%C5%99%C3%ADrodn%C3%AD_park_Baba719.jpg)
+
+![Schwalbenwurz, Foto 3](https://heildepot.wir.ooo/bilder/kraut/schwalbenwurz-3.webp)
+
+Foto 3: Kusurija, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Cynanchum_vincetoxicumDituva.JPG)
 
 ## Im Heildepot
 

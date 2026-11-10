@@ -7,6 +7,11 @@ familie: "Kapuzinerkressengewächse (Tropaeolaceae)"
 pflanzenteile: "Blätter, Blüten, Samen"
 tags: ["kapuzinerkresse", "antibiotisch", "harnwege", "atemwege", "immunsystem"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["antibiotisch", "schleimlösend", "immunstärkend", "durchblutungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/kapuzinerkresse-1.webp"
+bild_nachweis: "Allie_Caulfield, CC BY 2.0"
 ---
 
 # Kapuzinerkresse
@@ -39,9 +44,9 @@ Blätter, Blüten, Samen
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
-- [[atemwege]]
-- [[infekte]]
-- [[harnwege]]
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
+- [Infekte](../beschwerde/infekte.md)
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
 
 ## Beschreibung
 
@@ -139,6 +144,20 @@ In der Volksheilkunde heißt es: "Kapuzinerkresse ist das Penicillin des Gartens
 ## Mehr dazu
 
 - [Kapuzinerkresse bei der Quelle](https://heilkräuter.de/lexikon/kapuzine.htm)
+
+## Fotos
+
+![Kapuzinerkresse, Foto 1](https://heildepot.wir.ooo/bilder/kraut/kapuzinerkresse-1.webp)
+
+Foto 1: Allie_Caulfield, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:2011-03-05_03-13_Madeira_324_Jardim_do_Mar.jpg)
+
+![Kapuzinerkresse, Foto 2](https://heildepot.wir.ooo/bilder/kraut/kapuzinerkresse-2.webp)
+
+Foto 2: Allie_Caulfield from Germany, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:2011-03-05_03-13_Madeira_228_Machico_(5545234324).jpg)
+
+![Kapuzinerkresse, Foto 3](https://heildepot.wir.ooo/bilder/kraut/kapuzinerkresse-3.webp)
+
+Foto 3: Guptaele, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Amar_y_(10).JPG)
 
 ## Im Heildepot
 

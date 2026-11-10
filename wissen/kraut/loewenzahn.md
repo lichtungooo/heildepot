@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Blätter, Wurzel, Blüten"
 tags: ["löwenzahn", "leber", "galle", "entgiftung", "frühling"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["leberstärkend", "gallefördernd", "harntreibend", "blutreinigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/loewenzahn-1.webp"
+bild_nachweis: "This image is a work by Tsvetomira Zaharieva.\nWhen reusing, please credit me as: Tsvetomira Zaharieva or plain © cwet4e., CC BY-SA 3.0"
 ---
 
 # Löwenzahn
@@ -155,6 +160,21 @@ Der weiße Milchsaft der Stängel wurde direkt auf Warzen getupft, mehrmals täg
 ## Mehr dazu
 
 - [Löwenzahn bei der Quelle](https://heilkräuter.de/lexikon/l-zahn.htm)
+
+## Fotos
+
+![Löwenzahn, Foto 1](https://heildepot.wir.ooo/bilder/kraut/loewenzahn-1.webp)
+
+Foto 1: This image is a work by Tsvetomira Zaharieva.
+When reusing, please credit me as: Tsvetomira Zaharieva or plain © cwet4e., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Common_dandelion_Emen.JPG)
+
+![Löwenzahn, Foto 2](https://heildepot.wir.ooo/bilder/kraut/loewenzahn-2.webp)
+
+Foto 2: Randi Hausken from Bærum, Norway, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Dandelion_(3483575184).jpg)
+
+![Löwenzahn, Foto 3](https://heildepot.wir.ooo/bilder/kraut/loewenzahn-3.webp)
+
+Foto 3: Vikiçizer, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Abant_18.JPG)
 
 ## Im Heildepot
 

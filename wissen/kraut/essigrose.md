@@ -7,6 +7,11 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Blütenblätter"
 tags: ["essigrose", "herz", "haut", "rosenwasser", "duft"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["adstringierend", "entzündungshemmend", "stimmungsaufhellend", "hautpflegend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/essigrose-1.webp"
+bild_nachweis: "Javier martin, Public domain"
 ---
 
 # Essigrose
@@ -38,12 +43,12 @@ Blütenblätter
 - [Depression / Schwermut](../beschwerde/depression.md)
 - [Zähne / Mundraum / Zahnfleisch](../beschwerde/zaehne.md)
 - [Angst / Panikattacken](../beschwerde/angst.md)
-- [[herzbeschwerden]]
-- [[trauer]]
-- [[mundschleimhaut]]
-- [[halsschmerzen]]
-- [[hautprobleme]]
-- [[nervositaet]]
+- [Herzbeschwerden](../beschwerde/herzbeschwerden.md)
+- [Trauer](../beschwerde/trauer.md)
+- [Mundschleimhaut](../beschwerde/mundschleimhaut.md)
+- [Angina / Mandelentzündung / Halsschmerzen](../beschwerde/angina.md)
+- [Hautprobleme](../beschwerde/hautprobleme.md)
+- [Nervosität](../beschwerde/nervositaet.md)
 
 ## Beschreibung
 
@@ -148,6 +153,20 @@ In der Volksmedizin galt die Rose als Universalheilmittel für das Herz, sowohl 
 ## Mehr dazu
 
 - [Essigrose bei der Quelle](https://heilkräuter.de/lexikon/essigrose.htm)
+
+## Fotos
+
+![Essigrose, Foto 1](https://heildepot.wir.ooo/bilder/kraut/essigrose-1.webp)
+
+Foto 1: Javier martin, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Rosa_gallica_enfoque_28-10-2010_ParqueGassetCiudadReal.jpg)
+
+![Essigrose, Foto 2](https://heildepot.wir.ooo/bilder/kraut/essigrose-2.webp)
+
+Foto 2: Benjamin Zwittnig, CC BY 2.5 si, [Quelle](https://commons.wikimedia.org/wiki/File:Rosa_gallica_PID1068-3.jpg)
+
+![Essigrose, Foto 3](https://heildepot.wir.ooo/bilder/kraut/essigrose-3.webp)
+
+Foto 3: Salicyna, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Rosa_gallica_2017-05-31_1936.jpg)
 
 ## Im Heildepot
 

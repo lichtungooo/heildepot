@@ -7,6 +7,11 @@ familie: "Rötegewächse (Rubiaceae)"
 pflanzenteile: "Kraut"
 tags: ["waldmeister", "schlaf", "kopfschmerzen", "beruhigend", "frühling"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["beruhigend", "krampflösend", "durchblutungsfördernd", "stimmungsaufhellend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/waldmeister-1.webp"
+bild_nachweis: "Ghislain118 http://www.fleurs-des-montagnes.net, CC BY-SA 3.0"
 ---
 
 # Waldmeister
@@ -37,11 +42,11 @@ Kraut
 - [Schlafthemen](../beschwerde/schlaf.md)
 - [Kopfschmerzen / Migräne](../beschwerde/kopfschmerzen.md)
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
-- [[schlafprobleme]]
-- [[nervositaet]]
-- [[menstruationsbeschwerden]]
-- [[gefaesskraempfe]]
-- [[fruehjahrskur]]
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
+- [Nervosität](../beschwerde/nervositaet.md)
+- [Menstruationsbeschwerden](../beschwerde/menstruationsbeschwerden.md)
+- [Gefässkrämpfe](../beschwerde/gefaesskraempfe.md)
+- [Frühjahrskur](../beschwerde/fruehjahrskur.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ Waldmeister-Kissen (getrocknetes Kraut im Kopfkissen) halfen gegen Schlaflosigke
 ## Mehr dazu
 
 - [Waldmeister bei der Quelle](https://heilkräuter.de/lexikon/waldmeis.htm)
+
+## Fotos
+
+![Waldmeister, Foto 1](https://heildepot.wir.ooo/bilder/kraut/waldmeister-1.webp)
+
+Foto 1: Ghislain118 http://www.fleurs-des-montagnes.net, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Galium_odoratum_1_(Corse).JPG)
+
+![Waldmeister, Foto 2](https://heildepot.wir.ooo/bilder/kraut/waldmeister-2.webp)
+
+Foto 2: Llez, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Galium_odoratum_001.jpg)
+
+![Waldmeister, Foto 3](https://heildepot.wir.ooo/bilder/kraut/waldmeister-3.webp)
+
+Foto 3: Bomac (talk), Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Asperula_odorata.jpg)
 
 ## Im Heildepot
 

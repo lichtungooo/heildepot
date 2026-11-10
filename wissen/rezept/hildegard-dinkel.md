@@ -3,21 +3,23 @@ art: "rezept"
 id: "hildegard-dinkel"
 name: "Hildegards Dinkelprogramm: Die Königin der Getreide"
 tradition: "Klostermedizin"
-kategorie: "Hildegard"
 tags: ["hildegard", "dinkel", "grundnahrung", "fastenkur", "verdauung", "stimmung"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Hildegard"
 ---
 
 # Hildegards Dinkelprogramm: Die Königin der Getreide
 
 ## Hilft bei
 
-- [[Verdauungsbeschwerden]]
+- [Verdauungsbeschwerden](../beschwerde/verdauungsbeschwerden.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[Rekonvaleszenz]]
-- [[Hautprobleme]]
-- [[Stimmungstief]]
-- [[Entgiftung]]
+- [Rekonvaleszenz](../beschwerde/rekonvaleszenz.md)
+- [Hautprobleme](../beschwerde/hautprobleme.md)
+- [Stimmungstief](../beschwerde/stimmungstief.md)
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
 
 ## Schwierigkeit
 

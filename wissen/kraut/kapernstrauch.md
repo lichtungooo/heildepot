@@ -7,6 +7,11 @@ familie: "Kaperngewächse"
 pflanzenteile: "Blütenknospen, Rinde, Wurzel"
 tags: ["kapernstrauch", "verdauung", "rheuma", "mittelmeer", "antioxidativ"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["appetitanregend", "verdauungsfördernd", "entzündungshemmend", "antioxidativ"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/kapernstrauch-1.webp"
+bild_nachweis: "Frank Vincentz, CC BY-SA 3.0"
 ---
 
 # Kapernstrauch
@@ -40,6 +45,20 @@ Blütenknospen, Rinde, Wurzel
 ## Mehr dazu
 
 - [Kapernstrauch bei der Quelle](https://heilkräuter.de/lexikon/kapernstrauch.htm)
+
+## Fotos
+
+![Kapernstrauch, Foto 1](https://heildepot.wir.ooo/bilder/kraut/kapernstrauch-1.webp)
+
+Foto 1: Frank Vincentz, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Capparis_spinosa_01_ies.jpg)
+
+![Kapernstrauch, Foto 2](https://heildepot.wir.ooo/bilder/kraut/kapernstrauch-2.webp)
+
+Foto 2: Zeynel Cebeci, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Capparis_ovata_palaestina_-_Caper_02.JPG)
+
+![Kapernstrauch, Foto 3](https://heildepot.wir.ooo/bilder/kraut/kapernstrauch-3.webp)
+
+Foto 3: Dinesh Valke from Thane, India, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Capparis_spinosa_(8419649170).jpg)
 
 ## Im Heildepot
 

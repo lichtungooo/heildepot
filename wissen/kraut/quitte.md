@@ -7,6 +7,11 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Früchte, Samen"
 tags: ["quitte", "schleim", "husten", "haut", "gelee"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimhautschützend", "reizlindernd", "adstringierend", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/quitte-1.webp"
+bild_nachweis: "Dietrich Krieger, CC BY-SA 3.0"
 ---
 
 # Quitte
@@ -38,9 +43,9 @@ Früchte, Samen
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Sodbrennen / Reflux](../beschwerde/sodbrennen.md)
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
-- [[halsschmerzen]]
-- [[hautreizung]]
-- [[uebelkeit]]
+- [Angina / Mandelentzündung / Halsschmerzen](../beschwerde/angina.md)
+- [Hautreizung](../beschwerde/hautreizung.md)
+- [Übelkeit](../beschwerde/uebelkeit.md)
 
 ## Beschreibung
 
@@ -139,6 +144,20 @@ In der Volksmedizin war der Quittenschleim das Hausmittel gegen rissige Hände, 
 ## Mehr dazu
 
 - [Quitte bei der Quelle](https://heilkräuter.de/lexikon/quitte.htm)
+
+## Fotos
+
+![Quitte, Foto 1](https://heildepot.wir.ooo/bilder/kraut/quitte-1.webp)
+
+Foto 1: Dietrich Krieger, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Quittenbaum_cydonia_oblonga.jpg)
+
+![Quitte, Foto 2](https://heildepot.wir.ooo/bilder/kraut/quitte-2.webp)
+
+Foto 2: myself, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Cydonia-oblonga1010188.JPG)
+
+![Quitte, Foto 3](https://heildepot.wir.ooo/bilder/kraut/quitte-3.webp)
+
+Foto 3: Radler59, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Klingenhain_Quittenbaum.jpg)
 
 ## Im Heildepot
 

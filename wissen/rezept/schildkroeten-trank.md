@@ -3,21 +3,23 @@ art: "rezept"
 id: "schildkroeten-trank"
 name: "Schildkröten-Trank: Adaptogen-Elixier der Langlebigkeit"
 tradition: "Hexenwissen"
-kategorie: "Regeneration & Detox"
 tags: ["adaptogene", "reishi", "langlebigkeit", "tcm", "meisterrezept", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Regeneration & Detox"
 ---
 
 # Schildkröten-Trank: Adaptogen-Elixier der Langlebigkeit
 
 ## Hilft bei
 
-- [[anti-aging]]
-- [[langlebigkeit]]
-- [[energie]]
-- [[immunsystem]]
-- [[verjuengung]]
-- [[graue-haare]]
+- [Anti aging](../beschwerde/anti-aging.md)
+- [Langlebigkeit](../beschwerde/langlebigkeit.md)
+- [Burnout / Chronische Erschöpfung](../beschwerde/burnout.md)
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
+- [Verjüngung](../beschwerde/verjuengung.md)
+- [Graue haare](../beschwerde/graue-haare.md)
 
 ## Schwierigkeit
 

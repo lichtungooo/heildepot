@@ -8,6 +8,11 @@ pflanzenteile: "Kraut (nur als Fertigpräparat)"
 schutz: "geschützt"
 tags: ["adonisröschen", "herz", "herzstärkend", "giftig"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["herzstärkend", "beruhigend", "harntreibend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/adonisroeschen-1.webp"
+bild_nachweis: "Myrabella, CC BY-SA 3.0"
 ---
 
 # Adonisröschen
@@ -37,11 +42,11 @@ Kraut (nur als Fertigpräparat)
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
 - [Schwindel / Gleichgewichtsstörungen](../beschwerde/schwindel.md)
 - [Angst / Panikattacken](../beschwerde/angst.md)
-- [[herzschwaeche]]
-- [[herzrhythmusstoerungen]]
-- [[herzneurose]]
-- [[oedeme]]
-- [[kurzatmigkeit]]
+- [Herzschwäche](../beschwerde/herzschwaeche.md)
+- [Herzrhythmusstörungen](../beschwerde/herzrhythmusstoerungen.md)
+- [Herzneurose](../beschwerde/herzneurose.md)
+- [Ödeme](../beschwerde/oedeme.md)
+- [Kurzatmigkeit](../beschwerde/kurzatmigkeit.md)
 
 ## Beschreibung
 
@@ -136,6 +141,20 @@ In der russischen und osteuropäischen Volksmedizin wurde das Adonisröschen bei
 ## Mehr dazu
 
 - [Adonisröschen bei der Quelle](https://heilkräuter.de/lexikon/adonis.htm)
+
+## Fotos
+
+![Adonisröschen, Foto 1](https://heildepot.wir.ooo/bilder/kraut/adonisroeschen-1.webp)
+
+Foto 1: Myrabella, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Adonis_vernalis_Lozere.jpg)
+
+![Adonisröschen, Foto 2](https://heildepot.wir.ooo/bilder/kraut/adonisroeschen-2.webp)
+
+Foto 2: Arfy, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Adonis_vernalis_1.jpg)
+
+![Adonisröschen, Foto 3](https://heildepot.wir.ooo/bilder/kraut/adonisroeschen-3.webp)
+
+Foto 3: Stefan.lefnaer, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Adonis_vernalis_sl1.jpg)
 
 ## Im Heildepot
 

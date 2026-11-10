@@ -8,6 +8,11 @@ pflanzenteile: "Knolle"
 schutz: "geschützt"
 tags: ["knabenkraut", "orchidee", "geschützt", "magen", "schleim"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimhautschützend", "stärkend", "reizlindernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/knabenkraut-1.webp"
+bild_nachweis: "Argenta, Vicente Martin de., Public domain"
 ---
 
 # Knabenkraut
@@ -37,11 +42,11 @@ Knolle
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Sodbrennen / Reflux](../beschwerde/sodbrennen.md)
-- [[magen]]
-- [[reizhusten]]
+- [Sodbrennen / Reflux](../beschwerde/sodbrennen.md)
+- [Reizhusten](../beschwerde/reizhusten.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[schleimhaut]]
-- [[rekonvaleszenz]]
+- [Schleimhaut](../beschwerde/schleimhaut.md)
+- [Rekonvaleszenz](../beschwerde/rekonvaleszenz.md)
 
 ## Beschreibung
 
@@ -137,6 +142,20 @@ In den Alpen gaben Mütter schwächlichen Kindern Salep-Suppe als Kräftigungsna
 ## Mehr dazu
 
 - [Knabenkraut bei der Quelle](https://heilkräuter.de/lexikon/knabenkraut.htm)
+
+## Fotos
+
+![Knabenkraut, Foto 1](https://heildepot.wir.ooo/bilder/kraut/knabenkraut-1.webp)
+
+Foto 1: Argenta, Vicente Martin de., Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Album_de_la_flora_m%C3%A9dico-farmac%C3%A9utica_%C3%A9_industrial,_ind%C3%ADgena_y_ex%C3%B3tica_(Pl._66)_(8157686044).jpg)
+
+![Knabenkraut, Foto 2](https://heildepot.wir.ooo/bilder/kraut/knabenkraut-2.webp)
+
+Foto 2: Sukkoria, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:WLE2019_-_Frasne-Bouverans_-_Orchis_mascula_03.jpg)
+
+![Knabenkraut, Foto 3](https://heildepot.wir.ooo/bilder/kraut/knabenkraut-3.webp)
+
+Foto 3: Tulipasylvestris, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Sankt_Pers_nycklar_i_Kloster%C3%A4nge.jpg)
 
 ## Im Heildepot
 

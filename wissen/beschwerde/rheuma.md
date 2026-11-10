@@ -4,6 +4,8 @@ id: "rheuma"
 name: "Rheuma / Gicht"
 tags: ["rheuma", "gicht", "gelenke", "entzündung", "arthritis", "harnsäure"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Rheuma / Gicht

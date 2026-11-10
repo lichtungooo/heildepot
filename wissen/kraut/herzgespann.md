@@ -7,6 +7,11 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut"
 tags: ["herzgespann", "herz", "herzrasen", "schilddrüse", "beruhigend"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["herzberuhigend", "krampflösend", "blutdrucksenkend", "angstlösend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/herzgespann-1.webp"
+bild_nachweis: "H. Zell, CC BY-SA 3.0"
 ---
 
 # Herzgespann
@@ -39,12 +44,12 @@ Kraut
 - [Schilddrüsenthemen](../beschwerde/schilddruese.md)
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
 - [Bluthochdruck / Herz-Kreislauf](../beschwerde/bluthochdruck.md)
-- [[herzklopfen]]
-- [[herzrhythmusstoerungen]]
-- [[nervositaet]]
+- [Herzklopfen](../beschwerde/herzklopfen.md)
+- [Herzrhythmusstörungen](../beschwerde/herzrhythmusstoerungen.md)
+- [Nervosität](../beschwerde/nervositaet.md)
 - [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
-- [[menstruationsbeschwerden]]
-- [[herzangst]]
+- [Menstruationsbeschwerden](../beschwerde/menstruationsbeschwerden.md)
+- [Herzangst](../beschwerde/herzangst.md)
 
 ## Beschreibung
 
@@ -143,6 +148,20 @@ Das Herzgespann war das Herzmittel der einfachen Leute. Bei jedem Herzklopfen, j
 ## Mehr dazu
 
 - [Herzgespann bei der Quelle](https://heilkräuter.de/lexikon/herzgespann.htm)
+
+## Fotos
+
+![Herzgespann, Foto 1](https://heildepot.wir.ooo/bilder/kraut/herzgespann-1.webp)
+
+Foto 1: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Leonurus_cardiaca_0001.JPG)
+
+![Herzgespann, Foto 2](https://heildepot.wir.ooo/bilder/kraut/herzgespann-2.webp)
+
+Foto 2: Elele52, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Cardiaca.JPG)
+
+![Herzgespann, Foto 3](https://heildepot.wir.ooo/bilder/kraut/herzgespann-3.webp)
+
+Foto 3: Hajotthu, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Echte_Herzgespann_(Leonurus_cardiaca)_06.jpg)
 
 ## Im Heildepot
 

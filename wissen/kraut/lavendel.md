@@ -7,6 +7,11 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Blüten"
 tags: ["lavendel", "schlaf", "beruhigend", "angst", "duft"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["beruhigend", "schlaffördernd", "angstlösend", "antibakteriell"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/lavendel-1.webp"
+bild_nachweis: "Brice, CC BY-SA 3.0"
 ---
 
 # Lavendel
@@ -40,8 +45,8 @@ Blüten
 - [Kopfschmerzen / Migräne](../beschwerde/kopfschmerzen.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Depression / Schwermut](../beschwerde/depression.md)
-- [[schlafprobleme]]
-- [[nervositaet]]
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
+- [Nervosität](../beschwerde/nervositaet.md)
 - [Burnout / Chronische Erschöpfung](../beschwerde/burnout.md)
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
 
@@ -154,6 +159,20 @@ Lavendelsträusschen unter dem Kopfkissen vertrieben böse Träume. Wöchnerinne
 ## Mehr dazu
 
 - [Lavendel bei der Quelle](https://heilkräuter.de/lexikon/lavendel.htm)
+
+## Fotos
+
+![Lavendel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/lavendel-1.webp)
+
+Foto 1: Brice, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Abbaye_de_senanque_lavande.jpg)
+
+![Lavendel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/lavendel-2.webp)
+
+Foto 2: Guillaume 1995, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Abbaye_de_S%C3%A9nanque.jpg)
+
+![Lavendel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/lavendel-3.webp)
+
+Foto 3: TICKoper, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:03-05_Primorska_Provansa_v_Pregari.jpg)
 
 ## Im Heildepot
 

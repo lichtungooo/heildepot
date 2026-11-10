@@ -3,19 +3,21 @@ art: "rezept"
 id: "lorscher-arzneibuch"
 name: "Lorscher Arzneibuch: Ältestes deutsches Medizinbuch (795 n.Chr.)"
 tradition: "Klostermedizin"
-kategorie: "Historisch"
 tags: ["historisch", "lorscher-arzneibuch", "kloster-lorsch", "mittelalter", "UNESCO", "antibiotika", "pharmaziegeschichte"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Historisch"
 ---
 
 # Lorscher Arzneibuch: Ältestes deutsches Medizinbuch (795 n.Chr.)
 
 ## Hilft bei
 
-- [[historisches Interesse]]
-- [[Pharmaziegeschichte]]
-- [[Klostermedizin-Studium]]
-- [[mittelalterliche Heilkunst]]
+- [Historisches interesse](../beschwerde/historisches-interesse.md)
+- [Pharmaziegeschichte](../beschwerde/pharmaziegeschichte.md)
+- [Klostermedizin studium](../beschwerde/klostermedizin-studium.md)
+- [Mittelalterliche heilkunst](../beschwerde/mittelalterliche-heilkunst.md)
 
 ## Schwierigkeit
 

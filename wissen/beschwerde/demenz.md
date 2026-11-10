@@ -4,6 +4,8 @@ id: "demenz"
 name: "Demenz / Alzheimer / Vergesslichkeit"
 tags: ["gehirn", "gedächtnis", "alzheimer", "demenz", "neuronen"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Demenz / Alzheimer / Vergesslichkeit

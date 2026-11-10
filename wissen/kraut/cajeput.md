@@ -7,6 +7,11 @@ familie: "Myrtengewächse (Myrtaceae)"
 pflanzenteile: "Blätter, Zweige (ätherisches Öl)"
 tags: ["cajeput", "atemwege", "inhalieren", "muskeln", "erkältung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "schmerzlindernd", "antiseptisch", "durchblutungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/cajeput-1.webp"
+bild_nachweis: "R. Purdie, CC BY 3.0"
 ---
 
 # Cajeput
@@ -38,10 +43,10 @@ Blätter, Zweige (ätherisches Öl)
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
-- [[nebenhoehlenentzuendung]]
-- [[muskelschmerzen]]
-- [[gelenkschmerzen]]
-- [[mueckenschutz]]
+- [Nebenhöhlenentzündung](../beschwerde/nebenhoehlenentzuendung.md)
+- [Muskelschmerzen](../beschwerde/muskelschmerzen.md)
+- [Gelenkschmerzen](../beschwerde/gelenkschmerzen.md)
+- [Mückenschutz](../beschwerde/mueckenschutz.md)
 - [Kopfschmerzen / Migräne](../beschwerde/kopfschmerzen.md)
 
 ## Beschreibung
@@ -139,6 +144,20 @@ In Südostasien ist Cajeputöl das Allzweck-Hausmittel schlechthin. Es wird auf 
 ## Mehr dazu
 
 - [Cajeput bei der Quelle](https://heilkräuter.de/lexikon/cajeput.htm)
+
+## Fotos
+
+![Cajeput, Foto 1](https://heildepot.wir.ooo/bilder/kraut/cajeput-1.webp)
+
+Foto 1: R. Purdie, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Melaleuca_cajuputi_(habit).jpg)
+
+![Cajeput, Foto 2](https://heildepot.wir.ooo/bilder/kraut/cajeput-2.webp)
+
+Foto 2: Tatgowicetuk Simqe, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:HK_%E8%8D%83%E7%81%A3_Tsuen_Wan_%E8%8D%83%E6%99%AF%E5%9C%8D_Tsuen_King_Circuit_%E9%81%8A%E6%A8%82%E5%A0%B4_Playground_January_2021_SS2_14.jpg)
+
+![Cajeput, Foto 3](https://heildepot.wir.ooo/bilder/kraut/cajeput-3.webp)
+
+Foto 3: DAIKAUNGCUAPES, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:HK_KTD_%E4%B9%9D%E9%BE%8D%E7%81%A3_Kln_Bay_%E5%AE%8F%E6%B3%B0%E9%81%93_Wang_Tai_Road_November_2021_SS2_074.jpg)
 
 ## Im Heildepot
 

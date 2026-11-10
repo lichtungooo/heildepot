@@ -4,6 +4,8 @@ id: "stress"
 name: "Stress / Burnout / Erschöpfung"
 tags: ["stress", "burnout", "erschöpfung", "nebenniere", "nervensystem", "cortisol"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Stress / Burnout / Erschöpfung

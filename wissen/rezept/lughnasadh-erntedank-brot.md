@@ -3,22 +3,24 @@ art: "rezept"
 id: "lughnasadh-erntedank-brot"
 name: "Lughnasadh-Erntedank-Brot: Körnerkraft der Erde"
 tradition: "Hexenwissen"
-kategorie: "Jahreskreis-Rezepte"
 tags: ["jahreskreis", "lughnasadh", "brot", "ernte", "hexenwissen", "heilsamen", "gemeinschaft"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Jahreskreis-Rezepte"
 ---
 
 # Lughnasadh-Erntedank-Brot: Körnerkraft der Erde
 
 ## Hilft bei
 
-- [[lughnasadh]]
-- [[erntedank]]
-- [[gemeinschaft]]
-- [[nahrung]]
+- [Lughnasadh](../beschwerde/lughnasadh.md)
+- [Erntedank](../beschwerde/erntedank.md)
+- [Gemeinschaft](../beschwerde/gemeinschaft.md)
+- [Nahrung](../beschwerde/nahrung.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
-- [[kraft]]
-- [[tradition]]
+- [Kraft](../beschwerde/kraft.md)
+- [Tradition](../beschwerde/tradition.md)
 
 ## Schwierigkeit
 

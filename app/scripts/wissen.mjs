@@ -1,13 +1,15 @@
-// Schreibt das Heilwissen als Dokumente nach wissen/ (Forge, DEFINITION 119a).
+// Schreibt das Heilwissen als Dokumente nach wissen/ (Forge, DEFINITION 119a und 119f).
 //   node app/scripts/wissen.mjs            schreibt wissen/ neu
 //   node app/scripts/wissen.mjs --pruefen  meldet Abweichungen und endet mit 1 (119.R2)
 import { mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync, existsSync } from 'node:fs'
 import { dirname, join, relative } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { alleDokumente } from './wissen-bau.mjs'
+import './js-endung.mjs'
+import { alleDokumente, BASIS } from './wissen-bau.mjs'
 
 const DATEN = fileURLToPath(new URL('../src/data/', import.meta.url))
 const ZIEL = fileURLToPath(new URL('../../wissen/', import.meta.url))
+const FOTOS = fileURLToPath(new URL('../public/bilder/kraut/', import.meta.url))
 
 async function lade(datei, name) {
   const m = await import(join(DATEN, datei)).catch(() => ({}))
@@ -37,7 +39,35 @@ const rezepte = [
   { liste: await lade('klostermedizin.js', 'KLOSTERMEDIZIN'), tradition: 'Klostermedizin' },
 ]
 
-const soll = alleDokumente({ kraeuter, tief, beschwerden, rezepte })
+// 119f: die übrigen Seiten des Heildepots, ihre Kategorien und die Fotos je Kraut.
+const d = await import(join(DATEN, 'index.js'))
+const { KATEGORIEN } = await import(join(DATEN, 'kategorien.js'))
+const { PRODUCT_GROUPS } = await import(join(DATEN, 'product-details.js'))
+const kategorien = Object.fromEntries(KATEGORIEN.map((k) => [k.id, { titel: k.titel, bild: k.bild ? `${BASIS}bilder/${k.bild}-800.webp` : undefined }]))
+const sammlungen = [
+  { liste: d.FASTING_METHODS, kategorie: 'fasten', gruppe: 'Fasten' },
+  { liste: d.NUTRITION_STYLES, kategorie: 'ernaehrung', gruppe: 'Ernährungsstile' },
+  { liste: d.NUTRITION_COMPARISONS, kategorie: 'ernaehrung', gruppe: 'Vergleiche' },
+  { liste: d.KRAEUTERMISCHUNGEN, kategorie: 'hexenwissen', art: 'rezept', gruppe: 'Kräutermischungen' },
+  { liste: d.SALBEN_REZEPTE, kategorie: 'hexenwissen', art: 'rezept', gruppe: 'Salben' },
+  { liste: d.TINKTUREN_REZEPTE, kategorie: 'hexenwissen', art: 'rezept', gruppe: 'Tinkturen' },
+  { liste: d.ZIRBELDRUESE_REZEPTE, kategorie: 'hexenwissen', art: 'rezept', gruppe: 'Zirbeldrüse' },
+  { liste: d.ALCHEMIE, kategorie: 'hexenwissen', gruppe: 'Alchemie' },
+  { liste: d.ALCHEMIE_DEEP, kategorie: 'hexenwissen', gruppe: 'Alchemie' },
+  { liste: d.HEXENWISSEN_ANLEITUNGEN, kategorie: 'hexenwissen', gruppe: 'Anleitungen' },
+  { liste: d.BEWUSSTSEINS_PFLANZEN, kategorie: 'hexenwissen', gruppe: 'Bewusstseinspflanzen' },
+  { liste: d.ZIRBELDRUESE_WISSEN, kategorie: 'hexenwissen', gruppe: 'Zirbeldrüse' },
+  { liste: d.SUCHTFORMEN, kategorie: 'sucht', gruppe: 'Suchtformen' },
+  { liste: d.HEILANSAETZE_SUCHT, kategorie: 'sucht', gruppe: 'Heilansätze' },
+  { liste: PRODUCT_GROUPS, kategorie: 'produkte', gruppe: 'Aus dem Depot' },
+  { liste: d.TOPICS, kategorie: 'wissen', gruppe: 'Anleitungen' },
+]
+const fotos = {}
+if (existsSync(FOTOS)) {
+  for (const f of readdirSync(FOTOS)) if (f.endsWith('.json')) fotos[f.slice(0, -5)] = JSON.parse(readFileSync(join(FOTOS, f), 'utf8'))
+}
+
+const soll = alleDokumente({ kraeuter, tief, beschwerden, rezepte, sammlungen, kategorien, fotos })
 
 function ist(ordner) {
   const aus = new Map()
@@ -73,5 +103,5 @@ if (process.argv.includes('--pruefen')) {
     writeFileSync(datei, inhalt)
   }
   const zahl = (a) => [...soll.keys()].filter((p) => p.startsWith(`${a}/`)).length
-  console.log(`wissen/: ${zahl('kraut')} Kräuter, ${zahl('beschwerde')} Beschwerden, ${zahl('rezept')} Rezepte`)
+  console.log(`wissen/: ${zahl('kraut')} Kräuter, ${zahl('beschwerde')} Beschwerden, ${zahl('rezept')} Rezepte, ${zahl('thema')} Themen`)
 }

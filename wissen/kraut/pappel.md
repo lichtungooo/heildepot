@@ -7,6 +7,11 @@ familie: "Weidengewächse (Salicaceae)"
 pflanzenteile: "Knospen, Rinde"
 tags: ["pappel", "knospen", "schmerzen", "salbe", "hämorrhoiden"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schmerzlindernd", "entzündungshemmend", "fiebersenkend", "wundheilend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/pappel-1.webp"
+bild_nachweis: "Wojsyl, CC BY-SA 3.0"
 ---
 
 # Pappel
@@ -38,10 +43,10 @@ Knospen, Rinde
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
 - [Grippe](../beschwerde/grippe.md)
-- [[gelenkschmerzen]]
-- [[fieber]]
+- [Gelenkschmerzen](../beschwerde/gelenkschmerzen.md)
+- [Grippe](../beschwerde/grippe.md)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
-- [[harnwegsentzuendung]]
+- [Harnwegsentzündung](../beschwerde/harnwegsentzuendung.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ In der Volksmedizin war die Pappelknospensalbe das Hausmittel gegen Hämorrhoide
 ## Mehr dazu
 
 - [Pappel bei der Quelle](https://heilkräuter.de/lexikon/pappel.htm)
+
+## Fotos
+
+![Pappel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/pappel-1.webp)
+
+Foto 1: Wojsyl, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Poplar.jpg)
+
+![Pappel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/pappel-2.webp)
+
+Foto 2: GrieSoß, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Populus_nigra_Dreieich.jpg)
+
+![Pappel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/pappel-3.webp)
+
+Foto 3: Cherubino, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Four_Poplars.jpg)
 
 ## Im Heildepot
 

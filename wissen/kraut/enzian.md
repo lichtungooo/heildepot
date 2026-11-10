@@ -7,6 +7,11 @@ familie: "Enziangewächse (Gentianaceae)"
 pflanzenteile: "Wurzel"
 tags: ["enzian", "verdauung", "bitter", "magen", "appetit"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "appetitanregend", "magenstärkend", "gallefördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/enzian-1.webp"
+bild_nachweis: "Bernd Haynold, CC BY-SA 2.5"
 ---
 
 # Enzian
@@ -38,8 +43,8 @@ Wurzel
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
 - [Leber / Galle](../beschwerde/leber.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[appetitlosigkeit]]
-- [[voellegefuehl]]
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
+- [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
 
 ## Beschreibung
@@ -137,6 +142,20 @@ In den Alpen heißt es: "Ein Stamperl Enzian vor dem Essen und nach dem Essen, d
 ## Mehr dazu
 
 - [Enzian bei der Quelle](https://heilkräuter.de/lexikon/enzian.htm)
+
+## Fotos
+
+![Enzian, Foto 1](https://heildepot.wir.ooo/bilder/kraut/enzian-1.webp)
+
+Foto 1: Bernd Haynold, CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Gentiana_lutea_090705.jpg)
+
+![Enzian, Foto 2](https://heildepot.wir.ooo/bilder/kraut/enzian-2.webp)
+
+Foto 2: Böhringer Friedrich, CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Gelber_Enzian,_Gentiana_lutea_02.JPG)
+
+![Enzian, Foto 3](https://heildepot.wir.ooo/bilder/kraut/enzian-3.webp)
+
+Foto 3: Daniel Mietchen, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:Creux_du_Van_hail_IMAG3442.jpg)
 
 ## Im Heildepot
 

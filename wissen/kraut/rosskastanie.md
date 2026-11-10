@@ -7,6 +7,11 @@ familie: "Seifenbaumgewächse (Sapindaceae)"
 pflanzenteile: "Samen, Rinde"
 tags: ["rosskastanie", "venen", "krampfadern", "beine", "gefäße"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["gefäßstärkend", "abschwellend", "entzündungshemmend", "durchblutungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/rosskastanie-1.webp"
+bild_nachweis: "Sannse at English Wikipedia, CC BY-SA 3.0"
 ---
 
 # Rosskastanie
@@ -37,11 +42,11 @@ Samen, Rinde
 - [Krampfadern / Venenschwäche / Durchblutung](../beschwerde/krampfadern.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
-- [[schwere_beine]]
-- [[oedeme]]
+- [Schwere beine](../beschwerde/schwere-beine.md)
+- [Ödeme](../beschwerde/oedeme.md)
 - [Hämorrhoiden](../beschwerde/haemorrhoiden.md)
-- [[venenschwaeche]]
-- [[durchblutungsstoerungen]]
+- [Venenschwäche](../beschwerde/venenschwaeche.md)
+- [Durchblutungsstörungen](../beschwerde/durchblutungsstoerungen.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ Die Rosskastanie in der Hosentasche war das bekannteste Rheumamittel der Volksme
 ## Mehr dazu
 
 - [Rosskastanie bei der Quelle](https://heilkräuter.de/lexikon/rosskast.htm)
+
+## Fotos
+
+![Rosskastanie, Foto 1](https://heildepot.wir.ooo/bilder/kraut/rosskastanie-1.webp)
+
+Foto 1: Sannse at English Wikipedia, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Horse-chestnut_800.jpg)
+
+![Rosskastanie, Foto 2](https://heildepot.wir.ooo/bilder/kraut/rosskastanie-2.webp)
+
+Foto 2: Jan Kops, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Aesculus_hippocastanum_%E2%80%94_Flora_Batava_%E2%80%94_Volume_v12.jpg)
+
+![Rosskastanie, Foto 3](https://heildepot.wir.ooo/bilder/kraut/rosskastanie-3.webp)
+
+Foto 3: Dietmar Rabich, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Park_Sentmaring_--_2015_--_9923.jpg)
 
 ## Im Heildepot
 

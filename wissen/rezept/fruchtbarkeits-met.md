@@ -3,21 +3,23 @@ art: "rezept"
 id: "fruchtbarkeits-met"
 name: "Fruchtbarkeits-Met: Heiliger Honigtrank für neues Leben"
 tradition: "Hexenwissen"
-kategorie: "Frauen-Heilkunde"
 tags: ["frauenheilkunde", "kinderwunsch", "fruchtbarkeit", "met", "fermentation", "hexenwissen", "ahnen"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Frauen-Heilkunde"
 ---
 
 # Fruchtbarkeits-Met: Heiliger Honigtrank für neues Leben
 
 ## Hilft bei
 
-- [[kinderwunsch]]
-- [[fruchtbarkeit]]
-- [[empfaengnis]]
-- [[zyklusregulierung]]
-- [[einnistung]]
-- [[hormonal]]
+- [Kinderwunsch](../beschwerde/kinderwunsch.md)
+- [Fruchtbarkeit](../beschwerde/fruchtbarkeit.md)
+- [Empfängnis](../beschwerde/empfaengnis.md)
+- [Zyklusregulierung](../beschwerde/zyklusregulierung.md)
+- [Einnistung](../beschwerde/einnistung.md)
+- [Hormonal](../beschwerde/hormonal.md)
 
 ## Schwierigkeit
 

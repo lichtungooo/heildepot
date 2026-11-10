@@ -4,6 +4,8 @@ id: "wechseljahre"
 name: "Wechseljahre / Hormonsystem"
 tags: ["hormone", "menopause", "östrogen", "hitzewallungen", "frauengesundheit"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Wechseljahre / Hormonsystem

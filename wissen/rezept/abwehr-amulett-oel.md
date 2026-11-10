@@ -3,20 +3,22 @@ art: "rezept"
 id: "abwehr-amulett-oel"
 name: "Abwehr-Amulett-Öl: Schutzsalbe der Weisen Frauen"
 tradition: "Hexenwissen"
-kategorie: "Schutz & Reinigung"
 tags: ["schutzöl", "johanniskraut", "weihrauch", "myrrhe", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Schutz & Reinigung"
 ---
 
 # Abwehr-Amulett-Öl: Schutzsalbe der Weisen Frauen
 
 ## Hilft bei
 
-- [[schutz]]
-- [[energetische-reinigung]]
-- [[aura]]
-- [[belastende-situationen]]
-- [[nervositaet]]
+- [Schutz](../beschwerde/schutz.md)
+- [Energetische reinigung](../beschwerde/energetische-reinigung.md)
+- [Aura](../beschwerde/aura.md)
+- [Belastende situationen](../beschwerde/belastende-situationen.md)
+- [Nervosität](../beschwerde/nervositaet.md)
 
 ## Schwierigkeit
 

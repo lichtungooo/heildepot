@@ -3,22 +3,24 @@ art: "rezept"
 id: "vierrauber-essig-grimoire"
 name: "Vierräube-Essig: Das Pestrezept der Grabdiebe"
 tradition: "Grimoire"
-kategorie: "Schutzmagie"
 tags: ["VierräuberEssig", "Pestrezept", "Schutzmagie", "Desinfektion", "Kräuteressig", "Marseille", "Pest", "Antibakteriell", "Volksmedizin", "TatsächlichMachbar"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Schutzmagie"
 ---
 
 # Vierräube-Essig: Das Pestrezept der Grabdiebe
 
 ## Hilft bei
 
-- [[Vierräuber-Essig]]
-- [[Pest]]
-- [[Desinfektion]]
-- [[Schutzmagie]]
-- [[Kräuteressig]]
-- [[Antibakteriell]]
-- [[Volksmedizin]]
+- [Vierräuber essig](../beschwerde/vierraeuber-essig.md)
+- [Pest](../beschwerde/pest.md)
+- [Desinfektion](../beschwerde/desinfektion.md)
+- [Schutzmagie](../beschwerde/schutzmagie.md)
+- [Kräuteressig](../beschwerde/kraeuteressig.md)
+- [Antibakteriell](../beschwerde/antibakteriell.md)
+- [Volksmedizin](../beschwerde/volksmedizin.md)
 
 ## Schwierigkeit
 

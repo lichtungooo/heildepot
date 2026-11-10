@@ -4,6 +4,8 @@ id: "angina"
 name: "Angina / Mandelentzündung / Halsschmerzen"
 tags: ["angina", "mandelentzündung", "halsschmerzen", "tonsillitis", "rachenentzündung", "schluckbeschwerden"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Angina / Mandelentzündung / Halsschmerzen

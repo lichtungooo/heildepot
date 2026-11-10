@@ -4,6 +4,8 @@ id: "polyneuropathie"
 name: "Polyneuropathie / Nervenschäden"
 tags: ["polyneuropathie", "nerven", "taubheit", "kribbeln", "diabetes"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Polyneuropathie / Nervenschäden

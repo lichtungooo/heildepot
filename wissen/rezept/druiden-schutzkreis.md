@@ -3,22 +3,24 @@ art: "rezept"
 id: "druiden-schutzkreis"
 name: "Druiden-Schutzkreis: Die neun heiligen Hölzer"
 tradition: "Grimoire"
-kategorie: "Schutzmagie"
 tags: ["Druiden", "Kelten", "NeunHölzer", "Ogham", "Schutzkreis", "Räucherung", "Baeume", "Schutzmagie", "Volksmagie", "Ungefährlich"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Schutzmagie"
 ---
 
 # Druiden-Schutzkreis: Die neun heiligen Hölzer
 
 ## Hilft bei
 
-- [[Druiden]]
-- [[Kelten]]
-- [[Schutzkreis]]
-- [[Räucherung]]
-- [[Baeume]]
-- [[Ogham]]
-- [[neun Hölzer]]
+- [Druiden](../beschwerde/druiden.md)
+- [Kelten](../beschwerde/kelten.md)
+- [Schutzkreis](../beschwerde/schutzkreis.md)
+- [Räucherung](../beschwerde/raeucherung.md)
+- [Bäume](../beschwerde/baeume.md)
+- [Ogham](../beschwerde/ogham.md)
+- [Neun hölzer](../beschwerde/neun-hoelzer.md)
 
 ## Schwierigkeit
 

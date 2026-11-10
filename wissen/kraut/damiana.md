@@ -7,6 +7,11 @@ familie: "Safranmalvengewächse (Passifloraceae)"
 pflanzenteile: "Kraut"
 tags: ["damiana", "libido", "stimmung", "nerven", "kraft"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["aphrodisierend", "stimmungsaufhellend", "angstlösend", "nervenstärkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/damiana-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 3.0"
 ---
 
 # Damiana
@@ -38,8 +43,8 @@ Kraut
 - [Depression / Schwermut](../beschwerde/depression.md)
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[libido]]
-- [[nervositaet]]
+- [Erektionsstörungen / Libido / Potenz](../beschwerde/erektionsstoerung.md)
+- [Nervosität](../beschwerde/nervositaet.md)
 - [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
 
 ## Beschreibung
@@ -138,6 +143,20 @@ In Mexiko heißt es: "Wer Damiana trinkt, den küsst die Sonne", sie galt als Mi
 ## Mehr dazu
 
 - [Damiana bei der Quelle](https://heilkräuter.de/lexikon/damiana.htm)
+
+## Fotos
+
+![Damiana, Foto 1](https://heildepot.wir.ooo/bilder/kraut/damiana-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Tunera_diffusa_2.jpg)
+
+![Damiana, Foto 2](https://heildepot.wir.ooo/bilder/kraut/damiana-2.webp)
+
+Foto 2: No machine-readable author provided. Dominiku~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Tunera_diffusa_cb.jpg)
+
+![Damiana, Foto 3](https://heildepot.wir.ooo/bilder/kraut/damiana-3.webp)
+
+Foto 3: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Turnera_diffusa_var._aphrodisiaca_001.JPG)
 
 ## Im Heildepot
 

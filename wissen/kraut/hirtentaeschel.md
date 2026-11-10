@@ -7,6 +7,11 @@ familie: "Kreuzblütler (Brassicaceae)"
 pflanzenteile: "Kraut"
 tags: ["hirtentäschel", "blutung", "menstruation", "blutstillung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["blutstillend", "zusammenziehend", "blutdruckregulierend", "menstruationsregulierend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/hirtentaeschel-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 3.0"
 ---
 
 # Hirtentäschel
@@ -38,12 +43,12 @@ Kraut
 - [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
 - [Hämorrhoiden](../beschwerde/haemorrhoiden.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
-- [[starke_menstruation]]
-- [[nasenbluten]]
-- [[wundblutung]]
-- [[harnwegsinfekt]]
+- [Starke menstruation](../beschwerde/starke-menstruation.md)
+- [Nasenbluten](../beschwerde/nasenbluten.md)
+- [Wundblutung](../beschwerde/wundblutung.md)
+- [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
 - [Bluthochdruck / Herz-Kreislauf](../beschwerde/bluthochdruck.md)
-- [[geburtshilfe]]
+- [Geburtshilfe](../beschwerde/geburtshilfe.md)
 
 ## Beschreibung
 
@@ -142,6 +147,20 @@ Das Hirtentäschel war das "Notpflaster" der Volksmedizin. Bei Nasenbluten wurde
 ## Mehr dazu
 
 - [Hirtentäschel bei der Quelle](https://heilkräuter.de/lexikon/hirtentäschel.htm)
+
+## Fotos
+
+![Hirtentäschel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/hirtentaeschel-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Hirtent%C3%A4schelkraut.jpg)
+
+![Hirtentäschel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/hirtentaeschel-2.webp)
+
+Foto 2: Dalgial, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Capsella_bursa-pastoris_2.JPG)
+
+![Hirtentäschel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/hirtentaeschel-3.webp)
+
+Foto 3: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20130320Hirtentaeschelkraut_Hockenheim2.jpg)
 
 ## Im Heildepot
 

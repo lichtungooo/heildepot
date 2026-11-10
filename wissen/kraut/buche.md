@@ -7,6 +7,11 @@ familie: "Buchengewächse (Fagaceae)"
 pflanzenteile: "Rinde, Blätter"
 tags: ["buche", "fieber", "bachblüten", "wald"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["fiebersenkend", "adstringierend", "antiseptisch"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/buche-1.webp"
+bild_nachweis: "Rasbak at Dutch Wikipedia, CC BY-SA 3.0"
 ---
 
 # Buche
@@ -36,11 +41,11 @@ Rinde, Blätter
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Grippe](../beschwerde/grippe.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
-- [[hautkrankheiten]]
+- [Hautkrankheiten](../beschwerde/hautkrankheiten.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
-- [[gelenkschwellungen]]
-- [[intoleranz]]
-- [[hautpflege]]
+- [Gelenkschwellungen](../beschwerde/gelenkschwellungen.md)
+- [Intoleranz](../beschwerde/intoleranz.md)
+- [Hautpflege](../beschwerde/hautpflege.md)
 
 ## Beschreibung
 
@@ -143,6 +148,20 @@ In der Volksheilkunde wurde Buchenasche in Wasser gelöst als Waschung bei Krät
 ## Mehr dazu
 
 - [Buche bei der Quelle](https://heilkräuter.de/lexikon/buche.htm)
+
+## Fotos
+
+![Buche, Foto 1](https://heildepot.wir.ooo/bilder/kraut/buche-1.webp)
+
+Foto 1: Rasbak at Dutch Wikipedia, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Beuk_zonnebrand.jpg)
+
+![Buche, Foto 2](https://heildepot.wir.ooo/bilder/kraut/buche-2.webp)
+
+Foto 2: Dick Mudde, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Beuk_-_Dick_Mudde.jpg)
+
+![Buche, Foto 3](https://heildepot.wir.ooo/bilder/kraut/buche-3.webp)
+
+Foto 3: Richard Webb, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Beech_lined_field_-_geograph.org.uk_-_12522.jpg)
 
 ## Im Heildepot
 

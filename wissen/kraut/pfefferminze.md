@@ -7,6 +7,11 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Blätter"
 tags: ["pfefferminze", "verdauung", "kopfschmerzen", "kühlend", "magen"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["krampflösend", "kühlend", "verdauungsfördernd", "schmerzlindernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/pfefferminze-1.webp"
+bild_nachweis: "unbekannt, CC BY 3.0"
 ---
 
 # Pfefferminze
@@ -39,9 +44,9 @@ Blätter
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Migräne](../beschwerde/migraene.md)
-- [[magen]]
-- [[uebelkeit]]
-- [[konzentration]]
+- [Sodbrennen / Reflux](../beschwerde/sodbrennen.md)
+- [Übelkeit](../beschwerde/uebelkeit.md)
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
 
 ## Beschreibung
@@ -153,6 +158,20 @@ In der Volksmedizin galt: "Pfefferminze hilft dem Magen, Rosmarin dem Kopf, Lave
 ## Mehr dazu
 
 - [Pfefferminze bei der Quelle](https://heilkräuter.de/lexikon/p-minz.htm)
+
+## Fotos
+
+![Pfefferminze, Foto 1](https://heildepot.wir.ooo/bilder/kraut/pfefferminze-1.webp)
+
+Foto 1: unbekannt, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Pfefferminze_natur_peppermint.jpg)
+
+![Pfefferminze, Foto 2](https://heildepot.wir.ooo/bilder/kraut/pfefferminze-2.webp)
+
+Foto 2: Jiří Sedláček, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Old_pharmacy_herbs_in_exposition_History_of_pharmacies_in_Kuks_Hospital_in_Kuks,_Trutnov_District.jpg)
+
+![Pfefferminze, Foto 3](https://heildepot.wir.ooo/bilder/kraut/pfefferminze-3.webp)
+
+Foto 3: Georgfotoart, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Mentha_x_pip.crispa.jpg)
 
 ## Im Heildepot
 

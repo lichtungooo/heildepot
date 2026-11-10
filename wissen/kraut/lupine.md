@@ -7,6 +7,11 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Samen"
 tags: ["lupine", "protein", "regional", "blutzucker", "cholesterin"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["proteinreich", "blutzuckerregulierend", "cholesterinsenkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/lupine-1.webp"
+bild_nachweis: "Jean-Claude Echardour [CC BY-SA], via Tela Botanica, CC BY 2.0"
 ---
 
 # Lupine
@@ -35,12 +40,12 @@ Samen
 
 - [Diabetes](../beschwerde/diabetes.md)
 - [Übergewicht / Stoffwechsel](../beschwerde/uebergewicht.md)
-- [[eiweissmangel]]
-- [[blutzuckerschwankungen]]
-- [[hautprobleme]]
-- [[glutenunverträglichkeit]]
+- [Eiweissmangel](../beschwerde/eiweissmangel.md)
+- [Blutzuckerschwankungen](../beschwerde/blutzuckerschwankungen.md)
+- [Hautprobleme](../beschwerde/hautprobleme.md)
+- [Glutenunverträglichkeit](../beschwerde/glutenunvertraeglichkeit.md)
 - [Eisenmangel / Blutarmut / Anämie](../beschwerde/eisenmangel.md)
-- [[aufbaukost]]
+- [Aufbaukost](../beschwerde/aufbaukost.md)
 
 ## Beschreibung
 
@@ -139,6 +144,20 @@ In der Volksmedizin des Mittelmeerraums wurden bittere Lupinen nach dem Wässern
 ## Mehr dazu
 
 - [Lupine bei der Quelle](https://heilkräuter.de/lexikon/lupine.htm)
+
+## Fotos
+
+![Lupine, Foto 1](https://heildepot.wir.ooo/bilder/kraut/lupine-1.webp)
+
+Foto 1: Jean-Claude Echardour [CC BY-SA], via Tela Botanica, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Lupinus_albus_000_223_259_O.jpg)
+
+![Lupine, Foto 2](https://heildepot.wir.ooo/bilder/kraut/lupine-2.webp)
+
+Foto 2: Roger Culos, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Lupinus_albus_MHNT.BOT.2021.17.6.jpg)
+
+![Lupine, Foto 3](https://heildepot.wir.ooo/bilder/kraut/lupine-3.webp)
+
+Foto 3: manuel m. v., CC0, [Quelle](https://commons.wikimedia.org/wiki/File:Lupinus_albus_(01).jpg)
 
 ## Im Heildepot
 

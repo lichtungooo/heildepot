@@ -7,6 +7,11 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Blätter"
 tags: ["rosmarin", "kreislauf", "konzentration", "durchblutung", "gedächtnis"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["durchblutungsfördernd", "konzentrationsfördernd", "kreislaufanregend", "verdauungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/rosmarin-1.webp"
+bild_nachweis: "© 2004 by Tomasz Sienicki [user: tsca, mail: tomasz.sienicki at gmail.com], CC BY 2.5"
 ---
 
 # Rosmarin
@@ -39,8 +44,8 @@ Blätter
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Schwindel / Gleichgewichtsstörungen](../beschwerde/schwindel.md)
 - [Demenz / Alzheimer / Vergesslichkeit](../beschwerde/demenz.md)
-- [[niedriger_blutdruck]]
-- [[konzentration]]
+- [Niedriger blutdruck](../beschwerde/niedriger-blutdruck.md)
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
 
 ## Beschreibung
@@ -145,6 +150,20 @@ In südeuropäischen Dörfern pflanzte man Rosmarin an die Haustür, er sollte b
 ## Mehr dazu
 
 - [Rosmarin bei der Quelle](https://heilkräuter.de/lexikon/rosmarin.htm)
+
+## Fotos
+
+![Rosmarin, Foto 1](https://heildepot.wir.ooo/bilder/kraut/rosmarin-1.webp)
+
+Foto 1: © 2004 by Tomasz Sienicki [user: tsca, mail: tomasz.sienicki at gmail.com], CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Rosmarinus_officinalis_ubt.jpeg)
+
+![Rosmarin, Foto 2](https://heildepot.wir.ooo/bilder/kraut/rosmarin-2.webp)
+
+Foto 2: User:Dlents, CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Large_rosemary_bush.jpg)
+
+![Rosmarin, Foto 3](https://heildepot.wir.ooo/bilder/kraut/rosmarin-3.webp)
+
+Foto 3: Jcwf at Dutch Wikipedia, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Rozemarijn.jpg)
 
 ## Im Heildepot
 

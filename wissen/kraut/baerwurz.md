@@ -7,6 +7,11 @@ familie: "Doldenblütler"
 pflanzenteile: "Wurzel"
 tags: ["bärwurz", "verdauung", "blähungen", "alpen", "tradition"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "blähungswidrig", "krampflösend", "wärmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/baerwurz-1.webp"
+bild_nachweis: "André Karwath aka Aka, CC BY-SA 2.5"
 ---
 
 # Bärwurz
@@ -39,6 +44,20 @@ Wurzel
 ## Mehr dazu
 
 - [Bärwurz bei der Quelle](https://heilkräuter.de/lexikon/bärwurz.htm)
+
+## Fotos
+
+![Bärwurz, Foto 1](https://heildepot.wir.ooo/bilder/kraut/baerwurz-1.webp)
+
+Foto 1: André Karwath aka Aka, CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Meum_athamanticum_-_close-up_(aka).jpg)
+
+![Bärwurz, Foto 2](https://heildepot.wir.ooo/bilder/kraut/baerwurz-2.webp)
+
+Foto 2: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:B%C3%A4rwurz_0505211.jpg)
+
+![Bärwurz, Foto 3](https://heildepot.wir.ooo/bilder/kraut/baerwurz-3.webp)
+
+Foto 3: Jmp48, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Fenouil_des_Alpes1.JPG)
 
 ## Im Heildepot
 

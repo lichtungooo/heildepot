@@ -7,6 +7,11 @@ familie: "Parmeliaceae (Flechten)"
 pflanzenteile: "Ganze Flechte"
 tags: ["bartflechte", "antibiotisch", "halsschmerzen", "atemwege"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["antibiotisch", "schleimlösend", "immunstärkend", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/bartflechte-1.webp"
+bild_nachweis: "No machine-readable author provided. Bouba assumed (based on copyright claims)., CC BY-SA 2.5"
 ---
 
 # Bartflechte
@@ -39,11 +44,11 @@ Ganze Flechte
 - [Angina / Mandelentzündung / Halsschmerzen](../beschwerde/angina.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
 - [Pilzinfektionen / Candida](../beschwerde/candida.md)
-- [[halsentzuendung]]
-- [[bronchitis]]
+- [Halsentzündung](../beschwerde/halsentzuendung.md)
+- [Husten / Bronchitis](../beschwerde/husten.md)
 - [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
-- [[antibiotikaresistenz]]
+- [Antibiotikaresistenz](../beschwerde/antibiotikaresistenz.md)
 
 ## Beschreibung
 
@@ -146,6 +151,20 @@ Die Bartflechte war das Antibiotikum der Vorzeit. In Skandinavien, Sibirien und 
 ## Mehr dazu
 
 - [Bartflechte bei der Quelle](https://heilkräuter.de/lexikon/bartflechte.htm)
+
+## Fotos
+
+![Bartflechte, Foto 1](https://heildepot.wir.ooo/bilder/kraut/bartflechte-1.webp)
+
+Foto 1: No machine-readable author provided. Bouba assumed (based on copyright claims)., CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Usnea_barbata_0.jpg)
+
+![Bartflechte, Foto 2](https://heildepot.wir.ooo/bilder/kraut/bartflechte-2.webp)
+
+Foto 2: Jan Kops, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Lichen_floridus_%E2%80%94_Flora_Batava_%E2%80%94_Volume_v11.jpg)
+
+![Bartflechte, Foto 3](https://heildepot.wir.ooo/bilder/kraut/bartflechte-3.webp)
+
+Foto 3: User: (WT-shared) SnideRemarks at  wts wikivoyage, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Tsitsikamma_Grootkloof_Pass.JPG)
 
 ## Im Heildepot
 

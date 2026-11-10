@@ -7,6 +7,11 @@ familie: "Glockenblumengewächse (Campanulaceae)"
 pflanzenteile: "Kraut (nur als Fertigpräparat)"
 tags: ["lobelie", "asthma", "indianertabak", "atemwege", "krampflösend"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["krampflösend", "atemwegsöffnend", "brecherregend", "schweißtreibend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/lobelie-1.webp"
+bild_nachweis: "H. Zell, CC BY-SA 3.0"
 ---
 
 # Lobelie
@@ -35,11 +40,11 @@ Kraut (nur als Fertigpräparat)
 ## Hilft bei
 
 - [Asthma / Atemwege](../beschwerde/asthma.md)
-- [[atemwege]]
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Husten / Bronchitis](../beschwerde/husten.md)
-- [[bronchitis]]
-- [[atemverkrampfung]]
-- [[raucherentwoehnung]]
+- [Husten / Bronchitis](../beschwerde/husten.md)
+- [Atemverkrampfung](../beschwerde/atemverkrampfung.md)
+- [Raucherentwöhnung](../beschwerde/raucherentwoehnung.md)
 
 ## Beschreibung
 
@@ -130,6 +135,20 @@ Samuel Thomson nannte die Lobelie "das wichtigste Mittel der Schöpfung". In kle
 ## Mehr dazu
 
 - [Lobelie bei der Quelle](https://heilkräuter.de/lexikon/lobelie.htm)
+
+## Fotos
+
+![Lobelie, Foto 1](https://heildepot.wir.ooo/bilder/kraut/lobelie-1.webp)
+
+Foto 1: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Lobelia_inflata_001.JPG)
+
+![Lobelie, Foto 2](https://heildepot.wir.ooo/bilder/kraut/lobelie-2.webp)
+
+Foto 2: Fritzflohrreynolds, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Lobelia_inflata_-_Puke_Weed.jpg)
+
+![Lobelie, Foto 3](https://heildepot.wir.ooo/bilder/kraut/lobelie-3.webp)
+
+Foto 3: Ayotte, Gilles, 1948-, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Lobelia_inflata_15-p.bot-lobel.infla-03.jpg)
 
 ## Im Heildepot
 

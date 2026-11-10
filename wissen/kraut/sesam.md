@@ -7,6 +7,11 @@ familie: "Sesamgewächse (Pedaliaceae)"
 pflanzenteile: "Samen, Öl"
 tags: ["sesam", "calcium", "knochen", "ayurveda", "ölziehen"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["nährstoffreich", "knochenstärkend", "hautpflegend", "blutzuckerregulierend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/sesam-1.webp"
+bild_nachweis: "Unknown authorUnknown author, CC BY-SA 3.0"
 ---
 
 # Sesam
@@ -38,11 +43,11 @@ Samen, Öl
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Zähne / Mundraum / Zahnfleisch](../beschwerde/zaehne.md)
 - [Mundgeruch / Halitosis](../beschwerde/mundgeruch.md)
-- [[knochenschwaeche]]
+- [Knochenschwäche](../beschwerde/knochenschwaeche.md)
 - [Haarausfall / Haargesundheit](../beschwerde/haarverlust.md)
-- [[mundgesundheit]]
-- [[trockene_haut]]
-- [[cholesterin]]
+- [Mundgesundheit](../beschwerde/mundgesundheit.md)
+- [Trockene haut](../beschwerde/trockene-haut.md)
+- [Cholesterin](../beschwerde/cholesterin.md)
 - [Eisenmangel / Blutarmut / Anämie](../beschwerde/eisenmangel.md)
 
 ## Beschreibung
@@ -144,6 +149,20 @@ In der arabischen und indischen Volksmedizin galt Sesam als Kraftnahrung. Stille
 ## Mehr dazu
 
 - [Sesam bei der Quelle](https://heilkräuter.de/lexikon/sesam.htm)
+
+## Fotos
+
+![Sesam, Foto 1](https://heildepot.wir.ooo/bilder/kraut/sesam-1.webp)
+
+Foto 1: Unknown authorUnknown author, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Het_drogen_van_sesamtakken_(sesamum_indicum)_op_Java_TMnr_10012391.jpg)
+
+![Sesam, Foto 2](https://heildepot.wir.ooo/bilder/kraut/sesam-2.webp)
+
+Foto 2: KeepOpera, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:ALIM0471.JPG)
+
+![Sesam, Foto 3](https://heildepot.wir.ooo/bilder/kraut/sesam-3.webp)
+
+Foto 3: Mk2010, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Sesame_plant.jpg)
 
 ## Im Heildepot
 

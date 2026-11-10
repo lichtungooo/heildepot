@@ -7,6 +7,11 @@ familie: "Kieferngewächse (Pinaceae)"
 pflanzenteile: "Nadeln, Harz"
 tags: ["lärche", "harz", "atemwege", "furunkel"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "antiseptisch", "wundheilend", "durchblutungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/laerche-1.webp"
+bild_nachweis: "Rudolf Ammann from Tsu-shi, Japan, CC BY 2.0"
 ---
 
 # Lärche
@@ -38,11 +43,11 @@ Nadeln, Harz
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
-- [[furunkel]]
+- [Furunkel](../beschwerde/furunkel.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
-- [[splitter]]
+- [Splitter](../beschwerde/splitter.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[abszesse]]
+- [Abszesse](../beschwerde/abszesse.md)
 
 ## Beschreibung
 
@@ -141,6 +146,20 @@ In der alpinen Volksmedizin war die Lärchenpechsalbe eines der wichtigsten Haus
 ## Mehr dazu
 
 - [Lärche bei der Quelle](https://heilkräuter.de/lexikon/lärche.htm)
+
+## Fotos
+
+![Lärche, Foto 1](https://heildepot.wir.ooo/bilder/kraut/laerche-1.webp)
+
+Foto 1: Rudolf Ammann from Tsu-shi, Japan, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Gitschen.jpg)
+
+![Lärche, Foto 2](https://heildepot.wir.ooo/bilder/kraut/laerche-2.webp)
+
+Foto 2: No machine-readable author provided. Alex1011 assumed (based on copyright claims)., CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:ArmentaraFels.jpg)
+
+![Lärche, Foto 3](https://heildepot.wir.ooo/bilder/kraut/laerche-3.webp)
+
+Foto 3: © Dan Retegan 2007, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ineu.jpg)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Lorbeergewächse (Lauraceae)"
 pflanzenteile: "Blätter, Früchte"
 tags: ["lorbeer", "verdauung", "gelenke", "gewürz", "antike"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "antiseptisch", "schmerzlindernd", "durchblutungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/lorbeer-1.webp"
+bild_nachweis: "No machine-readable author provided. Keisotyo assumed (based on copyright claims)., CC BY-SA 3.0"
 ---
 
 # Lorbeer
@@ -38,10 +43,10 @@ Blätter, Früchte
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
 - [Gelenkschmerzen / Arthrose](../beschwerde/arthrose.md)
-- [[gelenkschmerzen]]
+- [Gelenkschmerzen](../beschwerde/gelenkschmerzen.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[appetitlosigkeit]]
-- [[muskelverspannung]]
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
+- [Muskelverspannung](../beschwerde/muskelverspannung.md)
 
 ## Beschreibung
 
@@ -139,6 +144,20 @@ In südeuropäischen Haushalten wurden Lorbeerblätter in die Vorratskammern gel
 ## Mehr dazu
 
 - [Lorbeer bei der Quelle](https://heilkräuter.de/lexikon/lorbeer.htm)
+
+## Fotos
+
+![Lorbeer, Foto 1](https://heildepot.wir.ooo/bilder/kraut/lorbeer-1.webp)
+
+Foto 1: No machine-readable author provided. Keisotyo assumed (based on copyright claims)., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ceroplastes_rubens_01.jpg)
+
+![Lorbeer, Foto 2](https://heildepot.wir.ooo/bilder/kraut/lorbeer-2.webp)
+
+Foto 2: Karduelis, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Akdeniz_defnesi-2.JPG)
+
+![Lorbeer, Foto 3](https://heildepot.wir.ooo/bilder/kraut/lorbeer-3.webp)
+
+Foto 3: Benjamint444, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bay_flower_buds444.jpg)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Lippenblütler"
 pflanzenteile: "Kraut"
 tags: ["gundelrebe", "schnupfen", "wundheilung", "wildkraut", "stoffwechsel"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "entzündungshemmend", "stoffwechselanregend", "wundheilend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/gundelrebe-1.webp"
+bild_nachweis: "Christian Hummert (Ixitixel), CC BY 2.5"
 ---
 
 # Gundelrebe
@@ -40,6 +45,20 @@ Kraut
 ## Mehr dazu
 
 - [Gundelrebe bei der Quelle](https://heilkräuter.de/lexikon/gunder.htm)
+
+## Fotos
+
+![Gundelrebe, Foto 1](https://heildepot.wir.ooo/bilder/kraut/gundelrebe-1.webp)
+
+Foto 1: Christian Hummert (Ixitixel), CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Glechoma_hederacea_(Habitus)_1.jpg)
+
+![Gundelrebe, Foto 2](https://heildepot.wir.ooo/bilder/kraut/gundelrebe-2.webp)
+
+Foto 2: MOs810, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Dendrologic_Garden,_Poznan,_spring_(3).JPG)
+
+![Gundelrebe, Foto 3](https://heildepot.wir.ooo/bilder/kraut/gundelrebe-3.webp)
+
+Foto 3: Joanna Boisse, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_Bluszczyk_kurdybanek_2716_7088.jpg)
 
 ## Im Heildepot
 

@@ -3,20 +3,22 @@ art: "rezept"
 id: "leber-reset-tinktur"
 name: "Leber-Reset Tinktur: Professionelle Leberregeneration"
 tradition: "Hexenwissen"
-kategorie: "Kater-Killer"
 tags: ["tinktur", "leberschutz", "mariendistel", "katerkiller", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Kater-Killer"
 ---
 
 # Leber-Reset Tinktur: Professionelle Leberregeneration
 
 ## Hilft bei
 
-- [[leberschutz]]
-- [[kater-praevention]]
-- [[leberentgiftung]]
-- [[gallenstau]]
-- [[medikamentenbelastung]]
+- [Leberschutz](../beschwerde/leberschutz.md)
+- [Kater prävention](../beschwerde/kater-praevention.md)
+- [Leberentgiftung](../beschwerde/leberentgiftung.md)
+- [Gallenstau](../beschwerde/gallenstau.md)
+- [Medikamentenbelastung](../beschwerde/medikamentenbelastung.md)
 
 ## Schwierigkeit
 

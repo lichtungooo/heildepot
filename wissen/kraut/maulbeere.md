@@ -7,6 +7,11 @@ familie: "Maulbeergewächse (Moraceae)"
 pflanzenteile: "Blätter, Früchte"
 tags: ["maulbeere", "blutzucker", "diabetes", "tcm", "niere"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["blutzuckersenkend", "entzündungshemmend", "abführend", "vitaminreich"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/maulbeere-1.webp"
+bild_nachweis: "Acteontanit, Public domain"
 ---
 
 # Maulbeere
@@ -37,11 +42,11 @@ Blätter, Früchte
 - [Diabetes](../beschwerde/diabetes.md)
 - [Verstopfung / Darmträgheit](../beschwerde/verstopfung.md)
 - [Niere / Blase / Harnwege](../beschwerde/niere.md)
-- [[hoher blutzucker]]
-- [[blutarmut]]
+- [Hoher blutzucker](../beschwerde/hoher-blutzucker.md)
+- [Eisenmangel / Blutarmut / Anämie](../beschwerde/eisenmangel.md)
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[schwäche]]
+- [Schwäche](../beschwerde/schwaeche.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ In der europäischen Volksmedizin wurde Maulbeersaft als blutreinigendes Mittel 
 ## Mehr dazu
 
 - [Maulbeere bei der Quelle](https://heilkräuter.de/lexikon/maulbeere.htm)
+
+## Fotos
+
+![Maulbeere, Foto 1](https://heildepot.wir.ooo/bilder/kraut/maulbeere-1.webp)
+
+Foto 1: Acteontanit, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Morera.JPG)
+
+![Maulbeere, Foto 2](https://heildepot.wir.ooo/bilder/kraut/maulbeere-2.webp)
+
+Foto 2: Daniel Fuchs, CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Daniel_Fuchs.CC-BY-SA.Morus_nigra.Hedge.jpg)
+
+![Maulbeere, Foto 3](https://heildepot.wir.ooo/bilder/kraut/maulbeere-3.webp)
+
+Foto 3: JJ Harrison (https://www.jjharrison.com.au/), CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Black_Mulberry_Female_Flowers.jpg)
 
 ## Im Heildepot
 

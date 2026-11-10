@@ -7,6 +7,11 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Blüten, Blätter"
 tags: ["goldmelisse", "tee", "schlaf", "verdauung", "beruhigend"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["beruhigend", "verdauungsfördernd", "antiseptisch", "schleimlösend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/goldmelisse-1.webp"
+bild_nachweis: "tracy from north brookfield,Massachusetts, usa, CC BY 2.0"
 ---
 
 # Goldmelisse
@@ -38,11 +43,11 @@ Blüten, Blätter
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
-- [[magenkraempfe]]
+- [Magenkrämpfe](../beschwerde/magenkraempfe.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[halsschmerzen]]
-- [[pilzinfektionen]]
-- [[verdauungsbeschwerden]]
+- [Angina / Mandelentzündung / Halsschmerzen](../beschwerde/angina.md)
+- [Pilzinfektionen](../beschwerde/pilzinfektionen.md)
+- [Verdauungsbeschwerden](../beschwerde/verdauungsbeschwerden.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ Bei den indigenen Völkern Nordamerikas wurde die Goldmelisse bei Fieber, Erkäl
 ## Mehr dazu
 
 - [Goldmelisse bei der Quelle](https://heilkräuter.de/lexikon/goldmelisse.htm)
+
+## Fotos
+
+![Goldmelisse, Foto 1](https://heildepot.wir.ooo/bilder/kraut/goldmelisse-1.webp)
+
+Foto 1: tracy from north brookfield,Massachusetts, usa, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Close_bee_balm_02.jpg)
+
+![Goldmelisse, Foto 2](https://heildepot.wir.ooo/bilder/kraut/goldmelisse-2.webp)
+
+Foto 2: Wolfgangw at German Wikipedia, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Goldmelisse.jpg)
+
+![Goldmelisse, Foto 3](https://heildepot.wir.ooo/bilder/kraut/goldmelisse-3.webp)
+
+Foto 3: Smartbyte, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Indianernessel_-_Goldmelisse.JPG)
 
 ## Im Heildepot
 

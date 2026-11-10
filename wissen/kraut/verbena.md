@@ -7,6 +7,11 @@ familie: "Eisenkrautgewächse"
 pflanzenteile: "Blätter"
 tags: ["zitronenverbene", "verdauung", "beruhigend", "stimmung", "duft"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["beruhigend", "verdauungsfördernd", "krampflösend", "stimmungsaufhellend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/verbena-1.webp"
+bild_nachweis: "Kurt Stüber [1], CC BY-SA 3.0"
 ---
 
 # Zitronenverbene
@@ -39,6 +44,20 @@ Blätter
 ## Mehr dazu
 
 - [Zitronenverbene bei der Quelle](https://heilkräuter.de/lexikon/verbena.htm)
+
+## Fotos
+
+![Zitronenverbene, Foto 1](https://heildepot.wir.ooo/bilder/kraut/verbena-1.webp)
+
+Foto 1: Kurt Stüber [1], CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Aloysia_triphylla0.jpg)
+
+![Zitronenverbene, Foto 2](https://heildepot.wir.ooo/bilder/kraut/verbena-2.webp)
+
+Foto 2: RickP, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Aloysia_triphylla_flowers_01.JPG)
+
+![Zitronenverbene, Foto 3](https://heildepot.wir.ooo/bilder/kraut/verbena-3.webp)
+
+Foto 3: Cillas, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Aloysia_citrodora_1.JPG)
 
 ## Im Heildepot
 

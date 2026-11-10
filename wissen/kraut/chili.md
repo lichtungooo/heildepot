@@ -7,6 +7,11 @@ familie: "Nachtschattengewächse (Solanaceae)"
 pflanzenteile: "Früchte"
 tags: ["chili", "capsaicin", "durchblutung", "schmerzen", "stoffwechsel"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["durchblutungsfördernd", "schmerzlindernd", "stoffwechselanregend", "antibakteriell"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/chili-1.webp"
+bild_nachweis: "The original uploader was Matthäus Wander at German Wikipedia., CC BY-SA 3.0"
 ---
 
 # Chili
@@ -39,9 +44,9 @@ Früchte
 - [Gelenkschmerzen / Arthrose](../beschwerde/arthrose.md)
 - [Übergewicht / Stoffwechsel](../beschwerde/uebergewicht.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[durchblutungsstoerungen]]
-- [[verdauungsschwaeche]]
-- [[nervenschmerzen]]
+- [Durchblutungsstörungen](../beschwerde/durchblutungsstoerungen.md)
+- [Verdauungsschwäche](../beschwerde/verdauungsschwaeche.md)
+- [Nervenschmerzen](../beschwerde/nervenschmerzen.md)
 
 ## Beschreibung
 
@@ -147,6 +152,20 @@ In der Volksheilkunde war Chili ein universelles Wärmemittel: Bei Erkältungen 
 ## Mehr dazu
 
 - [Chili bei der Quelle](https://heilkräuter.de/lexikon/chili.htm)
+
+## Fotos
+
+![Chili, Foto 1](https://heildepot.wir.ooo/bilder/kraut/chili-1.webp)
+
+Foto 1: The original uploader was Matthäus Wander at German Wikipedia., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Birdchili.jpg)
+
+![Chili, Foto 2](https://heildepot.wir.ooo/bilder/kraut/chili-2.webp)
+
+Foto 2: Dtarazona, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Aji_charapita_1_(Iquitos,_Peru).JPG)
+
+![Chili, Foto 3](https://heildepot.wir.ooo/bilder/kraut/chili-3.webp)
+
+Foto 3: Ajaykuyiloor, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Capsicum_frutescens_01.JPG)
 
 ## Im Heildepot
 

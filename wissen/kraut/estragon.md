@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Kraut"
 tags: ["estragon", "verdauung", "appetit", "gewürz", "küche"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "appetitanregend", "krampflösend", "harntreibend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/estragon-1.webp"
+bild_nachweis: "Stan Shebs, CC BY-SA 3.0"
 ---
 
 # Estragon
@@ -36,10 +41,10 @@ Kraut
 
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[appetitlosigkeit]]
-- [[zahnschmerzen]]
-- [[menstruation]]
-- [[magenkraempfe]]
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
+- [Zahnschmerzen](../beschwerde/zahnschmerzen.md)
+- [PMS / Menstruationsbeschwerden](../beschwerde/pms.md)
+- [Magenkrämpfe](../beschwerde/magenkraempfe.md)
 
 ## Beschreibung
 
@@ -137,6 +142,20 @@ In der südfranzösischen Volksheilkunde legte man Estragonblätter in die Schuh
 ## Mehr dazu
 
 - [Estragon bei der Quelle](https://heilkräuter.de/lexikon/estragon.htm)
+
+## Fotos
+
+![Estragon, Foto 1](https://heildepot.wir.ooo/bilder/kraut/estragon-1.webp)
+
+Foto 1: Stan Shebs, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Artemisia_dracunculus_4.jpg)
+
+![Estragon, Foto 2](https://heildepot.wir.ooo/bilder/kraut/estragon-2.webp)
+
+Foto 2: Andrey Zharkikh from Salt Lake City, USA, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:2016.07.09_09.24.00_DSC05153_-_Flickr_-_andrey_zharkikh.jpg)
+
+![Estragon, Foto 3](https://heildepot.wir.ooo/bilder/kraut/estragon-3.webp)
+
+Foto 3: Stan Shebs, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Artemisia_dracunculus_5.jpg)
 
 ## Im Heildepot
 

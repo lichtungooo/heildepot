@@ -4,6 +4,8 @@ id: "augen"
 name: "Augenprobleme / Sehschwäche"
 tags: ["augen", "sehen", "leber", "netzhaut", "brille"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Augenprobleme / Sehschwäche

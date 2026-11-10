@@ -4,6 +4,8 @@ id: "entzuendung"
 name: "Chronische Entzündungen (allgemein)"
 tags: ["entzündung", "inflammation", "autoimmun", "silent inflammation", "schmerz"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Chronische Entzündungen (allgemein)

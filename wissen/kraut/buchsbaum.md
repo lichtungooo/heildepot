@@ -7,6 +7,11 @@ familie: "Buchsbaumgewächse (Buxaceae)"
 pflanzenteile: "Blätter (nur homöopathisch)"
 tags: ["buchsbaum", "giftig", "fieber", "homöopathie"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schweißtreibend", "fiebersenkend", "blutreinigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/buchsbaum-1.webp"
+bild_nachweis: "No machine-readable author provided. MPF assumed (based on copyright claims)., CC BY 2.5"
 ---
 
 # Buchsbaum
@@ -35,8 +40,8 @@ Blätter (nur homöopathisch)
 
 - [Grippe](../beschwerde/grippe.md)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
-- [[fieber]]
-- [[haarausfall]]
+- [Grippe](../beschwerde/grippe.md)
+- [Haarausfall / Haargesundheit](../beschwerde/haarverlust.md)
 - [Gicht / Harnsäure](../beschwerde/gicht.md)
 
 ## Beschreibung
@@ -133,6 +138,20 @@ Der Buchsbaum war in der Volksheilkunde Südeuropas ein wichtiges Fiebermittel, 
 ## Mehr dazu
 
 - [Buchsbaum bei der Quelle](https://heilkräuter.de/lexikon/buchsbaum.htm)
+
+## Fotos
+
+![Buchsbaum, Foto 1](https://heildepot.wir.ooo/bilder/kraut/buchsbaum-1.webp)
+
+Foto 1: No machine-readable author provided. MPF assumed (based on copyright claims)., CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Buxus_sempervirens_foliage0.jpg)
+
+![Buchsbaum, Foto 2](https://heildepot.wir.ooo/bilder/kraut/buchsbaum-2.webp)
+
+Foto 2: Rainer Burkard, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Buxus_colchica_1.jpg)
+
+![Buchsbaum, Foto 3](https://heildepot.wir.ooo/bilder/kraut/buchsbaum-3.webp)
+
+Foto 3: Yercaud-elango, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Buxus_sempervirons_variegata-3-shevaroy_nursery-yercaud-salem-India.jpg)
 
 ## Im Heildepot
 

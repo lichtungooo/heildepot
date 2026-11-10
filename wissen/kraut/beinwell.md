@@ -7,6 +7,11 @@ familie: "Raublattgewächse (Boraginaceae)"
 pflanzenteile: "Wurzel"
 tags: ["beinwell", "knochen", "gelenke", "wundheilung", "sport"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["wundheilend", "knochenheilend", "entzündungshemmend", "schmerzlindernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/beinwell-1.webp"
+bild_nachweis: "noebse, CC BY-SA 2.5"
 ---
 
 # Beinwell
@@ -40,9 +45,9 @@ Wurzel
 - [Osteoporose / Knochenschwund](../beschwerde/osteoporose.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
-- [[sport]]
+- [Sport](../beschwerde/sport.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
-- [[knochen]]
+- [Osteoporose / Knochenschwund](../beschwerde/osteoporose.md)
 
 ## Beschreibung
 
@@ -147,6 +152,20 @@ Die Bauern sagten: "Beinwell heilt Bein und Knochen." Verletzte Tiere auf dem Ho
 ## Mehr dazu
 
 - [Beinwell bei der Quelle](https://heilkräuter.de/lexikon/beinwell.htm)
+
+## Fotos
+
+![Beinwell, Foto 1](https://heildepot.wir.ooo/bilder/kraut/beinwell-1.webp)
+
+Foto 1: noebse, CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Beinwell.JPG)
+
+![Beinwell, Foto 2](https://heildepot.wir.ooo/bilder/kraut/beinwell-2.webp)
+
+Foto 2: Richard Croft, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Comfrey_-_geograph.org.uk_-_837883.jpg)
+
+![Beinwell, Foto 3](https://heildepot.wir.ooo/bilder/kraut/beinwell-3.webp)
+
+Foto 3: Emőke Dénes, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Boraginales_-_Symphytum_officinale_-_1.jpg)
 
 ## Im Heildepot
 

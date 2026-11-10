@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Kraut, Blüten"
 tags: ["schafgarbe", "verdauung", "leber", "frauenheilkunde", "krämpfe"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["krampflösend", "verdauungsfördernd", "entzündungshemmend", "blutstillend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/schafgarbe-1.webp"
+bild_nachweis: "Emőke Dénes, CC BY-SA 4.0"
 ---
 
 # Schafgarbe
@@ -39,9 +44,9 @@ Kraut, Blüten
 - [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
-- [[menstruation]]
+- [PMS / Menstruationsbeschwerden](../beschwerde/pms.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
-- [[fieber]]
+- [Grippe](../beschwerde/grippe.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
 - [Hämorrhoiden](../beschwerde/haemorrhoiden.md)
@@ -155,6 +160,20 @@ Schafgarbe beruhigt Pitta-Blut-Störungen und stärkt die Verdauung. Sie wirkt k
 ## Mehr dazu
 
 - [Schafgarbe bei der Quelle](https://heilkräuter.de/lexikon/schafg.htm)
+
+## Fotos
+
+![Schafgarbe, Foto 1](https://heildepot.wir.ooo/bilder/kraut/schafgarbe-1.webp)
+
+Foto 1: Emőke Dénes, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Achillea_millefolium_1_-_Putney_Heath_Common_2011.08.02.jpg)
+
+![Schafgarbe, Foto 2](https://heildepot.wir.ooo/bilder/kraut/schafgarbe-2.webp)
+
+Foto 2: Sebastian Wallroth, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Frankfurt_Oder_Dachsberge_03887.JPG)
+
+![Schafgarbe, Foto 3](https://heildepot.wir.ooo/bilder/kraut/schafgarbe-3.webp)
+
+Foto 3: Benjamin Zwittnig, CC BY 2.5 si, [Quelle](https://commons.wikimedia.org/wiki/File:Achillea_millefiolium_sp3.JPG)
 
 ## Im Heildepot
 

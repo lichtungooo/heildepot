@@ -4,6 +4,8 @@ id: "schmerzen"
 name: "Chronische Schmerzen (allgemein)"
 tags: ["schmerzen", "chronisch", "schmerztherapie", "nervensystem", "entzündung"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Chronische Schmerzen (allgemein)

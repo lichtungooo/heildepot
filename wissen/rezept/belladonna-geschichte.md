@@ -3,22 +3,24 @@ art: "rezept"
 id: "belladonna-geschichte"
 name: "Belladonna: Die schöne Tödliche"
 tradition: "Grimoire"
-kategorie: "Giftkunst"
 tags: ["Belladonna", "Tollkirsche", "Atropin", "Giftkunst", "Nachtschatten", "Paracelsus", "Renaissance", "Medizingeschichte", "Veneficae", "Doppelnatur"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Giftkunst"
 ---
 
 # Belladonna: Die schöne Tödliche
 
 ## Hilft bei
 
-- [[Belladonna]]
-- [[Tollkirsche]]
-- [[Atropin]]
-- [[Gift]]
-- [[Nachtschatten]]
-- [[Paracelsus]]
-- [[Veneficae]]
+- [Belladonna](../beschwerde/belladonna.md)
+- [Tollkirsche](../beschwerde/tollkirsche.md)
+- [Atropin](../beschwerde/atropin.md)
+- [Gift](../beschwerde/gift.md)
+- [Nachtschatten](../beschwerde/nachtschatten.md)
+- [Paracelsus](../beschwerde/paracelsus.md)
+- [Veneficae](../beschwerde/veneficae.md)
 
 ## Schwierigkeit
 

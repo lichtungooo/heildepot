@@ -7,6 +7,11 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut"
 tags: ["wasserminze", "verdauung", "magen", "minze"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "krampflösend", "kühlend", "beruhigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/wasserminze-1.webp"
+bild_nachweis: "Frank Vincentz, CC BY-SA 3.0"
 ---
 
 # Wasserminze
@@ -37,10 +42,10 @@ Kraut
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[magenkraempfe]]
-- [[uebelkeit]]
+- [Magenkrämpfe](../beschwerde/magenkraempfe.md)
+- [Übelkeit](../beschwerde/uebelkeit.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[verdauungsschwaeche]]
+- [Verdauungsschwäche](../beschwerde/verdauungsschwaeche.md)
 - [Kopfschmerzen / Migräne](../beschwerde/kopfschmerzen.md)
 - [Insektenstiche / Allergische Reaktion](../beschwerde/insektenstiche.md)
 
@@ -141,6 +146,20 @@ Wasserminze war das "Bauchweh-Kraut" der Landbevölkerung. Bei Magenverstimmung 
 ## Mehr dazu
 
 - [Wasserminze bei der Quelle](https://heilkräuter.de/lexikon/w-minz.htm)
+
+## Fotos
+
+![Wasserminze, Foto 1](https://heildepot.wir.ooo/bilder/kraut/wasserminze-1.webp)
+
+Foto 1: Frank Vincentz, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Mentha_aquatica_ies.jpg)
+
+![Wasserminze, Foto 2](https://heildepot.wir.ooo/bilder/kraut/wasserminze-2.webp)
+
+Foto 2: Jörg Hempel, CC BY-SA 3.0 de, [Quelle](https://commons.wikimedia.org/wiki/File:Mentha_aquatica_LC0099.jpg)
+
+![Wasserminze, Foto 3](https://heildepot.wir.ooo/bilder/kraut/wasserminze-3.webp)
+
+Foto 3: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Mentha_aquatica_001.JPG)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Sauergräser (Cyperaceae)"
 pflanzenteile: "Kraut"
 tags: ["wollgras", "moor", "bachblüten"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["adstringierend", "harntreibend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/wollgras-1.webp"
+bild_nachweis: "Elke Freese, CC BY-SA 3.0"
 ---
 
 # Wollgras
@@ -34,12 +39,12 @@ Kraut
 
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
 - [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
-- [[emotionale_erschoepfung]]
-- [[innere_unruhe]]
-- [[schlafprobleme]]
-- [[erdung]]
-- [[wundheilung]]
-- [[meditation]]
+- [Emotionale erschöpfung](../beschwerde/emotionale-erschoepfung.md)
+- [Innere unruhe](../beschwerde/innere-unruhe.md)
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
+- [Erdung](../beschwerde/erdung.md)
+- [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
+- [Meditation](../beschwerde/meditation.md)
 
 ## Beschreibung
 
@@ -136,6 +141,20 @@ In der Volksmedizin der Moorgebiete wurden Wollgras-Fasern auf frische Wunden ge
 ## Mehr dazu
 
 - [Wollgras bei der Quelle](https://heilkräuter.de/lexikon/wollgras.htm)
+
+## Fotos
+
+![Wollgras, Foto 1](https://heildepot.wir.ooo/bilder/kraut/wollgras-1.webp)
+
+Foto 1: Elke Freese, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Eangustifolium.jpg)
+
+![Wollgras, Foto 2](https://heildepot.wir.ooo/bilder/kraut/wollgras-2.webp)
+
+Foto 2: Paul Hermans at Dutch Wikipedia, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Detail_veenpluis.jpg)
+
+![Wollgras, Foto 3](https://heildepot.wir.ooo/bilder/kraut/wollgras-3.webp)
+
+Foto 3: DymphieH, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Eriophorum_angustifolium_-_Drents-Friese_Wold.jpg)
 
 ## Im Heildepot
 

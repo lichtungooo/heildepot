@@ -4,6 +4,8 @@ id: "allergie"
 name: "Allergie / Heuschnupfen"
 tags: ["allergie", "heuschnupfen", "immunsystem", "histamin", "pollenallergie", "nahrungsmittelallergie"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Allergie / Heuschnupfen

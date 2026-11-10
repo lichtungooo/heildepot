@@ -3,22 +3,24 @@ art: "rezept"
 id: "flugsalbe-wissenschaft"
 name: "Die Pharmakologie der Flugsalben: Warum Hexen 'flogen'"
 tradition: "Grimoire"
-kategorie: "Flugsalbe"
 tags: ["Flugsalbe", "Tropanalkaloide", "Scopolamin", "Atropin", "Nachtschatten", "Pharmakologie", "Hexenflug", "Anticholinerg", "Ethnobotanik", "TransdermaleAufnahme"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Flugsalbe"
 ---
 
 # Die Pharmakologie der Flugsalben: Warum Hexen 'flogen'
 
 ## Hilft bei
 
-- [[Flugsalbe]]
-- [[Hexenflug]]
-- [[Tropanalkaloide]]
-- [[Scopolamin]]
-- [[Nachtschatten]]
-- [[Pharmakologie]]
-- [[warum Hexen flogen]]
+- [Flugsalbe](../beschwerde/flugsalbe.md)
+- [Hexenflug](../beschwerde/hexenflug.md)
+- [Tropanalkaloide](../beschwerde/tropanalkaloide.md)
+- [Scopolamin](../beschwerde/scopolamin.md)
+- [Nachtschatten](../beschwerde/nachtschatten.md)
+- [Pharmakologie](../beschwerde/pharmakologie.md)
+- [Warum hexen flogen](../beschwerde/warum-hexen-flogen.md)
 
 ## Schwierigkeit
 

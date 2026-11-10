@@ -7,6 +7,11 @@ familie: "Trompetenbaumgewächse (Bignoniaceae)"
 pflanzenteile: "Innenrinde"
 tags: ["lapacho", "pilz", "immunsystem", "regenwald", "indigene"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["immunstärkend", "antimykotisch", "entzündungshemmend", "schmerzlindernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/lapacho-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 2.5"
 ---
 
 # Lapacho
@@ -39,10 +44,10 @@ Innenrinde
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Nagelpilz / Pilzerkrankungen der Haut](../beschwerde/nagelpilz.md)
 - [Krebs (begleitende Unterstützung)](../beschwerde/krebs.md)
-- [[pilzinfektion]]
+- [Pilzinfektion](../beschwerde/pilzinfektion.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
-- [[infekte]]
-- [[darm]]
+- [Infekte](../beschwerde/infekte.md)
+- [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
 
 ## Beschreibung
@@ -147,6 +152,20 @@ In Brasilien sagt man: "Lapacho-Trinker kennen keinen Pilz." Indigene Heiler set
 ## Mehr dazu
 
 - [Lapacho bei der Quelle](https://heilkräuter.de/lexikon/lapacho.htm)
+
+## Fotos
+
+![Lapacho, Foto 1](https://heildepot.wir.ooo/bilder/kraut/lapacho-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Ip%C3%AAs_lil%C3%A1s_na_coronel_quirino_cambu%C3%AD_002.jpg)
+
+![Lapacho, Foto 2](https://heildepot.wir.ooo/bilder/kraut/lapacho-2.webp)
+
+Foto 2: © 2006 Carla Antonini, CC BY-SA 2.5 ar, [Quelle](https://commons.wikimedia.org/wiki/File:Tabebuia_impetiginosa_h%C3%A1bito_2.jpeg)
+
+![Lapacho, Foto 3](https://heildepot.wir.ooo/bilder/kraut/lapacho-3.webp)
+
+Foto 3: No machine-readable author provided. Ilosuna assumed (based on copyright claims)., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Tabebuia_avellanedae.jpg)
 
 ## Im Heildepot
 

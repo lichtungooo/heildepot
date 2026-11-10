@@ -3,22 +3,24 @@ art: "rezept"
 id: "eisenkraut-liebesmagie"
 name: "Eisenkraut (Verbena): Das heilige Liebeskraut der Druiden"
 tradition: "Grimoire"
-kategorie: "Liebesmagie"
 tags: ["Eisenkraut", "Verbena", "Liebesmagie", "Druiden", "Kelten", "HerbaSacra", "Ungefährlich", "Phytotherapie", "Volksmagie", "Liebeskraut"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Liebesmagie"
 ---
 
 # Eisenkraut (Verbena): Das heilige Liebeskraut der Druiden
 
 ## Hilft bei
 
-- [[Eisenkraut]]
-- [[Verbena]]
-- [[Liebesmagie]]
-- [[Druiden]]
-- [[Kelten]]
-- [[Liebeskraut]]
-- [[Ungefährlich]]
+- [Eisenkraut](../beschwerde/eisenkraut.md)
+- [Verbena](../beschwerde/verbena.md)
+- [Liebesmagie](../beschwerde/liebesmagie.md)
+- [Druiden](../beschwerde/druiden.md)
+- [Kelten](../beschwerde/kelten.md)
+- [Liebeskraut](../beschwerde/liebeskraut.md)
+- [Ungefährlich](../beschwerde/ungefaehrlich.md)
 
 ## Schwierigkeit
 

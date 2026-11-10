@@ -7,6 +7,11 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Blätter"
 tags: ["giersch", "gicht", "wildkraut", "entsäuerung", "vitamin-c"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["entsäuernd", "entzündungshemmend", "harntreibend", "vitaminreich"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/giersch-1.webp"
+bild_nachweis: "Sten Porse, CC BY-SA 3.0"
 ---
 
 # Giersch
@@ -38,10 +43,10 @@ Blätter
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Gelenkschmerzen / Arthrose](../beschwerde/arthrose.md)
-- [[uebersaeuerung]]
+- [Übersäuerung](../beschwerde/uebersaeuerung.md)
 - [Niere / Blase / Harnwege](../beschwerde/niere.md)
 - [Eisenmangel / Blutarmut / Anämie](../beschwerde/eisenmangel.md)
-- [[fruehjahrskur]]
+- [Frühjahrskur](../beschwerde/fruehjahrskur.md)
 
 ## Beschreibung
 
@@ -139,6 +144,20 @@ Alte Gärtnerregel: "Wenn du Giersch im Garten hast, iss ihn auf statt ihn auszu
 ## Mehr dazu
 
 - [Giersch bei der Quelle](https://heilkräuter.de/lexikon/giersch.htm)
+
+## Fotos
+
+![Giersch, Foto 1](https://heildepot.wir.ooo/bilder/kraut/giersch-1.webp)
+
+Foto 1: Sten Porse, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Aegopodium-podagraria.JPG)
+
+![Giersch, Foto 2](https://heildepot.wir.ooo/bilder/kraut/giersch-2.webp)
+
+Foto 2: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20120528Giersch_Hockenheim12.jpg)
+
+![Giersch, Foto 3](https://heildepot.wir.ooo/bilder/kraut/giersch-3.webp)
+
+Foto 3: Donald Hobern from Copenhagen, Denmark, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Aegopodium_(14243715519).jpg)
 
 ## Im Heildepot
 

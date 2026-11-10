@@ -7,6 +7,11 @@ familie: "Süßgräser (Poaceae)"
 pflanzenteile: "Korn"
 tags: ["reis", "durchfall", "entwässerung", "schonkost"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schonend", "entwässernd", "adstringierend", "energieliefernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/reis-1.webp"
+bild_nachweis: "த*உழவன், CC BY-SA 3.0"
 ---
 
 # Reis
@@ -36,11 +41,11 @@ Korn
 
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
-- [[uebelkeit]]
+- [Übelkeit](../beschwerde/uebelkeit.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[cholesterin]]
-- [[hautpflege]]
-- [[genesung]]
+- [Cholesterin](../beschwerde/cholesterin.md)
+- [Hautpflege](../beschwerde/hautpflege.md)
+- [Genesung](../beschwerde/genesung.md)
 
 ## Beschreibung
 
@@ -139,6 +144,20 @@ Reiswasser war das Universal-Hausmittel bei Durchfall in der ganzen Welt. Reisme
 ## Mehr dazu
 
 - [Reis bei der Quelle](https://heilkräuter.de/lexikon/reis.htm)
+
+## Fotos
+
+![Reis, Foto 1](https://heildepot.wir.ooo/bilder/kraut/reis-1.webp)
+
+Foto 1: த*உழவன், CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:A_grain_paddy,_tamil.jpg)
+
+![Reis, Foto 2](https://heildepot.wir.ooo/bilder/kraut/reis-2.webp)
+
+Foto 2: Donald Groth, Louisiana State University AgCenter, Bugwood.org - See more at: http://www.forestryimages.org/browse/detai, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Aphelenchoides_besseyi_-_Rice_white_tip_nematode_-_5390566.jpg)
+
+![Reis, Foto 3](https://heildepot.wir.ooo/bilder/kraut/reis-3.webp)
+
+Foto 3: Rison Thumboor from Thrissur, India, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Asian_rice_(Oryza_sativa)_%E0%B4%A8%E0%B5%86%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%8D._(32398084044).jpg)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Samen"
 tags: ["kreuzkümmel", "verdauung", "blähungen", "ayurveda", "gewürz"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "blähungswidrig", "krampflösend", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/kreuzkuemmel-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 1.0"
 ---
 
 # Kreuzkümmel
@@ -38,11 +43,11 @@ Samen
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[verdauungsbeschwerden]]
-- [[appetitlosigkeit]]
-- [[koliken]]
-- [[milchbildung]]
-- [[stoffwechselstörungen]]
+- [Verdauungsbeschwerden](../beschwerde/verdauungsbeschwerden.md)
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
+- [Koliken](../beschwerde/koliken.md)
+- [Milchbildung](../beschwerde/milchbildung.md)
+- [Stoffwechselstörungen](../beschwerde/stoffwechselstoerungen.md)
 
 ## Beschreibung
 
@@ -141,6 +146,20 @@ In der arabischen Volksmedizin wurde Kreuzkümmel bei fast allen Verdauungsbesch
 ## Mehr dazu
 
 - [Kreuzkümmel bei der Quelle](https://heilkräuter.de/lexikon/kreuzk.htm)
+
+## Fotos
+
+![Kreuzkümmel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/kreuzkuemmel-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 1.0, [Quelle](https://commons.wikimedia.org/wiki/File:Cumin-spice.jpg)
+
+![Kreuzkümmel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/kreuzkuemmel-2.webp)
+
+Foto 2: Chaitanya B D, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Jeera_Seeds_Closeup.JPG)
+
+![Kreuzkümmel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/kreuzkuemmel-3.webp)
+
+Foto 3: Miansari66, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Cumin_seed_whole.JPG)
 
 ## Im Heildepot
 

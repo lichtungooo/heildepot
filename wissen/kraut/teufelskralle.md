@@ -7,6 +7,11 @@ familie: "Sesamgewächse (Pedaliaceae)"
 pflanzenteile: "Wurzelknollen"
 tags: ["teufelskralle", "gelenke", "arthrose", "rücken", "schmerzen"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["entzündungshemmend", "schmerzlindernd", "verdauungsfördernd", "appetitanregend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/teufelskralle-1.webp"
+bild_nachweis: "Furukama, CC BY-SA 3.0"
 ---
 
 # Teufelskralle
@@ -39,7 +44,7 @@ Wurzelknollen
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
-- [[gelenkschmerzen]]
+- [Gelenkschmerzen](../beschwerde/gelenkschmerzen.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 
 ## Beschreibung
@@ -138,6 +143,20 @@ Die San der Kalahari sagen: "Die Teufelskralle zieht den Schmerz aus den Knochen
 ## Mehr dazu
 
 - [Teufelskralle bei der Quelle](https://heilkräuter.de/lexikon/teufelskralle.htm)
+
+## Fotos
+
+![Teufelskralle, Foto 1](https://heildepot.wir.ooo/bilder/kraut/teufelskralle-1.webp)
+
+Foto 1: Furukama, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Harpagophytum_procumbens.jpg)
+
+![Teufelskralle, Foto 2](https://heildepot.wir.ooo/bilder/kraut/teufelskralle-2.webp)
+
+Foto 2: Unknown authorUnknown author, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:PSM_V19_D371_Harpagophyton_procumbens_and_martynia_proboscidea.jpg)
+
+![Teufelskralle, Foto 3](https://heildepot.wir.ooo/bilder/kraut/teufelskralle-3.webp)
+
+Foto 3: Rillke, CC BY-SA 3.0 de, [Quelle](https://commons.wikimedia.org/wiki/File:Harpagophyti_radix_140122.jpg)
 
 ## Im Heildepot
 

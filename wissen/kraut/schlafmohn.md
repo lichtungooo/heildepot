@@ -7,6 +7,11 @@ familie: "Mohngewächse (Papaveraceae)"
 pflanzenteile: "Milchsaft, Samen (nur Samen für die Küche)"
 tags: ["schlafmohn", "opium", "morphin", "schmerz", "betäubungsmittel"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schmerzlindernd", "schlaffördernd", "hustenstillend", "krampflösend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/schlafmohn-1.webp"
+bild_nachweis: "Alvesgaspar, CC BY-SA 3.0"
 ---
 
 # Schlafmohn
@@ -35,10 +40,10 @@ Milchsaft, Samen (nur Samen für die Küche)
 ## Hilft bei
 
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
-- [[schlafprobleme]]
-- [[schlaflosigkeit]]
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
+- [Schlaflosigkeit](../beschwerde/schlaflosigkeit.md)
 - [Husten / Bronchitis](../beschwerde/husten.md)
-- [[mineralstoffmangel]]
+- [Mineralstoffmangel](../beschwerde/mineralstoffmangel.md)
 
 ## Beschreibung
 
@@ -133,6 +138,20 @@ In Mitteleuropa gab man unruhigen Säuglingen Mohnwasser zum Einschlafen, eine g
 ## Mehr dazu
 
 - [Schlafmohn bei der Quelle](https://heilkräuter.de/lexikon/schlafmohn.htm)
+
+## Fotos
+
+![Schlafmohn, Foto 1](https://heildepot.wir.ooo/bilder/kraut/schlafmohn-1.webp)
+
+Foto 1: Alvesgaspar, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Papaver_April_2010-8a.jpg)
+
+![Schlafmohn, Foto 2](https://heildepot.wir.ooo/bilder/kraut/schlafmohn-2.webp)
+
+Foto 2: David Perez, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Papaver_somniferum_03_by-dpc.jpg)
+
+![Schlafmohn, Foto 3](https://heildepot.wir.ooo/bilder/kraut/schlafmohn-3.webp)
+
+Foto 3: gailhampshire from Cradley, Malvern, U.K, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Opium_Poppy._Papaver_somniferum._Hollow-leaved_Asphodel_on_right._-_Flickr_-_gailhampshire.jpg)
 
 ## Im Heildepot
 

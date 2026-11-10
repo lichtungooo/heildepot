@@ -7,6 +7,11 @@ familie: "Liliengewächse (Liliaceae)"
 pflanzenteile: "Zwiebel"
 tags: ["tulpe", "kosmetik", "haut", "historisch"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["hautpflegend", "kühlend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/tulpe-1.webp"
+bild_nachweis: "Łukasz Szczurowski, CC BY-SA 3.0"
 ---
 
 # Tulpe
@@ -34,12 +39,12 @@ Zwiebel
 
 - [Insektenstiche / Allergische Reaktion](../beschwerde/insektenstiche.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
-- [[herzthemen]]
-- [[stimmungstief]]
-- [[frühjahrsmüdigkeit]]
-- [[hautpflege]]
-- [[lebensfreude]]
-- [[neubeginn]]
+- [Herzthemen](../beschwerde/herzthemen.md)
+- [Stimmungstief](../beschwerde/stimmungstief.md)
+- [Frühjahrsmüdigkeit](../beschwerde/fruehjahrsmuedigkeit.md)
+- [Hautpflege](../beschwerde/hautpflege.md)
+- [Lebensfreude](../beschwerde/lebensfreude.md)
+- [Neubeginn](../beschwerde/neubeginn.md)
 
 ## Beschreibung
 
@@ -138,6 +143,21 @@ In der osmanischen Volksmedizin wurde Tulpenzwiebel-Paste auf Furunkel und Absze
 ## Mehr dazu
 
 - [Tulpe bei der Quelle](https://heilkräuter.de/lexikon/tulpe.htm)
+
+## Fotos
+
+![Tulpe, Foto 1](https://heildepot.wir.ooo/bilder/kraut/tulpe-1.webp)
+
+Foto 1: Łukasz Szczurowski, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Tulipa_gesneriana_1.jpg)
+
+![Tulpe, Foto 2](https://heildepot.wir.ooo/bilder/kraut/tulpe-2.webp)
+
+Foto 2: Post of Belarus, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:3_%D0%BC%D0%B0%D1%80%D0%BA%D0%B8_%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%B8%D0%B8_%D1%81%D0%BE_%D1%88%D1%82%D0%B5%D0%BC%D0%BF%D0%B5%D0%BB%D0%B5%D0%BC_%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%D0%B0.jpg)
+
+![Tulpe, Foto 3](https://heildepot.wir.ooo/bilder/kraut/tulpe-3.webp)
+
+Foto 3: I would appreciate being notified if you use my work outside Wikimedia.
+More of my work can be found in my personal gall, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Praha,_Troja,_Botanick%C3%A1_zahrada,_Tulip%C3%A1n_zahradn%C3%AD.JPG)
 
 ## Im Heildepot
 

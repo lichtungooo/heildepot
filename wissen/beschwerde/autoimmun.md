@@ -4,6 +4,8 @@ id: "autoimmun"
 name: "Autoimmunthemen"
 tags: ["autoimmun", "immunsystem", "entzündung", "hashimoto", "lupus", "multiplesklerose", "colitis"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Autoimmunthemen

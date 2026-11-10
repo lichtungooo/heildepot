@@ -7,6 +7,11 @@ familie: "Wegerichgewächse (Plantaginaceae)"
 pflanzenteile: "Samenschalen"
 tags: ["flohsamen", "verdauung", "verstopfung", "reizdarm", "cholesterin"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["stuhlregulierend", "schleimhautschützend", "cholesterinsenkend", "sättigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/flohsamen-1.webp"
+bild_nachweis: "Stan Shebs, CC BY-SA 3.0"
 ---
 
 # Flohsamen
@@ -40,8 +45,8 @@ Samenschalen
 - [Diabetes](../beschwerde/diabetes.md)
 - [Verstopfung / Darmträgheit](../beschwerde/verstopfung.md)
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
-- [[cholesterin]]
-- [[darmgesundheit]]
+- [Cholesterin](../beschwerde/cholesterin.md)
+- [Darmgesundheit](../beschwerde/darmgesundheit.md)
 
 ## Beschreibung
 
@@ -145,6 +150,20 @@ In der persischen Volksmedizin heißt es: "Wer jeden Morgen Isabgol nimmt, desse
 ## Mehr dazu
 
 - [Flohsamen bei der Quelle](https://heilkräuter.de/lexikon/flohsamen.htm)
+
+## Fotos
+
+![Flohsamen, Foto 1](https://heildepot.wir.ooo/bilder/kraut/flohsamen-1.webp)
+
+Foto 1: Stan Shebs, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Plantago_ovata_close.jpg)
+
+![Flohsamen, Foto 2](https://heildepot.wir.ooo/bilder/kraut/flohsamen-2.webp)
+
+Foto 2: Gideon Pisanty (Gidip) גדעון פיזנטי, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Plantago_ovata_1.jpg)
+
+![Flohsamen, Foto 3](https://heildepot.wir.ooo/bilder/kraut/flohsamen-3.webp)
+
+Foto 3: Joshua Tree National Park, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Desert_indianwheat_(Plantago_Ovata)_(14212492848).jpg)
 
 ## Im Heildepot
 

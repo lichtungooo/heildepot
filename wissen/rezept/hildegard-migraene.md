@@ -3,9 +3,11 @@ art: "rezept"
 id: "hildegard-migraene"
 name: "Hildegards Migränekur: Aloe, Myrrhe & Mohnöl"
 tradition: "Klostermedizin"
-kategorie: "Hildegard"
 tags: ["hildegard", "migräne", "kopfschmerz", "aloe", "myrrhe", "mohnöl", "pflaster", "transdermal"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Hildegard"
 ---
 
 # Hildegards Migränekur: Aloe, Myrrhe & Mohnöl
@@ -13,9 +15,9 @@ quelle: "heildepot"
 ## Hilft bei
 
 - [Migräne](../beschwerde/migraene.md)
-- [[starker Kopfschmerz]]
-- [[Clusterkopfschmerz]]
-- [[Spannungskopfschmerz]]
+- [Starker kopfschmerz](../beschwerde/starker-kopfschmerz.md)
+- [Clusterkopfschmerz](../beschwerde/clusterkopfschmerz.md)
+- [Spannungskopfschmerz](../beschwerde/spannungskopfschmerz.md)
 
 ## Schwierigkeit
 

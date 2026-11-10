@@ -7,6 +7,11 @@ familie: "Frauenhaarfarngewächse (Pteridaceae)"
 pflanzenteile: "Wedel (Blätter)"
 tags: ["frauenhaar", "farn", "husten", "haare", "atemwege"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "hustenstillend", "harntreibend", "haarwuchsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/frauenhaar-1.webp"
+bild_nachweis: "unbekannt, Public domain"
 ---
 
 # Frauenhaar
@@ -37,9 +42,9 @@ Wedel (Blätter)
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Haarausfall / Haargesundheit](../beschwerde/haarverlust.md)
-- [[bronchitis]]
-- [[schleim]]
-- [[haarausfall]]
+- [Husten / Bronchitis](../beschwerde/husten.md)
+- [Husten / Bronchitis](../beschwerde/husten.md)
+- [Haarausfall / Haargesundheit](../beschwerde/haarverlust.md)
 - [Niere / Blase / Harnwege](../beschwerde/niere.md)
 
 ## Beschreibung
@@ -132,6 +137,20 @@ In Südfrankreich und Italien war der Frauenhaarfarn-Sirup in keinem Haushalt we
 ## Mehr dazu
 
 - [Frauenhaar bei der Quelle](https://heilkräuter.de/lexikon/frauenhaar.htm)
+
+## Fotos
+
+![Frauenhaar, Foto 1](https://heildepot.wir.ooo/bilder/kraut/frauenhaar-1.webp)
+
+Foto 1: unbekannt, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Adiantum_capillus-veneris_(USDA).jpg)
+
+![Frauenhaar, Foto 2](https://heildepot.wir.ooo/bilder/kraut/frauenhaar-2.webp)
+
+Foto 2: Echinops, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Adianthum_capillus_veneris.JPG)
+
+![Frauenhaar, Foto 3](https://heildepot.wir.ooo/bilder/kraut/frauenhaar-3.webp)
+
+Foto 3: Sottogatto, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:A._Capillus-veneris.jpg)
 
 ## Im Heildepot
 

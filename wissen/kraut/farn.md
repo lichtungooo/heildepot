@@ -7,6 +7,11 @@ familie: "Wurmfarngewächse"
 pflanzenteile: "Wurzelstock (nur als Fertigpräparat)"
 tags: ["farn", "wurmfarn", "parasiten", "giftig"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["wurmtreibend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/farn-1.webp"
+bild_nachweis: "Jonathan Hornung, CC BY-SA 2.0"
 ---
 
 # Farn (Wurmfarn)
@@ -34,6 +39,20 @@ Wurzelstock (nur als Fertigpräparat)
 ## Mehr dazu
 
 - [Farn (Wurmfarn) bei der Quelle](https://heilkräuter.de/lexikon/farn.htm)
+
+## Fotos
+
+![Farn (Wurmfarn), Foto 1](https://heildepot.wir.ooo/bilder/kraut/farn-1.webp)
+
+Foto 1: Jonathan Hornung, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:14_08_jonho_32.jpg)
+
+![Farn (Wurmfarn), Foto 2](https://heildepot.wir.ooo/bilder/kraut/farn-2.webp)
+
+Foto 2: B.gliwa, CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Dropteris_filixmas_1.jpg)
+
+![Farn (Wurmfarn), Foto 3](https://heildepot.wir.ooo/bilder/kraut/farn-3.webp)
+
+Foto 3: I.Sáček, senior, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Dryopteris_1596.JPG)
 
 ## Im Heildepot
 

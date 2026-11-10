@@ -7,6 +7,11 @@ familie: "Storchschnabelgewächse (Geraniaceae)"
 pflanzenteile: "Kraut"
 tags: ["storchschnabel", "blutung", "wundheilung", "durchfall"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["blutstillend", "adstringierend", "entzündungshemmend", "wundheilend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/storchschnabel-1.webp"
+bild_nachweis: "Linda Spashett Storye book, CC BY 3.0"
 ---
 
 # Storchschnabel
@@ -37,11 +42,11 @@ Kraut
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
 - [Zähne / Mundraum / Zahnfleisch](../beschwerde/zaehne.md)
-- [[wundheilung]]
-- [[zahnfleischentzuendung]]
-- [[blutungen]]
+- [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
+- [Zahnfleischentzündung](../beschwerde/zahnfleischentzuendung.md)
+- [Blutungen](../beschwerde/blutungen.md)
 - [Insektenstiche / Allergische Reaktion](../beschwerde/insektenstiche.md)
-- [[mundschleimhaut]]
+- [Mundschleimhaut](../beschwerde/mundschleimhaut.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ Das Ruprechtskraut war das "Wundkraut" der Bauern. Frische Blätter wurden direk
 ## Mehr dazu
 
 - [Storchschnabel bei der Quelle](https://heilkräuter.de/lexikon/storchschnabel.htm)
+
+## Fotos
+
+![Storchschnabel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/storchschnabel-1.webp)
+
+Foto 1: Linda Spashett Storye book, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Brackenhall_072.jpg)
+
+![Storchschnabel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/storchschnabel-2.webp)
+
+Foto 2: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Geranium_robertianum_001.JPG)
+
+![Storchschnabel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/storchschnabel-3.webp)
+
+Foto 3: Ralf Roletschek (talk) - Infos über Fahrräder auf fahrradmonteur.de, CC BY-SA 3.0 at, [Quelle](https://commons.wikimedia.org/wiki/File:12-11-01-hallein-baudenkmal-by-RalfR-232.jpg)
 
 ## Im Heildepot
 

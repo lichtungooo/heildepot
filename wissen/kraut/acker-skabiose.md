@@ -7,6 +7,11 @@ familie: "Geißblattgewächse"
 pflanzenteile: "Kraut, Blüten"
 tags: ["ackerskabiose", "haut", "ekzem", "husten", "wundheilung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["blutreinigend", "hustenstillend", "wundheilend", "hautpflegend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/acker-skabiose-1.webp"
+bild_nachweis: "Udo Schmidt from Deutschland, CC BY-SA 2.0"
 ---
 
 # Acker-Skabiose
@@ -40,6 +45,20 @@ Kraut, Blüten
 ## Mehr dazu
 
 - [Acker-Skabiose bei der Quelle](https://heilkräuter.de/lexikon/acker-skabiose.htm)
+
+## Fotos
+
+![Acker-Skabiose, Foto 1](https://heildepot.wir.ooo/bilder/kraut/acker-skabiose-1.webp)
+
+Foto 1: Udo Schmidt from Deutschland, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Knautia_arvensis_(L.)_(7477548294).jpg)
+
+![Acker-Skabiose, Foto 2](https://heildepot.wir.ooo/bilder/kraut/acker-skabiose-2.webp)
+
+Foto 2: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20130528Knautia_arvensis1.jpg)
+
+![Acker-Skabiose, Foto 3](https://heildepot.wir.ooo/bilder/kraut/acker-skabiose-3.webp)
+
+Foto 3: Kersti Nebelsiek, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:983_Acker-Witwenblume_auf_den_Feldern_bei_Dodenhausen.jpg)
 
 ## Im Heildepot
 

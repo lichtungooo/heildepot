@@ -7,6 +7,11 @@ familie: "Lauchgewächse (Alliaceae)"
 pflanzenteile: "Knollen"
 tags: ["knoblauch", "blutdruck", "immunsystem", "antibakteriell", "herz"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["antibakteriell", "blutdrucksenkend", "immunstärkend", "durchblutungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/knoblauch-1.webp"
+bild_nachweis: "David Monniaux, CC BY-SA 3.0"
 ---
 
 # Knoblauch
@@ -39,10 +44,10 @@ Knollen
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
 - [Parasiten / Würmer / Darmparasiten](../beschwerde/parasiten.md)
 - [Pilzinfektionen / Candida](../beschwerde/candida.md)
-- [[cholesterin]]
-- [[arteriosklerose]]
-- [[infekte]]
-- [[pilzinfektionen]]
+- [Cholesterin](../beschwerde/cholesterin.md)
+- [Arteriosklerose](../beschwerde/arteriosklerose.md)
+- [Infekte](../beschwerde/infekte.md)
+- [Pilzinfektionen](../beschwerde/pilzinfektionen.md)
 
 ## Beschreibung
 
@@ -146,6 +151,20 @@ Großmütter steckten Kindern bei Ohrenschmerzen ein in Gaze gewickeltes Knoblau
 ## Mehr dazu
 
 - [Knoblauch bei der Quelle](https://heilkräuter.de/lexikon/knoblauch.htm)
+
+## Fotos
+
+![Knoblauch, Foto 1](https://heildepot.wir.ooo/bilder/kraut/knoblauch-1.webp)
+
+Foto 1: David Monniaux, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ail_p1040223.jpg)
+
+![Knoblauch, Foto 2](https://heildepot.wir.ooo/bilder/kraut/knoblauch-2.webp)
+
+Foto 2: Tamorlan, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:AliumZaragzensis.jpg)
+
+![Knoblauch, Foto 3](https://heildepot.wir.ooo/bilder/kraut/knoblauch-3.webp)
+
+Foto 3: Azubiaga, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:Ajo001.jpg)
 
 ## Im Heildepot
 

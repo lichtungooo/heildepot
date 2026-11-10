@@ -3,9 +3,11 @@ art: "rezept"
 id: "baerenkraft-hustensaft"
 name: "Bärenkraft-Hustensaft: Bärenstarke Medizin für kleine Helden"
 tradition: "Hexenwissen"
-kategorie: "Kinder-Zauber"
 tags: ["kinderzauber", "hustensaft", "thymian", "hexenwissen", "sanft", "natürlich"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Kinder-Zauber"
 ---
 
 # Bärenkraft-Hustensaft: Bärenstarke Medizin für kleine Helden
@@ -14,10 +16,10 @@ quelle: "heildepot"
 
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[bronchitis]]
-- [[kinder]]
-- [[halsschmerzen]]
-- [[verschleimung]]
+- [Husten / Bronchitis](../beschwerde/husten.md)
+- [Kinder](../beschwerde/kinder.md)
+- [Angina / Mandelentzündung / Halsschmerzen](../beschwerde/angina.md)
+- [Verschleimung](../beschwerde/verschleimung.md)
 
 ## Schwierigkeit
 

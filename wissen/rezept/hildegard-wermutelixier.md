@@ -3,9 +3,11 @@ art: "rezept"
 id: "hildegard-wermutelixier"
 name: "Hildegards Wermutelixier: Mai-bis-Oktober-Kur"
 tradition: "Klostermedizin"
-kategorie: "Hildegard"
 tags: ["hildegard", "wermut", "artemisia", "saisonalkur", "verdauung", "melancholie", "elixier"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Hildegard"
 ---
 
 # Hildegards Wermutelixier: Mai-bis-Oktober-Kur
@@ -13,10 +15,10 @@ quelle: "heildepot"
 ## Hilft bei
 
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[Melancholie]]
-- [[Verdauungsschwäche]]
-- [[Nierenschwäche]]
-- [[Augenprobleme]]
+- [Melancholie](../beschwerde/melancholie.md)
+- [Verdauungsschwäche](../beschwerde/verdauungsschwaeche.md)
+- [Nierenschwäche](../beschwerde/nierenschwaeche.md)
+- [Augenprobleme](../beschwerde/augenprobleme.md)
 
 ## Schwierigkeit
 

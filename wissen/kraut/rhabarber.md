@@ -7,6 +7,11 @@ familie: "Knöterichgewächse"
 pflanzenteile: "Wurzel"
 tags: ["rhabarber", "verdauung", "verstopfung", "tcm", "reinigung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["abführend", "verdauungsfördernd", "gallefördernd", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/rhabarber-1.webp"
+bild_nachweis: "H. Zell, CC BY-SA 3.0"
 ---
 
 # Rhabarber (Medizinischer)
@@ -38,6 +43,20 @@ Wurzel
 ## Mehr dazu
 
 - [Rhabarber (Medizinischer) bei der Quelle](https://heilkräuter.de/lexikon/rhabarbe.htm)
+
+## Fotos
+
+![Rhabarber (Medizinischer), Foto 1](https://heildepot.wir.ooo/bilder/kraut/rhabarber-1.webp)
+
+Foto 1: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Rheum_officinale_001.JPG)
+
+![Rhabarber (Medizinischer), Foto 2](https://heildepot.wir.ooo/bilder/kraut/rhabarber-2.webp)
+
+Foto 2: Rillke, CC BY-SA 3.0 de, [Quelle](https://commons.wikimedia.org/wiki/File:Rhei_radix_157232.jpg)
+
+![Rhabarber (Medizinischer), Foto 3](https://heildepot.wir.ooo/bilder/kraut/rhabarber-3.webp)
+
+Foto 3: Zahnradzacken, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Flikrabarber.JPG)
 
 ## Im Heildepot
 

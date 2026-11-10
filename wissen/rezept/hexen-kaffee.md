@@ -3,21 +3,23 @@ art: "rezept"
 id: "hexen-kaffee"
 name: "Hexen-Kaffee: Enhanced Focus ohne den Crash"
 tradition: "Hexenwissen"
-kategorie: "Energie & Power"
 tags: ["hexenkaffee", "lionsmane", "cordyceps", "nootropic", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Energie & Power"
 ---
 
 # Hexen-Kaffee: Enhanced Focus ohne den Crash
 
 ## Hilft bei
 
-- [[fokus]]
-- [[konzentration]]
-- [[lernen]]
-- [[arbeit]]
-- [[muedigkeit]]
-- [[brain-fog]]
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
+- [Lernen](../beschwerde/lernen.md)
+- [Arbeit](../beschwerde/arbeit.md)
+- [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
+- [Brain fog](../beschwerde/brain-fog.md)
 
 ## Schwierigkeit
 

@@ -7,6 +7,11 @@ familie: "Pfeffergewächse (Piperaceae)"
 pflanzenteile: "Früchte (Körner)"
 tags: ["pfeffer", "verdauung", "kurkuma", "bioverfügbarkeit", "ayurveda"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "durchblutungsfördernd", "schleimlösend", "bioverfügbarkeitsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/pfeffer-1.webp"
+bild_nachweis: "No machine-readable author provided. Jolle~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0"
 ---
 
 # Pfeffer
@@ -36,11 +41,11 @@ Früchte (Körner)
 
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[verdauungsschwaeche]]
-- [[schleim]]
-- [[stoffwechseltraegheit]]
-- [[naehrstoffaufnahme]]
-- [[appetitlosigkeit]]
+- [Verdauungsschwäche](../beschwerde/verdauungsschwaeche.md)
+- [Husten / Bronchitis](../beschwerde/husten.md)
+- [Stoffwechselträgheit](../beschwerde/stoffwechseltraegheit.md)
+- [Nährstoffaufnahme](../beschwerde/naehrstoffaufnahme.md)
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
 
 ## Beschreibung
 
@@ -139,6 +144,20 @@ In der Volksmedizin wurde Pfeffer in warmer Milch bei Erkältungen getrunken, al
 ## Mehr dazu
 
 - [Pfeffer bei der Quelle](https://heilkräuter.de/lexikon/pfeffer.htm)
+
+## Fotos
+
+![Pfeffer, Foto 1](https://heildepot.wir.ooo/bilder/kraut/pfeffer-1.webp)
+
+Foto 1: No machine-readable author provided. Jolle~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Especies3.jpg)
+
+![Pfeffer, Foto 2](https://heildepot.wir.ooo/bilder/kraut/pfeffer-2.webp)
+
+Foto 2: Keith Weller, USDA ARS, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:ARS_copper_rich_foods.jpg)
+
+![Pfeffer, Foto 3](https://heildepot.wir.ooo/bilder/kraut/pfeffer-3.webp)
+
+Foto 3: Dezidor, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Hermel%C3%ADn_se_zelen%C3%BDm_pep%C5%99em.jpg)
 
 ## Im Heildepot
 

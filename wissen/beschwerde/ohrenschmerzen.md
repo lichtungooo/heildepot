@@ -4,6 +4,8 @@ id: "ohrenschmerzen"
 name: "Ohrenschmerzen / Mittelohrentzündung"
 tags: ["ohr", "entzündung", "schmerz", "immunsystem", "hno"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Ohrenschmerzen / Mittelohrentzündung

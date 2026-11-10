@@ -7,6 +7,11 @@ familie: "Pfingstrosengewächse (Paeoniaceae)"
 pflanzenteile: "Wurzel"
 tags: ["pfingstrose", "menstruation", "gicht", "beruhigend", "tcm"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["krampflösend", "beruhigend", "schmerzlindernd", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/pfingstrose-1.webp"
+bild_nachweis: "H. Zell, CC BY-SA 3.0"
 ---
 
 # Pfingstrose
@@ -38,12 +43,12 @@ Wurzel
 - [Gicht / Harnsäure](../beschwerde/gicht.md)
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
-- [[menstruationsschmerzen]]
-- [[kraempfe]]
-- [[nervositaet]]
-- [[schlaflosigkeit]]
-- [[leberbeschwerden]]
-- [[gelenkschmerzen]]
+- [Menstruationsschmerzen](../beschwerde/menstruationsschmerzen.md)
+- [Krämpfe](../beschwerde/kraempfe.md)
+- [Nervosität](../beschwerde/nervositaet.md)
+- [Schlaflosigkeit](../beschwerde/schlaflosigkeit.md)
+- [Leberbeschwerden](../beschwerde/leberbeschwerden.md)
+- [Gelenkschmerzen](../beschwerde/gelenkschmerzen.md)
 
 ## Beschreibung
 
@@ -142,6 +147,20 @@ Die Pfingstrose war das Krampfmittel der Volksmedizin. Kindern beim Zahnen wurde
 ## Mehr dazu
 
 - [Pfingstrose bei der Quelle](https://heilkräuter.de/lexikon/pfingstrose.htm)
+
+## Fotos
+
+![Pfingstrose, Foto 1](https://heildepot.wir.ooo/bilder/kraut/pfingstrose-1.webp)
+
+Foto 1: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Paeonia_officinalis_001.JPG)
+
+![Pfingstrose, Foto 2](https://heildepot.wir.ooo/bilder/kraut/pfingstrose-2.webp)
+
+Foto 2: Bob Gutowski from Flourtown, Pennsylvania, USA, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Paeonia_mascula_(1).jpg)
+
+![Pfingstrose, Foto 3](https://heildepot.wir.ooo/bilder/kraut/pfingstrose-3.webp)
+
+Foto 3: Edwards, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Paeonia_mollis_Bot._Reg._6._474._1820.jpg)
 
 ## Im Heildepot
 

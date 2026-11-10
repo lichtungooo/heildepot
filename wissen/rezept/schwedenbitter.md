@@ -3,21 +3,23 @@ art: "rezept"
 id: "schwedenbitter"
 name: "Schwedenbitter: Maria Trebens Wundermittel"
 tradition: "Klostermedizin"
-kategorie: "Klosterapotheke"
 tags: ["klosterapotheke", "schwedenbitter", "maria-treben", "bitterstoffe", "universal", "tinktur"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Klosterapotheke"
 ---
 
 # Schwedenbitter: Maria Trebens Wundermittel
 
 ## Hilft bei
 
-- [[Verdauungsbeschwerden]]
+- [Verdauungsbeschwerden](../beschwerde/verdauungsbeschwerden.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[Wundheilung]]
-- [[Gelenkschmerzen]]
-- [[allgemeines Unwohlsein]]
-- [[Entgiftung]]
+- [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
+- [Gelenkschmerzen](../beschwerde/gelenkschmerzen.md)
+- [Allgemeines unwohlsein](../beschwerde/allgemeines-unwohlsein.md)
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
 
 ## Schwierigkeit
 

@@ -7,6 +7,11 @@ familie: "Sternanisgewächse (Schisandraceae)"
 pflanzenteile: "Früchte"
 tags: ["sternanis", "husten", "verdauung", "blähungen", "gewürz"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "krampflösend", "verdauungsfördernd", "antibakteriell"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/sternanis-1.webp"
+bild_nachweis: "thierrytutin, CC BY 2.0"
 ---
 
 # Sternanis
@@ -38,8 +43,8 @@ Früchte
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[bauchkraempfe]]
-- [[uebelkeit]]
+- [Bauchkrämpfe](../beschwerde/bauchkraempfe.md)
+- [Übelkeit](../beschwerde/uebelkeit.md)
 
 ## Beschreibung
 
@@ -141,6 +146,20 @@ In Südchina und Vietnam gehört Sternanis in jede Hausapotheke: Bei Bauchschmer
 ## Mehr dazu
 
 - [Sternanis bei der Quelle](https://heilkräuter.de/lexikon/sternanis.htm)
+
+## Fotos
+
+![Sternanis, Foto 1](https://heildepot.wir.ooo/bilder/kraut/sternanis-1.webp)
+
+Foto 1: thierrytutin, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:2010_CHINE_(4566551702).jpg)
+
+![Sternanis, Foto 2](https://heildepot.wir.ooo/bilder/kraut/sternanis-2.webp)
+
+Foto 2: Photo by David J. Stang, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Illicium_verum_0zz.jpg)
+
+![Sternanis, Foto 3](https://heildepot.wir.ooo/bilder/kraut/sternanis-3.webp)
+
+Foto 3: Borshingwoods, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E6%9D%B1%E8%A1%97_No_19_Tung_Street_shop_%E6%BA%90%E8%88%88%E9%A6%99%E6%96%99%E5%85%AC%E5%8F%B8_Yuan_Heng_Spice_Company_goods_April_2018_IX2_Staraniseed.jpg)
 
 ## Im Heildepot
 

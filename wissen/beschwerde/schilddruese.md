@@ -4,6 +4,8 @@ id: "schilddruese"
 name: "Schilddrüsenthemen"
 tags: ["schilddrüse", "hashimoto", "unterfunktion", "überfunktion", "thyreoidea", "hormone"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Schilddrüsenthemen

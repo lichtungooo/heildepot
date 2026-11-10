@@ -3,20 +3,22 @@ art: "rezept"
 id: "mondnacht-elixier"
 name: "Mondnacht-Elixier: Nächtlicher Liebestrank"
 tradition: "Hexenwissen"
-kategorie: "Liebestränke"
 tags: ["liebestrank", "ashwagandha", "maca", "mondnacht", "adaptogen", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Liebestränke"
 ---
 
 # Mondnacht-Elixier: Nächtlicher Liebestrank
 
 ## Hilft bei
 
-- [[libido]]
-- [[stress-bedingte-lustlosigkeit]]
+- [Erektionsstörungen / Libido / Potenz](../beschwerde/erektionsstoerung.md)
+- [Stress bedingte lustlosigkeit](../beschwerde/stress-bedingte-lustlosigkeit.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[hormondysbalance]]
-- [[abendgestaltung]]
+- [Hormondysbalance](../beschwerde/hormondysbalance.md)
+- [Abendgestaltung](../beschwerde/abendgestaltung.md)
 
 ## Schwierigkeit
 

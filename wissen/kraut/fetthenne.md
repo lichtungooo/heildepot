@@ -7,6 +7,11 @@ familie: "Dickblattgewächse (Crassulaceae)"
 pflanzenteile: "Blätter"
 tags: ["fetthenne", "wundheilung", "insektenstiche", "fensterbrett"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["wundheilend", "entzündungshemmend", "kühlend", "schmerzlindernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/fetthenne-1.webp"
+bild_nachweis: "Bernd Haynold, CC BY 2.5"
 ---
 
 # Fetthenne
@@ -38,10 +43,10 @@ Blätter
 - [Insektenstiche / Allergische Reaktion](../beschwerde/insektenstiche.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
-- [[verbrennungen]]
-- [[hautreizungen]]
+- [Verbrennungen](../beschwerde/verbrennungen.md)
+- [Hautreizungen](../beschwerde/hautreizungen.md)
 - [Hämorrhoiden](../beschwerde/haemorrhoiden.md)
-- [[harnwegsreizung]]
+- [Harnwegsreizung](../beschwerde/harnwegsreizung.md)
 
 ## Beschreibung
 
@@ -139,6 +144,20 @@ In der Volksmedizin war die Fetthenne das "Pflaster der armen Leute". Man legte 
 ## Mehr dazu
 
 - [Fetthenne bei der Quelle](https://heilkräuter.de/lexikon/fetthenne.htm)
+
+## Fotos
+
+![Fetthenne, Foto 1](https://heildepot.wir.ooo/bilder/kraut/fetthenne-1.webp)
+
+Foto 1: Bernd Haynold, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Sedum_telephium_210805.jpg)
+
+![Fetthenne, Foto 2](https://heildepot.wir.ooo/bilder/kraut/fetthenne-2.webp)
+
+Foto 2: Rosser1954, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Hylotelephium_telephium_near_Lugton,_East_Ayrshire.JPG)
+
+![Fetthenne, Foto 3](https://heildepot.wir.ooo/bilder/kraut/fetthenne-3.webp)
+
+Foto 3: I.Sáček, senior, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:Sedum_teleptychum_5590u.JPG)
 
 ## Im Heildepot
 

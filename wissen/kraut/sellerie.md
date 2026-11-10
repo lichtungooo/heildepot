@@ -7,6 +7,11 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Knolle, Stangen, Blätter, Samen"
 tags: ["sellerie", "gicht", "blutdruck", "entsäuerung", "saft"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["harntreibend", "entsäuernd", "blutdrucksenkend", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/sellerie-1.webp"
+bild_nachweis: "Kristian Peters -- Fabelfroh 14:38, 27 June 2007 (UTC), CC BY-SA 3.0"
 ---
 
 # Sellerie
@@ -38,10 +43,10 @@ Knolle, Stangen, Blätter, Samen
 - [Bluthochdruck / Herz-Kreislauf](../beschwerde/bluthochdruck.md)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
-- [[uebersaeuerung]]
-- [[entgiftung]]
-- [[nerven]]
-- [[wassereinlagerungen]]
+- [Übersäuerung](../beschwerde/uebersaeuerung.md)
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
+- [Fibromyalgie / Chronischer Schmerz](../beschwerde/fibromyalgie.md)
+- [Wassereinlagerungen](../beschwerde/wassereinlagerungen.md)
 
 ## Beschreibung
 
@@ -141,6 +146,20 @@ In der europäischen Volksmedizin galt Sellerie als "Nervenfutter" und Aphrodisi
 ## Mehr dazu
 
 - [Sellerie bei der Quelle](https://heilkräuter.de/lexikon/sellerie.htm)
+
+## Fotos
+
+![Sellerie, Foto 1](https://heildepot.wir.ooo/bilder/kraut/sellerie-1.webp)
+
+Foto 1: Kristian Peters -- Fabelfroh 14:38, 27 June 2007 (UTC), CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Apium_graveolens_bluete.jpeg)
+
+![Sellerie, Foto 2](https://heildepot.wir.ooo/bilder/kraut/sellerie-2.webp)
+
+Foto 2: Robert Flogaus-Faust, CC BY 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Apium_graveolens_RF.jpg)
+
+![Sellerie, Foto 3](https://heildepot.wir.ooo/bilder/kraut/sellerie-3.webp)
+
+Foto 3: MPF, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:2023-06-22_Apium_graveolens_(Wild_Celery),_Elswick,_Northumberland_3.jpg)
 
 ## Im Heildepot
 

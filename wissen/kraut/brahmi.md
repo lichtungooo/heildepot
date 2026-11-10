@@ -7,6 +7,11 @@ familie: "Wegerichgewächse (Plantaginaceae)"
 pflanzenteile: "Kraut"
 tags: ["brahmi", "gedächtnis", "konzentration", "ayurveda", "nerven"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["gedächtnisfördernd", "beruhigend", "antioxidativ", "neuroprotektiv"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/brahmi-1.webp"
+bild_nachweis: "Marcia  Stefani, CC BY 2.0"
 ---
 
 # Brahmi
@@ -39,11 +44,11 @@ Kraut
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
 - [Angst / Panikattacken](../beschwerde/angst.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[konzentration]]
-- [[gedaechtnis]]
-- [[lernen]]
-- [[nervositaet]]
-- [[alter]]
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
+- [Demenz / Alzheimer / Vergesslichkeit](../beschwerde/demenz.md)
+- [Lernen](../beschwerde/lernen.md)
+- [Nervosität](../beschwerde/nervositaet.md)
+- [Alter](../beschwerde/alter.md)
 - [Burnout / Chronische Erschöpfung](../beschwerde/burnout.md)
 
 ## Beschreibung
@@ -145,6 +150,20 @@ In Indien geben Eltern ihren Schulkindern bis heute Brahmi-Milch vor Prüfungen.
 ## Mehr dazu
 
 - [Brahmi bei der Quelle](https://heilkräuter.de/lexikon/brahmi.htm)
+
+## Fotos
+
+![Brahmi, Foto 1](https://heildepot.wir.ooo/bilder/kraut/brahmi-1.webp)
+
+Foto 1: Marcia  Stefani, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bacopa_monnieri_Flower_10.jpg)
+
+![Brahmi, Foto 2](https://heildepot.wir.ooo/bilder/kraut/brahmi-2.webp)
+
+Foto 2: David  Eickhoff from Pearl City, Hawaii, USA, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bacopa_monnieri_(6423342493).jpg)
+
+![Brahmi, Foto 3](https://heildepot.wir.ooo/bilder/kraut/brahmi-3.webp)
+
+Foto 3: Biswarup Ganguly, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bacopa_monnieri_-_Agri-Horticultural_Society_of_India_-_Alipore_-_Kolkata_2013-01-05_2264.JPG)
 
 ## Im Heildepot
 

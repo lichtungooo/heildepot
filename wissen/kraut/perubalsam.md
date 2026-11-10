@@ -7,6 +7,11 @@ familie: "Hülsenfrüchtler"
 pflanzenteile: "Harz, Balsam"
 tags: ["perubalsam", "wundheilung", "haut", "desinfektion", "allergen"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["wundheilend", "desinfizierend", "schleimlösend", "hautpflegend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/perubalsam-1.webp"
+bild_nachweis: "Sjschen at English Wikipedia, CC BY-SA 3.0"
 ---
 
 # Perubalsam
@@ -39,6 +44,20 @@ Harz, Balsam
 ## Mehr dazu
 
 - [Perubalsam bei der Quelle](https://heilkräuter.de/lexikon/perubalsam.htm)
+
+## Fotos
+
+![Perubalsam, Foto 1](https://heildepot.wir.ooo/bilder/kraut/perubalsam-1.webp)
+
+Foto 1: Sjschen at English Wikipedia, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:IncenseWikiVers.jpg)
+
+![Perubalsam, Foto 2](https://heildepot.wir.ooo/bilder/kraut/perubalsam-2.webp)
+
+Foto 2: Maša Sinreih in Valentina Vivod, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Balsamum_tolutanum1.JPG)
+
+![Perubalsam, Foto 3](https://heildepot.wir.ooo/bilder/kraut/perubalsam-3.webp)
+
+Foto 3: Photo by David J. Stang, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Myroxylon_balsamum_0zz.jpg)
 
 ## Im Heildepot
 

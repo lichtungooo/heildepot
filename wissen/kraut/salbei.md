@@ -7,6 +7,11 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Blätter"
 tags: ["salbei", "hals", "schwitzen", "wechseljahre", "mundpflege"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["antibakteriell", "schweißhemmend", "entzündungshemmend", "adstringierend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/salbei-1.webp"
+bild_nachweis: "Walter Pöder, [1], Public domain"
 ---
 
 # Salbei
@@ -39,9 +44,9 @@ Blätter
 - [Zähne / Mundraum / Zahnfleisch](../beschwerde/zaehne.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
-- [[halsschmerzen]]
-- [[schwitzen]]
-- [[mund]]
+- [Angina / Mandelentzündung / Halsschmerzen](../beschwerde/angina.md)
+- [Schwitzen](../beschwerde/schwitzen.md)
+- [Mund](../beschwerde/mund.md)
 - [Demenz / Alzheimer / Vergesslichkeit](../beschwerde/demenz.md)
 
 ## Beschreibung
@@ -153,6 +158,20 @@ Im Volksmund hieß es: "Salbei im Garten, der Tod kann warten." Stillende Mütte
 ## Mehr dazu
 
 - [Salbei bei der Quelle](https://heilkräuter.de/lexikon/salbei.htm)
+
+## Fotos
+
+![Salbei, Foto 1](https://heildepot.wir.ooo/bilder/kraut/salbei-1.webp)
+
+Foto 1: Walter Pöder, [1], Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Bluehender_salbei.jpg)
+
+![Salbei, Foto 2](https://heildepot.wir.ooo/bilder/kraut/salbei-2.webp)
+
+Foto 2: aomorikuma, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Common_sage20040605.JPG)
+
+![Salbei, Foto 3](https://heildepot.wir.ooo/bilder/kraut/salbei-3.webp)
+
+Foto 3: Roberta F., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Kadulja_Krizisce_240508_2.jpg)
 
 ## Im Heildepot
 

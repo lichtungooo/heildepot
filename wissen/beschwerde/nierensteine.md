@@ -4,6 +4,8 @@ id: "nierensteine"
 name: "Nierensteine / Nierenkolik"
 tags: ["nierensteine", "niere", "harnwege", "kolik", "mineralien"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Nierensteine / Nierenkolik

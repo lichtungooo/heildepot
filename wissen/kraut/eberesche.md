@@ -7,6 +7,11 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Beeren (nur gekocht)"
 tags: ["eberesche", "vitaminC", "marmelade", "herbst"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["vitaminreich", "verdauungsfördernd", "adstringierend", "harntreibend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/eberesche-1.webp"
+bild_nachweis: "francois from Strasbourg, france, CC BY 2.0"
 ---
 
 # Eberesche
@@ -37,11 +42,11 @@ Beeren (nur gekocht)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[vitamin_c_mangel]]
-- [[verdauungsschwaeche]]
-- [[appetitlosigkeit]]
+- [Vitamin c mangel](../beschwerde/vitamin-c-mangel.md)
+- [Verdauungsschwäche](../beschwerde/verdauungsschwaeche.md)
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
-- [[energetischer_schutz]]
+- [Energetischer schutz](../beschwerde/energetischer-schutz.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ In der Volksmedizin trank man Vogelbeeren-Saft bei Skorbut und Vitamin-Mangel. D
 ## Mehr dazu
 
 - [Eberesche bei der Quelle](https://heilkräuter.de/lexikon/eberesch.htm)
+
+## Fotos
+
+![Eberesche, Foto 1](https://heildepot.wir.ooo/bilder/kraut/eberesche-1.webp)
+
+Foto 1: francois from Strasbourg, france, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Francois_-_IMG_3482_(by).jpg)
+
+![Eberesche, Foto 2](https://heildepot.wir.ooo/bilder/kraut/eberesche-2.webp)
+
+Foto 2: cs:ŠJů, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Je%C5%99abiny_u_Labsk%C3%A9_boudy.jpg)
+
+![Eberesche, Foto 3](https://heildepot.wir.ooo/bilder/kraut/eberesche-3.webp)
+
+Foto 3: Richard Webb, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Above_Heriot_-_geograph.org.uk_-_219851.jpg)
 
 ## Im Heildepot
 

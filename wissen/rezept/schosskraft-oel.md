@@ -3,22 +3,24 @@ art: "rezept"
 id: "schosskraft-oel"
 name: "Schosskraft-Öl: Wärme für den heiligen Raum"
 tradition: "Hexenwissen"
-kategorie: "Frauen-Heilkunde"
 tags: ["frauenheilkunde", "schosskraft", "rizinusöl", "bauchwickel", "hexenwissen", "gebärmutter"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Frauen-Heilkunde"
 ---
 
 # Schosskraft-Öl: Wärme für den heiligen Raum
 
 ## Hilft bei
 
-- [[unterleibsschmerzen]]
-- [[myome]]
-- [[zysten]]
-- [[endometriose]]
-- [[kinderwunsch]]
-- [[verwachsungen]]
-- [[kalter_unterleib]]
+- [Unterleibsschmerzen](../beschwerde/unterleibsschmerzen.md)
+- [Myome](../beschwerde/myome.md)
+- [Zysten](../beschwerde/zysten.md)
+- [Endometriose](../beschwerde/endometriose.md)
+- [Kinderwunsch](../beschwerde/kinderwunsch.md)
+- [Verwachsungen](../beschwerde/verwachsungen.md)
+- [Kalter unterleib](../beschwerde/kalter-unterleib.md)
 
 ## Schwierigkeit
 

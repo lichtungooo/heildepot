@@ -3,20 +3,22 @@ art: "rezept"
 id: "krieger-tinktur"
 name: "Krieger-Tinktur: Elixier für fordernde Zeiten"
 tradition: "Hexenwissen"
-kategorie: "Energie & Power"
 tags: ["kriegertinktur", "adaptogene", "tinktur", "stressresilienz", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Energie & Power"
 ---
 
 # Krieger-Tinktur: Elixier für fordernde Zeiten
 
 ## Hilft bei
 
-- [[dauerstress]]
+- [Dauerstress](../beschwerde/dauerstress.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[burnout-praevention]]
-- [[pruefungsphase]]
-- [[sportliche-hoechstleistung]]
+- [Burnout prävention](../beschwerde/burnout-praevention.md)
+- [Prüfungsphase](../beschwerde/pruefungsphase.md)
+- [Sportliche höchstleistung](../beschwerde/sportliche-hoechstleistung.md)
 
 ## Schwierigkeit
 

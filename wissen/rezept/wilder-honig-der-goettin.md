@@ -3,21 +3,23 @@ art: "rezept"
 id: "wilder-honig-der-goettin"
 name: "Wilder Honig der Göttin: Aphrodisischer Honigazug"
 tradition: "Hexenwissen"
-kategorie: "Liebestränke"
 tags: ["liebestrank", "honig", "shatavari", "safran", "meisterrezept", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Liebestränke"
 ---
 
 # Wilder Honig der Göttin: Aphrodisischer Honigazug
 
 ## Hilft bei
 
-- [[libido]]
-- [[verjuengung]]
-- [[hormonbalance]]
-- [[fruchtbarkeit]]
-- [[sinnlichkeit]]
-- [[geschenk]]
+- [Erektionsstörungen / Libido / Potenz](../beschwerde/erektionsstoerung.md)
+- [Verjüngung](../beschwerde/verjuengung.md)
+- [Hormonbalance](../beschwerde/hormonbalance.md)
+- [Fruchtbarkeit](../beschwerde/fruchtbarkeit.md)
+- [Sinnlichkeit](../beschwerde/sinnlichkeit.md)
+- [Geschenk](../beschwerde/geschenk.md)
 
 ## Schwierigkeit
 

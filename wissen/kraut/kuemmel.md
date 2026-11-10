@@ -7,6 +7,11 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Früchte (Samen)"
 tags: ["kümmel", "blähungen", "verdauung", "baby", "magen"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["blähungswidrig", "krampflösend", "verdauungsfördernd", "appetitanregend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/kuemmel-1.webp"
+bild_nachweis: "Anneli Salo, CC BY-SA 3.0"
 ---
 
 # Kümmel
@@ -37,10 +42,10 @@ Früchte (Samen)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[koliken]]
-- [[stillen]]
-- [[magenkraempfe]]
-- [[voellegefuehl]]
+- [Koliken](../beschwerde/koliken.md)
+- [Stillen](../beschwerde/stillen.md)
+- [Magenkrämpfe](../beschwerde/magenkraempfe.md)
+- [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
 
 ## Beschreibung
 
@@ -144,6 +149,20 @@ In der bäuerlichen Medizin galt Kümmel als unentbehrlich: Er kam ins Brot, in 
 ## Mehr dazu
 
 - [Kümmel bei der Quelle](https://heilkräuter.de/lexikon/kümmel.htm)
+
+## Fotos
+
+![Kümmel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/kuemmel-1.webp)
+
+Foto 1: Anneli Salo, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Caraway_Carum_carvi_H5256_VI08_C.jpg)
+
+![Kümmel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/kuemmel-2.webp)
+
+Foto 2: Alexander Klink, CC BY 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Apothekergarten_Seligenstadt_Carum_Carvi_Echter_K%C3%BCmmel.jpg)
+
+![Kümmel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/kuemmel-3.webp)
+
+Foto 3: Joanna Boisse, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_Kminek_zwyczajny_1511_6635.jpg)
 
 ## Im Heildepot
 

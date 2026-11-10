@@ -3,19 +3,21 @@ art: "rezept"
 id: "russischer-kohlsuppen-trank"
 name: "Russischer Kohlsuppen-Trank: Osteuropäische Kater-Tradition"
 tradition: "Hexenwissen"
-kategorie: "Kater-Killer"
 tags: ["katerkiller", "sauerkraut", "fermentation", "russisch", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Kater-Killer"
 ---
 
 # Russischer Kohlsuppen-Trank: Osteuropäische Kater-Tradition
 
 ## Hilft bei
 
-- [[kater]]
-- [[magenprobleme]]
-- [[elektrolytmangel]]
-- [[darmflora]]
+- [Kater](../beschwerde/kater.md)
+- [Magenprobleme](../beschwerde/magenprobleme.md)
+- [Elektrolytmangel](../beschwerde/elektrolytmangel.md)
+- [Darmflora](../beschwerde/darmflora.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 
 ## Schwierigkeit

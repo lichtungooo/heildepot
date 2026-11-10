@@ -7,6 +7,11 @@ familie: "Birkengewächse (Betulaceae)"
 pflanzenteile: "Blätter, Saft"
 tags: ["birke", "niere", "entgiftung", "harnwege", "frühling"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["harntreibend", "entgiftend", "entzündungshemmend", "blutreinigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/birke-1.webp"
+bild_nachweis: "Willow, CC BY 2.5"
 ---
 
 # Birke
@@ -38,11 +43,11 @@ Blätter, Saft
 - [Gicht / Harnsäure](../beschwerde/gicht.md)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
-- [[harnwege]]
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
 - [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
-- [[oedeme]]
+- [Ödeme](../beschwerde/oedeme.md)
 - [Haarausfall / Haargesundheit](../beschwerde/haarverlust.md)
-- [[fruehjahrskur]]
+- [Frühjahrskur](../beschwerde/fruehjahrskur.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ Auf dem Land wusste man: "Birkenblättertee trinken und viel Wasser dazu, das sp
 ## Mehr dazu
 
 - [Birke bei der Quelle](https://heilkräuter.de/lexikon/birke.htm)
+
+## Fotos
+
+![Birke, Foto 1](https://heildepot.wir.ooo/bilder/kraut/birke-1.webp)
+
+Foto 1: Willow, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Betula_pendula_002.jpg)
+
+![Birke, Foto 2](https://heildepot.wir.ooo/bilder/kraut/birke-2.webp)
+
+Foto 2: Игоревич, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Betula_forest.JPG)
+
+![Birke, Foto 3](https://heildepot.wir.ooo/bilder/kraut/birke-3.webp)
+
+Foto 3: david glass, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ancient_Birch_Tree_on_Ben_Loyal_-_geograph.org.uk_-_1306563.jpg)
 
 ## Im Heildepot
 

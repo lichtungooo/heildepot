@@ -7,6 +7,11 @@ familie: "Wegerichgewächse (Plantaginaceae)"
 pflanzenteile: "Kraut"
 tags: ["bachbunge", "frühling", "wildkraut", "blutreinigung", "vitamine"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["blutreinigend", "harntreibend", "vitaminreich", "schleimlösend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/bachbunge-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 3.0"
 ---
 
 # Bachbunge
@@ -37,11 +42,11 @@ Kraut
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
-- [[fruehjahrskur]]
-- [[vitamin_c_mangel]]
-- [[muedigkeit]]
-- [[stoffwechsel]]
-- [[blutreinigung]]
+- [Frühjahrskur](../beschwerde/fruehjahrskur.md)
+- [Vitamin c mangel](../beschwerde/vitamin-c-mangel.md)
+- [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
+- [Diabetes](../beschwerde/diabetes.md)
+- [Blutreinigung](../beschwerde/blutreinigung.md)
 
 ## Beschreibung
 
@@ -137,6 +142,20 @@ Die Bachbunge galt als eines der besten Frühjahrskräuter gegen die 'Winterschl
 ## Mehr dazu
 
 - [Bachbunge bei der Quelle](https://heilkräuter.de/lexikon/bachbunge.htm)
+
+## Fotos
+
+![Bachbunge, Foto 1](https://heildepot.wir.ooo/bilder/kraut/bachbunge-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Veronica_beccabunga_overzicht1.jpg)
+
+![Bachbunge, Foto 2](https://heildepot.wir.ooo/bilder/kraut/bachbunge-2.webp)
+
+Foto 2: Rasbak, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Beekpunge_planten_Veronica_beccabunga.jpg)
+
+![Bachbunge, Foto 3](https://heildepot.wir.ooo/bilder/kraut/bachbunge-3.webp)
+
+Foto 3: Anne Burgess, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Brooklime_(Veronica_beccabunga)_-_geograph.org.uk_-_1369715.jpg)
 
 ## Im Heildepot
 

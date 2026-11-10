@@ -4,6 +4,8 @@ id: "osteoporose"
 name: "Osteoporose / Knochenschwund"
 tags: ["knochen", "osteoporose", "kalzium", "vitamin-d", "säure-basen"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Osteoporose / Knochenschwund

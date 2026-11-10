@@ -7,6 +7,11 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Früchte, Blätter"
 tags: ["mispel", "durchfall", "mittelalter", "marmelade"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["adstringierend", "verdauungsfördernd", "entzündungshemmend", "harntreibend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/mispel-1.webp"
+bild_nachweis: "Kurt Stüber [1], CC BY-SA 3.0"
 ---
 
 # Mispel
@@ -37,11 +42,11 @@ Früchte, Blätter
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Zähne / Mundraum / Zahnfleisch](../beschwerde/zaehne.md)
-- [[verdauungsbeschwerden]]
-- [[halsentzündung]]
-- [[mundschleimhautentzündung]]
-- [[harnwegsinfekt]]
-- [[schwäche]]
+- [Verdauungsbeschwerden](../beschwerde/verdauungsbeschwerden.md)
+- [Halsentzündung](../beschwerde/halsentzuendung.md)
+- [Mundschleimhautentzündung](../beschwerde/mundschleimhautentzuendung.md)
+- [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
+- [Schwäche](../beschwerde/schwaeche.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ In der mittelalterlichen Volksmedizin waren Mispeln ein wichtiges Durchfallmitte
 ## Mehr dazu
 
 - [Mispel bei der Quelle](https://heilkräuter.de/lexikon/mispel.htm)
+
+## Fotos
+
+![Mispel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/mispel-1.webp)
+
+Foto 1: Kurt Stüber [1], CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Mespilus_germanica2.jpg)
+
+![Mispel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/mispel-2.webp)
+
+Foto 2: Adriano, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Petunia_cat.jpg)
+
+![Mispel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/mispel-3.webp)
+
+Foto 3: unbekannt, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Medlar_pomes_and_leaves.jpg)
 
 ## Im Heildepot
 

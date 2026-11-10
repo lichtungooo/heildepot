@@ -3,21 +3,23 @@ art: "rezept"
 id: "hildegard-galgant"
 name: "Hildegards Galgantwurzel: Herzstärkung"
 tradition: "Klostermedizin"
-kategorie: "Hildegard"
 tags: ["hildegard", "galgant", "herz", "kreislauf", "gewürz", "sofort-hilfe"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Hildegard"
 ---
 
 # Hildegards Galgantwurzel: Herzstärkung
 
 ## Hilft bei
 
-- [[Herzbeschwerden]]
-- [[Herzstolpern]]
-- [[Kreislaufschwäche]]
-- [[Traurigkeit]]
+- [Herzbeschwerden](../beschwerde/herzbeschwerden.md)
+- [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
+- [Kreislaufschwäche](../beschwerde/kreislaufschwaeche.md)
+- [Depression / Schwermut](../beschwerde/depression.md)
 - [Schwindel / Gleichgewichtsstörungen](../beschwerde/schwindel.md)
-- [[allgemeine Schwäche]]
+- [Allgemeine schwäche](../beschwerde/allgemeine-schwaeche.md)
 
 ## Schwierigkeit
 

@@ -7,6 +7,11 @@ familie: "Myrtengewächse (Myrtaceae)"
 pflanzenteile: "Blätter, ätherisches Öl"
 tags: ["myrte", "atemwege", "kinder", "inhalieren", "sanft"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "antiseptisch", "entzündungshemmend", "auswurffördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/myrte-1.webp"
+bild_nachweis: "Sten Porse, CC BY-SA 3.0"
 ---
 
 # Myrte
@@ -39,10 +44,10 @@ Blätter, ätherisches Öl
 - [Asthma / Atemwege](../beschwerde/asthma.md)
 - [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[bronchitis]]
+- [Husten / Bronchitis](../beschwerde/husten.md)
 - [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
-- [[hautunreinheiten]]
-- [[sinusitis]]
+- [Hautunreinheiten](../beschwerde/hautunreinheiten.md)
+- [Sinusitis](../beschwerde/sinusitis.md)
 
 ## Beschreibung
 
@@ -141,6 +146,20 @@ In der mediterranen Volksmedizin war die Myrte ein vielseitiges Hausmittel. Man 
 ## Mehr dazu
 
 - [Myrte bei der Quelle](https://heilkräuter.de/lexikon/myrte.htm)
+
+## Fotos
+
+![Myrte, Foto 1](https://heildepot.wir.ooo/bilder/kraut/myrte-1.webp)
+
+Foto 1: Sten Porse, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Maquis_and_garrigue_in_Corsica4.jpg)
+
+![Myrte, Foto 2](https://heildepot.wir.ooo/bilder/kraut/myrte-2.webp)
+
+Foto 2: Etta681, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Mirteto_037.JPG)
+
+![Myrte, Foto 3](https://heildepot.wir.ooo/bilder/kraut/myrte-3.webp)
+
+Foto 3: Raffi Kojian, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Gardenology.org-IMG_1844_hunt09oct.jpg)
 
 ## Im Heildepot
 

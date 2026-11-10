@@ -7,6 +7,11 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Kraut"
 tags: ["geißraute", "blutzucker", "stillen", "diabetes"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["blutzuckersenkend", "milchbildend", "harntreibend", "schweißtreibend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/geissraute-1.webp"
+bild_nachweis: "No machine-readable author provided. Bogdan assumed (based on copyright claims)., CC BY-SA 3.0"
 ---
 
 # Geißraute
@@ -36,10 +41,10 @@ Kraut
 
 - [Diabetes](../beschwerde/diabetes.md)
 - [Übergewicht / Stoffwechsel](../beschwerde/uebergewicht.md)
-- [[blutzucker]]
-- [[stillen]]
-- [[milchbildung]]
-- [[stoffwechsel]]
+- [Diabetes](../beschwerde/diabetes.md)
+- [Stillen](../beschwerde/stillen.md)
+- [Milchbildung](../beschwerde/milchbildung.md)
+- [Diabetes](../beschwerde/diabetes.md)
 
 ## Beschreibung
 
@@ -136,6 +141,20 @@ In der Volksmedizin Südeuropas wurde die Geißraute traditionell stillenden Fra
 ## Mehr dazu
 
 - [Geißraute bei der Quelle](https://heilkräuter.de/lexikon/geißraute.htm)
+
+## Fotos
+
+![Geißraute, Foto 1](https://heildepot.wir.ooo/bilder/kraut/geissraute-1.webp)
+
+Foto 1: No machine-readable author provided. Bogdan assumed (based on copyright claims)., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Galega_officinalis_bgiu.jpg)
+
+![Geißraute, Foto 2](https://heildepot.wir.ooo/bilder/kraut/geissraute-2.webp)
+
+Foto 2: Notafly2, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:FloraRome_(21).JPG)
+
+![Geißraute, Foto 3](https://heildepot.wir.ooo/bilder/kraut/geissraute-3.webp)
+
+Foto 3: Joanna Boisse, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_Rutwica_lekarska_958_7024.jpg)
 
 ## Im Heildepot
 

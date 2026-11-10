@@ -7,6 +7,11 @@ familie: "Sandelholzgewächse (Santalaceae)"
 pflanzenteile: "Kraut mit Beeren"
 tags: ["mistel", "blutdruck", "krebs", "immunsystem", "herz"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["blutdrucksenkend", "immunmodulierend", "stoffwechselanregend", "herzstärkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/mistel-1.webp"
+bild_nachweis: "Basik07, CC BY-SA 4.0"
 ---
 
 # Mistel
@@ -38,11 +43,11 @@ Kraut mit Beeren
 - [Krebs (begleitende Unterstützung)](../beschwerde/krebs.md)
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
 - [Gelenkschmerzen / Arthrose](../beschwerde/arthrose.md)
-- [[arteriosklerose]]
+- [Arteriosklerose](../beschwerde/arteriosklerose.md)
 - [Schwindel / Gleichgewichtsstörungen](../beschwerde/schwindel.md)
-- [[krebs_begleitend]]
+- [Krebs begleitend](../beschwerde/krebs-begleitend.md)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
-- [[nervositaet]]
+- [Nervosität](../beschwerde/nervositaet.md)
 
 ## Beschreibung
 
@@ -139,6 +144,20 @@ In der Volksheilkunde galt die Mistel als Mittel gegen Epilepsie, die "fallende 
 ## Mehr dazu
 
 - [Mistel bei der Quelle](https://heilkräuter.de/lexikon/mistel.htm)
+
+## Fotos
+
+![Mistel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/mistel-1.webp)
+
+Foto 1: Basik07, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Jemio%C5%82a_Kwiecie%C5%84_2006_053.jpg)
+
+![Mistel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/mistel-2.webp)
+
+Foto 2: böhringer friedrich, CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Misteln_Viscum_album.JPG)
+
+![Mistel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/mistel-3.webp)
+
+Foto 3: Peter Orság  (user:Peko), CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Imelo.jpg)
 
 ## Im Heildepot
 

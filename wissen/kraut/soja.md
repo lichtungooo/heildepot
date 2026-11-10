@@ -7,6 +7,11 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Bohnen (Samen)"
 tags: ["soja", "isoflavone", "wechseljahre", "protein", "cholesterin"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["östrogenartig", "cholesterinsenkend", "knochenstärkend", "proteinreich"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/soja-1.webp"
+bild_nachweis: "Hiro zip post, CC BY-SA 3.0"
 ---
 
 # Soja
@@ -37,11 +42,11 @@ Bohnen (Samen)
 - [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
 - [Osteoporose / Knochenschwund](../beschwerde/osteoporose.md)
 - [Bluthochdruck / Herz-Kreislauf](../beschwerde/bluthochdruck.md)
-- [[wechseljahresbeschwerden]]
-- [[cholesterin]]
-- [[eiweissmangel]]
-- [[darmgesundheit]]
-- [[herz_kreislauf]]
+- [Wechseljahresbeschwerden](../beschwerde/wechseljahresbeschwerden.md)
+- [Cholesterin](../beschwerde/cholesterin.md)
+- [Eiweissmangel](../beschwerde/eiweissmangel.md)
+- [Darmgesundheit](../beschwerde/darmgesundheit.md)
+- [Herz kreislauf](../beschwerde/herz-kreislauf.md)
 
 ## Beschreibung
 
@@ -141,6 +146,20 @@ In der ostasiatischen Volksmedizin galt Soja als Lebenselixier. Miso-Suppe wurde
 ## Mehr dazu
 
 - [Soja bei der Quelle](https://heilkräuter.de/lexikon/soja.htm)
+
+## Fotos
+
+![Soja, Foto 1](https://heildepot.wir.ooo/bilder/kraut/soja-1.webp)
+
+Foto 1: Hiro zip post, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Brack_soybean_(kuromame-tanbaguro)_of_japan.JPG)
+
+![Soja, Foto 2](https://heildepot.wir.ooo/bilder/kraut/soja-2.webp)
+
+Foto 2: Barteldes Seed Co., Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Barteldes_Seed_BHL46343062.jpg)
+
+![Soja, Foto 3](https://heildepot.wir.ooo/bilder/kraut/soja-3.webp)
+
+Foto 3: Gole Andrew, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:A_group_of_teenage_boys_harvesting_soya_beans.jpg)
 
 ## Im Heildepot
 

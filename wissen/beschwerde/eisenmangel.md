@@ -4,6 +4,8 @@ id: "eisenmangel"
 name: "Eisenmangel / Blutarmut / Anämie"
 tags: ["eisenmangel", "anämie", "blutarmut", "ferritin", "hämoglobin", "müdigkeit", "blässe"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Eisenmangel / Blutarmut / Anämie

@@ -7,6 +7,11 @@ familie: "Rotalgen"
 pflanzenteile: "Getrocknete Alge"
 tags: ["agaragar", "darm", "verstopfung", "geliermittel", "alge"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "sättigend", "abführend", "entgiftend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/agar-agar-1.webp"
+bild_nachweis: "unbekannt, CC BY 4.0"
 ---
 
 # Agar-Agar
@@ -40,6 +45,20 @@ Getrocknete Alge
 ## Mehr dazu
 
 - [Agar-Agar bei der Quelle](https://heilkräuter.de/lexikon/agar-agar.htm)
+
+## Fotos
+
+![Agar-Agar, Foto 1](https://heildepot.wir.ooo/bilder/kraut/agar-agar-1.webp)
+
+Foto 1: unbekannt, CC BY 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Gelidium_amansii_J.V.Lamour._(AM_AK340662).jpg)
+
+![Agar-Agar, Foto 2](https://heildepot.wir.ooo/bilder/kraut/agar-agar-2.webp)
+
+Foto 2: Taiwankengo, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Mao%27ao_the_harvest_of_Gelidium_amansii_2018.jpg)
+
+![Agar-Agar, Foto 3](https://heildepot.wir.ooo/bilder/kraut/agar-agar-3.webp)
+
+Foto 3: -dero, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ceylon_moss.jpg)
 
 ## Im Heildepot
 

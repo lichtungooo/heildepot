@@ -3,22 +3,24 @@ art: "rezept"
 id: "liebestrank-picatrix"
 name: "Liebestrank aus dem Picatrix: Planetare Liebesmagie"
 tradition: "Grimoire"
-kategorie: "Liebesmagie"
 tags: ["Liebesmagie", "Picatrix", "Venus", "Planetenmagie", "Grimoire", "Räucherung", "Rosenwasser", "Safran", "ArabischeMagie", "Ungefährlich"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Liebesmagie"
 ---
 
 # Liebestrank aus dem Picatrix: Planetare Liebesmagie
 
 ## Hilft bei
 
-- [[Liebesmagie]]
-- [[Picatrix]]
-- [[Venus]]
-- [[Planetenmagie]]
-- [[Liebestrank]]
-- [[Grimoire]]
-- [[Räucherung]]
+- [Liebesmagie](../beschwerde/liebesmagie.md)
+- [Picatrix](../beschwerde/picatrix.md)
+- [Venus](../beschwerde/venus.md)
+- [Planetenmagie](../beschwerde/planetenmagie.md)
+- [Liebestrank](../beschwerde/liebestrank.md)
+- [Grimoire](../beschwerde/grimoire.md)
+- [Räucherung](../beschwerde/raeucherung.md)
 
 ## Schwierigkeit
 

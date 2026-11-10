@@ -7,6 +7,11 @@ familie: "Ganodermataceae"
 pflanzenteile: "Fruchtkörper"
 tags: ["reishi", "pilz", "immunsystem", "schlaf", "leber", "tcm"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["immunmodulierend", "beruhigend", "leberschützend", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/reishi-1.webp"
+bild_nachweis: "PurpleHz, CC BY-SA 3.0"
 ---
 
 # Reishi (Glänzender Lackporling)
@@ -42,6 +47,20 @@ Fruchtkörper
 ## Mehr dazu
 
 - [Reishi (Glänzender Lackporling) bei der Quelle](https://heilkräuter.de/lexikon/reishi.htm)
+
+## Fotos
+
+![Reishi (Glänzender Lackporling), Foto 1](https://heildepot.wir.ooo/bilder/kraut/reishi-1.webp)
+
+Foto 1: PurpleHz, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ganoderma_lucidum_(Touraine)-1.jpg)
+
+![Reishi (Glänzender Lackporling), Foto 2](https://heildepot.wir.ooo/bilder/kraut/reishi-2.webp)
+
+Foto 2: Jatlas2, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Commercial_Reishi.jpg)
+
+![Reishi (Glänzender Lackporling), Foto 3](https://heildepot.wir.ooo/bilder/kraut/reishi-3.webp)
+
+Foto 3: Outarde3, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Champignons_inconnu_en_for%C3%AAt_de_r%C3%A9sineux..JPG)
 
 ## Im Heildepot
 

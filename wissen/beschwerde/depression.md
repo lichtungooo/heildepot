@@ -4,6 +4,8 @@ id: "depression"
 name: "Depression / Schwermut"
 tags: ["depression", "schwermut", "antriebslosigkeit", "traurigkeit", "serotonin", "seele"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Depression / Schwermut

@@ -3,21 +3,23 @@ art: "rezept"
 id: "berserker-trank"
 name: "Berserker-Trank: Adaptogener Kriegertrunk (Legal & Sicher)"
 tradition: "Hexenwissen"
-kategorie: "Energie & Power"
 tags: ["berserker", "adaptogene", "rhodiola", "energie", "hexenrezept", "wikinger"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Energie & Power"
 ---
 
 # Berserker-Trank: Adaptogener Kriegertrunk (Legal & Sicher)
 
 ## Hilft bei
 
-- [[energie]]
-- [[leistung]]
-- [[sport]]
-- [[fokus]]
-- [[ausdauer]]
-- [[pruefung]]
+- [Burnout / Chronische Erschöpfung](../beschwerde/burnout.md)
+- [Leistung](../beschwerde/leistung.md)
+- [Sport](../beschwerde/sport.md)
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
+- [Ausdauer](../beschwerde/ausdauer.md)
+- [Prüfung](../beschwerde/pruefung.md)
 
 ## Schwierigkeit
 

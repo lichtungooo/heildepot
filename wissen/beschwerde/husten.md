@@ -4,6 +4,8 @@ id: "husten"
 name: "Husten / Bronchitis"
 tags: ["husten", "bronchitis", "atemwege", "lunge", "schleim"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Husten / Bronchitis

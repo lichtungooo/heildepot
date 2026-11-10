@@ -7,6 +7,11 @@ familie: "Wolfsmilchgewächse (Euphorbiaceae)"
 pflanzenteile: "Kraut"
 tags: ["bingelkraut", "verstopfung", "harntreibend"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["abführend", "harntreibend", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/bingelkraut-1.webp"
+bild_nachweis: "Olivier Pichard, CC BY-SA 3.0"
 ---
 
 # Bingelkraut
@@ -35,9 +40,9 @@ Kraut
 
 - [Verstopfung / Darmträgheit](../beschwerde/verstopfung.md)
 - [Niere / Blase / Harnwege](../beschwerde/niere.md)
-- [[wassereinlagerungen]]
-- [[menstruationsbeschwerden]]
-- [[entgiftung]]
+- [Wassereinlagerungen](../beschwerde/wassereinlagerungen.md)
+- [Menstruationsbeschwerden](../beschwerde/menstruationsbeschwerden.md)
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
 
 ## Beschreibung
 
@@ -134,6 +139,20 @@ Das Bingelkraut war ein verbreitetes Hausmittel gegen Verstopfung, besonders in 
 ## Mehr dazu
 
 - [Bingelkraut bei der Quelle](https://heilkräuter.de/lexikon/bingelkraut.htm)
+
+## Fotos
+
+![Bingelkraut, Foto 1](https://heildepot.wir.ooo/bilder/kraut/bingelkraut-1.webp)
+
+Foto 1: Olivier Pichard, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Mercurialis_annua-femelle_bray-sur-somme_80_25062007_1.jpg)
+
+![Bingelkraut, Foto 2](https://heildepot.wir.ooo/bilder/kraut/bingelkraut-2.webp)
+
+Foto 2: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20140217Mercurialis_annua1.jpg)
+
+![Bingelkraut, Foto 3](https://heildepot.wir.ooo/bilder/kraut/bingelkraut-3.webp)
+
+Foto 3: Olivier Pichard, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Mercurialis_annua-femelle_bray-sur-somme_80_25062007_3.jpg)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Spargelgewächse (Asparagaceae)"
 pflanzenteile: "Blätter, Saft"
 tags: ["agave", "wundheilung", "husten", "mexiko"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["entzündungshemmend", "wundheilend", "abführend", "schweißtreibend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/agave-1.webp"
+bild_nachweis: "H. Zell, CC BY-SA 3.0"
 ---
 
 # Agave
@@ -37,10 +42,10 @@ Blätter, Saft
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
-- [[verbrennungen]]
-- [[hautreizungen]]
+- [Verbrennungen](../beschwerde/verbrennungen.md)
+- [Hautreizungen](../beschwerde/hautreizungen.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
-- [[darmpflege]]
+- [Darmpflege](../beschwerde/darmpflege.md)
 
 ## Beschreibung
 
@@ -137,6 +142,20 @@ In der mexikanischen Volksheilkunde ist die Agave ein universelles Heilmittel: D
 ## Mehr dazu
 
 - [Agave bei der Quelle](https://heilkräuter.de/lexikon/agave.htm)
+
+## Fotos
+
+![Agave, Foto 1](https://heildepot.wir.ooo/bilder/kraut/agave-1.webp)
+
+Foto 1: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Agave_americana_004.JPG)
+
+![Agave, Foto 2](https://heildepot.wir.ooo/bilder/kraut/agave-2.webp)
+
+Foto 2: Donkey shot, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Agave_americana_CBMen_3.jpg)
+
+![Agave, Foto 3](https://heildepot.wir.ooo/bilder/kraut/agave-3.webp)
+
+Foto 3: Jasonctillmann, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Agave_Americana_at_Rosemont_Copper.JPG)
 
 ## Im Heildepot
 

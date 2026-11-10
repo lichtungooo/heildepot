@@ -7,6 +7,11 @@ familie: "Braunwurzgewächse (Scrophulariaceae)"
 pflanzenteile: "Blüten"
 tags: ["königskerze", "husten", "bronchitis", "heiserkeit", "atemwege"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "reizlindernd", "hustenlindernd", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/koenigskerze-1.webp"
+bild_nachweis: "Me, CC BY-SA 3.0"
 ---
 
 # Königskerze
@@ -37,12 +42,12 @@ Blüten
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Asthma / Atemwege](../beschwerde/asthma.md)
-- [[bronchitis]]
+- [Husten / Bronchitis](../beschwerde/husten.md)
 - [Heiserkeit / Stimmbandprobleme](../beschwerde/heiserkeit.md)
-- [[atemwege]]
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Ohrenschmerzen / Mittelohrentzündung](../beschwerde/ohrenschmerzen.md)
-- [[reizhusten]]
-- [[verschleimung]]
+- [Reizhusten](../beschwerde/reizhusten.md)
+- [Verschleimung](../beschwerde/verschleimung.md)
 
 ## Beschreibung
 
@@ -138,6 +143,20 @@ Königskerzenblüten-Tee war der "goldene Hustentee" in jedem Bauernhaus. Man sa
 ## Mehr dazu
 
 - [Königskerze bei der Quelle](https://heilkräuter.de/lexikon/k-kerze.htm)
+
+## Fotos
+
+![Königskerze, Foto 1](https://heildepot.wir.ooo/bilder/kraut/koenigskerze-1.webp)
+
+Foto 1: Me, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Verbascum_densiflorum_bloem.jpg)
+
+![Königskerze, Foto 2](https://heildepot.wir.ooo/bilder/kraut/koenigskerze-2.webp)
+
+Foto 2: Danny Steven S., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Verbasci_flos_by_Danny_S._-_001.jpg)
+
+![Königskerze, Foto 3](https://heildepot.wir.ooo/bilder/kraut/koenigskerze-3.webp)
+
+Foto 3: Baykedevries, CC BY-SA 3.0 nl, [Quelle](https://commons.wikimedia.org/wiki/File:Stalkaars_in_het_landschap_van_schiermonnikoog.JPG)
 
 ## Im Heildepot
 

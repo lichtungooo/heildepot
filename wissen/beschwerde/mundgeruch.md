@@ -4,6 +4,8 @@ id: "mundgeruch"
 name: "Mundgeruch / Halitosis"
 tags: ["mundgeruch", "halitosis", "darm", "zähne", "entgiftung"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Mundgeruch / Halitosis

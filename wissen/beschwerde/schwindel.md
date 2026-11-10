@@ -4,6 +4,8 @@ id: "schwindel"
 name: "Schwindel / Gleichgewichtsstörungen"
 tags: ["schwindel", "gleichgewicht", "vertigo", "benommenheit", "kreislauf"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Schwindel / Gleichgewichtsstörungen

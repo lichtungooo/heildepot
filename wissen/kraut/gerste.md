@@ -7,6 +7,11 @@ familie: "Süßgräser (Poaceae)"
 pflanzenteile: "Korn, Gras"
 tags: ["gerste", "gerstengras", "verdauung", "magen", "superfood"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["nährstoffreich", "verdauungsfördernd", "cholesterinsenkend", "stärkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/gerste-1.webp"
+bild_nachweis: "Victor Szalvay, CC BY-SA 2.0"
 ---
 
 # Gerste
@@ -38,9 +43,9 @@ Korn, Gras
 - [Sodbrennen / Reflux](../beschwerde/sodbrennen.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
-- [[fieber]]
-- [[magenschleimhautreizung]]
-- [[rekonvaleszenz]]
+- [Grippe](../beschwerde/grippe.md)
+- [Magenschleimhautreizung](../beschwerde/magenschleimhautreizung.md)
+- [Rekonvaleszenz](../beschwerde/rekonvaleszenz.md)
 - [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
 
@@ -141,6 +146,20 @@ Gerstenwasser war das Universalgetränk der Kranken in ganz Europa. Bei Fieber, 
 ## Mehr dazu
 
 - [Gerste bei der Quelle](https://heilkräuter.de/lexikon/gerste.htm)
+
+## Fotos
+
+![Gerste, Foto 1](https://heildepot.wir.ooo/bilder/kraut/gerste-1.webp)
+
+Foto 1: Victor Szalvay, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Barley_field-2007-02-22(large).jpg)
+
+![Gerste, Foto 2](https://heildepot.wir.ooo/bilder/kraut/gerste-2.webp)
+
+Foto 2: T.Voekler, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:A_lady_beetle_perches_on_barley.JPG)
+
+![Gerste, Foto 3](https://heildepot.wir.ooo/bilder/kraut/gerste-3.webp)
+
+Foto 3: Midir, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Almacen_Cebada_(Hordeum_vulgare).jpg)
 
 ## Im Heildepot
 

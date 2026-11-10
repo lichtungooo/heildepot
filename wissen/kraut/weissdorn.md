@@ -7,6 +7,11 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Blüten, Blätter, Beeren"
 tags: ["weißdorn", "herz", "blutdruck", "herzstärkung", "kreislauf"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["herzstärkend", "durchblutungsfördernd", "blutdruckregulierend", "beruhigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/weissdorn-1.webp"
+bild_nachweis: "Jean-Pol GRANDMONT, CC BY 2.5"
 ---
 
 # Weißdorn
@@ -40,9 +45,9 @@ Blüten, Blätter, Beeren
 - [Schlafthemen](../beschwerde/schlaf.md)
 - [Schwindel / Gleichgewichtsstörungen](../beschwerde/schwindel.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[schlafprobleme]]
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
 - [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
-- [[durchblutung]]
+- [Krampfadern / Venenschwäche / Durchblutung](../beschwerde/krampfadern.md)
 
 ## Beschreibung
 
@@ -147,6 +152,20 @@ Die alten Bauern sagten: "Der Weißdorn schützt das Herz wie seine Dornen die H
 ## Mehr dazu
 
 - [Weißdorn bei der Quelle](https://heilkräuter.de/lexikon/weissdor.htm)
+
+## Fotos
+
+![Weißdorn, Foto 1](https://heildepot.wir.ooo/bilder/kraut/weissdorn-1.webp)
+
+Foto 1: Jean-Pol GRANDMONT, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Crataegus_monogyna_in_Joncret_AR1aJPG.jpg)
+
+![Weißdorn, Foto 2](https://heildepot.wir.ooo/bilder/kraut/weissdorn-2.webp)
+
+Foto 2: totnesmartin, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Medlar_rootstock.jpg)
+
+![Weißdorn, Foto 3](https://heildepot.wir.ooo/bilder/kraut/weissdorn-3.webp)
+
+Foto 3: Photographer: SiGarb, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Sheep_and_May,_Arkengarthdale.jpg)
 
 ## Im Heildepot
 

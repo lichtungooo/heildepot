@@ -7,6 +7,11 @@ familie: "Ingwergewächse (Zingiberaceae)"
 pflanzenteile: "Wurzelstock (Rhizom)"
 tags: ["kurkuma", "entzündung", "leber", "gelenke", "goldene-milch"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["entzündungshemmend", "antioxidativ", "leberschützend", "verdauungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/kurkuma-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 2.5"
 ---
 
 # Kurkuma
@@ -155,6 +160,20 @@ In Indien ist Kurkuma-Milch das Hausmittel Nummer eins bei Erkältungen und Verl
 ## Mehr dazu
 
 - [Kurkuma bei der Quelle](https://heilkräuter.de/lexikon/kurkuma.htm)
+
+## Fotos
+
+![Kurkuma, Foto 1](https://heildepot.wir.ooo/bilder/kraut/kurkuma-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:FleurDeCurcuma1.jpg)
+
+![Kurkuma, Foto 2](https://heildepot.wir.ooo/bilder/kraut/kurkuma-2.webp)
+
+Foto 2: cyclonebill, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Flickr_-_cyclonebill_-_Gurkemeje,_korianderrod_og_citrongr%C3%A6s.jpg)
+
+![Kurkuma, Foto 3](https://heildepot.wir.ooo/bilder/kraut/kurkuma-3.webp)
+
+Foto 3: Raffi Kojian, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Gardenology-IMG_8031_hunt10aug.jpg)
 
 ## Im Heildepot
 

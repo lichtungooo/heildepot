@@ -7,6 +7,11 @@ familie: "Hülsenfrüchtler"
 pflanzenteile: "Samen (nur pharmazeutisch)"
 tags: ["calabar", "glaukom", "augen", "giftig", "pharmazie"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["pupillenverengend", "muskeltonisierend", "parasympathomimetisch"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/calabar-1.webp"
+bild_nachweis: "Datngo, Public domain"
 ---
 
 # Calabar
@@ -36,6 +41,12 @@ Samen (nur pharmazeutisch)
 ## Mehr dazu
 
 - [Calabar bei der Quelle](https://heilkräuter.de/lexikon/calabar.htm)
+
+## Fotos
+
+![Calabar, Foto 1](https://heildepot.wir.ooo/bilder/kraut/calabar-1.webp)
+
+Foto 1: Datngo, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Physostigma_venenosum-3.jpg)
 
 ## Im Heildepot
 

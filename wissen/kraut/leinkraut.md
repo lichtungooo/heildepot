@@ -7,6 +7,11 @@ familie: "Wegerichgewächse (Plantaginaceae)"
 pflanzenteile: "Kraut"
 tags: ["leinkraut", "harntreibend", "hämorrhoiden", "haut"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["harntreibend", "abführend", "entzündungshemmend", "leberstärkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/leinkraut-1.webp"
+bild_nachweis: "Jckowal, CC BY-SA 4.0"
 ---
 
 # Leinkraut
@@ -39,11 +44,11 @@ Kraut
 - [Niere / Blase / Harnwege](../beschwerde/niere.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Hämorrhoiden](../beschwerde/haemorrhoiden.md)
-- [[leberbeschwerden]]
-- [[gallenbeschwerden]]
-- [[wassereinlagerungen]]
-- [[hautausschlag]]
-- [[gelbsucht]]
+- [Leberbeschwerden](../beschwerde/leberbeschwerden.md)
+- [Gallenbeschwerden](../beschwerde/gallenbeschwerden.md)
+- [Wassereinlagerungen](../beschwerde/wassereinlagerungen.md)
+- [Hautausschlag](../beschwerde/hautausschlag.md)
+- [Gelbsucht](../beschwerde/gelbsucht.md)
 
 ## Beschreibung
 
@@ -142,6 +147,20 @@ In der Volksmedizin war Leinkraut vor allem als Hämorrhoidenmittel und Leberpfl
 ## Mehr dazu
 
 - [Leinkraut bei der Quelle](https://heilkräuter.de/lexikon/leinkraut.htm)
+
+## Fotos
+
+![Leinkraut, Foto 1](https://heildepot.wir.ooo/bilder/kraut/leinkraut-1.webp)
+
+Foto 1: Jckowal, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:14-09-14_Linaria_vulgaris.jpg)
+
+![Leinkraut, Foto 2](https://heildepot.wir.ooo/bilder/kraut/leinkraut-2.webp)
+
+Foto 2: Olaf Kosinsky, CC BY-SA 3.0 de, [Quelle](https://commons.wikimedia.org/wiki/File:2018-08-30_%C3%85land_by_Olaf_Kosinsky_7831.jpg)
+
+![Leinkraut, Foto 3](https://heildepot.wir.ooo/bilder/kraut/leinkraut-3.webp)
+
+Foto 3: Anonim Anonim, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_Lnica_pospolita_7325_7312.jpg)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Ingwergewächse (Zingiberaceae)"
 pflanzenteile: "Wurzelstock (Rhizom)"
 tags: ["ingwer", "wärmend", "übelkeit", "erkältung", "entzündung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["wärmend", "entzündungshemmend", "übelkeitslindernd", "durchblutungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/ingwer-1.webp"
+bild_nachweis: "Anee jose at Malayalam Wikipedia, CC BY 3.0"
 ---
 
 # Ingwer
@@ -40,7 +45,7 @@ Wurzelstock (Rhizom)
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
 - [Übergewicht / Stoffwechsel](../beschwerde/uebergewicht.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
-- [[uebelkeit]]
+- [Übelkeit](../beschwerde/uebelkeit.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
 
@@ -155,6 +160,20 @@ Die Seemänner kauten Ingwerwurzeln gegen die Seekrankheit. In Asien wird schwan
 ## Mehr dazu
 
 - [Ingwer bei der Quelle](https://heilkräuter.de/lexikon/ingwer.htm)
+
+## Fotos
+
+![Ingwer, Foto 1](https://heildepot.wir.ooo/bilder/kraut/ingwer-1.webp)
+
+Foto 1: Anee jose at Malayalam Wikipedia, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ginger_farm.jpg)
+
+![Ingwer, Foto 2](https://heildepot.wir.ooo/bilder/kraut/ingwer-2.webp)
+
+Foto 2: The original uploader was BernardM at French Wikipedia., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Gingembre_du_jardin_botanique_de_Lyon.jpg)
+
+![Ingwer, Foto 3](https://heildepot.wir.ooo/bilder/kraut/ingwer-3.webp)
+
+Foto 3: കാക്കര, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ginger_-_%E0%B4%87%E0%B4%9E%E0%B5%8D%E0%B4%9A%E0%B4%BF_03.JPG)
 
 ## Im Heildepot
 

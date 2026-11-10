@@ -3,22 +3,24 @@ art: "rezept"
 id: "mondzeit-tee"
 name: "Mondzeit-Tee: Sanfte Kraft in den roten Tagen"
 tradition: "Hexenwissen"
-kategorie: "Frauen-Heilkunde"
 tags: ["frauenheilkunde", "mondzeit", "menstruation", "krampflösend", "hexenwissen", "zyklusgesundheit"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Frauen-Heilkunde"
 ---
 
 # Mondzeit-Tee: Sanfte Kraft in den roten Tagen
 
 ## Hilft bei
 
-- [[menstruation]]
-- [[regelschmerzen]]
-- [[kraempfe]]
 - [PMS / Menstruationsbeschwerden](../beschwerde/pms.md)
-- [[zyklus]]
-- [[unterleibsschmerzen]]
-- [[periode]]
+- [PMS / Menstruationsbeschwerden](../beschwerde/pms.md)
+- [Krämpfe](../beschwerde/kraempfe.md)
+- [PMS / Menstruationsbeschwerden](../beschwerde/pms.md)
+- [PMS / Menstruationsbeschwerden](../beschwerde/pms.md)
+- [Unterleibsschmerzen](../beschwerde/unterleibsschmerzen.md)
+- [PMS / Menstruationsbeschwerden](../beschwerde/pms.md)
 
 ## Schwierigkeit
 

@@ -7,6 +7,11 @@ familie: "Korbblütler"
 pflanzenteile: "Blätter, Stängel (Milchsaft)"
 tags: ["kopfsalat", "schlaf", "beruhigung", "milchsaft", "garten"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["beruhigend", "schlaffördernd", "kühlend", "harntreibend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/kopfsalat-1.webp"
+bild_nachweis: "NASA, Public domain"
 ---
 
 # Kopfsalat
@@ -39,6 +44,20 @@ Blätter, Stängel (Milchsaft)
 ## Mehr dazu
 
 - [Kopfsalat bei der Quelle](https://heilkräuter.de/lexikon/kopfsalat.htm)
+
+## Fotos
+
+![Kopfsalat, Foto 1](https://heildepot.wir.ooo/bilder/kraut/kopfsalat-1.webp)
+
+Foto 1: NASA, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Hydroponic_onions,_NASA_--_17_June_2004.jpg)
+
+![Kopfsalat, Foto 2](https://heildepot.wir.ooo/bilder/kraut/kopfsalat-2.webp)
+
+Foto 2: User:Vmenkov, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Aretxabaleta-apts-and-garden-4618.jpg)
+
+![Kopfsalat, Foto 3](https://heildepot.wir.ooo/bilder/kraut/kopfsalat-3.webp)
+
+Foto 3: Leon Brooks, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Hydroponic_lettuce_leaves_dark_red.jpg)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Seifenbaumgewächse (Sapindaceae)"
 pflanzenteile: "Samen"
 tags: ["guarana", "energie", "konzentration", "koffein", "amazonas"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["anregend", "konzentrationssteigernd", "stoffwechselanregend", "stimmungsaufhellend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/guarana-1.webp"
+bild_nachweis: "User:Wesley2048, Public domain"
 ---
 
 # Guarana
@@ -37,10 +42,10 @@ Samen
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 - [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
 - [Übergewicht / Stoffwechsel](../beschwerde/uebergewicht.md)
-- [[muedigkeit]]
-- [[konzentration]]
-- [[leistung]]
-- [[antriebslosigkeit]]
+- [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
+- [Leistung](../beschwerde/leistung.md)
+- [Depression / Schwermut](../beschwerde/depression.md)
 
 ## Beschreibung
 
@@ -138,6 +143,20 @@ Die Guarani-Indianer sagen: "Guarana gibt dir die Augen des Jaguars", wach, konz
 ## Mehr dazu
 
 - [Guarana bei der Quelle](https://heilkräuter.de/lexikon/guarana.htm)
+
+## Fotos
+
+![Guarana, Foto 1](https://heildepot.wir.ooo/bilder/kraut/guarana-1.webp)
+
+Foto 1: User:Wesley2048, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Guarana.jpg)
+
+![Guarana, Foto 2](https://heildepot.wir.ooo/bilder/kraut/guarana-2.webp)
+
+Foto 2: A C Moraes from Brasília, Brasil, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Guaran%C3%A0_original_do_Brasil.jpg)
+
+![Guarana, Foto 3](https://heildepot.wir.ooo/bilder/kraut/guarana-3.webp)
+
+Foto 3: Geoff Gallice from Gainesville, FL, USA, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Guarana.jpg)
 
 ## Im Heildepot
 

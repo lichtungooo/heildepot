@@ -3,22 +3,24 @@ art: "rezept"
 id: "reise-apotheke-tinktur"
 name: "Reise-Apotheke-Tinktur: Eine Flasche für alles"
 tradition: "Hexenwissen"
-kategorie: "Erste Hilfe: Natürlich"
 tags: ["erste_hilfe", "reise", "tinktur", "universal", "hexenwissen", "notfall", "immunsystem"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Erste Hilfe: Natürlich"
 ---
 
 # Reise-Apotheke-Tinktur: Eine Flasche für alles
 
 ## Hilft bei
 
-- [[reise]]
+- [Reise](../beschwerde/reise.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[uebelkeit]]
+- [Übelkeit](../beschwerde/uebelkeit.md)
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
-- [[immunsystem]]
-- [[notfall]]
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
+- [Notfall](../beschwerde/notfall.md)
 
 ## Schwierigkeit
 

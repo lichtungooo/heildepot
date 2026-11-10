@@ -3,21 +3,23 @@ art: "rezept"
 id: "raeuchermischung-der-neun-kraeuter"
 name: "Räuchermischung der 9 Kräuter: Großer Schutz und Segen"
 tradition: "Hexenwissen"
-kategorie: "Schutz & Reinigung"
 tags: ["räucherwerk", "schutz", "neunkräuter", "reinigung", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Schutz & Reinigung"
 ---
 
 # Räuchermischung der 9 Kräuter: Großer Schutz und Segen
 
 ## Hilft bei
 
-- [[raumreinigung]]
-- [[schutz]]
-- [[raunaechte]]
-- [[einzug]]
-- [[negativitaet]]
-- [[ritualarbeit]]
+- [Raumreinigung](../beschwerde/raumreinigung.md)
+- [Schutz](../beschwerde/schutz.md)
+- [Raunächte](../beschwerde/raunaechte.md)
+- [Einzug](../beschwerde/einzug.md)
+- [Negativität](../beschwerde/negativitaet.md)
+- [Ritualarbeit](../beschwerde/ritualarbeit.md)
 
 ## Schwierigkeit
 

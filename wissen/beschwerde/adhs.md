@@ -4,6 +4,8 @@ id: "adhs"
 name: "ADHS / Konzentrationsstörungen"
 tags: ["adhs", "ads", "konzentration", "aufmerksamkeit", "hyperaktivität", "fokus", "unruhe"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # ADHS / Konzentrationsstörungen

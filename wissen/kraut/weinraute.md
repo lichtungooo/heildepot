@@ -7,6 +7,11 @@ familie: "Rautengewächse (Rutaceae)"
 pflanzenteile: "Kraut"
 tags: ["weinraute", "krämpfe", "klostermedizin", "verdauung", "vorsicht"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["krampflösend", "verdauungsfördernd", "menstruationsfördernd", "durchblutungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/weinraute-1.webp"
+bild_nachweis: "Semnoz, CC BY-SA 3.0"
 ---
 
 # Weinraute
@@ -35,12 +40,12 @@ Kraut
 ## Hilft bei
 
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
-- [[menstruation]]
-- [[kraempfe]]
-- [[menstruationsbeschwerden]]
-- [[augenermuedung]]
-- [[venenschwaeche]]
-- [[durchblutung]]
+- [PMS / Menstruationsbeschwerden](../beschwerde/pms.md)
+- [Krämpfe](../beschwerde/kraempfe.md)
+- [Menstruationsbeschwerden](../beschwerde/menstruationsbeschwerden.md)
+- [Augenermüdung](../beschwerde/augenermuedung.md)
+- [Venenschwäche](../beschwerde/venenschwaeche.md)
+- [Krampfadern / Venenschwäche / Durchblutung](../beschwerde/krampfadern.md)
 
 ## Beschreibung
 
@@ -139,6 +144,20 @@ In Südeuropa gilt die Raute als stärkste Schutzpflanze gegen den "Malocchio" (
 ## Mehr dazu
 
 - [Weinraute bei der Quelle](https://heilkräuter.de/lexikon/weinraute.htm)
+
+## Fotos
+
+![Weinraute, Foto 1](https://heildepot.wir.ooo/bilder/kraut/weinraute-1.webp)
+
+Foto 1: Semnoz, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:200707_x_Tanaisie_dor%C3%A9e.JPG)
+
+![Weinraute, Foto 2](https://heildepot.wir.ooo/bilder/kraut/weinraute-2.webp)
+
+Foto 2: Vincent, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Effet_de_la_rue_officinale.jpg)
+
+![Weinraute, Foto 3](https://heildepot.wir.ooo/bilder/kraut/weinraute-3.webp)
+
+Foto 3: Original uploader was Hugo.arg at gn.wikipedia, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Rruda.JPG)
 
 ## Im Heildepot
 

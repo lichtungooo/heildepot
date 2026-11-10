@@ -3,18 +3,20 @@ art: "rezept"
 id: "theriak"
 name: "Theriak: Das legendäre Universal-Gegengift"
 tradition: "Klostermedizin"
-kategorie: "Klosterapotheke"
 tags: ["klosterapotheke", "theriak", "historisch", "gegengift", "pharmaziegeschichte", "galen", "mithridates"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Klosterapotheke"
 ---
 
 # Theriak: Das legendäre Universal-Gegengift
 
 ## Hilft bei
 
-- [[Historisches Interesse]]
-- [[Pharmaziegeschichte]]
-- [[Verständnis alter Medizin]]
+- [Historisches interesse](../beschwerde/historisches-interesse.md)
+- [Pharmaziegeschichte](../beschwerde/pharmaziegeschichte.md)
+- [Verständnis alter medizin](../beschwerde/verstaendnis-alter-medizin.md)
 
 ## Schwierigkeit
 

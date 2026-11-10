@@ -7,6 +7,11 @@ familie: "Nachtschattengewächse (Solanaceae)"
 pflanzenteile: "Früchte"
 tags: ["tomate", "lycopin", "herz", "prostata", "antioxidativ"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["antioxidativ", "herzschützend", "hautpflegend", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/tomate-1.webp"
+bild_nachweis: "AnRo0002, CC0"
 ---
 
 # Tomate
@@ -38,10 +43,10 @@ Früchte
 - [Prostata / Männergesundheit](../beschwerde/prostata.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Insektenstiche / Allergische Reaktion](../beschwerde/insektenstiche.md)
-- [[herz_kreislauf]]
-- [[zellschutz]]
-- [[hautprobleme]]
-- [[entzuendungen]]
+- [Herz kreislauf](../beschwerde/herz-kreislauf.md)
+- [Zellschutz](../beschwerde/zellschutz.md)
+- [Hautprobleme](../beschwerde/hautprobleme.md)
+- [Entzündungen](../beschwerde/entzuendungen.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
 
 ## Beschreibung
@@ -141,6 +146,20 @@ In der Volksmedizin Südamerikas wurden Tomatenblätter-Umschläge bei Schwellun
 ## Mehr dazu
 
 - [Tomate bei der Quelle](https://heilkräuter.de/lexikon/tomate.htm)
+
+## Fotos
+
+![Tomate, Foto 1](https://heildepot.wir.ooo/bilder/kraut/tomate-1.webp)
+
+Foto 1: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20120908Solanum_lycopersicum1.jpg)
+
+![Tomate, Foto 2](https://heildepot.wir.ooo/bilder/kraut/tomate-2.webp)
+
+Foto 2: J.Stiegler, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:4.9_Interieur_9.jpg)
+
+![Tomate, Foto 3](https://heildepot.wir.ooo/bilder/kraut/tomate-3.webp)
+
+Foto 3: Leandro Rocha, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:2014-11-01_-_P%C3%A9_de_Tomate_(2).JPG)
 
 ## Im Heildepot
 

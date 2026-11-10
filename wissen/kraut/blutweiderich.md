@@ -7,6 +7,11 @@ familie: "Weiderichgewächse (Lythraceae)"
 pflanzenteile: "Kraut, Blüten"
 tags: ["blutweiderich", "durchfall", "blutstillend", "ekzem", "wildpflanze"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["adstringierend", "blutstillend", "antibakteriell", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/blutweiderich-1.webp"
+bild_nachweis: "BS Thurner Hof, CC BY-SA 3.0"
 ---
 
 # Blutweiderich
@@ -39,9 +44,9 @@ Kraut, Blüten
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
-- [[darmentzuendung]]
-- [[blutungen]]
-- [[ekzem]]
+- [Darmentzündung](../beschwerde/darmentzuendung.md)
+- [Blutungen](../beschwerde/blutungen.md)
+- [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Hämorrhoiden](../beschwerde/haemorrhoiden.md)
 
 ## Beschreibung
@@ -140,6 +145,20 @@ In der Volksmedizin galt der Blutweiderich als unfehlbares Mittel gegen die "rot
 ## Mehr dazu
 
 - [Blutweiderich bei der Quelle](https://heilkräuter.de/lexikon/blutweiderich.htm)
+
+## Fotos
+
+![Blutweiderich, Foto 1](https://heildepot.wir.ooo/bilder/kraut/blutweiderich-1.webp)
+
+Foto 1: BS Thurner Hof, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Blutweiderich_0506115.jpg)
+
+![Blutweiderich, Foto 2](https://heildepot.wir.ooo/bilder/kraut/blutweiderich-2.webp)
+
+Foto 2: Andrey Butko, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ab_plant_241.JPG)
+
+![Blutweiderich, Foto 3](https://heildepot.wir.ooo/bilder/kraut/blutweiderich-3.webp)
+
+Foto 3: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20130718Lythrum_salicaria1.jpg)
 
 ## Im Heildepot
 

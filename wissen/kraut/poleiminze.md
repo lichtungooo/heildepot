@@ -7,6 +7,11 @@ familie: "Lippenblütler"
 pflanzenteile: "Kraut"
 tags: ["poleiminze", "verdauung", "insektenschutz", "vorsicht"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "krampflösend", "schweißtreibend", "insektenabwehrend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/poleiminze-1.webp"
+bild_nachweis: "Kenraiz, CC BY-SA 3.0"
 ---
 
 # Poleiminze
@@ -38,6 +43,20 @@ Kraut
 ## Mehr dazu
 
 - [Poleiminze bei der Quelle](https://heilkräuter.de/lexikon/poleiminze.htm)
+
+## Fotos
+
+![Poleiminze, Foto 1](https://heildepot.wir.ooo/bilder/kraut/poleiminze-1.webp)
+
+Foto 1: Kenraiz, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Mentha_pulegium_kz.jpg)
+
+![Poleiminze, Foto 2](https://heildepot.wir.ooo/bilder/kraut/poleiminze-2.webp)
+
+Foto 2: unbekannt, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Medievalpreg.jpg)
+
+![Poleiminze, Foto 3](https://heildepot.wir.ooo/bilder/kraut/poleiminze-3.webp)
+
+Foto 3: Raffi Kojian, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Gardenology.org-IMG_2750_rbgs11jan.jpg)
 
 ## Im Heildepot
 

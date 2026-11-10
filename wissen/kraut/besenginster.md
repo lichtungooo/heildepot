@@ -7,6 +7,11 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Kraut (nur als Fertigpräparat)"
 tags: ["besenginster", "herz", "blutdruck", "giftig"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["herzregulierend", "harntreibend", "blutdrucksteigernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/besenginster-1.webp"
+bild_nachweis: "4028mdk09, CC BY-SA 3.0"
 ---
 
 # Besenginster
@@ -35,10 +40,10 @@ Kraut (nur als Fertigpräparat)
 
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
 - [Schwindel / Gleichgewichtsstörungen](../beschwerde/schwindel.md)
-- [[herzrhythmusstoerungen]]
-- [[oedeme]]
-- [[niedriger_blutdruck]]
-- [[wassereinlagerungen]]
+- [Herzrhythmusstörungen](../beschwerde/herzrhythmusstoerungen.md)
+- [Ödeme](../beschwerde/oedeme.md)
+- [Niedriger blutdruck](../beschwerde/niedriger-blutdruck.md)
+- [Wassereinlagerungen](../beschwerde/wassereinlagerungen.md)
 
 ## Beschreibung
 
@@ -135,6 +140,20 @@ Der Besenginster war in der Volksheilkunde als Wassertreiber bei 'Wassersucht' (
 ## Mehr dazu
 
 - [Besenginster bei der Quelle](https://heilkräuter.de/lexikon/besenginster.htm)
+
+## Fotos
+
+![Besenginster, Foto 1](https://heildepot.wir.ooo/bilder/kraut/besenginster-1.webp)
+
+Foto 1: 4028mdk09, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Besenginster.JPG)
+
+![Besenginster, Foto 2](https://heildepot.wir.ooo/bilder/kraut/besenginster-2.webp)
+
+Foto 2: Stanley Howe, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Broom_pods_-_geograph.org.uk_-_249146.jpg)
+
+![Besenginster, Foto 3](https://heildepot.wir.ooo/bilder/kraut/besenginster-3.webp)
+
+Foto 3: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Cytisus_scoparius_0001.JPG)
 
 ## Im Heildepot
 

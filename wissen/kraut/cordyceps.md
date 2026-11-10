@@ -7,6 +7,11 @@ familie: "Kernkeulengewächse (Cordycipitaceae)"
 pflanzenteile: "Fruchtkörper, Myzel"
 tags: ["cordyceps", "pilz", "energie", "lunge", "tcm", "potenz"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["leistungssteigernd", "adaptogen", "immunmodulierend", "potenzfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/cordyceps-1.webp"
+bild_nachweis: "L. Shyamal, CC BY-SA 3.0"
 ---
 
 # Cordyceps
@@ -39,11 +44,11 @@ Fruchtkörper, Myzel
 - [Asthma / Atemwege](../beschwerde/asthma.md)
 - [Erektionsstörungen / Libido / Potenz](../beschwerde/erektionsstoerung.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
-- [[sport]]
-- [[lunge]]
+- [Sport](../beschwerde/sport.md)
+- [Husten / Bronchitis](../beschwerde/husten.md)
 - [Niere / Blase / Harnwege](../beschwerde/niere.md)
-- [[libido]]
-- [[alter]]
+- [Erektionsstörungen / Libido / Potenz](../beschwerde/erektionsstoerung.md)
+- [Alter](../beschwerde/alter.md)
 
 ## Beschreibung
 
@@ -144,6 +149,20 @@ In Tibet und Nepal sammeln Dorfbewohner bis heute wilden Cordyceps, er ist eine 
 ## Mehr dazu
 
 - [Cordyceps bei der Quelle](https://heilkräuter.de/lexikon/cordyceps.htm)
+
+## Fotos
+
+![Cordyceps, Foto 1](https://heildepot.wir.ooo/bilder/kraut/cordyceps-1.webp)
+
+Foto 1: L. Shyamal, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:CordycepsSinensis.jpg)
+
+![Cordyceps, Foto 2](https://heildepot.wir.ooo/bilder/kraut/cordyceps-2.webp)
+
+Foto 2: Nicolas Merky, CC BY-SA 3.0 de, [Quelle](https://commons.wikimedia.org/wiki/File:Cordyceps_sinensis.jpg)
+
+![Cordyceps, Foto 3](https://heildepot.wir.ooo/bilder/kraut/cordyceps-3.webp)
+
+Foto 3: Kent Wang from Austin, TX, USA, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Soup_of_silkie_seahorse_and_cordyceps.jpg)
 
 ## Im Heildepot
 

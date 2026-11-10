@@ -7,6 +7,11 @@ familie: "Mohngewächse (Papaveraceae)"
 pflanzenteile: "Blütenblätter"
 tags: ["klatschmohn", "husten", "schlaf", "kinder", "beruhigend"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["beruhigend", "schleimlösend", "schmerzlindernd", "schlaffördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/klatschmohn-1.webp"
+bild_nachweis: "Almog, Public domain"
 ---
 
 # Klatschmohn
@@ -37,11 +42,11 @@ Blütenblätter
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Schlafthemen](../beschwerde/schlaf.md)
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
-- [[schlafstörungen]]
-- [[unruhe]]
-- [[reizhusten]]
-- [[kinderheilkunde]]
-- [[nervosität]]
+- [Schlafstörungen](../beschwerde/schlafstoerungen.md)
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
+- [Reizhusten](../beschwerde/reizhusten.md)
+- [Kinderheilkunde](../beschwerde/kinderheilkunde.md)
+- [Nervosität](../beschwerde/nervositaet.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ In der Volksmedizin war Klatschmohn-Sirup das klassische Kinderhustenmittel. Man
 ## Mehr dazu
 
 - [Klatschmohn bei der Quelle](https://heilkräuter.de/lexikon/klatschmohn.htm)
+
+## Fotos
+
+![Klatschmohn, Foto 1](https://heildepot.wir.ooo/bilder/kraut/klatschmohn-1.webp)
+
+Foto 1: Almog, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Almog_IL11_Parag.jpg)
+
+![Klatschmohn, Foto 2](https://heildepot.wir.ooo/bilder/kraut/klatschmohn-2.webp)
+
+Foto 2: Arz at Lithuanian Wikipedia, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Aguonos_(laukas).jpg)
+
+![Klatschmohn, Foto 3](https://heildepot.wir.ooo/bilder/kraut/klatschmohn-3.webp)
+
+Foto 3: Dalius Baranauskas, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:AguonosDaliusBaranauskas.jpg)
 
 ## Im Heildepot
 

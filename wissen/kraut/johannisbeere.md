@@ -7,6 +7,11 @@ familie: "Stachelbeergewächse"
 pflanzenteile: "Blätter, Beeren"
 tags: ["johannisbeere", "allergie", "vitamin-c", "entzündung", "immunsystem"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["entzündungshemmend", "vitaminreich", "immunstärkend", "antiallergisch"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/johannisbeere-1.webp"
+bild_nachweis: "unbekannt, Public domain"
 ---
 
 # Schwarze Johannisbeere
@@ -41,6 +46,20 @@ Blätter, Beeren
 ## Mehr dazu
 
 - [Schwarze Johannisbeere bei der Quelle](https://heilkräuter.de/lexikon/johannis.htm)
+
+## Fotos
+
+![Schwarze Johannisbeere, Foto 1](https://heildepot.wir.ooo/bilder/kraut/johannisbeere-1.webp)
+
+Foto 1: unbekannt, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Blackcurrant_1.jpg)
+
+![Schwarze Johannisbeere, Foto 2](https://heildepot.wir.ooo/bilder/kraut/johannisbeere-2.webp)
+
+Foto 2: Tom Corser, CC BY-SA 2.0 uk, [Quelle](https://commons.wikimedia.org/wiki/File:Dried_black_currents_on_plant.jpg)
+
+![Schwarze Johannisbeere, Foto 3](https://heildepot.wir.ooo/bilder/kraut/johannisbeere-3.webp)
+
+Foto 3: SteveK, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Ribes_nigrum_(knospend).jpg)
 
 ## Im Heildepot
 

@@ -4,6 +4,8 @@ id: "neurodermitis"
 name: "Neurodermitis / Ekzem"
 tags: ["neurodermitis", "ekzem", "haut", "atopisch", "juckreiz", "dermatitis"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Neurodermitis / Ekzem

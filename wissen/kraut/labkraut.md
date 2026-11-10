@@ -7,6 +7,11 @@ familie: "Rötegewächse (Rubiaceae)"
 pflanzenteile: "Kraut"
 tags: ["labkraut", "lymphe", "niere", "haut", "entgiftung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["lymphanregend", "harntreibend", "krampflösend", "hautpflegend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/labkraut-1.webp"
+bild_nachweis: "Kurt Stüber [1], CC BY-SA 3.0"
 ---
 
 # Labkraut
@@ -38,11 +43,11 @@ Kraut
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
-- [[lymphe]]
-- [[oedeme]]
-- [[entgiftung]]
-- [[druesenschwellung]]
-- [[wassereinlagerungen]]
+- [Cellulite / Bindegewebsschwäche](../beschwerde/cellulite.md)
+- [Ödeme](../beschwerde/oedeme.md)
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
+- [Drüsenschwellung](../beschwerde/druesenschwellung.md)
+- [Wassereinlagerungen](../beschwerde/wassereinlagerungen.md)
 
 ## Beschreibung
 
@@ -138,6 +143,20 @@ In der europäischen Volksmedizin galt Labkraut als das "Krebskraut", bei Verhä
 ## Mehr dazu
 
 - [Labkraut bei der Quelle](https://heilkräuter.de/lexikon/labkraut.htm)
+
+## Fotos
+
+![Labkraut, Foto 1](https://heildepot.wir.ooo/bilder/kraut/labkraut-1.webp)
+
+Foto 1: Kurt Stüber [1], CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Galium_verum0.jpg)
+
+![Labkraut, Foto 2](https://heildepot.wir.ooo/bilder/kraut/labkraut-2.webp)
+
+Foto 2: Le.Loup.Gris, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Galium_verum_habitus.jpg)
+
+![Labkraut, Foto 3](https://heildepot.wir.ooo/bilder/kraut/labkraut-3.webp)
+
+Foto 3: Matti Virtala, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:Galium_verum_Kemi,_Finland_15.07.2013.jpg)
 
 ## Im Heildepot
 

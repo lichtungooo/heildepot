@@ -4,6 +4,8 @@ id: "tinnitus"
 name: "Tinnitus / Ohren"
 tags: ["tinnitus", "ohren", "niere", "stress", "hören"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Tinnitus / Ohren

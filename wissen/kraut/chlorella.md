@@ -7,6 +7,11 @@ familie: "Chlorellaceae (Süßwasseralge)"
 pflanzenteile: "Ganze Alge"
 tags: ["chlorella", "entgiftung", "schwermetalle", "alge", "eisen"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["entgiftend", "nährstoffreich", "immunstärkend", "schwermetallausleitend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/chlorella-1.webp"
+bild_nachweis: "ja:User:NEON / User:NEON_ja, CC BY-SA 3.0"
 ---
 
 # Chlorella
@@ -38,10 +43,10 @@ Ganze Alge
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 - [Eisenmangel / Blutarmut / Anämie](../beschwerde/eisenmangel.md)
 - [Leber / Galle](../beschwerde/leber.md)
-- [[entgiftung]]
-- [[schwermetalle]]
-- [[amalgam]]
-- [[darm]]
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
+- [Schwermetalle](../beschwerde/schwermetalle.md)
+- [Amalgam](../beschwerde/amalgam.md)
+- [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 
 ## Beschreibung
@@ -145,6 +150,20 @@ In Japan gehört Chlorella zur täglichen Gesundheitspflege wie bei uns das Zäh
 ## Mehr dazu
 
 - [Chlorella bei der Quelle](https://heilkräuter.de/lexikon/chlorella.htm)
+
+## Fotos
+
+![Chlorella, Foto 1](https://heildepot.wir.ooo/bilder/kraut/chlorella-1.webp)
+
+Foto 1: ja:User:NEON / User:NEON_ja, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Chlorella_vulgaris_NIES2170.jpg)
+
+![Chlorella, Foto 2](https://heildepot.wir.ooo/bilder/kraut/chlorella-2.webp)
+
+Foto 2: Лаборатория "Микрокосмос", CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:%D0%98%D0%BD%D1%84%D1%83%D0%B7%D0%BE%D1%80%D0%B8%D0%B8_Ophridium_versatile.jpg)
+
+![Chlorella, Foto 3](https://heildepot.wir.ooo/bilder/kraut/chlorella-3.webp)
+
+Foto 3: Shipelin, CC BY 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Chlorella_cat.jpg)
 
 ## Im Heildepot
 

@@ -4,6 +4,8 @@ id: "erschoepfung"
 name: "Chronische Müdigkeit / CFS / Energiemangel"
 tags: ["erschöpfung", "müdigkeit", "cfs", "energiemangel", "burnout", "nebennieren"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Chronische Müdigkeit / CFS / Energiemangel

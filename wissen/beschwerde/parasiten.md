@@ -4,6 +4,8 @@ id: "parasiten"
 name: "Parasiten / Würmer / Darmparasiten"
 tags: ["parasiten", "würmer", "darm", "antiparasitär", "entgiftung", "reinigung"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Parasiten / Würmer / Darmparasiten

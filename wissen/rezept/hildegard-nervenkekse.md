@@ -3,20 +3,22 @@ art: "rezept"
 id: "hildegard-nervenkekse"
 name: "Hildegards Nervenkekse: Kekse der Freude"
 tradition: "Klostermedizin"
-kategorie: "Hildegard"
 tags: ["hildegard", "nervenkekse", "muskatnuss", "stimmungsaufhellend", "backen", "psychoaktiv", "dinkel"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Hildegard"
 ---
 
 # Hildegards Nervenkekse: Kekse der Freude
 
 ## Hilft bei
 
-- [[Traurigkeit]]
-- [[Melancholie]]
-- [[Niedergeschlagenheit]]
-- [[innere Bitterkeit]]
-- [[Nervosität]]
+- [Depression / Schwermut](../beschwerde/depression.md)
+- [Melancholie](../beschwerde/melancholie.md)
+- [Niedergeschlagenheit](../beschwerde/niedergeschlagenheit.md)
+- [Innere bitterkeit](../beschwerde/innere-bitterkeit.md)
+- [Nervosität](../beschwerde/nervositaet.md)
 
 ## Schwierigkeit
 

@@ -4,6 +4,8 @@ id: "fettleber"
 name: "Fettleber / Leberverfettung"
 tags: ["fettleber", "leber", "stoffwechsel", "entgiftung", "insulin"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Fettleber / Leberverfettung

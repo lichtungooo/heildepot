@@ -3,22 +3,24 @@ art: "rezept"
 id: "wilde-frau-elixier"
 name: "Wilde-Frau-Elixier: Feuer der weiblichen Lust"
 tradition: "Hexenwissen"
-kategorie: "Frauen-Heilkunde"
 tags: ["frauenheilkunde", "libido", "aphrodisiakum", "adaptogen", "hexenwissen", "wildefrau"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Frauen-Heilkunde"
 ---
 
 # Wilde-Frau-Elixier: Feuer der weiblichen Lust
 
 ## Hilft bei
 
-- [[libido]]
-- [[lustlosigkeit]]
-- [[trockenheit]]
+- [Erektionsstörungen / Libido / Potenz](../beschwerde/erektionsstoerung.md)
+- [Lustlosigkeit](../beschwerde/lustlosigkeit.md)
+- [Trockenheit](../beschwerde/trockenheit.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[hormonschwaeche]]
-- [[selbstliebe]]
-- [[weiblichkeit]]
+- [Hormonschwäche](../beschwerde/hormonschwaeche.md)
+- [Selbstliebe](../beschwerde/selbstliebe.md)
+- [Weiblichkeit](../beschwerde/weiblichkeit.md)
 
 ## Schwierigkeit
 

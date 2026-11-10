@@ -7,6 +7,11 @@ familie: "Mohngewächse (Papaveraceae)"
 pflanzenteile: "Kraut, Milchsaft"
 tags: ["schöllkraut", "warzen", "leber", "galle", "warzenkraut"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["krampflösend", "gallefördernd", "leberstärkend", "warzenentfernend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/schoellkraut-1.webp"
+bild_nachweis: "(c) 2005 Zubro, CC BY-SA 3.0"
 ---
 
 # Schöllkraut
@@ -37,10 +42,10 @@ Kraut, Milchsaft
 - [Leber / Galle](../beschwerde/leber.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
-- [[galle]]
-- [[warzen]]
-- [[kraempfe]]
-- [[voellegefuehl]]
+- [Leber / Galle](../beschwerde/leber.md)
+- [Warzen](../beschwerde/warzen.md)
+- [Krämpfe](../beschwerde/kraempfe.md)
+- [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
 
 ## Beschreibung
 
@@ -137,6 +142,20 @@ Großmütter rieben Warzen dreimal bei abnehmendem Mond mit Schöllkrautsaft ein
 ## Mehr dazu
 
 - [Schöllkraut bei der Quelle](https://heilkräuter.de/lexikon/schöllk.htm)
+
+## Fotos
+
+![Schöllkraut, Foto 1](https://heildepot.wir.ooo/bilder/kraut/schoellkraut-1.webp)
+
+Foto 1: (c) 2005 Zubro, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Chelidonium_Majus_(chelidoine).JPG)
+
+![Schöllkraut, Foto 2](https://heildepot.wir.ooo/bilder/kraut/schoellkraut-2.webp)
+
+Foto 2: Dalgial, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Chelidonium_Incheon_Korea.jpg)
+
+![Schöllkraut, Foto 3](https://heildepot.wir.ooo/bilder/kraut/schoellkraut-3.webp)
+
+Foto 3: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Chelidonium_majus_001.JPG)
 
 ## Im Heildepot
 

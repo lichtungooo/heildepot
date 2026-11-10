@@ -7,6 +7,11 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Früchte (Samen)"
 tags: ["fenchel", "blähungen", "baby", "husten", "verdauung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["blähungswidrig", "krampflösend", "schleimlösend", "milchbildend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/fenchel-1.webp"
+bild_nachweis: "FASTILY (TALK), CC BY-SA 3.0"
 ---
 
 # Fenchel
@@ -39,9 +44,9 @@ Früchte (Samen)
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[koliken]]
-- [[stillen]]
-- [[appetitlosigkeit]]
+- [Koliken](../beschwerde/koliken.md)
+- [Stillen](../beschwerde/stillen.md)
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
 
 ## Beschreibung
 
@@ -139,6 +144,20 @@ Fencheltee ist seit Generationen das Erste, was Großmütter bei Bauchweh der Kl
 ## Mehr dazu
 
 - [Fenchel bei der Quelle](https://heilkräuter.de/lexikon/fenchel.htm)
+
+## Fotos
+
+![Fenchel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/fenchel-1.webp)
+
+Foto 1: FASTILY (TALK), CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Anise2000px.JPG)
+
+![Fenchel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/fenchel-2.webp)
+
+Foto 2: Ian Cunliffe, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Fennel_-_Foeniculum_vulgare_-_with_the_Cuckmere_River_in_the_background_-_geograph.org.uk_-_1166706.jpg)
+
+![Fenchel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/fenchel-3.webp)
+
+Foto 3: Numéro 1963, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Fennouil.jpg)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Kreuzblütler"
 pflanzenteile: "Kraut, Keimlinge"
 tags: ["kresse", "vitamine", "fensterbank", "senföle", "eisen"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["vitaminreich", "appetitanregend", "verdauungsfördernd", "antibakteriell"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/kresse-1.webp"
+bild_nachweis: "michammel, CC BY-SA 2.0"
 ---
 
 # Gartenkresse
@@ -39,6 +44,20 @@ Kraut, Keimlinge
 ## Mehr dazu
 
 - [Gartenkresse bei der Quelle](https://heilkräuter.de/lexikon/kresse.htm)
+
+## Fotos
+
+![Gartenkresse, Foto 1](https://heildepot.wir.ooo/bilder/kraut/kresse-1.webp)
+
+Foto 1: michammel, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:H%C3%B8j_karse_(9757036756).jpg)
+
+![Gartenkresse, Foto 2](https://heildepot.wir.ooo/bilder/kraut/kresse-2.webp)
+
+Foto 2: Krish Dulal, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Garden_cress_curry.jpg)
+
+![Gartenkresse, Foto 3](https://heildepot.wir.ooo/bilder/kraut/kresse-3.webp)
+
+Foto 3: Corinna John, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Gartenkresse_bl%C3%BChend.JPG)
 
 ## Im Heildepot
 

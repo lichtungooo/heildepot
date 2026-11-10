@@ -7,6 +7,11 @@ familie: "Spargelgewächse (Asparagaceae)"
 pflanzenteile: "Harz"
 tags: ["drachenblut", "wundheilung", "harz", "blutstillung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["wundheilend", "blutstillend", "entzündungshemmend", "adstringierend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/drachenblutbaum-1.webp"
+bild_nachweis: "Andy Dingley, CC BY-SA 3.0"
 ---
 
 # Drachenblutbaum
@@ -38,12 +43,12 @@ Harz
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
-- [[wundheilung]]
-- [[blutungen]]
-- [[zahnfleischprobleme]]
-- [[narben]]
-- [[hauterneuerung]]
-- [[entzuendungen]]
+- [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
+- [Blutungen](../beschwerde/blutungen.md)
+- [Zahnfleischprobleme](../beschwerde/zahnfleischprobleme.md)
+- [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
+- [Hauterneuerung](../beschwerde/hauterneuerung.md)
+- [Entzündungen](../beschwerde/entzuendungen.md)
 
 ## Beschreibung
 
@@ -142,6 +147,20 @@ Drachenblut war über Jahrtausende eines der wertvollsten Heilharze der Welt. Es
 ## Mehr dazu
 
 - [Drachenblutbaum bei der Quelle](https://heilkräuter.de/lexikon/drachenblut.htm)
+
+## Fotos
+
+![Drachenblutbaum, Foto 1](https://heildepot.wir.ooo/bilder/kraut/drachenblutbaum-1.webp)
+
+Foto 1: Andy Dingley, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Dragon%27s_blood_(Daemomorops_draco).jpg)
+
+![Drachenblutbaum, Foto 2](https://heildepot.wir.ooo/bilder/kraut/drachenblutbaum-2.webp)
+
+Foto 2: Ramon FVelasquez, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:SantaFe,NuevaVizcayajf6572_04.JPG)
+
+![Drachenblutbaum, Foto 3](https://heildepot.wir.ooo/bilder/kraut/drachenblutbaum-3.webp)
+
+Foto 3: Rumphius (1627-1702), Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Palmier_sang_dragon_Rumphius3.jpg)
 
 ## Im Heildepot
 

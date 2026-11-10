@@ -7,6 +7,11 @@ familie: "Kreuzblütler (Brassicaceae)"
 pflanzenteile: "Kraut"
 tags: ["brunnenkresse", "vitamine", "frühling", "bronchien", "eisen"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["vitaminreich", "schleimlösend", "harntreibend", "appetitanregend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/brunnenkresse-1.webp"
+bild_nachweis: "Gideon from Paris, France, CC BY 2.0"
 ---
 
 # Brunnenkresse
@@ -38,9 +43,9 @@ Kraut
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
-- [[atemwege]]
-- [[harnwege]]
-- [[fruehjahrskur]]
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
+- [Frühjahrskur](../beschwerde/fruehjahrskur.md)
 - [Eisenmangel / Blutarmut / Anämie](../beschwerde/eisenmangel.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 
@@ -140,6 +145,20 @@ In der Volksheilkunde hieß es: "Iss Brunnenkress und lass den Doktor Gras wachs
 ## Mehr dazu
 
 - [Brunnenkresse bei der Quelle](https://heilkräuter.de/lexikon/brunnenk.htm)
+
+## Fotos
+
+![Brunnenkresse, Foto 1](https://heildepot.wir.ooo/bilder/kraut/brunnenkresse-1.webp)
+
+Foto 1: Gideon from Paris, France, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Green_for_sale_in_London.jpg)
+
+![Brunnenkresse, Foto 2](https://heildepot.wir.ooo/bilder/kraut/brunnenkresse-2.webp)
+
+Foto 2: Brunodesacacias, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Cresson_des_fontaines_au_printemps.jpg)
+
+![Brunnenkresse, Foto 3](https://heildepot.wir.ooo/bilder/kraut/brunnenkresse-3.webp)
+
+Foto 3: Pmh at da.wikipedia, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Br%C3%B8ndkarse.jpg)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Ingwergewächse (Zingiberaceae)"
 pflanzenteile: "Wurzelstock"
 tags: ["galgant", "hildegard", "herz", "wärmend", "verdauung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["wärmend", "verdauungsfördernd", "herzstärkend", "durchblutungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/galgant-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 2.0"
 ---
 
 # Galgant
@@ -38,10 +43,10 @@ Wurzelstock
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
-- [[uebelkeit]]
-- [[kaelteempfindlichkeit]]
+- [Übelkeit](../beschwerde/uebelkeit.md)
+- [Kälteempfindlichkeit](../beschwerde/kaelteempfindlichkeit.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[kreislauf]]
+- [Schwindel / Gleichgewichtsstörungen](../beschwerde/schwindel.md)
 
 ## Beschreibung
 
@@ -139,6 +144,20 @@ Hildegard von Bingen empfahl: "Wer am Herzen leidet, soll Galgant auf die Zunge 
 ## Mehr dazu
 
 - [Galgant bei der Quelle](https://heilkräuter.de/lexikon/galgant.htm)
+
+## Fotos
+
+![Galgant, Foto 1](https://heildepot.wir.ooo/bilder/kraut/galgant-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Thai-keffir-galangal.jpg)
+
+![Galgant, Foto 2](https://heildepot.wir.ooo/bilder/kraut/galgant-2.webp)
+
+Foto 2: Liza Daly (ld31337), Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Galangal.jpg)
+
+![Galgant, Foto 3](https://heildepot.wir.ooo/bilder/kraut/galgant-3.webp)
+
+Foto 3: Thomaswanhoff, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Thai-Ingwer.JPG)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Wurzel, Blätter, Samen"
 tags: ["liebstöckel", "niere", "verdauung", "harnwege", "küche"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["harntreibend", "verdauungsfördernd", "krampflösend", "durchspülend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/liebstoeckel-1.webp"
+bild_nachweis: "Hugo.arg, CC BY-SA 3.0"
 ---
 
 # Liebstöckel
@@ -37,10 +42,10 @@ Wurzel, Blätter, Samen
 - [Niere / Blase / Harnwege](../beschwerde/niere.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
-- [[blase]]
-- [[wassereinlagerungen]]
-- [[appetitlosigkeit]]
-- [[kraempfe]]
+- [Prostata / Männergesundheit](../beschwerde/prostata.md)
+- [Wassereinlagerungen](../beschwerde/wassereinlagerungen.md)
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
+- [Krämpfe](../beschwerde/kraempfe.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 
 ## Beschreibung
@@ -143,6 +148,20 @@ Im ländlichen Europa war Liebstöckel das Hausmittel bei Wassersucht und "schwa
 ## Mehr dazu
 
 - [Liebstöckel bei der Quelle](https://heilkräuter.de/lexikon/liebstoe.htm)
+
+## Fotos
+
+![Liebstöckel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/liebstoeckel-1.webp)
+
+Foto 1: Hugo.arg, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Gelsve001.JPG)
+
+![Liebstöckel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/liebstoeckel-2.webp)
+
+Foto 2: Rob Hille, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Levisticum_officinale_1.3_R.jpg)
+
+![Liebstöckel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/liebstoeckel-3.webp)
+
+Foto 3: Raffi Kojian, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Gardenology.org-IMG_2815_rbgs11jan.jpg)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Yamswurzelgewächse (Dioscoreaceae)"
 pflanzenteile: "Wurzel"
 tags: ["yamswurzel", "hormone", "wechseljahre", "osteoporose", "frauenheilkunde"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["hormonausgleichend", "krampflösend", "entzündungshemmend", "osteoporoseschützend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/yams-1.webp"
+bild_nachweis: "No machine-readable author provided. Phyzome assumed (based on copyright claims)., CC BY-SA 3.0"
 ---
 
 # Yamswurzel
@@ -37,12 +42,12 @@ Wurzel
 - [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
 - [Osteoporose / Knochenschwund](../beschwerde/osteoporose.md)
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
-- [[hormone]]
-- [[menstruation]]
-- [[kraempfe]]
-- [[hitzewallungen]]
-- [[stimmungsschwankungen]]
-- [[frauengesundheit]]
+- [Schilddrüsenthemen](../beschwerde/schilddruese.md)
+- [PMS / Menstruationsbeschwerden](../beschwerde/pms.md)
+- [Krämpfe](../beschwerde/kraempfe.md)
+- [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
+- [Stimmungsschwankungen](../beschwerde/stimmungsschwankungen.md)
+- [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
 
 ## Beschreibung
 
@@ -138,6 +143,20 @@ In der amerikanischen Volksheilkunde wurde Yamswurzel als "Kolik-Wurzel" bei kra
 ## Mehr dazu
 
 - [Yamswurzel bei der Quelle](https://heilkräuter.de/lexikon/yams.htm)
+
+## Fotos
+
+![Yamswurzel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/yams-1.webp)
+
+Foto 1: No machine-readable author provided. Phyzome assumed (based on copyright claims)., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Wild_yam_in_woods_-_young_plants.jpg)
+
+![Yamswurzel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/yams-2.webp)
+
+Foto 2: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Dioscorea_villosa_001.JPG)
+
+![Yamswurzel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/yams-3.webp)
+
+Foto 3: Fritzflohrreynolds, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Dioscorea_villosa_-_Wild_Yam,_female_flowers.jpg)
 
 ## Im Heildepot
 

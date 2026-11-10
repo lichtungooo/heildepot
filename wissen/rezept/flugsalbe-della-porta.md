@@ -3,22 +3,24 @@ art: "rezept"
 id: "flugsalbe-della-porta"
 name: "Flugsalbe nach Giambattista della Porta (1558)"
 tradition: "Grimoire"
-kategorie: "Flugsalbe"
 tags: ["Flugsalbe", "DellaPora", "Tollkirsche", "Eisenhut", "Renaissance", "MagiaNaturalis", "Hexenflug", "Tropanalkaloide", "Aconitum", "Belladonna", "16Jahrhundert"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Flugsalbe"
 ---
 
 # Flugsalbe nach Giambattista della Porta (1558)
 
 ## Hilft bei
 
-- [[Flugsalbe]]
-- [[Hexenflug]]
-- [[Tollkirsche]]
-- [[Eisenhut]]
-- [[Renaissance]]
-- [[Hexensalbe]]
-- [[della Porta]]
+- [Flugsalbe](../beschwerde/flugsalbe.md)
+- [Hexenflug](../beschwerde/hexenflug.md)
+- [Tollkirsche](../beschwerde/tollkirsche.md)
+- [Eisenhut](../beschwerde/eisenhut.md)
+- [Renaissance](../beschwerde/renaissance.md)
+- [Hexensalbe](../beschwerde/hexensalbe.md)
+- [Della porta](../beschwerde/della-porta.md)
 
 ## Schwierigkeit
 

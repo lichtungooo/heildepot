@@ -7,6 +7,11 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut"
 tags: ["thymian", "husten", "bronchitis", "erkältung", "atemwege"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "antibakteriell", "krampflösend", "auswurffördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/thymian-1.webp"
+bild_nachweis: "No machine-readable author provided. Rainer Zenz assumed (based on copyright claims)., CC BY-SA 3.0"
 ---
 
 # Thymian
@@ -39,11 +44,11 @@ Kraut
 - [Grippe](../beschwerde/grippe.md)
 - [Asthma / Atemwege](../beschwerde/asthma.md)
 - [Pilzinfektionen / Candida](../beschwerde/candida.md)
-- [[bronchitis]]
+- [Husten / Bronchitis](../beschwerde/husten.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
-- [[atemwege]]
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 
 ## Beschreibung
 
@@ -155,6 +160,20 @@ Die Großmütter wussten: "Thymiantee und Bettruhe heilen jeden Husten." Kinder 
 ## Mehr dazu
 
 - [Thymian bei der Quelle](https://heilkräuter.de/lexikon/thymian.htm)
+
+## Fotos
+
+![Thymian, Foto 1](https://heildepot.wir.ooo/bilder/kraut/thymian-1.webp)
+
+Foto 1: No machine-readable author provided. Rainer Zenz assumed (based on copyright claims)., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:K%C3%BCchenkr%C3%A4uter-1.jpg)
+
+![Thymian, Foto 2](https://heildepot.wir.ooo/bilder/kraut/thymian-2.webp)
+
+Foto 2: Isasza, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Fleurs_de_thym.JPG)
+
+![Thymian, Foto 3](https://heildepot.wir.ooo/bilder/kraut/thymian-3.webp)
+
+Foto 3: Bertrand GRONDIN  → (Talk), CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Fort_de_Bellaguarda_2013_07_21_20_M8.jpg)
 
 ## Im Heildepot
 

@@ -4,6 +4,8 @@ id: "reizdarm"
 name: "Reizdarm / IBS"
 tags: ["reizdarm", "ibs", "darm", "bauchschmerzen", "blähungen", "verdauung"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Reizdarm / IBS

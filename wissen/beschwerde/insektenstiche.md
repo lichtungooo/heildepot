@@ -4,6 +4,8 @@ id: "insektenstiche"
 name: "Insektenstiche / Allergische Reaktion"
 tags: ["insektenstich", "allergie", "haut", "schwellung", "immunsystem"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Insektenstiche / Allergische Reaktion

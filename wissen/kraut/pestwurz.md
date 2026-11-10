@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Wurzel, Blätter"
 tags: ["pestwurz", "migräne", "allergie", "heuschnupfen", "krampflösend"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["krampflösend", "schmerzlindernd", "antiallergisch", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/pestwurz-1.webp"
+bild_nachweis: "Roy at Czech Wikipedia, Public domain"
 ---
 
 # Pestwurz
@@ -38,9 +43,9 @@ Wurzel, Blätter
 - [Allergie / Heuschnupfen](../beschwerde/allergie.md)
 - [Kopfschmerzen / Migräne](../beschwerde/kopfschmerzen.md)
 - [Asthma / Atemwege](../beschwerde/asthma.md)
-- [[heuschnupfen]]
-- [[kraempfe]]
-- [[bronchitis]]
+- [Allergie / Heuschnupfen](../beschwerde/allergie.md)
+- [Krämpfe](../beschwerde/kraempfe.md)
+- [Husten / Bronchitis](../beschwerde/husten.md)
 
 ## Beschreibung
 
@@ -135,6 +140,20 @@ In der Alpenvolksmedizin galt die Pestwurz als "Kraftkraut" gegen Kopfschmerzen 
 ## Mehr dazu
 
 - [Pestwurz bei der Quelle](https://heilkräuter.de/lexikon/pestwurz.htm)
+
+## Fotos
+
+![Pestwurz, Foto 1](https://heildepot.wir.ooo/bilder/kraut/pestwurz-1.webp)
+
+Foto 1: Roy at Czech Wikipedia, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Bile_potoky3.jpg)
+
+![Pestwurz, Foto 2](https://heildepot.wir.ooo/bilder/kraut/pestwurz-2.webp)
+
+Foto 2: Viva La Ren, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Glasenbachklamm_plants.jpg)
+
+![Pestwurz, Foto 3](https://heildepot.wir.ooo/bilder/kraut/pestwurz-3.webp)
+
+Foto 3: Sonja Pieper, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Interesting_plants.jpg)
 
 ## Im Heildepot
 

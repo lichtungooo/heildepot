@@ -3,9 +3,11 @@ art: "rezept"
 id: "pechsalbe"
 name: "Pechsalbe: Alpine Wundheilung seit Jahrhunderten"
 tradition: "Klostermedizin"
-kategorie: "Volksheilkunde"
 tags: ["volksheilkunde", "pechsalbe", "fichtenharz", "alpin", "wundheilung", "antibakteriell", "tirol"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Volksheilkunde"
 ---
 
 # Pechsalbe: Alpine Wundheilung seit Jahrhunderten
@@ -13,12 +15,12 @@ quelle: "heildepot"
 ## Hilft bei
 
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
-- [[Schürdfwunden]]
-- [[rissige Haut]]
-- [[Splitter]]
-- [[Gelenkschmerzen]]
-- [[Muskelkater]]
-- [[kleine Verbrennungen]]
+- [Schürdfwunden](../beschwerde/schuerdfwunden.md)
+- [Rissige haut](../beschwerde/rissige-haut.md)
+- [Splitter](../beschwerde/splitter.md)
+- [Gelenkschmerzen](../beschwerde/gelenkschmerzen.md)
+- [Muskelkater](../beschwerde/muskelkater.md)
+- [Kleine verbrennungen](../beschwerde/kleine-verbrennungen.md)
 
 ## Schwierigkeit
 

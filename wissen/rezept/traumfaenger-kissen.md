@@ -3,22 +3,24 @@ art: "rezept"
 id: "traumfaenger-kissen"
 name: "Traumfänger-Kissen: Sanfter Schlaf für kleine Traeumer"
 tradition: "Hexenwissen"
-kategorie: "Kinder-Zauber"
 tags: ["kinderzauber", "schlaf", "traumkissen", "aromatherapie", "hexenwissen", "geborgenheit"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Kinder-Zauber"
 ---
 
 # Traumfänger-Kissen: Sanfter Schlaf für kleine Traeumer
 
 ## Hilft bei
 
-- [[einschlafprobleme]]
+- [Einschlafprobleme](../beschwerde/einschlafprobleme.md)
 - [Angst / Panikattacken](../beschwerde/angst.md)
-- [[alptraeume]]
-- [[unruhe]]
-- [[kinder]]
+- [Alpträume](../beschwerde/alptraeume.md)
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
+- [Kinder](../beschwerde/kinder.md)
 - [Schlafthemen](../beschwerde/schlaf.md)
-- [[geborgenheit]]
+- [Geborgenheit](../beschwerde/geborgenheit.md)
 
 ## Schwierigkeit
 

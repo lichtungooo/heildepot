@@ -7,6 +7,11 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Fruchtmus"
 tags: ["tamarinde", "verstopfung", "verdauung", "indien", "gewürz"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["abführend", "fiebersenkend", "entzündungshemmend", "verdauungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/tamarinde-1.webp"
+bild_nachweis: "Unknown authorUnknown author, CC BY-SA 3.0"
 ---
 
 # Tamarinde
@@ -37,11 +42,11 @@ Fruchtmus
 - [Verstopfung / Darmträgheit](../beschwerde/verstopfung.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Grippe](../beschwerde/grippe.md)
-- [[fieber]]
-- [[appetitlosigkeit]]
-- [[uebelkeit]]
+- [Grippe](../beschwerde/grippe.md)
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
+- [Übelkeit](../beschwerde/uebelkeit.md)
 - [Leber / Galle](../beschwerde/leber.md)
-- [[hitze]]
+- [Hitze](../beschwerde/hitze.md)
 
 ## Beschreibung
 
@@ -142,6 +147,20 @@ In Afrika und Asien ist Tamarindenwasser ein universelles Hausmittel gegen Fiebe
 ## Mehr dazu
 
 - [Tamarinde bei der Quelle](https://heilkräuter.de/lexikon/tamarinde.htm)
+
+## Fotos
+
+![Tamarinde, Foto 1](https://heildepot.wir.ooo/bilder/kraut/tamarinde-1.webp)
+
+Foto 1: Unknown authorUnknown author, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Laan_met_tamarindes_te_Maninjau_TMnr_10012902.jpg)
+
+![Tamarinde, Foto 2](https://heildepot.wir.ooo/bilder/kraut/tamarinde-2.webp)
+
+Foto 2: Rojypala at Malayalam Wikipedia, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Pulimaram01.jpg)
+
+![Tamarinde, Foto 3](https://heildepot.wir.ooo/bilder/kraut/tamarinde-3.webp)
+
+Foto 3: Raffi Kojian, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Gardenology.org-IMG_7348_qsbg11mar.jpg)
 
 ## Im Heildepot
 

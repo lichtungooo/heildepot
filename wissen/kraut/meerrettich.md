@@ -7,6 +7,11 @@ familie: "Kreuzblütler (Brassicaceae)"
 pflanzenteile: "Wurzel"
 tags: ["meerrettich", "antibiotisch", "bronchitis", "harnwege", "immunsystem"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["antibakteriell", "schleimlösend", "durchblutungsfördernd", "immunstärkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/meerrettich-1.webp"
+bild_nachweis: "Frank Vincentz, CC BY-SA 3.0"
 ---
 
 # Meerrettich
@@ -38,9 +43,9 @@ Wurzel
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Niere / Blase / Harnwege](../beschwerde/niere.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
-- [[bronchitis]]
+- [Husten / Bronchitis](../beschwerde/husten.md)
 - [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
-- [[nebenhoehlenentzuendung]]
+- [Nebenhöhlenentzündung](../beschwerde/nebenhoehlenentzuendung.md)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
 
 ## Beschreibung
@@ -147,6 +152,20 @@ In Bauernhäusern stand immer ein Glas mit frisch geriebenem "Kren" auf dem Tisc
 ## Mehr dazu
 
 - [Meerrettich bei der Quelle](https://heilkräuter.de/lexikon/meerrettich.htm)
+
+## Fotos
+
+![Meerrettich, Foto 1](https://heildepot.wir.ooo/bilder/kraut/meerrettich-1.webp)
+
+Foto 1: Frank Vincentz, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Armoracia_rusticana_ies.jpg)
+
+![Meerrettich, Foto 2](https://heildepot.wir.ooo/bilder/kraut/meerrettich-2.webp)
+
+Foto 2: Hugo.arg, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Krienas001.JPG)
+
+![Meerrettich, Foto 3](https://heildepot.wir.ooo/bilder/kraut/meerrettich-3.webp)
+
+Foto 3: Ruslan V. Albitsky aka pauk, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Hren_HorseRadish.jpg)
 
 ## Im Heildepot
 

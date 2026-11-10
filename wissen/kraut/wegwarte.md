@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Wurzel, Kraut"
 tags: ["wegwarte", "leber", "galle", "kaffeeersatz", "verdauung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["leberstärkend", "gallefördernd", "verdauungsfördernd", "blutzuckerregulierend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/wegwarte-1.webp"
+bild_nachweis: "Alvesgaspar, Tony Wills (10), CC BY-SA 3.0"
 ---
 
 # Wegwarte
@@ -37,11 +42,11 @@ Wurzel, Kraut
 - [Leber / Galle](../beschwerde/leber.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Diabetes](../beschwerde/diabetes.md)
-- [[galle]]
-- [[blutzucker]]
-- [[darmflora]]
-- [[appetitlosigkeit]]
-- [[entgiftung]]
+- [Leber / Galle](../beschwerde/leber.md)
+- [Diabetes](../beschwerde/diabetes.md)
+- [Darmflora](../beschwerde/darmflora.md)
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
 
 ## Beschreibung
 
@@ -137,6 +142,20 @@ Auf dem Land hieß es: "Wer täglich Wegwarten-Tee trinkt, braucht keinen Doktor
 ## Mehr dazu
 
 - [Wegwarte bei der Quelle](https://heilkräuter.de/lexikon/wegwarte.htm)
+
+## Fotos
+
+![Wegwarte, Foto 1](https://heildepot.wir.ooo/bilder/kraut/wegwarte-1.webp)
+
+Foto 1: Alvesgaspar, Tony Wills (10), CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Asteracea_poster_3.jpg)
+
+![Wegwarte, Foto 2](https://heildepot.wir.ooo/bilder/kraut/wegwarte-2.webp)
+
+Foto 2: Assianir, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Cichorium_intybus_MG_8535.JPG)
+
+![Wegwarte, Foto 3](https://heildepot.wir.ooo/bilder/kraut/wegwarte-3.webp)
+
+Foto 3: Secretlondon, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Chicory_flower_in_london_aug_21.jpg)
 
 ## Im Heildepot
 

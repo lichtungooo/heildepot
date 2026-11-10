@@ -7,6 +7,11 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Wurzel"
 tags: ["engelwurz", "verdauung", "blähungen", "wärmend", "magen"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "krampflösend", "wärmend", "stärkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/angelika-1.webp"
+bild_nachweis: "Wouter Hagens, CC BY-SA 3.0"
 ---
 
 # Engelwurz
@@ -39,9 +44,9 @@ Wurzel
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[kraempfe]]
-- [[immunsystem]]
-- [[appetitlosigkeit]]
+- [Krämpfe](../beschwerde/kraempfe.md)
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
 
 ## Beschreibung
 
@@ -137,6 +142,20 @@ In Skandinavien kaute man bei Erschöpfung und Kälte ein Stück Engelwurz-Wurze
 ## Mehr dazu
 
 - [Engelwurz bei der Quelle](https://heilkräuter.de/lexikon/angelika.htm)
+
+## Fotos
+
+![Engelwurz, Foto 1](https://heildepot.wir.ooo/bilder/kraut/angelika-1.webp)
+
+Foto 1: Wouter Hagens, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Angelica_archangelica_in_a_garden_(Belgium)_-_A.jpg)
+
+![Engelwurz, Foto 2](https://heildepot.wir.ooo/bilder/kraut/angelika-2.webp)
+
+Foto 2: Opioła Jerzy, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Archangelica_officinalis_a1.jpg)
+
+![Engelwurz, Foto 3](https://heildepot.wir.ooo/bilder/kraut/angelika-3.webp)
+
+Foto 3: Christian Fischer, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:AngelicaArchangelica1.jpg)
 
 ## Im Heildepot
 

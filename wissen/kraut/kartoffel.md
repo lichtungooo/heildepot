@@ -7,6 +7,11 @@ familie: "Nachtschattengewächse"
 pflanzenteile: "Knolle"
 tags: ["kartoffel", "magen", "sodbrennen", "wickel", "husten"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["entzündungshemmend", "schmerzlindernd", "kühlend", "magenschützend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/kartoffel-1.webp"
+bild_nachweis: "Rasbak 14:41, 14 May 2007 (UTC), CC BY-SA 3.0"
 ---
 
 # Kartoffel
@@ -40,6 +45,20 @@ Knolle
 ## Mehr dazu
 
 - [Kartoffel bei der Quelle](https://heilkräuter.de/lexikon/kartoffel.htm)
+
+## Fotos
+
+![Kartoffel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/kartoffel-1.webp)
+
+Foto 1: Rasbak 14:41, 14 May 2007 (UTC), CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Dor%C3%A9_virusziek_(Solanum_tuberosum_with_virus).jpg)
+
+![Kartoffel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/kartoffel-2.webp)
+
+Foto 2: Juan de Vojníkov, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bramborov%C3%A1_na%C5%A5_(zhora).JPG)
+
+![Kartoffel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/kartoffel-3.webp)
+
+Foto 3: Alupus, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Einfluss_Lochfolienverwendung_beim_Kartoffelanbau.jpg)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Raublattgewächse (Boraginaceae)"
 pflanzenteile: "Kraut"
 tags: ["lungenkraut", "lunge", "husten", "bronchien", "signaturenlehre"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "reizlindernd", "hustenlindernd", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/lungenkraut-1.webp"
+bild_nachweis: "Garitzko, Public domain"
 ---
 
 # Lungenkraut
@@ -37,12 +42,12 @@ Kraut
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Asthma / Atemwege](../beschwerde/asthma.md)
-- [[bronchitis]]
+- [Husten / Bronchitis](../beschwerde/husten.md)
 - [Heiserkeit / Stimmbandprobleme](../beschwerde/heiserkeit.md)
-- [[atemwege]]
-- [[schleimhaut]]
-- [[reizhusten]]
-- [[lunge]]
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
+- [Schleimhaut](../beschwerde/schleimhaut.md)
+- [Reizhusten](../beschwerde/reizhusten.md)
+- [Husten / Bronchitis](../beschwerde/husten.md)
 
 ## Beschreibung
 
@@ -138,6 +143,20 @@ Kräuterfrauen in den Alpen brauten aus Lungenkraut und Honig einen Sirup, der i
 ## Mehr dazu
 
 - [Lungenkraut bei der Quelle](https://heilkräuter.de/lexikon/lungenkr.htm)
+
+## Fotos
+
+![Lungenkraut, Foto 1](https://heildepot.wir.ooo/bilder/kraut/lungenkraut-1.webp)
+
+Foto 1: Garitzko, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Echtes_Lungenkraut_(Pulmonaria_officinalis).jpg)
+
+![Lungenkraut, Foto 2](https://heildepot.wir.ooo/bilder/kraut/lungenkraut-2.webp)
+
+Foto 2: Hedwig Storch, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bombus_pascuorum_Pulmonaria_officinalis_1.jpg)
+
+![Lungenkraut, Foto 3](https://heildepot.wir.ooo/bilder/kraut/lungenkraut-3.webp)
+
+Foto 3: Derek Harper, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Common_Lungwort,_West_Bagborough_-_geograph.org.uk_-_1187604.jpg)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Früchte (Samen)"
 tags: ["anis", "verdauung", "husten", "blähungen", "stillen"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["krampflösend", "schleimlösend", "blähungswidrig", "milchfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/anis-1.webp"
+bild_nachweis: "Raffi Kojian, CC BY-SA 3.0"
 ---
 
 # Anis
@@ -39,10 +44,10 @@ Früchte (Samen)
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[stillen]]
-- [[koliken]]
-- [[baby]]
-- [[kraempfe]]
+- [Stillen](../beschwerde/stillen.md)
+- [Koliken](../beschwerde/koliken.md)
+- [Baby](../beschwerde/baby.md)
+- [Krämpfe](../beschwerde/kraempfe.md)
 
 ## Beschreibung
 
@@ -138,6 +143,20 @@ Die Dreier-Kombination "Anis, Fenchel, Kümmel" ist die berühmteste Gewürzmisc
 ## Mehr dazu
 
 - [Anis bei der Quelle](https://heilkräuter.de/lexikon/anis.htm)
+
+## Fotos
+
+![Anis, Foto 1](https://heildepot.wir.ooo/bilder/kraut/anis-1.webp)
+
+Foto 1: Raffi Kojian, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Gardenology.org-IMG_2832_rbgs11jan.jpg)
+
+![Anis, Foto 2](https://heildepot.wir.ooo/bilder/kraut/anis-2.webp)
+
+Foto 2: Burkhard Mücke, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Anis.jpg)
+
+![Anis, Foto 3](https://heildepot.wir.ooo/bilder/kraut/anis-3.webp)
+
+Foto 3: FASTILY, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Pimpinella_anisum_1_2018-05-15.jpg)
 
 ## Im Heildepot
 

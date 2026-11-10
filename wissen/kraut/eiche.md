@@ -7,6 +7,11 @@ familie: "Buchengewächse"
 pflanzenteile: "Rinde"
 tags: ["eiche", "gerbstoffe", "mundpflege", "hämorrhoiden", "haut"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["adstringierend", "entzündungshemmend", "antibakteriell", "blutstillend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/eiche-1.webp"
+bild_nachweis: "Joseolgon, CC BY-SA 3.0"
 ---
 
 # Eiche
@@ -40,6 +45,20 @@ Rinde
 ## Mehr dazu
 
 - [Eiche bei der Quelle](https://heilkräuter.de/lexikon/eiche.htm)
+
+## Fotos
+
+![Eiche, Foto 1](https://heildepot.wir.ooo/bilder/kraut/eiche-1.webp)
+
+Foto 1: Joseolgon, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Carvalho_de_Calvos_2.jpg)
+
+![Eiche, Foto 2](https://heildepot.wir.ooo/bilder/kraut/eiche-2.webp)
+
+Foto 2: Grey Geezer, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:2015-01-05-08933-Timaru.JPG)
+
+![Eiche, Foto 3](https://heildepot.wir.ooo/bilder/kraut/eiche-3.webp)
+
+Foto 3: Basotxerri, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Elburgo_-_Robledal_Isla_01.jpg)
 
 ## Im Heildepot
 

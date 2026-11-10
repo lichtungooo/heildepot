@@ -3,23 +3,25 @@ art: "rezept"
 id: "stier-trank"
 name: "Stier-Trank: Urkraft des Mannes"
 tradition: "Hexenwissen"
-kategorie: "Männer-Kraft"
 tags: ["männerkraft", "testosteron", "adaptogen", "phytoandrogen", "hexenwissen", "krieger"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Männer-Kraft"
 ---
 
 # Stier-Trank: Urkraft des Mannes
 
 ## Hilft bei
 
-- [[testosteron]]
-- [[libido]]
-- [[muskelaufbau]]
-- [[energie]]
-- [[antriebslosigkeit]]
-- [[maennerkraft]]
-- [[potenz]]
-- [[vitalitaet]]
+- [Prostata / Männergesundheit](../beschwerde/prostata.md)
+- [Erektionsstörungen / Libido / Potenz](../beschwerde/erektionsstoerung.md)
+- [Muskelaufbau](../beschwerde/muskelaufbau.md)
+- [Burnout / Chronische Erschöpfung](../beschwerde/burnout.md)
+- [Depression / Schwermut](../beschwerde/depression.md)
+- [Männerkraft](../beschwerde/maennerkraft.md)
+- [Erektionsstörungen / Libido / Potenz](../beschwerde/erektionsstoerung.md)
+- [Vitalität](../beschwerde/vitalitaet.md)
 
 ## Schwierigkeit
 

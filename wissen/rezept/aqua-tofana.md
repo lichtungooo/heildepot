@@ -3,21 +3,23 @@ art: "rezept"
 id: "aqua-tofana"
 name: "Aqua Tofana: Das berühmteste Gift der Geschichte"
 tradition: "Grimoire"
-kategorie: "Giftkunst"
 tags: ["AquaTofana", "Giftkunst", "Arsen", "GiuliaTofana", "17Jahrhundert", "Rom", "Neapel", "Frauengeschichte", "Gift", "MannadiSanNicola"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Giftkunst"
 ---
 
 # Aqua Tofana: Das berühmteste Gift der Geschichte
 
 ## Hilft bei
 
-- [[Aqua Tofana]]
-- [[Gift]]
-- [[Arsen]]
-- [[Giulia Tofana]]
-- [[Giftkunst]]
-- [[Frauengeschichte]]
+- [Aqua tofana](../beschwerde/aqua-tofana.md)
+- [Gift](../beschwerde/gift.md)
+- [Arsen](../beschwerde/arsen.md)
+- [Giulia tofana](../beschwerde/giulia-tofana.md)
+- [Giftkunst](../beschwerde/giftkunst.md)
+- [Frauengeschichte](../beschwerde/frauengeschichte.md)
 
 ## Schwierigkeit
 

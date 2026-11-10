@@ -4,6 +4,8 @@ id: "gicht"
 name: "Gicht / Harnsäure"
 tags: ["gicht", "harnsäure", "gelenke", "purine", "entzündung", "stoffwechsel"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Gicht / Harnsäure

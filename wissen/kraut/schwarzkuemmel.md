@@ -7,6 +7,11 @@ familie: "Hahnenfußgewächse (Ranunculaceae)"
 pflanzenteile: "Samen (Öl)"
 tags: ["schwarzkümmel", "allergie", "immunsystem", "asthma", "öl"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["immunstärkend", "antiallergisch", "entzündungshemmend", "verdauungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/schwarzkuemmel-1.webp"
+bild_nachweis: "k yamada from Yokohama, Japan, CC BY-SA 3.0"
 ---
 
 # Schwarzkümmel
@@ -144,6 +149,20 @@ In der orientalischen Volksmedizin streut man Schwarzkümmelsamen auf Fladenbrot
 ## Mehr dazu
 
 - [Schwarzkümmel bei der Quelle](https://heilkräuter.de/lexikon/schwarzkümmel.htm)
+
+## Fotos
+
+![Schwarzkümmel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/schwarzkuemmel-1.webp)
+
+Foto 1: k yamada from Yokohama, Japan, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Nigella_sativa.jpg)
+
+![Schwarzkümmel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/schwarzkuemmel-2.webp)
+
+Foto 2: Jerzy Opioła, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Nigella_sativa_a1.jpg)
+
+![Schwarzkümmel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/schwarzkuemmel-3.webp)
+
+Foto 3: ms.Tea. Taken with a Fujifilm FinePix E550., CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bloemenmarkt_2006_(4).jpg)
 
 ## Im Heildepot
 

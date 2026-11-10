@@ -7,6 +7,11 @@ familie: "Rosengewächse"
 pflanzenteile: "Nüsse, Öl"
 tags: ["mandel", "haut", "massage", "mandelöl", "nährstoffe"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["hautpflegend", "stärkend", "beruhigend", "nährstoffreich"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/mandel-1.webp"
+bild_nachweis: "Vincent van Gogh, Public domain"
 ---
 
 # Mandelbaum
@@ -39,6 +44,20 @@ Nüsse, Öl
 ## Mehr dazu
 
 - [Mandelbaum bei der Quelle](https://heilkräuter.de/lexikon/mandel.htm)
+
+## Fotos
+
+![Mandelbaum, Foto 1](https://heildepot.wir.ooo/bilder/kraut/mandel-1.webp)
+
+Foto 1: Vincent van Gogh, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg)
+
+![Mandelbaum, Foto 2](https://heildepot.wir.ooo/bilder/kraut/mandel-2.webp)
+
+Foto 2: Balles2601, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Prunus_amygdalus_2601.jpg)
+
+![Mandelbaum, Foto 3](https://heildepot.wir.ooo/bilder/kraut/mandel-3.webp)
+
+Foto 3: Jausel, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Almond_trees_in_bloom.jpg)
 
 ## Im Heildepot
 

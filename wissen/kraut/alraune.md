@@ -7,6 +7,11 @@ familie: "Nachtschattengewächse (Solanaceae)"
 pflanzenteile: "Wurzel (historisch)"
 tags: ["alraune", "zauberpflanze", "mittelalter", "giftig", "mythologie"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schmerzlindernd", "beruhigend", "krampflösend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/alraune-1.webp"
+bild_nachweis: "tato grasso, CC BY-SA 2.5"
 ---
 
 # Alraune
@@ -35,9 +40,9 @@ Wurzel (historisch)
 
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
 - [Schlafthemen](../beschwerde/schlaf.md)
-- [[kraempfe]]
-- [[schlaflosigkeit]]
-- [[unruhe]]
+- [Krämpfe](../beschwerde/kraempfe.md)
+- [Schlaflosigkeit](../beschwerde/schlaflosigkeit.md)
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
 
 ## Beschreibung
 
@@ -125,6 +130,20 @@ Die Alraune galt als universelles Allheilmittel: Unfruchtbarkeit, Schlaflosigkei
 ## Mehr dazu
 
 - [Alraune bei der Quelle](https://heilkräuter.de/lexikon/alraune.htm)
+
+## Fotos
+
+![Alraune, Foto 1](https://heildepot.wir.ooo/bilder/kraut/alraune-1.webp)
+
+Foto 1: tato grasso, CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Mandragora_autumnalis_055.jpg)
+
+![Alraune, Foto 2](https://heildepot.wir.ooo/bilder/kraut/alraune-2.webp)
+
+Foto 2: GreenGreen, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:M_officinarun_flower.jpg)
+
+![Alraune, Foto 3](https://heildepot.wir.ooo/bilder/kraut/alraune-3.webp)
+
+Foto 3: Frente, CC BY-SA 2.0 de, [Quelle](https://commons.wikimedia.org/wiki/File:Alraune-Kreta.jpg)
 
 ## Im Heildepot
 

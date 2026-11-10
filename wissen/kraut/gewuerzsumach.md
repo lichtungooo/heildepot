@@ -7,6 +7,11 @@ familie: "Sumachgewächse"
 pflanzenteile: "Früchte (gemahlen)"
 tags: ["sumach", "orient", "antioxidantien", "gewürz", "verdauung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["antioxidativ", "entzündungshemmend", "verdauungsfördernd", "antibakteriell"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/gewuerzsumach-1.webp"
+bild_nachweis: "Michelangelo-36, CC BY 2.5"
 ---
 
 # Gewürzsumach
@@ -40,6 +45,20 @@ Früchte (gemahlen)
 ## Mehr dazu
 
 - [Gewürzsumach bei der Quelle](https://heilkräuter.de/lexikon/gewürzsumach.htm)
+
+## Fotos
+
+![Gewürzsumach, Foto 1](https://heildepot.wir.ooo/bilder/kraut/gewuerzsumach-1.webp)
+
+Foto 1: Michelangelo-36, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:ZUMAQUES.jpg)
+
+![Gewürzsumach, Foto 2](https://heildepot.wir.ooo/bilder/kraut/gewuerzsumach-2.webp)
+
+Foto 2: Dedda71, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Sommacco.jpg)
+
+![Gewürzsumach, Foto 3](https://heildepot.wir.ooo/bilder/kraut/gewuerzsumach-3.webp)
+
+Foto 3: No machine-readable author provided. BourrinOman assumed (based on copyright claims)., Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Fleur_sumac.jpg)
 
 ## Im Heildepot
 

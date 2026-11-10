@@ -7,6 +7,11 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut"
 tags: ["katzenminze", "beruhigend", "fieber", "erkältung", "kinder"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["beruhigend", "krampflösend", "schweißtreibend", "fiebersenkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/katzenminze-1.webp"
+bild_nachweis: "Jon Sullivan, Public domain"
 ---
 
 # Katzenminze
@@ -38,12 +43,12 @@ Kraut
 - [Schlafthemen](../beschwerde/schlaf.md)
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
-- [[schlafstörungen]]
-- [[nervosität]]
+- [Schlafstörungen](../beschwerde/schlafstoerungen.md)
+- [Nervosität](../beschwerde/nervositaet.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[fieber]]
+- [Grippe](../beschwerde/grippe.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[koliken]]
+- [Koliken](../beschwerde/koliken.md)
 
 ## Beschreibung
 
@@ -142,6 +147,20 @@ In der europäischen Volksmedizin war Katzenminze ein geschätztes Hausmittel be
 ## Mehr dazu
 
 - [Katzenminze bei der Quelle](https://heilkräuter.de/lexikon/katzenminze.htm)
+
+## Fotos
+
+![Katzenminze, Foto 1](https://heildepot.wir.ooo/bilder/kraut/katzenminze-1.webp)
+
+Foto 1: Jon Sullivan, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Catnip-blossom.jpg)
+
+![Katzenminze, Foto 2](https://heildepot.wir.ooo/bilder/kraut/katzenminze-2.webp)
+
+Foto 2: D. Gordon E. Robertson, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Catnip_flowers.jpg)
+
+![Katzenminze, Foto 3](https://heildepot.wir.ooo/bilder/kraut/katzenminze-3.webp)
+
+Foto 3: https://www.flickr.com/photos/calliope/, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Catnip_,_Nepeta_cataria.jpg)
 
 ## Im Heildepot
 

@@ -4,6 +4,8 @@ id: "durchfall"
 name: "Durchfall / Magen-Darm-Infekt"
 tags: ["durchfall", "diarrhoe", "magen-darm", "gastroenteritis", "brechdurchfall", "norovirus"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Durchfall / Magen-Darm-Infekt

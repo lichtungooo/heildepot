@@ -7,6 +7,11 @@ familie: "Hahnenfußgewächse (Ranunculaceae)"
 pflanzenteile: "Wurzelstock"
 tags: ["traubensilberkerze", "wechseljahre", "hormone", "frauenheilkunde"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["hormonausgleichend", "krampflösend", "entzündungshemmend", "beruhigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/cimicifuga-1.webp"
+bild_nachweis: "No machine-readable author provided. Valérie75 assumed (based on copyright claims)., CC BY-SA 3.0"
 ---
 
 # Traubensilberkerze
@@ -38,11 +43,11 @@ Wurzelstock
 - [Depression / Schwermut](../beschwerde/depression.md)
 - [Schlafthemen](../beschwerde/schlaf.md)
 - [Angst / Panikattacken](../beschwerde/angst.md)
-- [[hitzewallungen]]
-- [[hormone]]
-- [[schlafprobleme]]
-- [[stimmung]]
-- [[frauengesundheit]]
+- [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
+- [Schilddrüsenthemen](../beschwerde/schilddruese.md)
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
+- [Stimmung](../beschwerde/stimmung.md)
+- [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
 
 ## Beschreibung
 
@@ -141,6 +146,20 @@ Die Cherokee nannten die Pflanze "Klapperschlangenkraut", weil die getrockneten 
 ## Mehr dazu
 
 - [Traubensilberkerze bei der Quelle](https://heilkräuter.de/lexikon/cimicifuga.htm)
+
+## Fotos
+
+![Traubensilberkerze, Foto 1](https://heildepot.wir.ooo/bilder/kraut/cimicifuga-1.webp)
+
+Foto 1: No machine-readable author provided. Valérie75 assumed (based on copyright claims)., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Cimicifuga_racemosa_001.jpg)
+
+![Traubensilberkerze, Foto 2](https://heildepot.wir.ooo/bilder/kraut/cimicifuga-2.webp)
+
+Foto 2: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Actaea_racemosa_001.JPG)
+
+![Traubensilberkerze, Foto 3](https://heildepot.wir.ooo/bilder/kraut/cimicifuga-3.webp)
+
+Foto 3: Schnobby, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Black_cohosh_1.jpg)
 
 ## Im Heildepot
 

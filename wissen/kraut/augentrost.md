@@ -7,6 +7,11 @@ familie: "Sommerwurzgewächse (Orobanchaceae)"
 pflanzenteile: "Kraut"
 tags: ["augentrost", "augen", "heuschnupfen", "entzündung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["entzündungshemmend", "adstringierend", "abschwellend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/augentrost-1.webp"
+bild_nachweis: "Mike Pennington, CC BY-SA 2.0"
 ---
 
 # Augentrost
@@ -36,9 +41,9 @@ Kraut
 - [Augenprobleme / Sehschwäche](../beschwerde/augen.md)
 - [Allergie / Heuschnupfen](../beschwerde/allergie.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[bindehautentzuendung]]
-- [[heuschnupfen]]
-- [[bildschirmarbeit]]
+- [Bindehautentzündung](../beschwerde/bindehautentzuendung.md)
+- [Allergie / Heuschnupfen](../beschwerde/allergie.md)
+- [Bildschirmarbeit](../beschwerde/bildschirmarbeit.md)
 
 ## Beschreibung
 
@@ -134,6 +139,20 @@ Kräuterkundige sagten: "Wer Augentrost trinkt, braucht bis ins Alter keine Bril
 ## Mehr dazu
 
 - [Augentrost bei der Quelle](https://heilkräuter.de/lexikon/augentrost.htm)
+
+## Fotos
+
+![Augentrost, Foto 1](https://heildepot.wir.ooo/bilder/kraut/augentrost-1.webp)
+
+Foto 1: Mike Pennington, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Common_Blue_(Polyommatus_icarus),_Roman_Camp_-_geograph.org.uk_-_1112459.jpg)
+
+![Augentrost, Foto 2](https://heildepot.wir.ooo/bilder/kraut/augentrost-2.webp)
+
+Foto 2: Rosser1954, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Euphrasia_officinalis_at_Spier%27s.jpg)
+
+![Augentrost, Foto 3](https://heildepot.wir.ooo/bilder/kraut/augentrost-3.webp)
+
+Foto 3: Chiswick Chap, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Adonis_blue_-_Lysandra_bellargus_in_flight_at_Aston_Rowant.JPG)
 
 ## Im Heildepot
 

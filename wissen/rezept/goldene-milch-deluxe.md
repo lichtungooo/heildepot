@@ -3,9 +3,11 @@ art: "rezept"
 id: "goldene-milch-deluxe"
 name: "Goldene Milch Deluxe: Jenseits des Standard-Kurkuma-Latte"
 tradition: "Hexenwissen"
-kategorie: "Regeneration & Detox"
 tags: ["goldenemilch", "kurkuma", "ashwagandha", "adaptogen", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Regeneration & Detox"
 ---
 
 # Goldene Milch Deluxe: Jenseits des Standard-Kurkuma-Latte
@@ -14,10 +16,10 @@ quelle: "heildepot"
 
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Schlafthemen](../beschwerde/schlaf.md)
-- [[gelenkschmerzen]]
-- [[immunsystem]]
+- [Gelenkschmerzen](../beschwerde/gelenkschmerzen.md)
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
-- [[anti-aging]]
+- [Anti aging](../beschwerde/anti-aging.md)
 
 ## Schwierigkeit
 

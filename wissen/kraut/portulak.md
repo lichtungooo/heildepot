@@ -7,6 +7,11 @@ familie: "Portulakgewächse (Portulacaceae)"
 pflanzenteile: "Kraut, Blätter"
 tags: ["portulak", "omega3", "salat", "superfood", "entzündung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["omega-3-reich", "entzündungshemmend", "harntreibend", "vitaminreich"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/portulak-1.webp"
+bild_nachweis: "Radio Tonreg from Vienna, Austria, CC BY 2.0"
 ---
 
 # Portulak
@@ -38,10 +43,10 @@ Kraut, Blätter
 - [Sodbrennen / Reflux](../beschwerde/sodbrennen.md)
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
 - [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
-- [[magenentzuendung]]
-- [[hautentzuendung]]
-- [[omega3mangel]]
-- [[harnwegsentzuendung]]
+- [Magenentzündung](../beschwerde/magenentzuendung.md)
+- [Hautentzündung](../beschwerde/hautentzuendung.md)
+- [Omega3mangel](../beschwerde/omega3mangel.md)
+- [Harnwegsentzündung](../beschwerde/harnwegsentzuendung.md)
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
 
 ## Beschreibung
@@ -141,6 +146,20 @@ In der Volksmedizin galt Portulak als "Salat für die Kranken". Er wurde bei Fie
 ## Mehr dazu
 
 - [Portulak bei der Quelle](https://heilkräuter.de/lexikon/portulak.htm)
+
+## Fotos
+
+![Portulak, Foto 1](https://heildepot.wir.ooo/bilder/kraut/portulak-1.webp)
+
+Foto 1: Radio Tonreg from Vienna, Austria, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Portulaca_oleracea_(8349675986).jpg)
+
+![Portulak, Foto 2](https://heildepot.wir.ooo/bilder/kraut/portulak-2.webp)
+
+Foto 2: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20140723Portulaca_oleracea1.jpg)
+
+![Portulak, Foto 3](https://heildepot.wir.ooo/bilder/kraut/portulak-3.webp)
+
+Foto 3: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20140723Portulaca_oleracea2.jpg)
 
 ## Im Heildepot
 

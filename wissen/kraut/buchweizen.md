@@ -7,6 +7,11 @@ familie: "Knöterichgewächse (Polygonaceae)"
 pflanzenteile: "Kraut, Samen"
 tags: ["buchweizen", "gefäße", "krampfadern", "glutenfrei", "rutin"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["gefäßstärkend", "durchblutungsfördernd", "entzündungshemmend", "glutenfrei"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/buchweizen-1.webp"
+bild_nachweis: "Bjoertvedt, CC BY-SA 3.0"
 ---
 
 # Buchweizen
@@ -38,11 +43,11 @@ Kraut, Samen
 - [Bluthochdruck / Herz-Kreislauf](../beschwerde/bluthochdruck.md)
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
 - [Hämorrhoiden](../beschwerde/haemorrhoiden.md)
-- [[besenreiser]]
-- [[venenschwaeche]]
-- [[kapillarbrueche]]
+- [Krampfadern / Venenschwäche / Durchblutung](../beschwerde/krampfadern.md)
+- [Venenschwäche](../beschwerde/venenschwaeche.md)
+- [Kapillarbrüche](../beschwerde/kapillarbrueche.md)
 - [Diabetes](../beschwerde/diabetes.md)
-- [[zoeliakie]]
+- [Zöliakie](../beschwerde/zoeliakie.md)
 
 ## Beschreibung
 
@@ -142,6 +147,20 @@ In Russland und Osteuropa war Buchweizen-Brei (Kasha) die Grundnahrung der Landb
 ## Mehr dazu
 
 - [Buchweizen bei der Quelle](https://heilkräuter.de/lexikon/buchweizen.htm)
+
+## Fotos
+
+![Buchweizen, Foto 1](https://heildepot.wir.ooo/bilder/kraut/buchweizen-1.webp)
+
+Foto 1: Bjoertvedt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Fagopyrum_esculentum_01.jpg)
+
+![Buchweizen, Foto 2](https://heildepot.wir.ooo/bilder/kraut/buchweizen-2.webp)
+
+Foto 2: MSacerdoti, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Donatodonatigrida.jpg)
+
+![Buchweizen, Foto 3](https://heildepot.wir.ooo/bilder/kraut/buchweizen-3.webp)
+
+Foto 3: Maria Weronika Kmoch, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bra%C5%84szczyk_gryka.jpg)
 
 ## Im Heildepot
 

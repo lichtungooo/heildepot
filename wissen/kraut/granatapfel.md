@@ -7,6 +7,11 @@ familie: "Weiderichgewächse (Lythraceae)"
 pflanzenteile: "Früchte, Samen, Schale"
 tags: ["granatapfel", "herz", "antioxidativ", "östrogen", "fruchtbarkeit"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["antioxidativ", "entzündungshemmend", "hormonausgleichend", "herzschützend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/granatapfel-1.webp"
+bild_nachweis: "No machine-readable author provided. CaptainHaddock assumed (based on copyright claims)., CC BY-SA 3.0"
 ---
 
 # Granatapfel
@@ -39,10 +44,10 @@ Früchte, Samen, Schale
 - [Prostata / Männergesundheit](../beschwerde/prostata.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Bluthochdruck / Herz-Kreislauf](../beschwerde/bluthochdruck.md)
-- [[alter]]
-- [[gefaesse]]
+- [Alter](../beschwerde/alter.md)
+- [Bluthochdruck / Herz-Kreislauf](../beschwerde/bluthochdruck.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
-- [[darm]]
+- [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 
 ## Beschreibung
 
@@ -145,6 +150,20 @@ Im Nahen Osten gilt der Granatapfel als Frucht des Paradieses. Persische Großm�
 ## Mehr dazu
 
 - [Granatapfel bei der Quelle](https://heilkräuter.de/lexikon/granatapfel.htm)
+
+## Fotos
+
+![Granatapfel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/granatapfel-1.webp)
+
+Foto 1: No machine-readable author provided. CaptainHaddock assumed (based on copyright claims)., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Grenadier.JPG)
+
+![Granatapfel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/granatapfel-2.webp)
+
+Foto 2: Ellywa at nl.wikipedia, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Boom_met_granaatappels.JPG)
+
+![Granatapfel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/granatapfel-3.webp)
+
+Foto 3: Karelj, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Granat_jablko.jpg)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Heidekrautgewächse (Ericaceae)"
 pflanzenteile: "Beeren"
 tags: ["cranberry", "blase", "harnwege", "antioxidantien"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["antibakteriell", "antioxidativ", "harnwegsschützend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/cranberry-1.webp"
+bild_nachweis: "Keith Weller, USDA-ARS, Public domain"
 ---
 
 # Cranberry
@@ -37,10 +42,10 @@ Beeren
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
-- [[harnwegsinfekt]]
-- [[blase]]
-- [[nieren]]
-- [[frauengesundheit]]
+- [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
+- [Prostata / Männergesundheit](../beschwerde/prostata.md)
+- [Nieren](../beschwerde/nieren.md)
+- [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
 
 ## Beschreibung
 
@@ -139,6 +144,20 @@ Die Ureinwohner Nordamerikas legten zerdrückte Cranberries auf Pfeilwunden, um 
 ## Mehr dazu
 
 - [Cranberry bei der Quelle](https://heilkräuter.de/lexikon/cranberry.htm)
+
+## Fotos
+
+![Cranberry, Foto 1](https://heildepot.wir.ooo/bilder/kraut/cranberry-1.webp)
+
+Foto 1: Keith Weller, USDA-ARS, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Cranberrys_beim_Ernten.jpeg)
+
+![Cranberry, Foto 2](https://heildepot.wir.ooo/bilder/kraut/cranberry-2.webp)
+
+Foto 2: Photo by Keith Weller, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Cranberry_bog.jpg)
+
+![Cranberry, Foto 3](https://heildepot.wir.ooo/bilder/kraut/cranberry-3.webp)
+
+Foto 3: Royalbroil, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:CranberryBogWIS73WIS13.jpg)
 
 ## Im Heildepot
 

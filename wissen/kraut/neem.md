@@ -7,6 +7,11 @@ familie: "Mahagonigewächse (Meliaceae)"
 pflanzenteile: "Blätter, Samen, Rinde"
 tags: ["neem", "haut", "parasiten", "ayurveda", "antibakteriell"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["antibakteriell", "antiparasitär", "hautpflegend", "blutzuckerregulierend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/neem-1.webp"
+bild_nachweis: "Thamizhpparithi Maari, CC BY-SA 3.0"
 ---
 
 # Neem
@@ -39,9 +44,9 @@ Blätter, Samen, Rinde
 - [Pilzinfektionen / Candida](../beschwerde/candida.md)
 - [Zähne / Mundraum / Zahnfleisch](../beschwerde/zaehne.md)
 - [Akne / Unreine Haut](../beschwerde/akne.md)
-- [[pilzinfektionen]]
+- [Pilzinfektionen](../beschwerde/pilzinfektionen.md)
 - [Diabetes](../beschwerde/diabetes.md)
-- [[blutreinigung]]
+- [Blutreinigung](../beschwerde/blutreinigung.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ In indischen Dörfern werden Neem-Blätter in die Betten gelegt, um Insekten fer
 ## Mehr dazu
 
 - [Neem bei der Quelle](https://heilkräuter.de/lexikon/neem.htm)
+
+## Fotos
+
+![Neem, Foto 1](https://heildepot.wir.ooo/bilder/kraut/neem-1.webp)
+
+Foto 1: Thamizhpparithi Maari, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:A_depiction_of_selling_Neem_sticks.JPG)
+
+![Neem, Foto 2](https://heildepot.wir.ooo/bilder/kraut/neem-2.webp)
+
+Foto 2: Arivumathi, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:%22Neem_tree%22.JPG)
+
+![Neem, Foto 3](https://heildepot.wir.ooo/bilder/kraut/neem-3.webp)
+
+Foto 3: Biswarup Ganguly, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Accipitridae_on_Azadirachta_indica_-_Howrah_2013-06-07_8898.JPG)
 
 ## Im Heildepot
 

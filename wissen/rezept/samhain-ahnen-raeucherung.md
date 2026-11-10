@@ -3,23 +3,25 @@ art: "rezept"
 id: "samhain-ahnen-raeucherung"
 name: "Samhain-Ahnen-Räucherung: Brücke zu den Altvorderen"
 tradition: "Hexenwissen"
-kategorie: "Jahreskreis-Rezepte"
 tags: ["jahreskreis", "samhain", "räucherung", "ahnen", "hexenwissen", "reinigung", "schleier"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Jahreskreis-Rezepte"
 ---
 
 # Samhain-Ahnen-Räucherung: Brücke zu den Altvorderen
 
 ## Hilft bei
 
-- [[samhain]]
-- [[ahnen]]
-- [[reinigung]]
-- [[schutz]]
-- [[uebergang]]
-- [[trauer]]
-- [[erinnerung]]
-- [[loslassen]]
+- [Samhain](../beschwerde/samhain.md)
+- [Ahnen](../beschwerde/ahnen.md)
+- [Parasiten / Würmer / Darmparasiten](../beschwerde/parasiten.md)
+- [Schutz](../beschwerde/schutz.md)
+- [Übergang](../beschwerde/uebergang.md)
+- [Trauer](../beschwerde/trauer.md)
+- [Erinnerung](../beschwerde/erinnerung.md)
+- [Loslassen](../beschwerde/loslassen.md)
 
 ## Schwierigkeit
 

@@ -7,6 +7,11 @@ familie: "Kieferngewächse"
 pflanzenteile: "Junge Triebe, Nadeln, Harz"
 tags: ["fichte", "husten", "maiwipferl", "bad", "wald"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "durchblutungsfördernd", "antiseptisch", "schmerzlindernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/fichte-1.webp"
+bild_nachweis: "Danny S., CC BY-SA 3.0"
 ---
 
 # Fichte
@@ -40,6 +45,20 @@ Junge Triebe, Nadeln, Harz
 ## Mehr dazu
 
 - [Fichte bei der Quelle](https://heilkräuter.de/lexikon/fichte.htm)
+
+## Fotos
+
+![Fichte, Foto 1](https://heildepot.wir.ooo/bilder/kraut/fichte-1.webp)
+
+Foto 1: Danny S., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Deforested-766.JPG)
+
+![Fichte, Foto 2](https://heildepot.wir.ooo/bilder/kraut/fichte-2.webp)
+
+Foto 2: Herzi Pinki, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Almesbrunnberg,_trees.jpg)
+
+![Fichte, Foto 3](https://heildepot.wir.ooo/bilder/kraut/fichte-3.webp)
+
+Foto 3: Crusier, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Czarciamiotla.JPG)
 
 ## Im Heildepot
 

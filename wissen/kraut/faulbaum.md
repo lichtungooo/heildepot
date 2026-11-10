@@ -7,6 +7,11 @@ familie: "Kreuzdorngewächse (Rhamnaceae)"
 pflanzenteile: "Rinde"
 tags: ["faulbaum", "abführmittel", "verstopfung", "rinde"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["abführend", "gallefördernd", "verdauungsanregend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/faulbaum-1.webp"
+bild_nachweis: "User:Aelwyn, CC BY-SA 3.0"
 ---
 
 # Faulbaum
@@ -35,8 +40,8 @@ Rinde
 
 - [Verstopfung / Darmträgheit](../beschwerde/verstopfung.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
-- [[darmtraegheit]]
-- [[entschlackung]]
+- [Verstopfung / Darmträgheit](../beschwerde/verstopfung.md)
+- [Entschlackung](../beschwerde/entschlackung.md)
 
 ## Beschreibung
 
@@ -126,6 +131,20 @@ Der Faulbaum war das "Hausmittel Nummer eins" bei Verstopfung auf dem Land. Die 
 ## Mehr dazu
 
 - [Faulbaum bei der Quelle](https://heilkräuter.de/lexikon/faulbaum.htm)
+
+## Fotos
+
+![Faulbaum, Foto 1](https://heildepot.wir.ooo/bilder/kraut/faulbaum-1.webp)
+
+Foto 1: User:Aelwyn, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Frangula_alnus_NRM.jpg)
+
+![Faulbaum, Foto 2](https://heildepot.wir.ooo/bilder/kraut/faulbaum-2.webp)
+
+Foto 2: Franz Xaver, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Frangula_alnus_2.jpg)
+
+![Faulbaum, Foto 3](https://heildepot.wir.ooo/bilder/kraut/faulbaum-3.webp)
+
+Foto 3: 4028mdk09, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Frangula_alnus_%26_Vicia_cracca.jpg)
 
 ## Im Heildepot
 

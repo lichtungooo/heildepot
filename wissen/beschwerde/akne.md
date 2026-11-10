@@ -4,6 +4,8 @@ id: "akne"
 name: "Akne / Unreine Haut"
 tags: ["akne", "haut", "entzündung", "hormone", "entgiftung"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Akne / Unreine Haut

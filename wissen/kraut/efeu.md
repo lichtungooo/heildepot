@@ -7,6 +7,11 @@ familie: "Araliengewächse (Araliaceae)"
 pflanzenteile: "Blätter"
 tags: ["efeu", "husten", "bronchitis", "schleimlösend"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "krampflösend", "auswurffördernd", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/efeu-1.webp"
+bild_nachweis: "Sitomon, CC BY-SA 2.0"
 ---
 
 # Efeu
@@ -37,10 +42,10 @@ Blätter
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Asthma / Atemwege](../beschwerde/asthma.md)
-- [[bronchitis]]
-- [[atemwege]]
+- [Husten / Bronchitis](../beschwerde/husten.md)
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Cellulite / Bindegewebsschwäche](../beschwerde/cellulite.md)
-- [[verschleimung]]
+- [Verschleimung](../beschwerde/verschleimung.md)
 
 ## Beschreibung
 
@@ -138,6 +143,20 @@ Bauern legten Efeublätter in die Schuhe, um müde Füße zu beleben, und auf di
 ## Mehr dazu
 
 - [Efeu bei der Quelle](https://heilkräuter.de/lexikon/efeu.htm)
+
+## Fotos
+
+![Efeu, Foto 1](https://heildepot.wir.ooo/bilder/kraut/efeu-1.webp)
+
+Foto 1: Sitomon, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Burren_(Sitomon).jpg)
+
+![Efeu, Foto 2](https://heildepot.wir.ooo/bilder/kraut/efeu-2.webp)
+
+Foto 2: Linda Spashett Storye book, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Cliffecastlemus_079.jpg)
+
+![Efeu, Foto 3](https://heildepot.wir.ooo/bilder/kraut/efeu-3.webp)
+
+Foto 3: Vera Buhl, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:2010-02-17_(4)_bird.JPG)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Hahnenfußgewächse (Ranunculaceae)"
 pflanzenteile: "Rinde, Beeren"
 tags: ["gelbholz", "durchblutung", "rheuma", "zahnschmerzen", "wärmend"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["durchblutungsfördernd", "verdauungsanregend", "schmerzlindernd", "wärmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/gelbholz-1.webp"
+bild_nachweis: "A. Barra, CC BY-SA 4.0"
 ---
 
 # Gelbholz
@@ -38,13 +43,13 @@ Rinde, Beeren
 - [Gelenkschmerzen / Arthrose](../beschwerde/arthrose.md)
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
 - [Zähne / Mundraum / Zahnfleisch](../beschwerde/zaehne.md)
-- [[infektion]]
-- [[zahnfleisch]]
-- [[mundschleimhaut]]
+- [Infektion](../beschwerde/infektion.md)
+- [Zähne / Mundraum / Zahnfleisch](../beschwerde/zaehne.md)
+- [Mundschleimhaut](../beschwerde/mundschleimhaut.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
-- [[augenentzuendung]]
-- [[harnwege]]
+- [Augenentzündung](../beschwerde/augenentzuendung.md)
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
 
 ## Beschreibung
 
@@ -143,6 +148,20 @@ Die Cherokee zerkauten die Wurzel bei Mundinfektionen und trugen den gelben Saft
 ## Mehr dazu
 
 - [Gelbholz bei der Quelle](https://heilkräuter.de/lexikon/gelbholz.htm)
+
+## Fotos
+
+![Gelbholz, Foto 1](https://heildepot.wir.ooo/bilder/kraut/gelbholz-1.webp)
+
+Foto 1: A. Barra, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Zantthoxylum_americanum.jpg)
+
+![Gelbholz, Foto 2](https://heildepot.wir.ooo/bilder/kraut/gelbholz-2.webp)
+
+Foto 2: Meneerke bloem, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Zanthoxylum_americanum01.jpg)
+
+![Gelbholz, Foto 3](https://heildepot.wir.ooo/bilder/kraut/gelbholz-3.webp)
+
+Foto 3: Meneerke bloem, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Zanthoxylum_americanum02.jpg)
 
 ## Im Heildepot
 

@@ -3,21 +3,23 @@ art: "rezept"
 id: "hexen-haartrank"
 name: "Hexen-Haartrank: Für Löwenmähne und Rapunzelhaar"
 tradition: "Hexenwissen"
-kategorie: "Schönheit & Jugend"
 tags: ["haarpflege", "brennnessel", "rosmarin", "schönheit", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Schönheit & Jugend"
 ---
 
 # Hexen-Haartrank: Für Löwenmähne und Rapunzelhaar
 
 ## Hilft bei
 
-- [[haarausfall]]
-- [[duennes-haar]]
-- [[haarwachstum]]
-- [[schuppen]]
-- [[kopfhaut]]
-- [[glanz]]
+- [Haarausfall / Haargesundheit](../beschwerde/haarverlust.md)
+- [Dünnes haar](../beschwerde/duennes-haar.md)
+- [Haarausfall / Haargesundheit](../beschwerde/haarverlust.md)
+- [Schuppen](../beschwerde/schuppen.md)
+- [Haarausfall / Haargesundheit](../beschwerde/haarverlust.md)
+- [Glanz](../beschwerde/glanz.md)
 
 ## Schwierigkeit
 

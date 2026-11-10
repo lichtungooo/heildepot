@@ -7,6 +7,11 @@ familie: "Wegerichgewächse (Plantaginaceae)"
 pflanzenteile: "Blätter"
 tags: ["spitzwegerich", "husten", "insektenstich", "bronchitis", "wundheilung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "antibakteriell", "hustenlindernd", "wundheilend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/spitzwegerich-1.webp"
+bild_nachweis: "Pleple2000, CC BY-SA 3.0"
 ---
 
 # Spitzwegerich
@@ -38,10 +43,10 @@ Blätter
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Asthma / Atemwege](../beschwerde/asthma.md)
-- [[bronchitis]]
+- [Husten / Bronchitis](../beschwerde/husten.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
 - [Insektenstiche / Allergische Reaktion](../beschwerde/insektenstiche.md)
-- [[atemwege]]
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 
 ## Beschreibung
@@ -153,6 +158,20 @@ Wanderer legten Spitzwegerichblätter in ihre Schuhe gegen Blasen und wunde Fü�
 ## Mehr dazu
 
 - [Spitzwegerich bei der Quelle](https://heilkräuter.de/lexikon/spitzweg.htm)
+
+## Fotos
+
+![Spitzwegerich, Foto 1](https://heildepot.wir.ooo/bilder/kraut/spitzwegerich-1.webp)
+
+Foto 1: Pleple2000, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Babka_lancetowata_3420.jpg)
+
+![Spitzwegerich, Foto 2](https://heildepot.wir.ooo/bilder/kraut/spitzwegerich-2.webp)
+
+Foto 2: tb240904, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Flowers_27_June_2010_(34).JPG)
+
+![Spitzwegerich, Foto 3](https://heildepot.wir.ooo/bilder/kraut/spitzwegerich-3.webp)
+
+Foto 3: 4028mdk09, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bl%C3%BChende_Blumenwiese.JPG)
 
 ## Im Heildepot
 

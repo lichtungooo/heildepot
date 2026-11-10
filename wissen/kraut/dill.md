@@ -7,6 +7,11 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Kraut, Samen"
 tags: ["dill", "blähungen", "baby", "verdauung", "küche"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["krampflösend", "blähungswidrig", "milchfördernd", "beruhigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/dill-1.webp"
+bild_nachweis: "AnRo0002, CC0"
 ---
 
 # Dill
@@ -38,10 +43,10 @@ Kraut, Samen
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
 - [Schlafthemen](../beschwerde/schlaf.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[koliken]]
-- [[stillen]]
-- [[schlafprobleme]]
-- [[appetitlosigkeit]]
+- [Koliken](../beschwerde/koliken.md)
+- [Stillen](../beschwerde/stillen.md)
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
 
 ## Beschreibung
 
@@ -139,6 +144,20 @@ Großmütter kannten den Trick: Ein Teelöffel Dillsamen, langsam gekaut, vertre
 ## Mehr dazu
 
 - [Dill bei der Quelle](https://heilkräuter.de/lexikon/dill.htm)
+
+## Fotos
+
+![Dill, Foto 1](https://heildepot.wir.ooo/bilder/kraut/dill-1.webp)
+
+Foto 1: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20141003Anethum_graveolens.jpg)
+
+![Dill, Foto 2](https://heildepot.wir.ooo/bilder/kraut/dill-2.webp)
+
+Foto 2: Indonesiagood, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Adas_Sowa_di_Bale_Tani.jpg)
+
+![Dill, Foto 3](https://heildepot.wir.ooo/bilder/kraut/dill-3.webp)
+
+Foto 3: Nourrmousa, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:A_picture_I_took_in_Egypt_of_Anethum_graveolens,commonly_known_as_dill.jpg)
 
 ## Im Heildepot
 

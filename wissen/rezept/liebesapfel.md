@@ -3,21 +3,23 @@ art: "rezept"
 id: "liebesapfel"
 name: "Liebesäpfel: Der klassische Liebeszauber"
 tradition: "Grimoire"
-kategorie: "Liebesmagie"
 tags: ["Liebesmagie", "Liebesapfel", "Venus", "Volksmagie", "Aphrodite", "Ritual", "Ungefährlich", "Liebeszauber"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Liebesmagie"
 ---
 
 # Liebesäpfel: Der klassische Liebeszauber
 
 ## Hilft bei
 
-- [[Liebesmagie]]
-- [[Liebeszauber]]
-- [[Venus]]
-- [[Apfel]]
-- [[Ritual]]
-- [[Volksmagie]]
+- [Liebesmagie](../beschwerde/liebesmagie.md)
+- [Liebeszauber](../beschwerde/liebeszauber.md)
+- [Venus](../beschwerde/venus.md)
+- [Apfel](../beschwerde/apfel.md)
+- [Ritual](../beschwerde/ritual.md)
+- [Volksmagie](../beschwerde/volksmagie.md)
 
 ## Schwierigkeit
 

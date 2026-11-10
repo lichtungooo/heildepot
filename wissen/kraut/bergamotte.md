@@ -7,6 +7,11 @@ familie: "Rautengewächse"
 pflanzenteile: "Fruchtschale, ätherisches Öl"
 tags: ["bergamotte", "aromatherapie", "stimmung", "earlgrey", "ätherischesöl"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["stimmungsaufhellend", "antiseptisch", "krampflösend", "beruhigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/bergamotte-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 3.0"
 ---
 
 # Bergamotte
@@ -40,6 +45,20 @@ Fruchtschale, ätherisches Öl
 ## Mehr dazu
 
 - [Bergamotte bei der Quelle](https://heilkräuter.de/lexikon/bergamotte.htm)
+
+## Fotos
+
+![Bergamotte, Foto 1](https://heildepot.wir.ooo/bilder/kraut/bergamotte-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bergamottepflanze.jpg)
+
+![Bergamotte, Foto 2](https://heildepot.wir.ooo/bilder/kraut/bergamotte-2.webp)
+
+Foto 2: io, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Cass_bergamotto.jpg)
+
+![Bergamotte, Foto 3](https://heildepot.wir.ooo/bilder/kraut/bergamotte-3.webp)
+
+Foto 3: Flickr user: Xenocryst @ Antares Scorpii ( https://www.flickr.com/photos/antares/ ), CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bergamotfruit.jpg)
 
 ## Im Heildepot
 

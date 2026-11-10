@@ -4,6 +4,8 @@ id: "trauma"
 name: "Trauma / PTBS / Seelische Verletzung"
 tags: ["trauma", "ptbs", "ptsd", "seele", "nervensystem", "angst", "heilung"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Trauma / PTBS / Seelische Verletzung

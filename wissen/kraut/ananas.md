@@ -7,6 +7,11 @@ familie: "Bromeliengewächse"
 pflanzenteile: "Frucht, Stamm (Bromelain)"
 tags: ["ananas", "bromelain", "entzündung", "verdauung", "vitaminc"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["entzündungshemmend", "verdauungsfördernd", "abschwellend", "immunstärkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/ananas-1.webp"
+bild_nachweis: "Derkiesi, CC BY-SA 3.0"
 ---
 
 # Ananas
@@ -40,6 +45,20 @@ Frucht, Stamm (Bromelain)
 ## Mehr dazu
 
 - [Ananas bei der Quelle](https://heilkräuter.de/lexikon/ananas.htm)
+
+## Fotos
+
+![Ananas, Foto 1](https://heildepot.wir.ooo/bilder/kraut/ananas-1.webp)
+
+Foto 1: Derkiesi, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:%22Nova_Agrippina%22.JPG)
+
+![Ananas, Foto 2](https://heildepot.wir.ooo/bilder/kraut/ananas-2.webp)
+
+Foto 2: James Steakley, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ananas_comosus_(DITSL).JPG)
+
+![Ananas, Foto 3](https://heildepot.wir.ooo/bilder/kraut/ananas-3.webp)
+
+Foto 3: Yercaud-elango, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ananas_comosum-1-yercaud-salem-India.JPG)
 
 ## Im Heildepot
 

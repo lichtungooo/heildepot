@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Kraut"
 tags: ["eberraute", "verdauung", "würmer", "motten", "appetit"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "wurmtreibend", "appetitanregend", "menstruationsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/eberraute-1.webp"
+bild_nachweis: "Kurt Stüber [1], CC BY-SA 3.0"
 ---
 
 # Eberraute
@@ -36,12 +41,12 @@ Kraut
 
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Parasiten / Würmer / Darmparasiten](../beschwerde/parasiten.md)
-- [[appetitlosigkeit]]
-- [[verdauungsschwaeche]]
-- [[gallenbeschwerden]]
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
+- [Verdauungsschwäche](../beschwerde/verdauungsschwaeche.md)
+- [Gallenbeschwerden](../beschwerde/gallenbeschwerden.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[wuermer]]
-- [[mottenbefall]]
+- [Parasiten / Würmer / Darmparasiten](../beschwerde/parasiten.md)
+- [Mottenbefall](../beschwerde/mottenbefall.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ In der Volksmedizin war die Eberraute das "Allheilmittel des Bauerngartens". Bei
 ## Mehr dazu
 
 - [Eberraute bei der Quelle](https://heilkräuter.de/lexikon/eberraut.htm)
+
+## Fotos
+
+![Eberraute, Foto 1](https://heildepot.wir.ooo/bilder/kraut/eberraute-1.webp)
+
+Foto 1: Kurt Stüber [1], CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Artemisia_abrotanum0.jpg)
+
+![Eberraute, Foto 2](https://heildepot.wir.ooo/bilder/kraut/eberraute-2.webp)
+
+Foto 2: Jmn, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Arquebusejardin2.JPG)
+
+![Eberraute, Foto 3](https://heildepot.wir.ooo/bilder/kraut/eberraute-3.webp)
+
+Foto 3: Raffi Kojian, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Gardenology.org-IMG_2772_rbgs11jan.jpg)
 
 ## Im Heildepot
 

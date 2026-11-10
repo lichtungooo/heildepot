@@ -3,20 +3,22 @@ art: "rezept"
 id: "waldmeister-met-der-druiden"
 name: "Waldmeister-Met der Druiden: Heiliger Beltane-Trunk"
 tradition: "Hexenwissen"
-kategorie: "Regeneration & Detox"
 tags: ["met", "waldmeister", "druiden", "beltane", "hexenrezept", "fermentation"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Regeneration & Detox"
 ---
 
 # Waldmeister-Met der Druiden: Heiliger Beltane-Trunk
 
 ## Hilft bei
 
-- [[beltane]]
-- [[fruehling]]
-- [[zeremonie]]
-- [[geselligkeit]]
-- [[tradition]]
+- [Beltane](../beschwerde/beltane.md)
+- [Frühling](../beschwerde/fruehling.md)
+- [Zeremonie](../beschwerde/zeremonie.md)
+- [Geselligkeit](../beschwerde/geselligkeit.md)
+- [Tradition](../beschwerde/tradition.md)
 
 ## Schwierigkeit
 

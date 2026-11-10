@@ -4,6 +4,8 @@ id: "wunden"
 name: "Wunden / Verletzungen / Wundheilung"
 tags: ["wunden", "verletzungen", "wundheilung", "schnitte", "schürfwunden", "narben", "regeneration"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Wunden / Verletzungen / Wundheilung

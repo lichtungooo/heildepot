@@ -7,6 +7,11 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Blätter"
 tags: ["gotukola", "gehirn", "venen", "wundheilung", "ayurveda"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["wundheilend", "gefäßstärkend", "gedächtnisfördernd", "beruhigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/gotu-kola-1.webp"
+bild_nachweis: "Marcia  Stefani, CC BY 2.0"
 ---
 
 # Gotu Kola
@@ -39,11 +44,11 @@ Blätter
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
 - [Angst / Panikattacken](../beschwerde/angst.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
-- [[konzentration]]
-- [[gedaechtnis]]
-- [[wundheilung]]
-- [[bindegewebe]]
-- [[nerven]]
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
+- [Demenz / Alzheimer / Vergesslichkeit](../beschwerde/demenz.md)
+- [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
+- [Cellulite / Bindegewebsschwäche](../beschwerde/cellulite.md)
+- [Fibromyalgie / Chronischer Schmerz](../beschwerde/fibromyalgie.md)
 
 ## Beschreibung
 
@@ -141,6 +146,20 @@ In Sri Lanka gibt es das Sprichwort: "Wer jeden Tag zwei Gotu Kola-Blätter isst
 ## Mehr dazu
 
 - [Gotu Kola bei der Quelle](https://heilkräuter.de/lexikon/gotu-kola.htm)
+
+## Fotos
+
+![Gotu Kola, Foto 1](https://heildepot.wir.ooo/bilder/kraut/gotu-kola-1.webp)
+
+Foto 1: Marcia  Stefani, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Centella_asiatica_1.jpg)
+
+![Gotu Kola, Foto 2](https://heildepot.wir.ooo/bilder/kraut/gotu-kola-2.webp)
+
+Foto 2: Sanjay Acharya, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Asiatic_Pennywort.jpg)
+
+![Gotu Kola, Foto 3](https://heildepot.wir.ooo/bilder/kraut/gotu-kola-3.webp)
+
+Foto 3: মৌচুমী, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bor-manimuni.JPG)
 
 ## Im Heildepot
 

@@ -3,20 +3,22 @@ art: "rezept"
 id: "hildegard-augenmittel"
 name: "Hildegards Augenheilmittel: Fenchel und Morgentau"
 tradition: "Klostermedizin"
-kategorie: "Hildegard"
 tags: ["hildegard", "fenchel", "augen", "morgentau", "nachtanwendung", "entzündungshemmend"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Hildegard"
 ---
 
 # Hildegards Augenheilmittel: Fenchel und Morgentau
 
 ## Hilft bei
 
-- [[trübe Augen]]
-- [[müde Augen]]
-- [[Augenentzündung]]
-- [[Bildschirmaugen]]
-- [[nachlassende Sehkraft]]
+- [Trübe augen](../beschwerde/truebe-augen.md)
+- [Müde augen](../beschwerde/muede-augen.md)
+- [Augenentzündung](../beschwerde/augenentzuendung.md)
+- [Bildschirmaugen](../beschwerde/bildschirmaugen.md)
+- [Nachlassende sehkraft](../beschwerde/nachlassende-sehkraft.md)
 
 ## Schwierigkeit
 

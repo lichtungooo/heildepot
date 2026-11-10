@@ -3,20 +3,22 @@ art: "rezept"
 id: "morgenrot-elixier"
 name: "Morgenrot-Elixier: Der ultimative Morgen-Shot"
 tradition: "Hexenwissen"
-kategorie: "Energie & Power"
 tags: ["morgenshot", "matcha", "ingwer", "apfelessig", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Energie & Power"
 ---
 
 # Morgenrot-Elixier: Der ultimative Morgen-Shot
 
 ## Hilft bei
 
-- [[morgenroutine]]
-- [[energie]]
+- [Morgenroutine](../beschwerde/morgenroutine.md)
+- [Burnout / Chronische Erschöpfung](../beschwerde/burnout.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
-- [[immunschutz]]
-- [[fokus]]
+- [Immunschutz](../beschwerde/immunschutz.md)
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
 
 ## Schwierigkeit
 

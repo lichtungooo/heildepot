@@ -7,6 +7,11 @@ familie: "Myrtengewächse (Myrtaceae)"
 pflanzenteile: "Früchte"
 tags: ["camucamu", "vitaminC", "immunsystem", "antioxidativ", "superfood"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["immunstärkend", "antioxidativ", "entzündungshemmend", "stimmungsaufhellend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/camu-camu-1.webp"
+bild_nachweis: "No machine-readable author provided. Jdettner~commonswiki assumed (based on copyright claims)., Public domain"
 ---
 
 # Camu Camu
@@ -40,9 +45,9 @@ Früchte
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
-- [[alter]]
+- [Alter](../beschwerde/alter.md)
 - [Augenprobleme / Sehschwäche](../beschwerde/augen.md)
-- [[kollagen]]
+- [Kollagen](../beschwerde/kollagen.md)
 
 ## Beschreibung
 
@@ -145,6 +150,20 @@ Die Flussbewohner des Amazonas sagen: "Wer Camu Camu isst, wird nicht krank." Fi
 ## Mehr dazu
 
 - [Camu Camu bei der Quelle](https://heilkräuter.de/lexikon/camu-camu.htm)
+
+## Fotos
+
+![Camu Camu, Foto 1](https://heildepot.wir.ooo/bilder/kraut/camu-camu-1.webp)
+
+Foto 1: No machine-readable author provided. Jdettner~commonswiki assumed (based on copyright claims)., Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Camucamu_seeds.jpg)
+
+![Camu Camu, Foto 2](https://heildepot.wir.ooo/bilder/kraut/camu-camu-2.webp)
+
+Foto 2: LeRoc, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Camu-camu.JPG)
+
+![Camu Camu, Foto 3](https://heildepot.wir.ooo/bilder/kraut/camu-camu-3.webp)
+
+Foto 3: Vojtěch Zavadil, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:13750-Myrciaria_dubia-Washadi.jpg)
 
 ## Im Heildepot
 

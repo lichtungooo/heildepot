@@ -7,6 +7,11 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Blätter, Früchte"
 tags: ["brombeere", "durchfall", "vitamine", "gerbstoffe", "sommer"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["adstringierend", "vitaminreich", "entzündungshemmend", "blutstillend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/brombeere-1.webp"
+bild_nachweis: "Hugh Chevallier, CC BY-SA 2.0"
 ---
 
 # Brombeere
@@ -38,10 +43,10 @@ Blätter, Früchte
 - [Angina / Mandelentzündung / Halsschmerzen](../beschwerde/angina.md)
 - [Zähne / Mundraum / Zahnfleisch](../beschwerde/zaehne.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
-- [[mundentzuendung]]
-- [[halsentzuendung]]
+- [Mundentzündung](../beschwerde/mundentzuendung.md)
+- [Halsentzündung](../beschwerde/halsentzuendung.md)
 - [Hämorrhoiden](../beschwerde/haemorrhoiden.md)
-- [[immunstaerkung]]
+- [Immunstärkung](../beschwerde/immunstaerkung.md)
 
 ## Beschreibung
 
@@ -146,6 +151,20 @@ In der Volksheilkunde war der Brombeerblättertee das Hausmittel Nummer eins geg
 ## Mehr dazu
 
 - [Brombeere bei der Quelle](https://heilkräuter.de/lexikon/brombeer.htm)
+
+## Fotos
+
+![Brombeere, Foto 1](https://heildepot.wir.ooo/bilder/kraut/brombeere-1.webp)
+
+Foto 1: Hugh Chevallier, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Approaching_autumn_-_geograph.org.uk_-_248273.jpg)
+
+![Brombeere, Foto 2](https://heildepot.wir.ooo/bilder/kraut/brombeere-2.webp)
+
+Foto 2: Brian Green, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:A_gap_in_the_hedge_-_geograph.org.uk_-_590653.jpg)
+
+![Brombeere, Foto 3](https://heildepot.wir.ooo/bilder/kraut/brombeere-3.webp)
+
+Foto 3: Anne Burgess, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bramble_(Rubus_fruticosus)_-_geograph.org.uk_-_1380777.jpg)
 
 ## Im Heildepot
 

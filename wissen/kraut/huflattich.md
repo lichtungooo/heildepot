@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Blüten, Blätter"
 tags: ["huflattich", "husten", "bronchitis", "heiserkeit", "atemwege"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "hustenlindernd", "reizlindernd", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/huflattich-1.webp"
+bild_nachweis: "OhWeh, CC BY-SA 3.0"
 ---
 
 # Huflattich
@@ -37,10 +42,10 @@ Blüten, Blätter
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Asthma / Atemwege](../beschwerde/asthma.md)
-- [[reizhusten]]
-- [[bronchitis]]
-- [[verschleimung]]
-- [[atemwege]]
+- [Reizhusten](../beschwerde/reizhusten.md)
+- [Husten / Bronchitis](../beschwerde/husten.md)
+- [Verschleimung](../beschwerde/verschleimung.md)
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Heiserkeit / Stimmbandprobleme](../beschwerde/heiserkeit.md)
 
 ## Beschreibung
@@ -137,6 +142,20 @@ Huflattich war das Hustenkraut schlechthin, in jedem Bauernhaus hingen im Frühl
 ## Mehr dazu
 
 - [Huflattich bei der Quelle](https://heilkräuter.de/lexikon/huflat.htm)
+
+## Fotos
+
+![Huflattich, Foto 1](https://heildepot.wir.ooo/bilder/kraut/huflattich-1.webp)
+
+Foto 1: OhWeh, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Huflattich_Tussilago_farfara_001.jpg)
+
+![Huflattich, Foto 2](https://heildepot.wir.ooo/bilder/kraut/huflattich-2.webp)
+
+Foto 2: Enrico Blasutto, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Tussilago_farfara_ENBLA03.jpeg)
+
+![Huflattich, Foto 3](https://heildepot.wir.ooo/bilder/kraut/huflattich-3.webp)
+
+Foto 3: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20130310Tussilago_farfara1.jpg)
 
 ## Im Heildepot
 

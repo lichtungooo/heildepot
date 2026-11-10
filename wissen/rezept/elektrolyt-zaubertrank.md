@@ -3,21 +3,23 @@ art: "rezept"
 id: "elektrolyt-zaubertrank"
 name: "Elektrolyt-Zaubertrank: Natürliches Isotonisches Getränk"
 tradition: "Hexenwissen"
-kategorie: "Regeneration & Detox"
 tags: ["elektrolyte", "sport", "brennnessel", "regeneration", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Regeneration & Detox"
 ---
 
 # Elektrolyt-Zaubertrank: Natürliches Isotonisches Getränk
 
 ## Hilft bei
 
-- [[sport]]
-- [[dehydrierung]]
-- [[muskelkraempfe]]
-- [[hitze]]
-- [[erholung]]
-- [[mineralmangel]]
+- [Sport](../beschwerde/sport.md)
+- [Dehydrierung](../beschwerde/dehydrierung.md)
+- [Muskelkrämpfe](../beschwerde/muskelkraempfe.md)
+- [Hitze](../beschwerde/hitze.md)
+- [Erholung](../beschwerde/erholung.md)
+- [Mineralmangel](../beschwerde/mineralmangel.md)
 
 ## Schwierigkeit
 

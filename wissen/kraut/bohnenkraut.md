@@ -7,6 +7,11 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut"
 tags: ["bohnenkraut", "gewürz", "blähungen", "verdauung", "küchenkraut"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["blähungswidrig", "verdauungsfördernd", "antibakteriell", "appetitanregend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/bohnenkraut-1.webp"
+bild_nachweis: "User:Henna, CC BY-SA 1.0"
 ---
 
 # Bohnenkraut
@@ -38,9 +43,9 @@ Kraut
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[appetitlosigkeit]]
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
 - [Husten / Bronchitis](../beschwerde/husten.md)
-- [[muskelschmerzen]]
+- [Muskelschmerzen](../beschwerde/muskelschmerzen.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ In Südfrankreich und Italien war Bohnenkraut das erste Mittel bei Bienenstichen
 ## Mehr dazu
 
 - [Bohnenkraut bei der Quelle](https://heilkräuter.de/lexikon/bohnenkraut.htm)
+
+## Fotos
+
+![Bohnenkraut, Foto 1](https://heildepot.wir.ooo/bilder/kraut/bohnenkraut-1.webp)
+
+Foto 1: User:Henna, CC BY-SA 1.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bonenkruid-spice_(1).jpg)
+
+![Bohnenkraut, Foto 2](https://heildepot.wir.ooo/bilder/kraut/bohnenkraut-2.webp)
+
+Foto 2: No machine-readable author provided. Bogdan assumed (based on copyright claims)., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Satureja_hortensis_bgiu.jpg)
+
+![Bohnenkraut, Foto 3](https://heildepot.wir.ooo/bilder/kraut/bohnenkraut-3.webp)
+
+Foto 3: Emőke Dénes, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Lamiales_-_Satureja_hortensis_-_2.jpg)
 
 ## Im Heildepot
 

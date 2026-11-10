@@ -4,6 +4,8 @@ id: "blaehungen"
 name: "Blähungen / Flatulenz / Völlegefühl"
 tags: ["blähungen", "darm", "verdauung", "meteorismus", "völlegefühl"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Blähungen / Flatulenz / Völlegefühl

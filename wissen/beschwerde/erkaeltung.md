@@ -4,6 +4,8 @@ id: "erkaeltung"
 name: "Erkältung / Schnupfen"
 tags: ["atemwege", "immunsystem", "erkältung", "schnupfen"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Erkältung / Schnupfen

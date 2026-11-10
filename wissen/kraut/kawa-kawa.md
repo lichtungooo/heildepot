@@ -7,6 +7,11 @@ familie: "Pfeffergewächse (Piperaceae)"
 pflanzenteile: "Wurzelstock"
 tags: ["kawakawa", "angst", "beruhigung", "südsee", "schlaf"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["angstlösend", "beruhigend", "muskelentspannend", "schlaffördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/kawa-kawa-1.webp"
+bild_nachweis: "Ib0ga, CC BY-SA 3.0"
 ---
 
 # Kawa-Kawa
@@ -37,11 +42,11 @@ Wurzelstock
 - [Angst / Panikattacken](../beschwerde/angst.md)
 - [Schlafthemen](../beschwerde/schlaf.md)
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
-- [[verspannung]]
-- [[unruhe]]
-- [[schlaflosigkeit]]
-- [[anspannung]]
-- [[muskelschmerzen]]
+- [Verspannung](../beschwerde/verspannung.md)
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
+- [Schlaflosigkeit](../beschwerde/schlaflosigkeit.md)
+- [Anspannung](../beschwerde/anspannung.md)
+- [Muskelschmerzen](../beschwerde/muskelschmerzen.md)
 
 ## Beschreibung
 
@@ -132,6 +137,20 @@ Auf den Südseeinseln sagt man: "Kawa macht keinen Krieg." Das Getränk fördert
 ## Mehr dazu
 
 - [Kawa-Kawa bei der Quelle](https://heilkräuter.de/lexikon/kawa-kawa.htm)
+
+## Fotos
+
+![Kawa-Kawa, Foto 1](https://heildepot.wir.ooo/bilder/kraut/kawa-kawa-1.webp)
+
+Foto 1: Ib0ga, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Kava-powder-from-vanuatu-ready-to-mix-with-water.jpg)
+
+![Kawa-Kawa, Foto 2](https://heildepot.wir.ooo/bilder/kraut/kawa-kawa-2.webp)
+
+Foto 2: Forest & Kim Starr, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Starr_021122-0033_Piper_methysticum.jpg)
+
+![Kawa-Kawa, Foto 3](https://heildepot.wir.ooo/bilder/kraut/kawa-kawa-3.webp)
+
+Foto 3: Robert Taylor Pritchett, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:FMIB_47324_Ava_or_Kava_(Macropiper_methysticum),_Tahiti.jpeg)
 
 ## Im Heildepot
 

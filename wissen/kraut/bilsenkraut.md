@@ -7,6 +7,11 @@ familie: "Nachtschattengewächse (Solanaceae)"
 pflanzenteile: "Blätter, Samen (nur als Fertigpräparat)"
 tags: ["bilsenkraut", "giftig", "schmerzen", "homöopathie", "hexenkraut"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["krampflösend", "schmerzlindernd", "beruhigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/bilsenkraut-1.webp"
+bild_nachweis: "User:Pipi69e, Public domain"
 ---
 
 # Bilsenkraut
@@ -35,10 +40,10 @@ Blätter, Samen (nur als Fertigpräparat)
 
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
-- [[kraempfe]]
-- [[schlaflosigkeit]]
-- [[reisekrankheit]]
-- [[nervenschmerzen]]
+- [Krämpfe](../beschwerde/kraempfe.md)
+- [Schlaflosigkeit](../beschwerde/schlaflosigkeit.md)
+- [Reisekrankheit](../beschwerde/reisekrankheit.md)
+- [Nervenschmerzen](../beschwerde/nervenschmerzen.md)
 
 ## Beschreibung
 
@@ -134,6 +139,20 @@ Das Bilsenkraut war ein gefürchtetes und zugleich geschätztes Mittel der Volks
 ## Mehr dazu
 
 - [Bilsenkraut bei der Quelle](https://heilkräuter.de/lexikon/bilsen.htm)
+
+## Fotos
+
+![Bilsenkraut, Foto 1](https://heildepot.wir.ooo/bilder/kraut/bilsenkraut-1.webp)
+
+Foto 1: User:Pipi69e, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Hyosciamus_niger_fruits.jpg)
+
+![Bilsenkraut, Foto 2](https://heildepot.wir.ooo/bilder/kraut/bilsenkraut-2.webp)
+
+Foto 2: Joozwa, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Hyosc_niger_flowering.jpg)
+
+![Bilsenkraut, Foto 3](https://heildepot.wir.ooo/bilder/kraut/bilsenkraut-3.webp)
+
+Foto 3: Radio Tonreg from Vienna, Austria, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Hyoscyamus_niger_(7984959871).jpg)
 
 ## Im Heildepot
 

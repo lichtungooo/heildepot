@@ -3,9 +3,11 @@ art: "rezept"
 id: "pflaster-der-waldfee"
 name: "Pflaster-der-Waldfee: Heile, heile Segen"
 tradition: "Hexenwissen"
-kategorie: "Kinder-Zauber"
 tags: ["kinderzauber", "wundsalbe", "ringelblume", "hexenwissen", "erste_hilfe", "naturkosmetik"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Kinder-Zauber"
 ---
 
 # Pflaster-der-Waldfee: Heile, heile Segen
@@ -13,12 +15,12 @@ quelle: "heildepot"
 ## Hilft bei
 
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
-- [[schuerfreunden]]
+- [Schürfreunden](../beschwerde/schuerfreunden.md)
 - [Insektenstiche / Allergische Reaktion](../beschwerde/insektenstiche.md)
-- [[hautpflege]]
-- [[kinder]]
-- [[wundheilung]]
-- [[kratzer]]
+- [Hautpflege](../beschwerde/hautpflege.md)
+- [Kinder](../beschwerde/kinder.md)
+- [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
+- [Kratzer](../beschwerde/kratzer.md)
 
 ## Schwierigkeit
 

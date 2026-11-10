@@ -4,6 +4,8 @@ id: "immunschwaeche"
 name: "Immunschwäche / Häufige Infekte"
 tags: ["immunschwäche", "immunsystem", "infektanfälligkeit", "abwehr", "erkältung"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Immunschwäche / Häufige Infekte

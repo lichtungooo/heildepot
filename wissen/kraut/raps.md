@@ -7,6 +7,11 @@ familie: "Kreuzblütler (Brassicaceae)"
 pflanzenteile: "Samen (Öl)"
 tags: ["raps", "omega3", "speiseöl", "hautpflege"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["omega-3-reich", "entzündungshemmend", "hautpflegend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/raps-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 2.0 de"
 ---
 
 # Raps
@@ -36,12 +41,12 @@ Samen (Öl)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
-- [[trockene_haut]]
-- [[herzgesundheit]]
-- [[entzuendungen]]
-- [[omega3mangel]]
-- [[mundgesundheit]]
-- [[haarpflege]]
+- [Trockene haut](../beschwerde/trockene-haut.md)
+- [Herzgesundheit](../beschwerde/herzgesundheit.md)
+- [Entzündungen](../beschwerde/entzuendungen.md)
+- [Omega3mangel](../beschwerde/omega3mangel.md)
+- [Mundgesundheit](../beschwerde/mundgesundheit.md)
+- [Haarpflege](../beschwerde/haarpflege.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ In der bäuerlichen Volksmedizin wurde Rapsöl als Einreibung bei Erkältungen a
 ## Mehr dazu
 
 - [Raps bei der Quelle](https://heilkräuter.de/lexikon/raps.htm)
+
+## Fotos
+
+![Raps, Foto 1](https://heildepot.wir.ooo/bilder/kraut/raps-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 2.0 de, [Quelle](https://commons.wikimedia.org/wiki/File:Brassica_napus_3.jpg)
+
+![Raps, Foto 2](https://heildepot.wir.ooo/bilder/kraut/raps-2.webp)
+
+Foto 2: Frank Vincentz, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Brassica_napus_12_ies.jpg)
+
+![Raps, Foto 3](https://heildepot.wir.ooo/bilder/kraut/raps-3.webp)
+
+Foto 3: Netopyr, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:091004_Raps_Rapeseed_Gruenduengung_Green_manure.JPG)
 
 ## Im Heildepot
 

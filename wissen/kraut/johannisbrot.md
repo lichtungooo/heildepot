@@ -7,6 +7,11 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Schoten, Samen"
 tags: ["johannisbrot", "carob", "durchfall", "kinder", "cholesterin"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "durchfallhemmend", "nährend", "cholesterinsenkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/johannisbrot-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 3.0"
 ---
 
 # Johannisbrot
@@ -37,9 +42,9 @@ Schoten, Samen
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Übergewicht / Stoffwechsel](../beschwerde/uebergewicht.md)
-- [[cholesterin]]
+- [Cholesterin](../beschwerde/cholesterin.md)
 - [Diabetes](../beschwerde/diabetes.md)
-- [[mineralstoffmangel]]
+- [Mineralstoffmangel](../beschwerde/mineralstoffmangel.md)
 
 ## Beschreibung
 
@@ -141,6 +146,20 @@ Im Mittelmeerraum galt Johannisbrot als "Brot der Armen" und "Medizin der Großm
 ## Mehr dazu
 
 - [Johannisbrot bei der Quelle](https://heilkräuter.de/lexikon/johannisbrot.htm)
+
+## Fotos
+
+![Johannisbrot, Foto 1](https://heildepot.wir.ooo/bilder/kraut/johannisbrot-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ceratonia_siliqua,_total.jpg)
+
+![Johannisbrot, Foto 2](https://heildepot.wir.ooo/bilder/kraut/johannisbrot-2.webp)
+
+Foto 2: Melianero, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Imagen_004.jpg)
+
+![Johannisbrot, Foto 3](https://heildepot.wir.ooo/bilder/kraut/johannisbrot-3.webp)
+
+Foto 3: L. Mahin, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ceratonia_siliqua_outline_Morocco.jpg)
 
 ## Im Heildepot
 

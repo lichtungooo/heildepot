@@ -7,6 +7,11 @@ familie: "Braunwurzgewächse (Scrophulariaceae)"
 pflanzenteile: "Kraut, Wurzel"
 tags: ["braunwurz", "lymphe", "haut", "drüsen"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["lymphanregend", "entzündungshemmend", "wundheilend", "hautpflegend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/braunwurz-1.webp"
+bild_nachweis: "H. Zell, CC BY-SA 3.0"
 ---
 
 # Braunwurz
@@ -37,11 +42,11 @@ Kraut, Wurzel
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Neurodermitis / Ekzem](../beschwerde/neurodermitis.md)
-- [[lymphe]]
-- [[entzuendungen]]
+- [Cellulite / Bindegewebsschwäche](../beschwerde/cellulite.md)
+- [Entzündungen](../beschwerde/entzuendungen.md)
 - [Hämorrhoiden](../beschwerde/haemorrhoiden.md)
-- [[gelenkschmerzen]]
-- [[schwellungen]]
+- [Gelenkschmerzen](../beschwerde/gelenkschmerzen.md)
+- [Schwellungen](../beschwerde/schwellungen.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ Kräuterfrauen legten zerdrückte Braunwurzblätter auf geschwollene Drüsen und
 ## Mehr dazu
 
 - [Braunwurz bei der Quelle](https://heilkräuter.de/lexikon/braunwur.htm)
+
+## Fotos
+
+![Braunwurz, Foto 1](https://heildepot.wir.ooo/bilder/kraut/braunwurz-1.webp)
+
+Foto 1: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Scrophularia_nodosa_001.JPG)
+
+![Braunwurz, Foto 2](https://heildepot.wir.ooo/bilder/kraut/braunwurz-2.webp)
+
+Foto 2: Konrad Lackerbeck, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:Knotige_Braunwurz.JPG)
+
+![Braunwurz, Foto 3](https://heildepot.wir.ooo/bilder/kraut/braunwurz-3.webp)
+
+Foto 3: Ludwik Polak, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_Tr%C4%99downik_bulwiasty_9900_7914.jpg)
 
 ## Im Heildepot
 

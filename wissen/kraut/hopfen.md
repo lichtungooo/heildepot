@@ -7,6 +7,11 @@ familie: "Hanfgewächse (Cannabaceae)"
 pflanzenteile: "Zapfen (weibliche Blüten)"
 tags: ["hopfen", "schlaf", "beruhigend", "nerven", "verdauung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["beruhigend", "schlaffördernd", "verdauungsfördernd", "appetitanregend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/hopfen-1.webp"
+bild_nachweis: "H. Zell, CC BY-SA 3.0"
 ---
 
 # Hopfen
@@ -39,9 +44,9 @@ Zapfen (weibliche Blüten)
 - [Angst / Panikattacken](../beschwerde/angst.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
-- [[schlafprobleme]]
-- [[nervositaet]]
-- [[appetitlosigkeit]]
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
+- [Nervosität](../beschwerde/nervositaet.md)
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
 
 ## Beschreibung
 
@@ -138,6 +143,20 @@ Ein Hopfenkissen unterm Kopfkissen war das Hausmittel der Großmütter gegen Sch
 ## Mehr dazu
 
 - [Hopfen bei der Quelle](https://heilkräuter.de/lexikon/hopfen.htm)
+
+## Fotos
+
+![Hopfen, Foto 1](https://heildepot.wir.ooo/bilder/kraut/hopfen-1.webp)
+
+Foto 1: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Humulus_lupulus_001.JPG)
+
+![Hopfen, Foto 2](https://heildepot.wir.ooo/bilder/kraut/hopfen-2.webp)
+
+Foto 2: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:Humulus_lupulus_%26_Robinia_pseudoacacia_1.jpg)
+
+![Hopfen, Foto 3](https://heildepot.wir.ooo/bilder/kraut/hopfen-3.webp)
+
+Foto 3: Frank Vincentz, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Gelsenkirchen_-_Leithestra%C3%9Fe_-_Halde_Rheinelbe_S%C3%BCd_-_Humulus_lupulus_01_ies.jpg)
 
 ## Im Heildepot
 

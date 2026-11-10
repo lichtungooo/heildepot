@@ -4,6 +4,8 @@ id: "haemorrhoiden"
 name: "Hämorrhoiden"
 tags: ["hämorrhoiden", "darm", "venen", "verdauung", "blut"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Hämorrhoiden

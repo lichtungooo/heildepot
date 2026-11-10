@@ -7,6 +7,11 @@ familie: "Heidekrautgewächse (Ericaceae)"
 pflanzenteile: "Blüten, Kraut"
 tags: ["heidekraut", "blase", "niere", "beruhigend", "rheuma"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["harntreibend", "beruhigend", "entzündungshemmend", "blutreinigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/heidekraut-1.webp"
+bild_nachweis: "(c) 2005 Zubro, CC BY-SA 3.0"
 ---
 
 # Heidekraut
@@ -39,10 +44,10 @@ Blüten, Kraut
 - [Schlafthemen](../beschwerde/schlaf.md)
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
 - [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
-- [[harnwegsinfekt]]
+- [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
 - [Gicht / Harnsäure](../beschwerde/gicht.md)
-- [[hautprobleme]]
-- [[schlaflosigkeit]]
+- [Hautprobleme](../beschwerde/hautprobleme.md)
+- [Schlaflosigkeit](../beschwerde/schlaflosigkeit.md)
 
 ## Beschreibung
 
@@ -141,6 +146,20 @@ In der Volksmedizin war Heidekraut das Blasenmittel der Heidebauern. Tee bei Bla
 ## Mehr dazu
 
 - [Heidekraut bei der Quelle](https://heilkräuter.de/lexikon/heidekraut.htm)
+
+## Fotos
+
+![Heidekraut, Foto 1](https://heildepot.wir.ooo/bilder/kraut/heidekraut-1.webp)
+
+Foto 1: (c) 2005 Zubro, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Calluna_vulgaris_(callune).JPG)
+
+![Heidekraut, Foto 2](https://heildepot.wir.ooo/bilder/kraut/heidekraut-2.webp)
+
+Foto 2: Marrian Mariusz Daraż, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bj%C3%B6rk%C3%B6-wrzosy.jpg)
+
+![Heidekraut, Foto 3](https://heildepot.wir.ooo/bilder/kraut/heidekraut-3.webp)
+
+Foto 3: Nicolas Zea P., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Calluna_Vulgaris_01.jpg)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Blätter, Zweige"
 tags: ["rooibos", "koffeinfrei", "allergie", "kinder", "südafrika"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["antioxidativ", "krampflösend", "antiallergisch", "beruhigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/rooibos-1.webp"
+bild_nachweis: "Winfried Bruenken (Amrum), CC BY-SA 2.5"
 ---
 
 # Rooibos
@@ -39,13 +44,13 @@ Blätter, Zweige
 - [Schlafthemen](../beschwerde/schlaf.md)
 - [Neurodermitis / Ekzem](../beschwerde/neurodermitis.md)
 - [Histaminintoleranz](../beschwerde/histaminintoleranz.md)
-- [[antioxidantien]]
+- [Antioxidantien](../beschwerde/antioxidantien.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
-- [[magen]]
-- [[koliken]]
-- [[schlafprobleme]]
+- [Sodbrennen / Reflux](../beschwerde/sodbrennen.md)
+- [Koliken](../beschwerde/koliken.md)
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
-- [[immunsystem]]
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 
 ## Beschreibung
 
@@ -145,6 +150,20 @@ Die Khoisan-Frauen gaben Rooibos-Aufgüsse an unruhige Säuglinge und stillende 
 ## Mehr dazu
 
 - [Rooibos bei der Quelle](https://heilkräuter.de/lexikon/rooibos.htm)
+
+## Fotos
+
+![Rooibos, Foto 1](https://heildepot.wir.ooo/bilder/kraut/rooibos-1.webp)
+
+Foto 1: Winfried Bruenken (Amrum), CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Rooibos_(Aspalathus_linearis)PICT2813.JPG)
+
+![Rooibos, Foto 2](https://heildepot.wir.ooo/bilder/kraut/rooibos-2.webp)
+
+Foto 2: Dwergenpaartje, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Aspalathus_linearis_Flipphi_1.jpg)
+
+![Rooibos, Foto 3](https://heildepot.wir.ooo/bilder/kraut/rooibos-3.webp)
+
+Foto 3: @weblearning, CC BY 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Rooibos_iced_tea.jpg)
 
 ## Im Heildepot
 

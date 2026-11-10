@@ -7,6 +7,11 @@ familie: "Phyllanthusgewächse (Phyllanthaceae)"
 pflanzenteile: "Früchte"
 tags: ["amla", "vitaminC", "ayurveda", "verjüngung", "immunsystem"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["antioxidativ", "immunstärkend", "verjüngend", "verdauungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/amla-1.webp"
+bild_nachweis: "me, myelf and I, CC BY-SA 3.0"
 ---
 
 # Amla
@@ -39,7 +44,7 @@ Früchte
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[alter]]
+- [Alter](../beschwerde/alter.md)
 - [Leber / Galle](../beschwerde/leber.md)
 - [Diabetes](../beschwerde/diabetes.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
@@ -145,6 +150,20 @@ In indischen Dörfern ist Amla ein tägliches Nahrungsmittel, eingelegt, im Chut
 ## Mehr dazu
 
 - [Amla bei der Quelle](https://heilkräuter.de/lexikon/amla.htm)
+
+## Fotos
+
+![Amla, Foto 1](https://heildepot.wir.ooo/bilder/kraut/amla-1.webp)
+
+Foto 1: me, myelf and I, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Amla_field.JPG)
+
+![Amla, Foto 2](https://heildepot.wir.ooo/bilder/kraut/amla-2.webp)
+
+Foto 2: J.M.Garg, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Indian_gooseberry_(Phyllanthus_emblica_syn_Emblica_officinalis)_trunk_at_Jayanti,_Duars,_West_Bengal_W_Picture_041.jpg)
+
+![Amla, Foto 3](https://heildepot.wir.ooo/bilder/kraut/amla-3.webp)
+
+Foto 3: Chong Fat, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:HK_IndianGooseberry_Fruit.JPG)
 
 ## Im Heildepot
 

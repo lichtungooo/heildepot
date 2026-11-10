@@ -7,6 +7,11 @@ familie: "Wegerichgewächse"
 pflanzenteile: "Blätter, Samen"
 tags: ["breitwegerich", "erstehilfe", "insektenstiche", "wundheilung", "husten"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["wundheilend", "schleimlösend", "antibakteriell", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/breitwegerich-1.webp"
+bild_nachweis: "4028mdk09, CC BY-SA 3.0"
 ---
 
 # Breitwegerich
@@ -40,6 +45,20 @@ Blätter, Samen
 ## Mehr dazu
 
 - [Breitwegerich bei der Quelle](https://heilkräuter.de/lexikon/breitwegerich.htm)
+
+## Fotos
+
+![Breitwegerich, Foto 1](https://heildepot.wir.ooo/bilder/kraut/breitwegerich-1.webp)
+
+Foto 1: 4028mdk09, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Breitwegerich_(Plantago_major)_Oktober_2010.jpg)
+
+![Breitwegerich, Foto 2](https://heildepot.wir.ooo/bilder/kraut/breitwegerich-2.webp)
+
+Foto 2: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20120901Plantago_major.jpg)
+
+![Breitwegerich, Foto 3](https://heildepot.wir.ooo/bilder/kraut/breitwegerich-3.webp)
+
+Foto 3: Agatka Anonim, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_Babka_zwyczajna_39_7611.jpg)
 
 ## Im Heildepot
 

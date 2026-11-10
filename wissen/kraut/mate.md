@@ -7,6 +7,11 @@ familie: "Stechpalmengewächse (Aquifoliaceae)"
 pflanzenteile: "Blätter"
 tags: ["mate", "energie", "stoffwechsel", "abnehmen", "südamerika"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["anregend", "harntreibend", "stoffwechselanregend", "hungerstillend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/mate-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 3.0"
 ---
 
 # Mate
@@ -36,9 +41,9 @@ Blätter
 
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 - [Übergewicht / Stoffwechsel](../beschwerde/uebergewicht.md)
-- [[muedigkeit]]
-- [[konzentration]]
-- [[stoffwechsel]]
+- [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
+- [Diabetes](../beschwerde/diabetes.md)
 - [Kopfschmerzen / Migräne](../beschwerde/kopfschmerzen.md)
 
 ## Beschreibung
@@ -138,6 +143,20 @@ Die Guarani sagen: "Mate ist mehr als ein Getränk, er ist Medizin, Nahrung und 
 ## Mehr dazu
 
 - [Mate bei der Quelle](https://heilkräuter.de/lexikon/mate.htm)
+
+## Fotos
+
+![Mate, Foto 1](https://heildepot.wir.ooo/bilder/kraut/mate-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ilex_paraguariensis_-_Yerba_mate_-_desc-leaves.jpg)
+
+![Mate, Foto 2](https://heildepot.wir.ooo/bilder/kraut/mate-2.webp)
+
+Foto 2: No machine-readable author provided. ShapeShifter assumed (based on copyright claims)., CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Harvesting_rainforest_grown_yerba_mate_in_Paraguay.jpg)
+
+![Mate, Foto 3](https://heildepot.wir.ooo/bilder/kraut/mate-3.webp)
+
+Foto 3: Stickpen, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Ilexparaguariensis.jpg)
 
 ## Im Heildepot
 

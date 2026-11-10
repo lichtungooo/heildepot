@@ -7,6 +7,11 @@ familie: "Lippenblütler"
 pflanzenteile: "Kraut"
 tags: ["dost", "oregano", "antibakteriell", "husten", "küche"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["antibakteriell", "schleimlösend", "krampflösend", "verdauungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/dost-1.webp"
+bild_nachweis: "Toubib at Dutch Wikipedia, CC BY-SA 3.0"
 ---
 
 # Dost (Wilder Oregano)
@@ -41,6 +46,20 @@ Kraut
 ## Mehr dazu
 
 - [Dost (Wilder Oregano) bei der Quelle](https://heilkräuter.de/lexikon/dost.htm)
+
+## Fotos
+
+![Dost (Wilder Oregano), Foto 1](https://heildepot.wir.ooo/bilder/kraut/dost-1.webp)
+
+Foto 1: Toubib at Dutch Wikipedia, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Centranthusblad.jpg)
+
+![Dost (Wilder Oregano), Foto 2](https://heildepot.wir.ooo/bilder/kraut/dost-2.webp)
+
+Foto 2: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20120703Hypericum_perforatum_%26_Origanum_vulgare.jpg)
+
+![Dost (Wilder Oregano), Foto 3](https://heildepot.wir.ooo/bilder/kraut/dost-3.webp)
+
+Foto 3: Semnoz, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:200707_x_Marjolaine_vivace.JPG)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Nelkengewächse (Caryophyllaceae)"
 pflanzenteile: "Kraut"
 tags: ["vogelmiere", "vitamine", "wildkraut", "juckreiz", "salat"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["vitaminreich", "entzündungshemmend", "kühlend", "hustenstillend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/vogelmiere-1.webp"
+bild_nachweis: "fr:Utilisateur:Jeantosti, CC BY-SA 3.0"
 ---
 
 # Vogelmiere
@@ -38,12 +43,12 @@ Kraut
 - [Neurodermitis / Ekzem](../beschwerde/neurodermitis.md)
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
-- [[ekzem]]
-- [[juckreiz]]
-- [[vitaminmangel]]
-- [[fruehjahrskur]]
-- [[stoffwechsel]]
-- [[entgiftung]]
+- [Hautthemen / Neurodermitis](../beschwerde/haut.md)
+- [Hautthemen / Neurodermitis](../beschwerde/haut.md)
+- [Vitaminmangel](../beschwerde/vitaminmangel.md)
+- [Frühjahrskur](../beschwerde/fruehjahrskur.md)
+- [Diabetes](../beschwerde/diabetes.md)
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
 
 ## Beschreibung
 
@@ -150,6 +155,20 @@ In der Volksmedizin war die Vogelmiere das "Allround-Unkraut" der Bauern: Man as
 ## Mehr dazu
 
 - [Vogelmiere bei der Quelle](https://heilkräuter.de/lexikon/vogelmie.htm)
+
+## Fotos
+
+![Vogelmiere, Foto 1](https://heildepot.wir.ooo/bilder/kraut/vogelmiere-1.webp)
+
+Foto 1: fr:Utilisateur:Jeantosti, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Stellaria_media.jpg)
+
+![Vogelmiere, Foto 2](https://heildepot.wir.ooo/bilder/kraut/vogelmiere-2.webp)
+
+Foto 2: Rasbak, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Stellaria_media_(vogelmuur).jpg)
+
+![Vogelmiere, Foto 3](https://heildepot.wir.ooo/bilder/kraut/vogelmiere-3.webp)
+
+Foto 3: Dalgial, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:%EB%B3%84%EA%BD%83_09-2-13_%EC%83%81%EB%A1%9D%EA%B3%B5%EC%9B%90.JPG)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Orchideen (Orchidaceae)"
 pflanzenteile: "Fruchtschoten"
 tags: ["vanille", "beruhigend", "stimmung", "duft", "orchidee"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["beruhigend", "stimmungsaufhellend", "entzündungshemmend", "antioxidativ"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/vanille-1.webp"
+bild_nachweis: "No machine-readable author provided. Jolle~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0"
 ---
 
 # Vanille
@@ -37,11 +42,11 @@ Fruchtschoten
 - [Angst / Panikattacken](../beschwerde/angst.md)
 - [Schlafthemen](../beschwerde/schlaf.md)
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
-- [[schlafprobleme]]
-- [[depressive_verstimmung]]
-- [[verdauungsschwaeche]]
-- [[libidoverlust]]
-- [[innere_kaelte]]
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
+- [Depressive verstimmung](../beschwerde/depressive-verstimmung.md)
+- [Verdauungsschwäche](../beschwerde/verdauungsschwaeche.md)
+- [Libidoverlust](../beschwerde/libidoverlust.md)
+- [Innere kälte](../beschwerde/innere-kaelte.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ In der mexikanischen Volksmedizin wurde Vanille als Magenmittel, Aphrodisiakum u
 ## Mehr dazu
 
 - [Vanille bei der Quelle](https://heilkräuter.de/lexikon/vanille.htm)
+
+## Fotos
+
+![Vanille, Foto 1](https://heildepot.wir.ooo/bilder/kraut/vanille-1.webp)
+
+Foto 1: No machine-readable author provided. Jolle~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Especies5.jpg)
+
+![Vanille, Foto 2](https://heildepot.wir.ooo/bilder/kraut/vanille-2.webp)
+
+Foto 2: Márcio Roberto Pinto Mafra, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Baunilha.jpg)
+
+![Vanille, Foto 3](https://heildepot.wir.ooo/bilder/kraut/vanille-3.webp)
+
+Foto 3: Forest & Kim Starr, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Starr_070906-8779_Vanilla_planifolia.jpg)
 
 ## Im Heildepot
 

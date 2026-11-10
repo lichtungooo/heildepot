@@ -7,6 +7,11 @@ familie: "Nelkengewächse (Caryophyllaceae)"
 pflanzenteile: "Wurzel, Kraut"
 tags: ["seifenkraut", "husten", "saponine", "haut", "natürlich"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "harntreibend", "hautpflegend", "expektorierend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/seifenkraut-1.webp"
+bild_nachweis: "Stefan Laarmann, CC BY 2.5"
 ---
 
 # Seifenkraut
@@ -37,11 +42,11 @@ Wurzel, Kraut
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Akne / Unreine Haut](../beschwerde/akne.md)
-- [[bronchitis]]
-- [[ekzem]]
-- [[schuppen]]
-- [[stoffwechsel]]
-- [[verschleimung]]
+- [Husten / Bronchitis](../beschwerde/husten.md)
+- [Hautthemen / Neurodermitis](../beschwerde/haut.md)
+- [Schuppen](../beschwerde/schuppen.md)
+- [Diabetes](../beschwerde/diabetes.md)
+- [Verschleimung](../beschwerde/verschleimung.md)
 
 ## Beschreibung
 
@@ -136,6 +141,20 @@ In der bäuerlichen Volksmedizin war das Seifenkraut die "Waschmittelpflanze" sc
 ## Mehr dazu
 
 - [Seifenkraut bei der Quelle](https://heilkräuter.de/lexikon/seifenkraut.htm)
+
+## Fotos
+
+![Seifenkraut, Foto 1](https://heildepot.wir.ooo/bilder/kraut/seifenkraut-1.webp)
+
+Foto 1: Stefan Laarmann, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Seifenkraut02.jpg)
+
+![Seifenkraut, Foto 2](https://heildepot.wir.ooo/bilder/kraut/seifenkraut-2.webp)
+
+Foto 2: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Saponaria_officinalis_001.JPG)
+
+![Seifenkraut, Foto 3](https://heildepot.wir.ooo/bilder/kraut/seifenkraut-3.webp)
+
+Foto 3: 4028mdk09, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ladenburg_Gew%C3%B6hnliches_Seifenkraut_am_Neckarufer.jpg)
 
 ## Im Heildepot
 

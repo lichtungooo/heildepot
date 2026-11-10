@@ -3,22 +3,24 @@ art: "rezept"
 id: "chaga-zeremonial-tee"
 name: "Chaga-Zeremonial-Tee: Der Diamant des Waldes"
 tradition: "Hexenwissen"
-kategorie: "Wald-Apotheke"
 tags: ["waldapotheke", "chaga", "heilpilz", "antioxidantien", "hexenwissen", "sibirien", "birke"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Wald-Apotheke"
 ---
 
 # Chaga-Zeremonial-Tee: Der Diamant des Waldes
 
 ## Hilft bei
 
-- [[immunsystem]]
-- [[antioxidantien]]
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
+- [Antioxidantien](../beschwerde/antioxidantien.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
-- [[vorsorge]]
-- [[energie]]
-- [[langlebigkeit]]
-- [[hautgesundheit]]
+- [Vorsorge](../beschwerde/vorsorge.md)
+- [Burnout / Chronische Erschöpfung](../beschwerde/burnout.md)
+- [Langlebigkeit](../beschwerde/langlebigkeit.md)
+- [Hautgesundheit](../beschwerde/hautgesundheit.md)
 
 ## Schwierigkeit
 

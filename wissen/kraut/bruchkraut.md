@@ -7,6 +7,11 @@ familie: "Nelkengewächse"
 pflanzenteile: "Kraut"
 tags: ["bruchkraut", "blase", "nierensteine", "harnwege", "steinbrecher"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["harntreibend", "krampflösend", "entzündungshemmend", "steinlösend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/bruchkraut-1.webp"
+bild_nachweis: "Michael Becker, CC BY-SA 3.0"
 ---
 
 # Bruchkraut
@@ -39,6 +44,20 @@ Kraut
 ## Mehr dazu
 
 - [Bruchkraut bei der Quelle](https://heilkräuter.de/lexikon/bruchkraut.htm)
+
+## Fotos
+
+![Bruchkraut, Foto 1](https://heildepot.wir.ooo/bilder/kraut/bruchkraut-1.webp)
+
+Foto 1: Michael Becker, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Herniaria_glabra_2005.06.12_14.50.22.jpg)
+
+![Bruchkraut, Foto 2](https://heildepot.wir.ooo/bilder/kraut/bruchkraut-2.webp)
+
+Foto 2: No machine-readable author provided. Hagen Graebner assumed (based on copyright claims)., CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Hernariaglabra3.jpg)
+
+![Bruchkraut, Foto 3](https://heildepot.wir.ooo/bilder/kraut/bruchkraut-3.webp)
+
+Foto 3: Kristian Peters -- Fabelfroh 07:50, 14 September 2007 (UTC), CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Herniaria_glabra_korseby.jpeg)
 
 ## Im Heildepot
 

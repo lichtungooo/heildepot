@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Kerne, Blütenblätter, Öl"
 tags: ["sonnenblume", "vitaminE", "magnesium", "kerne", "sommer"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["nährstoffreich", "fiebersenkend", "entzündungshemmend", "hautpflegend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/sonnenblume-1.webp"
+bild_nachweis: "Salix, CC BY-SA 3.0"
 ---
 
 # Sonnenblume
@@ -37,11 +42,11 @@ Kerne, Blütenblätter, Öl
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 - [Grippe](../beschwerde/grippe.md)
-- [[trockene_haut]]
-- [[herzgesundheit]]
-- [[fieber]]
-- [[cholesterin]]
-- [[vitamin_e_mangel]]
+- [Trockene haut](../beschwerde/trockene-haut.md)
+- [Herzgesundheit](../beschwerde/herzgesundheit.md)
+- [Grippe](../beschwerde/grippe.md)
+- [Cholesterin](../beschwerde/cholesterin.md)
+- [Vitamin e mangel](../beschwerde/vitamin-e-mangel.md)
 
 ## Beschreibung
 
@@ -141,6 +146,20 @@ In der russischen und ukrainischen Volksmedizin wurde Sonnenblumentee bei Fieber
 ## Mehr dazu
 
 - [Sonnenblume bei der Quelle](https://heilkräuter.de/lexikon/sonnenblume.htm)
+
+## Fotos
+
+![Sonnenblume, Foto 1](https://heildepot.wir.ooo/bilder/kraut/sonnenblume-1.webp)
+
+Foto 1: Salix, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:2008-07-Pont_l%27Abb%C3%A9-Tournesols.JPG)
+
+![Sonnenblume, Foto 2](https://heildepot.wir.ooo/bilder/kraut/sonnenblume-2.webp)
+
+Foto 2: Neil Kennedy, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:A_local_cat_watching_the_visitors_at_Clovelly_-_geograph.org.uk_-_206666.jpg)
+
+![Sonnenblume, Foto 3](https://heildepot.wir.ooo/bilder/kraut/sonnenblume-3.webp)
+
+Foto 3: Andy Beecroft, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:A_Solitary_Swin_Dale_Sunflower_-_geograph.org.uk_-_930949.jpg)
 
 ## Im Heildepot
 

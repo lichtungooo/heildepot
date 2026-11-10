@@ -7,6 +7,11 @@ familie: "Primelgewächse (Primulaceae)"
 pflanzenteile: "Blüten, Wurzel"
 tags: ["schlüsselblume", "husten", "nasennebenhöhlen", "schleimlösend", "frühling"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "auswurffördernd", "krampflösend", "beruhigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/schluesselblume-1.webp"
+bild_nachweis: "Amada44, CC BY 4.0"
 ---
 
 # Schlüsselblume
@@ -37,10 +42,10 @@ Blüten, Wurzel
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Kopfschmerzen / Migräne](../beschwerde/kopfschmerzen.md)
-- [[bronchitis]]
-- [[schnupfen]]
-- [[nasennebenhoehlenentzuendung]]
-- [[unruhe]]
+- [Husten / Bronchitis](../beschwerde/husten.md)
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
+- [Nasennebenhöhlenentzündung](../beschwerde/nasennebenhoehlenentzuendung.md)
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
 
 ## Beschreibung
 
@@ -137,6 +142,20 @@ In der Volksmedizin wurden Schlüsselblumen als "Himmelschlüsseli" verehrt. Man
 ## Mehr dazu
 
 - [Schlüsselblume bei der Quelle](https://heilkräuter.de/lexikon/schlüss.htm)
+
+## Fotos
+
+![Schlüsselblume, Foto 1](https://heildepot.wir.ooo/bilder/kraut/schluesselblume-1.webp)
+
+Foto 1: Amada44, CC BY 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Echte_Schl%C3%BCsselblume_(Primula_veris)_7461.jpg)
+
+![Schlüsselblume, Foto 2](https://heildepot.wir.ooo/bilder/kraut/schluesselblume-2.webp)
+
+Foto 2: Ian Alexander, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Primroses_on_St_Catherine%27s_Hill.jpg)
+
+![Schlüsselblume, Foto 3](https://heildepot.wir.ooo/bilder/kraut/schluesselblume-3.webp)
+
+Foto 3: Stefan.lefnaer, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Primula_veris_(subsp._veris)_sl15.jpg)
 
 ## Im Heildepot
 

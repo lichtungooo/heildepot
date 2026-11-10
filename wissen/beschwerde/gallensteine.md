@@ -4,6 +4,8 @@ id: "gallensteine"
 name: "Gallensteine / Gallenkolik"
 tags: ["gallensteine", "galle", "leber", "verdauung", "kolik"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Gallensteine / Gallenkolik

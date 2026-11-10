@@ -7,6 +7,11 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Wurzel"
 tags: ["blutwurz", "durchfall", "mundschleimhaut", "gerbstoffe"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["adstringierend", "entzündungshemmend", "blutstillend", "antibakteriell"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/blutwurz-1.webp"
+bild_nachweis: "Enrico Blasutto, CC BY-SA 3.0"
 ---
 
 # Blutwurz
@@ -39,10 +44,10 @@ Wurzel
 - [Zähne / Mundraum / Zahnfleisch](../beschwerde/zaehne.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
-- [[zahnfleisch]]
-- [[mundschleimhaut]]
-- [[blutungen]]
-- [[magen_darm]]
+- [Zähne / Mundraum / Zahnfleisch](../beschwerde/zaehne.md)
+- [Mundschleimhaut](../beschwerde/mundschleimhaut.md)
+- [Blutungen](../beschwerde/blutungen.md)
+- [Magen darm](../beschwerde/magen-darm.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
 
 ## Beschreibung
@@ -139,6 +144,20 @@ Der Blutwurz-Schnaps (Wurzel in Korn angesetzt) war auf dem Land das Universalmi
 ## Mehr dazu
 
 - [Blutwurz bei der Quelle](https://heilkräuter.de/lexikon/blutwurz.htm)
+
+## Fotos
+
+![Blutwurz, Foto 1](https://heildepot.wir.ooo/bilder/kraut/blutwurz-1.webp)
+
+Foto 1: Enrico Blasutto, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Potentilla_erecta_ENBLA01.jpg)
+
+![Blutwurz, Foto 2](https://heildepot.wir.ooo/bilder/kraut/blutwurz-2.webp)
+
+Foto 2: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Potentilla_erecta_001.JPG)
+
+![Blutwurz, Foto 3](https://heildepot.wir.ooo/bilder/kraut/blutwurz-3.webp)
+
+Foto 3: Atriplexmedia, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Kveten_pp_zamek_19.jpg)
 
 ## Im Heildepot
 

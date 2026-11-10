@@ -3,22 +3,24 @@ art: "rezept"
 id: "mabon-ernte-essig"
 name: "Mabon-Ernte-Essig: Flüssiges Herbstgold"
 tradition: "Hexenwissen"
-kategorie: "Jahreskreis-Rezepte"
 tags: ["jahreskreis", "mabon", "herbst", "essig", "hexenwissen", "konservierung", "vorratskunst"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Jahreskreis-Rezepte"
 ---
 
 # Mabon-Ernte-Essig: Flüssiges Herbstgold
 
 ## Hilft bei
 
-- [[immunsystem]]
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
-- [[konservierung]]
-- [[kochen]]
-- [[herbst]]
-- [[geschenk]]
+- [Konservierung](../beschwerde/konservierung.md)
+- [Kochen](../beschwerde/kochen.md)
+- [Herbst](../beschwerde/herbst.md)
+- [Geschenk](../beschwerde/geschenk.md)
 
 ## Schwierigkeit
 

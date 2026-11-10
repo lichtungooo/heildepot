@@ -7,6 +7,11 @@ familie: "Lippenblütler"
 pflanzenteile: "Kraut"
 tags: ["quendel", "husten", "bronchitis", "erkältung", "wildkraut"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "antibakteriell", "krampflösend", "wärmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/quendel-1.webp"
+bild_nachweis: "Vojtěch Zavadil, CC BY-SA 3.0"
 ---
 
 # Quendel (Wilder Thymian)
@@ -40,6 +45,20 @@ Kraut
 ## Mehr dazu
 
 - [Quendel (Wilder Thymian) bei der Quelle](https://heilkräuter.de/lexikon/quendel.htm)
+
+## Fotos
+
+![Quendel (Wilder Thymian), Foto 1](https://heildepot.wir.ooo/bilder/kraut/quendel-1.webp)
+
+Foto 1: Vojtěch Zavadil, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:5036-Thymus_serpyllum-Hrad%C4%8D._st%C4%9Bny-7.06.jpg)
+
+![Quendel (Wilder Thymian), Foto 2](https://heildepot.wir.ooo/bilder/kraut/quendel-2.webp)
+
+Foto 2: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20140723Thymus_serpyllum3.jpg)
+
+![Quendel (Wilder Thymian), Foto 3](https://heildepot.wir.ooo/bilder/kraut/quendel-3.webp)
+
+Foto 3: Stephan Sprinz, CC BY 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bl%C3%BChender_Sand-Thymian_(Thymus_serpyllum)_im_NSG_%22Hirschacker_und_Dossenwald%22_04.jpg)
 
 ## Im Heildepot
 

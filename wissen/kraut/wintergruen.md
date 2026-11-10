@@ -7,6 +7,11 @@ familie: "Heidekrautgewächse (Ericaceae)"
 pflanzenteile: "Blätter (ätherisches Öl)"
 tags: ["wintergrün", "schmerzen", "muskeln", "gelenke", "salicylat"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schmerzlindernd", "entzündungshemmend", "durchblutungsfördernd", "wärmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/wintergruen-1.webp"
+bild_nachweis: "Superior National Forest, CC BY 2.0"
 ---
 
 # Wintergrün
@@ -38,11 +43,11 @@ Blätter (ätherisches Öl)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
 - [Gelenkschmerzen / Arthrose](../beschwerde/arthrose.md)
 - [Rückenschmerzen](../beschwerde/rueckenschmerzen.md)
-- [[muskelschmerzen]]
-- [[gelenkschmerzen]]
+- [Muskelschmerzen](../beschwerde/muskelschmerzen.md)
+- [Gelenkschmerzen](../beschwerde/gelenkschmerzen.md)
 - [Kopfschmerzen / Migräne](../beschwerde/kopfschmerzen.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[durchblutungsstoerungen]]
+- [Durchblutungsstörungen](../beschwerde/durchblutungsstoerungen.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ Die Ureinwohner Nordamerikas kauten Wintergrünblätter wie einen natürlichen K
 ## Mehr dazu
 
 - [Wintergrün bei der Quelle](https://heilkräuter.de/lexikon/wintergrün.htm)
+
+## Fotos
+
+![Wintergrün, Foto 1](https://heildepot.wir.ooo/bilder/kraut/wintergruen-1.webp)
+
+Foto 1: Superior National Forest, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Gaultheria_procumbens_1-eheep_(5097879860).jpg)
+
+![Wintergrün, Foto 2](https://heildepot.wir.ooo/bilder/kraut/wintergruen-2.webp)
+
+Foto 2: Joanna Boisse, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_Golteria_rozes%C5%82ana_3189_9024.jpg)
+
+![Wintergrün, Foto 3](https://heildepot.wir.ooo/bilder/kraut/wintergruen-3.webp)
+
+Foto 3: Smithh05, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Eastern_Teaberry_Foliage_and_Fruits.jpg)
 
 ## Im Heildepot
 

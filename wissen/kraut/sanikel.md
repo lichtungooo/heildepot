@@ -7,6 +7,11 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Kraut"
 tags: ["sanikel", "wundheilung", "atemwege", "gurgeln"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["wundheilend", "entzündungshemmend", "schleimlösend", "adstringierend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/sanikel-1.webp"
+bild_nachweis: "Bernd Haynold, CC BY 2.5"
 ---
 
 # Sanikel
@@ -38,12 +43,12 @@ Kraut
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Angina / Mandelentzündung / Halsschmerzen](../beschwerde/angina.md)
 - [Zähne / Mundraum / Zahnfleisch](../beschwerde/zaehne.md)
-- [[wundheilung]]
-- [[hals]]
-- [[blutung]]
+- [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
+- [Heiserkeit / Stimmbandprobleme](../beschwerde/heiserkeit.md)
+- [Blutung](../beschwerde/blutung.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
-- [[atemwege]]
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ In der europäischen Volksmedizin war der Sanikel ein fester Bestandteil der "Wu
 ## Mehr dazu
 
 - [Sanikel bei der Quelle](https://heilkräuter.de/lexikon/sanikel.htm)
+
+## Fotos
+
+![Sanikel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/sanikel-1.webp)
+
+Foto 1: Bernd Haynold, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Sanicula_europaea_050606.jpg)
+
+![Sanikel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/sanikel-2.webp)
+
+Foto 2: Fornax, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Sanicula_europaea_eF.jpg)
+
+![Sanikel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/sanikel-3.webp)
+
+Foto 3: Vachovec1, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:PP_Sob%C4%9Bchlebsk%C3%A9_terasy_22_-_neidentifikovan%C3%A1_rostlina.JPG)
 
 ## Im Heildepot
 

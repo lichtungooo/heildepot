@@ -7,6 +7,11 @@ familie: "Jochblattgewächse (Zygophyllaceae)"
 pflanzenteile: "Holz, Harz"
 tags: ["guajak", "gicht", "rheuma", "pockholz"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["entzündungshemmend", "schweißtreibend", "harntreibend", "blutreinigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/guajak-1.webp"
+bild_nachweis: "unbekannt, Public domain"
 ---
 
 # Guajak
@@ -37,10 +42,10 @@ Holz, Harz
 - [Gicht / Harnsäure](../beschwerde/gicht.md)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
-- [[gelenkschmerzen]]
-- [[halsschmerzen]]
-- [[entgiftung]]
-- [[stoffwechsel]]
+- [Gelenkschmerzen](../beschwerde/gelenkschmerzen.md)
+- [Angina / Mandelentzündung / Halsschmerzen](../beschwerde/angina.md)
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
+- [Diabetes](../beschwerde/diabetes.md)
 
 ## Beschreibung
 
@@ -138,6 +143,20 @@ Guajakholz war vom 16. bis 19. Jahrhundert eines der beliebtesten Arzneimittel i
 ## Mehr dazu
 
 - [Guajak bei der Quelle](https://heilkräuter.de/lexikon/guajak.htm)
+
+## Fotos
+
+![Guajak, Foto 1](https://heildepot.wir.ooo/bilder/kraut/guajak-1.webp)
+
+Foto 1: unbekannt, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Duho.jpg)
+
+![Guajak, Foto 2](https://heildepot.wir.ooo/bilder/kraut/guajak-2.webp)
+
+Foto 2: JR Ferrer Paris, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Kricogonia_lyside_sobre_Guaiacum.jpg)
+
+![Guajak, Foto 3](https://heildepot.wir.ooo/bilder/kraut/guajak-3.webp)
+
+Foto 3: User:Metodicar, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:13_Guajacum_officinale.JPG)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Ölbaumgewächse (Oleaceae)"
 pflanzenteile: "Blüten"
 tags: ["flieder", "fieber", "verdauung", "duft"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["fiebersenkend", "verdauungsfördernd", "beruhigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/flieder-1.webp"
+bild_nachweis: "Lars Lentz, CC BY-SA 1.0"
 ---
 
 # Flieder
@@ -36,11 +41,11 @@ Blüten
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Grippe](../beschwerde/grippe.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
-- [[fieber]]
-- [[gelenkschmerzen]]
-- [[nervositaet]]
+- [Grippe](../beschwerde/grippe.md)
+- [Gelenkschmerzen](../beschwerde/gelenkschmerzen.md)
+- [Nervosität](../beschwerde/nervositaet.md)
 - [Kopfschmerzen / Migräne](../beschwerde/kopfschmerzen.md)
-- [[stimmungstiefs]]
+- [Stimmungstiefs](../beschwerde/stimmungstiefs.md)
 
 ## Beschreibung
 
@@ -138,6 +143,20 @@ In Osteuropa und Russland war Fliederblütentee ein bewährtes Hausmittel bei Fi
 ## Mehr dazu
 
 - [Flieder bei der Quelle](https://heilkräuter.de/lexikon/flieder.htm)
+
+## Fotos
+
+![Flieder, Foto 1](https://heildepot.wir.ooo/bilder/kraut/flieder-1.webp)
+
+Foto 1: Lars Lentz, CC BY-SA 1.0, [Quelle](https://commons.wikimedia.org/wiki/File:LightningVolt_Twisting_Branch_Lilac_tree.jpg)
+
+![Flieder, Foto 2](https://heildepot.wir.ooo/bilder/kraut/flieder-2.webp)
+
+Foto 2: GerFes, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Lilac_3.jpg)
+
+![Flieder, Foto 3](https://heildepot.wir.ooo/bilder/kraut/flieder-3.webp)
+
+Foto 3: Hswaton, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Flieder_(3).JPG)
 
 ## Im Heildepot
 

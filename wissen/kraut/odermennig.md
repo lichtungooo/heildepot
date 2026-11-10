@@ -7,6 +7,11 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Kraut"
 tags: ["odermennig", "leber", "galle", "hals", "wundheilung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["adstringierend", "leberstärkend", "wundheilend", "verdauungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/odermennig-1.webp"
+bild_nachweis: "Sten Porse, CC BY-SA 3.0"
 ---
 
 # Odermennig
@@ -38,10 +43,10 @@ Kraut
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
-- [[galle]]
+- [Leber / Galle](../beschwerde/leber.md)
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
-- [[halsschmerzen]]
-- [[wundheilung]]
+- [Angina / Mandelentzündung / Halsschmerzen](../beschwerde/angina.md)
+- [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ Landfrauen bereiteten bei Durchfall sofort einen Odermennig-Tee, er galt als ein
 ## Mehr dazu
 
 - [Odermennig bei der Quelle](https://heilkräuter.de/lexikon/odermennig.htm)
+
+## Fotos
+
+![Odermennig, Foto 1](https://heildepot.wir.ooo/bilder/kraut/odermennig-1.webp)
+
+Foto 1: Sten Porse, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Agrimonia-eupatoria.JPG)
+
+![Odermennig, Foto 2](https://heildepot.wir.ooo/bilder/kraut/odermennig-2.webp)
+
+Foto 2: Vatadoshu, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:Aigremoine(0)a.jpg)
+
+![Odermennig, Foto 3](https://heildepot.wir.ooo/bilder/kraut/odermennig-3.webp)
+
+Foto 3: Michael Kurz, CC BY-SA 3.0 at, [Quelle](https://commons.wikimedia.org/wiki/File:Agrimoniaeupatoria-2-6-07-Rippe1F2-11-11-E-MK-14829a.jpg)
 
 ## Im Heildepot
 

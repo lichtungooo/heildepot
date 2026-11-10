@@ -3,21 +3,23 @@ art: "rezept"
 id: "hexenbanner-flaeschchen"
 name: "Das Hexenbanner-Fläschchen: Witch Bottle"
 tradition: "Grimoire"
-kategorie: "Schutzmagie"
 tags: ["WitchBottle", "Hexenbanner", "Schutzmagie", "Archäologie", "BartmannKrug", "Volksmagie", "Eisennägel", "Schutzzauber", "England", "Deutschland"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Schutzmagie"
 ---
 
 # Das Hexenbanner-Fläschchen: Witch Bottle
 
 ## Hilft bei
 
-- [[Witch Bottle]]
-- [[Hexenbanner]]
-- [[Schutzmagie]]
-- [[Hausschutz]]
-- [[Volksmagie]]
-- [[Archäologie]]
+- [Witch bottle](../beschwerde/witch-bottle.md)
+- [Hexenbanner](../beschwerde/hexenbanner.md)
+- [Schutzmagie](../beschwerde/schutzmagie.md)
+- [Hausschutz](../beschwerde/hausschutz.md)
+- [Volksmagie](../beschwerde/volksmagie.md)
+- [Archäologie](../beschwerde/archaeologie.md)
 
 ## Schwierigkeit
 

@@ -7,6 +7,11 @@ familie: "Melonenbaumgewächse (Caricaceae)"
 pflanzenteile: "Frucht, Kerne, Blätter"
 tags: ["papaya", "verdauung", "papain", "parasiten", "enzyme"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "entzündungshemmend", "wurmtreibend", "immunstärkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/papaya-1.webp"
+bild_nachweis: "H. Zell, CC BY-SA 3.0"
 ---
 
 # Papaya
@@ -38,10 +43,10 @@ Frucht, Kerne, Blätter
 - [Parasiten / Würmer / Darmparasiten](../beschwerde/parasiten.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
-- [[verdauungsschwaeche]]
+- [Verdauungsschwäche](../beschwerde/verdauungsschwaeche.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[wundheilung]]
-- [[eiweissunvertraeglichkeit]]
+- [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
+- [Eiweissunverträglichkeit](../beschwerde/eiweissunvertraeglichkeit.md)
 
 ## Beschreibung
 
@@ -146,6 +151,20 @@ In der tropischen Volksmedizin ist die Papaya ein Allheilmittel. Der Milchsaft w
 ## Mehr dazu
 
 - [Papaya bei der Quelle](https://heilkräuter.de/lexikon/papaya.htm)
+
+## Fotos
+
+![Papaya, Foto 1](https://heildepot.wir.ooo/bilder/kraut/papaya-1.webp)
+
+Foto 1: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Carica_papaya_002.JPG)
+
+![Papaya, Foto 2](https://heildepot.wir.ooo/bilder/kraut/papaya-2.webp)
+
+Foto 2: Tu7uh, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:BungaBetik.jpg)
+
+![Papaya, Foto 3](https://heildepot.wir.ooo/bilder/kraut/papaya-3.webp)
+
+Foto 3: Ton Rulkens, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Carica_papaya_-_male_flowers.jpg)
 
 ## Im Heildepot
 

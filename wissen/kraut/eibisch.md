@@ -7,6 +7,11 @@ familie: "Malvengewächse (Malvaceae)"
 pflanzenteile: "Wurzel, Blätter, Blüten"
 tags: ["eibisch", "husten", "reizhusten", "schleimhaut", "magen"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimhautschützend", "reizlindernd", "hustenlindernd", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/eibisch-1.webp"
+bild_nachweis: "Magnus Manske, CC BY-SA 3.0"
 ---
 
 # Eibisch
@@ -38,10 +43,10 @@ Wurzel, Blätter, Blüten
 - [Sodbrennen / Reflux](../beschwerde/sodbrennen.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
-- [[reizhusten]]
-- [[halsweh]]
-- [[magenschleimhaut]]
-- [[schleimhaut]]
+- [Reizhusten](../beschwerde/reizhusten.md)
+- [Halsweh](../beschwerde/halsweh.md)
+- [Magenschleimhaut](../beschwerde/magenschleimhaut.md)
+- [Schleimhaut](../beschwerde/schleimhaut.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 
 ## Beschreibung
@@ -144,6 +149,20 @@ Großmütter kochten Eibischwurzel-Wasser bei jedem Husten und Halsweh, der schl
 ## Mehr dazu
 
 - [Eibisch bei der Quelle](https://heilkräuter.de/lexikon/eibisch.htm)
+
+## Fotos
+
+![Eibisch, Foto 1](https://heildepot.wir.ooo/bilder/kraut/eibisch-1.webp)
+
+Foto 1: Magnus Manske, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Althaea_officinalis_%27Marsh_Mallow%27_(Malvaceae)_plant.JPG)
+
+![Eibisch, Foto 2](https://heildepot.wir.ooo/bilder/kraut/eibisch-2.webp)
+
+Foto 2: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Althaea_officinalis_001.JPG)
+
+![Eibisch, Foto 3](https://heildepot.wir.ooo/bilder/kraut/eibisch-3.webp)
+
+Foto 3: Benjamin Zwittnig, CC BY 2.5 si, [Quelle](https://commons.wikimedia.org/wiki/File:Althaea_officinalis_PID2027-2.jpg)
 
 ## Im Heildepot
 

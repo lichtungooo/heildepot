@@ -7,6 +7,11 @@ familie: "Kürbisgewächse (Cucurbitaceae)"
 pflanzenteile: "Blätter"
 tags: ["jiaogulan", "adaptogen", "unsterblichkeit", "blutdruck", "immunsystem"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["adaptogen", "immunstärkend", "blutdruckregulierend", "antioxidativ"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/jiaogulan-1.webp"
+bild_nachweis: "bauty, CC BY 2.0 de"
 ---
 
 # Jiaogulan
@@ -39,9 +44,9 @@ Blätter
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
 - [Diabetes](../beschwerde/diabetes.md)
 - [Burnout / Chronische Erschöpfung](../beschwerde/burnout.md)
-- [[cholesterin]]
+- [Cholesterin](../beschwerde/cholesterin.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[alter]]
+- [Alter](../beschwerde/alter.md)
 
 ## Beschreibung
 
@@ -139,6 +144,20 @@ In den Bergen Südchinas sagen die alten Leute: "Xiancao trinken heißt den Himm
 ## Mehr dazu
 
 - [Jiaogulan bei der Quelle](https://heilkräuter.de/lexikon/jiaogulan.htm)
+
+## Fotos
+
+![Jiaogulan, Foto 1](https://heildepot.wir.ooo/bilder/kraut/jiaogulan-1.webp)
+
+Foto 1: bauty, CC BY 2.0 de, [Quelle](https://commons.wikimedia.org/wiki/File:Jiaogulan.JPG)
+
+![Jiaogulan, Foto 2](https://heildepot.wir.ooo/bilder/kraut/jiaogulan-2.webp)
+
+Foto 2: Doronenko, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Gynostemma_pentaphyllum_1.jpg)
+
+![Jiaogulan, Foto 3](https://heildepot.wir.ooo/bilder/kraut/jiaogulan-3.webp)
+
+Foto 3: Pelikana, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Jiaogulan_02_PM03.jpg)
 
 ## Im Heildepot
 

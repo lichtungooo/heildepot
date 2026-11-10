@@ -7,6 +7,11 @@ familie: "Grasbaumgewächse (Xanthorrhoeaceae)"
 pflanzenteile: "Knolle, Wurzel"
 tags: ["affodill", "haut", "warzen", "mittelmeer"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["harntreibend", "hautpflegend", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/affodill-1.webp"
+bild_nachweis: "No machine-readable author provided. CaptainHaddock assumed (based on copyright claims)., CC BY-SA 3.0"
 ---
 
 # Affodill
@@ -36,11 +41,11 @@ Knolle, Wurzel
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Niere / Blase / Harnwege](../beschwerde/niere.md)
-- [[ekzem]]
-- [[warzen]]
-- [[hautprobleme]]
+- [Hautthemen / Neurodermitis](../beschwerde/haut.md)
+- [Warzen](../beschwerde/warzen.md)
+- [Hautprobleme](../beschwerde/hautprobleme.md)
 - [Husten / Bronchitis](../beschwerde/husten.md)
-- [[verschleimung]]
+- [Verschleimung](../beschwerde/verschleimung.md)
 
 ## Beschreibung
 
@@ -136,6 +141,20 @@ In der mediterranen Volksheilkunde war der Affodill ein wichtiges Hautmittel. De
 ## Mehr dazu
 
 - [Affodill bei der Quelle](https://heilkräuter.de/lexikon/affodill.htm)
+
+## Fotos
+
+![Affodill, Foto 1](https://heildepot.wir.ooo/bilder/kraut/affodill-1.webp)
+
+Foto 1: No machine-readable author provided. CaptainHaddock assumed (based on copyright claims)., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Asphodelus_albus_402.jpg)
+
+![Affodill, Foto 2](https://heildepot.wir.ooo/bilder/kraut/affodill-2.webp)
+
+Foto 2: Marco Schmidt, CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Asphodeles_albus_MS_4471.jpg)
+
+![Affodill, Foto 3](https://heildepot.wir.ooo/bilder/kraut/affodill-3.webp)
+
+Foto 3: Jean-Pol GRANDMONT, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:0_Asphodelus_albus_-_Samo%C3%ABns_(1).JPG)
 
 ## Im Heildepot
 

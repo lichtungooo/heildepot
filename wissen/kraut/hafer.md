@@ -7,6 +7,11 @@ familie: "Süßgräser (Poaceae)"
 pflanzenteile: "Kraut (grüner Hafer), Korn, Stroh"
 tags: ["hafer", "nerven", "haut", "schlaf", "cholesterin"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["nervenstärkend", "beruhigend", "hautpflegend", "cholesterinsenkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/hafer-1.webp"
+bild_nachweis: "hisi21, CC BY-SA 3.0"
 ---
 
 # Hafer
@@ -39,13 +44,13 @@ Kraut (grüner Hafer), Korn, Stroh
 - [Neurodermitis / Ekzem](../beschwerde/neurodermitis.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 - [Sucht / Abhängigkeit / Entzug](../beschwerde/sucht.md)
-- [[nervositaet]]
-- [[schlafprobleme]]
+- [Nervosität](../beschwerde/nervositaet.md)
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
 - [Burnout / Chronische Erschöpfung](../beschwerde/burnout.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
-- [[cholesterin]]
+- [Cholesterin](../beschwerde/cholesterin.md)
 - [Diabetes](../beschwerde/diabetes.md)
-- [[konzentration]]
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
 
 ## Beschreibung
 
@@ -155,6 +160,20 @@ Kneipp sagte: "Der Hafer ist das vielseitigste Getreide und ein Heilmittel erste
 ## Mehr dazu
 
 - [Hafer bei der Quelle](https://heilkräuter.de/lexikon/hafer.htm)
+
+## Fotos
+
+![Hafer, Foto 1](https://heildepot.wir.ooo/bilder/kraut/hafer-1.webp)
+
+Foto 1: hisi21, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Avena_sativa_as_banker_plants.jpg)
+
+![Hafer, Foto 2](https://heildepot.wir.ooo/bilder/kraut/hafer-2.webp)
+
+Foto 2: H. Zell, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Avena_sativa_002.JPG)
+
+![Hafer, Foto 3](https://heildepot.wir.ooo/bilder/kraut/hafer-3.webp)
+
+Foto 3: Michał, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_Owies_zwyczajny_263_6444.jpg)
 
 ## Im Heildepot
 

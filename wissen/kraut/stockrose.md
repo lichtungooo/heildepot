@@ -7,6 +7,11 @@ familie: "Malvengewächse (Malvaceae)"
 pflanzenteile: "Blüten"
 tags: ["stockrose", "husten", "heiserkeit", "schleimhaut", "garten"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimhautschützend", "reizlindernd", "entzündungshemmend", "schleimlösend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/stockrose-1.webp"
+bild_nachweis: "Stephan Czuratis (Jazz-face), CC BY-SA 2.5"
 ---
 
 # Stockrose
@@ -37,11 +42,11 @@ Blüten
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Heiserkeit / Stimmbandprobleme](../beschwerde/heiserkeit.md)
 - [Sodbrennen / Reflux](../beschwerde/sodbrennen.md)
-- [[hals]]
-- [[schleimhaut]]
-- [[magen]]
+- [Heiserkeit / Stimmbandprobleme](../beschwerde/heiserkeit.md)
+- [Schleimhaut](../beschwerde/schleimhaut.md)
+- [Sodbrennen / Reflux](../beschwerde/sodbrennen.md)
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
-- [[mundtrockenheit]]
+- [Mundtrockenheit](../beschwerde/mundtrockenheit.md)
 
 ## Beschreibung
 
@@ -136,6 +141,20 @@ In der Bauerntradition wurden die dunklen Blüten als natürlicher Farbstoff fü
 ## Mehr dazu
 
 - [Stockrose bei der Quelle](https://heilkräuter.de/lexikon/stockrose.htm)
+
+## Fotos
+
+![Stockrose, Foto 1](https://heildepot.wir.ooo/bilder/kraut/stockrose-1.webp)
+
+Foto 1: Stephan Czuratis (Jazz-face), CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:2006-07-15_stockrose1.jpg)
+
+![Stockrose, Foto 2](https://heildepot.wir.ooo/bilder/kraut/stockrose-2.webp)
+
+Foto 2: Dezidor, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Alcea_rosea_(3).jpg)
+
+![Stockrose, Foto 3](https://heildepot.wir.ooo/bilder/kraut/stockrose-3.webp)
+
+Foto 3: Alvesgaspar, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Alcea_July_2011-1.jpg)
 
 ## Im Heildepot
 

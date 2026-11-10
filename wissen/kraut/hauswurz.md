@@ -7,6 +7,11 @@ familie: "Dickblattgewächse (Crassulaceae)"
 pflanzenteile: "Blätter, Saft"
 tags: ["hauswurz", "wundheilung", "insektenstiche", "warzen", "dach"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["kühlend", "wundheilend", "entzündungshemmend", "schmerzlindernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/hauswurz-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 3.0"
 ---
 
 # Hauswurz
@@ -37,11 +42,11 @@ Blätter, Saft
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
 - [Insektenstiche / Allergische Reaktion](../beschwerde/insektenstiche.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
-- [[verbrennungen]]
-- [[sonnenbrand]]
-- [[warzen]]
+- [Verbrennungen](../beschwerde/verbrennungen.md)
+- [Sonnenbrand](../beschwerde/sonnenbrand.md)
+- [Warzen](../beschwerde/warzen.md)
 - [Ohrenschmerzen / Mittelohrentzündung](../beschwerde/ohrenschmerzen.md)
-- [[hautreizungen]]
+- [Hautreizungen](../beschwerde/hautreizungen.md)
 
 ## Beschreibung
 
@@ -139,6 +144,20 @@ Die Hauswurz war das "Pflaster auf dem Dach", bei Verbrennungen, Insektenstichen
 ## Mehr dazu
 
 - [Hauswurz bei der Quelle](https://heilkräuter.de/lexikon/hauswurz.htm)
+
+## Fotos
+
+![Hauswurz, Foto 1](https://heildepot.wir.ooo/bilder/kraut/hauswurz-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Donderbotten.JPG)
+
+![Hauswurz, Foto 2](https://heildepot.wir.ooo/bilder/kraut/hauswurz-2.webp)
+
+Foto 2: Fritz Geller-Grimm, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Maggia_fg32a.jpg)
+
+![Hauswurz, Foto 3](https://heildepot.wir.ooo/bilder/kraut/hauswurz-3.webp)
+
+Foto 3: Carolineee1991, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:P5190101.JPG)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Kürbisgewächse (Cucurbitaceae)"
 pflanzenteile: "Kerne, Fruchtfleisch"
 tags: ["kürbis", "prostata", "blase", "kerne", "zink"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["prostatastärkend", "harntreibend", "wurmtreibend", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/kuerbis-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 1.0"
 ---
 
 # Kürbis
@@ -38,11 +43,11 @@ Kerne, Fruchtfleisch
 - [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
 - [Parasiten / Würmer / Darmparasiten](../beschwerde/parasiten.md)
 - [Haarausfall / Haargesundheit](../beschwerde/haarverlust.md)
-- [[blase]]
-- [[reizblase]]
-- [[wuermer]]
-- [[cholesterin]]
-- [[schlafprobleme]]
+- [Prostata / Männergesundheit](../beschwerde/prostata.md)
+- [Reizblase](../beschwerde/reizblase.md)
+- [Parasiten / Würmer / Darmparasiten](../beschwerde/parasiten.md)
+- [Cholesterin](../beschwerde/cholesterin.md)
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ In der bäuerlichen Medizin assen Männer ab dem 50. Lebensjahr täglich eine Ha
 ## Mehr dazu
 
 - [Kürbis bei der Quelle](https://heilkräuter.de/lexikon/kürbis.htm)
+
+## Fotos
+
+![Kürbis, Foto 1](https://heildepot.wir.ooo/bilder/kraut/kuerbis-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 1.0, [Quelle](https://commons.wikimedia.org/wiki/File:Beige_squashes_DSC01081.jpg)
+
+![Kürbis, Foto 2](https://heildepot.wir.ooo/bilder/kraut/kuerbis-2.webp)
+
+Foto 2: Frank Vincentz, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Cucurbita_pepo_01_ies.jpg)
+
+![Kürbis, Foto 3](https://heildepot.wir.ooo/bilder/kraut/kuerbis-3.webp)
+
+Foto 3: Arria Belli (Arria Belli), CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Cucurbita_pepo_-_creeping_across_lawn.jpg)
 
 ## Im Heildepot
 

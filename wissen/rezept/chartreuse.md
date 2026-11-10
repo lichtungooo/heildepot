@@ -3,19 +3,21 @@ art: "rezept"
 id: "chartreuse"
 name: "Chartreuse: Das Geheimnis der 130 Kräuter"
 tradition: "Klostermedizin"
-kategorie: "Klosterapotheke"
 tags: ["klosterapotheke", "chartreuse", "kartaeuser", "geheim", "likör", "130-kräuter", "historisch"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Klosterapotheke"
 ---
 
 # Chartreuse: Das Geheimnis der 130 Kräuter
 
 ## Hilft bei
 
-- [[Verdauungsbeschwerden]]
+- [Verdauungsbeschwerden](../beschwerde/verdauungsbeschwerden.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[historisches Interesse]]
-- [[kulinarischer Genuss]]
+- [Historisches interesse](../beschwerde/historisches-interesse.md)
+- [Kulinarischer genuss](../beschwerde/kulinarischer-genuss.md)
 
 ## Schwierigkeit
 

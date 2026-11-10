@@ -7,6 +7,11 @@ familie: "Rötegewächse (Rubiaceae)"
 pflanzenteile: "Bohnen (Samen)"
 tags: ["kaffee", "konzentration", "verdauung", "kopfschmerzen"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["anregend", "verdauungsfördernd", "schmerzlindernd", "stimmungsaufhellend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/kaffee-1.webp"
+bild_nachweis: "Liné1, CC BY 2.5"
 ---
 
 # Kaffee
@@ -38,10 +43,10 @@ Bohnen (Samen)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Migräne](../beschwerde/migraene.md)
-- [[muedigkeit]]
+- [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 - [Asthma / Atemwege](../beschwerde/asthma.md)
-- [[konzentrationsschwaeche]]
-- [[verdauungstraegheit]]
+- [Konzentrationsschwäche](../beschwerde/konzentrationsschwaeche.md)
+- [Verdauungsträgheit](../beschwerde/verdauungstraegheit.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ In der arabischen Volksmedizin war Kaffee Medizin und Genuss zugleich. Man trank
 ## Mehr dazu
 
 - [Kaffee bei der Quelle](https://heilkräuter.de/lexikon/kaffee.htm)
+
+## Fotos
+
+![Kaffee, Foto 1](https://heildepot.wir.ooo/bilder/kraut/kaffee-1.webp)
+
+Foto 1: Liné1, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Coffea_arabica01.jpg)
+
+![Kaffee, Foto 2](https://heildepot.wir.ooo/bilder/kraut/kaffee-2.webp)
+
+Foto 2: Feloidea, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Berne_Botanic_garden_Coffea_arabica.jpg)
+
+![Kaffee, Foto 3](https://heildepot.wir.ooo/bilder/kraut/kaffee-3.webp)
+
+Foto 3: Los investigadores, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:CATE_VERDE.JPG)
 
 ## Im Heildepot
 

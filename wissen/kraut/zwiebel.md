@@ -7,6 +7,11 @@ familie: "Lauchgewächse (Amaryllidaceae)"
 pflanzenteile: "Zwiebel (Knolle)"
 tags: ["zwiebel", "husten", "ohrenschmerzen", "hausmittel", "erkältung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "antibakteriell", "entzündungshemmend", "hustenlindernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/zwiebel-1.webp"
+bild_nachweis: "H. Zell, CC BY-SA 3.0"
 ---
 
 # Zwiebel
@@ -38,8 +43,8 @@ Zwiebel (Knolle)
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Ohrenschmerzen / Mittelohrentzündung](../beschwerde/ohrenschmerzen.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
-- [[bronchitis]]
-- [[immunsystem]]
+- [Husten / Bronchitis](../beschwerde/husten.md)
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Insektenstiche / Allergische Reaktion](../beschwerde/insektenstiche.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 
@@ -143,6 +148,20 @@ In fast jeder Kultur gilt die Zwiebel als das erste Hausmittel bei Erkältung. G
 ## Mehr dazu
 
 - [Zwiebel bei der Quelle](https://heilkräuter.de/lexikon/zwiebel.htm)
+
+## Fotos
+
+![Zwiebel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/zwiebel-1.webp)
+
+Foto 1: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Allium_cepa_001.JPG)
+
+![Zwiebel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/zwiebel-2.webp)
+
+Foto 2: rarehero, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ail_et_%C3%A9chalotte_au_march%C3%A9_de_Sorgues.jpg)
+
+![Zwiebel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/zwiebel-3.webp)
+
+Foto 3: Silar, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:0.2014_Traditionelle_Osterkirmes_und_Ostermarkt_2014_im_Sanoker_Freilichtmuseum.JPG)
 
 ## Im Heildepot
 

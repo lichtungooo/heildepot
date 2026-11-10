@@ -7,6 +7,11 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Wurzel"
 tags: ["süßholz", "lakritze", "husten", "magen", "sodbrennen"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimhautschützend", "entzündungshemmend", "schleimlösend", "krampflösend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/suessholz-1.webp"
+bild_nachweis: "Alcibiades, Public domain"
 ---
 
 # Süßholz
@@ -39,9 +44,9 @@ Wurzel
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
-- [[bronchitis]]
-- [[magen]]
-- [[nebenniere]]
+- [Husten / Bronchitis](../beschwerde/husten.md)
+- [Sodbrennen / Reflux](../beschwerde/sodbrennen.md)
+- [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
 
 ## Beschreibung
 
@@ -139,6 +144,20 @@ Kinder kauten früher auf "Bärendreck" (Lakritze) als natürlichem Hustenmittel
 ## Mehr dazu
 
 - [Süßholz bei der Quelle](https://heilkräuter.de/lexikon/süßholz.htm)
+
+## Fotos
+
+![Süßholz, Foto 1](https://heildepot.wir.ooo/bilder/kraut/suessholz-1.webp)
+
+Foto 1: Alcibiades, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Liquiritiae_radix_suessholzwurzel.jpg)
+
+![Süßholz, Foto 2](https://heildepot.wir.ooo/bilder/kraut/suessholz-2.webp)
+
+Foto 2: American Colony (Jerusalem). Photo Dept., photographer., Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Aleppolicorice.jpg)
+
+![Süßholz, Foto 3](https://heildepot.wir.ooo/bilder/kraut/suessholz-3.webp)
+
+Foto 3: GaardenierMortsel, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Licourice_blossom_Mortsel.JPG)
 
 ## Im Heildepot
 

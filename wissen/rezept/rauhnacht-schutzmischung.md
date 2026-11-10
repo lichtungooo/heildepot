@@ -3,22 +3,24 @@ art: "rezept"
 id: "rauhnacht-schutzmischung"
 name: "Rauhnacht-Schutzmischung: Rauch für die Heiligen Nächte"
 tradition: "Hexenwissen"
-kategorie: "Jahreskreis-Rezepte"
 tags: ["jahreskreis", "rauhnachte", "räucherung", "schutz", "hexenwissen", "wildejagd", "segen"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Jahreskreis-Rezepte"
 ---
 
 # Rauhnacht-Schutzmischung: Rauch für die Heiligen Nächte
 
 ## Hilft bei
 
-- [[rauhnachte]]
-- [[schutz]]
-- [[reinigung]]
-- [[jahreswechsel]]
-- [[neubeginn]]
-- [[raeucherung]]
-- [[segen]]
+- [Rauhnachte](../beschwerde/rauhnachte.md)
+- [Schutz](../beschwerde/schutz.md)
+- [Parasiten / Würmer / Darmparasiten](../beschwerde/parasiten.md)
+- [Jahreswechsel](../beschwerde/jahreswechsel.md)
+- [Neubeginn](../beschwerde/neubeginn.md)
+- [Räucherung](../beschwerde/raeucherung.md)
+- [Segen](../beschwerde/segen.md)
 
 ## Schwierigkeit
 

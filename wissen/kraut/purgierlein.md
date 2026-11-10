@@ -7,6 +7,11 @@ familie: "Leingewächse"
 pflanzenteile: "Kraut"
 tags: ["purgierlein", "abführend", "galle", "verstopfung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["abführend", "harntreibend", "gallentreibend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/purgierlein-1.webp"
+bild_nachweis: "Olivier Pichard, CC BY-SA 3.0"
 ---
 
 # Purgierlein
@@ -33,11 +38,25 @@ Kraut
 
 - [Verstopfung / Darmträgheit](../beschwerde/verstopfung.md)
 - [Leber / Galle](../beschwerde/leber.md)
-- [[galle]]
+- [Leber / Galle](../beschwerde/leber.md)
 
 ## Mehr dazu
 
 - [Purgierlein bei der Quelle](https://heilkräuter.de/lexikon/purgierlein.htm)
+
+## Fotos
+
+![Purgierlein, Foto 1](https://heildepot.wir.ooo/bilder/kraut/purgierlein-1.webp)
+
+Foto 1: Olivier Pichard, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Linum_catharticum_chezy-sur-marne_02_12052007_2.jpg)
+
+![Purgierlein, Foto 2](https://heildepot.wir.ooo/bilder/kraut/purgierlein-2.webp)
+
+Foto 2: Hajotthu, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Becklinger_MoorPurgier-Lein.jpg)
+
+![Purgierlein, Foto 3](https://heildepot.wir.ooo/bilder/kraut/purgierlein-3.webp)
+
+Foto 3: AfroBrazilian, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Linum_catharticum_01.JPG)
 
 ## Im Heildepot
 

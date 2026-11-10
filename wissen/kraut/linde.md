@@ -7,6 +7,11 @@ familie: "Lindengewächse (Tiliaceae)"
 pflanzenteile: "Blüten mit Hochblatt"
 tags: ["linde", "erkältung", "fieber", "beruhigend", "schweißtreibend"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schweißtreibend", "beruhigend", "schleimlösend", "krampflösend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/linde-1.webp"
+bild_nachweis: "Jean-Pol GRANDMONT, CC BY-SA 3.0"
 ---
 
 # Linde
@@ -39,10 +44,10 @@ Blüten mit Hochblatt
 - [Schlafthemen](../beschwerde/schlaf.md)
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
 - [Husten / Bronchitis](../beschwerde/husten.md)
-- [[fieber]]
-- [[schlafprobleme]]
+- [Grippe](../beschwerde/grippe.md)
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
 - [Angst / Panikattacken](../beschwerde/angst.md)
-- [[nervositaet]]
+- [Nervosität](../beschwerde/nervositaet.md)
 
 ## Beschreibung
 
@@ -141,6 +146,20 @@ Jede Großmutter wusste: Bei der ersten Erkältung Lindenblütentee trinken, hei
 ## Mehr dazu
 
 - [Linde bei der Quelle](https://heilkräuter.de/lexikon/linde.htm)
+
+## Fotos
+
+![Linde, Foto 1](https://heildepot.wir.ooo/bilder/kraut/linde-1.webp)
+
+Foto 1: Jean-Pol GRANDMONT, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Braffe_ARaJPG.jpg)
+
+![Linde, Foto 2](https://heildepot.wir.ooo/bilder/kraut/linde-2.webp)
+
+Foto 2: Przykuta, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Boron%C3%B3w_lipa_pomnikowa75.jpg)
+
+![Linde, Foto 3](https://heildepot.wir.ooo/bilder/kraut/linde-3.webp)
+
+Foto 3: Rimantas Lazdynas, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bubiuliepa2002.JPG)
 
 ## Im Heildepot
 

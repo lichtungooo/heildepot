@@ -4,6 +4,8 @@ id: "kopfschmerzen"
 name: "Kopfschmerzen / Migräne"
 tags: ["kopfschmerzen", "migräne", "nervensystem", "spannung", "schmerz"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Kopfschmerzen / Migräne

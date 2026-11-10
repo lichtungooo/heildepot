@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Knollen"
 tags: ["topinambur", "inulin", "darm", "blutzucker", "präbiotisch"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["präbiotisch", "blutzuckerregulierend", "verdauungsfördernd", "sättigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/topinambur-1.webp"
+bild_nachweis: "Dalgial, CC BY 3.0"
 ---
 
 # Topinambur
@@ -38,10 +43,10 @@ Knollen
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Übergewicht / Stoffwechsel](../beschwerde/uebergewicht.md)
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
-- [[darmflora]]
-- [[verdauungsbeschwerden]]
+- [Darmflora](../beschwerde/darmflora.md)
+- [Verdauungsbeschwerden](../beschwerde/verdauungsbeschwerden.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
-- [[entgiftung]]
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ In der indianischen Volksmedizin war Topinambur ein Grundnahrungsmittel für Kra
 ## Mehr dazu
 
 - [Topinambur bei der Quelle](https://heilkräuter.de/lexikon/topinambur.htm)
+
+## Fotos
+
+![Topinambur, Foto 1](https://heildepot.wir.ooo/bilder/kraut/topinambur-1.webp)
+
+Foto 1: Dalgial, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Helianthus_tuberosus_1.JPG)
+
+![Topinambur, Foto 2](https://heildepot.wir.ooo/bilder/kraut/topinambur-2.webp)
+
+Foto 2: Fröhlich!a, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:20111002_Enz_in_Niefern_061.jpg)
+
+![Topinambur, Foto 3](https://heildepot.wir.ooo/bilder/kraut/topinambur-3.webp)
+
+Foto 3: Joanna Boisse, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_S%C5%82onecznik_bulwiasty_6153_7119.jpg)
 
 ## Im Heildepot
 

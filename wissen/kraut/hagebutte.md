@@ -7,6 +7,11 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Früchte (Scheinfrüchte)"
 tags: ["hagebutte", "vitamin-c", "immunsystem", "gelenke", "herbst"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["vitaminreich", "immunstärkend", "entzündungshemmend", "antioxidativ"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/hagebutte-1.webp"
+bild_nachweis: "Roberta F., CC BY-SA 3.0"
 ---
 
 # Hagebutte
@@ -39,8 +44,8 @@ Früchte (Scheinfrüchte)
 - [Gelenkschmerzen / Arthrose](../beschwerde/arthrose.md)
 - [Grippe](../beschwerde/grippe.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
-- [[vitaminmangel]]
-- [[gelenkschmerzen]]
+- [Vitaminmangel](../beschwerde/vitaminmangel.md)
+- [Gelenkschmerzen](../beschwerde/gelenkschmerzen.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 
 ## Beschreibung
@@ -139,6 +144,20 @@ Kinder machten aus den Nüsschen im Inneren der Hagebutte "Juckpulver" zum Scher
 ## Mehr dazu
 
 - [Hagebutte bei der Quelle](https://heilkräuter.de/lexikon/hagebutt.htm)
+
+## Fotos
+
+![Hagebutte, Foto 1](https://heildepot.wir.ooo/bilder/kraut/hagebutte-1.webp)
+
+Foto 1: Roberta F., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Divlja_ruza_grm_270508.jpg)
+
+![Hagebutte, Foto 2](https://heildepot.wir.ooo/bilder/kraut/hagebutte-2.webp)
+
+Foto 2: Kauk0r, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Hohentwiel_Wein-Rose.JPG)
+
+![Hagebutte, Foto 3](https://heildepot.wir.ooo/bilder/kraut/hagebutte-3.webp)
+
+Foto 3: 4028mdk09, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:D%C3%BCne_mit_Sanddorn_Hundsrose.JPG)
 
 ## Im Heildepot
 

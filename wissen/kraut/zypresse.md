@@ -7,6 +7,11 @@ familie: "Zypressengewächse (Cupressaceae)"
 pflanzenteile: "Zapfen, Zweige"
 tags: ["zypresse", "venen", "krampfadern", "schweiß", "trauer"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["venenstärkend", "adstringierend", "krampflösend", "schweißhemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/zypresse-1.webp"
+bild_nachweis: "Chneophytou, CC BY-SA 3.0"
 ---
 
 # Zypresse
@@ -37,11 +42,11 @@ Zapfen, Zweige
 - [Krampfadern / Venenschwäche / Durchblutung](../beschwerde/krampfadern.md)
 - [Hämorrhoiden](../beschwerde/haemorrhoiden.md)
 - [Depression / Schwermut](../beschwerde/depression.md)
-- [[venen]]
-- [[schwere_beine]]
+- [Krampfadern / Venenschwäche / Durchblutung](../beschwerde/krampfadern.md)
+- [Schwere beine](../beschwerde/schwere-beine.md)
 - [Husten / Bronchitis](../beschwerde/husten.md)
-- [[schwitzen]]
-- [[durchblutung]]
+- [Schwitzen](../beschwerde/schwitzen.md)
+- [Krampfadern / Venenschwäche / Durchblutung](../beschwerde/krampfadern.md)
 
 ## Beschreibung
 
@@ -143,6 +148,20 @@ Im Mittelmeerraum kauten Menschen Zypressen-Zapfen bei Zahnfleischbluten, und ei
 ## Mehr dazu
 
 - [Zypresse bei der Quelle](https://heilkräuter.de/lexikon/zypresse.htm)
+
+## Fotos
+
+![Zypresse, Foto 1](https://heildepot.wir.ooo/bilder/kraut/zypresse-1.webp)
+
+Foto 1: Chneophytou, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Cypress_Halefka.JPG)
+
+![Zypresse, Foto 2](https://heildepot.wir.ooo/bilder/kraut/zypresse-2.webp)
+
+Foto 2: Γιώργος σιγά μην πω..., CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Saint_Irene_gorge_Crete_a.jpg)
+
+![Zypresse, Foto 3](https://heildepot.wir.ooo/bilder/kraut/zypresse-3.webp)
+
+Foto 3: Stacey Meadwell from London, UK, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Cupressus_sempervirens_Kaunos.jpg)
 
 ## Im Heildepot
 

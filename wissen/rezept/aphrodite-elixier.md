@@ -3,20 +3,22 @@ art: "rezept"
 id: "aphrodite-elixier"
 name: "Aphrodite-Elixier: Der große Liebestrank"
 tradition: "Hexenwissen"
-kategorie: "Liebestränke"
 tags: ["liebestrank", "aphrodisiakum", "kakao", "damiana", "hexenrezept", "venus"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Liebestränke"
 ---
 
 # Aphrodite-Elixier: Der große Liebestrank
 
 ## Hilft bei
 
-- [[libido]]
-- [[romantik]]
-- [[sinnlichkeit]]
-- [[herzchakra]]
-- [[partnerschaft]]
+- [Erektionsstörungen / Libido / Potenz](../beschwerde/erektionsstoerung.md)
+- [Romantik](../beschwerde/romantik.md)
+- [Sinnlichkeit](../beschwerde/sinnlichkeit.md)
+- [Herzchakra](../beschwerde/herzchakra.md)
+- [Partnerschaft](../beschwerde/partnerschaft.md)
 
 ## Schwierigkeit
 

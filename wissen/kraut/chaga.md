@@ -7,6 +7,11 @@ familie: "Borstenscheiblingsartige (Hymenochaetaceae)"
 pflanzenteile: "Fruchtkörper"
 tags: ["chaga", "pilz", "immunsystem", "antioxidativ", "sibirien"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["immunmodulierend", "antioxidativ", "entzündungshemmend", "adaptogen"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/chaga-1.webp"
+bild_nachweis: "Tad Montgomery, CC BY-SA 3.0"
 ---
 
 # Chaga
@@ -39,10 +44,10 @@ Fruchtkörper
 - [Autoimmunthemen](../beschwerde/autoimmun.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 - [Krebs (begleitende Unterstützung)](../beschwerde/krebs.md)
-- [[magen]]
+- [Sodbrennen / Reflux](../beschwerde/sodbrennen.md)
 - [Leber / Galle](../beschwerde/leber.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
-- [[alter]]
+- [Alter](../beschwerde/alter.md)
 - [Diabetes](../beschwerde/diabetes.md)
 
 ## Beschreibung
@@ -146,6 +151,20 @@ In Sibirien trinken die Menschen Chaga-Tee wie andere Kaffee trinken, jeden Tag.
 ## Mehr dazu
 
 - [Chaga bei der Quelle](https://heilkräuter.de/lexikon/chaga.htm)
+
+## Fotos
+
+![Chaga, Foto 1](https://heildepot.wir.ooo/bilder/kraut/chaga-1.webp)
+
+Foto 1: Tad Montgomery, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Chaga-Tad4.jpg)
+
+![Chaga, Foto 2](https://heildepot.wir.ooo/bilder/kraut/chaga-2.webp)
+
+Foto 2: natureluvr01, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Chaga_(8238889746).jpg)
+
+![Chaga, Foto 3](https://heildepot.wir.ooo/bilder/kraut/chaga-3.webp)
+
+Foto 3: Arto J, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Birch_Caught_%5E%5E%5E_(Chaga_mushroom)_-_panoramio.jpg)
 
 ## Im Heildepot
 

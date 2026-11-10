@@ -7,6 +7,11 @@ familie: "Hundsgiftgewächse"
 pflanzenteile: "Samen (nur als Fertigpräparat)"
 tags: ["strophanthus", "herz", "herzglykosid", "giftig", "pfeilgift"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["herzstärkend", "kreislaufstabilisierend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/strophanthus-1.webp"
+bild_nachweis: "Raffi Kojian, CC BY-SA 3.0"
 ---
 
 # Strophanthus
@@ -35,6 +40,20 @@ Samen (nur als Fertigpräparat)
 ## Mehr dazu
 
 - [Strophanthus bei der Quelle](https://heilkräuter.de/lexikon/strophanthus.htm)
+
+## Fotos
+
+![Strophanthus, Foto 1](https://heildepot.wir.ooo/bilder/kraut/strophanthus-1.webp)
+
+Foto 1: Raffi Kojian, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Gardenology.org-IMG_2053_hunt08sep.jpg)
+
+![Strophanthus, Foto 2](https://heildepot.wir.ooo/bilder/kraut/strophanthus-2.webp)
+
+Foto 2: Prenn, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Strophanthus_gratus_(3).JPG)
+
+![Strophanthus, Foto 3](https://heildepot.wir.ooo/bilder/kraut/strophanthus-3.webp)
+
+Foto 3: Mokkie, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Climbing_Oleander_(Strophanthus_gratus)_1.jpg)
 
 ## Im Heildepot
 

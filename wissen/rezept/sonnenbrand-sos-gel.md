@@ -3,22 +3,24 @@ art: "rezept"
 id: "sonnenbrand-sos-gel"
 name: "Sonnenbrand-SOS-Gel: Kühle Rettung für verbrannte Haut"
 tradition: "Hexenwissen"
-kategorie: "Erste Hilfe: Natürlich"
 tags: ["erste_hilfe", "sonnenbrand", "aloe_vera", "hexenwissen", "sommer", "hautpflege", "kühlung"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Erste Hilfe: Natürlich"
 ---
 
 # Sonnenbrand-SOS-Gel: Kühle Rettung für verbrannte Haut
 
 ## Hilft bei
 
-- [[sonnenbrand]]
-- [[verbrennung]]
-- [[hautreizung]]
-- [[sommer]]
+- [Sonnenbrand](../beschwerde/sonnenbrand.md)
+- [Verbrennung](../beschwerde/verbrennung.md)
+- [Hautreizung](../beschwerde/hautreizung.md)
+- [Sommer](../beschwerde/sommer.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
-- [[kuehlung]]
+- [Kühlung](../beschwerde/kuehlung.md)
 
 ## Schwierigkeit
 

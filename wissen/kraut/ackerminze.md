@@ -7,6 +7,11 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut, Blätter"
 tags: ["ackerminze", "kopfschmerzen", "verdauung", "kühlung", "atemwege"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["kühlend", "krampflösend", "schmerzlindernd", "verdauungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/ackerminze-1.webp"
+bild_nachweis: "Michael Becker, CC BY-SA 3.0"
 ---
 
 # Ackerminze
@@ -39,8 +44,8 @@ Kraut, Blätter
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[uebelkeit]]
-- [[magenkraempfe]]
+- [Übelkeit](../beschwerde/uebelkeit.md)
+- [Magenkrämpfe](../beschwerde/magenkraempfe.md)
 - [Insektenstiche / Allergische Reaktion](../beschwerde/insektenstiche.md)
 
 ## Beschreibung
@@ -139,6 +144,20 @@ In der Volksheilkunde wurde die Ackerminze als universelles Hausmittel bei Magen
 ## Mehr dazu
 
 - [Ackerminze bei der Quelle](https://heilkräuter.de/lexikon/ackerminze.htm)
+
+## Fotos
+
+![Ackerminze, Foto 1](https://heildepot.wir.ooo/bilder/kraut/ackerminze-1.webp)
+
+Foto 1: Michael Becker, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Mentha_arvensis_2005.08.28_09.49.00.jpg)
+
+![Ackerminze, Foto 2](https://heildepot.wir.ooo/bilder/kraut/ackerminze-2.webp)
+
+Foto 2: Stickpen, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Menthaarvensis.JPG)
+
+![Ackerminze, Foto 3](https://heildepot.wir.ooo/bilder/kraut/ackerminze-3.webp)
+
+Foto 3: Hajotthu, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ackerminze_(Mentha_arvensis).JPG)
 
 ## Im Heildepot
 

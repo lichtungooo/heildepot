@@ -7,6 +7,11 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Blätter, Wurzel, Samen"
 tags: ["petersilie", "niere", "vitamine", "eisen", "küche"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["harntreibend", "vitaminreich", "verdauungsfördernd", "entgiftend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/petersilie-1.webp"
+bild_nachweis: "Dinkum, CC0"
 ---
 
 # Petersilie
@@ -37,12 +42,12 @@ Blätter, Wurzel, Samen
 - [Niere / Blase / Harnwege](../beschwerde/niere.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
-- [[harnwege]]
-- [[oedeme]]
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
+- [Ödeme](../beschwerde/oedeme.md)
 - [Eisenmangel / Blutarmut / Anämie](../beschwerde/eisenmangel.md)
-- [[menstruation]]
+- [PMS / Menstruationsbeschwerden](../beschwerde/pms.md)
 - [Mundgeruch / Halitosis](../beschwerde/mundgeruch.md)
-- [[entgiftung]]
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
 - [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
 
 ## Beschreibung
@@ -147,6 +152,20 @@ Bauernregel: "Petersilie hilft dem Mann aufs Pferd und der Frau unter die Erd", 
 ## Mehr dazu
 
 - [Petersilie bei der Quelle](https://heilkräuter.de/lexikon/petersil.htm)
+
+## Fotos
+
+![Petersilie, Foto 1](https://heildepot.wir.ooo/bilder/kraut/petersilie-1.webp)
+
+Foto 1: Dinkum, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:Au_march%C3%A9_-_persil.JPG)
+
+![Petersilie, Foto 2](https://heildepot.wir.ooo/bilder/kraut/petersilie-2.webp)
+
+Foto 2: Lankiveil/Craig Franklin, CC BY-SA 3.0 au, [Quelle](https://commons.wikimedia.org/wiki/File:BCBG_Rainbow_Garden_01.jpg)
+
+![Petersilie, Foto 3](https://heildepot.wir.ooo/bilder/kraut/petersilie-3.webp)
+
+Foto 3: Vikiçizer, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:1_maydanoz_2.JPG)
 
 ## Im Heildepot
 

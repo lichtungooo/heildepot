@@ -7,6 +7,11 @@ familie: "Araliengewächse"
 pflanzenteile: "Wurzel"
 tags: ["ginseng", "kraft", "adaptogen", "immunsystem", "tcm"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["adaptogen", "kräftigend", "immunstärkend", "konzentrationsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/ginseng-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 3.0"
 ---
 
 # Ginseng
@@ -42,6 +47,20 @@ Wurzel
 ## Mehr dazu
 
 - [Ginseng bei der Quelle](https://heilkräuter.de/lexikon/ginseng.htm)
+
+## Fotos
+
+![Ginseng, Foto 1](https://heildepot.wir.ooo/bilder/kraut/ginseng-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ginseng_in_Korea.jpg)
+
+![Ginseng, Foto 2](https://heildepot.wir.ooo/bilder/kraut/ginseng-2.webp)
+
+Foto 2: Richardfabi at German Wikipedia, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ginseng.jpg)
+
+![Ginseng, Foto 3](https://heildepot.wir.ooo/bilder/kraut/ginseng-3.webp)
+
+Foto 3: self, CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:GinsengMarathonCityWisconsin.jpg)
 
 ## Im Heildepot
 

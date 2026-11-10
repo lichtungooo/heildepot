@@ -7,6 +7,11 @@ familie: "Spindelbaumgewächse"
 pflanzenteile: "Früchte, Rinde (nur homöopathisch)"
 tags: ["spindelstrauch", "giftig", "leber", "homöopathie"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["leberwirksam", "kreislaufanregend", "antiparasitär"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/spindelstrauch-1.webp"
+bild_nachweis: "The original uploader was MPF at English Wikipedia., CC BY-SA 3.0"
 ---
 
 # Spindelstrauch
@@ -36,6 +41,20 @@ Früchte, Rinde (nur homöopathisch)
 ## Mehr dazu
 
 - [Spindelstrauch bei der Quelle](https://heilkräuter.de/lexikon/spindelstrauch.htm)
+
+## Fotos
+
+![Spindelstrauch, Foto 1](https://heildepot.wir.ooo/bilder/kraut/spindelstrauch-1.webp)
+
+Foto 1: The original uploader was MPF at English Wikipedia., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Euonymus_europaeus.jpg)
+
+![Spindelstrauch, Foto 2](https://heildepot.wir.ooo/bilder/kraut/spindelstrauch-2.webp)
+
+Foto 2: Javier martin, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Evonimus_europaeus_Planta-DehesaBoyalPuertollano.jpg)
+
+![Spindelstrauch, Foto 3](https://heildepot.wir.ooo/bilder/kraut/spindelstrauch-3.webp)
+
+Foto 3: MM, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:EuonymusEuropaeaHalternOtt2009.jpg)
 
 ## Im Heildepot
 

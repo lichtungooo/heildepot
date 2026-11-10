@@ -7,6 +7,11 @@ familie: "Nelkengewächse (Caryophyllaceae)"
 pflanzenteile: "Kraut, Blüten"
 tags: ["lichtnelke", "husten", "wildkraut"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/lichtnelke-1.webp"
+bild_nachweis: "NaturKamera, CC BY 3.0"
 ---
 
 # Rote Lichtnelke
@@ -34,9 +39,9 @@ Kraut, Blüten
 
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[bronchitis]]
-- [[hautprobleme]]
-- [[blutreinigung]]
+- [Husten / Bronchitis](../beschwerde/husten.md)
+- [Hautprobleme](../beschwerde/hautprobleme.md)
+- [Blutreinigung](../beschwerde/blutreinigung.md)
 
 ## Beschreibung
 
@@ -131,6 +136,20 @@ In der Volksmedizin wurde die Rote Lichtnelke als Hustenmittel und Blutreinigung
 ## Mehr dazu
 
 - [Rote Lichtnelke bei der Quelle](https://heilkräuter.de/lexikon/lichtnelke.htm)
+
+## Fotos
+
+![Rote Lichtnelke, Foto 1](https://heildepot.wir.ooo/bilder/kraut/lichtnelke-1.webp)
+
+Foto 1: NaturKamera, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Naturkamera-15085-rotblume-nn-180508.jpg)
+
+![Rote Lichtnelke, Foto 2](https://heildepot.wir.ooo/bilder/kraut/lichtnelke-2.webp)
+
+Foto 2: böhringer friedrich, CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:AlmwieseRaggal.JPG)
+
+![Rote Lichtnelke, Foto 3](https://heildepot.wir.ooo/bilder/kraut/lichtnelke-3.webp)
+
+Foto 3: Bjoertvedt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Jonsokblom01.jpg)
 
 ## Im Heildepot
 

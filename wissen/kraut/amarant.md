@@ -7,6 +7,11 @@ familie: "Fuchsschwanzgewächse (Amaranthaceae)"
 pflanzenteile: "Samen, Blätter"
 tags: ["amarant", "eisen", "glutenfrei", "superfood", "protein"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["nährstoffreich", "blutstillend", "adstringierend", "stärkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/amarant-1.webp"
+bild_nachweis: "Wildfeuer, CC BY 2.5"
 ---
 
 # Amarant
@@ -38,10 +43,10 @@ Samen, Blätter
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
 - [Osteoporose / Knochenschwund](../beschwerde/osteoporose.md)
-- [[blutarmut]]
+- [Eisenmangel / Blutarmut / Anämie](../beschwerde/eisenmangel.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
-- [[rekonvaleszenz]]
-- [[zoeliakie]]
+- [Rekonvaleszenz](../beschwerde/rekonvaleszenz.md)
+- [Zöliakie](../beschwerde/zoeliakie.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ In der mittelamerikanischen Volksheilkunde wurde Amarant als Kräftigungsmittel 
 ## Mehr dazu
 
 - [Amarant bei der Quelle](https://heilkräuter.de/lexikon/amarant.htm)
+
+## Fotos
+
+![Amarant, Foto 1](https://heildepot.wir.ooo/bilder/kraut/amarant-1.webp)
+
+Foto 1: Wildfeuer, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:2006-10-22Amaranthus03.jpg)
+
+![Amarant, Foto 2](https://heildepot.wir.ooo/bilder/kraut/amarant-2.webp)
+
+Foto 2: Kor!An (Корзун Андрей), CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Amaranthus_caudatus_(in_a_flowerbed)_01.jpg)
+
+![Amarant, Foto 3](https://heildepot.wir.ooo/bilder/kraut/amarant-3.webp)
+
+Foto 3: Père Igor, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Amarante_queue_de_renard_Lalinde.JPG)
 
 ## Im Heildepot
 

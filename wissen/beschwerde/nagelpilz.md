@@ -4,6 +4,8 @@ id: "nagelpilz"
 name: "Nagelpilz / Pilzerkrankungen der Haut"
 tags: ["nagelpilz", "pilz", "mykose", "hautpilz", "fußpilz", "candida", "dermatophyten"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Nagelpilz / Pilzerkrankungen der Haut

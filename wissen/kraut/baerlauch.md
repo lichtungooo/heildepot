@@ -7,6 +7,11 @@ familie: "Lauchgewächse (Alliaceae)"
 pflanzenteile: "Blätter"
 tags: ["bärlauch", "entgiftung", "blutdruck", "frühling", "darm"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["entgiftend", "blutdrucksenkend", "antibakteriell", "durchblutungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/baerlauch-1.webp"
+bild_nachweis: "Enrico Blasutto at Italian Wikipedia, CC BY-SA 3.0"
 ---
 
 # Bärlauch
@@ -38,11 +43,11 @@ Blätter
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Parasiten / Würmer / Darmparasiten](../beschwerde/parasiten.md)
 - [Leber / Galle](../beschwerde/leber.md)
-- [[entgiftung]]
-- [[arteriosklerose]]
-- [[cholesterin]]
-- [[fruehjahrskur]]
-- [[schwermetalle]]
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
+- [Arteriosklerose](../beschwerde/arteriosklerose.md)
+- [Cholesterin](../beschwerde/cholesterin.md)
+- [Frühjahrskur](../beschwerde/fruehjahrskur.md)
+- [Schwermetalle](../beschwerde/schwermetalle.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ In Bauernkalendern steht: "Bärlauch im Mai erspart den Gang zum Doktor", eine F
 ## Mehr dazu
 
 - [Bärlauch bei der Quelle](https://heilkräuter.de/lexikon/bärlauc.htm)
+
+## Fotos
+
+![Bärlauch, Foto 1](https://heildepot.wir.ooo/bilder/kraut/baerlauch-1.webp)
+
+Foto 1: Enrico Blasutto at Italian Wikipedia, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Allium_ursinum_ENBLA08.jpg)
+
+![Bärlauch, Foto 2](https://heildepot.wir.ooo/bilder/kraut/baerlauch-2.webp)
+
+Foto 2: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Allium_ursinum_002.JPG)
+
+![Bärlauch, Foto 3](https://heildepot.wir.ooo/bilder/kraut/baerlauch-3.webp)
+
+Foto 3: 4028mdk09, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Allium_ursinum_Ketscher_Rheininsel_2.jpg)
 
 ## Im Heildepot
 

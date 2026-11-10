@@ -3,21 +3,23 @@ art: "rezept"
 id: "ewige-jugend-trank"
 name: "Ewige-Jugend-Trank: Beauty Elixier von Innen"
 tradition: "Hexenwissen"
-kategorie: "Schönheit & Jugend"
 tags: ["schönheit", "antiaging", "kollagen", "tremella", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Schönheit & Jugend"
 ---
 
 # Ewige-Jugend-Trank: Beauty Elixier von Innen
 
 ## Hilft bei
 
-- [[hautalterung]]
-- [[falten]]
-- [[kollagen]]
-- [[haare]]
-- [[naegel]]
-- [[strahlende-haut]]
+- [Hautalterung](../beschwerde/hautalterung.md)
+- [Falten](../beschwerde/falten.md)
+- [Kollagen](../beschwerde/kollagen.md)
+- [Haarausfall / Haargesundheit](../beschwerde/haarverlust.md)
+- [Nägel](../beschwerde/naegel.md)
+- [Strahlende haut](../beschwerde/strahlende-haut.md)
 
 ## Schwierigkeit
 

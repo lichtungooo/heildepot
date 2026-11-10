@@ -7,6 +7,11 @@ familie: "Geißblattgewächse (Caprifoliaceae)"
 pflanzenteile: "Wurzel"
 tags: ["baldrian", "schlaf", "beruhigend", "nerven", "unruhe"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["beruhigend", "schlaffördernd", "krampflösend", "angstlösend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/baldrian-1.webp"
+bild_nachweis: "AnRo0002, CC0"
 ---
 
 # Baldrian
@@ -39,8 +44,8 @@ Wurzel
 - [Angst / Panikattacken](../beschwerde/angst.md)
 - [Burnout / Chronische Erschöpfung](../beschwerde/burnout.md)
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
-- [[schlafprobleme]]
-- [[nervositaet]]
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
+- [Nervosität](../beschwerde/nervositaet.md)
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
 - [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
@@ -148,6 +153,20 @@ Im Volksglauben legte man Baldrianwurzeln unter das Kopfkissen gegen Albträume.
 ## Mehr dazu
 
 - [Baldrian bei der Quelle](https://heilkräuter.de/lexikon/baldrian.htm)
+
+## Fotos
+
+![Baldrian, Foto 1](https://heildepot.wir.ooo/bilder/kraut/baldrian-1.webp)
+
+Foto 1: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20120629Valeriana_officinalis2.jpg)
+
+![Baldrian, Foto 2](https://heildepot.wir.ooo/bilder/kraut/baldrian-2.webp)
+
+Foto 2: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20120629Valeriana_officinalis3.jpg)
+
+![Baldrian, Foto 3](https://heildepot.wir.ooo/bilder/kraut/baldrian-3.webp)
+
+Foto 3: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20120629Valeriana_officinalis4.jpg)
 
 ## Im Heildepot
 

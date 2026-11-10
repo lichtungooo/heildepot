@@ -4,6 +4,8 @@ id: "fibromyalgie"
 name: "Fibromyalgie / Chronischer Schmerz"
 tags: ["schmerz", "fibromyalgie", "muskel", "nerven", "faszien"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Fibromyalgie / Chronischer Schmerz

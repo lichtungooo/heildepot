@@ -7,6 +7,11 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Wurzel"
 tags: ["mannstreu", "harnwege", "husten", "verdauung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["harntreibend", "krampflösend", "schleimlösend", "verdauungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/mannstreu-1.webp"
+bild_nachweis: "Bernd Haynold, CC BY-SA 2.5"
 ---
 
 # Mannstreu
@@ -39,10 +44,10 @@ Wurzel
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
 - [Nierensteine / Nierenkolik](../beschwerde/nierensteine.md)
-- [[prostatabeschwerden]]
-- [[wassereinlagerungen]]
-- [[harnwegsentzündung]]
-- [[reizhusten]]
+- [Prostatabeschwerden](../beschwerde/prostatabeschwerden.md)
+- [Wassereinlagerungen](../beschwerde/wassereinlagerungen.md)
+- [Harnwegsentzündung](../beschwerde/harnwegsentzuendung.md)
+- [Reizhusten](../beschwerde/reizhusten.md)
 
 ## Beschreibung
 
@@ -141,6 +146,20 @@ In der europäischen Volksmedizin war Mannstreu ein geschätztes Nierenmittel. D
 ## Mehr dazu
 
 - [Mannstreu bei der Quelle](https://heilkräuter.de/lexikon/mannstreu.htm)
+
+## Fotos
+
+![Mannstreu, Foto 1](https://heildepot.wir.ooo/bilder/kraut/mannstreu-1.webp)
+
+Foto 1: Bernd Haynold, CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Eryngium_capestre_310705.jpg)
+
+![Mannstreu, Foto 2](https://heildepot.wir.ooo/bilder/kraut/mannstreu-2.webp)
+
+Foto 2: Fritz Geller-Grimm, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Eryngium_campestre_auf_Schwanheimer_Duene_fg13.jpg)
+
+![Mannstreu, Foto 3](https://heildepot.wir.ooo/bilder/kraut/mannstreu-3.webp)
+
+Foto 3: Muscari, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bild_059a_Eryngium_campestre.jpg)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Hundsgiftgewächse (Apocynaceae)"
 pflanzenteile: "Blätter (nur homöopathisch)"
 tags: ["oleander", "giftig", "herz", "homöopathie"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["herzstärkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/oleander-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 3.0"
 ---
 
 # Oleander
@@ -32,10 +37,10 @@ Blätter (nur homöopathisch)
 ## Hilft bei
 
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
-- [[nur unter ärztlicher aufsicht]]
-- [[homöopathisch bei herzbeschwerden]]
-- [[homöopathisch bei hautekzemen]]
-- [[forschung: antitumoral]]
+- [Nur unter ärztlicher aufsicht](../beschwerde/nur-unter-aerztlicher-aufsicht.md)
+- [Homöopathisch bei herzbeschwerden](../beschwerde/homoeopathisch-bei-herzbeschwerden.md)
+- [Homöopathisch bei hautekzemen](../beschwerde/homoeopathisch-bei-hautekzemen.md)
+- [Forschung antitumoral](../beschwerde/forschung-antitumoral.md)
 
 ## Beschreibung
 
@@ -132,6 +137,20 @@ In der europäischen Volksmedizin wurde Oleander wegen seiner Giftigkeit kaum ve
 ## Mehr dazu
 
 - [Oleander bei der Quelle](https://heilkräuter.de/lexikon/oleander.htm)
+
+## Fotos
+
+![Oleander, Foto 1](https://heildepot.wir.ooo/bilder/kraut/oleander-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:ADELFALRIOCUADROS.JPG)
+
+![Oleander, Foto 2](https://heildepot.wir.ooo/bilder/kraut/oleander-2.webp)
+
+Foto 2: James McCauley from Enon, OH, United States of America, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:N2_Camouflage.jpg)
+
+![Oleander, Foto 3](https://heildepot.wir.ooo/bilder/kraut/oleander-3.webp)
+
+Foto 3: Georges Jansoone, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Batalha.Nerium_oleander01.jpg)
 
 ## Im Heildepot
 

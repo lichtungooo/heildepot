@@ -7,6 +7,11 @@ familie: "Erdrauchgewächse (Fumariaceae)"
 pflanzenteile: "Kraut"
 tags: ["erdrauch", "galle", "leber", "haut", "blutreinigung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["gallefördernd", "krampflösend", "blutreinigend", "hautpflegend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/erdrauch-1.webp"
+bild_nachweis: "User:Romfordian, CC BY-SA 4.0"
 ---
 
 # Erdrauch
@@ -38,12 +43,12 @@ Kraut
 - [Leber / Galle](../beschwerde/leber.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Akne / Unreine Haut](../beschwerde/akne.md)
-- [[gallenbeschwerden]]
-- [[leberschwaeche]]
-- [[hautunreinheiten]]
-- [[blutreinigung]]
-- [[fruehjahrskur]]
-- [[verdauungsstoerungen]]
+- [Gallenbeschwerden](../beschwerde/gallenbeschwerden.md)
+- [Leberschwäche](../beschwerde/leberschwaeche.md)
+- [Hautunreinheiten](../beschwerde/hautunreinheiten.md)
+- [Blutreinigung](../beschwerde/blutreinigung.md)
+- [Frühjahrskur](../beschwerde/fruehjahrskur.md)
+- [Verdauungsstörungen](../beschwerde/verdauungsstoerungen.md)
 
 ## Beschreibung
 
@@ -142,6 +147,20 @@ Erdrauch war das "Blutreinigungskraut" des Frühlings. Man trank eine dreiwöchi
 ## Mehr dazu
 
 - [Erdrauch bei der Quelle](https://heilkräuter.de/lexikon/erdrauch.htm)
+
+## Fotos
+
+![Erdrauch, Foto 1](https://heildepot.wir.ooo/bilder/kraut/erdrauch-1.webp)
+
+Foto 1: User:Romfordian, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Common_Fumitory_flower_May2008.jpg)
+
+![Erdrauch, Foto 2](https://heildepot.wir.ooo/bilder/kraut/erdrauch-2.webp)
+
+Foto 2: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Fumaria_officinalis_001.JPG)
+
+![Erdrauch, Foto 3](https://heildepot.wir.ooo/bilder/kraut/erdrauch-3.webp)
+
+Foto 3: CPIE Bocage de l'Avesnois, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bande_de_messicoles_%C3%A0_Fumeterre_officinal_(Fumaria_officinalis)_et_grand_coquelicot_(Papaver_rhoeas).JPG)
 
 ## Im Heildepot
 

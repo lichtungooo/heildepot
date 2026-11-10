@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Kraut"
 tags: ["wermut", "verdauung", "bitter", "parasiten", "galle"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "gallefördernd", "appetitanregend", "antiparasitär"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/wermut-1.webp"
+bild_nachweis: "AnRo0002, CC0"
 ---
 
 # Wermut
@@ -38,11 +43,11 @@ Kraut
 - [Parasiten / Würmer / Darmparasiten](../beschwerde/parasiten.md)
 - [Leber / Galle](../beschwerde/leber.md)
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
-- [[appetitlosigkeit]]
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[fieber]]
-- [[magen]]
+- [Grippe](../beschwerde/grippe.md)
+- [Sodbrennen / Reflux](../beschwerde/sodbrennen.md)
 
 ## Beschreibung
 
@@ -147,6 +152,20 @@ Im Volksmund hieß es: "Wermut macht alles gesund, außer das, was dem Glück im
 ## Mehr dazu
 
 - [Wermut bei der Quelle](https://heilkräuter.de/lexikon/wermut.htm)
+
+## Fotos
+
+![Wermut, Foto 1](https://heildepot.wir.ooo/bilder/kraut/wermut-1.webp)
+
+Foto 1: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20170302Artemisia_absinthium3.jpg)
+
+![Wermut, Foto 2](https://heildepot.wir.ooo/bilder/kraut/wermut-2.webp)
+
+Foto 2: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20170302Artemisia_absinthium4.jpg)
+
+![Wermut, Foto 3](https://heildepot.wir.ooo/bilder/kraut/wermut-3.webp)
+
+Foto 3: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20170410Artemisia_absinthium3.jpg)
 
 ## Im Heildepot
 

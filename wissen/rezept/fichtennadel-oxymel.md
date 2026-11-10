@@ -3,22 +3,24 @@ art: "rezept"
 id: "fichtennadel-oxymel"
 name: "Fichtennadel-Oxymel: Der Trunk der Wikinger"
 tradition: "Hexenwissen"
-kategorie: "Wald-Apotheke"
 tags: ["waldapotheke", "oxymel", "fichte", "wikinger", "hexenwissen", "vitamin_c", "atemwege"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Wald-Apotheke"
 ---
 
 # Fichtennadel-Oxymel: Der Trunk der Wikinger
 
 ## Hilft bei
 
-- [[immunsystem]]
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[vitamin_c]]
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
+- [Vitamin c](../beschwerde/vitamin-c.md)
 - [Husten / Bronchitis](../beschwerde/husten.md)
-- [[atemwege]]
-- [[fruehjahrskur]]
-- [[entgiftung]]
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
+- [Frühjahrskur](../beschwerde/fruehjahrskur.md)
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
 
 ## Schwierigkeit
 

@@ -7,6 +7,11 @@ familie: "Ölbaumgewächse (Oleaceae)"
 pflanzenteile: "Blätter, Rinde"
 tags: ["esche", "gicht", "rheuma", "weltenbaum", "harnwege"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["harntreibend", "entzündungshemmend", "fiebersenkend", "schmerzlindernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/esche-1.webp"
+bild_nachweis: "User:Romfordian, CC BY-SA 4.0"
 ---
 
 # Esche
@@ -38,10 +43,10 @@ Blätter, Rinde
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
 - [Niere / Blase / Harnwege](../beschwerde/niere.md)
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
-- [[gelenkschmerzen]]
-- [[harnwegsinfekt]]
-- [[fieber]]
-- [[wassereinlagerungen]]
+- [Gelenkschmerzen](../beschwerde/gelenkschmerzen.md)
+- [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
+- [Grippe](../beschwerde/grippe.md)
+- [Wassereinlagerungen](../beschwerde/wassereinlagerungen.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ In der Volksmedizin war die Esche ein universelles Rheumamittel. Die Blätter wu
 ## Mehr dazu
 
 - [Esche bei der Quelle](https://heilkräuter.de/lexikon/esche.htm)
+
+## Fotos
+
+![Esche, Foto 1](https://heildepot.wir.ooo/bilder/kraut/esche-1.webp)
+
+Foto 1: User:Romfordian, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Chapel_Amble.jpg)
+
+![Esche, Foto 2](https://heildepot.wir.ooo/bilder/kraut/esche-2.webp)
+
+Foto 2: Ich, CC BY-SA 3.0 de, [Quelle](https://commons.wikimedia.org/wiki/File:Eschejuni1.jpg)
+
+![Esche, Foto 3](https://heildepot.wir.ooo/bilder/kraut/esche-3.webp)
+
+Foto 3: Pieter Kuiper, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Ask_Osaby.jpg)
 
 ## Im Heildepot
 

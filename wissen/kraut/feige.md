@@ -7,6 +7,11 @@ familie: "Maulbeergewächse (Moraceae)"
 pflanzenteile: "Früchte, Blätter, Milchsaft"
 tags: ["feige", "verstopfung", "warzen", "nährend", "mittelmeer"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["abführend", "nährend", "hustenstillend", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/feige-1.webp"
+bild_nachweis: "No machine-readable author provided. Pokrajac assumed (based on copyright claims)., CC BY-SA 3.0"
 ---
 
 # Feige
@@ -39,8 +44,8 @@ Früchte, Blätter, Milchsaft
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Diabetes](../beschwerde/diabetes.md)
-- [[mineralstoffmangel]]
-- [[warzen]]
+- [Mineralstoffmangel](../beschwerde/mineralstoffmangel.md)
+- [Warzen](../beschwerde/warzen.md)
 
 ## Beschreibung
 
@@ -148,6 +153,20 @@ Im gesamten Mittelmeerraum galten Feigen als "Brot der Armen", nahrhaft, heilsam
 ## Mehr dazu
 
 - [Feige bei der Quelle](https://heilkräuter.de/lexikon/feige.htm)
+
+## Fotos
+
+![Feige, Foto 1](https://heildepot.wir.ooo/bilder/kraut/feige-1.webp)
+
+Foto 1: No machine-readable author provided. Pokrajac assumed (based on copyright claims)., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Drvo_smokve.JPG)
+
+![Feige, Foto 2](https://heildepot.wir.ooo/bilder/kraut/feige-2.webp)
+
+Foto 2: Vulcano, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:La_figuera.JPG)
+
+![Feige, Foto 3](https://heildepot.wir.ooo/bilder/kraut/feige-3.webp)
+
+Foto 3: NativeForeigner, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Blackjack_basal_shoots.jpg)
 
 ## Im Heildepot
 

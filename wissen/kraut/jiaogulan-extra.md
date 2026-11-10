@@ -7,6 +7,11 @@ familie: "Kürbisgewächse"
 pflanzenteile: "Blätter"
 tags: ["jiaogulan", "unsterblichkeit", "adaptogen", "langlebigkeit"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["adaptogen", "blutdruckregulierend", "cholesterinsenkend", "immunmodulierend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/jiaogulan-extra-1.webp"
+bild_nachweis: "bauty, CC BY 2.0 de"
 ---
 
 # Jiaogulan (Kraut der Unsterblichkeit)
@@ -40,6 +45,20 @@ Blätter
 ## Mehr dazu
 
 - [Jiaogulan (Kraut der Unsterblichkeit) bei der Quelle](https://heilkräuter.de/lexikon/jiaogulan-extra.htm)
+
+## Fotos
+
+![Jiaogulan (Kraut der Unsterblichkeit), Foto 1](https://heildepot.wir.ooo/bilder/kraut/jiaogulan-extra-1.webp)
+
+Foto 1: bauty, CC BY 2.0 de, [Quelle](https://commons.wikimedia.org/wiki/File:Jiaogulan.JPG)
+
+![Jiaogulan (Kraut der Unsterblichkeit), Foto 2](https://heildepot.wir.ooo/bilder/kraut/jiaogulan-extra-2.webp)
+
+Foto 2: Doronenko, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Gynostemma_pentaphyllum_1.jpg)
+
+![Jiaogulan (Kraut der Unsterblichkeit), Foto 3](https://heildepot.wir.ooo/bilder/kraut/jiaogulan-extra-3.webp)
+
+Foto 3: Pelikana, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Jiaogulan_02_PM03.jpg)
 
 ## Im Heildepot
 

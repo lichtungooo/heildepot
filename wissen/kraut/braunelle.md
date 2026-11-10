@@ -7,6 +7,11 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut, Blüten"
 tags: ["braunelle", "halsschmerzen", "herpes", "antiviral", "tcm"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["antibakteriell", "antiviral", "wundheilend", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/braunelle-1.webp"
+bild_nachweis: "AnRo0002, CC0"
 ---
 
 # Braunelle
@@ -39,10 +44,10 @@ Kraut, Blüten
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Kopfschmerzen / Migräne](../beschwerde/kopfschmerzen.md)
 - [Herpes / Lippenherpes / Gürtelrose](../beschwerde/herpes.md)
-- [[halsentzuendung]]
+- [Halsentzündung](../beschwerde/halsentzuendung.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
-- [[zahnfleisch]]
+- [Zähne / Mundraum / Zahnfleisch](../beschwerde/zaehne.md)
 - [Bluthochdruck / Herz-Kreislauf](../beschwerde/bluthochdruck.md)
 
 ## Beschreibung
@@ -143,6 +148,20 @@ In der englischen Volksmedizin hieß es: "Wer Braunelle hat, braucht keinen Arzt
 ## Mehr dazu
 
 - [Braunelle bei der Quelle](https://heilkräuter.de/lexikon/braunelle.htm)
+
+## Fotos
+
+![Braunelle, Foto 1](https://heildepot.wir.ooo/bilder/kraut/braunelle-1.webp)
+
+Foto 1: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20120714Prunella_vulgaris1.jpg)
+
+![Braunelle, Foto 2](https://heildepot.wir.ooo/bilder/kraut/braunelle-2.webp)
+
+Foto 2: Acabashi, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:%27Prunella_vulgaris%27_in_grassland_at_Woodland_Trust_wood_Theydon_Bois_Essex_England.JPG)
+
+![Braunelle, Foto 3](https://heildepot.wir.ooo/bilder/kraut/braunelle-3.webp)
+
+Foto 3: Andreas Eichler, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:2016.06.18.-02-Bonadieshafen_Friesenheimer_Insel_Mannheim--Kleine_Braunelle.jpg)
 
 ## Im Heildepot
 

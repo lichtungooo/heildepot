@@ -7,6 +7,11 @@ familie: "Hahnenfußgewächse"
 pflanzenteile: "Wurzelstock (nur homöopathisch)"
 tags: ["nieswurz", "giftig", "homöopathie", "herz"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["herzwirksam", "niesenerregend", "abführend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/gruene-nieswurz-1.webp"
+bild_nachweis: "No machine-readable author provided. Paolo da Reggio~commonswiki assumed (based on copyright claims)., Public domain"
 ---
 
 # Grüne Nieswurz
@@ -37,6 +42,20 @@ Wurzelstock (nur homöopathisch)
 ## Mehr dazu
 
 - [Grüne Nieswurz bei der Quelle](https://heilkräuter.de/lexikon/nieswurz.htm)
+
+## Fotos
+
+![Grüne Nieswurz, Foto 1](https://heildepot.wir.ooo/bilder/kraut/gruene-nieswurz-1.webp)
+
+Foto 1: No machine-readable author provided. Paolo da Reggio~commonswiki assumed (based on copyright claims)., Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Elleboro_appennino.jpg)
+
+![Grüne Nieswurz, Foto 2](https://heildepot.wir.ooo/bilder/kraut/gruene-nieswurz-2.webp)
+
+Foto 2: unbekannt, CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Ellebori.jpg)
+
+![Grüne Nieswurz, Foto 3](https://heildepot.wir.ooo/bilder/kraut/gruene-nieswurz-3.webp)
+
+Foto 3: Enrico Blasutto, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Helleborus_viridis_ENBLA18.jpg)
 
 ## Im Heildepot
 

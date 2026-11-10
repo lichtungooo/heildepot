@@ -3,9 +3,11 @@ art: "rezept"
 id: "waldbaden-spruehnebel"
 name: "Waldbaden-Sprühnebel: Der Wald für Zuhause"
 tradition: "Hexenwissen"
-kategorie: "Wald-Apotheke"
 tags: ["waldapotheke", "waldbaden", "shinrin_yoku", "terpene", "hexenwissen", "aromatherapie", "wald"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Wald-Apotheke"
 ---
 
 # Waldbaden-Sprühnebel: Der Wald für Zuhause
@@ -13,12 +15,12 @@ quelle: "heildepot"
 ## Hilft bei
 
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
-- [[schlafprobleme]]
-- [[konzentration]]
-- [[raumluft]]
-- [[immunsystem]]
-- [[entspannung]]
-- [[meditation]]
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
+- [Raumluft](../beschwerde/raumluft.md)
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
+- [Entspannung](../beschwerde/entspannung.md)
+- [Meditation](../beschwerde/meditation.md)
 
 ## Schwierigkeit
 

@@ -7,6 +7,11 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Blätter, Früchte"
 tags: ["walderdbeere", "vitamine", "blutreinigung", "durchfall"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["blutreinigend", "harntreibend", "adstringierend", "vitaminreich"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/erdbeere-1.webp"
+bild_nachweis: "Toubib at Dutch Wikipedia\n\nLater versions were uploaded by Rasbak at nl.wikipedia., CC BY-SA 3.0"
 ---
 
 # Walderdbeere
@@ -38,10 +43,10 @@ Blätter, Früchte
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
 - [Niere / Blase / Harnwege](../beschwerde/niere.md)
 - [Gicht / Harnsäure](../beschwerde/gicht.md)
-- [[harnwegsinfekt]]
+- [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
-- [[hautpflege]]
-- [[fruehjahrskur]]
+- [Hautpflege](../beschwerde/hautpflege.md)
+- [Frühjahrskur](../beschwerde/fruehjahrskur.md)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
 
 ## Beschreibung
@@ -141,6 +146,22 @@ In der Volksmedizin war Erdbeerblättertee eines der meistgetrunkenen Haustees. 
 ## Mehr dazu
 
 - [Walderdbeere bei der Quelle](https://heilkräuter.de/lexikon/erdbeere.htm)
+
+## Fotos
+
+![Walderdbeere, Foto 1](https://heildepot.wir.ooo/bilder/kraut/erdbeere-1.webp)
+
+Foto 1: Toubib at Dutch Wikipedia
+
+Later versions were uploaded by Rasbak at nl.wikipedia., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bosaardbei.jpg)
+
+![Walderdbeere, Foto 2](https://heildepot.wir.ooo/bilder/kraut/erdbeere-2.webp)
+
+Foto 2: Alinja, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Ahomansikka_Fragaria_vesca.jpg)
+
+![Walderdbeere, Foto 3](https://heildepot.wir.ooo/bilder/kraut/erdbeere-3.webp)
+
+Foto 3: Hans Hillewaert, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Fragaria_vesca_(habitus).jpg)
 
 ## Im Heildepot
 

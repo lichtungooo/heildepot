@@ -4,6 +4,8 @@ id: "cellulite"
 name: "Cellulite / Bindegewebsschwäche"
 tags: ["bindegewebe", "haut", "cellulite", "lymphe", "entgiftung"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Cellulite / Bindegewebsschwäche

@@ -3,21 +3,23 @@ art: "rezept"
 id: "rosenkoenigin-gesichtswasser"
 name: "Rosenkönigin-Gesichtswasser: Natürlicher Teint-Verfeinerer"
 tradition: "Hexenwissen"
-kategorie: "Schönheit & Jugend"
 tags: ["gesichtswasser", "rosenwasser", "schönheit", "naturkosmetik", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Schönheit & Jugend"
 ---
 
 # Rosenkönigin-Gesichtswasser: Natürlicher Teint-Verfeinerer
 
 ## Hilft bei
 
-- [[unreine-haut]]
-- [[grosse-poren]]
-- [[falten]]
-- [[empfindliche-haut]]
-- [[teint]]
-- [[feuchtigkeit]]
+- [Unreine haut](../beschwerde/unreine-haut.md)
+- [Grosse poren](../beschwerde/grosse-poren.md)
+- [Falten](../beschwerde/falten.md)
+- [Empfindliche haut](../beschwerde/empfindliche-haut.md)
+- [Teint](../beschwerde/teint.md)
+- [Feuchtigkeit](../beschwerde/feuchtigkeit.md)
 
 ## Schwierigkeit
 

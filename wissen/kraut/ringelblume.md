@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Blüten"
 tags: ["ringelblume", "haut", "wundheilung", "salbe", "calendula"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["wundheilend", "entzündungshemmend", "hautpflegend", "antibakteriell"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/ringelblume-1.webp"
+bild_nachweis: "I took this photo in the dunes near Katwijk, Public domain"
 ---
 
 # Ringelblume
@@ -39,10 +44,10 @@ Blüten
 - [Neurodermitis / Ekzem](../beschwerde/neurodermitis.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
-- [[menstruation]]
-- [[narben]]
-- [[sonnenbrand]]
-- [[ekzeme]]
+- [PMS / Menstruationsbeschwerden](../beschwerde/pms.md)
+- [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
+- [Sonnenbrand](../beschwerde/sonnenbrand.md)
+- [Ekzeme](../beschwerde/ekzeme.md)
 
 ## Beschreibung
 
@@ -153,6 +158,20 @@ Ringelblumensalbe war das "Pflaster der armen Leute", in jedem Bauernhaus stand 
 ## Mehr dazu
 
 - [Ringelblume bei der Quelle](https://heilkräuter.de/lexikon/ringel.htm)
+
+## Fotos
+
+![Ringelblume, Foto 1](https://heildepot.wir.ooo/bilder/kraut/ringelblume-1.webp)
+
+Foto 1: I took this photo in the dunes near Katwijk, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Calendula_officinalis_03-09-2005_15.21.56.JPG)
+
+![Ringelblume, Foto 2](https://heildepot.wir.ooo/bilder/kraut/ringelblume-2.webp)
+
+Foto 2: Wildfeuer, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:2006-10-22Calendula06.jpg)
+
+![Ringelblume, Foto 3](https://heildepot.wir.ooo/bilder/kraut/ringelblume-3.webp)
+
+Foto 3: Elena Chochkova, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Calendula_E17.jpg)
 
 ## Im Heildepot
 

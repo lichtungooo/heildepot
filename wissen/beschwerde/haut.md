@@ -4,6 +4,8 @@ id: "haut"
 name: "Hautthemen / Neurodermitis"
 tags: ["haut", "neurodermitis", "ekzem", "juckreiz", "allergie", "immunsystem"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Hautthemen / Neurodermitis

@@ -7,6 +7,11 @@ familie: "Johanniskrautgewächse (Hypericaceae)"
 pflanzenteile: "Kraut (blühende Triebspitzen)"
 tags: ["johanniskraut", "depression", "stimmung", "nerven", "rotöl"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["stimmungsaufhellend", "nervenstärkend", "wundheilend", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/johanniskraut-1.webp"
+bild_nachweis: "Olivier Pichard, CC BY-SA 3.0"
 ---
 
 # Johanniskraut
@@ -40,9 +45,9 @@ Kraut (blühende Triebspitzen)
 - [Burnout / Chronische Erschöpfung](../beschwerde/burnout.md)
 - [Schlafthemen](../beschwerde/schlaf.md)
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
-- [[schlafprobleme]]
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
-- [[nervositaet]]
+- [Nervosität](../beschwerde/nervositaet.md)
 - [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
 
 ## Beschreibung
@@ -154,6 +159,20 @@ Das Rotöl hieß im Volksmund "Herrgottsblut" und galt als eines der kostbarsten
 ## Mehr dazu
 
 - [Johanniskraut bei der Quelle](https://heilkräuter.de/lexikon/j-kraut.htm)
+
+## Fotos
+
+![Johanniskraut, Foto 1](https://heildepot.wir.ooo/bilder/kraut/johanniskraut-1.webp)
+
+Foto 1: Olivier Pichard, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Hypericum_perforatum_bethisy-saint-martin_60_18062008_2.jpg)
+
+![Johanniskraut, Foto 2](https://heildepot.wir.ooo/bilder/kraut/johanniskraut-2.webp)
+
+Foto 2: Dirk Ingo Franke, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Blume_oberhavel_01.09.2013_17-32-00.JPG)
+
+![Johanniskraut, Foto 3](https://heildepot.wir.ooo/bilder/kraut/johanniskraut-3.webp)
+
+Foto 3: Gouwenaar, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:20190627_Natuurterrein_het_Slauerhoff2_Ruigahuizen.jpg)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Blüten"
 tags: ["kornblume", "augen", "haut", "augenpflege"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["entzündungshemmend", "harntreibend", "augenpflegend", "hautberuhigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/kornblume-1.webp"
+bild_nachweis: "Albert H., CC BY-SA 3.0"
 ---
 
 # Kornblume
@@ -38,7 +43,7 @@ Blüten
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
-- [[fieber]]
+- [Grippe](../beschwerde/grippe.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 
 ## Beschreibung
@@ -137,6 +142,20 @@ Bauern wuschen sich mit Kornblumenwasser die Augen nach langen Erntetagen. Mütt
 ## Mehr dazu
 
 - [Kornblume bei der Quelle](https://heilkräuter.de/lexikon/kornblume.htm)
+
+## Fotos
+
+![Kornblume, Foto 1](https://heildepot.wir.ooo/bilder/kraut/kornblume-1.webp)
+
+Foto 1: Albert H., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Centaurea_cyanus_20060624120109wp.jpg)
+
+![Kornblume, Foto 2](https://heildepot.wir.ooo/bilder/kraut/kornblume-2.webp)
+
+Foto 2: No machine-readable author provided. Goku122 assumed (based on copyright claims)., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Centaurea_cyanus_001.jpg)
+
+![Kornblume, Foto 3](https://heildepot.wir.ooo/bilder/kraut/kornblume-3.webp)
+
+Foto 3: Frank Vincentz, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Centaurea_cyanus_06_ies.jpg)
 
 ## Im Heildepot
 

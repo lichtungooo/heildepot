@@ -7,6 +7,11 @@ familie: "Lorbeergewächse (Lauraceae)"
 pflanzenteile: "Rinde"
 tags: ["zimt", "blutzucker", "diabetes", "wärmend", "verdauung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["blutzuckersenkend", "wärmend", "antibakteriell", "verdauungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/zimt-1.webp"
+bild_nachweis: "Marion Schneider & Christoph Aistleitner, Public domain"
 ---
 
 # Zimt
@@ -38,10 +43,10 @@ Rinde
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Pilzinfektionen / Candida](../beschwerde/candida.md)
-- [[blutzucker]]
-- [[durchblutung]]
-- [[immunsystem]]
-- [[pilzinfektionen]]
+- [Diabetes](../beschwerde/diabetes.md)
+- [Krampfadern / Venenschwäche / Durchblutung](../beschwerde/krampfadern.md)
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
+- [Pilzinfektionen](../beschwerde/pilzinfektionen.md)
 
 ## Beschreibung
 
@@ -143,6 +148,20 @@ Zimt war über Jahrhunderte das Wärmemittel schlechthin, bei Frösteln, kalten 
 ## Mehr dazu
 
 - [Zimt bei der Quelle](https://heilkräuter.de/lexikon/zimt.htm)
+
+## Fotos
+
+![Zimt, Foto 1](https://heildepot.wir.ooo/bilder/kraut/zimt-1.webp)
+
+Foto 1: Marion Schneider & Christoph Aistleitner, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Cinnamomum_verum_sey.jpg)
+
+![Zimt, Foto 2](https://heildepot.wir.ooo/bilder/kraut/zimt-2.webp)
+
+Foto 2: NickCT, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Cinnamomum_verum_leaves.JPG)
+
+![Zimt, Foto 3](https://heildepot.wir.ooo/bilder/kraut/zimt-3.webp)
+
+Foto 3: Stevanopuasa, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bunga_kayu_manis_-_Cinnamomum_verum.JPG)
 
 ## Im Heildepot
 

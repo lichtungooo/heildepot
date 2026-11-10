@@ -7,6 +7,11 @@ familie: "Ingwergewächse (Zingiberaceae)"
 pflanzenteile: "Fruchtkapseln"
 tags: ["kardamom", "verdauung", "blähungen", "gewürz", "wärmend"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "wärmend", "blähungswidrig", "stimmungsaufhellend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/kardamom-1.webp"
+bild_nachweis: "B.navez, CC BY-SA 3.0"
 ---
 
 # Kardamom
@@ -38,10 +43,10 @@ Fruchtkapseln
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[verdauungsbeschwerden]]
-- [[übelkeit]]
+- [Verdauungsbeschwerden](../beschwerde/verdauungsbeschwerden.md)
+- [Übelkeit](../beschwerde/uebelkeit.md)
 - [Mundgeruch / Halitosis](../beschwerde/mundgeruch.md)
-- [[appetitlosigkeit]]
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 
 ## Beschreibung
@@ -141,6 +146,20 @@ In der orientalischen Volksmedizin galt Kardamom als universelles Magenmittel. M
 ## Mehr dazu
 
 - [Kardamom bei der Quelle](https://heilkräuter.de/lexikon/kardamom.htm)
+
+## Fotos
+
+![Kardamom, Foto 1](https://heildepot.wir.ooo/bilder/kraut/kardamom-1.webp)
+
+Foto 1: B.navez, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Elettaria_cardamomum_flowers_1.jpg)
+
+![Kardamom, Foto 2](https://heildepot.wir.ooo/bilder/kraut/kardamom-2.webp)
+
+Foto 2: Unknown authorUnknown author, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Goed_dragende_2-jarige_cardamomplant_(Elettaria_cardamomum)_in_vruchtdracht_TMnr_10012353.jpg)
+
+![Kardamom, Foto 3](https://heildepot.wir.ooo/bilder/kraut/kardamom-3.webp)
+
+Foto 3: Mokkie, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Cardamom_(Elettaria_cardamomum).jpg)
 
 ## Im Heildepot
 

@@ -3,22 +3,24 @@ art: "rezept"
 id: "yule-gewuerzwein"
 name: "Yule-Gewürzwein: Licht in der dunkelsten Nacht"
 tradition: "Hexenwissen"
-kategorie: "Jahreskreis-Rezepte"
 tags: ["jahreskreis", "yule", "wintersonnenwende", "glühwein", "hexenwissen", "wärme", "licht"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Jahreskreis-Rezepte"
 ---
 
 # Yule-Gewürzwein: Licht in der dunkelsten Nacht
 
 ## Hilft bei
 
-- [[yule]]
-- [[wintersonnenwende]]
-- [[winter]]
-- [[waerme]]
-- [[feier]]
-- [[gemeinschaft]]
-- [[immunsystem]]
+- [Yule](../beschwerde/yule.md)
+- [Wintersonnenwende](../beschwerde/wintersonnenwende.md)
+- [Winter](../beschwerde/winter.md)
+- [Wärme](../beschwerde/waerme.md)
+- [Feier](../beschwerde/feier.md)
+- [Gemeinschaft](../beschwerde/gemeinschaft.md)
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 
 ## Schwierigkeit
 

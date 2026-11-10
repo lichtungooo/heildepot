@@ -4,6 +4,8 @@ id: "burnout"
 name: "Burnout / Chronische Erschöpfung"
 tags: ["erschöpfung", "stress", "nebenniere", "energie", "schlaf"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Burnout / Chronische Erschöpfung

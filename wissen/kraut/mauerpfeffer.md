@@ -7,6 +7,11 @@ familie: "Dickblattgewächse (Crassulaceae)"
 pflanzenteile: "Kraut"
 tags: ["mauerpfeffer", "warzen", "hühneraugen", "wundheilung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["blutdrucksenkend", "wundheilend", "schmerzlindernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/mauerpfeffer-1.webp"
+bild_nachweis: "Murx Pickwick, CC BY-SA 3.0"
 ---
 
 # Mauerpfeffer
@@ -35,11 +40,11 @@ Kraut
 
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
-- [[warzen]]
-- [[hühneraugen]]
-- [[schlecht heilende wunden]]
-- [[hornhaut]]
-- [[hautgeschwüre]]
+- [Warzen](../beschwerde/warzen.md)
+- [Hühneraugen](../beschwerde/huehneraugen.md)
+- [Schlecht heilende wunden](../beschwerde/schlecht-heilende-wunden.md)
+- [Hornhaut](../beschwerde/hornhaut.md)
+- [Hautgeschwüre](../beschwerde/hautgeschwuere.md)
 
 ## Beschreibung
 
@@ -138,6 +143,20 @@ In der Volksmedizin war der Mauerpfeffer das klassische Warzenmittel. Man presst
 ## Mehr dazu
 
 - [Mauerpfeffer bei der Quelle](https://heilkräuter.de/lexikon/mauerpfeffer.htm)
+
+## Fotos
+
+![Mauerpfeffer, Foto 1](https://heildepot.wir.ooo/bilder/kraut/mauerpfeffer-1.webp)
+
+Foto 1: Murx Pickwick, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:20140601Sedum_acre004.JPG)
+
+![Mauerpfeffer, Foto 2](https://heildepot.wir.ooo/bilder/kraut/mauerpfeffer-2.webp)
+
+Foto 2: Bjoertvedt, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bitterbergknapp01.jpg)
+
+![Mauerpfeffer, Foto 3](https://heildepot.wir.ooo/bilder/kraut/mauerpfeffer-3.webp)
+
+Foto 3: Anne Burgess, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Biting_Stonecrop_(Sedum_acre)_-_geograph.org.uk_-_868293.jpg)
 
 ## Im Heildepot
 

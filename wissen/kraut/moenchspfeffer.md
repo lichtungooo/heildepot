@@ -7,6 +7,11 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Früchte"
 tags: ["mönchspfeffer", "hormone", "PMS", "zyklus", "frauenheilkunde"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["hormonausgleichend", "zyklusregulierend", "PMS-lindernd", "fruchtbarkeitsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/moenchspfeffer-1.webp"
+bild_nachweis: "Sten Porse, CC BY-SA 3.0"
 ---
 
 # Mönchspfeffer
@@ -38,10 +43,10 @@ Früchte
 - [Depression / Schwermut](../beschwerde/depression.md)
 - [Kopfschmerzen / Migräne](../beschwerde/kopfschmerzen.md)
 - [PMS / Menstruationsbeschwerden](../beschwerde/pms.md)
-- [[menstruation]]
-- [[kinderwunsch]]
-- [[brustspannen]]
-- [[zyklusprobleme]]
+- [PMS / Menstruationsbeschwerden](../beschwerde/pms.md)
+- [Kinderwunsch](../beschwerde/kinderwunsch.md)
+- [Brustspannen](../beschwerde/brustspannen.md)
+- [Zyklusprobleme](../beschwerde/zyklusprobleme.md)
 
 ## Beschreibung
 
@@ -137,6 +142,20 @@ Hebammen empfahlen Mönchspfeffer-Tinktur bei unregelmäßiger Regel: "Drei Mona
 ## Mehr dazu
 
 - [Mönchspfeffer bei der Quelle](https://heilkräuter.de/lexikon/mönchspfeffer.htm)
+
+## Fotos
+
+![Mönchspfeffer, Foto 1](https://heildepot.wir.ooo/bilder/kraut/moenchspfeffer-1.webp)
+
+Foto 1: Sten Porse, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Vitex-agnus-castus-habit.JPG)
+
+![Mönchspfeffer, Foto 2](https://heildepot.wir.ooo/bilder/kraut/moenchspfeffer-2.webp)
+
+Foto 2: Rosa-Maria Rinkl, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:M%C3%B6nchspfeffer,_Sithonia.jpg)
+
+![Mönchspfeffer, Foto 3](https://heildepot.wir.ooo/bilder/kraut/moenchspfeffer-3.webp)
+
+Foto 3: PLAKLE, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:H_%CE%9B%CF%85%CE%B3%CE%B1%CF%81%CE%B9%CE%AC_(Vitex_agnus-castus)_%CE%B4%CE%AF%CF%80%CE%BB%CE%B1_%CF%83%CF%84%CE%B7_%CE%B8%CE%AC%CE%BB%CE%B1%CF%83%CF%83%CE%B1,_%CE%9D%CF%84%CE%B1%CE%BC%CE%BF%CF%8D%CF%87%CE%B1%CF%81%CE%B7_%CE%A0%CE%B7%CE%BB%CE%AF%CE%BF%CF%85,_%CE%9C%CE%B1%CE%B3%CE%BD%CE%B7%CF%83%CE%AF%CE%B1,_%CE%98%CE%B5%CF%83%CF%83%CE%B1%CE%BB%CE%AF%CE%B1,_11-7-2021.jpg)
 
 ## Im Heildepot
 

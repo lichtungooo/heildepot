@@ -4,6 +4,8 @@ id: "histaminintoleranz"
 name: "Histaminintoleranz"
 tags: ["histamin", "unverträglichkeit", "darm", "allergie", "haut"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Histaminintoleranz

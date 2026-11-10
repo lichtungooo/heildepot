@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Blüten"
 tags: ["kamille", "magen", "beruhigend", "entzündung", "haut"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["entzündungshemmend", "krampflösend", "beruhigend", "wundheilend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/kamille-1.webp"
+bild_nachweis: "FloraTrek 2008, CC BY-SA 3.0"
 ---
 
 # Kamille
@@ -40,8 +45,8 @@ Blüten
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Sodbrennen / Reflux](../beschwerde/sodbrennen.md)
-- [[magen]]
-- [[schlafprobleme]]
+- [Sodbrennen / Reflux](../beschwerde/sodbrennen.md)
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
 - [Angst / Panikattacken](../beschwerde/angst.md)
@@ -155,6 +160,20 @@ In vielen Bauernhäusern stand immer ein Topf Kamillentee auf dem Ofen, das Allh
 ## Mehr dazu
 
 - [Kamille bei der Quelle](https://heilkräuter.de/lexikon/kamille.htm)
+
+## Fotos
+
+![Kamille, Foto 1](https://heildepot.wir.ooo/bilder/kraut/kamille-1.webp)
+
+Foto 1: FloraTrek 2008, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Camomille_matricaria_recutita.jpg)
+
+![Kamille, Foto 2](https://heildepot.wir.ooo/bilder/kraut/kamille-2.webp)
+
+Foto 2: Emőke Dénes, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Asterales_-_Matricaria_recutita_-_Malta_1.jpg)
+
+![Kamille, Foto 3](https://heildepot.wir.ooo/bilder/kraut/kamille-3.webp)
+
+Foto 3: cmuelle8, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:Bl%C3%BCtenstand_Kamille_(Matricaria_recutita)_zwischen_Kleinheringen_und_R%C3%B6digen2.jpg)
 
 ## Im Heildepot
 

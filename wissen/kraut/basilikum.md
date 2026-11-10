@@ -7,6 +7,11 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut"
 tags: ["basilikum", "verdauung", "magen", "nerven", "küche"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["krampflösend", "entzündungshemmend", "verdauungsfördernd", "stimmungsaufhellend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/basilikum-1.webp"
+bild_nachweis: "Paul Goyette, CC BY-SA 2.0"
 ---
 
 # Basilikum
@@ -37,9 +42,9 @@ Kraut
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
 - [Kopfschmerzen / Migräne](../beschwerde/kopfschmerzen.md)
-- [[nervositaet]]
+- [Nervosität](../beschwerde/nervositaet.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[stimmung]]
+- [Stimmung](../beschwerde/stimmung.md)
 
 ## Beschreibung
 
@@ -137,6 +142,20 @@ Italienische Großmütter sagten: "Basilikum auf dem Tisch und Streit geht aus d
 ## Mehr dazu
 
 - [Basilikum bei der Quelle](https://heilkräuter.de/lexikon/basilikum.htm)
+
+## Fotos
+
+![Basilikum, Foto 1](https://heildepot.wir.ooo/bilder/kraut/basilikum-1.webp)
+
+Foto 1: Paul Goyette, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Basil_leaves.jpg)
+
+![Basilikum, Foto 2](https://heildepot.wir.ooo/bilder/kraut/basilikum-2.webp)
+
+Foto 2: Jjvaca, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Albahaca.jpg)
+
+![Basilikum, Foto 3](https://heildepot.wir.ooo/bilder/kraut/basilikum-3.webp)
+
+Foto 3: Vorzinek, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Baselle.JPG)
 
 ## Im Heildepot
 

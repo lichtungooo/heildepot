@@ -3,21 +3,23 @@ art: "rezept"
 id: "brainfood-elixier"
 name: "Brainfood-Elixier: Nootropischer Geist-Booster"
 tradition: "Hexenwissen"
-kategorie: "Geist-Öffner & Klarheit"
 tags: ["nootropic", "lionsmane", "brahmi", "brainfood", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Geist-Öffner & Klarheit"
 ---
 
 # Brainfood-Elixier: Nootropischer Geist-Booster
 
 ## Hilft bei
 
-- [[gedaechtnis]]
-- [[konzentration]]
-- [[lernen]]
-- [[neuroprotektion]]
-- [[brain-fog]]
-- [[demenz-praevention]]
+- [Demenz / Alzheimer / Vergesslichkeit](../beschwerde/demenz.md)
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
+- [Lernen](../beschwerde/lernen.md)
+- [Neuroprotektion](../beschwerde/neuroprotektion.md)
+- [Brain fog](../beschwerde/brain-fog.md)
+- [Demenz prävention](../beschwerde/demenz-praevention.md)
 
 ## Schwierigkeit
 

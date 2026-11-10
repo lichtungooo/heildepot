@@ -4,6 +4,8 @@ id: "schnarchen"
 name: "Schnarchen / Schlafapnoe"
 tags: ["schlaf", "atemwege", "schnarchen", "apnoe", "regeneration"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Schnarchen / Schlafapnoe

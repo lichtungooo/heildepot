@@ -8,6 +8,11 @@ pflanzenteile: "Kraut (nur als Fertigpräparat)"
 schutz: "geschützt"
 tags: ["sonnentau", "husten", "keuchhusten", "geschützt", "fleischfressend"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["krampflösend", "hustenstillend", "schleimlösend", "antibakteriell"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/sonnentau-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 3.0"
 ---
 
 # Sonnentau
@@ -36,12 +41,12 @@ Kraut (nur als Fertigpräparat)
 ## Hilft bei
 
 - [Husten / Bronchitis](../beschwerde/husten.md)
-- [[bronchitis]]
+- [Husten / Bronchitis](../beschwerde/husten.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[reizhusten]]
-- [[keuchhusten]]
+- [Reizhusten](../beschwerde/reizhusten.md)
+- [Keuchhusten](../beschwerde/keuchhusten.md)
 - [Asthma / Atemwege](../beschwerde/asthma.md)
-- [[bronchialkrampf]]
+- [Bronchialkrampf](../beschwerde/bronchialkrampf.md)
 
 ## Beschreibung
 
@@ -137,6 +142,20 @@ In der Alpenvolksmedizin war Sonnentau-Schnaps ein geschätztes Hustenmittel. In
 ## Mehr dazu
 
 - [Sonnentau bei der Quelle](https://heilkräuter.de/lexikon/sonnentau.htm)
+
+## Fotos
+
+![Sonnentau, Foto 1](https://heildepot.wir.ooo/bilder/kraut/sonnentau-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Drosera_rotundifolia_130405.jpg)
+
+![Sonnentau, Foto 2](https://heildepot.wir.ooo/bilder/kraut/sonnentau-2.webp)
+
+Foto 2: Honza Moravec, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Chvojnov_-_rosnatka.jpg)
+
+![Sonnentau, Foto 3](https://heildepot.wir.ooo/bilder/kraut/sonnentau-3.webp)
+
+Foto 3: ANKAWÜ, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:D-BW_-_Pfrunger-Burgweiler-Ried_-_Rundbl%C3%A4ttriger_Sonnentau.JPG)
 
 ## Im Heildepot
 

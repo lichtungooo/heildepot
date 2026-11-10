@@ -7,6 +7,11 @@ familie: "Hahnenfußgewächse (Ranunculaceae)"
 pflanzenteile: "Kraut"
 tags: ["akelei", "leber", "beruhigend", "hildegard"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["beruhigend", "leberstärkend", "blutreinigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/akelei-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 3.0"
 ---
 
 # Akelei
@@ -35,10 +40,10 @@ Kraut
 
 - [Leber / Galle](../beschwerde/leber.md)
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
-- [[schlaflosigkeit]]
-- [[unruhe]]
-- [[menstruationsbeschwerden]]
-- [[wassereinlagerungen]]
+- [Schlaflosigkeit](../beschwerde/schlaflosigkeit.md)
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
+- [Menstruationsbeschwerden](../beschwerde/menstruationsbeschwerden.md)
+- [Wassereinlagerungen](../beschwerde/wassereinlagerungen.md)
 
 ## Beschreibung
 
@@ -134,6 +139,20 @@ In der Volksmedizin wurde die Akelei bei Gelbsucht, Skrofulose (Lymphknotenschwe
 ## Mehr dazu
 
 - [Akelei bei der Quelle](https://heilkräuter.de/lexikon/akelei.htm)
+
+## Fotos
+
+![Akelei, Foto 1](https://heildepot.wir.ooo/bilder/kraut/akelei-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Aquilegia_vulgaris_100503a.jpg)
+
+![Akelei, Foto 2](https://heildepot.wir.ooo/bilder/kraut/akelei-2.webp)
+
+Foto 2: Yvonne Bentele, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:2015-05_Haus-Mauerritzen-gr%C3%BCn_01.jpg)
+
+![Akelei, Foto 3](https://heildepot.wir.ooo/bilder/kraut/akelei-3.webp)
+
+Foto 3: Jemaros, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Aklejor.jpg)
 
 ## Im Heildepot
 

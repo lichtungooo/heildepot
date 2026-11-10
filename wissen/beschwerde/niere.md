@@ -4,6 +4,8 @@ id: "niere"
 name: "Niere / Blase / Harnwege"
 tags: ["niere", "blase", "harnwege", "entgiftung", "wasser"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Niere / Blase / Harnwege

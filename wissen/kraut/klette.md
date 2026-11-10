@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Wurzel, Blätter"
 tags: ["klette", "haut", "akne", "haare", "leber"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["blutreinigend", "hautpflegend", "leberstärkend", "harntreibend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/klette-1.webp"
+bild_nachweis: "No machine-readable author provided. Bogdan assumed (based on copyright claims)., CC BY-SA 3.0"
 ---
 
 # Klette
@@ -39,8 +44,8 @@ Wurzel, Blätter
 - [Haarausfall / Haargesundheit](../beschwerde/haarverlust.md)
 - [Neurodermitis / Ekzem](../beschwerde/neurodermitis.md)
 - [Akne / Unreine Haut](../beschwerde/akne.md)
-- [[ekzem]]
-- [[entgiftung]]
+- [Hautthemen / Neurodermitis](../beschwerde/haut.md)
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Diabetes](../beschwerde/diabetes.md)
 
@@ -140,6 +145,20 @@ Klettenwurzelöl war das Haarpflegemittel der Grosselterngeneration, "Klettenwur
 ## Mehr dazu
 
 - [Klette bei der Quelle](https://heilkräuter.de/lexikon/klette.htm)
+
+## Fotos
+
+![Klette, Foto 1](https://heildepot.wir.ooo/bilder/kraut/klette-1.webp)
+
+Foto 1: No machine-readable author provided. Bogdan assumed (based on copyright claims)., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Arctium_lappa_02_bgiu.jpg)
+
+![Klette, Foto 2](https://heildepot.wir.ooo/bilder/kraut/klette-2.webp)
+
+Foto 2: Christian Fischer, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:ArctiumLappa1.jpg)
+
+![Klette, Foto 3](https://heildepot.wir.ooo/bilder/kraut/klette-3.webp)
+
+Foto 3: Dalgial, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Arctium_lappa_3.JPG)
 
 ## Im Heildepot
 

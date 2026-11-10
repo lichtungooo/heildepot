@@ -4,6 +4,8 @@ id: "verdauung"
 name: "Verdauung / Reizdarm"
 tags: ["verdauung", "reizdarm", "darm", "mikrobiom", "bauch"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Verdauung / Reizdarm

@@ -7,6 +7,11 @@ familie: "Berberitzengewächse (Berberidaceae)"
 pflanzenteile: "Wurzelrinde"
 tags: ["mahonie", "psoriasis", "haut", "berberin", "schuppenflechte"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["hautpflegend", "entzündungshemmend", "leberstärkend", "antibakteriell"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/mahonie-1.webp"
+bild_nachweis: "The original uploader was Meggar at English Wikipedia., CC BY-SA 3.0"
 ---
 
 # Mahonie
@@ -39,7 +44,7 @@ Wurzelrinde
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Leber / Galle](../beschwerde/leber.md)
 - [Schuppenflechte / Psoriasis](../beschwerde/psoriasis.md)
-- [[ekzem]]
+- [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
 
@@ -140,6 +145,20 @@ Die Nez Percé nannten die Mahonie "Oregon Grape" und nutzten den gelben Rindens
 ## Mehr dazu
 
 - [Mahonie bei der Quelle](https://heilkräuter.de/lexikon/mahonie.htm)
+
+## Fotos
+
+![Mahonie, Foto 1](https://heildepot.wir.ooo/bilder/kraut/mahonie-1.webp)
+
+Foto 1: The original uploader was Meggar at English Wikipedia., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Mahonia_aquifolium.jpg)
+
+![Mahonie, Foto 2](https://heildepot.wir.ooo/bilder/kraut/mahonie-2.webp)
+
+Foto 2: Unknown authorUnknown author, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:PSM_V45_D620_Berberis_aquifolium.jpg)
+
+![Mahonie, Foto 3](https://heildepot.wir.ooo/bilder/kraut/mahonie-3.webp)
+
+Foto 3: Katrin Schneider / korina.info, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Korina_2013-07-23_Mahonia_aquifolium.jpg)
 
 ## Im Heildepot
 

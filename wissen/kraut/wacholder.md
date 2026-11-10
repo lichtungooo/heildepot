@@ -7,6 +7,11 @@ familie: "Zypressengewächse (Cupressaceae)"
 pflanzenteile: "Beeren (Zapfen)"
 tags: ["wacholder", "blase", "rheuma", "verdauung", "wärmend"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["harntreibend", "verdauungsfördernd", "wärmend", "antibakteriell"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/wacholder-1.webp"
+bild_nachweis: "Chmee2, CC BY-SA 3.0"
 ---
 
 # Wacholder
@@ -38,10 +43,10 @@ Beeren (Zapfen)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
 - [Gicht / Harnsäure](../beschwerde/gicht.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
-- [[harnwege]]
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[entgiftung]]
-- [[raeucherung]]
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
+- [Räucherung](../beschwerde/raeucherung.md)
 
 ## Beschreibung
 
@@ -144,6 +149,20 @@ In Bauernhäusern räucherte man in den Rauhnächten mit Wacholder durchs ganze 
 ## Mehr dazu
 
 - [Wacholder bei der Quelle](https://heilkräuter.de/lexikon/wacholde.htm)
+
+## Fotos
+
+![Wacholder, Foto 1](https://heildepot.wir.ooo/bilder/kraut/wacholder-1.webp)
+
+Foto 1: Chmee2, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bou%C5%99idla_(2).JPG)
+
+![Wacholder, Foto 2](https://heildepot.wir.ooo/bilder/kraut/wacholder-2.webp)
+
+Foto 2: Peter Mulligan from United Kingdom, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Juniperus_communis_Cairngorm_vista.jpg)
+
+![Wacholder, Foto 3](https://heildepot.wir.ooo/bilder/kraut/wacholder-3.webp)
+
+Foto 3: Lord Koxinga, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:2008_0707_80740_Hiking_in_South_Tyrol_Naturns_R0646.jpg)
 
 ## Im Heildepot
 

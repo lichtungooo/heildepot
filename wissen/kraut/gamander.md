@@ -7,6 +7,11 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut"
 tags: ["gamander", "verdauung", "appetit", "gicht", "rheuma"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "appetitanregend", "entzündungshemmend", "tonisierend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/gamander-1.webp"
+bild_nachweis: "Rasbak, CC BY-SA 3.0"
 ---
 
 # Gamander
@@ -40,8 +45,8 @@ Kraut
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[fieber]]
-- [[appetitlosigkeit]]
+- [Grippe](../beschwerde/grippe.md)
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
 
 ## Beschreibung
 
@@ -132,6 +137,20 @@ In den Bergen der Bretagne und in Wales war der Gamander ein alltägliches Hausm
 ## Mehr dazu
 
 - [Gamander bei der Quelle](https://heilkräuter.de/lexikon/gamander.htm)
+
+## Fotos
+
+![Gamander, Foto 1](https://heildepot.wir.ooo/bilder/kraut/gamander-1.webp)
+
+Foto 1: Rasbak, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Echte_gamander_plant_Teucrium_chamaedrys_subsp._germanicum.jpg)
+
+![Gamander, Foto 2](https://heildepot.wir.ooo/bilder/kraut/gamander-2.webp)
+
+Foto 2: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Teucrium_ch1_grojec_2002.jpg)
+
+![Gamander, Foto 3](https://heildepot.wir.ooo/bilder/kraut/gamander-3.webp)
+
+Foto 3: Doronenko 11:25, 9 April 2007 (UTC), CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Teucrium_chamaedris.jpg)
 
 ## Im Heildepot
 

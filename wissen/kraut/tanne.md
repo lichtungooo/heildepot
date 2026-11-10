@@ -7,6 +7,11 @@ familie: "Kieferngewächse (Pinaceae)"
 pflanzenteile: "Nadeln, junge Triebe, Harz"
 tags: ["tanne", "atemwege", "bad", "wald", "tannenhonig"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "durchblutungsfördernd", "antiseptisch", "beruhigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/tanne-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 3.0"
 ---
 
 # Tanne
@@ -38,10 +43,10 @@ Nadeln, junge Triebe, Harz
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
-- [[atemwege]]
-- [[muskelverspannung]]
-- [[wundheilung]]
-- [[immunsystem]]
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
+- [Muskelverspannung](../beschwerde/muskelverspannung.md)
+- [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 
 ## Beschreibung
 
@@ -137,6 +142,20 @@ Waldarbeiter und Hirten kauten Tannenharz wie Kaugummi, es reinigte die Zähne u
 ## Mehr dazu
 
 - [Tanne bei der Quelle](https://heilkräuter.de/lexikon/tanne.htm)
+
+## Fotos
+
+![Tanne, Foto 1](https://heildepot.wir.ooo/bilder/kraut/tanne-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Prastara_jela_Orjen.jpg)
+
+![Tanne, Foto 2](https://heildepot.wir.ooo/bilder/kraut/tanne-2.webp)
+
+Foto 2: de:Benutzer:Orjen, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Jela_i_munika.jpg)
+
+![Tanne, Foto 3](https://heildepot.wir.ooo/bilder/kraut/tanne-3.webp)
+
+Foto 3: Juan R. Lascorz, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Abies_alba_(val_de_Pu%C3%A9rtolas).jpg)
 
 ## Im Heildepot
 

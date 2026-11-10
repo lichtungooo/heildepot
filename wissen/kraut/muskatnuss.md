@@ -7,6 +7,11 @@ familie: "Muskatnussgewächse (Myristicaceae)"
 pflanzenteile: "Samen (Nuss)"
 tags: ["muskatnuss", "verdauung", "schlaf", "wärmend", "gewürz"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "wärmend", "schmerzlindernd", "schlaffördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/muskatnuss-1.webp"
+bild_nachweis: "W.A. Djatmiko Wie146, CC BY-SA 4.0"
 ---
 
 # Muskatnuss
@@ -38,11 +43,11 @@ Samen (Nuss)
 - [Schlafthemen](../beschwerde/schlaf.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
-- [[schlafstörungen]]
+- [Schlafstörungen](../beschwerde/schlafstoerungen.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[verdauungsschwäche]]
-- [[gelenkschmerzen]]
-- [[appetitlosigkeit]]
+- [Verdauungsschwäche](../beschwerde/verdauungsschwaeche.md)
+- [Gelenkschmerzen](../beschwerde/gelenkschmerzen.md)
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
 
 ## Beschreibung
 
@@ -141,6 +146,20 @@ In der europäischen Volksmedizin galt die Muskatnuss als wärmendes Magenmittel
 ## Mehr dazu
 
 - [Muskatnuss bei der Quelle](https://heilkräuter.de/lexikon/muskat.htm)
+
+## Fotos
+
+![Muskatnuss, Foto 1](https://heildepot.wir.ooo/bilder/kraut/muskatnuss-1.webp)
+
+Foto 1: W.A. Djatmiko Wie146, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Myris_fragr_Fr_080112-3290_ltn.jpg)
+
+![Muskatnuss, Foto 2](https://heildepot.wir.ooo/bilder/kraut/muskatnuss-2.webp)
+
+Foto 2: Edukeralam at Malayalam Wikipedia, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Jathimaram-closeup.JPG)
+
+![Muskatnuss, Foto 3](https://heildepot.wir.ooo/bilder/kraut/muskatnuss-3.webp)
+
+Foto 3: വിമല്‍ ജോസഫ്, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Jatikka.jpg)
 
 ## Im Heildepot
 

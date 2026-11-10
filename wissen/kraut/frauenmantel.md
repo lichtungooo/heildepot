@@ -7,6 +7,11 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Kraut"
 tags: ["frauenmantel", "frauenheilkunde", "zyklus", "wechseljahre", "schwangerschaft"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["adstringierend", "krampflösend", "hormonausgleichend", "wundheilend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/frauenmantel-1.webp"
+bild_nachweis: "Reaperman, CC BY-SA 3.0"
 ---
 
 # Frauenmantel
@@ -37,10 +42,10 @@ Kraut
 - [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
-- [[menstruation]]
 - [PMS / Menstruationsbeschwerden](../beschwerde/pms.md)
-- [[kinderwunsch]]
-- [[geburt]]
+- [PMS / Menstruationsbeschwerden](../beschwerde/pms.md)
+- [Kinderwunsch](../beschwerde/kinderwunsch.md)
+- [Geburt](../beschwerde/geburt.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
 
@@ -139,6 +144,20 @@ Hebammen ließen Schwangere ab der 36. Woche täglich 3-4 Tassen Frauenmanteltee
 ## Mehr dazu
 
 - [Frauenmantel bei der Quelle](https://heilkräuter.de/lexikon/frauenma.htm)
+
+## Fotos
+
+![Frauenmantel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/frauenmantel-1.webp)
+
+Foto 1: Reaperman, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Alchemilla_vulgaris_(RpM).JPG)
+
+![Frauenmantel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/frauenmantel-2.webp)
+
+Foto 2: Liliane Roubaudi, CC BY-SA 2.0 fr, [Quelle](https://commons.wikimedia.org/wiki/File:Alchemilla_acutiloba_leaf_(01).jpg)
+
+![Frauenmantel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/frauenmantel-3.webp)
+
+Foto 3: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Alchemilla_vulgaris_001.JPG)
 
 ## Im Heildepot
 

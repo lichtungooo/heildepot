@@ -3,20 +3,22 @@ art: "rezept"
 id: "venus-wein"
 name: "Venus-Wein: Mittelalterlicher Liebes-Hypocras"
 tradition: "Hexenwissen"
-kategorie: "Liebestränke"
 tags: ["liebestrank", "hypocras", "mittelalter", "würzwein", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Liebestränke"
 ---
 
 # Venus-Wein: Mittelalterlicher Liebes-Hypocras
 
 ## Hilft bei
 
-- [[romantik]]
-- [[abendgestaltung]]
-- [[sinnlichkeit]]
-- [[genuss]]
-- [[feier]]
+- [Romantik](../beschwerde/romantik.md)
+- [Abendgestaltung](../beschwerde/abendgestaltung.md)
+- [Sinnlichkeit](../beschwerde/sinnlichkeit.md)
+- [Genuss](../beschwerde/genuss.md)
+- [Feier](../beschwerde/feier.md)
 
 ## Schwierigkeit
 

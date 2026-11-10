@@ -8,6 +8,11 @@ pflanzenteile: "Wurzel (nur aus Anbau)"
 schutz: "geschützt"
 tags: ["silberdistel", "eberwurz", "alpen", "geschützt", "verdauung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "harntreibend", "schweißtreibend", "wurmmittel"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/silberdistel-1.webp"
+bild_nachweis: "Tomasz Kuran aka Meteor2017, CC BY 2.5"
 ---
 
 # Silberdistel
@@ -40,6 +45,20 @@ Wurzel (nur aus Anbau)
 ## Mehr dazu
 
 - [Silberdistel bei der Quelle](https://heilkräuter.de/lexikon/silberdistel.htm)
+
+## Fotos
+
+![Silberdistel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/silberdistel-1.webp)
+
+Foto 1: Tomasz Kuran aka Meteor2017, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Carlina_acaulis_cm01.jpg)
+
+![Silberdistel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/silberdistel-2.webp)
+
+Foto 2: Guérin Nicolas (messages), CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Carlina_acaulis_-_Vall%C3%A9e_du_Marcadau_10.jpg)
+
+![Silberdistel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/silberdistel-3.webp)
+
+Foto 3: Jerzy Opioła, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Carlina_acaulis_G32.jpg)
 
 ## Im Heildepot
 

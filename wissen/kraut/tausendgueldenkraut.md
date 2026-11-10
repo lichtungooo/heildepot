@@ -7,6 +7,11 @@ familie: "Enziangewächse (Gentianaceae)"
 pflanzenteile: "Kraut"
 tags: ["tausendgüldenkraut", "bitter", "magen", "verdauung", "appetit"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "appetitanregend", "magenstärkend", "fiebersenkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/tausendgueldenkraut-1.webp"
+bild_nachweis: "Rillke, CC BY-SA 3.0 de"
 ---
 
 # Tausendgüldenkraut
@@ -37,11 +42,11 @@ Kraut
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
 - [Sodbrennen / Reflux](../beschwerde/sodbrennen.md)
-- [[appetitlosigkeit]]
-- [[magen]]
-- [[galle]]
-- [[voellegefuehl]]
-- [[rekonvaleszenz]]
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
+- [Sodbrennen / Reflux](../beschwerde/sodbrennen.md)
+- [Leber / Galle](../beschwerde/leber.md)
+- [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
+- [Rekonvaleszenz](../beschwerde/rekonvaleszenz.md)
 
 ## Beschreibung
 
@@ -137,6 +142,20 @@ Auf dem Land galt: "Wer keinen Appetit hat, trinke Tausendgüldenkraut, nach dre
 ## Mehr dazu
 
 - [Tausendgüldenkraut bei der Quelle](https://heilkräuter.de/lexikon/tausendg.htm)
+
+## Fotos
+
+![Tausendgüldenkraut, Foto 1](https://heildepot.wir.ooo/bilder/kraut/tausendgueldenkraut-1.webp)
+
+Foto 1: Rillke, CC BY-SA 3.0 de, [Quelle](https://commons.wikimedia.org/wiki/File:Centaurii_herba_175057.jpg)
+
+![Tausendgüldenkraut, Foto 2](https://heildepot.wir.ooo/bilder/kraut/tausendgueldenkraut-2.webp)
+
+Foto 2: Danny Steven S., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Centaurii_herba_by_Danny_S._-_001.jpg)
+
+![Tausendgüldenkraut, Foto 3](https://heildepot.wir.ooo/bilder/kraut/tausendgueldenkraut-3.webp)
+
+Foto 3: Radio Tonreg from Vienna, Austria, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Centaurium_erythraea_(7275612590).jpg)
 
 ## Im Heildepot
 

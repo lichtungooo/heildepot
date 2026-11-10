@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Kraut"
 tags: ["goldrute", "niere", "blase", "harnwege", "durchspülung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["harntreibend", "entzündungshemmend", "krampflösend", "durchspülend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/goldrute-1.webp"
+bild_nachweis: "Bff, CC BY-SA 3.0"
 ---
 
 # Goldrute
@@ -40,8 +45,8 @@ Kraut
 - [Prostata / Männergesundheit](../beschwerde/prostata.md)
 - [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
 - [Nierensteine / Nierenkolik](../beschwerde/nierensteine.md)
-- [[reizblase]]
-- [[harnwege]]
+- [Reizblase](../beschwerde/reizblase.md)
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
 
 ## Beschreibung
 
@@ -139,6 +144,20 @@ In der Volksheilkunde hieß es: "Goldrute im Tee hält die Nieren wie Gold", sie
 ## Mehr dazu
 
 - [Goldrute bei der Quelle](https://heilkräuter.de/lexikon/goldrute.htm)
+
+## Fotos
+
+![Goldrute, Foto 1](https://heildepot.wir.ooo/bilder/kraut/goldrute-1.webp)
+
+Foto 1: Bff, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Solidago_virgaurea20090811_045.jpg)
+
+![Goldrute, Foto 2](https://heildepot.wir.ooo/bilder/kraut/goldrute-2.webp)
+
+Foto 2: Hansueli Krapf  This   file was uploaded  with Commonist., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:2013-08-06_09-22-49_Switzerland_Kanton_Graub%C3%BCnden_Poschiavo_Lagh_da_Val_Viola.JPG)
+
+![Goldrute, Foto 3](https://heildepot.wir.ooo/bilder/kraut/goldrute-3.webp)
+
+Foto 3: C.G. Alm, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Brudsporrar_och_gullris_-_Nordiska_Museet_-_NMA.0031744.jpg)
 
 ## Im Heildepot
 

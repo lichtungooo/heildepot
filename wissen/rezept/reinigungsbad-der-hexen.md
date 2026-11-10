@@ -3,21 +3,23 @@ art: "rezept"
 id: "reinigungsbad-der-hexen"
 name: "Reinigungsbad der Hexen: Rituelles Reinigungs- und Schutzbad"
 tradition: "Hexenwissen"
-kategorie: "Schutz & Reinigung"
 tags: ["reinigungsbad", "meersalz", "ritualarbeit", "schutz", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Schutz & Reinigung"
 ---
 
 # Reinigungsbad der Hexen: Rituelles Reinigungs- und Schutzbad
 
 ## Hilft bei
 
-- [[energetische-reinigung]]
+- [Energetische reinigung](../beschwerde/energetische-reinigung.md)
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
-- [[schlaflosigkeit]]
-- [[schutz]]
-- [[raunaechte]]
-- [[neuanfang]]
+- [Schlaflosigkeit](../beschwerde/schlaflosigkeit.md)
+- [Schutz](../beschwerde/schutz.md)
+- [Raunächte](../beschwerde/raunaechte.md)
+- [Neuanfang](../beschwerde/neuanfang.md)
 
 ## Schwierigkeit
 

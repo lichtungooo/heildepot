@@ -3,20 +3,22 @@ art: "rezept"
 id: "morgen-danach-retter"
 name: "Der Morgen-danach-Retter: Notfall-Kater-Kur"
 tradition: "Hexenwissen"
-kategorie: "Kater-Killer"
 tags: ["katerkiller", "mariendistel", "leberschutz", "notfall", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Kater-Killer"
 ---
 
 # Der Morgen-danach-Retter: Notfall-Kater-Kur
 
 ## Hilft bei
 
-- [[kater]]
-- [[hangover]]
-- [[uebelkeit]]
+- [Kater](../beschwerde/kater.md)
+- [Hangover](../beschwerde/hangover.md)
+- [Übelkeit](../beschwerde/uebelkeit.md)
 - [Kopfschmerzen / Migräne](../beschwerde/kopfschmerzen.md)
-- [[nach-party]]
+- [Nach party](../beschwerde/nach-party.md)
 
 ## Schwierigkeit
 

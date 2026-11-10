@@ -7,6 +7,11 @@ familie: "Hundsgiftgewächse (Apocynaceae)"
 pflanzenteile: "Wurzel (nur als Fertigpräparat)"
 tags: ["rauwolfia", "blutdruck", "beruhigung", "ayurveda", "giftig"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["blutdrucksenkend", "beruhigend", "herzrhythmusregulierend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/rauwolfia-1.webp"
+bild_nachweis: "പ്രശാന്ത്‌ ഇറവങ്കര, CC BY 3.0"
 ---
 
 # Rauwolfia
@@ -36,9 +41,9 @@ Wurzel (nur als Fertigpräparat)
 - [Bluthochdruck / Herz-Kreislauf](../beschwerde/bluthochdruck.md)
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
 - [Angst / Panikattacken](../beschwerde/angst.md)
-- [[unruhe]]
-- [[schlaflosigkeit]]
-- [[nervositaet]]
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
+- [Schlaflosigkeit](../beschwerde/schlaflosigkeit.md)
+- [Nervosität](../beschwerde/nervositaet.md)
 
 ## Beschreibung
 
@@ -127,6 +132,20 @@ In Indien gaben Dorfheiler seit Jahrhunderten Rauwolfia-Wurzelpulver an aufgereg
 ## Mehr dazu
 
 - [Rauwolfia bei der Quelle](https://heilkräuter.de/lexikon/rauwolfia.htm)
+
+## Fotos
+
+![Rauwolfia, Foto 1](https://heildepot.wir.ooo/bilder/kraut/rauwolfia-1.webp)
+
+Foto 1: പ്രശാന്ത്‌ ഇറവങ്കര, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ruwolfia_Serpentina.JPG)
+
+![Rauwolfia, Foto 2](https://heildepot.wir.ooo/bilder/kraut/rauwolfia-2.webp)
+
+Foto 2: आशीष भटनागर at English Wikipedia, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Rauwolfia_serpentina_at_talkatora_gardens_delhi.jpg)
+
+![Rauwolfia, Foto 3](https://heildepot.wir.ooo/bilder/kraut/rauwolfia-3.webp)
+
+Foto 3: Vinayaraj, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Rauvolfia_serpentina_05.jpg)
 
 ## Im Heildepot
 

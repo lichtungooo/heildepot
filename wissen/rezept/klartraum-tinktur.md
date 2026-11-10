@@ -3,20 +3,22 @@ art: "rezept"
 id: "klartraum-tinktur"
 name: "Klartraum-Tinktur: Tor zum bewussten Traeumen"
 tradition: "Hexenwissen"
-kategorie: "Geist-Öffner & Klarheit"
 tags: ["klartraum", "beifuß", "traumkraut", "tinktur", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Geist-Öffner & Klarheit"
 ---
 
 # Klartraum-Tinktur: Tor zum bewussten Traeumen
 
 ## Hilft bei
 
-- [[klartraeume]]
-- [[traumarbeit]]
-- [[luzides-traeumen]]
-- [[selbsterkenntnis]]
-- [[visionaere-arbeit]]
+- [Klarträume](../beschwerde/klartraeume.md)
+- [Traumarbeit](../beschwerde/traumarbeit.md)
+- [Luzides träumen](../beschwerde/luzides-traeumen.md)
+- [Selbsterkenntnis](../beschwerde/selbsterkenntnis.md)
+- [Visionäre arbeit](../beschwerde/visionaere-arbeit.md)
 
 ## Schwierigkeit
 

@@ -3,21 +3,23 @@ art: "rezept"
 id: "vierrauber-essig"
 name: "Vierräuber-Essig: Das legendäre Pest-Schutzmittel"
 tradition: "Hexenwissen"
-kategorie: "Schutz & Reinigung"
 tags: ["schutzmittel", "pest", "essig", "vierraueber", "hexenrezept", "antibakteriell"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Schutz & Reinigung"
 ---
 
 # Vierräuber-Essig: Das legendäre Pest-Schutzmittel
 
 ## Hilft bei
 
-- [[immunschutz]]
-- [[desinfektion]]
+- [Immunschutz](../beschwerde/immunschutz.md)
+- [Desinfektion](../beschwerde/desinfektion.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[halsschmerzen]]
-- [[raumreinigung]]
-- [[wundreinigung]]
+- [Angina / Mandelentzündung / Halsschmerzen](../beschwerde/angina.md)
+- [Raumreinigung](../beschwerde/raumreinigung.md)
+- [Wundreinigung](../beschwerde/wundreinigung.md)
 
 ## Schwierigkeit
 

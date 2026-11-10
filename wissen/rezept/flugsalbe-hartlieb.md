@@ -3,21 +3,23 @@ art: "rezept"
 id: "flugsalbe-hartlieb"
 name: "Flugsalbe nach Johannes Hartlieb (1456)"
 tradition: "Grimoire"
-kategorie: "Flugsalbe"
 tags: ["Flugsalbe", "Hexenflug", "Hartlieb", "Planetenmagie", "Nachtschatten", "15Jahrhundert", "Bayern", "Grimoire", "TransdermaleAlkaloide", "Hexenverfolgung"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Flugsalbe"
 ---
 
 # Flugsalbe nach Johannes Hartlieb (1456)
 
 ## Hilft bei
 
-- [[Flugsalbe]]
-- [[Hexenflug]]
-- [[Hexensalbe]]
-- [[Planetenkräuter]]
-- [[Mittelalter]]
-- [[Hexenverfolgung]]
+- [Flugsalbe](../beschwerde/flugsalbe.md)
+- [Hexenflug](../beschwerde/hexenflug.md)
+- [Hexensalbe](../beschwerde/hexensalbe.md)
+- [Planetenkräuter](../beschwerde/planetenkraeuter.md)
+- [Mittelalter](../beschwerde/mittelalter.md)
+- [Hexenverfolgung](../beschwerde/hexenverfolgung.md)
 
 ## Schwierigkeit
 

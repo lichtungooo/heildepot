@@ -4,6 +4,8 @@ id: "sucht"
 name: "Sucht / Abhängigkeit / Entzug"
 tags: ["sucht", "abhängigkeit", "entzug", "alkohol", "drogen", "nikotinsucht", "zucker"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Sucht / Abhängigkeit / Entzug

@@ -3,9 +3,11 @@ art: "rezept"
 id: "wechseljahre-goettin-trank"
 name: "Wechseljahre-Göttin-Trank: Die zweite Blüte"
 tradition: "Hexenwissen"
-kategorie: "Frauen-Heilkunde"
 tags: ["frauenheilkunde", "wechseljahre", "menopause", "phytooestrogene", "hexenwissen", "göttin"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Frauen-Heilkunde"
 ---
 
 # Wechseljahre-Göttin-Trank: Die zweite Blüte
@@ -13,12 +15,12 @@ quelle: "heildepot"
 ## Hilft bei
 
 - [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
-- [[hitzewallungen]]
-- [[nachtschweiss]]
-- [[stimmungsschwankungen]]
-- [[schlafprobleme]]
-- [[menopause]]
-- [[perimenopause]]
+- [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
+- [Nachtschweiss](../beschwerde/nachtschweiss.md)
+- [Stimmungsschwankungen](../beschwerde/stimmungsschwankungen.md)
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
+- [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
+- [Perimenopause](../beschwerde/perimenopause.md)
 
 ## Schwierigkeit
 

@@ -7,6 +7,11 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Wurzel"
 tags: ["astragalus", "immunsystem", "adaptogen", "tcm", "energie"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["immunstärkend", "adaptogen", "herzschützend", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/astragalus-1.webp"
+bild_nachweis: "Doronenko, CC BY 2.5"
 ---
 
 # Astragalus
@@ -39,11 +44,11 @@ Wurzel
 - [Burnout / Chronische Erschöpfung](../beschwerde/burnout.md)
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
 - [Autoimmunthemen](../beschwerde/autoimmun.md)
-- [[rekonvaleszenz]]
-- [[infektanfaelligkeit]]
+- [Rekonvaleszenz](../beschwerde/rekonvaleszenz.md)
+- [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
 - [Allergie / Heuschnupfen](../beschwerde/allergie.md)
 - [Leber / Galle](../beschwerde/leber.md)
-- [[alter]]
+- [Alter](../beschwerde/alter.md)
 
 ## Beschreibung
 
@@ -144,6 +149,20 @@ In China sagt man: "Wer regelmäßig Huang Qi trinkt, braucht keinen Arzt." Müt
 ## Mehr dazu
 
 - [Astragalus bei der Quelle](https://heilkräuter.de/lexikon/astragalus.htm)
+
+## Fotos
+
+![Astragalus, Foto 1](https://heildepot.wir.ooo/bilder/kraut/astragalus-1.webp)
+
+Foto 1: Doronenko, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Astragalus_membranaceus.jpg)
+
+![Astragalus, Foto 2](https://heildepot.wir.ooo/bilder/kraut/astragalus-2.webp)
+
+Foto 2: Urgamal Magsar,, CC BY 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Astragalus_mongholicus,_fruits.jpg)
+
+![Astragalus, Foto 3](https://heildepot.wir.ooo/bilder/kraut/astragalus-3.webp)
+
+Foto 3: Fumikas Sagisavas, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:Astragalus_discs.jpg)
 
 ## Im Heildepot
 

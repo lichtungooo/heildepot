@@ -7,6 +7,11 @@ familie: "Parmeliaceae (Flechten)"
 pflanzenteile: "Ganze Flechte"
 tags: ["isländischmoos", "husten", "heiserkeit", "schleimhaut", "atemwege"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimhautschützend", "reizlindernd", "immunstärkend", "appetitanregend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/islaendisches-moos-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 3.0"
 ---
 
 # Isländisches Moos
@@ -35,13 +40,13 @@ Ganze Flechte
 ## Hilft bei
 
 - [Husten / Bronchitis](../beschwerde/husten.md)
-- [[halsschmerzen]]
+- [Angina / Mandelentzündung / Halsschmerzen](../beschwerde/angina.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
-- [[reizhusten]]
-- [[bronchitis]]
-- [[gastritis]]
-- [[appetitlosigkeit]]
+- [Reizhusten](../beschwerde/reizhusten.md)
+- [Husten / Bronchitis](../beschwerde/husten.md)
+- [Gastritis](../beschwerde/gastritis.md)
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 
 ## Beschreibung
@@ -142,6 +147,20 @@ In den nordischen Ländern war Isländisches Moos das wichtigste Hustenmittel sc
 ## Mehr dazu
 
 - [Isländisches Moos bei der Quelle](https://heilkräuter.de/lexikon/isländisch-moos.htm)
+
+## Fotos
+
+![Isländisches Moos, Foto 1](https://heildepot.wir.ooo/bilder/kraut/islaendisches-moos-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Cetraria_islandica.jpg)
+
+![Isländisches Moos, Foto 2](https://heildepot.wir.ooo/bilder/kraut/islaendisches-moos-2.webp)
+
+Foto 2: Elke Wetzig (Elya), CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Island_moos_getrocknet.jpg)
+
+![Isländisches Moos, Foto 3](https://heildepot.wir.ooo/bilder/kraut/islaendisches-moos-3.webp)
+
+Foto 3: Anders Wahl, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Islandslav-cetraria_islandica.jpg)
 
 ## Im Heildepot
 

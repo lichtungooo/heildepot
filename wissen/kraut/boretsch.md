@@ -7,6 +7,11 @@ familie: "Raublattgewächse (Boraginaceae)"
 pflanzenteile: "Blüten, Kraut, Samen"
 tags: ["borretsch", "stimmung", "haut", "frauenheilkunde"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["stimmungsaufhellend", "schweißtreibend", "entzündungshemmend", "hormonausgleichend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/boretsch-1.webp"
+bild_nachweis: "Semnoz, CC BY-SA 3.0"
 ---
 
 # Borretsch
@@ -39,7 +44,7 @@ Blüten, Kraut, Samen
 - [Neurodermitis / Ekzem](../beschwerde/neurodermitis.md)
 - [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[nervositaet]]
+- [Nervosität](../beschwerde/nervositaet.md)
 
 ## Beschreibung
 
@@ -137,6 +142,20 @@ In der Volksheilkunde galt Borretsch als "Herzensfreude", stillende Mütter tran
 ## Mehr dazu
 
 - [Borretsch bei der Quelle](https://heilkräuter.de/lexikon/boretsch.htm)
+
+## Fotos
+
+![Borretsch, Foto 1](https://heildepot.wir.ooo/bilder/kraut/boretsch-1.webp)
+
+Foto 1: Semnoz, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:200707_x_Myrte.JPG)
+
+![Borretsch, Foto 2](https://heildepot.wir.ooo/bilder/kraut/boretsch-2.webp)
+
+Foto 2: Jengod, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Blue_borage_flowers_2526205868_6b35bbac29_b.jpg)
+
+![Borretsch, Foto 3](https://heildepot.wir.ooo/bilder/kraut/boretsch-3.webp)
+
+Foto 3: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20121007Borago_officinalis1.jpg)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Geißblattgewächse (Caprifoliaceae)"
 pflanzenteile: "Wurzel"
 tags: ["karde", "borreliose", "leber", "immunsystem", "entgiftung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["leberstärkend", "entgiftend", "immunmodulierend", "verdauungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/karde-1.webp"
+bild_nachweis: "User:MarkusHagenlocher, CC BY-SA 3.0"
 ---
 
 # Karde
@@ -38,11 +43,11 @@ Wurzel
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
-- [[borreliose]]
-- [[gelenke]]
-- [[entgiftung]]
+- [Borreliose](../beschwerde/borreliose.md)
+- [Gelenkschmerzen / Arthrose](../beschwerde/arthrose.md)
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
-- [[sehnen]]
+- [Sehnen](../beschwerde/sehnen.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ In der Volksheilkunde war das "Kardenwasser", das Regenwasser, das sich in den B
 ## Mehr dazu
 
 - [Karde bei der Quelle](https://heilkräuter.de/lexikon/karde.htm)
+
+## Fotos
+
+![Karde, Foto 1](https://heildepot.wir.ooo/bilder/kraut/karde-1.webp)
+
+Foto 1: User:MarkusHagenlocher, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bl%C3%BChend_Karde.jpg)
+
+![Karde, Foto 2](https://heildepot.wir.ooo/bilder/kraut/karde-2.webp)
+
+Foto 2: Vera Buhl, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:2010-06-29_(27)_plant.JPG)
+
+![Karde, Foto 3](https://heildepot.wir.ooo/bilder/kraut/karde-3.webp)
+
+Foto 3: 4028mdk09, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Dipsacus_2010.JPG)
 
 ## Im Heildepot
 

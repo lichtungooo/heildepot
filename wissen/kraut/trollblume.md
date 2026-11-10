@@ -8,6 +8,11 @@ pflanzenteile: "Kraut (historisch)"
 schutz: "geschützt"
 tags: ["trollblume", "geschützt", "bergwiese"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["entzündungshemmend", "adstringierend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/trollblume-1.webp"
+bild_nachweis: "No machine-readable author provided. Aria~commonswiki assumed (based on copyright claims)., Public domain"
 ---
 
 # Trollblume
@@ -34,12 +39,12 @@ Kraut (historisch)
 ## Hilft bei
 
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
-- [[leberbeschwerden]]
-- [[gallenbeschwerden]]
-- [[hautverhaertungen]]
-- [[stimmungstief]]
-- [[energiemangel]]
-- [[warzen]]
+- [Leberbeschwerden](../beschwerde/leberbeschwerden.md)
+- [Gallenbeschwerden](../beschwerde/gallenbeschwerden.md)
+- [Hautverhärtungen](../beschwerde/hautverhaertungen.md)
+- [Stimmungstief](../beschwerde/stimmungstief.md)
+- [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
+- [Warzen](../beschwerde/warzen.md)
 
 ## Beschreibung
 
@@ -137,6 +142,20 @@ In der Alpenvolksmedizin galt die Trollblume als Leberpflanze. Ein schwacher Tee
 ## Mehr dazu
 
 - [Trollblume bei der Quelle](https://heilkräuter.de/lexikon/trollblume.htm)
+
+## Fotos
+
+![Trollblume, Foto 1](https://heildepot.wir.ooo/bilder/kraut/trollblume-1.webp)
+
+Foto 1: No machine-readable author provided. Aria~commonswiki assumed (based on copyright claims)., Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Bergblumen.JPG)
+
+![Trollblume, Foto 2](https://heildepot.wir.ooo/bilder/kraut/trollblume-2.webp)
+
+Foto 2: Mentifisto, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bright_as_the_sun.jpg)
+
+![Trollblume, Foto 3](https://heildepot.wir.ooo/bilder/kraut/trollblume-3.webp)
+
+Foto 3: Andrew Curtis, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Globe_Flowers_(Trollius_europaeus)_beside_the_Tees_-_geograph.org.uk_-_1180902.jpg)
 
 ## Im Heildepot
 

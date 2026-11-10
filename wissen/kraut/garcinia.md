@@ -7,6 +7,11 @@ familie: "Clusiaceae"
 pflanzenteile: "Fruchtschale"
 tags: ["garcinia", "abnehmen", "stoffwechsel", "appetit", "diät"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["appetithemmend", "stoffwechselanregend", "fettverbrennend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/garcinia-1.webp"
+bild_nachweis: "Vssun at ml.wikipedia, CC BY-SA 3.0"
 ---
 
 # Garcinia
@@ -33,11 +38,25 @@ Fruchtschale
 
 - [Übergewicht / Stoffwechsel](../beschwerde/uebergewicht.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
-- [[stoffwechsel]]
+- [Diabetes](../beschwerde/diabetes.md)
 
 ## Mehr dazu
 
 - [Garcinia bei der Quelle](https://heilkräuter.de/lexikon/garcinia.htm)
+
+## Fotos
+
+![Garcinia, Foto 1](https://heildepot.wir.ooo/bilder/kraut/garcinia-1.webp)
+
+Foto 1: Vssun at ml.wikipedia, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:%E0%B4%95%E0%B5%81%E0%B4%9F%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%B3%E0%B4%BF.JPG)
+
+![Garcinia, Foto 2](https://heildepot.wir.ooo/bilder/kraut/garcinia-2.webp)
+
+Foto 2: Ganesh Mohan T, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Malabar_tamarind_01.jpg)
+
+![Garcinia, Foto 3](https://heildepot.wir.ooo/bilder/kraut/garcinia-3.webp)
+
+Foto 3: Shyamal, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Garcinia_gummi-gutta.jpg)
 
 ## Im Heildepot
 

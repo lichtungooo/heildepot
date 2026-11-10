@@ -3,20 +3,22 @@ art: "rezept"
 id: "feuer-und-eis-trunk"
 name: "Feuer & Eis Trunk: Kontrast-Elixier der Begierde"
 tradition: "Hexenwissen"
-kategorie: "Liebestränke"
 tags: ["liebestrank", "energie", "chili", "pfefferminze", "kontrast", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Liebestränke"
 ---
 
 # Feuer & Eis Trunk: Kontrast-Elixier der Begierde
 
 ## Hilft bei
 
-- [[energie]]
-- [[libido]]
-- [[muedigkeit]]
-- [[lust]]
-- [[spielerisch]]
+- [Burnout / Chronische Erschöpfung](../beschwerde/burnout.md)
+- [Erektionsstörungen / Libido / Potenz](../beschwerde/erektionsstoerung.md)
+- [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
+- [Lust](../beschwerde/lust.md)
+- [Spielerisch](../beschwerde/spielerisch.md)
 
 ## Schwierigkeit
 

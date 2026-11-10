@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Samen"
 tags: ["mariendistel", "leber", "entgiftung", "leberschutz", "silymarin"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["leberschützend", "leberregenerierend", "antioxidativ", "entgiftend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/mariendistel-1.webp"
+bild_nachweis: "Wildfeuer, CC BY 2.5"
 ---
 
 # Mariendistel
@@ -37,10 +42,10 @@ Samen
 - [Leber / Galle](../beschwerde/leber.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
-- [[entgiftung]]
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
 - [Allergie / Heuschnupfen](../beschwerde/allergie.md)
-- [[alkohol]]
-- [[medikamente]]
+- [Sucht / Abhängigkeit / Entzug](../beschwerde/sucht.md)
+- [Medikamente](../beschwerde/medikamente.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 
 ## Beschreibung
@@ -146,6 +151,20 @@ In der Volksmedizin galt: "Wenn die Leber krank ist, geht es dem ganzen Menschen
 ## Mehr dazu
 
 - [Mariendistel bei der Quelle](https://heilkräuter.de/lexikon/mariendi.htm)
+
+## Fotos
+
+![Mariendistel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/mariendistel-1.webp)
+
+Foto 1: Wildfeuer, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:2006-10-22Silybum_marianum01.jpg)
+
+![Mariendistel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/mariendistel-2.webp)
+
+Foto 2: brianriceca, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:A_view_west_from_Tilden_Regional_Park.jpg)
+
+![Mariendistel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/mariendistel-3.webp)
+
+Foto 3: C T Johansson, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:IMG_0009-Silybum_marianum.jpg)
 
 ## Im Heildepot
 

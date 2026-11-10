@@ -3,21 +3,23 @@ art: "rezept"
 id: "johanniskraut-orakel"
 name: "Johanniskraut-Orakel: Sommersonnenwende-Ritual"
 tradition: "Grimoire"
-kategorie: "Volksmagie"
 tags: ["Johanniskraut", "Sonnenwende", "Johannistag", "Volksmagie", "Rotöl", "Hypericin", "Antidepressivum", "Orakel", "Sommersonnenwende", "TatsächlichMachbar"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Volksmagie"
 ---
 
 # Johanniskraut-Orakel: Sommersonnenwende-Ritual
 
 ## Hilft bei
 
-- [[Johanniskraut]]
-- [[Sonnenwende]]
-- [[Johannistag]]
-- [[Rotöl]]
-- [[Orakel]]
-- [[Antidepressivum]]
+- [Johanniskraut](../beschwerde/johanniskraut.md)
+- [Sonnenwende](../beschwerde/sonnenwende.md)
+- [Johannistag](../beschwerde/johannistag.md)
+- [Rotöl](../beschwerde/rotoel.md)
+- [Orakel](../beschwerde/orakel.md)
+- [Antidepressivum](../beschwerde/antidepressivum.md)
 
 ## Schwierigkeit
 

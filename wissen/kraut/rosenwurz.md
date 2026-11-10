@@ -7,6 +7,11 @@ familie: "Dickblattgewächse (Crassulaceae)"
 pflanzenteile: "Wurzel"
 tags: ["rosenwurz", "adaptogen", "stress", "leistung", "stimmung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["adaptogen", "stresslindernd", "leistungssteigernd", "stimmungsaufhellend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/rosenwurz-1.webp"
+bild_nachweis: "Botanischer Garten TU Darmstadt, CC BY 2.0"
 ---
 
 # Rosenwurz
@@ -39,10 +44,10 @@ Wurzel
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 - [Depression / Schwermut](../beschwerde/depression.md)
 - [Angst / Panikattacken](../beschwerde/angst.md)
-- [[konzentration]]
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
-- [[sport]]
-- [[gedaechtnis]]
+- [Sport](../beschwerde/sport.md)
+- [Demenz / Alzheimer / Vergesslichkeit](../beschwerde/demenz.md)
 
 ## Beschreibung
 
@@ -147,6 +152,20 @@ Die sibirischen Nomaden sagten: "Wer Rosenwurz trinkt, wird hundert Jahre alt un
 ## Mehr dazu
 
 - [Rosenwurz bei der Quelle](https://heilkräuter.de/lexikon/rosenwurz.htm)
+
+## Fotos
+
+![Rosenwurz, Foto 1](https://heildepot.wir.ooo/bilder/kraut/rosenwurz-1.webp)
+
+Foto 1: Botanischer Garten TU Darmstadt, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Rhodiola_rosea_(Botanischer_Garten_TU_Darmstadt)_001.jpg)
+
+![Rosenwurz, Foto 2](https://heildepot.wir.ooo/bilder/kraut/rosenwurz-2.webp)
+
+Foto 2: Christian Hummert (Ixitixel), CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Rhodiola_rosea_(Habitus).jpg)
+
+![Rosenwurz, Foto 3](https://heildepot.wir.ooo/bilder/kraut/rosenwurz-3.webp)
+
+Foto 3: WildBoar, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Rhodiola_rosea_(early_in_spring).JPG)
 
 ## Im Heildepot
 

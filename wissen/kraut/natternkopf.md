@@ -7,6 +7,11 @@ familie: "Raublattgewächse (Boraginaceae)"
 pflanzenteile: "Kraut, Blüten"
 tags: ["natternkopf", "fieber", "husten", "bienenweide"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schweißtreibend", "harntreibend", "schleimlösend", "beruhigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/natternkopf-1.webp"
+bild_nachweis: "Ivo Kruusamägi from Estonian Wikipedia., CC BY-SA 3.0"
 ---
 
 # Natternkopf
@@ -34,12 +39,12 @@ Kraut, Blüten
 
 ## Hilft bei
 
-- [[fieber]]
+- [Grippe](../beschwerde/grippe.md)
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Neurodermitis / Ekzem](../beschwerde/neurodermitis.md)
-- [[omega-3-mangel]]
+- [Omega 3 mangel](../beschwerde/omega-3-mangel.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 
 ## Beschreibung
@@ -140,6 +145,20 @@ Auf dem Land hieß es: "Wo der Natternkopf blüht, ist kein Schlangenbiss tödli
 ## Mehr dazu
 
 - [Natternkopf bei der Quelle](https://heilkräuter.de/lexikon/natternkopf.htm)
+
+## Fotos
+
+![Natternkopf, Foto 1](https://heildepot.wir.ooo/bilder/kraut/natternkopf-1.webp)
+
+Foto 1: Ivo Kruusamägi from Estonian Wikipedia., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ussikeel_(Echium_vulgare).jpg)
+
+![Natternkopf, Foto 2](https://heildepot.wir.ooo/bilder/kraut/natternkopf-2.webp)
+
+Foto 2: Clem Rutter, Rochester, Kent., CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:DownsRanscombe0729.JPG)
+
+![Natternkopf, Foto 3](https://heildepot.wir.ooo/bilder/kraut/natternkopf-3.webp)
+
+Foto 3: Smiley.toerist, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Blue_flowers_in_the_dunes.JPG)
 
 ## Im Heildepot
 

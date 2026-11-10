@@ -7,6 +7,11 @@ familie: "Passionsblumengewächse (Passifloraceae)"
 pflanzenteile: "Kraut"
 tags: ["passionsblume", "angst", "schlaf", "beruhigend", "nerven"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["beruhigend", "angstlösend", "schlaffördernd", "krampflösend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/passionsblume-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 3.0"
 ---
 
 # Passionsblume
@@ -39,12 +44,12 @@ Kraut
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
 - [Burnout / Chronische Erschöpfung](../beschwerde/burnout.md)
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
-- [[schlafprobleme]]
-- [[nervositaet]]
-- [[unruhe]]
-- [[herzklopfen]]
-- [[gedankenkreisen]]
-- [[pruefungsangst]]
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
+- [Nervosität](../beschwerde/nervositaet.md)
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
+- [Herzklopfen](../beschwerde/herzklopfen.md)
+- [Gedankenkreisen](../beschwerde/gedankenkreisen.md)
+- [Prüfungsangst](../beschwerde/pruefungsangst.md)
 
 ## Beschreibung
 
@@ -137,6 +142,20 @@ In der nordamerikanischen Volksmedizin war die Passionsblume ein bewährtes Mitt
 ## Mehr dazu
 
 - [Passionsblume bei der Quelle](https://heilkräuter.de/lexikon/passionsblume.htm)
+
+## Fotos
+
+![Passionsblume, Foto 1](https://heildepot.wir.ooo/bilder/kraut/passionsblume-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:BeeFlower2.jpg)
+
+![Passionsblume, Foto 2](https://heildepot.wir.ooo/bilder/kraut/passionsblume-2.webp)
+
+Foto 2: Oliver P. Quillia, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:OQ_Passion_flower.jpg)
+
+![Passionsblume, Foto 3](https://heildepot.wir.ooo/bilder/kraut/passionsblume-3.webp)
+
+Foto 3: Lonnie Huffman, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Lace-winged_Roadside-Skipper_Amblyscirtes_aesculapius.jpg)
 
 ## Im Heildepot
 

@@ -4,6 +4,8 @@ id: "zaehne"
 name: "Zähne / Mundraum / Zahnfleisch"
 tags: ["zähne", "zahnfleisch", "mundraum", "karies", "parodontose"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Zähne / Mundraum / Zahnfleisch

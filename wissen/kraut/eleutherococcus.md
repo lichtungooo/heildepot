@@ -7,6 +7,11 @@ familie: "Araliengewächse (Araliaceae)"
 pflanzenteile: "Wurzel"
 tags: ["taigawurzel", "adaptogen", "leistung", "immunsystem", "stress"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["adaptogen", "leistungssteigernd", "immunstärkend", "stressmindernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/eleutherococcus-1.webp"
+bild_nachweis: "Хабаровчанин, CC BY-SA 3.0"
 ---
 
 # Taigawurzel
@@ -38,10 +43,10 @@ Wurzel
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
 - [Burnout / Chronische Erschöpfung](../beschwerde/burnout.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
-- [[sport]]
-- [[konzentration]]
-- [[rekonvaleszenz]]
-- [[leistungsdruck]]
+- [Sport](../beschwerde/sport.md)
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
+- [Rekonvaleszenz](../beschwerde/rekonvaleszenz.md)
+- [Leistungsdruck](../beschwerde/leistungsdruck.md)
 
 ## Beschreibung
 
@@ -143,6 +148,20 @@ Sibirische Jäger kauten die Wurzel auf langen Streifzügen durch die Taiga. Sie
 ## Mehr dazu
 
 - [Taigawurzel bei der Quelle](https://heilkräuter.de/lexikon/eleutherococcus.htm)
+
+## Fotos
+
+![Taigawurzel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/eleutherococcus-1.webp)
+
+Foto 1: Хабаровчанин, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Eleutherococcus_senticosus_fluid_extract.jpg)
+
+![Taigawurzel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/eleutherococcus-2.webp)
+
+Foto 2: Salicyna, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Acanthopanax_senticosus_2017-06-25_3036.jpg)
+
+![Taigawurzel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/eleutherococcus-3.webp)
+
+Foto 3: Andshel, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:%D0%AD%D0%BB%D0%B5%D1%83%D1%82%D0%B5%D1%80%D1%80%D0%BE%D0%BA%D0%BE%D0%BA%D0%BA_%D0%BA%D0%BE%D0%BB%D1%8E%D1%87%D0%B8%D0%B9_%D0%BE%D1%81%D0%B5%D0%BD%D1%8C%D1%8E_%D0%BD%D0%B0_%D0%B4%D0%B0%D1%87%D0%B5_%D1%841.jpg)
 
 ## Im Heildepot
 

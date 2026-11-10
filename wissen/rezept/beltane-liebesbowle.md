@@ -3,22 +3,24 @@ art: "rezept"
 id: "beltane-liebesbowle"
 name: "Beltane-Liebesbowle: Maienfreude im Glas"
 tradition: "Hexenwissen"
-kategorie: "Jahreskreis-Rezepte"
 tags: ["jahreskreis", "beltane", "maibowle", "waldmeister", "hexenwissen", "liebe", "feier"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Jahreskreis-Rezepte"
 ---
 
 # Beltane-Liebesbowle: Maienfreude im Glas
 
 ## Hilft bei
 
-- [[beltane]]
-- [[walpurgisnacht]]
-- [[maifest]]
-- [[feier]]
-- [[liebe]]
-- [[sommer]]
-- [[herzoeeffnend]]
+- [Beltane](../beschwerde/beltane.md)
+- [Walpurgisnacht](../beschwerde/walpurgisnacht.md)
+- [Maifest](../beschwerde/maifest.md)
+- [Feier](../beschwerde/feier.md)
+- [Liebe](../beschwerde/liebe.md)
+- [Sommer](../beschwerde/sommer.md)
+- [Herzöeffnend](../beschwerde/herzoeeffnend.md)
 
 ## Schwierigkeit
 

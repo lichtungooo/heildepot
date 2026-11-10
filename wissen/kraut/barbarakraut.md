@@ -7,6 +7,11 @@ familie: "Kreuzblütler (Brassicaceae)"
 pflanzenteile: "Blätter"
 tags: ["barbarakraut", "winter", "vitaminC", "wildkraut"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["vitaminreich", "harntreibend", "appetitanregend", "wundheilend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/barbarakraut-1.webp"
+bild_nachweis: "Mathias Bigge, CC BY-SA 3.0"
 ---
 
 # Barbarakraut
@@ -37,10 +42,10 @@ Blätter
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
-- [[vitamin_c_mangel]]
-- [[winter_ernaehrung]]
-- [[appetitlosigkeit]]
-- [[wundheilung]]
+- [Vitamin c mangel](../beschwerde/vitamin-c-mangel.md)
+- [Winter ernährung](../beschwerde/winter-ernaehrung.md)
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
+- [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
 
 ## Beschreibung
 
@@ -138,6 +143,20 @@ Das Barbarakraut war das Wintervitamin der Armen. Es wuchs gratis am Wegrand, we
 ## Mehr dazu
 
 - [Barbarakraut bei der Quelle](https://heilkräuter.de/lexikon/barbarakraut.htm)
+
+## Fotos
+
+![Barbarakraut, Foto 1](https://heildepot.wir.ooo/bilder/kraut/barbarakraut-1.webp)
+
+Foto 1: Mathias Bigge, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Barbarea_vulgaris_(Barbarakraut)_2403.jpg)
+
+![Barbarakraut, Foto 2](https://heildepot.wir.ooo/bilder/kraut/barbarakraut-2.webp)
+
+Foto 2: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Barbarea_vulgaris_001.JPG)
+
+![Barbarakraut, Foto 3](https://heildepot.wir.ooo/bilder/kraut/barbarakraut-3.webp)
+
+Foto 3: Mussklprozz, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:AltneckarBarbarakraut_2011-04.jpg)
 
 ## Im Heildepot
 

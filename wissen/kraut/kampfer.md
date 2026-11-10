@@ -7,6 +7,11 @@ familie: "Lorbeergewächse (Lauraceae)"
 pflanzenteile: "Holz (ätherisches Öl)"
 tags: ["kampfer", "muskeln", "atemwege", "einreibung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["durchblutungsfördernd", "schleimlösend", "schmerzlindernd", "herzanregend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/kampfer-1.webp"
+bild_nachweis: "katorisi, CC BY-SA 3.0"
 ---
 
 # Kampfer
@@ -38,11 +43,11 @@ Holz (ätherisches Öl)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
-- [[muskelschmerzen]]
-- [[gelenkschmerzen]]
-- [[kreislaufschwaeche]]
-- [[bronchitis]]
-- [[durchblutungsstoerungen]]
+- [Muskelschmerzen](../beschwerde/muskelschmerzen.md)
+- [Gelenkschmerzen](../beschwerde/gelenkschmerzen.md)
+- [Kreislaufschwäche](../beschwerde/kreislaufschwaeche.md)
+- [Husten / Bronchitis](../beschwerde/husten.md)
+- [Durchblutungsstörungen](../beschwerde/durchblutungsstoerungen.md)
 
 ## Beschreibung
 
@@ -146,6 +151,20 @@ Kampfer war das "Riechsalz" der Volksmedizin. Bei Ohnmacht hielt man den Kranken
 ## Mehr dazu
 
 - [Kampfer bei der Quelle](https://heilkräuter.de/lexikon/kampfer.htm)
+
+## Fotos
+
+![Kampfer, Foto 1](https://heildepot.wir.ooo/bilder/kraut/kampfer-1.webp)
+
+Foto 1: katorisi, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:NanjyaMonjya-tree,Kozaki-town,Japan.JPG)
+
+![Kampfer, Foto 2](https://heildepot.wir.ooo/bilder/kraut/kampfer-2.webp)
+
+Foto 2: そらみみ, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Sacred_tree_%22Takeo_no_Okusu%22_of_Takeo_Shrine_1.jpg)
+
+![Kampfer, Foto 3](https://heildepot.wir.ooo/bilder/kraut/kampfer-3.webp)
+
+Foto 3: NoharaR, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:%E3%81%8F%E3%81%99%E3%81%AE%E3%81%8D%E4%B8%A6%E6%9C%A8.jpg)
 
 ## Im Heildepot
 

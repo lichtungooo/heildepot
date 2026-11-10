@@ -7,6 +7,11 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Samen"
 tags: ["chia", "omega3", "superfood", "verdauung", "maya"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["nährstoffreich", "verdauungsfördernd", "blutzuckerregulierend", "omega-3-reich"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/chia-1.webp"
+bild_nachweis: "Hackfish, CC BY-SA 3.0"
 ---
 
 # Chia
@@ -38,10 +43,10 @@ Samen
 - [Diabetes](../beschwerde/diabetes.md)
 - [Übergewicht / Stoffwechsel](../beschwerde/uebergewicht.md)
 - [Verstopfung / Darmträgheit](../beschwerde/verstopfung.md)
-- [[blutzucker]]
-- [[omega_3_mangel]]
-- [[cholesterin]]
-- [[ausdauer]]
+- [Diabetes](../beschwerde/diabetes.md)
+- [Omega 3 mangel](../beschwerde/omega-3-mangel.md)
+- [Cholesterin](../beschwerde/cholesterin.md)
+- [Ausdauer](../beschwerde/ausdauer.md)
 
 ## Beschreibung
 
@@ -141,6 +146,20 @@ Die Azteken und Maya nutzten Chia als universelles Stärkungsmittel: für Kriege
 ## Mehr dazu
 
 - [Chia bei der Quelle](https://heilkräuter.de/lexikon/chia.htm)
+
+## Fotos
+
+![Chia, Foto 1](https://heildepot.wir.ooo/bilder/kraut/chia-1.webp)
+
+Foto 1: Hackfish, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Chia_Mexico.jpg)
+
+![Chia, Foto 2](https://heildepot.wir.ooo/bilder/kraut/chia-2.webp)
+
+Foto 2: Dick Culbert from Gibsons, B.C., Canada, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Salvia_hispanica_(10461546364).jpg)
+
+![Chia, Foto 3](https://heildepot.wir.ooo/bilder/kraut/chia-3.webp)
+
+Foto 3: Ella Olsson from Stockholm, Sweden, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Blackberry_Chia_Pudding_(30275905557).jpg)
 
 ## Im Heildepot
 

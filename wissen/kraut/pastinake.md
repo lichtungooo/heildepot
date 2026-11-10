@@ -7,6 +7,11 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Wurzel, Samen"
 tags: ["pastinake", "verdauung", "baby", "gemüse", "winter"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "beruhigend", "harntreibend", "nährstoffreich"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/pastinake-1.webp"
+bild_nachweis: "AnRo0002, CC0"
 ---
 
 # Pastinake
@@ -37,12 +42,12 @@ Wurzel, Samen
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Schlafthemen](../beschwerde/schlaf.md)
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
-- [[verdauungsschwaeche]]
+- [Verdauungsschwäche](../beschwerde/verdauungsschwaeche.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[schlaflosigkeit]]
-- [[harnwegsprobleme]]
-- [[naehrstoffmangel]]
+- [Schlaflosigkeit](../beschwerde/schlaflosigkeit.md)
+- [Harnwegsprobleme](../beschwerde/harnwegsprobleme.md)
+- [Haarausfall / Haargesundheit](../beschwerde/haarverlust.md)
 
 ## Beschreibung
 
@@ -141,6 +146,21 @@ Die Pastinake war im Mittelalter ein "Arme-Leute-Heilmittel". Sie wurde als Supp
 ## Mehr dazu
 
 - [Pastinake bei der Quelle](https://heilkräuter.de/lexikon/pastinake.htm)
+
+## Fotos
+
+![Pastinake, Foto 1](https://heildepot.wir.ooo/bilder/kraut/pastinake-1.webp)
+
+Foto 1: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20120725Pastinaca_sativa1.jpg)
+
+![Pastinake, Foto 2](https://heildepot.wir.ooo/bilder/kraut/pastinake-2.webp)
+
+Foto 2: Kolforn (Kolforn)
+I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the Wik, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:-2019-05-26_Wild_parsnip_(Pastinaca_sativa),_Trimingham.JPG)
+
+![Pastinake, Foto 3](https://heildepot.wir.ooo/bilder/kraut/pastinake-3.webp)
+
+Foto 3: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20120725Pastinaca_sativa2.jpg)
 
 ## Im Heildepot
 

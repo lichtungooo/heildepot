@@ -7,6 +7,11 @@ familie: "Windengewächse (Convolvulaceae)"
 pflanzenteile: "Kraut, Blüten"
 tags: ["ackerwinde", "verstopfung", "fieber", "wundheilung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["abführend", "fiebersenkend", "harntreibend", "wundheilend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/ackerwinde-1.webp"
+bild_nachweis: "Andrey Butko, CC BY-SA 3.0"
 ---
 
 # Ackerwinde
@@ -37,10 +42,10 @@ Kraut, Blüten
 - [Verstopfung / Darmträgheit](../beschwerde/verstopfung.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
-- [[gallebeschwerden]]
+- [Gallebeschwerden](../beschwerde/gallebeschwerden.md)
 - [Leber / Galle](../beschwerde/leber.md)
-- [[wundheilung]]
-- [[entgiftung]]
+- [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
 
 ## Beschreibung
 
@@ -136,6 +141,20 @@ In der Volksheilkunde war die Ackerwinde ein geschätztes Hausmittel bei Verstop
 ## Mehr dazu
 
 - [Ackerwinde bei der Quelle](https://heilkräuter.de/lexikon/ackerwinde.htm)
+
+## Fotos
+
+![Ackerwinde, Foto 1](https://heildepot.wir.ooo/bilder/kraut/ackerwinde-1.webp)
+
+Foto 1: Andrey Butko, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ab_plant_167.JPG)
+
+![Ackerwinde, Foto 2](https://heildepot.wir.ooo/bilder/kraut/ackerwinde-2.webp)
+
+Foto 2: Ian Cunliffe, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bindweed_-_Convolvulus_arvensis_-_geograph.org.uk_-_1471987.jpg)
+
+![Ackerwinde, Foto 3](https://heildepot.wir.ooo/bilder/kraut/ackerwinde-3.webp)
+
+Foto 3: Olivier Pichard, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Convolvulus_arvensis_vallee-de-grace-amiens_80_21072007_1.jpg)
 
 ## Im Heildepot
 

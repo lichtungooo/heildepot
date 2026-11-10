@@ -4,6 +4,8 @@ id: "frozen_shoulder"
 name: "Frozen Shoulder / Schultersteife"
 tags: ["frozen_shoulder", "schulter", "steife", "entzündung", "bewegungsapparat"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Frozen Shoulder / Schultersteife

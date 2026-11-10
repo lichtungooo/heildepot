@@ -7,6 +7,11 @@ familie: "Wegerichgewächse (Plantaginaceae)"
 pflanzenteile: "Blätter (nur als Arzneimittel)"
 tags: ["fingerhut", "herz", "giftig", "digitalis"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["herzstärkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/fingerhut-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 3.0"
 ---
 
 # Fingerhut
@@ -32,9 +37,9 @@ Blätter (nur als Arzneimittel)
 ## Hilft bei
 
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
-- [[herzinsuffizienz]]
-- [[herzrhythmusstoerungen]]
-- [[oedeme]]
+- [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
+- [Herzrhythmusstörungen](../beschwerde/herzrhythmusstoerungen.md)
+- [Ödeme](../beschwerde/oedeme.md)
 
 ## Beschreibung
 
@@ -127,6 +132,21 @@ In der Volksmedizin wurde der Fingerhut bei "Wassersucht" (Ödemen) eingesetzt, 
 ## Mehr dazu
 
 - [Fingerhut bei der Quelle](https://heilkräuter.de/lexikon/fingerhut.htm)
+
+## Fotos
+
+![Fingerhut, Foto 1](https://heildepot.wir.ooo/bilder/kraut/fingerhut-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Digitalis_flower_280605_kpjas.jpg)
+
+![Fingerhut, Foto 2](https://heildepot.wir.ooo/bilder/kraut/fingerhut-2.webp)
+
+Foto 2: No machine-readable author provided. Miaow Miaow assumed (based on copyright claims)., Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Digitalis_03.JPG)
+
+![Fingerhut, Foto 3](https://heildepot.wir.ooo/bilder/kraut/fingerhut-3.webp)
+
+Foto 3: Vallée_du_Marcadau_100.JPG: Agnieszka Urbaniak (to talk)
+derivative work: Flekstro (talk), CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Digitalis_purpurea_(Vall%C3%A9e_du_Marcadau).jpg)
 
 ## Im Heildepot
 

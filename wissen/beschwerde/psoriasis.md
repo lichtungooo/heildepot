@@ -4,6 +4,8 @@ id: "psoriasis"
 name: "Schuppenflechte / Psoriasis"
 tags: ["psoriasis", "haut", "autoimmun", "entzündung", "schuppenflechte"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Schuppenflechte / Psoriasis

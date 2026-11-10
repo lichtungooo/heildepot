@@ -7,6 +7,11 @@ familie: "Spargelgewächse (Asparagaceae)"
 pflanzenteile: "Sprossen, Wurzel"
 tags: ["spargel", "entwässerung", "frühling", "folsäure", "niere"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["harntreibend", "entwässernd", "blutreinigend", "nährstoffreich"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/spargel-1.webp"
+bild_nachweis: "Vera Buhl, CC BY-SA 3.0"
 ---
 
 # Spargel
@@ -37,11 +42,11 @@ Sprossen, Wurzel
 - [Niere / Blase / Harnwege](../beschwerde/niere.md)
 - [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
 - [Gicht / Harnsäure](../beschwerde/gicht.md)
-- [[wassereinlagerungen]]
-- [[blase]]
-- [[entgiftung]]
-- [[uebersaeuerung]]
-- [[folsaeuremangel]]
+- [Wassereinlagerungen](../beschwerde/wassereinlagerungen.md)
+- [Prostata / Männergesundheit](../beschwerde/prostata.md)
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
+- [Übersäuerung](../beschwerde/uebersaeuerung.md)
+- [Folsäuremangel](../beschwerde/folsaeuremangel.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ In der europäischen Volksmedizin galt Spargel als "Besendes Nierenkrauts", er "
 ## Mehr dazu
 
 - [Spargel bei der Quelle](https://heilkräuter.de/lexikon/spargel.htm)
+
+## Fotos
+
+![Spargel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/spargel-1.webp)
+
+Foto 1: Vera Buhl, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:2009-09-25_(23)_Twig,_Zweige.JPG)
+
+![Spargel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/spargel-2.webp)
+
+Foto 2: Ian Capper, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Asparagus_(Asparagus_officinalis)_-_geograph.org.uk_-_1384378.jpg)
+
+![Spargel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/spargel-3.webp)
+
+Foto 3: DenesFeri, CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Asparagales_-_Asparagus_officinalis_-_3.jpg)
 
 ## Im Heildepot
 

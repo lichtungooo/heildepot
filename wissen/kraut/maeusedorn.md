@@ -7,6 +7,11 @@ familie: "Spargelgewächse (Asparagaceae)"
 pflanzenteile: "Wurzelstock"
 tags: ["mäusedorn", "venen", "krampfadern", "beine", "hämorrhoiden"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["venenstärkend", "entzündungshemmend", "abschwellend", "durchblutungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/maeusedorn-1.webp"
+bild_nachweis: "Fritz Geller-Grimm and Felix Grimm, CC BY-SA 3.0"
 ---
 
 # Mäusedorn
@@ -37,10 +42,10 @@ Wurzelstock
 - [Krampfadern / Venenschwäche / Durchblutung](../beschwerde/krampfadern.md)
 - [Hämorrhoiden](../beschwerde/haemorrhoiden.md)
 - [Cellulite / Bindegewebsschwäche](../beschwerde/cellulite.md)
-- [[schwere_beine]]
-- [[venenschwaeche]]
-- [[oedeme]]
-- [[durchblutung]]
+- [Schwere beine](../beschwerde/schwere-beine.md)
+- [Venenschwäche](../beschwerde/venenschwaeche.md)
+- [Ödeme](../beschwerde/oedeme.md)
+- [Krampfadern / Venenschwäche / Durchblutung](../beschwerde/krampfadern.md)
 
 ## Beschreibung
 
@@ -138,6 +143,20 @@ Mediterrane Landbevölkerung bereitete aus Mäusedornwurzeln einen Absud gegen "
 ## Mehr dazu
 
 - [Mäusedorn bei der Quelle](https://heilkräuter.de/lexikon/maeusedorn.htm)
+
+## Fotos
+
+![Mäusedorn, Foto 1](https://heildepot.wir.ooo/bilder/kraut/maeusedorn-1.webp)
+
+Foto 1: Fritz Geller-Grimm and Felix Grimm, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bedarieux_fg18.jpg)
+
+![Mäusedorn, Foto 2](https://heildepot.wir.ooo/bilder/kraut/maeusedorn-2.webp)
+
+Foto 2: Père Igor, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Fragon_faux_houx_Sarliac.JPG)
+
+![Mäusedorn, Foto 3](https://heildepot.wir.ooo/bilder/kraut/maeusedorn-3.webp)
+
+Foto 3: Meyer Christian, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:FragonNimes100204ChMey2.JPG)
 
 ## Im Heildepot
 

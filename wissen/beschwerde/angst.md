@@ -4,6 +4,8 @@ id: "angst"
 name: "Angst / Panikattacken"
 tags: ["angst", "panik", "panikattacke", "nervensystem", "sympathikus", "phobien"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Angst / Panikattacken

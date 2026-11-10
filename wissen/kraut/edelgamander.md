@@ -7,6 +7,11 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut"
 tags: ["edelgamander", "verdauung", "gicht", "vorsicht", "volksmedizin"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "gallefördernd", "appetitanregend", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/edelgamander-1.webp"
+bild_nachweis: "Rasbak, CC BY-SA 3.0"
 ---
 
 # Edelgamander
@@ -37,9 +42,9 @@ Kraut
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Gicht / Harnsäure](../beschwerde/gicht.md)
 - [Leber / Galle](../beschwerde/leber.md)
-- [[appetitlosigkeit]]
-- [[zahnfleisch]]
-- [[mundschleimhaut]]
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
+- [Zähne / Mundraum / Zahnfleisch](../beschwerde/zaehne.md)
+- [Mundschleimhaut](../beschwerde/mundschleimhaut.md)
 
 ## Beschreibung
 
@@ -129,6 +134,20 @@ Im Mittelmeerraum war der Edelgamander das "Gichtkraut" schlechthin. Gichtkranke
 ## Mehr dazu
 
 - [Edelgamander bei der Quelle](https://heilkräuter.de/lexikon/edelgamander.htm)
+
+## Fotos
+
+![Edelgamander, Foto 1](https://heildepot.wir.ooo/bilder/kraut/edelgamander-1.webp)
+
+Foto 1: Rasbak, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Echte_gamander_plant_Teucrium_chamaedrys_subsp._germanicum.jpg)
+
+![Edelgamander, Foto 2](https://heildepot.wir.ooo/bilder/kraut/edelgamander-2.webp)
+
+Foto 2: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Teucrium_ch1_grojec_2002.jpg)
+
+![Edelgamander, Foto 3](https://heildepot.wir.ooo/bilder/kraut/edelgamander-3.webp)
+
+Foto 3: Doronenko 11:25, 9 April 2007 (UTC), CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Teucrium_chamaedris.jpg)
 
 ## Im Heildepot
 

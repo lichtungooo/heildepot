@@ -3,21 +3,23 @@ art: "rezept"
 id: "birkenwasser-kur"
 name: "Birkenwasser-Kur: Lebendiges Wasser der Frühlings-Birke"
 tradition: "Hexenwissen"
-kategorie: "Wald-Apotheke"
 tags: ["waldapotheke", "birke", "birkenwasser", "frühling", "hexenwissen", "entgiftung", "nordische_tradition"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Wald-Apotheke"
 ---
 
 # Birkenwasser-Kur: Lebendiges Wasser der Frühlings-Birke
 
 ## Hilft bei
 
-- [[entgiftung]]
-- [[fruehjahrskur]]
-- [[gelenke]]
-- [[nieren]]
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
+- [Frühjahrskur](../beschwerde/fruehjahrskur.md)
+- [Gelenkschmerzen / Arthrose](../beschwerde/arthrose.md)
+- [Nieren](../beschwerde/nieren.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
-- [[frühjahrsmüdigkeit]]
+- [Frühjahrsmüdigkeit](../beschwerde/fruehjahrsmuedigkeit.md)
 - [Gicht / Harnsäure](../beschwerde/gicht.md)
 
 ## Schwierigkeit

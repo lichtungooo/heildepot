@@ -7,6 +7,11 @@ familie: "Malvengewächse (Malvaceae)"
 pflanzenteile: "Blüten, Blätter"
 tags: ["malve", "husten", "hals", "schleimhaut", "magen"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimhautschützend", "reizlindernd", "entzündungshemmend", "hustenlindernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/malve-1.webp"
+bild_nachweis: "Jean-Pol GRANDMONT, CC BY 3.0"
 ---
 
 # Malve
@@ -39,9 +44,9 @@ Blüten, Blätter
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
 - [Heiserkeit / Stimmbandprobleme](../beschwerde/heiserkeit.md)
-- [[halsschmerzen]]
-- [[magen]]
-- [[schleimhaut]]
+- [Angina / Mandelentzündung / Halsschmerzen](../beschwerde/angina.md)
+- [Sodbrennen / Reflux](../beschwerde/sodbrennen.md)
+- [Schleimhaut](../beschwerde/schleimhaut.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 
 ## Beschreibung
@@ -140,6 +145,20 @@ In der bäuerlichen Medizin war Malventee das erste Mittel bei Halsschmerzen und
 ## Mehr dazu
 
 - [Malve bei der Quelle](https://heilkräuter.de/lexikon/malve.htm)
+
+## Fotos
+
+![Malve, Foto 1](https://heildepot.wir.ooo/bilder/kraut/malve-1.webp)
+
+Foto 1: Jean-Pol GRANDMONT, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bonifacio_MV1.jpg)
+
+![Malve, Foto 2](https://heildepot.wir.ooo/bilder/kraut/malve-2.webp)
+
+Foto 2: Alvesgaspar, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Malva_April_2010-2.jpg)
+
+![Malve, Foto 3](https://heildepot.wir.ooo/bilder/kraut/malve-3.webp)
+
+Foto 3: Thevrai, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Humidifleur.JPG)
 
 ## Im Heildepot
 

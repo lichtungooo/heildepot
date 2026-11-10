@@ -7,6 +7,11 @@ familie: "Kreuzblütler (Brassicaceae)"
 pflanzenteile: "Knolle"
 tags: ["maca", "potenz", "energie", "adaptogen", "inka"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["adaptogen", "potenzfördernd", "energiesteigernd", "hormonausgleichend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/maca-1.webp"
+bild_nachweis: "Maša Sinreih in Valentina Vivod, CC BY-SA 3.0"
 ---
 
 # Maca
@@ -38,12 +43,12 @@ Knolle
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 - [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
 - [Burnout / Chronische Erschöpfung](../beschwerde/burnout.md)
-- [[libido]]
-- [[fruchtbarkeit]]
+- [Erektionsstörungen / Libido / Potenz](../beschwerde/erektionsstoerung.md)
+- [Fruchtbarkeit](../beschwerde/fruchtbarkeit.md)
 - [Depression / Schwermut](../beschwerde/depression.md)
-- [[sport]]
-- [[hormonstoerung]]
-- [[potenz]]
+- [Sport](../beschwerde/sport.md)
+- [Hormonstörung](../beschwerde/hormonstoerung.md)
+- [Erektionsstörungen / Libido / Potenz](../beschwerde/erektionsstoerung.md)
 
 ## Beschreibung
 
@@ -147,6 +152,20 @@ In Peru kochen Bauernfamilien bis heute Maca-Knollen in Suppen und Porridge. Kin
 ## Mehr dazu
 
 - [Maca bei der Quelle](https://heilkräuter.de/lexikon/maca.htm)
+
+## Fotos
+
+![Maca, Foto 1](https://heildepot.wir.ooo/bilder/kraut/maca-1.webp)
+
+Foto 1: Maša Sinreih in Valentina Vivod, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Macae1.JPG)
+
+![Maca, Foto 2](https://heildepot.wir.ooo/bilder/kraut/maca-2.webp)
+
+Foto 2: The original uploader was Pierre-Olivier Combelles at French Wikipedia., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Katia_Humala-Tasso_de_Combelles_R%C3%A9colte_exp%C3%A9rimentale_de_maca_%C3%A0_Achacachi_(Bolivie)_3_juin_2000.jpg)
+
+![Maca, Foto 3](https://heildepot.wir.ooo/bilder/kraut/maca-3.webp)
+
+Foto 3: Zoe Helene, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Chris_Kilham_with_Dona_Sophia_-_Peruvian_Highlands_by_Zoe_Helene.jpg)
 
 ## Im Heildepot
 

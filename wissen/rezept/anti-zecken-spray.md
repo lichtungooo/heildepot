@@ -3,22 +3,24 @@ art: "rezept"
 id: "anti-zecken-spray"
 name: "Anti-Zecken-Spray: Natürlicher Schild gegen Blutsauger"
 tradition: "Hexenwissen"
-kategorie: "Erste Hilfe: Natürlich"
 tags: ["erste_hilfe", "zecken", "insektenschutz", "hexenwissen", "outdoor", "natürlich", "kokosöl"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Erste Hilfe: Natürlich"
 ---
 
 # Anti-Zecken-Spray: Natürlicher Schild gegen Blutsauger
 
 ## Hilft bei
 
-- [[zecken]]
-- [[insektenschutz]]
-- [[outdoor]]
-- [[wandern]]
-- [[kinder]]
-- [[fruehsommer]]
-- [[borreliose]]
+- [Zecken](../beschwerde/zecken.md)
+- [Insektenschutz](../beschwerde/insektenschutz.md)
+- [Outdoor](../beschwerde/outdoor.md)
+- [Wandern](../beschwerde/wandern.md)
+- [Kinder](../beschwerde/kinder.md)
+- [Frühsommer](../beschwerde/fruehsommer.md)
+- [Borreliose](../beschwerde/borreliose.md)
 
 ## Schwierigkeit
 

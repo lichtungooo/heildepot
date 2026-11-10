@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Blüten, ätherisches Öl"
 tags: ["currystrauch", "immortelle", "bluterguss", "narben", "hautpflege"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["entzündungshemmend", "abschwellend", "hautpflegend", "wundheilend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/currystrauch-1.webp"
+bild_nachweis: "(c) 2005 Zubro, CC BY-SA 3.0"
 ---
 
 # Currystrauch
@@ -38,12 +43,12 @@ Blüten, ätherisches Öl
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
-- [[bluterguss]]
-- [[narben]]
-- [[prellungen]]
+- [Bluterguss](../beschwerde/bluterguss.md)
+- [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
+- [Prellungen](../beschwerde/prellungen.md)
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Allergie / Heuschnupfen](../beschwerde/allergie.md)
-- [[anti-aging]]
+- [Anti aging](../beschwerde/anti-aging.md)
 
 ## Beschreibung
 
@@ -142,6 +147,20 @@ Auf Korsika reiben sich Bauern und Hirten seit jeher mit Immortellenöl ein, wen
 ## Mehr dazu
 
 - [Currystrauch bei der Quelle](https://heilkräuter.de/lexikon/currystrauch.htm)
+
+## Fotos
+
+![Currystrauch, Foto 1](https://heildepot.wir.ooo/bilder/kraut/currystrauch-1.webp)
+
+Foto 1: (c) 2005 Zubro, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Helichrysum_italicum_(immortelle).JPG)
+
+![Currystrauch, Foto 2](https://heildepot.wir.ooo/bilder/kraut/currystrauch-2.webp)
+
+Foto 2: Kareha, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Curry_plants.jpg)
+
+![Currystrauch, Foto 3](https://heildepot.wir.ooo/bilder/kraut/currystrauch-3.webp)
+
+Foto 3: Laura Morelli, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Helichrysum_2007_06_02_024_particolare.jpg)
 
 ## Im Heildepot
 

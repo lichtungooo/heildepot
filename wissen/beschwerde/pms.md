@@ -4,6 +4,8 @@ id: "pms"
 name: "PMS / Menstruationsbeschwerden"
 tags: ["pms", "menstruation", "periode", "regelschmerzen", "dysmenorrhoe", "frauenheilkunde", "zyklus"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # PMS / Menstruationsbeschwerden

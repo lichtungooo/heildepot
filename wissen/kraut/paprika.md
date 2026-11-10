@@ -7,6 +7,11 @@ familie: "Nachtschattengewächse (Solanaceae)"
 pflanzenteile: "Früchte"
 tags: ["paprika", "vitaminC", "immunsystem", "antioxidativ"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["vitaminreich", "durchblutungsfördernd", "antioxidativ", "immunstärkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/paprika-1.webp"
+bild_nachweis: "Chaitanya B D, Public domain"
 ---
 
 # Paprika
@@ -36,10 +41,10 @@ Früchte
 
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[gelenkschmerzen]]
-- [[muskelverspannungen]]
-- [[nervenschmerzen]]
-- [[durchblutungsstoerungen]]
+- [Gelenkschmerzen](../beschwerde/gelenkschmerzen.md)
+- [Muskelverspannungen](../beschwerde/muskelverspannungen.md)
+- [Nervenschmerzen](../beschwerde/nervenschmerzen.md)
+- [Durchblutungsstörungen](../beschwerde/durchblutungsstoerungen.md)
 
 ## Beschreibung
 
@@ -138,6 +143,20 @@ In der Volksmedizin wurde scharfer Paprika als Wärmepflaster auf schmerzende R�
 ## Mehr dazu
 
 - [Paprika bei der Quelle](https://heilkräuter.de/lexikon/paprika.htm)
+
+## Fotos
+
+![Paprika, Foto 1](https://heildepot.wir.ooo/bilder/kraut/paprika-1.webp)
+
+Foto 1: Chaitanya B D, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Capsicum_Annum_Flower.JPG)
+
+![Paprika, Foto 2](https://heildepot.wir.ooo/bilder/kraut/paprika-2.webp)
+
+Foto 2: Raffi Kojian, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Capsicum_annuum_-_Gardenology.org-IMG_0634_bbg09.jpg)
+
+![Paprika, Foto 3](https://heildepot.wir.ooo/bilder/kraut/paprika-3.webp)
+
+Foto 3: Emőke Dénes, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Capsicum_annuum_1_-_Kew.jpg)
 
 ## Im Heildepot
 

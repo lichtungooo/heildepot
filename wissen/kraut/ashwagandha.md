@@ -7,6 +7,11 @@ familie: "Nachtschattengewächse (Solanaceae)"
 pflanzenteile: "Wurzel"
 tags: ["ashwagandha", "stress", "schlaf", "adaptogen", "kraft"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["adaptogen", "stresslindernd", "kräftigend", "schlaffördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/ashwagandha-1.webp"
+bild_nachweis: "Piouswatson, Public domain"
 ---
 
 # Ashwagandha
@@ -41,7 +46,7 @@ Wurzel
 - [Angst / Panikattacken](../beschwerde/angst.md)
 - [Schilddrüsenthemen](../beschwerde/schilddruese.md)
 - [Erektionsstörungen / Libido / Potenz](../beschwerde/erektionsstoerung.md)
-- [[schlafprobleme]]
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
 - [Depression / Schwermut](../beschwerde/depression.md)
 
@@ -148,6 +153,20 @@ In Indien geben Mütter ihren Kindern Ashwagandha-Milch für Wachstum und Stärk
 ## Mehr dazu
 
 - [Ashwagandha bei der Quelle](https://heilkräuter.de/lexikon/ashwagandha.htm)
+
+## Fotos
+
+![Ashwagandha, Foto 1](https://heildepot.wir.ooo/bilder/kraut/ashwagandha-1.webp)
+
+Foto 1: Piouswatson, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Aswagandhaherb11.jpg)
+
+![Ashwagandha, Foto 2](https://heildepot.wir.ooo/bilder/kraut/ashwagandha-2.webp)
+
+Foto 2: Cliff from I now live in Arlington, VA (Outside Washington DC), USA, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Ashwagandha_(Withania_somnifera).jpg)
+
+![Ashwagandha, Foto 3](https://heildepot.wir.ooo/bilder/kraut/ashwagandha-3.webp)
+
+Foto 3: Own work by आशीष भटनागर, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Ashvagandha.jpg)
 
 ## Im Heildepot
 

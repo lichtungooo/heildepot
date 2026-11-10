@@ -7,6 +7,11 @@ familie: "Kreuzblütler (Brassicaceae)"
 pflanzenteile: "Samen"
 tags: ["senf", "wickel", "bronchitis", "durchblutung", "senföle"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["durchblutungsfördernd", "schleimlösend", "schmerzlindernd", "verdauungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/senf-1.webp"
+bild_nachweis: "Rasbak, CC BY-SA 3.0"
 ---
 
 # Senf
@@ -38,11 +43,11 @@ Samen
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
-- [[bronchitis]]
-- [[muskelverspannungen]]
-- [[verdauungsschwaeche]]
+- [Husten / Bronchitis](../beschwerde/husten.md)
+- [Muskelverspannungen](../beschwerde/muskelverspannungen.md)
+- [Verdauungsschwäche](../beschwerde/verdauungsschwaeche.md)
 - [Kopfschmerzen / Migräne](../beschwerde/kopfschmerzen.md)
-- [[durchblutungsstoerungen]]
+- [Durchblutungsstörungen](../beschwerde/durchblutungsstoerungen.md)
 
 ## Beschreibung
 
@@ -141,6 +146,20 @@ Senfwickel und Senfpflaster waren die stärksten Hausmittel der Volksmedizin bei
 ## Mehr dazu
 
 - [Senf bei der Quelle](https://heilkräuter.de/lexikon/senf.htm)
+
+## Fotos
+
+![Senf, Foto 1](https://heildepot.wir.ooo/bilder/kraut/senf-1.webp)
+
+Foto 1: Rasbak, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Gele_mosterd_groenbemesting_(Sinapis_alba_green_manuring).jpg)
+
+![Senf, Foto 2](https://heildepot.wir.ooo/bilder/kraut/senf-2.webp)
+
+Foto 2: Ebyabe, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Morningside_Nature_Center_LHF_crops01.jpg)
+
+![Senf, Foto 3](https://heildepot.wir.ooo/bilder/kraut/senf-3.webp)
+
+Foto 3: Volker Prasuhn, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Gelbsenf-Direktsaat_nach_Winterweizen_1.jpg)
 
 ## Im Heildepot
 

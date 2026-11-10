@@ -7,6 +7,11 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Wurzel"
 tags: ["bibernelle", "halsschmerzen", "husten", "gurgeln"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "entzündungshemmend", "verdauungsfördernd", "harntreibend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/bibernelle-1.webp"
+bild_nachweis: "Olivier Pichard, CC BY-SA 3.0"
 ---
 
 # Bibernelle
@@ -38,8 +43,8 @@ Wurzel
 - [Heiserkeit / Stimmbandprobleme](../beschwerde/heiserkeit.md)
 - [Angina / Mandelentzündung / Halsschmerzen](../beschwerde/angina.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[halsentzuendung]]
-- [[bronchitis]]
+- [Halsentzündung](../beschwerde/halsentzuendung.md)
+- [Husten / Bronchitis](../beschwerde/husten.md)
 
 ## Beschreibung
 
@@ -143,6 +148,20 @@ Die Bibernelle war in der Volksheilkunde das Mittel der Wahl bei 'Brustkrankheit
 ## Mehr dazu
 
 - [Bibernelle bei der Quelle](https://heilkräuter.de/lexikon/bibernelle.htm)
+
+## Fotos
+
+![Bibernelle, Foto 1](https://heildepot.wir.ooo/bilder/kraut/bibernelle-1.webp)
+
+Foto 1: Olivier Pichard, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Pimpinella_saxifraga_vallee-de-grace-amiens_80_05082007_1.jpg)
+
+![Bibernelle, Foto 2](https://heildepot.wir.ooo/bilder/kraut/bibernelle-2.webp)
+
+Foto 2: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20121018Rhein_Altlussheim04.jpg)
+
+![Bibernelle, Foto 3](https://heildepot.wir.ooo/bilder/kraut/bibernelle-3.webp)
+
+Foto 3: Olivier Pichard, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Pimpinella_saxifraga_vallee-de-grace-amiens_80_05082007_8.jpg)
 
 ## Im Heildepot
 

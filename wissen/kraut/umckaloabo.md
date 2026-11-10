@@ -7,6 +7,11 @@ familie: "Storchschnabelgewächse (Geraniaceae)"
 pflanzenteile: "Wurzel"
 tags: ["umckaloabo", "bronchitis", "erkältung", "immunsystem", "afrika"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["antibakteriell", "immunstimulierend", "schleimlösend", "antiviral"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/umckaloabo-1.webp"
+bild_nachweis: "Photo by and (c)2006 Derek Ramsey (Ram-Man).  Location credit to the Chanticleer Garden., CC BY-SA 3.0"
 ---
 
 # Umckaloabo
@@ -38,11 +43,11 @@ Wurzel
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Grippe](../beschwerde/grippe.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
-- [[bronchitis]]
-- [[halsschmerzen]]
-- [[sinusitis]]
-- [[immunsystem]]
-- [[atemwege]]
+- [Husten / Bronchitis](../beschwerde/husten.md)
+- [Angina / Mandelentzündung / Halsschmerzen](../beschwerde/angina.md)
+- [Sinusitis](../beschwerde/sinusitis.md)
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 
 ## Beschreibung
 
@@ -137,6 +142,20 @@ Die Zulu und Xhosa in Südafrika verwenden die Wurzel der Kapland-Pelargonie sei
 ## Mehr dazu
 
 - [Umckaloabo bei der Quelle](https://heilkräuter.de/lexikon/umckaloabo.htm)
+
+## Fotos
+
+![Umckaloabo, Foto 1](https://heildepot.wir.ooo/bilder/kraut/umckaloabo-1.webp)
+
+Foto 1: Photo by and (c)2006 Derek Ramsey (Ram-Man).  Location credit to the Chanticleer Garden., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Pelargonium_sidoides_Leaves_3264px.jpg)
+
+![Umckaloabo, Foto 2](https://heildepot.wir.ooo/bilder/kraut/umckaloabo-2.webp)
+
+Foto 2: [https://www.flickr.com/people/15845498@N00 Se�n A. O'Hara] from Berkeley, CA, USA, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Cotyledon_orbiculata_3_(1).jpg)
+
+![Umckaloabo, Foto 3](https://heildepot.wir.ooo/bilder/kraut/umckaloabo-3.webp)
+
+Foto 3: Chhe (talk), Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:PelargoniumSidoides.jpg)
 
 ## Im Heildepot
 

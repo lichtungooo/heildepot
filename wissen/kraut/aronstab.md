@@ -7,6 +7,11 @@ familie: "Aronstabgewächse (Araceae)"
 pflanzenteile: "Wurzel (nur als Fertigpräparat)"
 tags: ["aronstab", "giftig", "homöopathie", "husten"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/aronstab-1.webp"
+bild_nachweis: "Adrian198cm, Public domain"
 ---
 
 # Aronstab
@@ -34,9 +39,9 @@ Wurzel (nur als Fertigpräparat)
 
 - [Husten / Bronchitis](../beschwerde/husten.md)
 - [Heiserkeit / Stimmbandprobleme](../beschwerde/heiserkeit.md)
-- [[rachenentzuendung]]
-- [[chronischer_schnupfen]]
-- [[verschleimung]]
+- [Angina / Mandelentzündung / Halsschmerzen](../beschwerde/angina.md)
+- [Chronischer schnupfen](../beschwerde/chronischer-schnupfen.md)
+- [Verschleimung](../beschwerde/verschleimung.md)
 
 ## Beschreibung
 
@@ -129,6 +134,20 @@ In der Volksheilkunde wurde die getrocknete Aronstabwurzel als Schleimlöser bei
 ## Mehr dazu
 
 - [Aronstab bei der Quelle](https://heilkräuter.de/lexikon/aronstab.htm)
+
+## Fotos
+
+![Aronstab, Foto 1](https://heildepot.wir.ooo/bilder/kraut/aronstab-1.webp)
+
+Foto 1: Adrian198cm, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Arum_maculatum_NE.jpg)
+
+![Aronstab, Foto 2](https://heildepot.wir.ooo/bilder/kraut/aronstab-2.webp)
+
+Foto 2: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Arum_maculatum_001.JPG)
+
+![Aronstab, Foto 3](https://heildepot.wir.ooo/bilder/kraut/aronstab-3.webp)
+
+Foto 3: Olivier Pichard, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Arum_maculatum_fluy_80_05052007_4.jpg)
 
 ## Im Heildepot
 

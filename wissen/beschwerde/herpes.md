@@ -4,6 +4,8 @@ id: "herpes"
 name: "Herpes / Lippenherpes / Gürtelrose"
 tags: ["herpes", "lippenherpes", "gürtelrose", "herpes-simplex", "herpes-zoster", "fieberblasen", "bläschen"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Herpes / Lippenherpes / Gürtelrose

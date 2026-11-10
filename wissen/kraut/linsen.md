@@ -7,6 +7,11 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Samen"
 tags: ["linsen", "eisen", "protein", "blutzucker", "sättigend"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["eisenreich", "proteinreich", "blutzuckerregulierend", "verdauungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/linsen-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 3.0"
 ---
 
 # Linse
@@ -38,10 +43,10 @@ Samen
 - [Diabetes](../beschwerde/diabetes.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[schwangerschaft]]
-- [[blutzuckerschwankungen]]
-- [[hoher cholesterinspiegel]]
-- [[blutarmut]]
+- [Schwangerschaft](../beschwerde/schwangerschaft.md)
+- [Blutzuckerschwankungen](../beschwerde/blutzuckerschwankungen.md)
+- [Hoher cholesterinspiegel](../beschwerde/hoher-cholesterinspiegel.md)
+- [Eisenmangel / Blutarmut / Anämie](../beschwerde/eisenmangel.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ In der Volksmedizin galt die Linse als "Fleisch der Armen" und wurde bei Blutarm
 ## Mehr dazu
 
 - [Linse bei der Quelle](https://heilkräuter.de/lexikon/linse.htm)
+
+## Fotos
+
+![Linse, Foto 1](https://heildepot.wir.ooo/bilder/kraut/linsen-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Mafate_Marla_lentils_dsc00647.jpg)
+
+![Linse, Foto 2](https://heildepot.wir.ooo/bilder/kraut/linsen-2.webp)
+
+Foto 2: User:Justinc, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:3_types_of_lentil.jpg)
+
+![Linse, Foto 3](https://heildepot.wir.ooo/bilder/kraut/linsen-3.webp)
+
+Foto 3: Johann Georg Sturm (Painter: Jacob Sturm), Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Lens_culinaris_Sturm8.jpg)
 
 ## Im Heildepot
 

@@ -4,6 +4,8 @@ id: "verstopfung"
 name: "Verstopfung / Darmträgheit"
 tags: ["verstopfung", "obstipation", "darmträgheit", "verdauung", "ballaststoffe", "stuhlgang"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Verstopfung / Darmträgheit

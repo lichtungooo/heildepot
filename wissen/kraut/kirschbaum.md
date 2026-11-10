@@ -7,6 +7,11 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Fruchtstiele, Früchte"
 tags: ["kirsche", "gicht", "harntreibend", "niere"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["harntreibend", "entzündungshemmend", "vitaminreich", "gichtlindernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/kirschbaum-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 3.0"
 ---
 
 # Kirschbaum
@@ -38,10 +43,10 @@ Fruchtstiele, Früchte
 - [Niere / Blase / Harnwege](../beschwerde/niere.md)
 - [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
-- [[harnwegsinfekt]]
-- [[wassereinlagerungen]]
 - [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
-- [[entschlackung]]
+- [Wassereinlagerungen](../beschwerde/wassereinlagerungen.md)
+- [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
+- [Entschlackung](../beschwerde/entschlackung.md)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
 
 ## Beschreibung
@@ -141,6 +146,20 @@ In der Volksmedizin wurden Kirschstiele als eines der besten natürlichen Entwä
 ## Mehr dazu
 
 - [Kirschbaum bei der Quelle](https://heilkräuter.de/lexikon/kirsche.htm)
+
+## Fotos
+
+![Kirschbaum, Foto 1](https://heildepot.wir.ooo/bilder/kraut/kirschbaum-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Prunus_cerasus.jpg)
+
+![Kirschbaum, Foto 2](https://heildepot.wir.ooo/bilder/kraut/kirschbaum-2.webp)
+
+Foto 2: Prazak, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Vi%C5%A1e%C5%88.jpg)
+
+![Kirschbaum, Foto 3](https://heildepot.wir.ooo/bilder/kraut/kirschbaum-3.webp)
+
+Foto 3: Hedwig Storch, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Sauerkirschbluete_6mai2006.JPG)
 
 ## Im Heildepot
 

@@ -3,9 +3,11 @@ art: "rezept"
 id: "hildegard-veilchensalbe"
 name: "Hildegards Veilchensalbe: Gegen Kopfschmerz"
 tradition: "Klostermedizin"
-kategorie: "Hildegard"
 tags: ["hildegard", "veilchen", "kopfschmerz", "salbe", "salicylsäure", "aspirin-vorläufer"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Hildegard"
 ---
 
 # Hildegards Veilchensalbe: Gegen Kopfschmerz
@@ -13,9 +15,9 @@ quelle: "heildepot"
 ## Hilft bei
 
 - [Kopfschmerzen / Migräne](../beschwerde/kopfschmerzen.md)
-- [[Spannungskopfschmerz]]
-- [[Stirndruck]]
-- [[Augenkopfschmerz]]
+- [Spannungskopfschmerz](../beschwerde/spannungskopfschmerz.md)
+- [Stirndruck](../beschwerde/stirndruck.md)
+- [Augenkopfschmerz](../beschwerde/augenkopfschmerz.md)
 
 ## Schwierigkeit
 

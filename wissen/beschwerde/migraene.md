@@ -4,6 +4,8 @@ id: "migraene"
 name: "Migräne"
 tags: ["kopfschmerz", "migräne", "leber", "spannung", "neurologie"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Migräne

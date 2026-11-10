@@ -7,6 +7,11 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Wurzel"
 tags: ["nelkenwurz", "durchfall", "zahnfleisch", "gerbstoffe"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["adstringierend", "entzündungshemmend", "verdauungsfördernd", "fiebersenkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/nelkenwurz-1.webp"
+bild_nachweis: "unbekannt, Public domain"
 ---
 
 # Nelkenwurz
@@ -38,11 +43,11 @@ Wurzel
 - [Zähne / Mundraum / Zahnfleisch](../beschwerde/zaehne.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
-- [[zahnfleisch]]
-- [[halsschmerzen]]
-- [[magen]]
-- [[appetitlosigkeit]]
-- [[mundschleimhaut]]
+- [Zähne / Mundraum / Zahnfleisch](../beschwerde/zaehne.md)
+- [Angina / Mandelentzündung / Halsschmerzen](../beschwerde/angina.md)
+- [Sodbrennen / Reflux](../beschwerde/sodbrennen.md)
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
+- [Mundschleimhaut](../beschwerde/mundschleimhaut.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ Bauern kauten bei Zahnschmerzen ein Stück Nelkenwurz, das Eugenol betäubte den
 ## Mehr dazu
 
 - [Nelkenwurz bei der Quelle](https://heilkräuter.de/lexikon/nelkenwu.htm)
+
+## Fotos
+
+![Nelkenwurz, Foto 1](https://heildepot.wir.ooo/bilder/kraut/nelkenwurz-1.webp)
+
+Foto 1: unbekannt, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Geum_urbanum_bgiu.jpg)
+
+![Nelkenwurz, Foto 2](https://heildepot.wir.ooo/bilder/kraut/nelkenwurz-2.webp)
+
+Foto 2: Linda Spashett Storye book, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Brackenhall_072.jpg)
+
+![Nelkenwurz, Foto 3](https://heildepot.wir.ooo/bilder/kraut/nelkenwurz-3.webp)
+
+Foto 3: AfroBrazilian, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Geum_urbanum_01.JPG)
 
 ## Im Heildepot
 

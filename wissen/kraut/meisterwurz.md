@@ -7,6 +7,11 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Wurzel"
 tags: ["meisterwurz", "paracelsus", "fieber", "verdauung", "immunsystem"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "schleimlösend", "fiebersenkend", "immunstärkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/meisterwurz-1.webp"
+bild_nachweis: "Hedwig Storch, CC BY-SA 3.0"
 ---
 
 # Meisterwurz
@@ -38,9 +43,9 @@ Wurzel
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Grippe](../beschwerde/grippe.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
-- [[bronchitis]]
+- [Husten / Bronchitis](../beschwerde/husten.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[appetitlosigkeit]]
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
 
 ## Beschreibung
 
@@ -138,6 +143,20 @@ In den Alpen war die Meisterwurz in jedem Bauernhaus zu finden. Man trug ein St�
 ## Mehr dazu
 
 - [Meisterwurz bei der Quelle](https://heilkräuter.de/lexikon/meisterwurz.htm)
+
+## Fotos
+
+![Meisterwurz, Foto 1](https://heildepot.wir.ooo/bilder/kraut/meisterwurz-1.webp)
+
+Foto 1: Hedwig Storch, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Meisterwurz_(Peucedanum_ostruthium)_IMG_6753.JPG)
+
+![Meisterwurz, Foto 2](https://heildepot.wir.ooo/bilder/kraut/meisterwurz-2.webp)
+
+Foto 2: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Peudecanum_ostruthium_001.JPG)
+
+![Meisterwurz, Foto 3](https://heildepot.wir.ooo/bilder/kraut/meisterwurz-3.webp)
+
+Foto 3: Meneerke bloem, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Peucedanum_ostruthium001.jpg)
 
 ## Im Heildepot
 

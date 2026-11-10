@@ -7,6 +7,11 @@ familie: "Sandelholzgewächse"
 pflanzenteile: "Kernholz, ätherisches Öl"
 tags: ["sandelholz", "meditation", "beruhigung", "harnwege", "aromatherapie"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["beruhigend", "entzündungshemmend", "desinfizierend", "harntreibend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/sandelholz-1.webp"
+bild_nachweis: "Pratheepps at English Wikipedia, CC BY 2.5"
 ---
 
 # Sandelholz
@@ -33,13 +38,27 @@ Kernholz, ätherisches Öl
 ## Hilft bei
 
 - [Angst / Panikattacken](../beschwerde/angst.md)
-- [[harnwege]]
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
-- [[schlafprobleme]]
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
 
 ## Mehr dazu
 
 - [Sandelholz bei der Quelle](https://heilkräuter.de/lexikon/sandelholz.htm)
+
+## Fotos
+
+![Sandelholz, Foto 1](https://heildepot.wir.ooo/bilder/kraut/sandelholz-1.webp)
+
+Foto 1: Pratheepps at English Wikipedia, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Sandal_leaf.jpg)
+
+![Sandelholz, Foto 2](https://heildepot.wir.ooo/bilder/kraut/sandelholz-2.webp)
+
+Foto 2: Noblevmy at Malayalam Wikipedia, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Marayur_sandal.JPG)
+
+![Sandelholz, Foto 3](https://heildepot.wir.ooo/bilder/kraut/sandelholz-3.webp)
+
+Foto 3: Vinayaraj, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Sandal_fruit.jpg)
 
 ## Im Heildepot
 

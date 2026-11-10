@@ -7,6 +7,11 @@ familie: "Rosengewächse (Rosaceae)"
 pflanzenteile: "Kraut, Wurzel"
 tags: ["wiesenknopf", "blutstillend", "menstruation", "wundheilung", "blutung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["blutstillend", "adstringierend", "entzündungshemmend", "wundheilend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/wiesenknopf-1.webp"
+bild_nachweis: "Jean-Marc PLANCHON, Public domain"
 ---
 
 # Wiesenknopf
@@ -34,14 +39,14 @@ Kraut, Wurzel
 
 ## Hilft bei
 
-- [[blutung]]
-- [[menstruation]]
+- [Blutung](../beschwerde/blutung.md)
+- [PMS / Menstruationsbeschwerden](../beschwerde/pms.md)
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
-- [[blutungen]]
-- [[menstruationsbeschwerden]]
+- [Blutungen](../beschwerde/blutungen.md)
+- [Menstruationsbeschwerden](../beschwerde/menstruationsbeschwerden.md)
 - [Hämorrhoiden](../beschwerde/haemorrhoiden.md)
-- [[darmentzuendung]]
+- [Darmentzündung](../beschwerde/darmentzuendung.md)
 
 ## Beschreibung
 
@@ -146,6 +151,20 @@ Auf dem Land war der Wiesenknopf das Mittel der Wahl bei Nasenbluten, man steckt
 ## Mehr dazu
 
 - [Wiesenknopf bei der Quelle](https://heilkräuter.de/lexikon/wiesenknopf.htm)
+
+## Fotos
+
+![Wiesenknopf, Foto 1](https://heildepot.wir.ooo/bilder/kraut/wiesenknopf-1.webp)
+
+Foto 1: Jean-Marc PLANCHON, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Grandes_pimprenelles.JPG)
+
+![Wiesenknopf, Foto 2](https://heildepot.wir.ooo/bilder/kraut/wiesenknopf-2.webp)
+
+Foto 2: Dalgial, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Sanguisorba_officinalis_2.JPG)
+
+![Wiesenknopf, Foto 3](https://heildepot.wir.ooo/bilder/kraut/wiesenknopf-3.webp)
+
+Foto 3: Chmee2, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:National_natural_monument_Upol%C3%ADnov%C3%A1_louka_pod_K%C5%99%C3%AD%C5%BEky_in_summer_2012_(18).JPG)
 
 ## Im Heildepot
 

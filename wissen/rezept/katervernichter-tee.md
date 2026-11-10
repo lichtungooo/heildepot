@@ -3,19 +3,21 @@ art: "rezept"
 id: "katervernichter-tee"
 name: "Katervernichter-Tee: Die kraftvolle Anti-Kater-Mischung"
 tradition: "Hexenwissen"
-kategorie: "Kater-Killer"
 tags: ["katerkiller", "teemischung", "pfefferminze", "mariendistel", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Kater-Killer"
 ---
 
 # Katervernichter-Tee: Die kraftvolle Anti-Kater-Mischung
 
 ## Hilft bei
 
-- [[kater]]
-- [[uebelkeit]]
-- [[leberschutz]]
-- [[mineralmangel]]
+- [Kater](../beschwerde/kater.md)
+- [Übelkeit](../beschwerde/uebelkeit.md)
+- [Leberschutz](../beschwerde/leberschutz.md)
+- [Mineralmangel](../beschwerde/mineralmangel.md)
 - [Kopfschmerzen / Migräne](../beschwerde/kopfschmerzen.md)
 
 ## Schwierigkeit

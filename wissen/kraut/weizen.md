@@ -7,6 +7,11 @@ familie: "Süßgräser"
 pflanzenteile: "Gras (Keimlinge)"
 tags: ["weizengras", "chlorophyll", "basisch", "entgiftung", "enzyme"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["entgiftend", "nährstoffreich", "basisch", "immunstärkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/weizen-1.webp"
+bild_nachweis: "Lucyin, CC BY-SA 4.0"
 ---
 
 # Weizen (Weizengras)
@@ -39,6 +44,20 @@ Gras (Keimlinge)
 ## Mehr dazu
 
 - [Weizen (Weizengras) bei der Quelle](https://heilkräuter.de/lexikon/weizen.htm)
+
+## Fotos
+
+![Weizen (Weizengras), Foto 1](https://heildepot.wir.ooo/bilder/kraut/weizen-1.webp)
+
+Foto 1: Lucyin, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Frumint_s%C3%B4res.jpg)
+
+![Weizen (Weizengras), Foto 2](https://heildepot.wir.ooo/bilder/kraut/weizen-2.webp)
+
+Foto 2: INRA DIST from France, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bl%C3%A9_et_coquelicots-1-cliche_Jean_Weber_(23456389953).jpg)
+
+![Weizen (Weizengras), Foto 3](https://heildepot.wir.ooo/bilder/kraut/weizen-3.webp)
+
+Foto 3: RFD3896, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Dickkopfweizen_Beuren_Haldenhof_16062011_-_03.JPG)
 
 ## Im Heildepot
 

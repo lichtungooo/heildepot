@@ -3,9 +3,11 @@ art: "rezept"
 id: "mittsommer-johanniskraut-oel"
 name: "Mittsommer-Johanniskraut-Öl: Das rote Sonnenblut"
 tradition: "Hexenwissen"
-kategorie: "Jahreskreis-Rezepte"
 tags: ["jahreskreis", "mittsommer", "johanniskraut", "rotöl", "hexenwissen", "sonnenwende", "sonnenmedizin"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Jahreskreis-Rezepte"
 ---
 
 # Mittsommer-Johanniskraut-Öl: Das rote Sonnenblut
@@ -13,12 +15,12 @@ quelle: "heildepot"
 ## Hilft bei
 
 - [Depression / Schwermut](../beschwerde/depression.md)
-- [[nervenschmerzen]]
-- [[muskelschmerzen]]
-- [[wundheilung]]
-- [[narben]]
-- [[sonnenbrand]]
-- [[stimmung]]
+- [Nervenschmerzen](../beschwerde/nervenschmerzen.md)
+- [Muskelschmerzen](../beschwerde/muskelschmerzen.md)
+- [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
+- [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
+- [Sonnenbrand](../beschwerde/sonnenbrand.md)
+- [Stimmung](../beschwerde/stimmung.md)
 
 ## Schwierigkeit
 

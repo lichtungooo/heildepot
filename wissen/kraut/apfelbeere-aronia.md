@@ -7,6 +7,11 @@ familie: "Rosengewächse"
 pflanzenteile: "Beeren"
 tags: ["aronia", "antioxidantien", "herz", "immunsystem", "beeren"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["antioxidativ", "gefäßschützend", "entzündungshemmend", "immunstärkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/apfelbeere-aronia-1.webp"
+bild_nachweis: "Nadiatalent, CC BY-SA 3.0"
 ---
 
 # Apfelbeere (Aronia)
@@ -40,6 +45,20 @@ Beeren
 ## Mehr dazu
 
 - [Apfelbeere (Aronia) bei der Quelle](https://heilkräuter.de/lexikon/apfelbeere.htm)
+
+## Fotos
+
+![Apfelbeere (Aronia), Foto 1](https://heildepot.wir.ooo/bilder/kraut/apfelbeere-aronia-1.webp)
+
+Foto 1: Nadiatalent, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Aronia_melanocarpa_1.jpg)
+
+![Apfelbeere (Aronia), Foto 2](https://heildepot.wir.ooo/bilder/kraut/apfelbeere-aronia-2.webp)
+
+Foto 2: Th.heggli, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Aronia_im_Herbst.jpg)
+
+![Apfelbeere (Aronia), Foto 3](https://heildepot.wir.ooo/bilder/kraut/apfelbeere-aronia-3.webp)
+
+Foto 3: W.carter, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Aronia_leaves_on_a_rainy_autumn_day_in_Tuntorp_2.jpg)
 
 ## Im Heildepot
 

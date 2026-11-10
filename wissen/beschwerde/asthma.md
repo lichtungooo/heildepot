@@ -4,6 +4,8 @@ id: "asthma"
 name: "Asthma / Atemwege"
 tags: ["atmung", "lunge", "allergie", "bronchien", "entzündung"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Asthma / Atemwege

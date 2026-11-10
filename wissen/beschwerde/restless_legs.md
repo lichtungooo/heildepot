@@ -4,6 +4,8 @@ id: "restless_legs"
 name: "Restless Legs / Unruhige Beine"
 tags: ["restless_legs", "beine", "schlaf", "nerven", "eisenmangel"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Restless Legs / Unruhige Beine

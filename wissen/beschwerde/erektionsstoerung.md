@@ -4,6 +4,8 @@ id: "erektionsstoerung"
 name: "Erektionsstörungen / Libido / Potenz"
 tags: ["erektion", "potenz", "libido", "sexualität", "durchblutung", "testosteron"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Erektionsstörungen / Libido / Potenz

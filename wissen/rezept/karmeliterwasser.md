@@ -3,22 +3,24 @@ art: "rezept"
 id: "karmeliterwasser"
 name: "Karmeliterwasser (Melissengeist): Das älteste Parfüm-Medikament"
 tradition: "Klostermedizin"
-kategorie: "Klosterapotheke"
 tags: ["klosterapotheke", "karmeliter", "melisse", "universal", "tinktur", "historisch", "melissengeist"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Klosterapotheke"
 ---
 
 # Karmeliterwasser (Melissengeist): Das älteste Parfüm-Medikament
 
 ## Hilft bei
 
-- [[Nervosität]]
-- [[Magenbeschwerden]]
+- [Nervosität](../beschwerde/nervositaet.md)
+- [Magenbeschwerden](../beschwerde/magenbeschwerden.md)
 - [Schwindel / Gleichgewichtsstörungen](../beschwerde/schwindel.md)
 - [Kopfschmerzen / Migräne](../beschwerde/kopfschmerzen.md)
 - [Insektenstiche / Allergische Reaktion](../beschwerde/insektenstiche.md)
-- [[Menstruationsbeschwerden]]
-- [[Übelkeit]]
+- [Menstruationsbeschwerden](../beschwerde/menstruationsbeschwerden.md)
+- [Übelkeit](../beschwerde/uebelkeit.md)
 
 ## Schwierigkeit
 

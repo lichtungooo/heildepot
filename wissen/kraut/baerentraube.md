@@ -7,6 +7,11 @@ familie: "Heidekrautgewächse (Ericaceae)"
 pflanzenteile: "Blätter"
 tags: ["bärentraube", "blase", "harnwege", "blasenentzündung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["antibakteriell", "harntreibend", "entzündungshemmend", "desinfizierend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/baerentraube-1.webp"
+bild_nachweis: "Walter Siegmund, CC BY 2.5"
 ---
 
 # Bärentraube
@@ -37,10 +42,10 @@ Blätter
 - [Niere / Blase / Harnwege](../beschwerde/niere.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
-- [[harnwegsinfekt]]
-- [[blase]]
-- [[brennen_beim_wasserlassen]]
-- [[harnsteine]]
+- [Blasenentzündung / Harnwegsinfekt](../beschwerde/blasenentzuendung.md)
+- [Prostata / Männergesundheit](../beschwerde/prostata.md)
+- [Brennen beim wasserlassen](../beschwerde/brennen-beim-wasserlassen.md)
+- [Harnsteine](../beschwerde/harnsteine.md)
 
 ## Beschreibung
 
@@ -136,6 +141,20 @@ In den Alpen war Bärentraubenblätter-Tee das Hausmittel Nr. 1 bei Blasenentzü
 ## Mehr dazu
 
 - [Bärentraube bei der Quelle](https://heilkräuter.de/lexikon/bärentr.htm)
+
+## Fotos
+
+![Bärentraube, Foto 1](https://heildepot.wir.ooo/bilder/kraut/baerentraube-1.webp)
+
+Foto 1: Walter Siegmund, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Arctostaphylos_uva-ursi_25924.JPG)
+
+![Bärentraube, Foto 2](https://heildepot.wir.ooo/bilder/kraut/baerentraube-2.webp)
+
+Foto 2: Ghislain118 http://www.fleurs-des-montagnes.net, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Arctostaphyllos_uva-ursi_(Picos).JPG)
+
+![Bärentraube, Foto 3](https://heildepot.wir.ooo/bilder/kraut/baerentraube-3.webp)
+
+Foto 3: LBM1948, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Alto_Tajo_1974_25.jpg)
 
 ## Im Heildepot
 

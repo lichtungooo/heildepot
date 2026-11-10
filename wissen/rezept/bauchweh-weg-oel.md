@@ -3,22 +3,24 @@ art: "rezept"
 id: "bauchweh-weg-oel"
 name: "Bauchweh-Weg-Öl: Sanfte Hände, warmer Bauch"
 tradition: "Hexenwissen"
-kategorie: "Kinder-Zauber"
 tags: ["kinderzauber", "bauchmassage", "blähungen", "baby", "hexenwissen", "koliken"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Kinder-Zauber"
 ---
 
 # Bauchweh-Weg-Öl: Sanfte Hände, warmer Bauch
 
 ## Hilft bei
 
-- [[bauchweh]]
+- [Bauchweh](../beschwerde/bauchweh.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[koliken]]
-- [[baby]]
-- [[kleinkind]]
+- [Koliken](../beschwerde/koliken.md)
+- [Baby](../beschwerde/baby.md)
+- [Kleinkind](../beschwerde/kleinkind.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
-- [[dreimonatskoliken]]
+- [Dreimonatskoliken](../beschwerde/dreimonatskoliken.md)
 
 ## Schwierigkeit
 

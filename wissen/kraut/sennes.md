@@ -7,6 +7,11 @@ familie: "Hülsenfrüchtler (Fabaceae)"
 pflanzenteile: "Blätter, Früchte"
 tags: ["sennes", "abführend", "verstopfung", "darm"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["abführend", "darmreinigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/sennes-1.webp"
+bild_nachweis: "Rillke, CC BY-SA 3.0 de"
 ---
 
 # Sennes
@@ -33,8 +38,8 @@ Blätter, Früchte
 ## Hilft bei
 
 - [Verstopfung / Darmträgheit](../beschwerde/verstopfung.md)
-- [[darmtraegheit]]
-- [[darmreinigung]]
+- [Verstopfung / Darmträgheit](../beschwerde/verstopfung.md)
+- [Darmreinigung](../beschwerde/darmreinigung.md)
 
 ## Beschreibung
 
@@ -124,6 +129,20 @@ Sennes war das "Hausmittel für den verstopften Bauch" in jeder europäischen Ap
 ## Mehr dazu
 
 - [Sennes bei der Quelle](https://heilkräuter.de/lexikon/sennes.htm)
+
+## Fotos
+
+![Sennes, Foto 1](https://heildepot.wir.ooo/bilder/kraut/sennes-1.webp)
+
+Foto 1: Rillke, CC BY-SA 3.0 de, [Quelle](https://commons.wikimedia.org/wiki/File:Sennae_fructus_angustifoliae_227267.jpg)
+
+![Sennes, Foto 2](https://heildepot.wir.ooo/bilder/kraut/sennes-2.webp)
+
+Foto 2: Sengai Podhuvan, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Cassua_senna_%E0%AE%86%E0%AE%B5%E0%AE%BF%E0%AE%B0%E0%AF%88.jpg)
+
+![Sennes, Foto 3](https://heildepot.wir.ooo/bilder/kraut/sennes-3.webp)
+
+Foto 3: AMALAN619, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:%E0%AE%86%E0%AE%B5%E0%AE%BE%E0%AE%B0%E0%AE%AE%E0%AF%8D_%E0%AE%AA%E0%AF%82_2.JPG)
 
 ## Im Heildepot
 

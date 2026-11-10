@@ -7,6 +7,11 @@ familie: "Doldenblütler (Apiaceae)"
 pflanzenteile: "Kraut, Samen"
 tags: ["koriander", "entgiftung", "verdauung", "schwermetalle", "blähungen"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["entgiftend", "verdauungsfördernd", "krampflösend", "schwermetallausleitend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/koriander-1.webp"
+bild_nachweis: "Forest & Kim Starr, CC BY 3.0"
 ---
 
 # Koriander
@@ -38,8 +43,8 @@ Kraut, Samen
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
 - [Leber / Galle](../beschwerde/leber.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[entgiftung]]
-- [[schwermetalle]]
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
+- [Schwermetalle](../beschwerde/schwermetalle.md)
 - [Sodbrennen / Reflux](../beschwerde/sodbrennen.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 
@@ -139,6 +144,20 @@ In der mediterranen Volksheilkunde galt Koriandertee als das beste Mittel gegen 
 ## Mehr dazu
 
 - [Koriander bei der Quelle](https://heilkräuter.de/lexikon/koriander.htm)
+
+## Fotos
+
+![Koriander, Foto 1](https://heildepot.wir.ooo/bilder/kraut/koriander-1.webp)
+
+Foto 1: Forest & Kim Starr, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Starr_080731-9535_Coriandrum_sativum.jpg)
+
+![Koriander, Foto 2](https://heildepot.wir.ooo/bilder/kraut/koriander-2.webp)
+
+Foto 2: Bhaskaranaidu, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Kottimiri.JPG)
+
+![Koriander, Foto 3](https://heildepot.wir.ooo/bilder/kraut/koriander-3.webp)
+
+Foto 3: Krish Dulal, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Coriandrum_sativum@Dulalthok.jpg)
 
 ## Im Heildepot
 

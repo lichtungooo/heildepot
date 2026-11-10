@@ -3,21 +3,23 @@ art: "rezept"
 id: "bart-des-druiden-oel"
 name: "Bart-des-Druiden-Öl: Wilder Wuchs, gepflegte Kraft"
 tradition: "Hexenwissen"
-kategorie: "Männer-Kraft"
 tags: ["männerkraft", "bartöl", "bartpflege", "hexenwissen", "druide", "naturkosmetik"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Männer-Kraft"
 ---
 
 # Bart-des-Druiden-Öl: Wilder Wuchs, gepflegte Kraft
 
 ## Hilft bei
 
-- [[bartwuchs]]
-- [[bartpflege]]
-- [[haarwuchs]]
-- [[bartluecken]]
-- [[trockener_bart]]
-- [[bartschuppen]]
+- [Bartwuchs](../beschwerde/bartwuchs.md)
+- [Bartpflege](../beschwerde/bartpflege.md)
+- [Haarwuchs](../beschwerde/haarwuchs.md)
+- [Bartlücken](../beschwerde/bartluecken.md)
+- [Trockener bart](../beschwerde/trockener-bart.md)
+- [Bartschuppen](../beschwerde/bartschuppen.md)
 
 ## Schwierigkeit
 

@@ -3,20 +3,22 @@ art: "rezept"
 id: "alkohol-detox-smoothie"
 name: "Alkohol-Detox Smoothie: Der ultimative Morgen-danach-Smoothie"
 tradition: "Hexenwissen"
-kategorie: "Kater-Killer"
 tags: ["smoothie", "katerkiller", "aktivkohle", "detox", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Kater-Killer"
 ---
 
 # Alkohol-Detox Smoothie: Der ultimative Morgen-danach-Smoothie
 
 ## Hilft bei
 
-- [[kater]]
-- [[uebelkeit]]
-- [[dehydrierung]]
-- [[brain-fog]]
-- [[detox]]
+- [Kater](../beschwerde/kater.md)
+- [Übelkeit](../beschwerde/uebelkeit.md)
+- [Dehydrierung](../beschwerde/dehydrierung.md)
+- [Brain fog](../beschwerde/brain-fog.md)
+- [Detox](../beschwerde/detox.md)
 
 ## Schwierigkeit
 

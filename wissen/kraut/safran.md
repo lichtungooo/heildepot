@@ -7,6 +7,11 @@ familie: "Schwertliliengewächse (Iridaceae)"
 pflanzenteile: "Blütennarben"
 tags: ["safran", "depression", "stimmung", "PMS", "antidepressiv"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["stimmungsaufhellend", "krampflösend", "antioxidativ", "verdauungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/safran-1.webp"
+bild_nachweis: "‘Uncle Carl’ (カールおじさん)., CC BY-SA 3.0"
 ---
 
 # Safran
@@ -38,11 +43,11 @@ Blütennarben
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
 - [Wechseljahre / Hormonsystem](../beschwerde/wechseljahre.md)
 - [Augenprobleme / Sehschwäche](../beschwerde/augen.md)
-- [[stimmung]]
+- [Stimmung](../beschwerde/stimmung.md)
 - [PMS / Menstruationsbeschwerden](../beschwerde/pms.md)
-- [[gedaechtnis]]
-- [[menstruation]]
-- [[schlafprobleme]]
+- [Demenz / Alzheimer / Vergesslichkeit](../beschwerde/demenz.md)
+- [PMS / Menstruationsbeschwerden](../beschwerde/pms.md)
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
 
 ## Beschreibung
@@ -142,6 +147,20 @@ In der persischen Volksmedizin galt Safran als "Gewürz des Glücks". In Europa 
 ## Mehr dazu
 
 - [Safran bei der Quelle](https://heilkräuter.de/lexikon/safran.htm)
+
+## Fotos
+
+![Safran, Foto 1](https://heildepot.wir.ooo/bilder/kraut/safran-1.webp)
+
+Foto 1: ‘Uncle Carl’ (カールおじさん)., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Crocus_sativus_sahuran.jpg)
+
+![Safran, Foto 2](https://heildepot.wir.ooo/bilder/kraut/safran-2.webp)
+
+Foto 2: Ghislain118 http://www.fleurs-des-montagnes.net, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Crocus_sativus_1.JPG)
+
+![Safran, Foto 3](https://heildepot.wir.ooo/bilder/kraut/safran-3.webp)
+
+Foto 3: Giancarlo Vetrone, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Campi_di_zafferano.jpg)
 
 ## Im Heildepot
 

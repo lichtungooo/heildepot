@@ -3,9 +3,11 @@ art: "rezept"
 id: "wespenstich-sofort-umschlag"
 name: "Wespenstich-Sofort-Umschlag: Erste Hilfe vom Wegrand"
 tradition: "Hexenwissen"
-kategorie: "Erste Hilfe: Natürlich"
 tags: ["erste_hilfe", "insektenstiche", "spitzwegerich", "hexenwissen", "naturapotheke", "outdoor"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Erste Hilfe: Natürlich"
 ---
 
 # Wespenstich-Sofort-Umschlag: Erste Hilfe vom Wegrand
@@ -13,12 +15,12 @@ quelle: "heildepot"
 ## Hilft bei
 
 - [Insektenstiche / Allergische Reaktion](../beschwerde/insektenstiche.md)
-- [[wespenstich]]
-- [[bienenstich]]
-- [[mueckenstiche]]
-- [[schwellung]]
-- [[juckreiz]]
-- [[erste_hilfe]]
+- [Wespenstich](../beschwerde/wespenstich.md)
+- [Bienenstich](../beschwerde/bienenstich.md)
+- [Mückenstiche](../beschwerde/mueckenstiche.md)
+- [Insektenstiche / Allergische Reaktion](../beschwerde/insektenstiche.md)
+- [Hautthemen / Neurodermitis](../beschwerde/haut.md)
+- [Erste hilfe](../beschwerde/erste-hilfe.md)
 
 ## Schwierigkeit
 

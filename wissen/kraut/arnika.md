@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Blüten"
 tags: ["arnika", "schmerzen", "prellungen", "muskeln", "sport"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["entzündungshemmend", "schmerzlindernd", "abschwellend", "durchblutungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/arnika-1.webp"
+bild_nachweis: "Bernd Haynold, CC BY-SA 2.5"
 ---
 
 # Arnika
@@ -39,9 +44,9 @@ Blüten
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
 - [Rückenschmerzen](../beschwerde/rueckenschmerzen.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
-- [[sport]]
+- [Sport](../beschwerde/sport.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
-- [[bluterguss]]
+- [Bluterguss](../beschwerde/bluterguss.md)
 
 ## Beschreibung
 
@@ -146,6 +151,20 @@ Die Bergbauern legten Arnikablüten in Schnaps und hatten so immer eine "Wundtin
 ## Mehr dazu
 
 - [Arnika bei der Quelle](https://heilkräuter.de/lexikon/arnika.htm)
+
+## Fotos
+
+![Arnika, Foto 1](https://heildepot.wir.ooo/bilder/kraut/arnika-1.webp)
+
+Foto 1: Bernd Haynold, CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Arnica_montana_180605.jpg)
+
+![Arnika, Foto 2](https://heildepot.wir.ooo/bilder/kraut/arnika-2.webp)
+
+Foto 2: Henry Brisse (upload by user:Abalg), CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Arnica_montana_general_vue.JPG)
+
+![Arnika, Foto 3](https://heildepot.wir.ooo/bilder/kraut/arnika-3.webp)
+
+Foto 3: Abalg, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Agricol_impact_on_Arnica_montana.JPG)
 
 ## Im Heildepot
 

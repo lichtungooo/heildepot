@@ -4,6 +4,8 @@ id: "bluthochdruck"
 name: "Bluthochdruck / Herz-Kreislauf"
 tags: ["bluthochdruck", "hypertonie", "herzkreislauf", "herz", "gefäße", "blutdruck"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Bluthochdruck / Herz-Kreislauf

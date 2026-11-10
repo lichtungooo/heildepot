@@ -7,6 +7,11 @@ familie: "Buchengewächse (Fagaceae)"
 pflanzenteile: "Blätter, Früchte"
 tags: ["edelkastanie", "husten", "bachblüten", "basisch", "maroni"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schleimlösend", "adstringierend", "stärkend", "beruhigend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/edelkastanie-1.webp"
+bild_nachweis: "Wouter Hagens, Public domain"
 ---
 
 # Edelkastanie
@@ -38,10 +43,10 @@ Blätter, Früchte
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 - [Depression / Schwermut](../beschwerde/depression.md)
-- [[keuchhusten]]
-- [[rekonvaleszenz]]
+- [Keuchhusten](../beschwerde/keuchhusten.md)
+- [Rekonvaleszenz](../beschwerde/rekonvaleszenz.md)
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
-- [[glutenunvertraeglichkeit]]
+- [Glutenunverträglichkeit](../beschwerde/glutenunvertraeglichkeit.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ Die Kastanie war das Grundnahrungsmittel der Bergvölker. Kastanienmehl-Brei sti
 ## Mehr dazu
 
 - [Edelkastanie bei der Quelle](https://heilkräuter.de/lexikon/edelkastanie.htm)
+
+## Fotos
+
+![Edelkastanie, Foto 1](https://heildepot.wir.ooo/bilder/kraut/edelkastanie-1.webp)
+
+Foto 1: Wouter Hagens, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Castanea_sativa_A.jpg)
+
+![Edelkastanie, Foto 2](https://heildepot.wir.ooo/bilder/kraut/edelkastanie-2.webp)
+
+Foto 2: Frank Vincentz, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Castanea_sativa_04_ies.jpg)
+
+![Edelkastanie, Foto 3](https://heildepot.wir.ooo/bilder/kraut/edelkastanie-3.webp)
+
+Foto 3: Josemiriarte, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Castanea_sativa_(4).JPG)
 
 ## Im Heildepot
 

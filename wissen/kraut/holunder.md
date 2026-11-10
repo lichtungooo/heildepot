@@ -7,6 +7,11 @@ familie: "Moschuskrautgewächse (Adoxaceae)"
 pflanzenteile: "Blüten, Beeren"
 tags: ["holunder", "erkältung", "fieber", "immunsystem", "schweißtreibend"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schweißtreibend", "immunstärkend", "schleimlösend", "fiebersenkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/holunder-1.webp"
+bild_nachweis: "Anna Regelsberger, CC BY-SA 3.0"
 ---
 
 # Holunder
@@ -38,8 +43,8 @@ Blüten, Beeren
 - [Grippe](../beschwerde/grippe.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
 - [Husten / Bronchitis](../beschwerde/husten.md)
-- [[fieber]]
-- [[atemwege]]
+- [Grippe](../beschwerde/grippe.md)
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Allergie / Heuschnupfen](../beschwerde/allergie.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 
@@ -152,6 +157,20 @@ Drei Sachen musst du im Vorrat haben: Holundersaft, Kamillentee und Honig, dann 
 ## Mehr dazu
 
 - [Holunder bei der Quelle](https://heilkräuter.de/lexikon/holunder.htm)
+
+## Fotos
+
+![Holunder, Foto 1](https://heildepot.wir.ooo/bilder/kraut/holunder-1.webp)
+
+Foto 1: Anna Regelsberger, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Holunderkultur.JPG)
+
+![Holunder, Foto 2](https://heildepot.wir.ooo/bilder/kraut/holunder-2.webp)
+
+Foto 2: M.Buschmann, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Old_sambucus_nigra.jpg)
+
+![Holunder, Foto 3](https://heildepot.wir.ooo/bilder/kraut/holunder-3.webp)
+
+Foto 3: Ulf Mehlig, CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Lenticels-sambucus_nigra.jpg)
 
 ## Im Heildepot
 

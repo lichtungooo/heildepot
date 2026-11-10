@@ -7,6 +7,11 @@ familie: "Heidekrautgewächse (Ericaceae)"
 pflanzenteile: "Beeren, Blätter"
 tags: ["heidelbeere", "augen", "durchfall", "antioxidantien", "blutgefäße"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["adstringierend", "antioxidativ", "augenstärkend", "durchfallhemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/heidelbeere-1.webp"
+bild_nachweis: "Gocedelcevdh, Public domain"
 ---
 
 # Heidelbeere
@@ -39,10 +44,10 @@ Beeren, Blätter
 - [Diabetes](../beschwerde/diabetes.md)
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
 - [Durchfall / Magen-Darm-Infekt](../beschwerde/durchfall.md)
-- [[augenprobleme]]
-- [[zahnfleischentzuendung]]
-- [[gefaessschutz]]
-- [[antioxidativ]]
+- [Augenprobleme](../beschwerde/augenprobleme.md)
+- [Zahnfleischentzündung](../beschwerde/zahnfleischentzuendung.md)
+- [Gefässschutz](../beschwerde/gefaessschutz.md)
+- [Antioxidativ](../beschwerde/antioxidativ.md)
 
 ## Beschreibung
 
@@ -148,6 +153,20 @@ Die Heidelbeere war das Haus- und Hofmittel bei Durchfall in ganz Europa. "Heide
 ## Mehr dazu
 
 - [Heidelbeere bei der Quelle](https://heilkräuter.de/lexikon/heidelbe.htm)
+
+## Fotos
+
+![Heidelbeere, Foto 1](https://heildepot.wir.ooo/bilder/kraut/heidelbeere-1.webp)
+
+Foto 1: Gocedelcevdh, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Borovinki.jpg)
+
+![Heidelbeere, Foto 2](https://heildepot.wir.ooo/bilder/kraut/heidelbeere-2.webp)
+
+Foto 2: Koshelyev, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Chornychne_vkryttya_u_sosnovomu_lisi.jpg)
+
+![Heidelbeere, Foto 3](https://heildepot.wir.ooo/bilder/kraut/heidelbeere-3.webp)
+
+Foto 3: Daniel Baránek, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:N%C3%ADzk%C3%A9_Tatry,_Pra%C5%A1iv%C3%A1,_bor%C5%AFv%C4%8D%C3%AD_01.jpg)
 
 ## Im Heildepot
 

@@ -4,6 +4,8 @@ id: "uebergewicht"
 name: "Übergewicht / Stoffwechsel"
 tags: ["stoffwechsel", "gewicht", "insulin", "schilddrüse", "ernährung"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Übergewicht / Stoffwechsel

@@ -3,9 +3,11 @@ art: "rezept"
 id: "prostata-schutzschild"
 name: "Prostata-Schutzschild: Vorsorge aus der Natur"
 tradition: "Hexenwissen"
-kategorie: "Männer-Kraft"
 tags: ["männerkraft", "prostata", "vorsorge", "phytotherapie", "hexenwissen", "männergesundheit"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Männer-Kraft"
 ---
 
 # Prostata-Schutzschild: Vorsorge aus der Natur
@@ -13,11 +15,11 @@ quelle: "heildepot"
 ## Hilft bei
 
 - [Prostata / Männergesundheit](../beschwerde/prostata.md)
-- [[harnprobleme]]
-- [[naechtliches_wasserlassen]]
-- [[vorsorge]]
-- [[BPH]]
-- [[maennergesundheit]]
+- [Harnprobleme](../beschwerde/harnprobleme.md)
+- [Nächtliches wasserlassen](../beschwerde/naechtliches-wasserlassen.md)
+- [Vorsorge](../beschwerde/vorsorge.md)
+- [Bph](../beschwerde/bph.md)
+- [Männergesundheit](../beschwerde/maennergesundheit.md)
 
 ## Schwierigkeit
 

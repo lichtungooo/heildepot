@@ -7,6 +7,11 @@ familie: "Bennussgewächse (Moringaceae)"
 pflanzenteile: "Blätter, Samen"
 tags: ["moringa", "superfood", "nährstoffe", "antioxidantien", "energie"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["nährstoffreich", "antioxidativ", "entzündungshemmend", "blutzuckerregulierend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/moringa-1.webp"
+bild_nachweis: "Raffi Kojian, CC BY-SA 3.0"
 ---
 
 # Moringa
@@ -39,7 +44,7 @@ Blätter, Samen
 - [Diabetes](../beschwerde/diabetes.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 - [Eisenmangel / Blutarmut / Anämie](../beschwerde/eisenmangel.md)
-- [[mangelernaehrung]]
+- [Mangelernährung](../beschwerde/mangelernaehrung.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 
 ## Beschreibung
@@ -139,6 +144,20 @@ In afrikanischen Dörfern kochen Mütter die frischen Moringa-Blätter als nähr
 ## Mehr dazu
 
 - [Moringa bei der Quelle](https://heilkräuter.de/lexikon/moringa.htm)
+
+## Fotos
+
+![Moringa, Foto 1](https://heildepot.wir.ooo/bilder/kraut/moringa-1.webp)
+
+Foto 1: Raffi Kojian, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Gardenology.org-IMG_7781_qsbg11mar.jpg)
+
+![Moringa, Foto 2](https://heildepot.wir.ooo/bilder/kraut/moringa-2.webp)
+
+Foto 2: Crops for the Future, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Benin_Club_de_Sant%C3%A9.jpg)
+
+![Moringa, Foto 3](https://heildepot.wir.ooo/bilder/kraut/moringa-3.webp)
+
+Foto 3: Surya Prakash.S.A., CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Drumstick_leaves_2011-12.jpg)
 
 ## Im Heildepot
 

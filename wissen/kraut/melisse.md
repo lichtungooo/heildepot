@@ -7,6 +7,11 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Blätter"
 tags: ["melisse", "beruhigend", "schlaf", "herpes", "verdauung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["beruhigend", "krampflösend", "antiviral", "verdauungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/melisse-1.webp"
+bild_nachweis: "Semnoz, CC BY-SA 3.0"
 ---
 
 # Melisse
@@ -39,8 +44,8 @@ Blätter
 - [Angst / Panikattacken](../beschwerde/angst.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
-- [[schlafprobleme]]
-- [[nervositaet]]
+- [Schlafprobleme](../beschwerde/schlafprobleme.md)
+- [Nervosität](../beschwerde/nervositaet.md)
 - [Herpes / Lippenherpes / Gürtelrose](../beschwerde/herpes.md)
 - [Depression / Schwermut](../beschwerde/depression.md)
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
@@ -154,6 +159,20 @@ Melissentee galt als "Nerventee Nummer eins" in jedem Bauernhaus. Bei Prüfungsa
 ## Mehr dazu
 
 - [Melisse bei der Quelle](https://heilkräuter.de/lexikon/melisse.htm)
+
+## Fotos
+
+![Melisse, Foto 1](https://heildepot.wir.ooo/bilder/kraut/melisse-1.webp)
+
+Foto 1: Semnoz, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:200707_x_M%C3%A9lisse_01.JPG)
+
+![Melisse, Foto 2](https://heildepot.wir.ooo/bilder/kraut/melisse-2.webp)
+
+Foto 2: Datkins, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Lemon_balm_2.JPG)
+
+![Melisse, Foto 3](https://heildepot.wir.ooo/bilder/kraut/melisse-3.webp)
+
+Foto 3: Raffi Kojian, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Gardenology.org-IMG_1101_rbgs10dec.jpg)
 
 ## Im Heildepot
 

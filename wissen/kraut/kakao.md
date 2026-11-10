@@ -7,6 +7,11 @@ familie: "Malvengewächse (Malvaceae)"
 pflanzenteile: "Bohnen (Samen)"
 tags: ["kakao", "herz", "stimmung", "magnesium", "zeremonie"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["stimmungsaufhellend", "herzschützend", "antioxidativ", "durchblutungsfördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/kakao-1.webp"
+bild_nachweis: "AlejandroLinaresGarcia, CC BY-SA 3.0"
 ---
 
 # Kakao
@@ -38,10 +43,10 @@ Bohnen (Samen)
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
 - [Bluthochdruck / Herz-Kreislauf](../beschwerde/bluthochdruck.md)
-- [[stimmungstiefs]]
-- [[herz_kreislauf]]
+- [Stimmungstiefs](../beschwerde/stimmungstiefs.md)
+- [Herz kreislauf](../beschwerde/herz-kreislauf.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[magnesiummangel]]
+- [Magnesiummangel](../beschwerde/magnesiummangel.md)
 
 ## Beschreibung
 
@@ -141,6 +146,20 @@ Die Maya verwendeten Kakao als Medizin gegen Fieber, Husten und Erschöpfung. In
 ## Mehr dazu
 
 - [Kakao bei der Quelle](https://heilkräuter.de/lexikon/kakao.htm)
+
+## Fotos
+
+![Kakao, Foto 1](https://heildepot.wir.ooo/bilder/kraut/kakao-1.webp)
+
+Foto 1: AlejandroLinaresGarcia, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:CacaoChonita01.JPG)
+
+![Kakao, Foto 2](https://heildepot.wir.ooo/bilder/kraut/kakao-2.webp)
+
+Foto 2: കാക്കര, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Coco_%E0%B4%95%E0%B5%8A%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8B_%E0%B4%AE%E0%B4%B0%E0%B4%82.JPG)
+
+![Kakao, Foto 3](https://heildepot.wir.ooo/bilder/kraut/kakao-3.webp)
+
+Foto 3: Thomas Brown, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Cocoa_Tree_(Theobroma_cacao)_(8597925364).jpg)
 
 ## Im Heildepot
 

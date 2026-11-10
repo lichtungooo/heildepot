@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Kraut"
 tags: ["mutterkraut", "migräne", "kopfschmerzen", "fieber", "frauenheilkunde"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["migränelindernd", "krampflösend", "fiebersenkend", "entzündungshemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/mutterkraut-1.webp"
+bild_nachweis: "unbekannt, CC BY 2.5"
 ---
 
 # Mutterkraut
@@ -38,8 +43,8 @@ Kraut
 - [Kopfschmerzen / Migräne](../beschwerde/kopfschmerzen.md)
 - [Chronische Schmerzen (allgemein)](../beschwerde/schmerzen.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
-- [[regelschmerzen]]
-- [[fieber]]
+- [PMS / Menstruationsbeschwerden](../beschwerde/pms.md)
+- [Grippe](../beschwerde/grippe.md)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
 
 ## Beschreibung
@@ -138,6 +143,20 @@ In englischen Bauerngärten stand Mutterkraut an jeder Haustür, es galt als Sch
 ## Mehr dazu
 
 - [Mutterkraut bei der Quelle](https://heilkräuter.de/lexikon/mutterkraut.htm)
+
+## Fotos
+
+![Mutterkraut, Foto 1](https://heildepot.wir.ooo/bilder/kraut/mutterkraut-1.webp)
+
+Foto 1: unbekannt, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Feverfew.jpg)
+
+![Mutterkraut, Foto 2](https://heildepot.wir.ooo/bilder/kraut/mutterkraut-2.webp)
+
+Foto 2: Dr Paul G Tuli, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Feverfew_Flowers.jpg)
+
+![Mutterkraut, Foto 3](https://heildepot.wir.ooo/bilder/kraut/mutterkraut-3.webp)
+
+Foto 3: Fabienkhan, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Gde_Camomille.JPG)
 
 ## Im Heildepot
 

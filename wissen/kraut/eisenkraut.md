@@ -7,6 +7,11 @@ familie: "Eisenkrautgewächse (Verbenaceae)"
 pflanzenteile: "Kraut"
 tags: ["eisenkraut", "fieber", "nerven", "leber", "kelten"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["fiebersenkend", "nervenberuhigend", "leberstärkend", "schleimlösend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/eisenkraut-1.webp"
+bild_nachweis: "No machine-readable author provided. Polyparadigm~commonswiki assumed (based on copyright claims)., CC BY 2.5"
 ---
 
 # Eisenkraut
@@ -38,9 +43,9 @@ Kraut
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
 - [Leber / Galle](../beschwerde/leber.md)
 - [Kopfschmerzen / Migräne](../beschwerde/kopfschmerzen.md)
-- [[nervositaet]]
+- [Nervosität](../beschwerde/nervositaet.md)
 - [Migräne](../beschwerde/migraene.md)
-- [[nebenhoehlen]]
+- [Nebenhöhlen](../beschwerde/nebenhoehlen.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 
 ## Beschreibung
@@ -139,6 +144,20 @@ Im Volksglauben schützte ein Sträußchen Eisenkraut am Türrahmen das Haus vor
 ## Mehr dazu
 
 - [Eisenkraut bei der Quelle](https://heilkräuter.de/lexikon/eisenkr.htm)
+
+## Fotos
+
+![Eisenkraut, Foto 1](https://heildepot.wir.ooo/bilder/kraut/eisenkraut-1.webp)
+
+Foto 1: No machine-readable author provided. Polyparadigm~commonswiki assumed (based on copyright claims)., CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Cloisters_Herbs.JPG)
+
+![Eisenkraut, Foto 2](https://heildepot.wir.ooo/bilder/kraut/eisenkraut-2.webp)
+
+Foto 2: Konrad Lackerbeck, CC BY-SA 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Eisenkraut,_Passau.JPG)
+
+![Eisenkraut, Foto 3](https://heildepot.wir.ooo/bilder/kraut/eisenkraut-3.webp)
+
+Foto 3: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20120813Verbena_officinalis1.jpg)
 
 ## Im Heildepot
 

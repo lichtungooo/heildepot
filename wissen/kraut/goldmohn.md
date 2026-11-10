@@ -7,6 +7,11 @@ familie: "Mohngewächse"
 pflanzenteile: "Kraut"
 tags: ["goldmohn", "schlaf", "beruhigend", "kinder", "angst"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["beruhigend", "schlaffördernd", "schmerzlindernd", "angstlösend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/goldmohn-1.webp"
+bild_nachweis: "Penarc, CC BY-SA 3.0"
 ---
 
 # Goldmohn (Kalifornischer Mohn)
@@ -40,6 +45,20 @@ Kraut
 ## Mehr dazu
 
 - [Goldmohn (Kalifornischer Mohn) bei der Quelle](https://heilkräuter.de/lexikon/goldmohn.htm)
+
+## Fotos
+
+![Goldmohn (Kalifornischer Mohn), Foto 1](https://heildepot.wir.ooo/bilder/kraut/goldmohn-1.webp)
+
+Foto 1: Penarc, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Calif_poppy_mixed.JPG)
+
+![Goldmohn (Kalifornischer Mohn), Foto 2](https://heildepot.wir.ooo/bilder/kraut/goldmohn-2.webp)
+
+Foto 2: Doug Dolde, aka Doug Dolde at en.wikipedia, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:California_poppies_1.jpg)
+
+![Goldmohn (Kalifornischer Mohn), Foto 3](https://heildepot.wir.ooo/bilder/kraut/goldmohn-3.webp)
+
+Foto 3: John Fowler from Placitas, NM, USA, CC BY 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:AZ_poppy_field_2010.jpg)
 
 ## Im Heildepot
 

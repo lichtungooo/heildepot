@@ -3,21 +3,23 @@ art: "rezept"
 id: "grosses-blutreinigungs-elixier"
 name: "Das große Blutreinigungs-Elixier: Frühjahrs-Kur der Ahnen"
 tradition: "Hexenwissen"
-kategorie: "Regeneration & Detox"
 tags: ["detox", "blutreinigung", "frühling", "brennnessel", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Regeneration & Detox"
 ---
 
 # Das große Blutreinigungs-Elixier: Frühjahrs-Kur der Ahnen
 
 ## Hilft bei
 
-- [[fruehjahrs-kur]]
-- [[entgiftung]]
-- [[blutreinigung]]
-- [[muedigkeit]]
-- [[hautprobleme]]
-- [[verschlackung]]
+- [Frühjahrs kur](../beschwerde/fruehjahrs-kur.md)
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
+- [Blutreinigung](../beschwerde/blutreinigung.md)
+- [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
+- [Hautprobleme](../beschwerde/hautprobleme.md)
+- [Verschlackung](../beschwerde/verschlackung.md)
 
 ## Schwierigkeit
 

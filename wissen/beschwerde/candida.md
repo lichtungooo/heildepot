@@ -4,6 +4,8 @@ id: "candida"
 name: "Pilzinfektionen / Candida"
 tags: ["candida", "pilze", "darm", "immunsystem", "mykose"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Pilzinfektionen / Candida

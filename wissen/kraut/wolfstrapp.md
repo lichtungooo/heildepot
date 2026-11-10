@@ -7,6 +7,11 @@ familie: "Lippenblütler (Lamiaceae)"
 pflanzenteile: "Kraut"
 tags: ["wolfstrapp", "schilddrüse", "herzrasen", "beruhigend"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schilddrüsenregulierend", "beruhigend", "herzberuhigend", "schweißhemmend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/wolfstrapp-1.webp"
+bild_nachweis: "Kristian Peters -- Fabelfroh 11:32, 3 December 2005 (UTC), CC BY-SA 3.0"
 ---
 
 # Wolfstrapp
@@ -38,11 +43,11 @@ Kraut
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
 - [Angst / Panikattacken](../beschwerde/angst.md)
 - [Stress / Burnout / Erschöpfung](../beschwerde/stress.md)
-- [[herzrasen]]
-- [[nervositaet]]
-- [[hyperthyreose]]
-- [[schwitzen]]
-- [[innere_unruhe]]
+- [Herzrasen](../beschwerde/herzrasen.md)
+- [Nervosität](../beschwerde/nervositaet.md)
+- [Hyperthyreose](../beschwerde/hyperthyreose.md)
+- [Schwitzen](../beschwerde/schwitzen.md)
+- [Innere unruhe](../beschwerde/innere-unruhe.md)
 
 ## Beschreibung
 
@@ -137,6 +142,20 @@ Kräuterkundige Frauen verwendeten Wolfstrapp bei "Herzjagen" und "Schilddrüsen
 ## Mehr dazu
 
 - [Wolfstrapp bei der Quelle](https://heilkräuter.de/lexikon/wolfstrapp.htm)
+
+## Fotos
+
+![Wolfstrapp, Foto 1](https://heildepot.wir.ooo/bilder/kraut/wolfstrapp-1.webp)
+
+Foto 1: Kristian Peters -- Fabelfroh 11:32, 3 December 2005 (UTC), CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Lycopus_europaeus_habitus.jpeg)
+
+![Wolfstrapp, Foto 2](https://heildepot.wir.ooo/bilder/kraut/wolfstrapp-2.webp)
+
+Foto 2: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Lycopus_europaeus_001.jpg)
+
+![Wolfstrapp, Foto 3](https://heildepot.wir.ooo/bilder/kraut/wolfstrapp-3.webp)
+
+Foto 3: Agatka Anonim, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_Karbieniec_pospolity_43_7354.jpg)
 
 ## Im Heildepot
 

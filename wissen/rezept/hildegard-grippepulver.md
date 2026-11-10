@@ -3,9 +3,11 @@ art: "rezept"
 id: "hildegard-grippepulver"
 name: "Hildegards Grippe-Pulver: Pelargonie"
 tradition: "Klostermedizin"
-kategorie: "Hildegard"
 tags: ["hildegard", "pelargonie", "storchschnabel", "erkältung", "grippe", "umckaloabo", "pulver"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Hildegard"
 ---
 
 # Hildegards Grippe-Pulver: Pelargonie
@@ -14,9 +16,9 @@ quelle: "heildepot"
 
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Grippe](../beschwerde/grippe.md)
-- [[Halsschmerzen]]
+- [Angina / Mandelentzündung / Halsschmerzen](../beschwerde/angina.md)
 - [Husten / Bronchitis](../beschwerde/husten.md)
-- [[Schnupfen]]
+- [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
 - [Immunschwäche / Häufige Infekte](../beschwerde/immunschwaeche.md)
 
 ## Schwierigkeit

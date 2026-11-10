@@ -3,21 +3,23 @@ art: "rezept"
 id: "orakel-raeuchermischung"
 name: "Orakel-Räuchermischung: Weihrauch für Divination und Seharbeit"
 tradition: "Hexenwissen"
-kategorie: "Geist-Öffner & Klarheit"
 tags: ["orakelrauch", "divination", "lorbeer", "räuchermischung", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Geist-Öffner & Klarheit"
 ---
 
 # Orakel-Räuchermischung: Weihrauch für Divination und Seharbeit
 
 ## Hilft bei
 
-- [[orakel]]
-- [[divination]]
-- [[tarot]]
-- [[runen]]
-- [[meditation]]
-- [[seharbeit]]
+- [Orakel](../beschwerde/orakel.md)
+- [Divination](../beschwerde/divination.md)
+- [Tarot](../beschwerde/tarot.md)
+- [Runen](../beschwerde/runen.md)
+- [Meditation](../beschwerde/meditation.md)
+- [Seharbeit](../beschwerde/seharbeit.md)
 
 ## Schwierigkeit
 

@@ -7,6 +7,11 @@ familie: "Nachtschattengewächse"
 pflanzenteile: "Beeren"
 tags: ["goji", "beeren", "augen", "immunsystem", "antioxidantien"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["antioxidativ", "immunstärkend", "augenstärkend", "vitaminreich"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/bluete-derlinde-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 3.0"
 ---
 
 # Enzianstrauch
@@ -40,6 +45,20 @@ Beeren
 ## Mehr dazu
 
 - [Enzianstrauch bei der Quelle](https://heilkräuter.de/lexikon/goji.htm)
+
+## Fotos
+
+![Enzianstrauch, Foto 1](https://heildepot.wir.ooo/bilder/kraut/bluete-derlinde-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:LyciumBarbarum-plant-hr.jpg)
+
+![Enzianstrauch, Foto 2](https://heildepot.wir.ooo/bilder/kraut/bluete-derlinde-2.webp)
+
+Foto 2: Sten Porse, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Lycium-halimifolium-flower.JPG)
+
+![Enzianstrauch, Foto 3](https://heildepot.wir.ooo/bilder/kraut/bluete-derlinde-3.webp)
+
+Foto 3: javier martin, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Lycium_barbarum_Habitus_Miguelturra_CampodeCalatrava.jpg)
 
 ## Im Heildepot
 

@@ -3,22 +3,24 @@ art: "rezept"
 id: "eisenhart-tinktur"
 name: "Eisenhart-Tinktur: Ausdauer ohne Ende"
 tradition: "Hexenwissen"
-kategorie: "Männer-Kraft"
 tags: ["männerkraft", "adaptogen", "ausdauer", "sport", "hexenwissen", "krieger"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Männer-Kraft"
 ---
 
 # Eisenhart-Tinktur: Ausdauer ohne Ende
 
 ## Hilft bei
 
-- [[ausdauer]]
-- [[sport]]
-- [[energie]]
-- [[regeneration]]
-- [[leistung]]
-- [[muedigkeit]]
-- [[kraft]]
+- [Ausdauer](../beschwerde/ausdauer.md)
+- [Sport](../beschwerde/sport.md)
+- [Burnout / Chronische Erschöpfung](../beschwerde/burnout.md)
+- [Schlafthemen](../beschwerde/schlaf.md)
+- [Leistung](../beschwerde/leistung.md)
+- [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
+- [Kraft](../beschwerde/kraft.md)
 
 ## Schwierigkeit
 

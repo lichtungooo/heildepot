@@ -7,6 +7,11 @@ familie: "Ginkgogewächse (Ginkgoaceae)"
 pflanzenteile: "Blätter"
 tags: ["ginkgo", "gehirn", "konzentration", "durchblutung", "alter"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["durchblutungsfördernd", "gedächtnisfördernd", "antioxidativ", "neuroprotektiv"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/ginkgo-1.webp"
+bild_nachweis: "Warburg, CC BY-SA 3.0"
 ---
 
 # Ginkgo
@@ -38,11 +43,11 @@ Blätter
 - [Tinnitus / Ohren](../beschwerde/tinnitus.md)
 - [Schwindel / Gleichgewichtsstörungen](../beschwerde/schwindel.md)
 - [Kopfschmerzen / Migräne](../beschwerde/kopfschmerzen.md)
-- [[konzentration]]
-- [[durchblutung]]
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
+- [Krampfadern / Venenschwäche / Durchblutung](../beschwerde/krampfadern.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 - [Augenprobleme / Sehschwäche](../beschwerde/augen.md)
-- [[gedaechtnis]]
+- [Demenz / Alzheimer / Vergesslichkeit](../beschwerde/demenz.md)
 
 ## Beschreibung
 
@@ -146,6 +151,20 @@ In China essen ältere Menschen traditionell Ginkgo-Nüsse (gekocht) für ein la
 ## Mehr dazu
 
 - [Ginkgo bei der Quelle](https://heilkräuter.de/lexikon/ginkgo.htm)
+
+## Fotos
+
+![Ginkgo, Foto 1](https://heildepot.wir.ooo/bilder/kraut/ginkgo-1.webp)
+
+Foto 1: Warburg, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Fond.Beyeler_Gingko.JPG)
+
+![Ginkgo, Foto 2](https://heildepot.wir.ooo/bilder/kraut/ginkgo-2.webp)
+
+Foto 2: Cayambe, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:EecherplazGinkgo05.jpg)
+
+![Ginkgo, Foto 3](https://heildepot.wir.ooo/bilder/kraut/ginkgo-3.webp)
+
+Foto 3: I.Sáček, senior, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:5.d%C3%ADl_html_m76c546d3.jpg)
 
 ## Im Heildepot
 

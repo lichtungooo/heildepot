@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Blüten, Blätter"
 tags: ["gänseblümchen", "blutreinigung", "kinder", "haut", "husten"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["blutreinigend", "stoffwechselanregend", "wundheilend", "schleimlösend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/gaensebluemchen-1.webp"
+bild_nachweis: "Marc Ryckaert (MJJR), CC BY 3.0"
 ---
 
 # Gänseblümchen
@@ -38,12 +43,12 @@ Blüten, Blätter
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[stoffwechsel]]
-- [[blutreinigung]]
-- [[prellungen]]
+- [Diabetes](../beschwerde/diabetes.md)
+- [Blutreinigung](../beschwerde/blutreinigung.md)
+- [Prellungen](../beschwerde/prellungen.md)
 - [Wunden / Verletzungen / Wundheilung](../beschwerde/wunden.md)
-- [[erholung]]
-- [[kinder]]
+- [Erholung](../beschwerde/erholung.md)
+- [Kinder](../beschwerde/kinder.md)
 
 ## Beschreibung
 
@@ -139,6 +144,20 @@ Mütter legten gequetschte Gänseblümchen-Blätter auf die Beulen und Schrammen
 ## Mehr dazu
 
 - [Gänseblümchen bei der Quelle](https://heilkräuter.de/lexikon/gänseblümchen.htm)
+
+## Fotos
+
+![Gänseblümchen, Foto 1](https://heildepot.wir.ooo/bilder/kraut/gaensebluemchen-1.webp)
+
+Foto 1: Marc Ryckaert (MJJR), CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Madeliefjes_R01.jpg)
+
+![Gänseblümchen, Foto 2](https://heildepot.wir.ooo/bilder/kraut/gaensebluemchen-2.webp)
+
+Foto 2: 4028mdk09, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bellis_perennis_-_Einzelnes_G%C3%A4nsebl%C3%BCmchen.jpg)
+
+![Gänseblümchen, Foto 3](https://heildepot.wir.ooo/bilder/kraut/gaensebluemchen-3.webp)
+
+Foto 3: Ist der Name noch frei?, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Bellis_perennis_Ende_M%C3%A4rz_2014_(110).jpg)
 
 ## Im Heildepot
 

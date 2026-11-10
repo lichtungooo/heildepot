@@ -7,6 +7,11 @@ familie: "Malvengewächse (Malvaceae)"
 pflanzenteile: "Kelchblätter"
 tags: ["hibiskus", "blutdruck", "vitamin-c", "erfrischend", "antioxidantien"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["blutdrucksenkend", "antioxidativ", "kühlend", "durstlöschend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/hibiskus-1.webp"
+bild_nachweis: "Olivier Epron Olivierkeita, CC BY 3.0"
 ---
 
 # Hibiskus
@@ -39,8 +44,8 @@ Kelchblätter
 - [Herzschwäche / Herzrhythmusstörungen](../beschwerde/herz.md)
 - [Leber / Galle](../beschwerde/leber.md)
 - [Erkältung / Schnupfen](../beschwerde/erkaeltung.md)
-- [[hitze]]
-- [[antioxidantien]]
+- [Hitze](../beschwerde/hitze.md)
+- [Antioxidantien](../beschwerde/antioxidantien.md)
 
 ## Beschreibung
 
@@ -138,6 +143,20 @@ In Ägypten sagt man: "Karkade ist die Medizin der Armen und der Könige", beide
 ## Mehr dazu
 
 - [Hibiskus bei der Quelle](https://heilkräuter.de/lexikon/hibiskus.htm)
+
+## Fotos
+
+![Hibiskus, Foto 1](https://heildepot.wir.ooo/bilder/kraut/hibiskus-1.webp)
+
+Foto 1: Olivier Epron Olivierkeita, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Fleur_hisbicus_rouge.jpg)
+
+![Hibiskus, Foto 2](https://heildepot.wir.ooo/bilder/kraut/hibiskus-2.webp)
+
+Foto 2: Mgba, CC BY 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:A_Wild_Roselle_Plant_Growing_On_the_Bank_of_Irrawaddy_River_Myanmar.jpg)
+
+![Hibiskus, Foto 3](https://heildepot.wir.ooo/bilder/kraut/hibiskus-3.webp)
+
+Foto 3: Unknown authorUnknown author, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_De_vezelplant_Roselle_Hibiscus_sabdariffa_op_het_veld_van_het_proefstation_van_de_A.V.R.O.S._TMnr_60014116.jpg)
 
 ## Im Heildepot
 

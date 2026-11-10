@@ -7,6 +7,11 @@ familie: "Kreuzdorngewächse"
 pflanzenteile: "Rinde"
 tags: ["cascara", "abführmittel", "verstopfung", "rinde", "nordamerika"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["abführend", "gallefördernd", "verdauungsanregend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/cascara-1.webp"
+bild_nachweis: "unbekannt, Public domain"
 ---
 
 # Cascara
@@ -38,6 +43,20 @@ Rinde
 ## Mehr dazu
 
 - [Cascara bei der Quelle](https://heilkräuter.de/lexikon/cascara.htm)
+
+## Fotos
+
+![Cascara, Foto 1](https://heildepot.wir.ooo/bilder/kraut/cascara-1.webp)
+
+Foto 1: unbekannt, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Rhamnus_purshiana01.jpg)
+
+![Cascara, Foto 2](https://heildepot.wir.ooo/bilder/kraut/cascara-2.webp)
+
+Foto 2: Rillke, CC BY-SA 3.0 de, [Quelle](https://commons.wikimedia.org/wiki/File:Rhamni_purshianae_cortex_053229.jpg)
+
+![Cascara, Foto 3](https://heildepot.wir.ooo/bilder/kraut/cascara-3.webp)
+
+Foto 3: Jesse Taylor, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Rhamnus_purshiana_--_leaves_and_fruits.JPG)
 
 ## Im Heildepot
 

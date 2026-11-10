@@ -7,6 +7,11 @@ familie: "Veilchengewächse (Violaceae)"
 pflanzenteile: "Kraut"
 tags: ["stiefmütterchen", "haut", "kinder", "milchschorf", "blutreinigung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["hautpflegend", "blutreinigend", "entzündungshemmend", "schleimlösend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/stiefmuetterchen-1.webp"
+bild_nachweis: "Johann Dréo (nojhan), CC BY-SA 1.0"
 ---
 
 # Stiefmütterchen
@@ -37,11 +42,11 @@ Kraut
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Neurodermitis / Ekzem](../beschwerde/neurodermitis.md)
 - [Allergie / Heuschnupfen](../beschwerde/allergie.md)
-- [[ekzeme]]
-- [[milchschorf]]
+- [Ekzeme](../beschwerde/ekzeme.md)
+- [Milchschorf](../beschwerde/milchschorf.md)
 - [Akne / Unreine Haut](../beschwerde/akne.md)
-- [[hautprobleme]]
-- [[blutreinigung]]
+- [Hautprobleme](../beschwerde/hautprobleme.md)
+- [Blutreinigung](../beschwerde/blutreinigung.md)
 
 ## Beschreibung
 
@@ -140,6 +145,20 @@ Das Stiefmütterchen war das "Hautkraut" der Volksmedizin schlechthin. Bei Milch
 ## Mehr dazu
 
 - [Stiefmütterchen bei der Quelle](https://heilkräuter.de/lexikon/stiefm.htm)
+
+## Fotos
+
+![Stiefmütterchen, Foto 1](https://heildepot.wir.ooo/bilder/kraut/stiefmuetterchen-1.webp)
+
+Foto 1: Johann Dréo (nojhan), CC BY-SA 1.0, [Quelle](https://commons.wikimedia.org/wiki/File:Fleur_violette.jpg)
+
+![Stiefmütterchen, Foto 2](https://heildepot.wir.ooo/bilder/kraut/stiefmuetterchen-2.webp)
+
+Foto 2: Ankara, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Majviva2.JPG)
+
+![Stiefmütterchen, Foto 3](https://heildepot.wir.ooo/bilder/kraut/stiefmuetterchen-3.webp)
+
+Foto 3: Vojtěch Zavadil, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:1224-Viola_tricolor_ssp._saxatilis-P%C3%A1lava_4.07.jpg)
 
 ## Im Heildepot
 

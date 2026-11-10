@@ -4,6 +4,8 @@ id: "heiserkeit"
 name: "Heiserkeit / Stimmbandprobleme"
 tags: ["stimme", "kehlkopf", "heiserkeit", "hals", "kommunikation"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Heiserkeit / Stimmbandprobleme

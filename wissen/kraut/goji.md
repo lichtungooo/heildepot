@@ -7,6 +7,11 @@ familie: "Nachtschattengewächse"
 pflanzenteile: "Beeren"
 tags: ["goji", "superfood", "augen", "tcm", "antioxidativ"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["antioxidativ", "immunstärkend", "augenstärkend", "lebertonisch"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/goji-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 3.0"
 ---
 
 # Goji-Beere
@@ -40,6 +45,20 @@ Beeren
 ## Mehr dazu
 
 - [Goji-Beere bei der Quelle](https://heilkräuter.de/lexikon/goji.htm)
+
+## Fotos
+
+![Goji-Beere, Foto 1](https://heildepot.wir.ooo/bilder/kraut/goji-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:LyciumBarbarum-plant-hr.jpg)
+
+![Goji-Beere, Foto 2](https://heildepot.wir.ooo/bilder/kraut/goji-2.webp)
+
+Foto 2: Sten Porse, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Lycium-halimifolium-flower.JPG)
+
+![Goji-Beere, Foto 3](https://heildepot.wir.ooo/bilder/kraut/goji-3.webp)
+
+Foto 3: javier martin, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Lycium_barbarum_Habitus_Miguelturra_CampodeCalatrava.jpg)
 
 ## Im Heildepot
 

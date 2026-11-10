@@ -4,6 +4,8 @@ id: "bandscheibenvorfall"
 name: "Bandscheibenvorfall / Ischias"
 tags: ["rücken", "wirbelsäule", "bandscheibe", "ischias", "nerv", "schmerz"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Bandscheibenvorfall / Ischias

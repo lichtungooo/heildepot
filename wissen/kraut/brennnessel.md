@@ -7,6 +7,11 @@ familie: "Nesselgewächse (Urticaceae)"
 pflanzenteile: "Blätter, Samen, Wurzel"
 tags: ["brennnessel", "eisen", "niere", "rheuma", "entgiftung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["blutreinigend", "harntreibend", "entzündungshemmend", "eisenreich"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/brennnessel-1.webp"
+bild_nachweis: "unbekannt, CC BY-SA 3.0"
 ---
 
 # Brennnessel
@@ -161,6 +166,20 @@ Die Bauern peitschten sich früher mit Brennnesseln bei Rheuma, die Durchblutung
 ## Mehr dazu
 
 - [Brennnessel bei der Quelle](https://heilkräuter.de/lexikon/b-nessel.htm)
+
+## Fotos
+
+![Brennnessel, Foto 1](https://heildepot.wir.ooo/bilder/kraut/brennnessel-1.webp)
+
+Foto 1: unbekannt, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Brennnessel_1.JPG)
+
+![Brennnessel, Foto 2](https://heildepot.wir.ooo/bilder/kraut/brennnessel-2.webp)
+
+Foto 2: No machine-readable author provided. KEBman assumed (based on copyright claims)., Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Brennesler.jpg)
+
+![Brennnessel, Foto 3](https://heildepot.wir.ooo/bilder/kraut/brennnessel-3.webp)
+
+Foto 3: Rasbak at Dutch Wikipedia, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Brandnetel_Grote.jpg)
 
 ## Im Heildepot
 

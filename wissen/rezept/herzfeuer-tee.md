@@ -3,20 +3,22 @@ art: "rezept"
 id: "herzfeuer-tee"
 name: "Herzfeuer-Tee: Öffner des Herzchakras"
 tradition: "Hexenwissen"
-kategorie: "Liebestränke"
 tags: ["herzchakra", "liebestrank", "herzgespann", "rose", "weißdorn", "hexenrezept"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Liebestränke"
 ---
 
 # Herzfeuer-Tee: Öffner des Herzchakras
 
 ## Hilft bei
 
-- [[liebeskummer]]
-- [[herzschmerz]]
-- [[emotionale-blockaden]]
-- [[herzrasen]]
-- [[sich-oeffnen]]
+- [Liebeskummer](../beschwerde/liebeskummer.md)
+- [Herzschmerz](../beschwerde/herzschmerz.md)
+- [Emotionale blockaden](../beschwerde/emotionale-blockaden.md)
+- [Herzrasen](../beschwerde/herzrasen.md)
+- [Sich öffnen](../beschwerde/sich-oeffnen.md)
 
 ## Schwierigkeit
 

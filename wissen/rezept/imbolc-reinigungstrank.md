@@ -3,22 +3,24 @@ art: "rezept"
 id: "imbolc-reinigungstrank"
 name: "Imbolc-Reinigungstrank: Erwachen aus dem Winterschlaf"
 tradition: "Hexenwissen"
-kategorie: "Jahreskreis-Rezepte"
 tags: ["jahreskreis", "imbolc", "frühling", "wildkräuter", "hexenwissen", "reinigung", "brigid"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Jahreskreis-Rezepte"
 ---
 
 # Imbolc-Reinigungstrank: Erwachen aus dem Winterschlaf
 
 ## Hilft bei
 
-- [[fruehjahrskur]]
-- [[entgiftung]]
-- [[frühjahrsmüdigkeit]]
-- [[reinigung]]
+- [Frühjahrskur](../beschwerde/fruehjahrskur.md)
+- [Niere / Blase / Harnwege](../beschwerde/niere.md)
+- [Frühjahrsmüdigkeit](../beschwerde/fruehjahrsmuedigkeit.md)
+- [Parasiten / Würmer / Darmparasiten](../beschwerde/parasiten.md)
 - [Leber / Galle](../beschwerde/leber.md)
 - [Niere / Blase / Harnwege](../beschwerde/niere.md)
-- [[stoffwechsel]]
+- [Diabetes](../beschwerde/diabetes.md)
 
 ## Schwierigkeit
 

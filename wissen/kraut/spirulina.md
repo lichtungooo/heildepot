@@ -7,6 +7,11 @@ familie: "Cyanobakterie (Oscillatoriaceae)"
 pflanzenteile: "Ganze Alge"
 tags: ["spirulina", "alge", "protein", "entgiftung", "eisen"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["nährstoffreich", "immunstärkend", "entgiftend", "antioxidativ"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/spirulina-1.webp"
+bild_nachweis: "Original uploader was Perdita at the English Wikipedia, Public domain"
 ---
 
 # Spirulina
@@ -38,10 +43,10 @@ Ganze Alge
 - [Eisenmangel / Blutarmut / Anämie](../beschwerde/eisenmangel.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
 - [Allergie / Heuschnupfen](../beschwerde/allergie.md)
-- [[sport]]
-- [[mangelernaehrung]]
+- [Sport](../beschwerde/sport.md)
+- [Mangelernährung](../beschwerde/mangelernaehrung.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
-- [[cholesterin]]
+- [Cholesterin](../beschwerde/cholesterin.md)
 
 ## Beschreibung
 
@@ -144,6 +149,20 @@ Die Kanembu am Tschadsee sagen: "Dihe (Spirulina) ist die Nahrung unserer Vorfah
 ## Mehr dazu
 
 - [Spirulina bei der Quelle](https://heilkräuter.de/lexikon/spirulina.htm)
+
+## Fotos
+
+![Spirulina, Foto 1](https://heildepot.wir.ooo/bilder/kraut/spirulina-1.webp)
+
+Foto 1: Original uploader was Perdita at the English Wikipedia, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Spirulina_tablets.jpg)
+
+![Spirulina, Foto 2](https://heildepot.wir.ooo/bilder/kraut/spirulina-2.webp)
+
+Foto 2: Kristian Peters http://www.korseby.net/outer/flora/algae/index.html, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Spirulina_subsalsa.jpeg)
+
+![Spirulina, Foto 3](https://heildepot.wir.ooo/bilder/kraut/spirulina-3.webp)
+
+Foto 3: Music4thekids, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Spirulina-powder-shadow.jpg)
 
 ## Im Heildepot
 

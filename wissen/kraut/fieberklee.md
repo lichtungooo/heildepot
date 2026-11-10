@@ -7,6 +7,11 @@ familie: "Fieberkleegewächse (Menyanthaceae)"
 pflanzenteile: "Blätter"
 tags: ["fieberklee", "bitterstoffe", "appetit", "verdauung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "appetitanregend", "fiebersenkend", "gallefördernd"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/fieberklee-1.webp"
+bild_nachweis: "Fotograf/Zeichner: Martin Zahnd, CC BY-SA 2.0 de"
 ---
 
 # Fieberklee
@@ -37,11 +42,11 @@ Blätter
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
 - [Grippe](../beschwerde/grippe.md)
-- [[appetitlosigkeit]]
-- [[verdauungsschwaeche]]
-- [[magenbeschwerden]]
-- [[gallenschwaeche]]
-- [[rekonvaleszenz]]
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
+- [Verdauungsschwäche](../beschwerde/verdauungsschwaeche.md)
+- [Magenbeschwerden](../beschwerde/magenbeschwerden.md)
+- [Gallenschwäche](../beschwerde/gallenschwaeche.md)
+- [Rekonvaleszenz](../beschwerde/rekonvaleszenz.md)
 
 ## Beschreibung
 
@@ -139,6 +144,20 @@ In der Volksmedizin galt der Fieberklee als "Magenwecker" und wurde bei jeder Ar
 ## Mehr dazu
 
 - [Fieberklee bei der Quelle](https://heilkräuter.de/lexikon/fieberkl.htm)
+
+## Fotos
+
+![Fieberklee, Foto 1](https://heildepot.wir.ooo/bilder/kraut/fieberklee-1.webp)
+
+Foto 1: Fotograf/Zeichner: Martin Zahnd, CC BY-SA 2.0 de, [Quelle](https://commons.wikimedia.org/wiki/File:Fieberklee2.jpg)
+
+![Fieberklee, Foto 2](https://heildepot.wir.ooo/bilder/kraut/fieberklee-2.webp)
+
+Foto 2: unbekannt, CC BY-SA 2.0 de, [Quelle](https://commons.wikimedia.org/wiki/File:Fieberklee2_bright.jpg)
+
+![Fieberklee, Foto 3](https://heildepot.wir.ooo/bilder/kraut/fieberklee-3.webp)
+
+Foto 3: Anneli Salo, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Menyanthes_trifoliata_Raate_Ollilanlammella_V08_H4035.jpg)
 
 ## Im Heildepot
 

@@ -7,6 +7,11 @@ familie: "Berberitzengewächse (Berberidaceae)"
 pflanzenteile: "Beeren, Wurzelrinde"
 tags: ["berberitze", "leber", "berberin", "galle", "verdauung"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["leberschützend", "gallefördernd", "entzündungshemmend", "antimikrobiell"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/berberitze-1.webp"
+bild_nachweis: "Sten Porse, CC BY-SA 3.0"
 ---
 
 # Berberitze
@@ -39,10 +44,10 @@ Beeren, Wurzelrinde
 - [Fettleber / Leberverfettung](../beschwerde/fettleber.md)
 - [Gallensteine / Gallenkolik](../beschwerde/gallensteine.md)
 - [Diabetes](../beschwerde/diabetes.md)
-- [[cholesterin]]
-- [[galle]]
-- [[infekte]]
-- [[darm]]
+- [Cholesterin](../beschwerde/cholesterin.md)
+- [Leber / Galle](../beschwerde/leber.md)
+- [Infekte](../beschwerde/infekte.md)
+- [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 
 ## Beschreibung
@@ -145,6 +150,20 @@ Persische Hausfrauen kochen seit Jahrhunderten mit getrockneten Berberitzen. Im 
 ## Mehr dazu
 
 - [Berberitze bei der Quelle](https://heilkräuter.de/lexikon/berberitze.htm)
+
+## Fotos
+
+![Berberitze, Foto 1](https://heildepot.wir.ooo/bilder/kraut/berberitze-1.webp)
+
+Foto 1: Sten Porse, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Berberis-vulgaris-flowers.jpg)
+
+![Berberitze, Foto 2](https://heildepot.wir.ooo/bilder/kraut/berberitze-2.webp)
+
+Foto 2: Teun Spaans, CC BY 2.5, [Quelle](https://commons.wikimedia.org/wiki/File:Zuurbes_R0021686.JPG)
+
+![Berberitze, Foto 3](https://heildepot.wir.ooo/bilder/kraut/berberitze-3.webp)
+
+Foto 3: Karl Gruber, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Berberitze_Fr%C3%BCchte.jpg)
 
 ## Im Heildepot
 

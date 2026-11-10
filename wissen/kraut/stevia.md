@@ -7,6 +7,11 @@ familie: "Korbblütler (Asteraceae)"
 pflanzenteile: "Blätter"
 tags: ["stevia", "süßstoff", "diabetes", "kalorienfrei", "zähne"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["süßend", "blutzuckerregulierend", "zahnfreundlich", "blutdrucksenkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/stevia-1.webp"
+bild_nachweis: "Sten Porse, CC BY-SA 3.0"
 ---
 
 # Stevia
@@ -38,7 +43,7 @@ Blätter
 - [Übergewicht / Stoffwechsel](../beschwerde/uebergewicht.md)
 - [Zähne / Mundraum / Zahnfleisch](../beschwerde/zaehne.md)
 - [Bluthochdruck / Herz-Kreislauf](../beschwerde/bluthochdruck.md)
-- [[zucker_reduktion]]
+- [Zucker reduktion](../beschwerde/zucker-reduktion.md)
 - [Hautthemen / Neurodermitis](../beschwerde/haut.md)
 - [Sodbrennen / Reflux](../beschwerde/sodbrennen.md)
 
@@ -138,6 +143,20 @@ Die Guarani verwenden Stevia nicht nur als Süßmittel, sondern auch als Herzton
 ## Mehr dazu
 
 - [Stevia bei der Quelle](https://heilkräuter.de/lexikon/stevia.htm)
+
+## Fotos
+
+![Stevia, Foto 1](https://heildepot.wir.ooo/bilder/kraut/stevia-1.webp)
+
+Foto 1: Sten Porse, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Stevia-rebaudiana-total.JPG)
+
+![Stevia, Foto 2](https://heildepot.wir.ooo/bilder/kraut/stevia-2.webp)
+
+Foto 2: Crobray, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Stevia2.JPG)
+
+![Stevia, Foto 3](https://heildepot.wir.ooo/bilder/kraut/stevia-3.webp)
+
+Foto 3: Thesupermat, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Salon_de_l%27agriculture_2011_-_Stevia_-_03.jpg)
 
 ## Im Heildepot
 

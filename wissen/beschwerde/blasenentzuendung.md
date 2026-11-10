@@ -4,6 +4,8 @@ id: "blasenentzuendung"
 name: "Blasenentzündung / Harnwegsinfekt"
 tags: ["blasenentzündung", "harnwegsinfekt", "zystitis", "blase", "brennen", "harndrang"]
 quelle: "heildepot"
+kategorie: "Krankheitsbilder"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krankheitsbilder-800.webp"
 ---
 
 # Blasenentzündung / Harnwegsinfekt

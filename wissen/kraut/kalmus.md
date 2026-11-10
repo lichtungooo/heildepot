@@ -7,6 +7,11 @@ familie: "Kalmusgewächse (Acoraceae)"
 pflanzenteile: "Wurzelstock"
 tags: ["kalmus", "magen", "appetit", "verdauung", "ayurveda"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["verdauungsfördernd", "appetitanregend", "krampflösend", "magenstärkend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/kalmus-1.webp"
+bild_nachweis: "H. Zell, CC BY-SA 3.0"
 ---
 
 # Kalmus
@@ -37,11 +42,11 @@ Wurzelstock
 - [Verdauung / Reizdarm](../beschwerde/verdauung.md)
 - [Reizdarm / IBS](../beschwerde/reizdarm.md)
 - [Chronische Müdigkeit / CFS / Energiemangel](../beschwerde/erschoepfung.md)
-- [[appetitlosigkeit]]
+- [Appetitlosigkeit](../beschwerde/appetitlosigkeit.md)
 - [Blähungen / Flatulenz / Völlegefühl](../beschwerde/blaehungen.md)
-- [[uebelkeit]]
-- [[konzentration]]
-- [[nervositaet]]
+- [Übelkeit](../beschwerde/uebelkeit.md)
+- [ADHS / Konzentrationsstörungen](../beschwerde/adhs.md)
+- [Nervosität](../beschwerde/nervositaet.md)
 
 ## Beschreibung
 
@@ -139,6 +144,20 @@ Kinder, die unter Bauchschmerzen litten, bekamen früher ein Stück Kalmuswurzel
 ## Mehr dazu
 
 - [Kalmus bei der Quelle](https://heilkräuter.de/lexikon/kalmus.htm)
+
+## Fotos
+
+![Kalmus, Foto 1](https://heildepot.wir.ooo/bilder/kraut/kalmus-1.webp)
+
+Foto 1: H. Zell, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Acorus_calamus_001.JPG)
+
+![Kalmus, Foto 2](https://heildepot.wir.ooo/bilder/kraut/kalmus-2.webp)
+
+Foto 2: Krzysztof Ziarnek, Kenraiz, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Acorus_calamus_kz1.JPG)
+
+![Kalmus, Foto 3](https://heildepot.wir.ooo/bilder/kraut/kalmus-3.webp)
+
+Foto 3: Atudu, CC BY-SA 4.0, [Quelle](https://commons.wikimedia.org/wiki/File:Acorus_calamus_DSC_0176.JPG)
 
 ## Im Heildepot
 

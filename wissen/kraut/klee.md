@@ -7,6 +7,11 @@ familie: "Hülsenfrüchtler"
 pflanzenteile: "Blütenköpfe"
 tags: ["rotklee", "wechseljahre", "östrogen", "haut", "isoflavone"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["östrogenartig", "blutreinigend", "schleimlösend", "hautpflegend"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/klee-1.webp"
+bild_nachweis: "Snezana Trifunovic, Public domain"
 ---
 
 # Rotklee
@@ -40,6 +45,20 @@ Blütenköpfe
 ## Mehr dazu
 
 - [Rotklee bei der Quelle](https://heilkräuter.de/lexikon/rotklee.htm)
+
+## Fotos
+
+![Rotklee, Foto 1](https://heildepot.wir.ooo/bilder/kraut/klee-1.webp)
+
+Foto 1: Snezana Trifunovic, Public domain, [Quelle](https://commons.wikimedia.org/wiki/File:Red_clover_in_Zlatibor.jpg)
+
+![Rotklee, Foto 2](https://heildepot.wir.ooo/bilder/kraut/klee-2.webp)
+
+Foto 2: dontworry, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Kleebluete001.jpg)
+
+![Rotklee, Foto 3](https://heildepot.wir.ooo/bilder/kraut/klee-3.webp)
+
+Foto 3: Remi Jouan, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Red_clover.jpg)
 
 ## Im Heildepot
 

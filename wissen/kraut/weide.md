@@ -7,6 +7,11 @@ familie: "Weidengewächse (Salicaceae)"
 pflanzenteile: "Rinde"
 tags: ["weide", "schmerzen", "fieber", "kopfschmerzen", "gelenke"]
 quelle: "heildepot"
+kategorie: "Heilkräuter"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/krauter-800.webp"
+wirkung: ["schmerzlindernd", "fiebersenkend", "entzündungshemmend", "antirheumatisch"]
+bild: "https://heildepot.wir.ooo/bilder/kraut/weide-1.webp"
+bild_nachweis: "Uwe Hermann, CC BY-SA 3.0"
 ---
 
 # Weide
@@ -39,9 +44,9 @@ Rinde
 - [Grippe](../beschwerde/grippe.md)
 - [Gelenkschmerzen / Arthrose](../beschwerde/arthrose.md)
 - [Rückenschmerzen](../beschwerde/rueckenschmerzen.md)
-- [[fieber]]
+- [Grippe](../beschwerde/grippe.md)
 - [Rheuma / Gicht](../beschwerde/rheuma.md)
-- [[gelenke]]
+- [Gelenkschmerzen / Arthrose](../beschwerde/arthrose.md)
 - [Chronische Entzündungen (allgemein)](../beschwerde/entzuendung.md)
 
 ## Beschreibung
@@ -138,6 +143,20 @@ Auf dem Land kauten Menschen bei Zahnschmerzen und Kopfweh auf einem Stück Weid
 ## Mehr dazu
 
 - [Weide bei der Quelle](https://heilkräuter.de/lexikon/weide.htm)
+
+## Fotos
+
+![Weide, Foto 1](https://heildepot.wir.ooo/bilder/kraut/weide-1.webp)
+
+Foto 1: Uwe Hermann, CC BY-SA 3.0, [Quelle](https://commons.wikimedia.org/wiki/File:Autumn_tree.jpg)
+
+![Weide, Foto 2](https://heildepot.wir.ooo/bilder/kraut/weide-2.webp)
+
+Foto 2: Jonathan Billinger, CC BY-SA 2.0, [Quelle](https://commons.wikimedia.org/wiki/File:Group_of_Salix_alba_-_geograph.org.uk_-_841570.jpg)
+
+![Weide, Foto 3](https://heildepot.wir.ooo/bilder/kraut/weide-3.webp)
+
+Foto 3: AnRo0002, CC0, [Quelle](https://commons.wikimedia.org/wiki/File:20110716Salix_alba.jpg)
 
 ## Im Heildepot
 

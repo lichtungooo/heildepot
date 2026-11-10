@@ -3,21 +3,23 @@ art: "rezept"
 id: "alraune-liebesmagie"
 name: "Alraunenwurzel: Die mächtigste Liebespflanze des Mittelalters"
 tradition: "Grimoire"
-kategorie: "Liebesmagie"
 tags: ["Alraune", "Mandragora", "Liebesmagie", "Nachtschatten", "Tropanalkaloide", "Mittelalter", "Volksglaube", "Giftig", "Aphrodisiakum", "Galgenmännchen"]
 quelle: "heildepot"
+kategorie: "Hexenwissen & Alchemie"
+kategorie_bild: "https://heildepot.wir.ooo/bilder/hexenwissen-800.webp"
+gruppe: "Liebesmagie"
 ---
 
 # Alraunenwurzel: Die mächtigste Liebespflanze des Mittelalters
 
 ## Hilft bei
 
-- [[Alraune]]
-- [[Mandragora]]
-- [[Liebesmagie]]
-- [[Nachtschatten]]
-- [[Hexenpflanze]]
-- [[Aphrodisiakum]]
+- [Alraune](../beschwerde/alraune.md)
+- [Mandragora](../beschwerde/mandragora.md)
+- [Liebesmagie](../beschwerde/liebesmagie.md)
+- [Nachtschatten](../beschwerde/nachtschatten.md)
+- [Hexenpflanze](../beschwerde/hexenpflanze.md)
+- [Aphrodisiakum](../beschwerde/aphrodisiakum.md)
 
 ## Schwierigkeit
 
