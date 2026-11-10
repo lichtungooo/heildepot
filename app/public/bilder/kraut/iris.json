@@ -1,0 +1,23 @@
+[
+ {
+  "datei": "iris-1.webp",
+  "titel": "Iris germanica 001.jpg",
+  "autor": "Za",
+  "lizenz": "CC BY-SA 3.0",
+  "quelle": "https://commons.wikimedia.org/wiki/File:Iris_germanica_001.jpg"
+ },
+ {
+  "datei": "iris-2.webp",
+  "titel": "Ruhland, Grenzstr. 3, Deutsche Schwertlilie im Garten, Blüte, Frühling, 02.jpg",
+  "autor": "Wilhelm Zimmerling PAR",
+  "lizenz": "CC BY-SA 4.0",
+  "quelle": "https://commons.wikimedia.org/wiki/File:Ruhland,_Grenzstr._3,_Deutsche_Schwertlilie_im_Garten,_Bl%C3%BCte,_Fr%C3%BChling,_02.jpg"
+ },
+ {
+  "datei": "iris-3.webp",
+  "titel": "00 1238 Deutsche Schwertlilie (Iris × germanica).jpg",
+  "autor": "W. Bulach",
+  "lizenz": "CC BY-SA 4.0",
+  "quelle": "https://commons.wikimedia.org/wiki/File:00_1238_Deutsche_Schwertlilie_(Iris_%C3%97_germanica).jpg"
+ }
+]
