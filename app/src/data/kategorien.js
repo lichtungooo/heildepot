@@ -1,5 +1,5 @@
 // Die Hauptkategorien des Heildepots, eine Quelle für Startseite und Lexikon.
-// bild: Name unter public/bilder/ (je -800.webp und -1600.webp), Nachweis in bildquellen.json
+// bild: Name unter public/bilder/ (je -800.webp und -1600.webp, dazu -2.webp und -3.webp), Nachweis in bildquellen.json
 import { ALL_CONDITIONS, HERBS, PRODUCTS, FASTING_METHODS, NUTRITION_STYLES, TOPICS, KRAEUTERMISCHUNGEN, SALBEN_REZEPTE, TINKTUREN_REZEPTE, ALCHEMIE, HEXENWISSEN_ANLEITUNGEN, HEXENREZEPTE, BEWUSSTSEINS_PFLANZEN, ZIRBELDRUESE_WISSEN, ZIRBELDRUESE_REZEPTE, ALCHEMIE_DEEP, KLOSTERMEDIZIN, GRIMOIRE_REZEPTE, SUCHTFORMEN, HEILANSAETZE_SUCHT } from './index'
 
 const n = a => (a || []).length
@@ -81,3 +81,6 @@ export const KATEGORIEN = [
 
 export const bildPfad = (name, breite = 800) => `/bilder/${name}-${breite}.webp`
 export const bildSrcSet = name => `${bildPfad(name, 800)} 800w, ${bildPfad(name, 1600)} 1600w`
+// Die drei Fotos einer Kategorie für die Reihe unter dem Kopf; -2 und -3 sind 640 × 480.
+export const MIT_REIHE = ['krankheitsbilder', 'krauter', 'fasten', 'ernaehrung', 'hexenwissen', 'sucht', 'produkte']
+export const reihenBilder = name => (MIT_REIHE.includes(name) ? [bildPfad(name, 800), `/bilder/${name}-2.webp`, `/bilder/${name}-3.webp`] : [])
