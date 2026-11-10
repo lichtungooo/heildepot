@@ -34,7 +34,14 @@ FREI = re.compile(r"^(cc0|public domain|pd\b|cc by(-sa)? \d)", re.I)
 DRAUSSEN = re.compile(r"herbar|specimen|sheet|illustra|drawing|zeichnung|plate|tafel|k[oö]hler|thom[eé]|"
                       r"map|karte|distribution|verbreitung|diagram|structure|formula|molecule|stamp|"
                       r"briefmarke|logo|icon|label|etikett|book|buch|page|seite|scan|microscop|pollen|\bseed bank|"
-                      r"illustration|botanical|curtis|flora von|flore|bilderatlas|woodcut|holzschnitt", re.I)
+                      r"illustration|botanical|curtis|flora von|flore|bilderatlas|woodcut|holzschnitt|mnhn|bot\. reg|puccinia", re.I)
+# Wo der lateinische Name allein nichts findet: eigener Suchbegriff je Kraut.
+SUCHE = {"heublumen": "hay meadow flowers", "jaborandistrauch": "Pilocarpus", "asant": "Ferula asafoetida",
+         "gelbholz": "Zanthoxylum americanum", "spirulina": "Spirulina"}
+# Fotos, die zum Kraut wenig zeigen (Straße, Fluss, Gebäude), bleiben draußen; ein Teil des Titels genügt.
+WEG = {"Chapel Amble.jpg", "Ferula communis2.jpg", "20081103",
+       "Farm Machinery in the Meadow. - geograph.org.uk - 172391.jpg"}
+UMLAUTE = str.maketrans({"ä": "ae", "ö": "oe", "ü": "ue", "Ä": "Ae", "Ö": "Oe", "Ü": "Ue"})
 
 
 def anfrage(params):
@@ -50,14 +57,14 @@ def anfrage(params):
     return {}
 
 
-def kandidaten(latein):
-    art = " ".join(latein.replace("×", "").split()[:2])
+def kandidaten(latein, suche=None):
+    art = suche or " ".join(latein.replace("×", "").translate(UMLAUTE).split()[:2])
     titel = []
     d = anfrage({"action": "query", "list": "categorymembers", "cmtitle": f"Category:{art}", "cmtype": "file", "cmlimit": "60"})
     titel += [m["title"] for m in d.get("query", {}).get("categorymembers", [])]
     if len(titel) < 8:
         d = anfrage({"action": "query", "list": "search", "srnamespace": "6", "srlimit": "30",
-                     "srsearch": f'"{art}" filetype:bitmap'})
+                     "srsearch": f'{art} filetype:bitmap' if suche else f'"{art}" filetype:bitmap'})
         titel += [m["title"] for m in d.get("query", {}).get("search", []) if m["title"] not in titel]
     return [t for t in titel if re.search(r"\.(jpe?g)$", t, re.I) and not DRAUSSEN.search(t)]
 
@@ -92,7 +99,7 @@ def auswahl(seiten, anzahl=3):
         ii = (s.get("imageinfo") or [{}])[0]
         meta = ii.get("extmetadata") or {}
         lizenz = text(meta, "LicenseShortName")
-        if not FREI.search(lizenz) or ii.get("mime") != "image/jpeg":
+        if any(w in s["title"] for w in WEG) or not FREI.search(lizenz) or ii.get("mime") != "image/jpeg":
             continue
         if ii.get("width", 0) < 600 or ii.get("width", 0) < ii.get("height", 0) * 0.6:
             continue
@@ -141,7 +148,7 @@ def kraut(k):
     nachweis = ZIEL / f"{k['id']}.json"
     if nachweis.exists():
         return k["id"], "da"
-    bilder = auswahl(infos(kandidaten(k["latein"])))
+    bilder = auswahl(infos(kandidaten(k["latein"], SUCHE.get(k["id"]))))
     liste = []
     for i, b in enumerate(bilder, 1):
         roh = laden(b.pop("url"))

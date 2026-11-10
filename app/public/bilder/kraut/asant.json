@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "datei": "asant-1.webp",
+  "titel": "Ferula communis 2008.jpg",
+  "autor": "Jean-Pol GRANDMONT",
+  "lizenz": "CC BY 3.0",
+  "quelle": "https://commons.wikimedia.org/wiki/File:Ferula_communis_2008.jpg"
+ },
+ {
+  "datei": "asant-2.webp",
+  "titel": "Ferula assa-foetida 0zz.jpg",
+  "autor": "Photo by David J. Stang",
+  "lizenz": "CC BY-SA 4.0",
+  "quelle": "https://commons.wikimedia.org/wiki/File:Ferula_assa-foetida_0zz.jpg"
+ },
+ {
+  "datei": "asant-3.webp",
+  "titel": "Asafoetida culture in South Khorasan 4.jpg",
+  "autor": "Tricholome",
+  "lizenz": "CC BY-SA 4.0",
+  "quelle": "https://commons.wikimedia.org/wiki/File:Asafoetida_culture_in_South_Khorasan_4.jpg"
+ }
+]
