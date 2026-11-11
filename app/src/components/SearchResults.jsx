@@ -3,6 +3,7 @@ import { ProductCard } from './ProductCard'
 import { Accordion } from './Accordion'
 import { Hash, Leaf, Utensils, Clock, ChevronRight, BookOpen, FlaskConical, HeartHandshake } from 'lucide-react'
 import { Fragment } from 'react'
+import { WissenTreffer } from './WissenTreffer'
 import { getHerbDeep, ALL_CONDITIONS, falte } from '../data'
 
 export function SearchResults({ query, condResults, prodResults, herbResults, fastResults, nutriResults, topicResults, hexenResults, suchtResults, onSelectCondition, onSelectProduct, onAddToCart, onSearch }) {
@@ -496,6 +497,8 @@ export function SearchResults({ query, condResults, prodResults, herbResults, fa
     return stufe
   }
   const ABSCHNITTE = { Topics: ABSCHNITT_Topics, Hexen: ABSCHNITT_Hexen, Nutrition: ABSCHNITT_Nutrition, Fasting: ABSCHNITT_Fasting, Herbs: ABSCHNITT_Herbs, Products: ABSCHNITT_Products, Sucht: ABSCHNITT_Sucht, Conditions: ABSCHNITT_Conditions }
+  // Was die Suche im Browser schon zeigt, zeigt der Wissensindex nicht noch einmal.
+  const schonDa = Object.values(namen).flat().map(([n]) => falte(n || '')).filter(Boolean).join('\n')
   const reihenfolge = GRUND.filter(k => ABSCHNITTE[k]).sort((a, b) => guete(b) - guete(a) || GRUND.indexOf(a) - GRUND.indexOf(b))
 
   return (
@@ -504,12 +507,14 @@ export function SearchResults({ query, condResults, prodResults, herbResults, fa
       <h1 className="text-3xl sm:text-4xl text-green-dark mb-8">{query}</h1>
 
       {!hasAnything && (
-        <div className="text-center py-12">
-          <p className="text-text-muted">Zu „{query}“ ist noch nichts im Depot. Probier ein verwandtes Wort, etwa eine Pflanze oder ein Körperteil.</p>
+        <div className="text-center py-8">
+          <p className="text-text-muted">Unter genau diesem Wort steht nichts im Depot. Probier ein verwandtes Wort, etwa eine Pflanze oder ein Körperteil.</p>
         </div>
       )}
 
       {reihenfolge.map(k => <Fragment key={k}>{ABSCHNITTE[k]}</Fragment>)}
+
+      <WissenTreffer query={query} schonDa={schonDa} onSearch={onSearch} />
 
 
 
