@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "wissen": "node scripts/wissen.mjs",
-    "test": "node --test scripts/wissen.test.mjs && node scripts/wissen.mjs --pruefen"
+    "test": "node --test scripts/wissen.test.mjs scripts/wissen-index.test.mjs && node scripts/wissen.mjs --pruefen"
   },
   "dependencies": {
     "lucide-react": "^1.7.0",
